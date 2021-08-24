@@ -5,6 +5,7 @@ import pathlib
 import yake
 import subprocess
 import logging
+from bs4 import BeautifulSoup
 logging.basicConfig(level=logging.INFO)
 # All the functions
 def querying_pygetpapers_sectioning(query, hits, output_directory, using_terms = False, terms_txt=None):
@@ -27,7 +28,7 @@ def querying_pygetpapers_sectioning(query, hits, output_directory, using_terms =
     logging.info('running ami section')
     subprocess.run(f'ami -p {output_directory} section', shell=True)
 
-def parse_xml(output_directory, results_txt, body_section='method'):
+def parse_xml(output_directory, results_txt, body_section='figure'):
     """globs the specified section parsed xml and dumps the text to a file
 
     Args:
@@ -38,14 +39,18 @@ def parse_xml(output_directory, results_txt, body_section='method'):
     WORKING_DIRECTORY = os.getcwd()
     glob_results = glob.glob(os.path.join(WORKING_DIRECTORY,
                                           output_directory,"*", "sections",
-                                          "**", f"*{body_section}*","**" ,"*_p.xml"), recursive = True)
+                                          "**", f"*{body_section}*.xml"), recursive = True)
     logging.info(f'globbed_xml: {glob_results}')
     file1 = open(results_txt,"w+", encoding='utf-8')
     for result in glob_results:
         tree = ET.parse(result)
         root = tree.getroot()
-        for para in root.iter('p'):
-            print (para.text, file = file1) 
+        xmlstr = ET.tostring(root, encoding='utf8', method='xml')
+        soup = BeautifulSoup(xmlstr, features='lxml')
+        text = soup.get_text(separator="")
+        text = text.replace(
+            '\n', '')
+        print(text, file = file1)
     logging.info(f'wrote text to {results_txt}')
    
 def key_phrase_extraction(results_txt, terms_txt):
@@ -56,28 +61,29 @@ def key_phrase_extraction(results_txt, terms_txt):
         terms_txt (str): name of text file with comma-separated extracted key phrases
     """
     text = pathlib.Path(results_txt).read_text(encoding='utf-8')
-    kw_extractor = yake.KeywordExtractor()
-    keywords = kw_extractor.extract_keywords(text)
+    custom_kw_extractor = yake.KeywordExtractor(lan='en', n=2, top=50, features=None)
+    keywords = custom_kw_extractor.extract_keywords(text)
+
     keywords_list = []
     for kw in keywords:
         keywords_list.append(kw[0])
     logging.info('extracted key phrases')
     keywords_list_string = ', '.join(str(i) for i in keywords_list)
-    with open(terms_txt, 'w') as fo:
+    with open(terms_txt, 'w', encoding='utf-8') as fo:
         fo.write(keywords_list_string)
     logging.info(f'wrote the phrases to {terms_txt}')
 
 # Defining all variables
-OD_QUERY = 'cyclic voltammetry'
-OD_HITS = '5'
-OD_OUTPUT='cyclic_voltammetry_20210823'
-OD_RESULTS= 'cyclic_volammtery.txt'
-OD_TERMS = 'terms.txt'
+OD_QUERY = '(cyclic voltammetry) AND batteries'
+OD_HITS = '50'
+OD_OUTPUT='cyclic_voltammetry_20210824_1'
+OD_RESULTS= 'cyclic_volammtery_1.txt'
+OD_TERMS = 'terms_1.txt'
 OD_OUTPUT_2 = 'cyclic_voltammetry_2'
-OD_RESULTS_2= 'cyclic_volammtery_2.txt'
+#OD_RESULTS_2= 'cyclic_volammtery_2.txt'
 
 
-querying_pygetpapers_sectioning(OD_QUERY, OD_HITS, OD_OUTPUT)
+#uerying_pygetpapers_sectioning(OD_QUERY, OD_HITS, OD_OUTPUT)
 parse_xml(OD_OUTPUT,OD_RESULTS)
 key_phrase_extraction(OD_RESULTS, OD_TERMS)
 #querying_pygetpapers_sectioning(OD_QUERY, OD_HITS, OD_OUTPUT_2, using_terms=True, terms_txt=OD_TERMS)
