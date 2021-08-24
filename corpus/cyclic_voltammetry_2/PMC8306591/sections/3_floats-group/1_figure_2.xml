@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="molecules-26-04188-f002" orientation="portrait" position="float">
+ <label>Figure 2</label>
+ <caption>
+  <p>XRD patterns of ALD ZnO-coated AC under different conditions: (
+   <bold>a</bold>) 100 ms at 120 °C for 2 and 6 cycles; (
+   <bold>b</bold>) 100 ms and 400 ms at 70 °C for 20 cycles; 
+   <bold>(c</bold>) 400 ms at 150 °C for 7, 20, and 50 cycles; (
+   <bold>d</bold>) pulse time of 400 ms for 20 cycles, at 70, 120, and 150 °C.
+  </p>
+ </caption>
+ <graphic xlink:href="molecules-26-04188-g002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

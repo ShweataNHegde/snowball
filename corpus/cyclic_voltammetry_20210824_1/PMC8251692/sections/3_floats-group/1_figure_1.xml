@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>(a) N
+   <sub>2</sub> adsorption/desorption isotherm at 77 K and (b) pore size distribution and cumulative pore volume calculated by QSDFT from the N
+   <sub>2</sub> adsorption branch at 77 K of CafNC, KC, and N-KC.
+  </p>
+ </caption>
+ <graphic xlink:href="am1c06013_0002" id="gr1" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

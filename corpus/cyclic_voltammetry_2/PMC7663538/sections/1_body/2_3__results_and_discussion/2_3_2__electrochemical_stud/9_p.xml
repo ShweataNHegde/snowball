@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The energy and power densities for two-electrode SC configuration can be estimated from the following Equations [
+ <xref rid="B26-materials-13-04906" ref-type="bibr">26</xref>]:
+ <disp-formula id="FD8-materials-13-04906">
+  <label>(8)</label>
+  <math id="mm19">
+   <mrow>
+    <mrow>
+     <mi>E</mi>
+     <mo> </mo>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mi>W</mi>
+       <mi>h</mi>
+       <mo>/</mo>
+       <mi>K</mi>
+       <mi>g</mi>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mo> </mo>
+     <mo>=</mo>
+     <mo> </mo>
+     <mi>C</mi>
+     <mi>s</mi>
+     <mo> </mo>
+     <mo> </mo>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mi>F</mi>
+       <mo>/</mo>
+       <mi>g</mi>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mo> </mo>
+     <mo>Δ</mo>
+     <msup>
+      <mi>V</mi>
+      <mn>2</mn>
+     </msup>
+     <mo> </mo>
+     <mrow>
+      <mo>(</mo>
+      <mi>v</mi>
+      <mo>)</mo>
+     </mrow>
+     <mo>÷</mo>
+     <mn>7.2</mn>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+ <disp-formula id="FD9-materials-13-04906">
+  <label>(9)</label>
+  <math id="mm199">
+   <mrow>
+    <mrow>
+     <mi>P</mi>
+     <mo> </mo>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mi>W</mi>
+       <mo>/</mo>
+       <mi>K</mi>
+       <mi>g</mi>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mo> </mo>
+     <mo>=</mo>
+     <mo> </mo>
+     <mfrac>
+      <mrow>
+       <mi>E</mi>
+       <mo> </mo>
+       <mo>(</mo>
+       <mrow>
+        <mi>W</mi>
+        <mi>h</mi>
+        <mo>/</mo>
+        <mi>K</mi>
+        <mi>g</mi>
+       </mrow>
+       <mo>)</mo>
+      </mrow>
+      <mrow>
+       <mo>Δ</mo>
+       <mi>t</mi>
+       <mo> </mo>
+       <mo>(</mo>
+       <mi>s</mi>
+       <mo>)</mo>
+      </mrow>
+     </mfrac>
+     <mo> </mo>
+     <mo>×</mo>
+     <mo> </mo>
+     <mn>3600</mn>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+</p>

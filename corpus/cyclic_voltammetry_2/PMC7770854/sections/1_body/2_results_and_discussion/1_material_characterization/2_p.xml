@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par17">To evaluate Zn
+ <sup>2+</sup>-storage ability of the above MOF materials as ZIB cathodes, cyclic voltammetry (CV) and galvanostatic charge–discharge (GCD) tests were conducted in 2 M ZnSO
+ <sub>4</sub> aqueous electrolyte. These MOF materials are selected as ZIB cathodes because the transition metal centers of Mn, Fe, Co, and V have proved to be active sites in electrochemical energy storage systems [
+ <xref ref-type="bibr" rid="CR56">56</xref>–
+ <xref ref-type="bibr" rid="CR60">60</xref>]. Meanwhile, BDC and BTC ligands are conventional ligands for MOF materials, and their lightweight feature is beneficial for the MOF materials to achieve a higher theoretical capacity considering that ligands usually cannot be redox sites for metal-ion storage [
+ <xref ref-type="bibr" rid="CR61">61</xref>]. Corresponding CV curves are shown in Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>a–e. For the Mn(BTC) cathode, it can operate in a voltage window of 1.0–1.9 V (vs. Zn
+ <sup>2+</sup>/Zn), and reversible redox peaks are observed on the CV curves (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>a), preliminarily demonstrating effective Zn
+ <sup>2+</sup> storage in the Mn(BTC). For the CV curves of the Mn(BDC) and Fe(BDC) MOF cathodes in Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>b, c, there also emerge 1–3 pairs of reversible redox peaks, but the peak currents of the Fe(BDC) MOF are much smaller. The redox peaks in the CV curves of the Co(BDC) and V(BDC) are not obvious, and response currents are very small (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>d, e), suggesting a poor Zn
+ <sup>2+</sup>-storage ability. Figure 
+ <xref rid="Fig2" ref-type="fig">2</xref>f displays charge/discharge curves at a current of 50 mA g
+ <sup>−1</sup> of the five MOF cathode materials. The Mn(BTC) exhibits several voltage plateaus in its discharge curve and delivers the highest Zn
+ <sup>2+</sup>-storage capacity of 112 mAh g
+ <sup>−1</sup>. Specific capacity of the Mn(BDC) cathode is about 48 mAh g
+ <sup>−1</sup>. In contrast, the other three MOF cathodes including Fe(BDC), Co(BDC), and V(BDC) are incapable of effectively storing Zn
+ <sup>2+</sup>, which is reflected by their very low capacities of less than 10 mAh g
+ <sup>−1</sup>. Obviously, for the above MOF samples, only Mn(BTC) is promising to be utilized as a high-performance cathode material for ZIBs. Despite this, the Mn(BTC) shows a modest cycling stability during repeated Zn
+ <sup>2+</sup> storage-release processes (Fig. S4). This issue needs to be resolved based on the reveal of Zn
+ <sup>2+</sup>-storage mechanism of the Mn(BTC) cathode.
+</p>

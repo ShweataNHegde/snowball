@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>MF</given-names>
+   </name>
+   <name>
+    <surname>Qian</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Zhou</surname>
+    <given-names>JQ</given-names>
+   </name>
+   <name>
+    <surname>Yan</surname>
+    <given-names>CL</given-names>
+   </name>
+  </person-group>
+  <article-title>An efficient bifunctional electrocatalyst for a zinc-air battery derived from Fe/N/C and bimetallic metal-organic framework composites</article-title>
+  <source>ACS Appl. Mater. Interfaces</source>
+  <year>2017</year>
+  <volume>9</volume>
+  <issue>6</issue>
+  <fpage>5213</fpage>
+  <lpage>5221</lpage>
+  <pub-id pub-id-type="doi">10.1021/acsami.6b12197</pub-id>
+  <pub-id pub-id-type="pmid">28106376</pub-id>
+ </element-citation>
+</ref>

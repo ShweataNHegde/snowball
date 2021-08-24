@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="molecules-26-04531-t001" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">molecules-26-04531-t001_Table 1</object-id>
+ <label>Table 1</label>
+ <caption>
+  <p>Binding energies of the present elements and their distribution.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Component</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Binding Energy (eV)</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">SiO
+     <sub>2</sub> (%)
+    </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">C/SiO
+     <sub>2</sub>-0.04 M (%)
+    </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">C/SiO
+     <sub>2</sub>-0.055 M (%)
+    </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">C/SiO
+     <sub>2</sub>-0.07 M (%)
+    </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">C/SiO
+     <sub>2</sub>-0.085 M (%)
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="7" align="center" valign="middle" rowspan="1">C 1s</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">total</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">51</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">59</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">63</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">65</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">sp
+     <sup>2</sup>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">284.6</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">74</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">54</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">54</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">54</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">55</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">sp
+     <sup>3</sup>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">285.5</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">-</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">16</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">15</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">15</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">15</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">-C-OH</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">286.5</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">18</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">17</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">17</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">17</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">18</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">-O-C=O</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">288.8</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">8</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">8</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">9</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">9</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">8</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">CO
+     <sub>2</sub> adv
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">290.7</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">-</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">6</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">6</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5</td>
+   </tr>
+   <tr>
+    <td colspan="7" align="center" valign="middle" rowspan="1">O 1s</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">total</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">66</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">33</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">28</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">26</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">24</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">SiO</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">533.2</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">92</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">SiOH</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">534.4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">-</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">-</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">-</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">-</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">8</td>
+   </tr>
+   <tr>
+    <td colspan="7" align="center" valign="middle" rowspan="1">Si 2p</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Si-O</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">103.7</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">29</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">16</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">13</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">11</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">11</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The EIS Nyquist plots correlate to CV and are measured before the first CV run until after the tenth CV, as presented in 
+ <xref ref-type="fig" rid="materials-14-02824-f009">Figure 9</xref>. The size of the arcs before and after CV 1 remain the same, whilst an increase in the arc height can be seen after CV 5 and CV 10. In addition, the Nyquist plot after CV 10 has the highest increase in arc height and resistance (Z’) due to a shift to the right. This follows the general trend in which resistance increases after numerous cycles due to conductivity.
+</p>

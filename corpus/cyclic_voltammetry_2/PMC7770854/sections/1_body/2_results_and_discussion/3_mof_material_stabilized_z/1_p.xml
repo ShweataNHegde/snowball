@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par23">To achieve stable zinc anodes, we introduced a ZIF-8 coating on bare Zn foil. Electrochemical stability of the ZIF-8-coated Zn foil electrode (i.e., ZIF-8@Zn) was characterized in symmetrical ZIF-8@Zn||ZIF-8@Zn coin cells at a current density of 0.25 mA cm
+ <sup>−2</sup> and a charge/discharge capacity of 0.05 mAh cm
+ <sup>−2</sup>. Figure 
+ <xref rid="Fig5" ref-type="fig">5</xref>a shows the cycling performance of bare Zn foil electrode and the ZIF-8@Zn electrode based symmetric cells with 2 M ZnSO
+ <sub>4</sub> electrolyte. It can be seen that a sudden short circuit appears after ~ 20 h stripping/plating for bare Zn foil. By contrast, the ZIF-8@Zn electrode works stably for at least 170 h and corresponding polarization voltage almost keeps constant, implying that the ZIF-8@Zn electrode has superior cycle stability. Furthermore, compared with the first cycle charge/discharge profile of the bare Zn foil in Fig. 
+ <xref rid="Fig5" ref-type="fig">5</xref>b, the ZIF-8@Zn electrode demonstrates a lower polarization voltage (120 vs. 200 mV for the bare Zn foil-based symmetric cells), which indicates a low energy barrier for metal nucleation on the surface of the ZIF-8@Zn electrode [
+ <xref ref-type="bibr" rid="CR69">69</xref>]. Very similarly, in the electrolyte of 2 M ZnSO
+ <sub>4</sub> + 0.1 M MnSO
+ <sub>4</sub> mixture solution (Fig. 
+ <xref rid="Fig5" ref-type="fig">5</xref>c, d), the ZIF-8@Zn electrode-based symmetric cells exhibit small polarization voltages and a long-term stable charge/discharge behavior over 170 h, whereas the bare Zn foil electrode-based symmetric cells perform poorly. The remarkably improved cycling stability of the ZIF-8@Zn anode are also observed at larger current densities of 0.5–2 mA cm
+ <sup>−2</sup> and higher Zn deposited depth of 0.1–0.4 mAh cm
+ <sup>−2</sup> (Fig. S7). All batteries exhibit stable cycling life over 150 h, further confirming the benefits of the ZIF-8@Zn anode on Zn stripping/plating behaviors. Besides, electrochemical impedance spectroscopy (EIS) test was also conducted to study the interfacial properties of bare Zn and ZIF-8@Zn anodes. As shown in Fig. S8, bare Zn electrodes delivered a large interfacial resistance and charge transfer resistance (estimated from the semicircle arc at high frequency range), which is due to passivation surface layers on Zn foils [
+ <xref ref-type="bibr" rid="CR70">70</xref>]. By contrast, the ZIF-8@Zn electrodes show a smaller interfacial resistance since the ZIF-8 coating provides a more stable electrode interface to guide a uniform Zn stripping/plating process.
+</p>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>A constant decrease of the capacity is observable along the 960 cycles in 
+ <xref ref-type="fig" rid="fig5">Fig. 5a</xref>. The reactivation cycles performed during the second step of the experiment highlight that it is possible to regain some extra capacity by (dis-)charging the material more slowly. This suggests that some part of the material cannot be reached at such a high (dis-)charge rate due to a weakening of the conductivity paths within the electrode. However, the capacity reached during the reactivation cycles also shows a clear decrease over time. In order to determine if the decrease of the capacity is due to the ageing of the material or to a loss of electronic contact, the electrode is re-pressed and reactivated at 0.2C (
+ <xref ref-type="fig" rid="fig5">Fig. 5b)</xref>. This results in a net increase of the capacity with a NEE going up to 1.41e
+ <sup>−</sup>/Ni. The decrease of capacity observed over the long-term stability test can thus be explained by a loss of contact between the Ni(OH)
+ <sub>2</sub> particles and the current collector, probably induced by the oxygen bubbles generated during the repetitive overcharges. Nevertheless, it can be concluded that the NiFe20 material itself is able to withstand a large number of cycles. After 1000 cycles its capacity corresponds to 90% of the capacity obtained after the first 10 activation cycles (NEE = 1.57 
+ <xref ref-type="fig" rid="fig3">Fig. 3</xref>). A comparison with the literature is difficult because the stability of α-Ni(OH)
+ <sub>2</sub> is not often studied over more than 200 cycles. Nevertheless, the loss of capacity reported over the first 100 cycles is often already 10 to 40%.
+ <sup>
+  <xref rid="cit23" ref-type="bibr">23,25,30,56,67,68</xref>
+ </sup>
+</p>

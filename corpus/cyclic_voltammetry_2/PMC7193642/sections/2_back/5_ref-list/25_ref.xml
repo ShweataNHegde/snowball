@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR25">
+ <label>25.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Peled</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Straze</surname>
+    <given-names>H</given-names>
+   </name>
+  </person-group>
+  <article-title>The Kinetics of the Magnesium Electrode in Thionyl Chloride Solutions</article-title>
+  <source>J. Electrochem. Soc.</source>
+  <year>1977</year>
+  <volume>124</volume>
+  <fpage>1030</fpage>
+  <lpage>1035</lpage>
+  <pub-id pub-id-type="doi">10.1149/1.2133474</pub-id>
+ </element-citation>
+</ref>

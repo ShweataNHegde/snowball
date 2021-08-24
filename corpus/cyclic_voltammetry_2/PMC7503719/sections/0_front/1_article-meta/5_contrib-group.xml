@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Lin-Hui</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-materials-13-03797">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dai</surname>
+   <given-names>Yan-Kun</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-materials-13-03797">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Qin</surname>
+   <given-names>Yu-Feng</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-materials-13-03797">1</xref>
+  <xref rid="c1-materials-13-03797" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Jun</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-materials-13-03797">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhou</surname>
+   <given-names>En-Long</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-materials-13-03797">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Li</surname>
+   <given-names>Qiang</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-materials-13-03797">3</xref>
+  <xref rid="c1-materials-13-03797" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-3513-3511</contrib-id>
+  <name>
+   <surname>Wang</surname>
+   <given-names>Kai</given-names>
+  </name>
+  <xref ref-type="aff" rid="af4-materials-13-03797">4</xref>
+ </contrib>
+</contrib-group>

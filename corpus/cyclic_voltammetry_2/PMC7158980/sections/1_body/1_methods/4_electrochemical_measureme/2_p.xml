@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par35">All the electrochemical measurements were measured by CHI760E workstation (China) with three-electrode system. The ORR and OER activities were investigated using a rotating ring-disk electrode (RRDE, Φ
+ <sub>d</sub> = 4 mm, Φ
+ <sub>Pt ring</sub> = inner/outer-ring diameter 5.0/7.0 mm, ALS, Japan) in 0.1 M KOH. The smooth carbon electrode with deposited electrocatalyst, the platinum wire, and the Ag/AgCl electrode were served as working, counter, and reference electrodes, respectively. The linear sweep voltammogram (LSV) technique was used to test the electrochemical catalytic activity with voltage range 1.1653~0.1653 V (vs. RHE), with rotation speed of electrode 1600 rpm and the scan rate of 5 mV s
+ <sup>−1</sup> in 0.1 M KOH electrolyte. All potential values convert to that of a reversible hydrogen electrode (RHE) by the following formula: 
+ <disp-formula id="Equ8">
+  <label>8</label>
+  <alternatives>
+   <tex-math id="M15">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$ {E}_{\mathrm{RHE}}={E}_{\mathrm{Ag}/\mathrm{AgCl}}+0.0591\times \mathrm{pH}+0.197\ \left(\mathrm{V}\right). $$\end{document}</tex-math>
+   <math id="M16" display="block">
+    <msub>
+     <mi>E</mi>
+     <mi>RHE</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+     <mi>E</mi>
+     <mrow>
+      <mi>Ag</mi>
+      <mo>/</mo>
+      <mtext>AgCl</mtext>
+     </mrow>
+    </msub>
+    <mo>+</mo>
+    <mn>0.0591</mn>
+    <mo>×</mo>
+    <mi>pH</mi>
+    <mo>+</mo>
+    <mn>0.197</mn>
+    <mspace width="0.25em"/>
+    <mfenced close=")" open="(">
+     <mi mathvariant="normal">V</mi>
+    </mfenced>
+    <mo>. </mo>
+   </math>
+   <graphic xlink:href="11671_2020_3316_Article_Equ8.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+</p>

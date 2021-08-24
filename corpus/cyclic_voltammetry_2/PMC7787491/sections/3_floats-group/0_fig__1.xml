@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F1" fig-type="figure" orientation="portrait" position="float">
+ <label>Fig. 1</label>
+ <caption>
+  <title>Assessment of the requirements for affordable EES technologies that are suitable for integration into clean energy generation systems.</title>
+  <p>(
+   <bold>A</bold>) Hourly power profiles for typical power demand and supply from solar-PV. Adapted with permission from (
+   <xref rid="R12" ref-type="bibr">
+    <italic>12</italic>
+   </xref>). (
+   <bold>B</bold>) Levelized costs of energy (LCOE) production from solar-PV compared with levelized energy of storage (LCOS) costs of representative battery chemistries. Replotted according to (
+   <xref rid="R18" ref-type="bibr">
+    <italic>18</italic>
+   </xref>). Zn-based batteries show the lowest LCOS of ~$0.3/kWh. (
+   <bold>C</bold>) The plating/stripping Coulombic efficiency (CE) requirements for metal anodes to achieve the cycle life targets. Each curve depicts the correlation between N:P ratio and the Coulombic inefficiency (=1 − CE), assuming 80% capacity retention after a certain number of cycles as specified in the legend. For example, the red curve depicts the relation between N:P ratio and Coulombic inefficiency to meet the goal of a battery cycle life equal to 1000 cycles. N:P ratio is defined as the ratio between the capacities of active materials in the negative electrode(anode) and the positive electrode(cathode), respectively, assuming the materials operate at their theoretical specific capacities. The curves are plotted by solving 
+   <inline-formula>
+    <math id="m1">
+     <mrow>
+      <mrow>
+       <msup>
+        <mrow>
+         <mo stretchy="false">(</mo>
+         <mn>1</mn>
+         <mo>−</mo>
+         <mi>x</mi>
+         <mo stretchy="false">)</mo>
+        </mrow>
+        <mrow>
+         <mo stretchy="true">(</mo>
+         <mi>T</mi>
+         <mo>−</mo>
+         <mfrac>
+          <mrow>
+           <mi>y</mi>
+           <mo>−</mo>
+           <mn>1</mn>
+          </mrow>
+          <mi>x</mi>
+         </mfrac>
+         <mo stretchy="true">)</mo>
+        </mrow>
+       </msup>
+       <mo>=</mo>
+       <mn>0.8</mn>
+      </mrow>
+     </mrow>
+    </math>
+   </inline-formula>, where 
+   <italic>y</italic> is N:P ratio, 
+   <italic>x</italic> is Coulombic inefficiency, and 
+   <italic>T</italic> is the cycle life target. (
+   <bold>D</bold>) Schematic cartoon showing the two key irreversibilities associated with Zn metal electrodes. Noncompact Zn electrodeposits lose electrochemical activity after they chemically react with the electrolyte (chemical instability) or physically detach from the current collector (physical orphaning).
+  </p>
+ </caption>
+ <graphic xlink:href="abe0219-F1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

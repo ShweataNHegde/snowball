@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Thirdly, the dimerization of relatively planar aromatic organic compounds is a phenomenon that affects the effective number of electrons and thus the accessible capacity of a flow battery. π-stacking was identified as the most likely interaction driving the dimerization. The degree of dimerization was influenced by the functional groups attached due to coulomb repulsion and steric hindrance. 
+ <sup>1</sup>H-NMR was employed to calculate the dimerization constant, similar to previous works [
+ <xref rid="B23-molecules-26-02227" ref-type="bibr">23</xref>,
+ <xref rid="B24-molecules-26-02227" ref-type="bibr">24</xref>]. Finally, based on the dimerization constant, we were able to estimate the effective number of electrons for the three model compounds, namely QUI 
+ <bold>6</bold>, DSMeQUI 
+ <bold>20</bold>, and DNMeQUI 
+ <bold>21</bold>. At a concentration of 2 M (which is reasonable for flow cell battery application) the effective numbers of electrons for QUI 
+ <bold>6</bold>, DSMeQUI 
+ <bold>20</bold>, and DNMeQUI 
+ <bold>21</bold> were approximately 1.26, 1.48, and 1.8, respectively. These values correspond to 63%, 74%, and 90%, respectively, of the expected theoretical capacity. In this context, we note that we observed significantly lower capacities than predicted by the dimerization equilibrium constant and our assumptions about the electroactivity of the monomers (n = 1 per monomer) that make up the dimers. This is possibly a consequence of degradation, which was relatively rapid even though substitution at the 2,3-position appeared to be an efficient strategy to prevent or slow down addition of water to the pyrazine ring. In the case of QUI 
+ <bold>6</bold>, after testing (5 cycles, pH 13) we observed mainly QUI 
+ <bold>6</bold> in solution (See 
+ <xref ref-type="app" rid="app1-molecules-26-02227">Figure S10</xref>), while the capacity was nearly zero at the end of the test. Significant cross-over was detected for QUI 
+ <bold>6</bold>, but as it cannot explain the whole capacity fade, it indicates that another irreversible reaction may be causing an imbalance in the cell. Future work is aimed at identifying the degradation products of the protected molecule DSMeQUI 
+ <bold>20</bold> and at determining to what extent other side-reactions are contributing to the capacity fade observed in such alkaline quinoxaline-based flow batteries.
+</p>

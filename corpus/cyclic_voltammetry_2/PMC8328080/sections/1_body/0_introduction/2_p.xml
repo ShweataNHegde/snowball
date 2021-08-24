@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Hydrogen produced by electrolysis is a promising solution for long-term electricity storage. However, it suffers from a lower roundtrip efficiency than other storage technologies.
+ <sup>
+  <xref rid="cit3" ref-type="bibr">3</xref>
+ </sup> Rechargeable batteries, with their high round trip efficiency, scalability and flexibility are particularly good candidates to balance the electricity grid in a short timescale.
+ <sup>
+  <xref rid="cit4" ref-type="bibr">4</xref>
+ </sup> In the previous century several battery systems have been developed but only a few have been demonstrated in large-scale applications, mainly lead-acid and lithium ion batteries. Traditionally lead-acid had the biggest share but in 2017 Li-ion accounted for 90% of the large-scale battery storage.
+ <sup>
+  <xref rid="cit5" ref-type="bibr">5</xref>
+ </sup> To understand why, an overview of these batteries performances is presented in 
+ <xref ref-type="fig" rid="fig1">Fig. 1a and b</xref> with radar charts showing the electrochemical properties on the right half of the chart and the criteria related to the use of the battery on the left part. The lead-acid battery is a well-known battery that requires low maintenance but its main strength is its low cost. However, its deployment is limited by the limited cycle lifetime (500–800 cycles), energy density (30–50 W h kg
+ <sup>−1</sup>) and toxicity of the raw materials.
+ <sup>
+  <xref rid="cit6" ref-type="bibr">6,7</xref>
+ </sup> In addition the lead-acid battery suffers also from poor high rate performance with a charging time of 8–15 hours.
+ <sup>
+  <xref rid="cit7" ref-type="bibr">7</xref>
+ </sup> The lithium-ion battery outclasses the lead-acid battery with a longer lifetime (&gt;1000 high depth of discharge cycles), good high-rate performances (charging time &lt;1 hour) and an energy and power density among the highest reported for rechargeable batteries (170–250 W h g
+ <sup>−1</sup>).
+ <sup>
+  <xref rid="cit6" ref-type="bibr">6,7</xref>
+ </sup> High energy and power densities are primordial for applications that require compact and light storage devices (laptops, power tools, smartphones, and electric vehicles). However, different requirements are expected for stationary energy storage applications. Energy storage systems used for this application must have extraordinarily long cycle life, be capable of high power charge and discharge for minutes, have very high energy efficiency and, above all, have low capital and lifetime costs.
+ <sup>
+  <xref rid="cit8" ref-type="bibr">8–10</xref>
+ </sup> For instance the EU SET plan defined as target properties for the grid-scale battery system a lifetime of 10 000 cycles (at 80% DOD), a high energy efficiency &gt;90% and low capital costs &lt;150 € kW
+ <sup>−1</sup> h
+ <sup>−1</sup>.
+ <sup>
+  <xref rid="cit11" ref-type="bibr">11</xref>
+ </sup> Additional requirements such as enhanced safety and the reduction of the use of critical materials are also specified. Based on this description, 
+ <xref ref-type="fig" rid="fig1">Fig. 1c</xref> proposes a radar chart representation of the expected performance of an ideal grid-stabilisation energy storage system (GSESS). This simple representation highlights that the main advantages of the lithium-ion battery are actually not key requirements for stationary application. This is because this application can afford bulkier devices and hence lower energy and power density batteries. Other limitations to the widespread deployment of the Li-ion battery for grid-stabilisation are the material cost and its low robustness. Li-ion shows indeed a low tolerance to overcharge and deep discharge which causes thermal runaway; additional and expensive safety systems are then required for cooling the battery and to limit the battery discharge to 80%.
+</p>

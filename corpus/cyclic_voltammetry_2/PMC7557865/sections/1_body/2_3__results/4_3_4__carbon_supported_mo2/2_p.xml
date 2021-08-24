@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The reaction kinetics were studied in more detail with the evaluation of key reaction parameters and elucidation of the reaction mechanism. Koutecky–Levich (K–L, Equation (1)) analysis of the background-current corrected LSV curves enabled the determination of the number of electrons exchanged, 
+ <italic>n</italic>:
+ <disp-formula id="FD1-nanomaterials-10-01805">
+  <label>(1)</label>
+  <math id="mm1">
+   <mrow>
+    <mrow>
+     <mfrac>
+      <mn>1</mn>
+      <mi>j</mi>
+     </mfrac>
+     <mo>=</mo>
+     <mfrac>
+      <mn>1</mn>
+      <mrow>
+       <msub>
+        <mi>j</mi>
+        <mi mathvariant="normal">d</mi>
+       </msub>
+      </mrow>
+     </mfrac>
+     <mo>+</mo>
+     <mfrac>
+      <mn>1</mn>
+      <mrow>
+       <msub>
+        <mi>j</mi>
+        <mi mathvariant="normal">k</mi>
+       </msub>
+      </mrow>
+     </mfrac>
+     <mo>=</mo>
+     <mfrac>
+      <mn>1</mn>
+      <mrow>
+       <mn>0.62</mn>
+       <mi>n</mi>
+       <mi>F</mi>
+       <msup>
+        <mi>D</mi>
+        <mrow>
+         <mn>2</mn>
+         <mo>/</mo>
+         <mn>3</mn>
+        </mrow>
+       </msup>
+       <msup>
+        <mi>ν</mi>
+        <mrow>
+         <mo>−</mo>
+         <mn>1</mn>
+         <mo>/</mo>
+         <mn>6</mn>
+        </mrow>
+       </msup>
+       <msub>
+        <mi>C</mi>
+        <mrow>
+         <mi>bulk</mi>
+        </mrow>
+       </msub>
+       <msup>
+        <mi>ω</mi>
+        <mrow>
+         <mn>1</mn>
+         <mo>/</mo>
+         <mn>2</mn>
+        </mrow>
+       </msup>
+      </mrow>
+     </mfrac>
+     <mo>+</mo>
+     <mfrac>
+      <mn>1</mn>
+      <mrow>
+       <msub>
+        <mi>j</mi>
+        <mi mathvariant="normal">k</mi>
+       </msub>
+      </mrow>
+     </mfrac>
+     <mo>,</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where 
+ <italic>j</italic>, 
+ <italic>j</italic>
+ <sub>k</sub>, and 
+ <italic>j</italic>
+ <sub>d</sub> are measured current density, kinetic current density (free of mass-transfer limitations), and the limiting diffusion current density at the electrode potential 
+ <italic>E</italic>, respectively. Additionally, 
+ <italic>D</italic> is the O
+ <sub>2</sub> diffusion coefficient (1.9 × 10
+ <sup>−5</sup> cm
+ <sup>2</sup> s
+ <sup>−1</sup>), 
+ <italic>ν</italic> is the solution kinematic viscosity (0.01 cm
+ <sup>2</sup> s
+ <sup>−1</sup>), and 
+ <italic>C</italic>
+ <sub>bulk</sub> is the concentration of dissolved O
+ <sub>2</sub> (1.2 × 10
+ <sup>−3</sup> M). As defined, 
+ <italic>j</italic>
+ <sub>d</sub> is determined by the physicochemical properties of the solution and electrode potential 
+ <italic>E</italic> in the same manner as 
+ <italic>n</italic>. Though K–L analysis is a standard way to determine the number of electrons transferred during the ORR, it should be kept in mind that this analysis is derived for a single one-electron transfer with a preceding chemical reaction of first order and, as such, it might not give absolutely reliable results in case of multi-step reactions involving intermediates [
+ <xref rid="B46-nanomaterials-10-01805" ref-type="bibr">46</xref>,
+ <xref rid="B47-nanomaterials-10-01805" ref-type="bibr">47</xref>]. Additionally, the K–L analysis might not give reliable results in cases where surfaces may be rough, porous, or both [
+ <xref rid="B46-nanomaterials-10-01805" ref-type="bibr">46</xref>] or in case of electrode surface modified with nanoparticles where the real surface area differs from the electrode’s geometric area [
+ <xref rid="B47-nanomaterials-10-01805" ref-type="bibr">47</xref>]. Rotating ring disk measurements have been suggested as alternatives, but they still bring some misinterpretation of results due to the theory behind them not being valid for multi-step reactions.
+</p>

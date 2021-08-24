@@ -1,0 +1,2666 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2198-3844</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">8188195</article-id><article-id pub-id-type="doi">10.1002/advs.202100309</article-id><article-id pub-id-type="publisher-id">ADVS2543</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>An Artificial Polyacrylonitrile Coating Layer Confining Zinc Dendrite Growth for Highly Reversible Aqueous Zinc&#x02010;Based Batteries</article-title></title-group><contrib-group><contrib id="advs2543-cr-0001" contrib-type="author"><name><surname>Chen</surname><given-names>Peng</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6717-8514</contrib-id><xref ref-type="aff" rid="advs2543-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs2543-cr-0002" contrib-type="author"><name><surname>Yuan</surname><given-names>Xinhai</given-names></name><xref ref-type="aff" rid="advs2543-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="advs2543-cr-0003" contrib-type="author"><name><surname>Xia</surname><given-names>Yingbin</given-names></name><xref ref-type="aff" rid="advs2543-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="advs2543-cr-0004" contrib-type="author"><name><surname>Zhang</surname><given-names>Yi</given-names></name><xref ref-type="aff" rid="advs2543-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="advs2543-cr-0005" contrib-type="author" corresp="yes"><name><surname>Fu</surname><given-names>Lijun</given-names></name><xref ref-type="aff" rid="advs2543-aff-0002">
+<sup>2</sup>
+</xref><address><email>l.fu@njtech.edu.cn</email></address></contrib><contrib id="advs2543-cr-0006" contrib-type="author"><name><surname>Liu</surname><given-names>Lili</given-names></name><xref ref-type="aff" rid="advs2543-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="advs2543-cr-0007" contrib-type="author"><name><surname>Yu</surname><given-names>Nengfei</given-names></name><xref ref-type="aff" rid="advs2543-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="advs2543-cr-0008" contrib-type="author"><name><surname>Huang</surname><given-names>Qinghong</given-names></name><xref ref-type="aff" rid="advs2543-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="advs2543-cr-0009" contrib-type="author"><name><surname>Wang</surname><given-names>Bin</given-names></name><xref ref-type="aff" rid="advs2543-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="advs2543-cr-0010" contrib-type="author" corresp="yes"><name><surname>Hu</surname><given-names>Xianwei</given-names></name><xref ref-type="aff" rid="advs2543-aff-0001">
+<sup>1</sup>
+</xref><address><email>huxw@smm.neu.edu.cn</email></address></contrib><contrib id="advs2543-cr-0011" contrib-type="author" corresp="yes"><name><surname>Wu</surname><given-names>Yuping</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0833-1205</contrib-id><xref ref-type="aff" rid="advs2543-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="advs2543-aff-0003">
+<sup>3</sup>
+</xref><address><email>wuyp@njtech.edu.cn</email></address></contrib><contrib id="advs2543-cr-0012" contrib-type="author"><name><surname>van Ree</surname><given-names>Teunis</given-names></name><xref ref-type="aff" rid="advs2543-aff-0004">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="advs2543-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Key Laboratory for Ecological Metallurgy of Multimetallic Minerals (Ministry of Education)</named-content>
+<named-content content-type="organisation-division">School of Metallurgy</named-content>
+<institution>Northeastern University</institution>
+<city>Shenyang</city>
+<postal-code>110819</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs2543-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">China State Key Laboratory of Materials&#x02010;Oriented Chemical Engineering</named-content>
+<named-content content-type="organisation-division">School of Energy Science and Engineering</named-content>
+<institution>Nanjing Tech University</institution>
+<city>Nanjing</city>
+<postal-code>210009</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs2543-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">National Energy Novel Materials Center</named-content>
+<named-content content-type="organisation-division">Institute of Chemical Materials (ICM)</named-content>
+<institution>China Academy of Engineering Physics (CAEP)</institution>
+<city>Mianyang</city>
+<postal-code>621900</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs2543-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Chemistry</named-content>
+<institution>University of Venda</institution>
+<city>Thohoyandou</city>
+<postal-code>0950</postal-code>
+<country country="ZA">South Africa</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>E&#x02010;mail: <email>l.fu@njtech.edu.cn</email>, <email>huxw@smm.neu.edu.cn</email>, <email>wuyp@njtech.edu.cn</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>3</month><year>2021</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2021</year></pub-date><volume>8</volume><issue>11</issue><issue-id pub-id-type="doi">10.1002/advs.v8.11</issue-id><elocation-id>2100309</elocation-id><history><date date-type="rev-recd"><day>22</day><month>2</month><year>2021</year></date><date date-type="received"><day>25</day><month>1</month><year>2021</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright">&#x000a9; 2021 Wiley&#x02010;VCH GmbH<copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2021 The Authors. Advanced Science published by Wiley&#x02010;VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ADVS-8-2100309.pdf"/><abstract><title>Abstract</title><p>Aqueous rechargeable zinc&#x02010;metal&#x02010;based batteries are an attractive alternative to lithium&#x02010;ion batteries for grid&#x02010;scale energy&#x02010;storage systems because of their high specific capacity, low cost, eco&#x02010;friendliness, and nonflammability. However, uncontrollable zinc dendrite growth limits the cycle life by piercing the separator, resulting in low zinc utilization in both alkaline and mild/neutral electrolytes. Herein, a polyacrylonitrile coating layer on a zinc anode produced by a simple drop coating approach to address the dendrite issue is reported. The coating layer not only improves the hydrophilicity of the zinc anode but also regulates zinc&#x02010;ion transport, consequently facilitating the uniform deposition of zinc ions to avoid dendrite formation. A symmetrical cell with the polymer&#x02010;coating&#x02010;layer&#x02010;modified Zn anode displays dendrite&#x02010;free plating/stripping with a long cycle lifespan (&#x0003e;1100 h), much better than that of the bare Zn anode. The modified zinc anode coupled with a Mn&#x02010;doped V<sub>2</sub>O<sub>5</sub> cathode forms a stable rechargeable full battery. This method is a facile and feasible way to solve the zinc dendrite problem for rechargeable aqueous zinc&#x02010;metal batteries, providing a solid basis for application of aqueous rechargeable Zn batteries.</p></abstract><abstract id="advs2543-abs-0001" abstract-type="graphical"><p>A polyacrylonitrile (PAN)Z coating layer is employed to confine zinc dendrite growth for rechargeable aqueous zinc&#x02010;based batteries. The cyclability and Coulombic efficiency of the zinc anode porous PAN coating layer show that the polymer coating film is a feasible artificial membrane for a dendrite&#x02010;free zinc anode.
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xlink:href="ADVS-8-2100309-g005.jpg" position="anchor" id="jats-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs2543-kwd-0001">dendrite suppression</kwd><kwd id="advs2543-kwd-0002">polyacrylonitrile coating</kwd><kwd id="advs2543-kwd-0003">zinc anodes</kwd><kwd id="advs2543-kwd-0004">zinc&#x02010;ion batteries</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>National Key R &#x00026; D Program of China</funding-source><award-id>2018YFB0104300</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>National Natural Science Foundation of China </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>51425301</award-id><award-id>U1601214</award-id><award-id>51974081</award-id></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>Natural Science Foundation of Jiangsu Province </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100004608</institution-id></institution-wrap></funding-source><award-id>BK20200696</award-id></award-group><award-group id="funding-0004"><funding-source>State Key Lab Research Foundation</funding-source><award-id>ZK201805</award-id><award-id>ZK201717</award-id></award-group><award-group id="funding-0005"><funding-source>Jiangsu Provincial Innovation Foundation for Postgraduate</funding-source><award-id>KYCX20_1072</award-id></award-group><award-group id="funding-0006"><funding-source><institution-wrap><institution>Natural Science Foundation of Liaoning Province </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100005047</institution-id></institution-wrap></funding-source><award-id>2019&#x02010;MS&#x02010;129</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="0"/><page-count count="9"/><word-count count="6349"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 9, 2021</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.0.2 mode:remove_FC converted:09.06.2021</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs2543-cit-0088">
+<string-name>
+<given-names>P.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>van</surname>
+<suffix>Ree</suffix>
+</string-name>, <article-title>An Artificial Polyacrylonitrile Coating Layer Confining Zinc Dendrite Growth for Highly Reversible Aqueous Zinc&#x02010;Based Batteries</article-title>. <source xml:lang="en">Adv. Sci.</source>
+<year>2021</year>, <volume>8</volume>, <elocation-id>2100309</elocation-id>. <pub-id pub-id-type="doi">10.1002/advs.202100309</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="advs2543-sec-0010"><label>1</label><title>Introduction</title><p>The dwindling resources of fossil fuel and accelerating climate change are leading to urgent renewable energy demands. Harvesting sustainable energy from wind, sunlight, tides, and waves offers a great opportunity to overcome the energy shortage and catastrophic climate change. Collection and storage of the energy from these intermittent renewable resources is an intractable problem.<sup>[</sup>
+<xref rid="advs2543-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref>
+<sup>]</sup> Lithium&#x02010;based batteries (e.g., LIBs), which are among the most successful energy storage systems (EESs) in portable electronic devices such as laptops, smartphones, and wearable devices, have reached a bottleneck in aspect of large&#x02010;scale grids and electric vehicles due to the exhaustion of lithium resources (high cost) and the use of inherently flammable liquid organic electrolytes.<sup>[</sup>
+<xref rid="advs2543-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>
+<sup>]</sup> Low cost, long life, and high safety are crucial factors for the successful application of the EESs.<sup>[</sup>
+<xref rid="advs2543-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref>
+<sup>]</sup> Aqueous batteries (ABs), as one of the most promising candidates for large&#x02010;scale EESs, have attracted the attention of researchers because of their low cost, environmental benignity, and safety.<sup>[</sup>
+<xref rid="advs2543-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>, <xref rid="advs2543-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>, <xref rid="advs2543-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>
+<sup>]</sup> Because zinc metal has the highest theoretical specific capacity (820 Ah kg<sup>&#x02212;1</sup>) among multivalent ABs and the abundant zinc supply (cost&#x02010;effective), aqueous rechargeable zinc&#x02010;ion batteries (ARZIBs) have been extensively investigated in recent years.<sup>[</sup>
+<xref rid="advs2543-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="advs2543-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="advs2543-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="advs2543-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="advs2543-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref>, <xref rid="advs2543-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>, <xref rid="advs2543-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>
+<sup>]</sup> However, dendrite growth on the zinc anode seriously impacts their reliability and limits their life&#x02010;span.<sup>[</sup>
+<xref rid="advs2543-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>
+<sup>]</sup> Uneven zinc deposition during cycling is the main culprit, leading to the uncontrollable dendrite growth on the zinc anode's surface.<sup>[</sup>
+<xref rid="advs2543-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>, <xref rid="advs2543-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref>
+<sup>]</sup> Therefore, homogenizing zinc deposition is the key technology to accelerate the large&#x02010;scale practical application of ARZIBs.</p><p>Considerable efforts in the realms of zinc electrode construction, electrolytes, and anode surface modification have been made to suppress dendrite growth. Porous 3D zinc foam is the classical electrode design for suppressing zinc dendrite.<sup>[</sup>
+<xref rid="advs2543-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref>, <xref rid="advs2543-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref>, <xref rid="advs2543-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref>, <xref rid="advs2543-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref>
+<sup>]</sup> Zn&#x02010;metal alloys were introduced as potential candidates for dendrite&#x02010;free zinc anodes.<sup>[</sup>
+<xref rid="advs2543-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref>, <xref rid="advs2543-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref>
+<sup>]</sup> Benefitting from rich deposition sites, multidimensional zinc hosts, such as 3D copper,<sup>[</sup>
+<xref rid="advs2543-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref>, <xref rid="advs2543-bib-0024" ref-type="ref">
+<sup>24</sup>
+</xref>
+<sup>]</sup> carbon nanotube (CNT) frameworks,<sup>[</sup>
+<xref rid="advs2543-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref>
+<sup>]</sup> carbon fiber mats,<sup>[</sup>
+<xref rid="advs2543-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref>
+<sup>]</sup> polyarylimide covalent organic frameworks (PI&#x02010;COFs),<sup>[</sup>
+<xref rid="advs2543-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref>
+<sup>]</sup> and porous carbonized metal&#x02013;organic frameworks (MOFs),<sup>[</sup>
+<xref rid="advs2543-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref>, <xref rid="advs2543-bib-0029" ref-type="ref">
+<sup>29</sup>
+</xref>
+<sup>]</sup> have also been employed as current collectors to obtain dendrite&#x02010;free zinc anodes. Electrolyte engineering (electrolyte additives,<sup>[</sup>
+<xref rid="advs2543-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref>, <xref rid="advs2543-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref>, <xref rid="advs2543-bib-0032" ref-type="ref">
+<sup>32</sup>
+</xref>, <xref rid="advs2543-bib-0033" ref-type="ref">
+<sup>33</sup>
+</xref>
+<sup>]</sup> water&#x02010;starved electrolytes,<sup>[</sup>
+<xref rid="advs2543-bib-0034" ref-type="ref">
+<sup>34</sup>
+</xref>, <xref rid="advs2543-bib-0035" ref-type="ref">
+<sup>35</sup>
+</xref>, <xref rid="advs2543-bib-0036" ref-type="ref">
+<sup>36</sup>
+</xref>, <xref rid="advs2543-bib-0037" ref-type="ref">
+<sup>37</sup>
+</xref>, <xref rid="advs2543-bib-0038" ref-type="ref">
+<sup>38</sup>
+</xref>
+<sup>]</sup> deep eutectic solvent electrolytes,<sup>[</sup>
+<xref rid="advs2543-bib-0039" ref-type="ref">
+<sup>39</sup>
+</xref>, <xref rid="advs2543-bib-0040" ref-type="ref">
+<sup>40</sup>
+</xref>
+<sup>]</sup> (quasi&#x02010;) solid&#x02010;state electrolytes,<sup>[</sup>
+<xref rid="advs2543-bib-0041" ref-type="ref">
+<sup>41</sup>
+</xref>, <xref rid="advs2543-bib-0042" ref-type="ref">
+<sup>42</sup>
+</xref>, <xref rid="advs2543-bib-0043" ref-type="ref">
+<sup>43</sup>
+</xref>, <xref rid="advs2543-bib-0044" ref-type="ref">
+<sup>44</sup>
+</xref>, <xref rid="advs2543-bib-0045" ref-type="ref">
+<sup>45</sup>
+</xref>
+<sup>]</sup> alkaline&#x02010;mild hybrid electrolytes,<sup>[</sup>
+<xref rid="advs2543-bib-0046" ref-type="ref">
+<sup>46</sup>
+</xref>, <xref rid="advs2543-bib-0047" ref-type="ref">
+<sup>47</sup>
+</xref>
+<sup>]</sup> etc.) has also been shown to be an excellent way to introduce practical application of ARZIBs. Moreover, coating functional layers on zinc anode has been extensively developed to control the dendrite formation.<sup>[</sup>
+<xref rid="advs2543-bib-0048" ref-type="ref">
+<sup>48</sup>
+</xref>
+<sup>]</sup>
+</p><p>Coating nanoscale electric materials on zinc surfaces is an effective method to evenly distribute charge, such as epitaxial graphene,<sup>[</sup>
+<xref rid="advs2543-bib-0049" ref-type="ref">
+<sup>49</sup>
+</xref>
+<sup>]</sup> metal nanoparticles,<sup>[</sup>
+<xref rid="advs2543-bib-0050" ref-type="ref">
+<sup>50</sup>
+</xref>, <xref rid="advs2543-bib-0051" ref-type="ref">
+<sup>51</sup>
+</xref>, <xref rid="advs2543-bib-0052" ref-type="ref">
+<sup>52</sup>
+</xref>, <xref rid="advs2543-bib-0053" ref-type="ref">
+<sup>53</sup>
+</xref>
+<sup>]</sup> and carbon/reduced graphene oxide (rGO)/CNT/graphite coating.<sup>[</sup>
+<xref rid="advs2543-bib-0037" ref-type="ref">
+<sup>37</sup>
+</xref>, <xref rid="advs2543-bib-0054" ref-type="ref">
+<sup>54</sup>
+</xref>, <xref rid="advs2543-bib-0055" ref-type="ref">
+<sup>55</sup>
+</xref>, <xref rid="advs2543-bib-0056" ref-type="ref">
+<sup>56</sup>
+</xref>, <xref rid="advs2543-bib-0057" ref-type="ref">
+<sup>57</sup>
+</xref>
+<sup>]</sup> Indeed, zinc deposition on these conductive coatings is more uniform and the dendrite growth is retarded to a certain degree, but dendrite formation might still be inevitable because of the uncontrollable electrochemical deposition. For this reason, some insulating materials, for example oxides (or sulfides)<sup>[</sup>
+<xref rid="advs2543-bib-0058" ref-type="ref">
+<sup>58</sup>
+</xref>, <xref rid="advs2543-bib-0059" ref-type="ref">
+<sup>59</sup>
+</xref>, <xref rid="advs2543-bib-0060" ref-type="ref">
+<sup>60</sup>
+</xref>, <xref rid="advs2543-bib-0061" ref-type="ref">
+<sup>61</sup>
+</xref>, <xref rid="advs2543-bib-0062" ref-type="ref">
+<sup>62</sup>
+</xref>
+<sup>]</sup> and MOFs<sup>[</sup>
+<xref rid="advs2543-bib-0063" ref-type="ref">
+<sup>63</sup>
+</xref>
+<sup>]</sup> have been coated on zinc surfaces to suppress dendrite formation by regulating the ion flux. Unfortunately, the brittle nature of these films restricts their application in large&#x02010;scale EESs.</p><p>To overcome the shortcomings of inorganic coating layers, researchers recently developed inorganic/MOF&#x02010;organic composites as coating layers to suppress dendrite growth, in which poly(vinylidene fluoride) (PVDF), the most popular organic binder, was used as coating preparation to strengthen the flexibility of blended films, such as PVDF&#x02013;TiO<sub>2</sub>,<sup>[</sup>
+<xref rid="advs2543-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref>, <xref rid="advs2543-bib-0064" ref-type="ref">
+<sup>64</sup>
+</xref>
+<sup>]</sup> PVDF&#x02013;CaCO<sub>3</sub>,<sup>[</sup>
+<xref rid="advs2543-bib-0065" ref-type="ref">
+<sup>65</sup>
+</xref>
+<sup>]</sup> PVDF&#x02013;ZrO<sub>2</sub>,<sup>[</sup>
+<xref rid="advs2543-bib-0066" ref-type="ref">
+<sup>66</sup>
+</xref>
+<sup>]</sup> PVDF&#x02013;kaolin,<sup>[</sup>
+<xref rid="advs2543-bib-0067" ref-type="ref">
+<sup>67</sup>
+</xref>
+<sup>]</sup> PVDF&#x02013;MOFs,<sup>[</sup>
+<xref rid="advs2543-bib-0068" ref-type="ref">
+<sup>68</sup>
+</xref>, <xref rid="advs2543-bib-0069" ref-type="ref">
+<sup>69</sup>
+</xref>
+<sup>]</sup> etc. The inorganic/MOF&#x02013;organic coating not only regulates ion transport, but also resists dendrite growth. Nonetheless, the high cost of nanoscale particles/ligands and the complicated preparation methods of MOFs will be obstacles to the commercialization of ARZIBs in large&#x02010;scale EESs. Moreover, the gap between binder and solid&#x02010;state particles probably makes the efforts to sift MOFs with precise Zn<sup>2+</sup> transportation channels in vain.</p><p>Porous polymer coatings, a reasonable candidate to circumvent the abovementioned shortcomings, have rarely been reported because they are hydrophobic or water&#x02010;insoluble. Therefore, constructing hydrophobic polymer coating films with hydrophilic ion transit channels may be a useful solution to direct uniform deposition and control dendrite growth. Polyacrylonitrile (PAN), a widely used polymer, is used extensively as polymer matrix in LIB gel electrolytes, because of its chemical stability, excellent thermal stability, and high tensile strength and tensile modulus.<sup>[</sup>
+<xref rid="advs2543-bib-0070" ref-type="ref">
+<sup>70</sup>
+</xref>, <xref rid="advs2543-bib-0071" ref-type="ref">
+<sup>71</sup>
+</xref>, <xref rid="advs2543-bib-0072" ref-type="ref">
+<sup>72</sup>
+</xref>
+<sup>]</sup> By adapting to the volume change during metal plating/stripping, the PAN film's mechanical flexibility further confines uncontrollable zinc deposition.<sup>[</sup>
+<xref rid="advs2543-bib-0073" ref-type="ref">
+<sup>73</sup>
+</xref>
+<sup>]</sup> The polar nitrile group (&#x02010;CN), which is a linear structure, provides coordination sites to bridge Li<sup>+</sup>, Cu<sup>2+</sup>, and Zn<sup>2+</sup> ions.<sup>[</sup>
+<xref rid="advs2543-bib-0074" ref-type="ref">
+<sup>74</sup>
+</xref>, <xref rid="advs2543-bib-0075" ref-type="ref">
+<sup>75</sup>
+</xref>, <xref rid="advs2543-bib-0076" ref-type="ref">
+<sup>76</sup>
+</xref>
+<sup>]</sup> However, the application of PAN in ARZIBs has not been investigated widely, probably because of the hydrophobicity of PAN membranes. Therefore, partly hydrophilic modification of the PAN coating layer would be a worthwhile way to address the dendrite issue on the surfaces of zinc anodes.</p><p>In this work, we investigate a polymer coating layer for a dendrite&#x02010;free zinc anode, which is prepared by dropping a PAN solution containing zinc trifluoromethanesulfonate (Zn(TfO)<sub>2</sub>) onto zinc foil (PANZ@Zn). Due to the addition of Zn(TfO)<sub>2</sub>, the PAN coating layer combined with a zinc salt (PANZ) has excellent hydrophilicity, which dramatically reduces the interfacial resistance of the Zn anode. With microchannels in the polymer network and the complexation effect between Zn<sup>2+</sup> and the cyano groups (&#x02013;CN), the PANZ coating layer does not only facilitate the uniform transport of dissolved Zn<sup>2+</sup> in the PANZ membrane but also drives the uniform electrodeposition of zinc metal. A symmetric battery with a PANZ@Zn anode displays stable cyclability for more than 1140 h with a fixed capacity of 1&#x000a0;mAh cm<sup>&#x02212;2</sup>. The full battery coupled with Mn&#x02010;doped V<sub>2</sub>O<sub>5</sub> (MnVO) exhibits better electrochemical performance than that of the bare Zn anode, even when ultrathin zinc foil (20&#x000a0;&#x000b5;m) was employed in the full batteries.</p></sec><sec id="advs2543-sec-0020"><label>2</label><title>Results and Discussion</title><p>
+<bold>Figure</bold>
+<xref rid="advs2543-fig-0001" ref-type="fig">
+<bold>1</bold>
+</xref> shows the morphologies, hydrophilicity, and electrochemical impendence spectroscopy (EIS) of different zinc anodes. In order to remove the zinc oxide passivation layer, the bare zinc metal was polished with sandpaper before use (Figure&#x000a0;<xref rid="advs2543-fig-0001" ref-type="fig">1A</xref>). As shown in Figure&#x000a0;<xref rid="advs2543-fig-0001" ref-type="fig">1B</xref>, the surface of the zinc anode coating PAN layer without salt (aliased as PAN@Zn) looks smooth and dense, and is a little different from the surface of PANZ@Zn because of the microchannels formed in the film of PANZ@Zn (Figure&#x000a0;<xref rid="advs2543-fig-0001" ref-type="fig">1C</xref>; and Figure <xref rid="advs2543-supitem-0001" ref-type="supplementary-material">S1</xref>, Supporting Information). The cross&#x02010;section scanning electron microscopy (SEM) images of bare Zn, PAN@Zn, and PANZ@Zn shown in Figure <xref rid="advs2543-supitem-0001" ref-type="supplementary-material">S1</xref> (Supporting Information) show that the pure PAN coating layer is a pore&#x02010;free dense layer, and some micropores can be found in the PANZ layer containing zinc salt after the Zn(TfO)<sub>2</sub> salt was partially removed by soaking in water for a few minutes. The energy&#x02010;dispersive X&#x02010;ray spectroscopy (EDS) of the Zn, C, N, S, and F elements confirms that the zinc salt in the PANZ coating layer is uniformly distributed (Figure&#x000a0;<xref rid="advs2543-fig-0001" ref-type="fig">1D</xref>).</p><fig fig-type="Figure" xml:lang="en" id="advs2543-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Morphologies, contact angles and EISs of different zinc anodes. A&#x02013;C) Top&#x02010;view SEM images of bare Zn, PAN@Zn, and PANZ@Zn anodes. D) Cross&#x02010;section SEM image and EDS element mapping analysis of PANZ@Zn. E&#x02013;G) Optical images of contact angles between different zinc anodes and electrolyte. H) Electrochemical impedance spectra (EIS) of symmetric cells with bare Zn and PANZ@Zn anodes. I) SEM image of flake&#x02010;shaped dendrites on bare Zn after 5 cycles at 1&#x000a0;mA cm<sup>&#x02212;2</sup> with 1&#x000a0;mAh cm<sup>&#x02212;2</sup>. J,K) SEM image of dendrite clusters on bare Zn after 15 cycles at 1&#x000a0;mA cm<sup>&#x02212;2</sup> with 1&#x000a0;mAh cm<sup>&#x02212;2</sup>. L) Top&#x02010;view SEM images of PANZ@Zn after 15 cycles at 1&#x000a0;mA cm<sup>&#x02212;2</sup> for 1&#x000a0;h.</p></caption><graphic id="jats-graphic-3" xlink:href="ADVS-8-2100309-g004"/></fig><p>Since the uneven wetting of electrolyte on the zinc anode is the crucial factor that triggers the nonuniform distribution of charge and the nonhomogeneous electrodeposition on the solid&#x02010;electrolyte interface, the hydrophilicity of these zinc anodes in relation to electrolyte (2&#x000a0;<sc>m</sc> Zn(TfO)<sub>2</sub>) was investigated by measuring dynamic contact angles in the ambient environment. The initial contact angle of uncoated zinc was &#x02248;87&#x000b0;, it was reduced to 77.9&#x000b0; in the following 4&#x000a0;min and then remained unchanged even after 20&#x000a0;min (Figure&#x000a0;<xref rid="advs2543-fig-0001" ref-type="fig">1E</xref>; and Figure <xref rid="advs2543-supitem-0001" ref-type="supplementary-material">S2A</xref>, Supporting Information). In contrast, as illustrated in Figure&#x000a0;<xref rid="advs2543-fig-0001" ref-type="fig">1F</xref>,<xref rid="advs2543-fig-0001" ref-type="fig">G</xref>; and Figure <xref rid="advs2543-supitem-0001" ref-type="supplementary-material">S2B</xref>,<xref rid="advs2543-supitem-0001" ref-type="supplementary-material">C</xref> (Supporting Information), the contact angles of PAN@Zn and PANZ@Zn electrodes were reduced from &#x02248;62.3&#x000b0; and &#x02248;36.4&#x000b0; to 47.6&#x000b0; and 26.3&#x000b0; over 4&#x000a0;min, respectively. The distinct hydrophilicity improvement of PANZ@Zn is attributed to the microchannels formed by the introduction of Zn(TfO)<sub>2</sub>. It should be noted that the smaller contact angle of PAN@Zn than that of the bare Zn can be ascribed to the spreading of water on the PAN membrane.<sup>[</sup>
+<xref rid="advs2543-bib-0077" ref-type="ref">
+<sup>77</sup>
+</xref>
+<sup>]</sup> The PANZ membrane exhibits a high ionic conductivity (2.4 mS cm<sup>&#x02212;1</sup>, Figure <xref rid="advs2543-supitem-0001" ref-type="supplementary-material">S2D</xref>, Supporting Information), which is similar to the previously reported,<sup>[</sup>
+<xref rid="advs2543-bib-0078" ref-type="ref">
+<sup>78</sup>
+</xref>
+<sup>]</sup> indicating the fast Zn<sup>2+</sup> transport through the PANZ layer. The better wettability facilitates the even distribution of zinc&#x02010;ion flux on the zinc's surface during cycling, which reduces the ions&#x02019; motion resistance and promotes uniform zinc electrodeposition. The Nyquist curves of the impedance spectra of the different anodes before cycling reveal that the PANZ interfacial coating film significantly reduced the interfacial impedance of the zinc anode (Figure&#x000a0;<xref rid="advs2543-fig-0001" ref-type="fig">1H</xref>). As shown in Figure <xref rid="advs2543-supitem-0001" ref-type="supplementary-material">S3A</xref> (Supporting Information), the highest resistance among the three anodes, displayed by PAN@Zn, substantially confirms that the pure PAN membrane without any additives is pore&#x02010;free and ion&#x02010;blocking in aqueous systems.</p><p>Bare zinc suffers from dendrite formation during cycling, usually after just a few cycles. In a study of the morphologies of the different zinc anodes before and after cycling, an in&#x02010;depth analysis shows how the PANZ coating layer tackles the dendrite problem. After five cycles at a current density of 1&#x000a0;mA cm<sup>&#x02212;2</sup> with a capacity of 1&#x000a0;mAh cm<sup>&#x02212;2</sup>, many dendrites were found on the surface of the Zn anode (Figure&#x000a0;<xref rid="advs2543-fig-0001" ref-type="fig">1I</xref>), and the dendrites had grown considerably and gradually gathered to form dendrite clusters after 15 cycles (Figure&#x000a0;<xref rid="advs2543-fig-0001" ref-type="fig">1J</xref>). Many glass fibers embedded in the dendrites indicate that the dendrites penetrated the glass fiber membrane (Figure&#x000a0;<xref rid="advs2543-fig-0001" ref-type="fig">1J</xref>,<xref rid="advs2543-fig-0001" ref-type="fig">K</xref>).</p><p>The cycling performance of a symmetrical cell with the PAN@Zn anode is shown in Figure <xref rid="advs2543-supitem-0001" ref-type="supplementary-material">S3B</xref> (Supporting Information). The battery failed after working only 17 h because of an internal short circuit, with a bigger polarization than that of the bare Zn and PANZ@Zn. The zinc anode and separator of the failed PAN@Zn cell was disassembled for further investigation. Dendrites are evident on the edge of the zinc disk, which pierced into the glass fiber membrane and triggered the internal short circuit (Figure <xref rid="advs2543-supitem-0001" ref-type="supplementary-material">S3C</xref>&#x02013;<xref rid="advs2543-supitem-0001" ref-type="supplementary-material">K</xref>, Supporting Information). In contrast, the PANZ@Zn anode showed a smooth surface without dendrite formation after 15 cycles (Figure&#x000a0;<xref rid="advs2543-fig-0001" ref-type="fig">1L</xref>), showing that the addition of Zn(TfO)<sub>2</sub>) not only improves the hydrophilicity of a zinc anode with PAN coating layer but also improves the conductivity of Zn<sup>2+</sup> in a PAN membrane, which boosts the uniform deposition of Zn<sup>2+</sup> on the zinc electrode surface, consequently inhibiting dendrite formation.</p><p>To further accurately study the dendrite suppression effect of the PANZ coating layer on the Zn anode, we tested a symmetrical cell consisting of bare Zn and PANZ@Zn electrodes at the current density of 1&#x000a0;mA cm<sup>&#x02212;2</sup> with a capacity of 1&#x000a0;mAh cm<sup>&#x02212;2</sup> for 100 cycles. Aside from the synergistic effect between the two electrodes, we also investigated the morphology change and the electrochemical performance of these two electrodes, which suffered almost identical plating/stripping electrochemical processes (<bold>Figure</bold>
+<xref rid="advs2543-fig-0002" ref-type="fig">
+<bold>2</bold>
+</xref>). Many glass fibers can be seen adhering to the surface of cycled bare zinc because of the formation of dendrites piercing the separator (Figure&#x000a0;<xref rid="advs2543-fig-0002" ref-type="fig">2A</xref>). Figure&#x000a0;<xref rid="advs2543-fig-0002" ref-type="fig">2B</xref>&#x02013;<xref rid="advs2543-fig-0002" ref-type="fig">D</xref> shows the spike&#x02010;shaped dendrites and many corrosion pits on the bare Zn anode surface, suggesting that the electrodeposition and stripping processes occur at preferred prereaction positions to minimize the free energy of the microsystem.<sup>[</sup>
+<xref rid="advs2543-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>, <xref rid="advs2543-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref>, <xref rid="advs2543-bib-0078" ref-type="ref">
+<sup>78</sup>
+</xref>
+<sup>]</sup> In contrast, the surface of PANZ@Zn remained flat, and the PANZ film stayed intact and tightly adhering to the zinc surface (Figure&#x000a0;<xref rid="advs2543-fig-0002" ref-type="fig">2E</xref>,<xref rid="advs2543-fig-0002" ref-type="fig">F</xref>).</p><fig fig-type="Figure" xml:lang="en" id="advs2543-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Morphologies of Zn anodes disassembled from PANZ@Zn||bare Zn symmetric cell stopped after the 100th cycle, and long&#x02010;term cycling stability of symmetric cells. A) Digital picture of bare Zn anode side. B&#x02013;D) SEM images of bare Zn anode; bump&#x02010;like zinc dendrite in the red dashed&#x02010;dotted region; corrosion pits in the bright yellow square. C) Magnification of SEM image of glass fiber embedded into the bump&#x02010;like zinc dendrite. D) Erosion pits on the bare Zn anode. E) Digital picture of PANZ@Zn side. F) Top&#x02010;view SEM image of PANZ@Zn. G) SEM image of PANZ@Zn anode peeled off the PANZ coating layer. H) Magnified SEM image of PANZ@Zn anode peeled off PAN the coating layer. I,J) SEM images of bulk&#x02010;shaped dendrites on PANZ@Zn&#x02010;2 anode. K) Schematic illustration of dendrite formation process on bare Zn and PANZ@Zn&#x02010;2 electrodes. L,M) Voltage&#x02013;time curves of bare Zn||bare Zn and PANZ@Zn||PANZ@Zn symmetric cells at 1&#x000a0;mA cm<sup>&#x02212;2</sup> with a fixed capacity of 1&#x000a0;mAh cm<sup>&#x02212;2</sup>.</p></caption><graphic id="jats-graphic-5" xlink:href="ADVS-8-2100309-g002"/></fig><p>The PANZ coating layer on PANZ@Zn was peeled off to reveal the morphology change of the zinc metal, and the SEM image shows a smooth surface without dendrite (Figure&#x000a0;<xref rid="advs2543-fig-0002" ref-type="fig">2G</xref>). The magnified SEM image in Figure&#x000a0;<xref rid="advs2543-fig-0002" ref-type="fig">2H</xref> shows that zinc was deposited orderly on the surface, indicating that the deposition behavior of Zn on the PANZ@Zn anode is different from that on its bare counterpart. The coating layer on the cycled PANZ@Zn anode was peeled off and then the &#x0201c;bare zinc&#x0201d; (denoted as PANZ@Zn&#x02010;2) was reassembled into a coin cell with fresh bare Zn and continuously cycled for another five cycles to further verify the function of the PANZ coating layer. The digital picture displays glass fiber sticking to the surface of the PANZ@Zn&#x02010;2 anode (Figure <xref rid="advs2543-supitem-0001" ref-type="supplementary-material">S4</xref>, Supporting Information), and in the magnified SEM images (Figure&#x000a0;<xref rid="advs2543-fig-0002" ref-type="fig">2I</xref>,<xref rid="advs2543-fig-0002" ref-type="fig">J</xref>) many protruding dendrites can be seen on the surface. We also evaluated the anticorrosion capability of the PANZ&#x02010;coated zinc anode. The Tafel curves measured in 2 <sc>m</sc> Zn(TfO)<sub>2</sub> at a scan rate of 2&#x000a0;mV s<sup>&#x02212;1</sup> show the more negative corrosion potential of PANZ@Zn (Figure <xref rid="advs2543-supitem-0001" ref-type="supplementary-material">S5</xref>, Supporting Information), which implies that the PANZ coating layer can alleviate the hydrogen evolution reaction.</p><p>These results confirm that the PANZ coating layer can improve the surface wettability of the zinc electrode, reduce the interfacial impedance, relieve the corrosion of zinc, and confine the zinc ion flux to inhibit the growth of zinc dendrite.<sup>[</sup>
+<xref rid="advs2543-bib-0079" ref-type="ref">
+<sup>79</sup>
+</xref>
+<sup>]</sup> Based on the above results, we can depict schematically the zinc stripping/plating behavior on the surface of bare Zn and PANZ@Zn (Figure&#x000a0;<xref rid="advs2543-fig-0002" ref-type="fig">2K</xref>). The poor cycling performance of the bare zinc electrode is mainly due to its severe interfacial reaction with water or dissolved O<sub>2</sub> and the random deposition/stripping positions and the accumulation effect of zinc dendrite.<sup>[</sup>
+<xref rid="advs2543-bib-0080" ref-type="ref">
+<sup>80</sup>
+</xref>
+<sup>]</sup> In contrast, benefiting from excellent flexibility and hydrophilicity, the PANZ coating layer can not only adapt to the volume changes during the processes of zinc deposition/stripping and contain dendrite formation, but also facilitates uniform electrodeposition.</p><p>To evaluate the plating/stripping stability of the bare Zn and PANZ@Zn anodes, we investigated the long&#x02010;term galvanostatic cycling performance of symmetrical cells at a current density of 1&#x000a0;mA cm<sup>&#x02212;2</sup> with fixed capacity of 1&#x000a0;mAh cm<sup>&#x02212;2</sup>. As illustrated in Figure&#x000a0;<xref rid="advs2543-fig-0002" ref-type="fig">2L</xref>,<xref rid="advs2543-fig-0002" ref-type="fig">M</xref>, the voltage hysteresis of the Zn||Zn cell exceeds 100&#x000a0;mV, and internal short&#x02010;circuit signals (sudden voltage drops) were already observed after about 410 h. In contrast, the PANZ@Zn||PANZ@Zn cell has a stable voltage profile for 1145 h with only 75&#x000a0;mV voltage hysteresis. The performance of PANZ@Zn anode is superior to the most previous works. As summarized in Table <xref rid="advs2543-supitem-0001" ref-type="supplementary-material">S1</xref> (Supporting Information), some of previous zinc anodes presented excellent cycling stability under high current density, but the capacity of per cycle they delivered is too low to satisfy the practical application.<sup>[</sup>
+<xref rid="advs2543-bib-0081" ref-type="ref">
+<sup>81</sup>
+</xref>, <xref rid="advs2543-bib-0082" ref-type="ref">
+<sup>82</sup>
+</xref>
+<sup>]</sup> On the other hand, although some of anodes worked at higher current density, they could only deliver limited number of cycles.<sup>[</sup>
+<xref rid="advs2543-bib-0083" ref-type="ref">
+<sup>83</sup>
+</xref>
+<sup>]</sup>
+</p><p>We also coated a PANZ coating layer on copper foil (PANZ@Cu) and tested two half cells (bare Zn||bare Cu and PANZ@Zn||PANZ@Cu) to investigate the effect of the PAN coating layer on the Coulombic efficiency (CE) of the zinc stripping/plating process and on the morphology of the deposited zinc (<bold>Figure</bold>
+<xref rid="advs2543-fig-0003" ref-type="fig">
+<bold>3</bold>
+</xref>). The test was carried out by plating zinc (fixed areal capacity: 1&#x000a0;mAh cm<sup>&#x02212;2</sup>) onto the Cu or PANZ@Cu substrate and then stripping to 1&#x000a0;V. The nucleation overpotential of PANZ@Cu (36&#x000a0;mV, Figure&#x000a0;<xref rid="advs2543-fig-0003" ref-type="fig">3A</xref>) is much lower than that of bare Cu (51&#x000a0;mV), which is due to the considerably increased number of active nucleation sites on PANZ@Cu. As displayed in Figure&#x000a0;<xref rid="advs2543-fig-0003" ref-type="fig">3B</xref>,<xref rid="advs2543-fig-0003" ref-type="fig">C</xref>, the Zn||PANZ@Cu cell presents a very stable coulombic efficiency (CE) over 770 cycles (1440 h), with the average CE as high as 99.8% after the initial activation cycles. However, the voltage of the Zn||Cu cell showed sharp fluctuations after only 90 cycles (180 h) because of the internal short circuit in the cell caused by Zn dendrite formation.</p><fig fig-type="Figure" xml:lang="en" id="advs2543-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Overpotentials, Coulombic efficiencies, voltage&#x02013;time curves and morphology analysis of PANZ@Cu and bare Cu electrodes. A) Nucleation overpotentials of Zn deposition on the PANZ@Cu and bare Cu in asymmetric cells (vs Zn electrode). B) CE of Zn plating/stripping in the Zn&#x02013;Cu and PANZ@Zn&#x02010;PANZ@Cu half&#x02010;cells. C) Typical GCD profiles of Zn&#x02013;Cu and PANZ@Zn&#x02010;PANZ@Cu half&#x02010;cells; morphology and zinc plating/stripping efficiency on a copper current collector; current density: 1&#x000a0;mA cm<sup>&#x02212;2</sup>. D) Digital picture of current copper collector after plating for 2 h. E,F) SEM images of bare copper deposited zinc for 1 and 2 h, respectively. G) Magnified SEM image of zinc dendrite. H) Digital picture of copper current collector after plating for 2 h. I) SEM image of PAN@Cu after depositing Zn for 2 h. J) Peeled&#x02010;off PAN membrane. K) Cross&#x02010;section view SEM image of PAN@Cu after depositing Zn.</p></caption><graphic id="jats-graphic-7" xlink:href="ADVS-8-2100309-g003"/></fig><p>To further reveal the effect of the PANZ coating layer on the deposition of zinc ions on the metal substrate, we investigated the morphology changes of the Zn deposited on Cu and PANZ@Cu, respectively. A phenomenon similar to that occurring on zinc foil was observed: the zinc was not uniformly deposited on the copper foil, and glass fibers adhered to the copper foil (Figure&#x000a0;<xref rid="advs2543-fig-0003" ref-type="fig">3D</xref>). Many large&#x02010;sized nuclei and individual dendrites were observed after 1&#x000a0;h (Figure&#x000a0;<xref rid="advs2543-fig-0003" ref-type="fig">3E</xref>), and the size and quantity of dendrites significantly increased after 2 h deposition (Figure&#x000a0;<xref rid="advs2543-fig-0003" ref-type="fig">3F</xref>,<xref rid="advs2543-fig-0003" ref-type="fig">G</xref>). However, the deposition on PANZ@Cu is very uniform, and the PANZ coating remains intact (Figure&#x000a0;<xref rid="advs2543-fig-0003" ref-type="fig">3H</xref>,<xref rid="advs2543-fig-0003" ref-type="fig">I</xref>). After uncovering the PANZ coating, a flat and dendrite&#x02010;free surface was observed (Figure&#x000a0;<xref rid="advs2543-fig-0003" ref-type="fig">3J</xref>; and Figure <xref rid="advs2543-supitem-0001" ref-type="supplementary-material">S6A</xref>, Supporting Information), confirming that the PANZ coating does regulate the deposition of zinc metal. The cross&#x02010;section images of original PANZ@Cu (Figure <xref rid="advs2543-supitem-0001" ref-type="supplementary-material">S6B</xref>, Supporting Information) and zinc deposited PANZ@Cu (Figure&#x000a0;<xref rid="advs2543-fig-0003" ref-type="fig">3K</xref>) show that the zinc deposition layer is uniform and dense, and the PANZ coating film remains intact. The EDS mapping further confirms the uniform deposition of zinc on PANZ@Cu (Figure <xref rid="advs2543-supitem-0001" ref-type="supplementary-material">S6C</xref>, Supporting Information). Furthermore, the X&#x02010;ray diffraction (XRD) results also show that the zinc deposit between the PANZ layer and Cu foil is a dense layer (Figure <xref rid="advs2543-supitem-0001" ref-type="supplementary-material">S7</xref>, Supporting Information).</p><p>MnVO cathodes were investigated to further evaluate the impact of the PANZ coating layer on the electrochemical performance of full batteries consisting of bare Zn||MnVO and PANZ@Zn||MnVO cells (<bold>Figure</bold>
+<xref rid="advs2543-fig-0004" ref-type="fig">
+<bold>4</bold>
+</xref>). MnVO was employed as cathode material to assemble a full battery due to the excellent reversibility, good electronic conductivity, and high specific capacity. The MnVO cathode material was synthesized by the hydrothermal method. The SEM image (Figure <xref rid="advs2543-supitem-0001" ref-type="supplementary-material">S8A</xref>, Supporting Information) and the XRD pattern are consistent with the reported MnVO literature, and show that this cathode can provide a proper interlayer distance for zinc ion intercalation/deintercalation.<sup>[</sup>
+<xref rid="advs2543-bib-0084" ref-type="ref">
+<sup>84</sup>
+</xref>
+<sup>]</sup>
+</p><fig fig-type="Figure" xml:lang="en" id="advs2543-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Electrochemical performance of full batteries with bare Zn||MnVO and PANZ @Zn||MnVO. A) Cyclic voltammetry of full batteries, scan rate 0.3&#x000a0;mV s<sup>&#x02212;1</sup>. B) Rate performance of full batteries from 0.5 to 5 A g<sup>&#x02212;1</sup> based on the mass of MnVO. C) Capacity versus voltage curves at different current densities. D) Long&#x02010;term cycling performance of full batteries.</p></caption><graphic id="jats-graphic-9" xlink:href="ADVS-8-2100309-g001"/></fig><p>The CV curves of the two batteries were recorded between 0.2 and 1.8&#x000a0;V versus Zn/Zn<sup>2+</sup> at a scan rate of 0.3&#x000a0;mV s<sup>&#x02212;1</sup>. The two batteries, respectively, present two pairs of cathodic/anodic peaks located at 1.16/0.73 and 0.80/0.40&#x000a0;V (Figure&#x000a0;<xref rid="advs2543-fig-0004" ref-type="fig">4A</xref>), corresponding to the zinc&#x02010;ion intercalation and deintercalation processes, respectively.<sup>[</sup>
+<xref rid="advs2543-bib-0084" ref-type="ref">
+<sup>84</sup>
+</xref>, <xref rid="advs2543-bib-0085" ref-type="ref">
+<sup>85</sup>
+</xref>
+<sup>]</sup> The CV curves of the MnVO cathode recorded at multiple scan rates (Figure <xref rid="advs2543-supitem-0001" ref-type="supplementary-material">S9</xref>, Supporting Information) show that the cathodic peaks are shifted toward more negative values with increasing scan rate, and the anodic peaks are shifted more positively, which can be ascribed to polarization.<sup>[</sup>
+<xref rid="advs2543-bib-0086" ref-type="ref">
+<sup>86</sup>
+</xref>
+<sup>]</sup>
+</p><p>The rate performance of the Zn||MnVO and PANZ@Zn||MnVO batteries were also tested at various current densities ranging from 0.5 to 5 A g<sup>&#x02212;1</sup>. As shown in Figure&#x000a0;<xref rid="advs2543-fig-0004" ref-type="fig">4B</xref>, the rate performance of PANZ@Zn||MnVO is better than that of Zn||MnVO. The full battery PANZ@Zn||MnVO delivers a high specific capacity of 373 mAh g<sup>&#x02212;1</sup>, 379, 340, 290, 254, and 220 mAh g<sup>&#x02212;1</sup> at current densities of 0.5, 1, 2, 3, and 4 A g<sup>&#x02212;1</sup>, respectively. Even at a very high current density of 5 A g<sup>&#x02212;1</sup>, the PANZ@Zn still displays a high discharge specific capacity of 170 mAh g<sup>&#x02212;1</sup>, reaching &#x02248;45% capacity utilization. However, the discharge specific capacity of the Zn||MnVO battery is lower than that of the PANZ@Zn||MnVO battery when the current density is over 1&#x000a0;A&#x000a0;g<sup>&#x02212;1</sup>. The charge&#x02013;discharge curves in Figure&#x000a0;<xref rid="advs2543-fig-0004" ref-type="fig">4C</xref> reveal that the PANZ@Zn||MnVO presents a smaller voltage hysteresis than Zn||MnVO, which can be attributed to the reduced interfacial impedance due to the improved wettability provided by introducing the PANZ coating layer.</p><p>The long&#x02010;term cycling stability of the full batteries was tested at 500&#x000a0;mA g<sup>&#x02212;1</sup> (Figure&#x000a0;<xref rid="advs2543-fig-0004" ref-type="fig">4D</xref>). The battery with a bare Zn anode presented rapid capacity decay, and internal short circuit occurred at the 260th cycle (Figure <xref rid="advs2543-supitem-0001" ref-type="supplementary-material">S10A</xref>, Supporting Information). The fast decaying cycling performance can be attributed to the continuous corrosion of the unprotected Zn anode and the continuous growth of dendrites.<sup>[</sup>
+<xref rid="advs2543-bib-0087" ref-type="ref">
+<sup>87</sup>
+</xref>
+<sup>]</sup>
+</p><p>By comparison, the cycling stability and lifespan of the PANZ@Zn||MnVO battery is enhanced significantly, with high capacity retention (255 mAh g<sup>&#x02212;1</sup>) after 500 cycles and a longer lifespan of over 1000 cycles, even with the 20&#x000a0;&#x000b5;m thickness zinc foil used here. The dynamic EIS analysis of full batteries with PANZ@Zn||MnVO and Zn||MnVO (Figure <xref rid="advs2543-supitem-0001" ref-type="supplementary-material">S10B</xref>,<xref rid="advs2543-supitem-0001" ref-type="supplementary-material">C</xref>, Supporting Information) reveals that the battery with a PANZ@Zn anode has a slightly lower resistance than the Zn||MnVO battery, which can be attributed to the improvement of the wettability of Zn, thus reducing the interfacial impedance. The increase in impedance of Zn||MnVO with cycling confirms that the PANZ coating layer plays the key role of an artificial solid electrolyte interphase (SEI) to maintain impedance stability during battery cycling.</p></sec><sec id="advs2543-sec-0030"><label>3</label><title>Conclusion</title><p>We have developed a PANZ coating layer consisting of PAN polymer and zinc salt on a Zn anode (PANZ@Zn) to suppress dendrite formation in ARZIBs. The zinc&#x02010;ion transport channels in the PANZ coating layer serve as a zinc&#x02010;ion flux regulator and enhance the uniform deposition of zinc ions on the zinc substrate. As a result, the PANZ coating layer reduces the interfacial impedance, resists dendrite formation, and alleviates side reactions on the zinc anode. Consequently, the PANZ@Zn anode in the symmetric batteries shows a dendrite&#x02010;free surface, and the symmetric cell has a longer lifespan than that of the uncoated bare zinc anode. Moreover, studies of the morphology and the reversibility on copper foil further affirm that the PANZ coating layer can promote the even electrodeposition of zinc ions and maintain high plating/stripping reversibility. The full battery with a PANZ@Zn anode has an excellent rate performance and a good cycling performance. The method proposed and the in&#x02010;depth understanding of the mechanism in the current work could represent a big step forward for zinc dendrite suppression and stimulate further efforts on zinc&#x02010;metal anodes and other aqueous metal&#x02010;ion batteries.</p></sec><sec sec-type="COI-statement" id="advs2543-sec-0050"><title>Conflict of Interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="advs2543-supitem-0001"><caption><p>Supporting Information</p></caption><media xlink:href="ADVS-8-2100309-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="advs2543-sec-0040"><title>Acknowledgements</title><p>P.C. and X.Y. contributed equally to this work. The authors gratefully acknowledge the financial support from the National Key R &#x00026; D Program of China (No. 2018YFB0104300), National Natural Science Foundation of China (Grant Nos. 51425301, U1601214, and 51974081), Natural Science Foundation of Jiangsu Province (No. BK20200696), State Key Lab Research Foundation (No. ZK201805, ZK201717), the Jiangsu Provincial Innovation Foundation for Postgraduate (Grant No. KYCX20_1072), and the Natural Science Foundation of Liaoning Province, China (Grant No. 2019&#x02010;MS&#x02010;129).</p></ack><sec id="advs2543-sec-0070" sec-type="data-availability"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="advs2543-bibl-0001"><ref id="advs2543-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs2543-cit-0001">
+<string-name>
+<given-names>B.</given-names>
+<surname>Obama</surname>
+</string-name>, <source xml:lang="en">Science</source>
+<year>2017</year>, <volume>355</volume>, <fpage>126</fpage>.<pub-id pub-id-type="pmid">28069665</pub-id></mixed-citation></ref><ref id="advs2543-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs2543-cit-0002">
+<string-name>
+<given-names>E.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wu</surname>
+</string-name>, <source xml:lang="en">Chem. Rev.</source>
+<year>2020</year>, <volume>120</volume>, <fpage>7020</fpage>.<pub-id pub-id-type="pmid">31990183</pub-id></mixed-citation></ref><ref id="advs2543-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs2543-cit-0003">
+<string-name>
+<given-names>B.</given-names>
+<surname>Dunn</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kamath</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;M.</given-names>
+<surname>Tarascon</surname>
+</string-name>, <source xml:lang="en">Science</source>
+<year>2011</year>, <volume>334</volume>, <fpage>928</fpage>.<pub-id pub-id-type="pmid">22096188</pub-id></mixed-citation></ref><ref id="advs2543-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs2543-cit-0004">
+<string-name>
+<given-names>N.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Long</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <source xml:lang="en">Nat. Commun.</source>
+<year>2017</year>, <volume>8</volume>, <fpage>405</fpage>.<pub-id pub-id-type="pmid">28864823</pub-id></mixed-citation></ref><ref id="advs2543-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs2543-cit-0005">
+<string-name>
+<given-names>X.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zuo</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Holze</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>van Ree</surname>
+</string-name>, <source xml:lang="en">Electrochem. Energy Rev.</source>
+<year>2021</year>, <volume>4</volume>, <elocation-id>1</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs2543-cit-0006">
+<string-name>
+<given-names>F.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Tseng</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Feng</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2020</year>, <volume>32</volume>, <elocation-id>2000287</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs2543-cit-0007">
+<string-name>
+<given-names>H.</given-names>
+<surname>Jia</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Tawiah</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;Y.</given-names>
+<surname>Chan</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Fei</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Pan</surname>
+</string-name>, <source xml:lang="en">Nano Energy</source>
+<year>2020</year>, <volume>70</volume>, <elocation-id>104523</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs2543-cit-0008">
+<string-name>
+<given-names>J.</given-names>
+<surname>Yi</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2018</year>, <volume>11</volume>, <fpage>3075</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs2543-cit-0009">
+<string-name>
+<given-names>J.</given-names>
+<surname>Shin</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>J. W.</given-names>
+<surname>Choi</surname>
+</string-name>, <source xml:lang="en">Chem. Sci.</source>
+<year>2020</year>, <volume>11</volume>, <fpage>2028</fpage>.<pub-id pub-id-type="pmid">32180925</pub-id></mixed-citation></ref><ref id="advs2543-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs2543-cit-0010">
+<string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zha</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Huang</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2016</year>, <volume>28</volume>, <fpage>4904</fpage>.<pub-id pub-id-type="pmid">27120391</pub-id></mixed-citation></ref><ref id="advs2543-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs2543-cit-0011">
+<string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <source xml:lang="en">J. Mater. Chem. A</source>
+<year>2020</year>, <volume>8</volume>, <fpage>9313</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs2543-cit-0012">
+<string-name>
+<given-names>F.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xiong</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>van Ree</surname>
+</string-name>, <source xml:lang="en">Energy Fuels</source>
+<year>2020</year>, <volume>34</volume>, <elocation-id>13104</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs2543-cit-0013">
+<string-name>
+<given-names>X.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Mo</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yue</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <source xml:lang="en">ChemElectroChem</source>
+<year>2020</year>, <volume>7</volume>, <fpage>1531</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs2543-cit-0014">
+<string-name>
+<given-names>L. E.</given-names>
+<surname>Blanc</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Kundu</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Nazar</surname>
+</string-name>, <source xml:lang="en">Joule</source>
+<year>2020</year>, <volume>4</volume>, <fpage>771</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs2543-cit-0015">
+<string-name>
+<given-names>V.</given-names>
+<surname>Yufit</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Tariq</surname>
+</string-name>, <string-name>
+<given-names>D. S.</given-names>
+<surname>Eastwood</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Biton</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>P. D.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>N. P.</given-names>
+<surname>Brandon</surname>
+</string-name>, <source xml:lang="en">Joule</source>
+<year>2019</year>, <volume>3</volume>, <fpage>485</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs2543-cit-0016">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Luan</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <source xml:lang="en">Nat. Commun.</source>
+<year>2020</year>, <volume>11</volume>, <fpage>3961</fpage>.<pub-id pub-id-type="pmid">32770066</pub-id></mixed-citation></ref><ref id="advs2543-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs2543-cit-0017">
+<string-name>
+<given-names>M.</given-names>
+<surname>Chamoun</surname>
+</string-name>, <string-name>
+<given-names>B. J.</given-names>
+<surname>Hertzberg</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Gupta</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Davies</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Bhadra</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>van Tassell</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Erdonmez</surname>
+</string-name>, <string-name>
+<given-names>D. A.</given-names>
+<surname>Steingart</surname>
+</string-name>, <source xml:lang="en">NPG Asia Mater.</source>
+<year>2015</year>, <volume>7</volume>, <elocation-id>e178</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs2543-cit-0018">
+<string-name>
+<given-names>J. F.</given-names>
+<surname>Parker</surname>
+</string-name>, <string-name>
+<given-names>C. N.</given-names>
+<surname>Chervin</surname>
+</string-name>, <string-name>
+<given-names>I. R.</given-names>
+<surname>Pala</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Machler</surname>
+</string-name>, <string-name>
+<given-names>M. F.</given-names>
+<surname>Burz</surname>
+</string-name>, <string-name>
+<given-names>J. W.</given-names>
+<surname>Long</surname>
+</string-name>, <string-name>
+<given-names>D. R.</given-names>
+<surname>Rolison</surname>
+</string-name>, <source xml:lang="en">Science</source>
+<year>2017</year>, <volume>356</volume>, <fpage>415</fpage>.<pub-id pub-id-type="pmid">28450638</pub-id></mixed-citation></ref><ref id="advs2543-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs2543-cit-0019">
+<string-name>
+<given-names>B.</given-names>
+<surname>Bozzini</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Mele</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Veneziano</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Sodini</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Lanzafame</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Taurino</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Mancini</surname>
+</string-name>, <source xml:lang="en">ACS Appl. Energy Mater.</source>
+<year>2020</year>, <volume>3</volume>, <fpage>4931</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs2543-cit-0020">
+<string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Chen</surname>
+</string-name>, <source xml:lang="en">ACS Nano</source>
+<year>2020</year>, <volume>14</volume>, <fpage>2404</fpage>.<pub-id pub-id-type="pmid">32017531</pub-id></mixed-citation></ref><ref id="advs2543-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs2543-cit-0021">
+<string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Ran</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Lang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Jiang</surname>
+</string-name>, <source xml:lang="en">Nat. Commun.</source>
+<year>2020</year>, <volume>11</volume>, <fpage>1634</fpage>.<pub-id pub-id-type="pmid">32242024</pub-id></mixed-citation></ref><ref id="advs2543-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs2543-cit-0022">
+<string-name>
+<given-names>B.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lei</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Mai</surname>
+</string-name>, <source xml:lang="en">Small</source>
+<year>2020</year>, <volume>16</volume>, <elocation-id>2001323</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs2543-cit-0023">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Luan</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <source xml:lang="en">Angew. Chem., Int. Ed.</source>
+<year>2019</year>, <volume>58</volume>, <elocation-id>15841</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs2543-cit-0024">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Mou</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Xu</surname>
+</string-name>, <source xml:lang="en">ACS Sustainable Chem. Eng.</source>
+<year>2019</year>, <volume>7</volume>, <fpage>3364</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="advs2543-cit-0025">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Qin</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Tong</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Lu</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2019</year>, <volume>31</volume>, <elocation-id>1903675</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="advs2543-cit-0026">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <source xml:lang="en">Energy Fuels</source>
+<year>2020</year>, <volume>34</volume>, <elocation-id>13118</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs2543-cit-0027">
+<string-name>
+<given-names>M.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Chandrasekhar</surname>
+</string-name>, <string-name>
+<given-names>R. K. M.</given-names>
+<surname>Raghupathy</surname>
+</string-name>, <string-name>
+<given-names>K. H.</given-names>
+<surname>Ly</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Dmitrieva</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>T. D.</given-names>
+<surname>K&#x000fc;hne</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Mirhosseini</surname>
+</string-name>, <string-name>
+<given-names>I. M.</given-names>
+<surname>Weidinger</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Feng</surname>
+</string-name>, <source xml:lang="en">J. Am. Chem. Soc.</source>
+<year>2020</year>, <volume>142</volume>, <elocation-id>19570</elocation-id>.<pub-id pub-id-type="pmid">33164490</pub-id></mixed-citation></ref><ref id="advs2543-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="advs2543-cit-0028">
+<string-name>
+<given-names>X.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Qin</surname>
+</string-name>, <source xml:lang="en">J. Power Sources</source>
+<year>2019</year>, <volume>438</volume>, <elocation-id>226986</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="advs2543-cit-0029">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xia</surname>
+</string-name>, <source xml:lang="en">Joule</source>
+<year>2019</year>, <volume>3</volume>, <fpage>1289</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="advs2543-cit-0030">
+<string-name>
+<given-names>L.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <source xml:lang="en">J. Am. Chem. Soc.</source>
+<year>2020</year>, <volume>142</volume>, <elocation-id>21404</elocation-id>.<pub-id pub-id-type="pmid">33290658</pub-id></mixed-citation></ref><ref id="advs2543-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="advs2543-cit-0031">
+<string-name>
+<given-names>A.</given-names>
+<surname>Naveed</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Nuli</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <source xml:lang="en">Angew. Chem., Int. Ed.</source>
+<year>2019</year>, <volume>58</volume>, <fpage>2760</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="advs2543-cit-0032">
+<string-name>
+<given-names>K. E. K.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>T. K. A.</given-names>
+<surname>Hoang</surname>
+</string-name>, <string-name>
+<given-names>T. N. L.</given-names>
+<surname>Doan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Chen</surname>
+</string-name>, <source xml:lang="en">ACS Appl. Mater. Interfaces</source>
+<year>2017</year>, <volume>9</volume>, <fpage>9681</fpage>.<pub-id pub-id-type="pmid">28240861</pub-id></mixed-citation></ref><ref id="advs2543-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="advs2543-cit-0033">
+<string-name>
+<given-names>X.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Chai</surname>
+</string-name>, <string-name>
+<given-names>T. S.</given-names>
+<surname>Miller</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Lai</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Shearing</surname>
+</string-name>, <string-name>
+<given-names>D. J. L.</given-names>
+<surname>Brett</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Weng</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>I. P.</given-names>
+<surname>Parkin</surname>
+</string-name>, <source xml:lang="en">ACS Energy Lett.</source>
+<year>2021</year>, <volume>6</volume>, <fpage>395</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="advs2543-cit-0034">
+<string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>I. A.</given-names>
+<surname>Rodr&#x000ed;guez&#x02010;P&#x000e9;rez</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>D. P.</given-names>
+<surname>Leonard</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ji</surname>
+</string-name>, <source xml:lang="en">Adv. Funct. Mater.</source>
+<year>2019</year>, <volume>29</volume>, <elocation-id>1902653</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="advs2543-cit-0035">
+<string-name>
+<given-names>C.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Holoubek</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Daniyar</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>D. P.</given-names>
+<surname>Leonard</surname>
+</string-name>, <string-name>
+<given-names>I. A.</given-names>
+<surname>Rodr&#x000ed;guez&#x02010;P&#x000e9;rez</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ji</surname>
+</string-name>, <source xml:lang="en">Chem. Commun.</source>
+<year>2018</year>, <volume>54</volume>, <elocation-id>14097</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="advs2543-cit-0036">
+<string-name>
+<given-names>F.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Borodin</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Faraone</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Dura</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <source xml:lang="en">Nat. Mater.</source>
+<year>2018</year>, <volume>17</volume>, <fpage>543</fpage>.<pub-id pub-id-type="pmid">29662160</pub-id></mixed-citation></ref><ref id="advs2543-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="advs2543-cit-0037">
+<string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhan</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Jiang</surname>
+</string-name>, <source xml:lang="en">ACS Appl. Mater. Interfaces</source>
+<year>2018</year>, <volume>10</volume>, <elocation-id>22059</elocation-id>.<pub-id pub-id-type="pmid">29882643</pub-id></mixed-citation></ref><ref id="advs2543-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="advs2543-cit-0038">
+<string-name>
+<given-names>S.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Lan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Humphreys</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Tao</surname>
+</string-name>, <source xml:lang="en">Energy Storage Mater.</source>
+<year>2020</year>, <volume>28</volume>, <fpage>205</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="advs2543-cit-0039">
+<string-name>
+<given-names>J.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Qiu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <source xml:lang="en">Nano Energy</source>
+<year>2019</year>, <volume>57</volume>, <fpage>625</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="advs2543-cit-0040">
+<string-name>
+<given-names>E. L.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name>
+<given-names>A. P.</given-names>
+<surname>Abbott</surname>
+</string-name>, <string-name>
+<given-names>K. S.</given-names>
+<surname>Ryder</surname>
+</string-name>, <source xml:lang="en">Chem. Rev.</source>
+<year>2014</year>, <volume>114</volume>, <elocation-id>11060</elocation-id>.<pub-id pub-id-type="pmid">25300631</pub-id></mixed-citation></ref><ref id="advs2543-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="advs2543-cit-0041">
+<string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Pei</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sui</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <source xml:lang="en">Angew. Chem., Int. Ed.</source>
+<year>2021</year>, <volume>60</volume>, <fpage>990</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="advs2543-cit-0042">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source xml:lang="en">Energy Storage Mater.</source>
+<year>2020</year>, <volume>27</volume>, <fpage>109</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="advs2543-cit-0043">
+<string-name>
+<given-names>L.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Zapien</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhi</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2020</year>, <volume>32</volume>, <elocation-id>1908121</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="advs2543-cit-0044">
+<string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Pei</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Xue</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhi</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2018</year>, <volume>11</volume>, <fpage>941</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="advs2543-cit-0045">
+<string-name>
+<given-names>D.</given-names>
+<surname>Chao</surname>
+</string-name>, <string-name>
+<given-names>C. R.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>N. H.</given-names>
+<surname>Tiep</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H. J.</given-names>
+<surname>Fan</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2018</year>, <volume>30</volume>, <elocation-id>1803181</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="advs2543-cit-0046">
+<string-name>
+<given-names>X.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;X.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Duan</surname>
+</string-name>, <source xml:lang="en">Adv. Energy Mater.</source>
+<year>2020</year>, <volume>10</volume>, <elocation-id>2001583</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="advs2543-cit-0047">
+<string-name>
+<given-names>W.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <source xml:lang="en">ChemComm</source>
+<year>2020</year>, <volume>56</volume>, <fpage>2039</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="advs2543-cit-0048">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Luan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <source xml:lang="en">Angew. Chem., Int. Ed.</source>
+<year>2020</year>, <volume>59</volume>, <elocation-id>13180</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="advs2543-cit-0049">
+<string-name>
+<given-names>J.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>C. D.</given-names>
+<surname>Quilty</surname>
+</string-name>, <string-name>
+<given-names>G. D.</given-names>
+<surname>Renderos</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>D. C.</given-names>
+<surname>Bock</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Jaye</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>E. S.</given-names>
+<surname>Takeuchi</surname>
+</string-name>, <string-name>
+<given-names>K. J.</given-names>
+<surname>Takeuchi</surname>
+</string-name>, <string-name>
+<given-names>A. C.</given-names>
+<surname>Marschilok</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Archer</surname>
+</string-name>, <source xml:lang="en">Science</source>
+<year>2019</year>, <volume>366</volume>, <fpage>645</fpage>.<pub-id pub-id-type="pmid">31672899</pub-id></mixed-citation></ref><ref id="advs2543-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="advs2543-cit-0050">
+<string-name>
+<given-names>M.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhi</surname>
+</string-name>, <source xml:lang="en">ACS Appl. Energy Mater.</source>
+<year>2019</year>, <volume>2</volume>, <fpage>6490</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="advs2543-cit-0051">
+<string-name>
+<given-names>K.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Guan</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Lv</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Luo</surname>
+</string-name>, <source xml:lang="en">Chem. Eng. J.</source>
+<year>2020</year>, <volume>396</volume>, <elocation-id>125363</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="advs2543-cit-0052">
+<string-name>
+<given-names>D.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Long</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Tao</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Weng</surname>
+</string-name>, <string-name>
+<given-names>Q.&#x02010;H.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Kang</surname>
+</string-name>, <source xml:lang="en">Small</source>
+<year>2020</year>, <volume>16</volume>, <elocation-id>2001736</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="advs2543-cit-0053">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Cai</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ou</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zhan</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Sun</surname>
+</string-name>, <source xml:lang="en">Energy Storage Mater.</source>
+<year>2020</year>, <volume>27</volume>, <fpage>205</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="advs2543-cit-0054">
+<string-name>
+<given-names>R.</given-names>
+<surname>Yuksel</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Buyukcakir</surname>
+</string-name>, <string-name>
+<given-names>W. K.</given-names>
+<surname>Seong</surname>
+</string-name>, <string-name>
+<given-names>R. S.</given-names>
+<surname>Ruoff</surname>
+</string-name>, <source xml:lang="en">Adv. Energy Mater.</source>
+<year>2020</year>, <volume>10</volume>, <elocation-id>1904215</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="advs2543-cit-0055">
+<string-name>
+<given-names>C.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;G.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Wei</surname>
+</string-name>, <source xml:lang="en">ACS Appl. Mater. Interfaces</source>
+<year>2018</year>, <volume>10</volume>, <elocation-id>25446</elocation-id>.<pub-id pub-id-type="pmid">29979565</pub-id></mixed-citation></ref><ref id="advs2543-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="advs2543-cit-0056">
+<string-name>
+<given-names>M.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Mai</surname>
+</string-name>, <source xml:lang="en">Adv. Energy Mater.</source>
+<year>2019</year>, <volume>9</volume>, <elocation-id>1901469</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="advs2543-cit-0057">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>An</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source xml:lang="en">Adv. Funct. Mater.</source>
+<year>2021</year>, <volume>31</volume>, <elocation-id>2006495</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="advs2543-cit-0058">
+<string-name>
+<given-names>K.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Mai</surname>
+</string-name>, <source xml:lang="en">Adv. Mater. Interfaces</source>
+<year>2018</year>, <volume>5</volume>, <elocation-id>1800848</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="advs2543-cit-0059">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zuo</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Ning</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zuo</surname>
+</string-name>, <source xml:lang="en">Coatings</source>
+<year>2019</year>, <volume>9</volume>, <fpage>692</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="advs2543-cit-0060">
+<string-name>
+<given-names>H.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Tong</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <source xml:lang="en">J. Mater. Chem. A</source>
+<year>2020</year>, <volume>8</volume>, <fpage>7836</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="advs2543-cit-0061">
+<string-name>
+<given-names>J.</given-names>
+<surname>Hao</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Guo</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2020</year>, <volume>32</volume>, <elocation-id>2003021</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="advs2543-cit-0062">
+<string-name>
+<given-names>S.</given-names>
+<surname>Bhoyate</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Mhin</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Jeon</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Choi</surname>
+</string-name>, <source xml:lang="en">ACS Appl. Mater. Interfaces</source>
+<year>2020</year>, <volume>12</volume>, <elocation-id>27249</elocation-id>.<pub-id pub-id-type="pmid">32437120</pub-id></mixed-citation></ref><ref id="advs2543-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="advs2543-cit-0063">
+<string-name>
+<given-names>L.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <source xml:lang="en">Angew. Chem., Int. Ed.</source>
+<year>2020</year>, <volume>59</volume>, <elocation-id>19292</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="advs2543-cit-0064">
+<string-name>
+<given-names>R.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Qie</surname>
+</string-name>, <source xml:lang="en">Adv. Funct. Mater.</source>
+<year>2021</year>, <volume>31</volume>, <elocation-id>2001867</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="advs2543-cit-0065">
+<string-name>
+<given-names>L.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhi</surname>
+</string-name>, <source xml:lang="en">Adv. Energy Mater.</source>
+<year>2018</year>, <volume>8</volume>, <elocation-id>1801090</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="advs2543-cit-0066">
+<string-name>
+<given-names>P.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yi</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source xml:lang="en">Adv. Funct. Mater.</source>
+<year>2020</year>, <volume>30</volume>, <elocation-id>1908528</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="advs2543-cit-0067">
+<string-name>
+<given-names>C.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Liang</surname>
+</string-name>, <source xml:lang="en">Adv. Funct. Mater.</source>
+<year>2020</year>, <volume>30</volume>, <elocation-id>2000599</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="advs2543-cit-0068">
+<string-name>
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Amine</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Pan</surname>
+</string-name>, <source xml:lang="en">ACS Appl. Mater. Interfaces</source>
+<year>2019</year>, <volume>11</volume>, <elocation-id>32046</elocation-id>.<pub-id pub-id-type="pmid">31407885</pub-id></mixed-citation></ref><ref id="advs2543-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="advs2543-cit-0069">
+<string-name>
+<given-names>H.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Qiao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Mu</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source xml:lang="en">Angew. Chem., Int. Ed.</source>
+<year>2020</year>, <volume>59</volume>, <fpage>9377</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="advs2543-cit-0070">
+<string-name>
+<given-names>W.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S. W.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>A. D.</given-names>
+<surname>Sendek</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source xml:lang="en">Nat. Energy</source>
+<year>2017</year>, <volume>2</volume>, <elocation-id>17035</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="advs2543-cit-0071">
+<string-name>
+<given-names>A.</given-names>
+<surname>Manuel Stephan</surname>
+</string-name>, <source xml:lang="en">Eur. Polym. J.</source>
+<year>2006</year>, <volume>42</volume>, <fpage>21</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="advs2543-cit-0072">
+<string-name>
+<given-names>W.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Hsu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source xml:lang="en">Nano Lett.</source>
+<year>2015</year>, <volume>15</volume>, <fpage>2740</fpage>.<pub-id pub-id-type="pmid">25782069</pub-id></mixed-citation></ref><ref id="advs2543-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="advs2543-cit-0073">
+<string-name>
+<given-names>S.</given-names>
+<surname>Choudhury</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Vu</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Warren</surname>
+</string-name>, <string-name>
+<given-names>M. D.</given-names>
+<surname>Tikekar</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Archer</surname>
+</string-name>, <source xml:lang="en">Proc. Natl. Acad. Sci. USA</source>
+<year>2018</year>, <volume>115</volume>, <fpage>6620</fpage>.<pub-id pub-id-type="pmid">29891658</pub-id></mixed-citation></ref><ref id="advs2543-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="advs2543-cit-0074">
+<string-name>
+<given-names>H. G. M.</given-names>
+<surname>Edwards</surname>
+</string-name>, <string-name>
+<given-names>A. R.</given-names>
+<surname>Hoskins</surname>
+</string-name>, <string-name>
+<given-names>A. F.</given-names>
+<surname>Johnson</surname>
+</string-name>, <string-name>
+<given-names>I. R.</given-names>
+<surname>Lewis</surname>
+</string-name>, <source xml:lang="en">Polym. Int.</source>
+<year>1993</year>, <volume>30</volume>, <fpage>25</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="advs2543-cit-0075">
+<string-name>
+<given-names>A.</given-names>
+<surname>Ferry</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Edman</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Forsyth</surname>
+</string-name>, <string-name>
+<given-names>D. R.</given-names>
+<surname>MacFarlane</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sun</surname>
+</string-name>, <source xml:lang="en">Electrochim. Acta</source>
+<year>2000</year>, <volume>45</volume>, <fpage>1237</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="advs2543-cit-0076">
+<string-name>
+<given-names>K.</given-names>
+<surname>Perera</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Dissanayake</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Bandaranayake</surname>
+</string-name>, <source xml:lang="en">Electrochim. Acta</source>
+<year>2000</year>, <volume>45</volume>, <fpage>1361</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="advs2543-cit-0077">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Pan</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Wang</surname>
+</string-name>, <source xml:lang="en">J. Appl. Polym. Sci.</source>
+<year>2019</year>, <volume>136</volume>, <elocation-id>47902</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="advs2543-cit-0078">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Cui</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2019</year>, <volume>12</volume>, <fpage>1938</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="advs2543-cit-0079">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Nie</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhong</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Duan</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Cao</surname>
+</string-name>, <source xml:lang="en">Appl. Surf. Sci.</source>
+<year>2020</year>, <volume>517</volume>, <elocation-id>146079</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0080"><label>80</label><mixed-citation publication-type="journal" id="advs2543-cit-0080">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhi</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2020</year>, <volume>32</volume>, <elocation-id>2001854</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0081"><label>81</label><mixed-citation publication-type="journal" id="advs2543-cit-0081">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhi</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2020</year>, <volume>32</volume>, <elocation-id>2001755</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0082"><label>82</label><mixed-citation publication-type="journal" id="advs2543-cit-0082">
+<string-name>
+<given-names>H.</given-names>
+<surname>Qiu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ju</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Cui</surname>
+</string-name>, <source xml:lang="en">Nat. Commun.</source>
+<year>2019</year>, <volume>10</volume>, <fpage>5374</fpage>.<pub-id pub-id-type="pmid">31772177</pub-id></mixed-citation></ref><ref id="advs2543-bib-0083"><label>83</label><mixed-citation publication-type="journal" id="advs2543-cit-0083">
+<string-name>
+<given-names>X.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2020</year>, <volume>13</volume>, <fpage>503</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0084"><label>84</label><mixed-citation publication-type="journal" id="advs2543-cit-0084">
+<string-name>
+<given-names>C.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Neale</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Jia</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Cao</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2019</year>, <volume>12</volume>, <fpage>2273</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0085"><label>85</label><mixed-citation publication-type="journal" id="advs2543-cit-0085">
+<string-name>
+<given-names>H.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>K. A.</given-names>
+<surname>See</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;S.</given-names>
+<surname>Jun</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Gerbec</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ji</surname>
+</string-name>, <string-name>
+<given-names>G. D.</given-names>
+<surname>Stucky</surname>
+</string-name>, <source xml:lang="en">Chem. Mater.</source>
+<year>2015</year>, <volume>27</volume>, <fpage>7331</fpage>.</mixed-citation></ref><ref id="advs2543-bib-0086"><label>86</label><mixed-citation publication-type="journal" id="advs2543-cit-0086">
+<string-name>
+<given-names>J.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Gong</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yang</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2018</year>, <volume>30</volume>, <elocation-id>1800762</elocation-id>.</mixed-citation></ref><ref id="advs2543-bib-0087"><label>87</label><mixed-citation publication-type="journal" id="advs2543-cit-0087">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Qin</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Qian</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Pan</surname>
+</string-name>, <source xml:lang="en">Energy Storage Mater.</source>
+<year>2020</year>, <volume>27</volume>, <fpage>1</fpage>.</mixed-citation></ref></ref-list></back></article>

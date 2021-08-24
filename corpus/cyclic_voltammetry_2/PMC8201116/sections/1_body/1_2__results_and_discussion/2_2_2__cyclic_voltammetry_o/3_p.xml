@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The generation of the Pd(II) oxide layer can be attributed to peak P3, which appears above −0.326 V (vs. Hg/HgO/OH
+ <sup>−</sup>). The electrochemical mechanism of this oxidation process is unknown. It is believed that OH
+ <sup>−</sup> ions are chemisorbed first in the early stages of oxide formation, followed by the formation of higher valence oxides at higher potentials, as shown below (Equations (8)−(10)). 
+ <disp-formula>Pd + OH
+  <sup>−</sup> ↔ Pd-OH
+  <sub>ads</sub> + e
+  <sup>−</sup>
+  <label>(8)</label>
+ </disp-formula>
+ <disp-formula>Pd-OH
+  <sub>ads</sub> + OH
+  <sup>−</sup> ↔ Pd-O + H
+  <sub>2</sub>O + e
+  <sup>−</sup>
+  <label>(9)</label>
+ </disp-formula>
+ <disp-formula>Pd-OH
+  <sub>ads</sub> + Pd-OH
+  <sub>ads</sub> ↔ Pd-O + H
+  <sub>2</sub>O. 
+  <label>(10)</label>
+ </disp-formula>
+</p>

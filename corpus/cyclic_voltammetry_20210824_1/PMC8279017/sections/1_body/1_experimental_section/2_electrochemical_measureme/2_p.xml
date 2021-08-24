@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Cyclic voltammetry (CV) was performed at a scan rate of 0.1 mV s
+ <sup>–1</sup> in the 1.8–2.8 V vs Li
+ <sup>+</sup>/Li potential range for the S:Sn 80:20 electrode and in the 2.7–3.9 V vs Li
+ <sup>+</sup>/Li potential range for the LFP one. Electrochemical impedance spectra were collected at the open circuit voltage (OCV) condition of the cell, as well as after 1, 5, and 10 CV cycles, and were analyzed through the nonlinear least-squares (NLLS) fitting method via the Boukamp software (χ
+ <sup>2</sup> values of the order of 10
+ <sup>–4</sup> or lower).
+ <sup>
+  <xref ref-type="bibr" rid="ref28">28</xref>,
+  <xref ref-type="bibr" rid="ref29">29</xref>
+ </sup> EIS was performed by applying to the cells an alternate voltage signal with an amplitude of 10 mV within the frequency range from 500 kHz to 100 mHz. All of the CV and EIS measurements were performed by using a VersaSTAT MC Princeton Applied Research (PAR, AMETEK) instrument.
+</p>

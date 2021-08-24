@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR46">
+ <label>46.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kresse</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Furthmüller</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <article-title>Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set</article-title>
+  <source>Phys. Rev. B</source>
+  <year>1996</year>
+  <volume>54</volume>
+  <fpage>11169</fpage>
+  <lpage>11186</lpage>
+  <pub-id pub-id-type="doi">10.1103/PhysRevB.54.11169</pub-id>
+ </element-citation>
+</ref>

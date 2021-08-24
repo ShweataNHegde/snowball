@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <list list-type="bullet" id="cssc202100364-list-0001">
+  <list-item>
+   <p>It was already shown in earlier studies and confirmed in this study, that a two electron process accompanied with oxygen consumption is observed below −0.8 V in the investigated system.[
+    <xref rid="cssc202100364-bib-0021" ref-type="ref">
+     <sup>21</sup>
+    </xref>, 
+    <xref rid="cssc202100364-bib-0022" ref-type="ref">
+     <sup>22</sup>
+    </xref>]
+   </p>
+  </list-item>
+  <list-item>
+   <p>The formed peroxide is only slightly soluble: In the absence of convection, it precipitates in a nucleation and growth mechanism at the surface, predominantly at defects; it can slowly dissolve as demonstrated in the AFM experiments, for example. Under convection (which is more severe in the RRDE experiments than in the DEMS experiments) it is completely dissolved and transported to the ring electrode. There, its oxidation is slow and requires high potentials even at rough ring electrodes.</p>
+  </list-item>
+  <list-item>
+   <p>Peroxide formation is initiated by a one electron process (most likely superoxide formation) as indicated by the Tafel slope obtained from the current voltage curves and – indirectly – from the shift of the half‐wave potential of ORR with electrode roughness.</p>
+  </list-item>
+  <list-item>
+   <p>In immediate contact with the Au surface is an adsorbed layer of CaO
+    <sub>2</sub> or CaO,
+    <xref rid="cssc202100364-bib-0029" ref-type="ref">
+     <sup>[29]</sup>
+    </xref> which is also stable after dissolution of bulk CaO
+    <sub>2</sub> and which inhibits further reduction of O
+    <sub>2</sub> to peroxide and therefore leads to the observed change in electrode activity (hysteresis) and transition from peroxide formation to superoxide formation. This assumption of an adsorbate blocking further peroxide formation stems from the small oxidation charge (typically below the charge of 390 μC cm
+    <sup>−2</sup> (real surface area) corresponding to a monolayer) observed for oxidative stripping of the adsorbate in subsequent anodic sweeps at the RRDE and AFM after waiting for complete dissolution.
+   </p>
+  </list-item>
+  <list-item>
+   <p>After completion of the adsorbate layer soluble superoxide is the predominant product during ORR. At smooth Au, also superoxide formation is blocked 300 s after potential stop at −1.6 V vs Ag/Ag
+    <sup>+</sup>, while on rough electrodes, the current for superoxide formation is larger and limited by diffusion without notable decay within 150 s of observation after completion of the adsorbate layer.
+   </p>
+  </list-item>
+  <list-item>
+   <p>The transition of peroxide to superoxide formation is indicated by an increasing ring current in RRDE generator collector experiments because peroxide oxidation at the ring electrode is limited by kinetics and not by diffusion (superoxide has faster oxidation kinetics).</p>
+  </list-item>
+  <list-item>
+   <p>On smooth disk electrodes in RRDE experiments, the superoxide formation is also partially hindered by the CaO
+    <sub>2</sub>/CaO‐adsorbate layer,
+    <xref rid="cssc202100364-bib-0029" ref-type="ref">
+     <sup>[29]</sup>
+    </xref> while on rough electrodes this is not the case, indicating a more defective adsorbate and thus more facile conduction.
+   </p>
+  </list-item>
+  <list-item>
+   <p>The electrochemically formed, soluble peroxide and the peroxide possibly formed via disproportionation deposits on the electrode surface as particles, if no convection is present. The particle formation is clearly visible in AFM measurements without convection. So far it is unclear, if the deposit originates from soluble peroxide formed prior completion of the adsorbate layer, from peroxide formed via superoxide disproportionation or both.</p>
+  </list-item>
+ </list>
+</p>

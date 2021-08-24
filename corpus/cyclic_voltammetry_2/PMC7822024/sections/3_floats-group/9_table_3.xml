@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="nanomaterials-11-00003-t003" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">nanomaterials-11-00003-t003_Table 3</object-id>
+ <label>Table 3</label>
+ <caption>
+  <p>Mechanical properties of coaxial and triaxial fibers.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Sample Name</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Young’s Modulus (GPa)</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Ultimate Stress (MPa)</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Ultimate Strain (%)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">PEDOT:PSS fiber [
+     <xref rid="B61-nanomaterials-11-00003" ref-type="bibr">61</xref>]
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.3 ± 0.4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">125.0 ± 7.1</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">15.8 ± 1.2</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Chit-PEDOT fiber</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.9 ± 0.1</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">94.1 ± 3.5</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">8.6 ± 1.9</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Chit-PEDOT (+PEG) fiber</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.2 ± 0.6</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">160.3 ± 6.8</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">7.5 ± 0.9</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CNT- Chit-PEDOT (+PEG) fiber</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.6 ± 0.3</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">134.8 ± 3.3</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.5 ± 0.4</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

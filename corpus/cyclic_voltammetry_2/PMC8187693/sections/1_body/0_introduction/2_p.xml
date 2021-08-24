@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par28">Transition-metal-based single-atom-doped nitrogen–carbon electrocatalysts (M-N
+ <sub>4</sub>/NCs) are promising successors of noble-metal-based nanocatalysts, exhibiting excellent ORR/OER activity due to their ultrahigh atom utilization efficiency and surface active energy [
+ <xref ref-type="bibr" rid="CR1">1</xref>]. The superior catalytic activity of M-N
+ <sub>4</sub>/NCs mainly originates from the specific coordination between transition metal atoms and nitrogen, which provides a highly efficient means of modifying local electronic states [
+ <xref ref-type="bibr" rid="CR10">10</xref>, 
+ <xref ref-type="bibr" rid="CR11">11</xref>]. For instance, Han et al. [
+ <xref ref-type="bibr" rid="CR1">1</xref>] presented a single-atom Fe–N
+ <sub>
+  <italic>x</italic>
+ </sub>–C ORR electrocatalyst with a high positive half-wave potential and open-circuit voltage, while Zhu et al. [
+ <xref ref-type="bibr" rid="CR12">12</xref>] prepared hierarchically porous M–N
+ <sub>
+  <italic>x</italic>
+ </sub>–C (M = Co, Fe) single-atom electrocatalysts with superior ORR activity as a result of the rise active sites. Thus, the introduction of transition metals as monoatom active sites into N-doped carbon (NC) matrices is a suitable way of improving ZAB performance. Despite these achievements, the fabrication of well-dispersed M-N
+ <sub>4</sub>/NCs remains challenging. Notably, control of the interfacial contact between the metal atoms and the charcoal support as well as that of metal atom dispersion are crucial for ORR/OER activity enhancement. The currently known M-N
+ <sub>4</sub>/NC catalysts are largely synthesized by pyrolysis of transition-metal-based metal–organic frameworks (MOFs) [
+ <xref ref-type="bibr" rid="CR13">13</xref>–
+ <xref ref-type="bibr" rid="CR17">17</xref>] and metal phthalocyanines [
+ <xref ref-type="bibr" rid="CR18">18</xref>, 
+ <xref ref-type="bibr" rid="CR19">19</xref>] or by the chemical polymerization of metal-salt-impregnated organic precursors, such as urea, melamine, or aniline, followed by pyrolysis with a conductive carbon matrix at 700–1000 °C [
+ <xref ref-type="bibr" rid="CR20">20</xref>–
+ <xref ref-type="bibr" rid="CR24">24</xref>]. Moreover, rigid structures like zeolite imidazole frameworks [
+ <xref ref-type="bibr" rid="CR25">25</xref>, 
+ <xref ref-type="bibr" rid="CR26">26</xref>] or functionalized carbons with oxygenated groups should be used as supports to immobilize metal ions and thus prevent the aggregation of metal species during thermal treatment [
+ <xref ref-type="bibr" rid="CR27">27</xref>]. Although these methods allow one to obtain carbon matrices with various atomically dispersed metal centers, they require numerous steps and tedious processes to synthesize appropriate precursors, and the corresponding carbonization ratios and production rates remain low [
+ <xref ref-type="bibr" rid="CR28">28</xref>]. In addition, the decrease in particle size to the single-atom level often increases surface free energy and thus facilitates the aggregation of metal active sites to form larger clusters or nanoparticles at high pyrolysis temperatures. Consequently, one should establish a facile and scalable strategy of incorporating single metal atoms during carbon synthesis and aim to reduce the temperature of thermal treatment to prevent the aggregation of these atoms into clusters.
+</p>

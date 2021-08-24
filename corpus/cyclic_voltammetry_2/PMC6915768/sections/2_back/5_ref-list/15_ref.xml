@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nørskov</surname>
+    <given-names>JK</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Origin of the overpotential for oxygen reduction at a fuel-cell cathode</article-title>
+  <source>J Phys Chem B.</source>
+  <year>2004</year>
+  <volume>108</volume>
+  <fpage>17886</fpage>
+  <lpage>17892</lpage>
+  <pub-id pub-id-type="doi">10.1021/jp047349j</pub-id>
+ </element-citation>
+</ref>

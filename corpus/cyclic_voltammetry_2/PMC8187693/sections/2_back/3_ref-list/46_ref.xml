@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR46">
+ <label>46.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Methfessel</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Paxton</surname>
+    <given-names>AT</given-names>
+   </name>
+  </person-group>
+  <article-title>High-precision sampling for brillouin-zone integration in metals</article-title>
+  <source>Phys. Rev. B</source>
+  <year>1989</year>
+  <volume>40</volume>
+  <fpage>3616</fpage>
+  <lpage>3621</lpage>
+  <pub-id pub-id-type="doi">10.1103/PhysRevB.40.3616</pub-id>
+ </element-citation>
+</ref>

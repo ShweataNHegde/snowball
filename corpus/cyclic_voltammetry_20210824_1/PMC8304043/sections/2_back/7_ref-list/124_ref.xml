@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B124-materials-14-03840">
+ <label>124.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Homann</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Stolz</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Nair</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Laskovic</surname>
+    <given-names>I.C.</given-names>
+   </name>
+   <name>
+    <surname>Winter</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Kasnatscheew</surname>
+    <given-names>J.</given-names>
+   </name>
+  </person-group>
+  <article-title>Poly(Ethylene Oxide)-based Electrolyte for Solid-State-Lithium-Batteries with High Voltage Positive Electrodes: Evaluating the Role of Electrolyte Oxidation in Rapid Cell Failure</article-title>
+  <source>Sci. Rep.</source>
+  <year>2020</year>
+  <volume>10</volume>
+  <fpage>1</fpage>
+  <lpage>9</lpage>
+  <pub-id pub-id-type="doi">10.1038/s41598-020-61373-9</pub-id>
+  <?supplied-pmid 32152474?>
+  <pub-id pub-id-type="pmid">31913322</pub-id>
+ </element-citation>
+</ref>

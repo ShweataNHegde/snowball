@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR28">
+ <label>28.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Guo</surname>
+    <given-names>Y</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Carbon nanosheets containing discrete Co-Nx-By-C active sites for efficient oxygen electrocatalysis and rechargeable Zn-air batteries</article-title>
+  <source>ACS Nano</source>
+  <year>2018</year>
+  <volume>12</volume>
+  <fpage>1894</fpage>
+  <lpage>1901</lpage>
+  <pub-id pub-id-type="doi">10.1021/acsnano.7b08721</pub-id>
+  <?supplied-pmid 29361224?>
+  <pub-id pub-id-type="pmid">29361224</pub-id>
+ </element-citation>
+</ref>

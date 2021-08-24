@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Saad</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Shen</surname>
+    <given-names>HJ</given-names>
+   </name>
+   <name>
+    <surname>Cheng</surname>
+    <given-names>ZX</given-names>
+   </name>
+   <name>
+    <surname>Arbi</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Guo</surname>
+    <given-names>BB</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mesoporous ternary nitrides of earth-abundant metals as oxygen evolution electrocatalyst</article-title>
+  <source>Nano-Micro Lett.</source>
+  <year>2020</year>
+  <volume>12</volume>
+  <fpage>79</fpage>
+  <pub-id pub-id-type="doi">10.1007/s40820-020-0412-8</pub-id>
+ </element-citation>
+</ref>

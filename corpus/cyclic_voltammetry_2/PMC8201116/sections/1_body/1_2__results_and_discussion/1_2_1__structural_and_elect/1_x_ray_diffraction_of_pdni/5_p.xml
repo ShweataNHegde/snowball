@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Equation (2) was used to obtain the lattice constant. 
+ <disp-formula id="FD2-molecules-26-03440">
+  <label>(2)</label>
+  <math id="mm2">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>a</mi>
+      <mrow>
+       <mi>e</mi>
+       <mi>x</mi>
+       <mi>p</mi>
+      </mrow>
+     </msub>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <msqrt>
+        <mn>2</mn>
+       </msqrt>
+       <mi>θ</mi>
+      </mrow>
+      <mrow>
+       <mi>s</mi>
+       <mi>i</mi>
+       <mi>n</mi>
+       <mi>θ</mi>
+      </mrow>
+     </mfrac>
+     <mtext> </mtext>
+     <mo>.</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+</p>

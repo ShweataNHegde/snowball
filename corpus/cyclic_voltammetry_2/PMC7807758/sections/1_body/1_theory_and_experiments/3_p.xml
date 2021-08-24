@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Cyclic voltammetry was measured in a three-electrode system cell using a CHI 900B potentiostat (scan rate = 50 mV/s). A Au disk electrode (BASi, 1.6 mm diameter), a mercury–mercurous sulfate electrode (MSE, sat. K
+ <sub>2</sub>SO
+ <sub>4</sub>), and a Pt wire served as the working electrode, reference electrode, and counter electrode, respectively. A 0.105 M KClO
+ <sub>4</sub> electrolyte was purged with argon gas for 15 min before the experiment. Both the voltage signal and the current signal were transformed into the frequency domain based on a previously reported method,
+ <sup>
+  <xref ref-type="bibr" rid="ref17">17</xref>
+ </sup> followed by impedance data. It should be mentioned that this impedance from large perturbations is not the same as the conventional electrochemical impedance from small perturbations. Then, the low-frequency region of impedance was fitted with Randles equivalent circuits shown in 
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>A whose impedance is written as follows
+ <disp-formula id="eq3">
+  <graphic xlink:href="ao0c04702_m003" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <label>3</label>
+ </disp-formula>where 
+ <italic>Z</italic> is the total impedance, 
+ <italic>R</italic>
+ <sub>s</sub> is the solution resistance, 
+ <italic>R</italic>
+ <sub>ct</sub> is the charge-transfer resistance, 
+ <italic>Q</italic>
+ <sub>1</sub> and 
+ <italic>n</italic>1 (0–1) are the characteristic values corresponding to CPE, 
+ <italic>Q</italic>
+ <sub>2</sub> and 
+ <italic>n</italic>2 (near 0.5) are the characteristic values corresponding to Warburg impedance, and other parameters are the same as in 
+ <xref rid="eq1" ref-type="disp-formula">eq 
+  <xref rid="eq1" ref-type="disp-formula">1</xref>
+ </xref>. The house-built MATLAB code was used to find optimized parameters for 
+ <xref rid="eq3" ref-type="disp-formula">eq 
+  <xref rid="eq3" ref-type="disp-formula">3</xref>
+ </xref> based on nonlinear curve-fitting in least-squares sense from split real parts and imaginary parts from experimental CV.
+</p>

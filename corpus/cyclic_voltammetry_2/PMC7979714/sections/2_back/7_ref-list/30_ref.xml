@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chen</surname>
+    <given-names>ZH</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Holey graphene-based nanocomposites for efficient electrochemical energy storage</article-title>
+  <source>Nano Energy</source>
+  <year>2020</year>
+  <volume>73</volume>
+  <fpage>104762</fpage>
+  <pub-id pub-id-type="doi">10.1016/j.nanoen.2020.104762</pub-id>
+ </element-citation>
+</ref>

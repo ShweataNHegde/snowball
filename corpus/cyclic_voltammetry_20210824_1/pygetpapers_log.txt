@@ -1,0 +1,16 @@
+INFO:root:Making log file at cyclic_voltammetry_20210824_1\pygetpapers_log.txt
+INFO:root:Final query is (cyclic voltammetry) AND batteries
+INFO:root:Total Hits are 3508
+WARNING:root:Keywords not found for paper 2
+WARNING:root:Keywords not found for paper 6
+WARNING:root:Author list not found for paper 9
+WARNING:root:Author list not found for paper 12
+WARNING:root:html url not found for paper 16
+WARNING:root:Keywords not found for paper 16
+WARNING:root:pdf url not found for paper 16
+WARNING:root:Keywords not found for paper 17
+WARNING:root:Keywords not found for paper 21
+WARNING:root:Keywords not found for paper 22
+WARNING:root:Keywords not found for paper 34
+WARNING:root:Author list not found for paper 35
+INFO:root:Saving XML files to c:\Users\shweata\snowball\cyclic_voltammetry_20210824_1\*\fulltext.xml

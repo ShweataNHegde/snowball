@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F5" position="float">
+ <label>Figure 5</label>
+ <caption>
+  <p>
+   <bold>(A)</bold> Schematic configuration of an aqueous Zinc-air battery. 
+   <bold>(B)</bold> Open-circuit voltages of Ni
+   <sub>3</sub>Fe
+   <sub>2</sub>@NC/CC based zinc-air batteries. Inset shows a Zinc-air battery under test. 
+   <bold>(C)</bold> Cycling performance of rechargeable zinc-air batteries. 
+   <bold>(D)</bold> Discharge and charge polarization curves and 
+   <bold>(E)</bold> cycling performance of Ni
+   <sub>3</sub>Fe
+   <sub>2</sub>@NC/CC-based flexible battery at 2 mA cm
+   <sup>−2</sup>. Inset shows a LED screen powered by Ni
+   <sub>3</sub>Fe
+   <sub>2</sub>@NC/CC-based zinc-air batteries.
+  </p>
+ </caption>
+ <graphic xlink:href="fchem-08-575288-g0005" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

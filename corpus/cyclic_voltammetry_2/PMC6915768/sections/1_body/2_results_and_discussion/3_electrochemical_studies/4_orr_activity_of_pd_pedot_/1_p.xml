@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par25">Oxygen reduction reaction is one of the important factors determining the efficiency of fuel cell cathode catalysts. The Pd/Cu–PEDOT/GC exhibits electrocatalytic properties towards oxygen reduction reaction. Figure 
+ <xref rid="Fig10" ref-type="fig">10</xref> a depicts the polarization curves obtained for different rotation rates for Pd/PEDOT catalyst in O
+ <sub>2</sub>–saturated 0.5 M H
+ <sub>2</sub>SO
+ <sub>4</sub> solution. Obviously, Pd/PEDOT catalyst exhibits a half wave potential at 0.48 V for the ORR, which is nearly 0.3 V more negative as compared with that of the commercial Pd/C catalyst (0.78 V). The Tafel plot of the kinetic currents 
+ <italic>j</italic>
+ <sub>k</sub> of Pd/PEDOT is shown in the Figure 
+ <xref rid="MOESM1" ref-type="media">S1</xref> (supporting information). In the potential range of 0.5 V &gt; E &gt; 0.4 V, a slop of –105 mV dec
+ <sup>−1</sup>is estimated. The Koutecky—Levich plot (Fig. 
+ <xref rid="Fig10" ref-type="fig">10b</xref>) showing the plot of inverse current density (j
+ <sup>−1</sup>) as a function of square root of the rotation inverse (ω
+ <sup>−1/2</sup>) and the parallelism and linearity of these plots indicates that the molecular oxygen reduction follows first order kinetics
+ <sup>
+  <xref ref-type="bibr" rid="CR30">30</xref>
+ </sup>.
+ <disp-formula id="Equ3">
+  <label>3</label>
+  <alternatives>
+   <tex-math id="M7">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\frac{1}{j}=\frac{1}{{j}_{k}}+\frac{1}{B{\omega }^{1/2}}$$\end{document}</tex-math>
+   <math id="M8" display="block">
+    <mfrac>
+     <mn>1</mn>
+     <mi>j</mi>
+    </mfrac>
+    <mo>=</mo>
+    <mfrac>
+     <mn>1</mn>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>j</mi>
+       </mrow>
+       <mrow>
+        <mi>k</mi>
+       </mrow>
+      </msub>
+     </mrow>
+    </mfrac>
+    <mo>+</mo>
+    <mfrac>
+     <mn>1</mn>
+     <mrow>
+      <mi>B</mi>
+      <msup>
+       <mrow>
+        <mi>ω</mi>
+       </mrow>
+       <mrow>
+        <mn>1</mn>
+        <mo>/</mo>
+        <mn>2</mn>
+       </mrow>
+      </msup>
+     </mrow>
+    </mfrac>
+   </math>
+   <graphic xlink:href="41598_2019_55688_Article_Equ3.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+</p>

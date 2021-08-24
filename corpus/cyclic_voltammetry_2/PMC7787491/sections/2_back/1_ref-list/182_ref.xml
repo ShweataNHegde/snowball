@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R182">
+ <label>182</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Wu</surname>
+    <given-names>B.</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Lu</surname>
+    <given-names>W.</given-names>
+   </name>
+  </person-group>, 
+  <article-title>A consistently coupled multiscale mechanical–electrochemical battery model with particle interaction and its validation</article-title>. 
+  <source>J. Mech. Phys. Solids</source>
+  <volume>125</volume>, 
+  <fpage>89</fpage>–
+  <lpage>111</lpage> (
+  <year>2019</year>).
+ </mixed-citation>
+</ref>

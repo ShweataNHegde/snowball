@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The cyclic voltammogram for Ge electrodeposition on graphene (
+ <xref rid="fig6" ref-type="fig">Figure 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref>a, red) shows a steady increase of cathodic current and a nucleation overpotential/loop. In contrast, on glassy carbon (
+ <xref rid="fig6" ref-type="fig">Figure 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref>a, black) a clear reduction peak at 0.052 V vs Zn/Zn
+ <sup>2+</sup> without significant nucleation overpotential is seen. This difference between the two electrode materials suggests that nucleation is more difficult on the graphene compared to the glassy carbon. This could be related to a higher nucleation barrier on the structurally highly defined graphene basal plane compared to the less defined glassy carbon surface.
+ <sup>
+  <xref ref-type="bibr" rid="ref76">76</xref>
+ </sup> A close inspection of the Ge islands shown in 
+ <xref rid="fig6" ref-type="fig">Figure 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref>b and Supporting Information 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S8</ext-link> supports this hypothesis, as we find several examples (white arrows) where Ge nanoparticles nucleated preferentially over wrinkles in the graphene film instead of on the basal plane. Wrinkles are known to be preferred sites for nucleation of ad-deposits on graphene because of their higher electrochemical activity and surface energy compared to the graphene basal plane.
+ <sup>
+  <xref ref-type="bibr" rid="ref58">58</xref>
+ </sup> Thereby our observations confirm that also for a DES such as 12CE graphene’s higher reactivity sites such as wrinkles show variations in their electrochemical properties compared to the graphene basal plane, which translate to spatial differences in electrodeposition.
+</p>

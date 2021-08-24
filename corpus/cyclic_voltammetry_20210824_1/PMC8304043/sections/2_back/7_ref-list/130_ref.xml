@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B130-materials-14-03840">
+ <label>130.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Li</surname>
+    <given-names>Z.</given-names>
+   </name>
+   <name>
+    <surname>Zhao</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Tenhaeff</surname>
+    <given-names>W.E.</given-names>
+   </name>
+  </person-group>
+  <article-title>Determining the Absolute Anodic Stability Threshold of Polymer Electrolytes: A Capacity-Based Electrochemical Method</article-title>
+  <source>Chem. Mater.</source>
+  <year>2021</year>
+  <volume>33</volume>
+  <fpage>1927</fpage>
+  <lpage>1934</lpage>
+  <pub-id pub-id-type="doi">10.1021/acs.chemmater.0c04248</pub-id>
+ </element-citation>
+</ref>

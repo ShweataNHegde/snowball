@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gummow</surname>
+    <given-names>RJ</given-names>
+   </name>
+   <name>
+    <surname>Vamvounis</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Kannan</surname>
+    <given-names>MB</given-names>
+   </name>
+   <name>
+    <surname>He</surname>
+    <given-names>Y</given-names>
+   </name>
+  </person-group>
+  <article-title>Calcium-ion batteries: Current state-of-the-art and future perspectives</article-title>
+  <source>Adv. Mater.</source>
+  <year>2018</year>
+  <volume>30</volume>
+  <fpage>1801702</fpage>
+  <pub-id pub-id-type="doi">10.1002/adma.201801702</pub-id>
+ </element-citation>
+</ref>

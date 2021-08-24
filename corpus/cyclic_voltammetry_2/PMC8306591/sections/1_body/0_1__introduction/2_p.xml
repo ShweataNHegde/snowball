@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Recently, the atomic layer deposition (ALD) thin-film technique has gained significant attention. It allows the deposition of a desired conformal coatings at an atomic scale on various complex substrates [
+ <xref rid="B5-molecules-26-04188" ref-type="bibr">5</xref>,
+ <xref rid="B6-molecules-26-04188" ref-type="bibr">6</xref>]. Two or more chemical vapor precursors react in the ALD chamber, forming an ultrathin inorganic layer on the substrates to be modified. The operating temperature for ALD can be relatively low; this is an advantage, enabling the deposition of the desired film on substances and materials that are temperature sensitive [
+ <xref rid="B7-molecules-26-04188" ref-type="bibr">7</xref>,
+ <xref rid="B8-molecules-26-04188" ref-type="bibr">8</xref>]. It is a suitable technique for coating activated carbon (AC) electrodes, possessing limited ion accessibility in organic electrolyte [
+ <xref rid="B9-molecules-26-04188" ref-type="bibr">9</xref>]. Our group has developed various oxide coatings by ALD for activated carbon (AC) electrodes, enhancing the cycling stability of supercapacitors, while maintaining a low impedance at high voltage windows [
+ <xref rid="B10-molecules-26-04188" ref-type="bibr">10</xref>]. Hong et al. deposited an ultrathin Al
+ <sub>2</sub>O
+ <sub>3</sub> using ALD on a commercial AC electrode, widening the operating voltage window of EDLC cells to 3.5 V in organic electrolytes [
+ <xref rid="B11-molecules-26-04188" ref-type="bibr">11</xref>]. More research on metal oxide deposition using ALD also sheds some light on improving supercapacitor electrodes [
+ <xref rid="B12-molecules-26-04188" ref-type="bibr">12</xref>,
+ <xref rid="B13-molecules-26-04188" ref-type="bibr">13</xref>,
+ <xref rid="B14-molecules-26-04188" ref-type="bibr">14</xref>,
+ <xref rid="B15-molecules-26-04188" ref-type="bibr">15</xref>,
+ <xref rid="B16-molecules-26-04188" ref-type="bibr">16</xref>]. In addition, Cho et al. deposited Al
+ <sub>2</sub>O
+ <sub>3</sub> and TiO
+ <sub>2</sub> thin films on the surface of spinel-phase oxide (5 V Li-Mn-Ni oxide spinel, LMNO) using ALD, resulting in remarkably different electrochemical performance than non-coated LNMO nanowire electrode [
+ <xref rid="B17-molecules-26-04188" ref-type="bibr">17</xref>]. Ein-Eli and co-workers have applied different metal-fluorides (MgF
+ <sub>2</sub>, AlF
+ <sub>3</sub>, and LiF) ALD coating on LMNO powder material and reported a massive enhancement in cycling stability [
+ <xref rid="B18-molecules-26-04188" ref-type="bibr">18</xref>,
+ <xref rid="B19-molecules-26-04188" ref-type="bibr">19</xref>,
+ <xref rid="B20-molecules-26-04188" ref-type="bibr">20</xref>]. These results demonstrated that the ALD technique is the most effective tool to cope with the severe cycling deterioration of high operational voltage materials in lithium-ion batteries and supercapacitors. However, most importantly, each ALD design and coating must be well-tailored to protect the substrate [
+ <xref rid="B21-molecules-26-04188" ref-type="bibr">21</xref>]. In this sense, commercial supercapacitors made of YP−50 activated carbon electrodes often suffer from electrolyte decomposition at the solid-liquid interface, leading to lower capacity retention at an operating voltage of &gt;3V. It is a rational choice to tackle these challenges via an ALD metal oxide coating method to prolong the cycling life of the AC-based EDLCs enabling a higher operational voltage window.
+</p>

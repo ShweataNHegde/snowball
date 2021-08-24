@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B26">
+ <label>26</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wu</surname>
+    <given-names>G. M.</given-names>
+   </name>
+   <name>
+    <surname>Lin</surname>
+    <given-names>S. J.</given-names>
+   </name>
+   <name>
+    <surname>Yang</surname>
+    <given-names>C. C.</given-names>
+   </name>
+  </person-group>
+  <article-title>Preparation and characterization of PVA/PAA membranes for solid polymer electrolytes</article-title>
+  <source>
+   <italic toggle="yes">Journal of Membrane Science</italic>
+  </source>
+  <year>2006</year>
+  <volume>275</volume>
+  <issue>1-2</issue>
+  <fpage>127</fpage>
+  <lpage>133</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.memsci.2005.09.012</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-33644924614</pub-id>
+ </element-citation>
+</ref>

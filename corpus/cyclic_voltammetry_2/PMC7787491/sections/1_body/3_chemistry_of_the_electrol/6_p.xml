@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The moss-like electrodeposition morphology is obviously undesirable, because of the low plating/stripping efficiency and the gaseous products generated during the side reactions. To stabilize the aqueous electrolyte against such side reactions, groups of water-in-salt electrolytes are designed, where the salt concentration is unusually high, e.g., &gt;20 m (
+ <xref rid="R101" ref-type="bibr">
+  <italic>101</italic>
+ </xref>, 
+ <xref rid="R102" ref-type="bibr">
+  <italic>102</italic>
+ </xref>). The water-in salt electrolyte can comprise a high solubility Zn salt, e.g., ZnCl
+ <sub>2</sub> (
+ <xref rid="R103" ref-type="bibr">
+  <italic>103</italic>
+ </xref>–
+ <xref rid="R106" ref-type="bibr">
+  <italic>106</italic>
+ </xref>), or a high solubility Li salt [e.g., Li bis(trifluoromethanesulfonyl)imide (LiTFSI)] plus a Zn salt of normal concentration of ~1 m (
+ <xref rid="R107" ref-type="bibr">
+  <italic>107</italic>
+ </xref>). In such electrolytes, Zn deposits in a more compact morphology without ZnO as detected by x-ray diffraction (XRD), featuring a high Coulombic efficiency of &gt;99% over a moderate cycle life (&gt;200 hours) at 1 mA/cm
+ <sup>2</sup> (
+ <xref rid="F4" ref-type="fig">Fig. 4D</xref>), in contrast to the &lt;50% and the &lt;80% Coulombic efficiencies achieved in alkaline and mildly acidic ZnSO
+ <sub>4</sub> electrolytes, respectively (
+ <xref rid="R107" ref-type="bibr">
+  <italic>107</italic>
+ </xref>). The stabilizing mechanism of the water-in-salt electrolytes is illustrated in 
+ <xref rid="F4" ref-type="fig">Fig. 4E</xref>—The ratio between the number of water molecules and the number of cations is below the conventional solvation numbers as depicted by the solid red line. When the anions that are also able to solvate the metal cations are taken into calculation, the 
+ <inline-formula>
+  <math id="m16">
+   <mrow>
+    <mrow>
+     <mfrac>
+      <mrow>
+       <mo>#</mo>
+       <mo stretchy="false">(</mo>
+       <msub>
+        <mi mathvariant="normal">H</mi>
+        <mn>2</mn>
+       </msub>
+       <mi mathvariant="normal">O</mi>
+       <mo stretchy="false">)</mo>
+       <mo>+</mo>
+       <mo>#</mo>
+       <mo stretchy="false">(</mo>
+       <mtext>anion</mtext>
+       <mo stretchy="false">)</mo>
+      </mrow>
+      <mrow>
+       <mo>#</mo>
+       <mo stretchy="false">(</mo>
+       <mtext>cation</mtext>
+       <mo stretchy="false">)</mo>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> ratio still remains at a low level, i.e., 3.6 for 1-m Zn(TFSI)
+ <sub>2</sub> + 20-m LiTFSI. The change in solvation sheath structure under such conditions is anticipated to alter the SEI chemistry on the Zn electrode (
+ <xref rid="R108" ref-type="bibr">
+  <italic>108</italic>
+ </xref>) and the electrokinetics of the deposition reaction (
+ <xref rid="R109" ref-type="bibr">
+  <italic>109</italic>
+ </xref>). Note also that water-in-salt electrolytes show an enhanced electrochemical stability against oxidation, allowing the reversible operation of high-voltage cathodes in aqueous electrolytes, e.g., Li
+ <sub>2</sub>Mn
+ <sub>2</sub>O
+ <sub>4</sub> (
+ <xref rid="R107" ref-type="bibr">
+  <italic>107</italic>
+ </xref>) and LiFePO
+ <sub>4</sub> (
+ <xref rid="R110" ref-type="bibr">
+  <italic>110</italic>
+ </xref>). These stabilizing effects increase the energy throughput per cycle and guarantee a long cycle life of the full batteries. While the cost of electrolyte is positively correlated to the salt concentration as shown by the blue curves in 
+ <xref rid="F4" ref-type="fig">Fig. 4E</xref>, this can be overcome using a low-cost salt or reducing the manufacturing cost of a salt as its production scales up. Of particular interest is that a subset of recent studies reports on a concept of localized high-concentration electrolytes for alkali metal anodes (
+ <xref rid="R111" ref-type="bibr">
+  <italic>111</italic>
+ </xref>–
+ <xref rid="R113" ref-type="bibr">
+  <italic>113</italic>
+ </xref>)—A secondary “diluent” solvent, miscible with the primary solvent but does not dissolve the salt, is added into the electrolyte; the outcome is that the solvation structure is maintained because the ratio between the numbers of the cations and the primary solvent molecules remains constant, while the apparent salt concentration is lowered. Wisdom might be borrowed from this progress in designing highly concentrated electrolytes for Zn.
+</p>

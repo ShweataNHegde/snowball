@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Figure 
+ <xref rid="cssc202100364-fig-0011" ref-type="fig">11</xref>a shows the plot of the logarithm of the roughness factor vs the ORR potential for 
+ <math id="jats-math-47">
+  <mi>i</mi>
+ </math> being a fraction 1/
+ <math id="jats-math-48">
+  <mi>x</mi>
+ </math> of 
+ <math id="jats-math-49">
+  <msub>
+   <mi>i</mi>
+   <mi mathvariant="normal">D</mi>
+  </msub>
+ </math> . From the slopes, one obtains reasonable values for the apparent transfer coefficient 
+ <math id="jats-math-50">
+  <msub>
+   <mi>α</mi>
+   <mrow>
+    <mi mathvariant="normal">a</mi>
+    <mi mathvariant="normal">p</mi>
+    <mi mathvariant="normal">p</mi>
+   </mrow>
+  </msub>
+ </math> (Figure 
+ <xref rid="cssc202100364-fig-0011" ref-type="fig">11</xref>b). Figure 
+ <xref rid="cssc202100364-fig-0011" ref-type="fig">11</xref>b further shows that approaching the ORR onset, 
+ <math id="jats-math-51">
+  <msub>
+   <mi>α</mi>
+   <mrow>
+    <mi mathvariant="normal">a</mi>
+    <mi mathvariant="normal">p</mi>
+    <mi mathvariant="normal">p</mi>
+   </mrow>
+  </msub>
+ </math> approaches the value of 0.9, which indicates an initial, equilibrated 1 
+ <math id="jats-math-52">
+  <msup>
+   <mrow>
+    <mi>e</mi>
+   </mrow>
+   <mo>-</mo>
+  </msup>
+ </math> step, followed by a slow process (e. g., slow formation of the 
+ <math id="jats-math-53">
+  <msubsup>
+   <mrow>
+    <mi mathvariant="normal">C</mi>
+    <mi mathvariant="normal">a</mi>
+    <mi mathvariant="normal">O</mi>
+   </mrow>
+   <mrow>
+    <mn>2</mn>
+   </mrow>
+   <mo>+</mo>
+  </msubsup>
+ </math> ion‐pair). This is in agreement with the observed Tafel slope of close to 60 mV dec
+ <sup>−1</sup> for rough electrodes (
+ <italic>f</italic>
+ <sub>R</sub>=53 and 81; see Figure S4. At larger overpotentials (or 
+ <italic>X</italic>=2) 
+ <math id="jats-math-54">
+  <msub>
+   <mi>α</mi>
+   <mrow>
+    <mi mathvariant="normal">a</mi>
+    <mi mathvariant="normal">p</mi>
+    <mi mathvariant="normal">p</mi>
+   </mrow>
+  </msub>
+ </math> approaches 0.5 in agreement with the Tafel plot yielding a slope of 120 mV Figure S4. This could indicate a transition to a slow 1
+ <sup>st</sup> electron transfer caused by partial blocking of the surface, in particular of active sites, in the course of the potential sweep. Moreover, chemical dissolution of the peroxide formed after the 2
+ <sup>nd</sup> e‐transfer might be too slow at large overall rates, causing such a blocking only at larger rates and thus higher overpotentials. A preliminary Tafel analysis for electrodes with low 
+ <italic>f</italic>
+ <sub>R</sub> yields Tafel slopes of 90 mV already during the ORR onset caused by the same reason. 
+</p>

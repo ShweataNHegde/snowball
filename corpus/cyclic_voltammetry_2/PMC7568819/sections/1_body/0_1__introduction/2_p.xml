@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The main purpose of electrode coating is to suppress hydrogen evolution reaction (HER). This is because it is HER at the negative electrode that limits the ECW in a symmetric supercapacitor. (Oxygen evolution reaction (OER) at the positive electrode requires a potential 
+ <italic>E</italic>
+ <sub>OER</sub> (V) = 1.23–0.059 pH as opposed to 
+ <italic>E</italic>
+ <sub>HER</sub> (V) = −0.059 pH, thus ∣
+ <italic>E</italic>
+ <sub>HER</sub> | &lt;∣
+ <italic>E</italic>
+ <sub>OER</sub>∣ for pH &lt; 10.42.) In practice, significant H
+ <sub>2</sub> gas always evolves at a cell voltage &gt; 1.6 V whereas no O
+ <sub>2</sub> gas evolves up to 2.0 V [
+ <xref rid="B5" ref-type="bibr">5</xref>], where the outward shift in potentials is due to (a) hydrogen electrosorption that locally depletes protons and increases the pH for HER and (b) a large overpotential for OER [
+ <xref rid="B3" ref-type="bibr">3</xref>, 
+ <xref rid="B5" ref-type="bibr">5</xref>]. Theoretically, having H
+ <sub>2</sub>O in direct contact with the electrode is crucial for forming 
+ <italic>M</italic>H
+ <sub>ads</sub> in the so-called Volmer reaction to lower the reaction barrier at a catalytic site 
+ <italic>M</italic>, which allows HER to proceed at 
+ <italic>E</italic>
+ <sub>HER</sub>. (See Materials and Methods for a summary of this and other reactions.) Strong experimental evidence also exists for H
+ <sub>2</sub>O's role in more general cases: even a small amount of H
+ <sub>2</sub>O vapor in ultrahigh vacuum [
+ <xref rid="B6" ref-type="bibr">6</xref>–
+ <xref rid="B8" ref-type="bibr">8</xref>] or H
+ <sub>2</sub>O liquid in nonaqueous solvents [
+ <xref rid="B9" ref-type="bibr">9</xref>–
+ <xref rid="B12" ref-type="bibr">12</xref>] can enhance HER, Faradaic reactions, proton/hydrogen transfer/hopping, and water dissociation on metal and oxide electrodes—observations further supported by first-principles calculations [
+ <xref rid="B7" ref-type="bibr">7</xref>, 
+ <xref rid="B8" ref-type="bibr">8</xref>, 
+ <xref rid="B13" ref-type="bibr">13</xref>]. We have performed first-principles calculations to obtain diffusion barriers on graphene surfaces shown in 
+ <xref ref-type="fig" rid="fig1">Figure 1</xref> (also see Fig. 
+ <xref ref-type="supplementary-material" rid="supplementary-material-1">S2-3</xref>) to confirm that indeed H
+ <sup>+</sup> hopping is easier in the presence of a H
+ <sub>2</sub>O molecule: it holds on undoped, N-doped, and O-doped graphene surfaces. This has motivated us to specifically hypothesize that water is needed for HER in a broad pH range. A similar calculation of OER is also performed, which shows the consistent results (see supporting information).
+</p>

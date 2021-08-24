@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig4" position="float">
+ <label>Figure 4</label>
+ <caption>
+  <p>(a, c) Voltage profiles and (b, d) corresponding cycling trends with Coulombic efficiency (right 
+   <italic>y</italic>-axis) related to Li/electrolyte/LFP cells employing either (a, b) DEGDME_HCE or (c, d) TREGDME_HCE galvanostatically cycled at the constant current rate of C/5 (1C = 170 mA g
+   <sup>–1</sup>) at room temperature (25 °C). Voltage range, 2.7–3.9 V.
+  </p>
+ </caption>
+ <graphic xlink:href="ef1c00927_0004" id="gr4" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

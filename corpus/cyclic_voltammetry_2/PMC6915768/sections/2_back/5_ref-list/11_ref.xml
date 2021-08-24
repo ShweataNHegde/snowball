@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Stamenkovic</surname>
+    <given-names>VR</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Trends in electrocatalysis on extended and nanoscale Pt-bimetallic alloy surfaces</article-title>
+  <source>Nat Mater.</source>
+  <year>2007</year>
+  <volume>6</volume>
+  <fpage>241</fpage>
+  <lpage>247</lpage>
+  <pub-id pub-id-type="doi">10.1038/nmat1840</pub-id>
+  <?supplied-pmid 17310139?>
+  <pub-id pub-id-type="pmid">17310139</pub-id>
+ </element-citation>
+</ref>

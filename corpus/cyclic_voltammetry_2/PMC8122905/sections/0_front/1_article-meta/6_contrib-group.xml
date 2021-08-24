@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chae</surname>
+   <given-names>Gyu Sik</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-materials-14-02146">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-7338-6715</contrib-id>
+  <name>
+   <surname>Youn</surname>
+   <given-names>Duck Hyun</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-materials-14-02146">2</xref>
+  <xref rid="c1-materials-14-02146" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lee</surname>
+   <given-names>Jae Sung</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-materials-14-02146">3</xref>
+  <xref rid="c1-materials-14-02146" ref-type="corresp">*</xref>
+ </contrib>
+</contrib-group>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <xref rid="fig2" ref-type="fig">Figure 
+  <xref rid="fig2" ref-type="fig">2</xref>
+ </xref> displays the performance of DEGDME_HCE (
+ <xref rid="fig2" ref-type="fig">Figure 
+  <xref rid="fig2" ref-type="fig">2</xref>
+ </xref>a, b) and TREGDME_HCE (
+ <xref rid="fig2" ref-type="fig">Figure 
+  <xref rid="fig2" ref-type="fig">2</xref>
+ </xref>c, d) in a Li/S:Sn 80:20 cell, cycled at the constant rate of C/5 (1C = 1675 mA g
+ <sub>S</sub>
+ <sup>–1</sup>) at 25 and 35 °C. The selected voltage profiles related to the steady state of the cells (
+ <xref rid="fig2" ref-type="fig">Figure 
+  <xref rid="fig2" ref-type="fig">2</xref>
+ </xref>a, c) reveal the characteristic response of a Li/S battery, in agreement with CVs of 
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>, where the two distinct discharge plateaus around 2.4 and 2.0 V ascribed to the formation of long chain lithium polysulfides (Li
+ <sub>2</sub>S
+ <sub>
+  <italic>x</italic>
+ </sub> with 
+ <italic>x</italic> ≥ 6) and short chain ones (Li
+ <sub>2</sub>S
+ <sub>
+  <italic>x</italic>
+ </sub> with 6 &gt; 
+ <italic>x</italic> &gt; 2), respectively, are reversed into two charge plateaus above 2.3 V.
+ <sup>
+  <xref ref-type="bibr" rid="ref30">30</xref>,
+  <xref ref-type="bibr" rid="ref32">32</xref>
+ </sup> Furthermore, the figure shows for both DEGDME_HCE (
+ <xref rid="fig2" ref-type="fig">Figure 
+  <xref rid="fig2" ref-type="fig">2</xref>
+ </xref>a) and TREGDME_HCE (
+ <xref rid="fig2" ref-type="fig">Figure 
+  <xref rid="fig2" ref-type="fig">2</xref>
+ </xref>c) a relatively high polarization at room temperature (25 °C), in particular for the latter electrolyte, leading to steady-state specific capacities of about 800 mAh g
+ <sub>S</sub>
+ <sup>–1</sup> and 340 mAh g
+ <sub>S</sub>
+ <sup>–1</sup>, respectively. The poor response at room temperature of the Li/S cells is most likely due to the hindering of the insulating sulfur kinetics by the high viscosity of the concentrated electrolytes, which is particularly relevant in the case of the TREGDME_HCE due to its longer ether chain, higher lithium salts concentration (see 
+ <xref rid="sec2" ref-type="other">Experimental Section</xref>), and consequently higher viscosity compared to DEGDME_HCE.
+ <sup>
+  <xref ref-type="bibr" rid="ref20">20</xref>,
+  <xref ref-type="bibr" rid="ref33">33</xref>
+ </sup> In order to favor the electrochemical kinetics and achieve better performances, subsequent galvanostatic cycling tests were performed on the Li/S:Sn 80:20 cells at a higher temperature, that is, 35 °C, by employing the same C-rate of C/5. Advantageously, the increase of temperature leads to higher capacity values and to lower polarization for both DEGDME_HCE (
+ <xref rid="fig2" ref-type="fig">Figure 
+  <xref rid="fig2" ref-type="fig">2</xref>
+ </xref>a) and TREGDME_HCE (
+ <xref rid="fig2" ref-type="fig">Figure 
+  <xref rid="fig2" ref-type="fig">2</xref>
+ </xref>c), as expected by the decrease of the electrolytes viscosity and the concomitant rise of their Li
+ <sup>+</sup> ions conductivity.
+ <sup>
+  <xref ref-type="bibr" rid="ref20">20</xref>
+ </sup>
+</p>

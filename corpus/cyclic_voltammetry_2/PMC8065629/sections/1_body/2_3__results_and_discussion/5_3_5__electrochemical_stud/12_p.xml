@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Assuming that the increase of current observed on CV anode curves is proportional to electrochemical capacity and can be used to identify the contributions of the thin films’ components to the electrochemical performance during cycling, we subtracted the baseline and deconvoluted the anode curves. For NCO films, the anodic curves were simulated by Gaussian curves with maxima of 2.02 V (CoO) and 2.23 V (NiO). The peak maxima positions were determined based on the CV curves of pure oxides obtained in this work at a potential scan rate of 0.5 mV/s. The positions of maxima corresponding to the activity of CoO and NiO were fixed during modeling of NCO anode curves because they were retained even after cycling of CoO and NiO films during 200 cycles (
+ <xref ref-type="fig" rid="nanomaterials-11-00907-f006">Figure 6</xref>c,d). On the contrary, the position of the maximum revealing SEI activity was not fixed, since it changes during cycling. An example of Gaussian deconvolution for sample NCO-5/1 is shown in 
+ <xref ref-type="fig" rid="nanomaterials-11-00907-f006">Figure 6</xref>b.
+</p>

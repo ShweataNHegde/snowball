@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The use of Si-based anodes in LIBs would have a wider reach than commercial graphite-based anodes, assuming that these challenges could be overcome. Recent developments on improving the performance of Si-based anodes include Si nanostructures (nanowires, hollow nanotubes) [
+ <xref rid="B19-materials-14-02824" ref-type="bibr">19</xref>], core–shell structures (Si as core) [
+ <xref rid="B20-materials-14-02824" ref-type="bibr">20</xref>,
+ <xref rid="B21-materials-14-02824" ref-type="bibr">21</xref>], forming SiX alloys (X = Sn, Ge, etc.) [
+ <xref rid="B22-materials-14-02824" ref-type="bibr">22</xref>,
+ <xref rid="B23-materials-14-02824" ref-type="bibr">23</xref>], and surface coating, to name a few. In particular, coating the surface of Si with a conductive material, such as carbon [
+ <xref rid="B24-materials-14-02824" ref-type="bibr">24</xref>] and copper [
+ <xref rid="B25-materials-14-02824" ref-type="bibr">25</xref>], has been employed to improve the cycling performance of Si-based anodes in LIBs. However, such modifications still failed to surpass the performance of commercial LIBs. Some researchers have investigated the potential use of silicon nitride [
+ <xref rid="B26-materials-14-02824" ref-type="bibr">26</xref>,
+ <xref rid="B27-materials-14-02824" ref-type="bibr">27</xref>] and silicon nitride-based composites [
+ <xref rid="B28-materials-14-02824" ref-type="bibr">28</xref>] as anode material for LIBs. The findings showed that these anode materials have a more stable cycling compared to silicon anodes. The downside to silicon nitride anode materials is that the specific capacities achieved are lower than theoretical values, with significant capacity fading after 100 cycles [
+ <xref rid="B26-materials-14-02824" ref-type="bibr">26</xref>]. Researchers have speculated that the lack of elasticity in Si anodes contribute to the rapid capacity fading in LIBs [
+ <xref rid="B29-materials-14-02824" ref-type="bibr">29</xref>]. Due to silicon nitride’s mechanical proprieties, its combination with Si as an anode material through nanostructuring and thin film coating may significantly reduce the volume change that accompanies alloying/dealloying processes. In this work, we have utilized thin film technology to improve the electrical conductivity of Si by sputtering a thin layer onto copper foil, along with the addition of silicon nitride (Si
+ <sub>3</sub>N
+ <sub>4</sub>) on top of the Si layer to accommodate the volume changes during lithiation/delithiation processes.
+</p>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="materials-14-03259-t001" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">materials-14-03259-t001_Table 1</object-id>
+ <label>Table 1</label>
+ <caption>
+  <p>Example of selected RAILs, their representative cations and anions, physical state and potential applications.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">RAIL</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Cation</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Anion</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Physical State</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Electrochemical Studies</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Potential Application</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Ref</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Carbazole- and viologen based RAIL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(CZC
+     <sub>4</sub>ImC
+     <sub>1</sub>)
+     <sup>+</sup> + (C4VC7)
+     <sup>2+</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">TFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Liquid at RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Neat RAIL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Charge transfer (CT) in order to produce new photoactivity</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B26-materials-14-03259" ref-type="bibr">26</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">TEMPO-based RAIL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1,2-dimethyl-3-(4-(2,2,6,6-tetramethyl-1-oxyl-4-piperidoxyl)-pentyl)imidazolium</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">TFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Viscous liquid</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RAIL in DEGDME</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Lithium–oxygen batteries</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B27-materials-14-03259" ref-type="bibr">27</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Methoxycarbonyl-based RAIL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1-ethyl4-(methylcarbonyl)pyridinium</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">TFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Viscous liquid at RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RAIL in DMF containing 0.1 M TBAPF
+     <sub>6</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Visible light-driven B12 catalytic reactions</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B34-materials-14-03259" ref-type="bibr">34</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ferrocenyl sulfonium-based RAIL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">dimethylferrocenylsulfonium</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">TFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Viscous liquid</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RAIL in EMIM TFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B33-materials-14-03259" ref-type="bibr">33</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ferrocene- and viologen-based RAILs composite</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">FcC
+     <sub>6</sub>IMC
+     <sub>1</sub> + C
+     <sub>4</sub>VC
+     <sub>7</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">TFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Viscous liquid at RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RAIL in acetonitrile containing 0.1 M potassium TFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Electrochromism</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B19-materials-14-03259" ref-type="bibr">19</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Iron-based RAIL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Fe(OHCH
+     <sub>2</sub>CH
+     <sub>2</sub>)
+     <sub>2</sub>NH)
+     <sub>6</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CF
+     <sub>3</sub>SO
+     <sub>3</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Viscous liquid at RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.0111 M solution of RAIL in BMIm-PF6</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Nonaqueous RFBs</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B35-materials-14-03259" ref-type="bibr">35</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Fe(EA)
+     <sub>6−m</sub>(FcEA)
+     <sub>m</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CF
+     <sub>3</sub>SO
+     <sub>3</sub>/I
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Solid or Viscous liquid at RT *</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RAIL in PC with 0.5 M Li TFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Nonaqueous RFBs</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B15-materials-14-03259" ref-type="bibr">15</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Anthraquinone-based RAIL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Phosphonium—Imidazolium
+     <break/>Ammonium—Piperidinium
+     <break/>pyrrolidinium
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">9,10-Anthraquinone-2-sulfonate (AQS)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Only P14 6 6 6 Was liquid at RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RAIL in acetonitrile and TBA TFB electrolyte</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B28-materials-14-03259" ref-type="bibr">28</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Dimethoxybenzene-based RAIL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">BMIM</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2,5-ditert-butyl-1,4-dimethoxybenzene TFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Solid at RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RAIL in carbonated based electrolyte</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Li-ion batteries</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B30-materials-14-03259" ref-type="bibr">30</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Anthraquinone and TEMPO-based RAIL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">EMIM TEMPO</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">AQ-TFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Solid at RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RAIL in acetonitrile containing 0.1 M TBAPF
+     <sub>6</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">supercapacitors</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B29-materials-14-03259" ref-type="bibr">29</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ferrocene-</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ferrocene </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">TSFI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Solid at RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B23-materials-14-03259" ref-type="bibr">23</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Viologen-based RAIL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Viologen</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">TSFI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Solid at RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Electrochromism</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B24-materials-14-03259" ref-type="bibr">24</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Vanadate</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N-dodecylpyridinium</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">vanadate</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Solid at RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Alcohol oxidation by H
+     <sub>2</sub>O
+     <sub>2</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B25-materials-14-03259" ref-type="bibr">25</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>CZ: carbazole, Im: imidazolium, V: viologen, TFSI: bis(trifluoromethylsulfonylimide), TEMPO: tetramethyl-1-piperidinyloxy, DEGDME: diethylene glycol diethyl ether, TBA TFB: tetrabutylammonium tetrafluoroborate, BMIM: 1-butyl-3-methylimidazolium, AQ: anthraquinone, TBA PF6: tetrabutylammonium hexafluorophosphate, Fc: ferrocene, BMIM: 1-butyl-3-methylimidazolium. * The physical properties of RAILs depend on the degree of substitution with I and Fc. Cells shaded in grey represent early examples of RAILs.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

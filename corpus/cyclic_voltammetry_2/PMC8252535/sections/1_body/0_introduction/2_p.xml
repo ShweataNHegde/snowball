@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The ORR and OER were investigated on several cathode materials. For the ORR in Ca(ClO
+ <sub>4</sub>)
+ <sub>2</sub> containing DMSO on Pt, Rh, Glassy Carbon and Ru a one electron process was observed, while for Au a two electron process is found.
+ <xref rid="cssc202100364-bib-0021" ref-type="ref">
+  <sup>[21]</sup>
+ </xref> It was shown, that Au plays a special role in the mechanism, as on gold in Mg
+ <sup>2+</sup>, Ca
+ <sup>2+</sup>, Sr
+ <sup>2+</sup> and Ba
+ <sup>2+</sup> containing DMSO, the two electron process is dominating the ORR, which is not the case for Glassy Carbon and platinum electrodes.
+ <xref rid="cssc202100364-bib-0022" ref-type="ref">
+  <sup>[22]</sup>
+ </xref> This is of special interest, as the formation of 
+ <math id="jats-math-3">
+  <msubsup>
+   <mi mathvariant="normal">O</mi>
+   <mrow>
+    <mn>2</mn>
+   </mrow>
+   <mo>-</mo>
+  </msubsup>
+ </math> and further solution mediated disproportionation to 
+ <math id="jats-math-4">
+  <msubsup>
+   <mi mathvariant="normal">O</mi>
+   <mrow>
+    <mn>2</mn>
+   </mrow>
+   <mrow>
+    <mn>2</mn>
+    <mo>-</mo>
+   </mrow>
+  </msubsup>
+ </math> and 
+ <math id="jats-math-5">
+  <msub>
+   <mi mathvariant="normal">O</mi>
+   <mn>2</mn>
+  </msub>
+ </math> might lead to significant amounts of highly reactive singlet oxygen, which will decompose the electrolyte.[
+ <xref rid="cssc202100364-bib-0025" ref-type="ref">
+  <sup>25</sup>
+ </xref>, 
+ <xref rid="cssc202100364-bib-0026" ref-type="ref">
+  <sup>26</sup>
+ </xref>, 
+ <xref rid="cssc202100364-bib-0027" ref-type="ref">
+  <sup>27</sup>
+ </xref>] Upon reducing the relative amount of generated 
+ <math id="jats-math-6">
+  <msubsup>
+   <mi mathvariant="normal">O</mi>
+   <mrow>
+    <mn>2</mn>
+   </mrow>
+   <mo>-</mo>
+  </msubsup>
+ </math> , one might increase the reversibility and thus the cycle life of the battery. At this point, the current work starts with further investigation on the ORR and OER in Ca(ClO
+ <sub>4</sub>)
+ <sub>2</sub> containing DMSO using techniques like DEMS to identify oxygen consumption/evolution and RRDE to further investigate the nature of the generated oxygen species during the ORR. The influence of the electrode surface structure was taken into account by using single crystalline electrodes on the one hand and rough electrodes on the other. A similar approach was also used to investigate the ORR/OER in case of Li
+ <sup>+</sup> containing DMSO in our earlier work.
+ <xref rid="cssc202100364-bib-0028" ref-type="ref">
+  <sup>[28]</sup>
+ </xref> We found that mostly Li
+ <sub>2</sub>O
+ <sub>2</sub> is formed on rough electrodes during the ORR and thus showed once again, that the surface structure strongly affects the electrochemical reactions. This work strongly focuses on the ORR/OER mechanism in Ca
+ <sup>2+</sup>‐containing DMSO and the influence of the surface structure (single crystal orientation on the one hand and high roughness factors on the other). It supplements a previous study in which already a transition from mixed 
+ <math id="jats-math-7">
+  <msubsup>
+   <mi mathvariant="normal">O</mi>
+   <mrow>
+    <mn>2</mn>
+   </mrow>
+   <mo>-</mo>
+  </msubsup>
+ </math> and 
+ <math id="jats-math-8">
+  <msubsup>
+   <mi mathvariant="normal">O</mi>
+   <mrow>
+    <mn>2</mn>
+   </mrow>
+   <mrow>
+    <mn>2</mn>
+    <mo>-</mo>
+   </mrow>
+  </msubsup>
+ </math> formation to exclusively 
+ <math id="jats-math-9">
+  <msubsup>
+   <mi mathvariant="normal">O</mi>
+   <mrow>
+    <mn>2</mn>
+   </mrow>
+   <mo>-</mo>
+  </msubsup>
+ </math> formation was observed on smooth electrodes.
+ <xref rid="cssc202100364-bib-0029" ref-type="ref">
+  <sup>[29]</sup>
+ </xref> The study further showed that the blocking thin film mainly consist of Ca(O
+ <sub>2</sub>)
+ <sub>2</sub>, CaO
+ <sub>2</sub> and CaO (identified by XPS) and is formed on Au and Pt electrodes. In other previous studies we have shown that reliable and clean double layer studies can be performed on Au(111) in aprotic solvents (e. g., pzc measurements).
+ <xref rid="cssc202100364-bib-0030" ref-type="ref">
+  <sup>[30]</sup>
+ </xref>
+</p>

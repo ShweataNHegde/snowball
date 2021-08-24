@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The ORR activities of the oxides were examined by an LSV scan from 0.1 to 1.1 V vs. RHE with an electrode rotation speed of 1600 rpm at a scan rate of 10 mV s
+ <sup>–1</sup> in O
+ <sub>2</sub>-saturated 0.1 M KOH at ambient temperature. Electrolyte solutions were saturated by O
+ <sub>2</sub> bubbling for 1 h prior to the measurements. The background correction to cancel capacitive currents was carried out using an LSV curve in N
+ <sub>2</sub>-saturated 0.1 M KOH without electrode rotation.
+ <sup>
+  <xref ref-type="bibr" rid="ref67">67</xref>
+ </sup> The electron transfer number (
+ <italic>n</italic>) during ORR was examined using an RRDE in O
+ <sub>2</sub>-saturated 0.1 M KOH solution at an electrode rotation speed of 1600 rpm. The ring potential was set at 1.39 V vs. RHE. The 
+ <italic>n</italic> was calculated using 
+ <xref rid="eq4" ref-type="disp-formula">eq 
+  <xref rid="eq4" ref-type="disp-formula">4</xref>
+ </xref>, where 
+ <italic>i</italic>
+ <sub>d</sub> is the disk current, 
+ <italic>i</italic>
+ <sub>r</sub> is the ring current, and 
+ <italic>N</italic> is the collection efficiency of the ring electrode (0.37)
+ <disp-formula id="eq4">
+  <graphic xlink:href="ao0c04254_m004" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <label>4</label>
+ </disp-formula>
+</p>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Li</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Min</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Qian</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Jiang</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <article-title>An extremely facile route to Co2P encased in N,P-codoped carbon layers: highly efficient bifunctional electrocatalysts for ORR and OER</article-title>
+  <source>Int J Hydrogen Energy</source>
+  <year>2018</year>
+  <volume>43</volume>
+  <fpage>1365</fpage>
+  <lpage>1374</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ijhydene.2017.11.102</pub-id>
+ </element-citation>
+</ref>

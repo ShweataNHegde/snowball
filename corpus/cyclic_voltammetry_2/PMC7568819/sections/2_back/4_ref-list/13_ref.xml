@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B14">
+ <label>14</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kangasniemi</surname>
+    <given-names>K. H.</given-names>
+   </name>
+   <name>
+    <surname>Condit</surname>
+    <given-names>D. A.</given-names>
+   </name>
+   <name>
+    <surname>Jarvi</surname>
+    <given-names>T. D.</given-names>
+   </name>
+  </person-group>
+  <article-title>Characterization of Vulcan electrochemically oxidized under simulated PEM fuel cell conditions</article-title>
+  <source>
+   <italic toggle="yes">Journal of the Electrochemical Society</italic>
+  </source>
+  <year>2004</year>
+  <volume>151</volume>
+  <issue>4</issue>
+  <fpage>E125</fpage>
+  <lpage>E132</lpage>
+  <pub-id pub-id-type="doi">10.1149/1.1649756</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-2042513621</pub-id>
+ </element-citation>
+</ref>

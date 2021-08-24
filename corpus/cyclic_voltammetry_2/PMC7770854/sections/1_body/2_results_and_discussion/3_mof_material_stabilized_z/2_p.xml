@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par24">Potential mechanism for the optimized electrochemical performance of the ZIF-8@Zn electrode is further investigated. We analyzed the morphology evolution of the bare Zn foil electrode and the ZIF-8@Zn electrode before and after 100 charge/discharge cycles by SEM and EDS mapping. As shown in Fig. 
+ <xref rid="Fig6" ref-type="fig">6</xref>a, b, many large protuberances appear on the surface of the Zn foil after cycling, suggesting uneven zinc plating/stripping process during repeated charge/discharge cycles. EDS mapping in Fig. 
+ <xref rid="Fig6" ref-type="fig">6</xref>c and Fig. S9 demonstrates that these protuberances contain O and Zn elements; thus, they are zinc oxides/hydroxides, as reported in the literature [
+ <xref ref-type="bibr" rid="CR11">11</xref>]. Cross-sectional SEM image (Fig. S10a, b) further shows some dead Zn particles on the surface of the bare Zn foil after cycling. In Fig. 
+ <xref rid="Fig6" ref-type="fig">6</xref>d, we can see that porous ZIF-8 coating is on the surface of the ZIF-8@Zn electrode, and after cycling (Fig. 
+ <xref rid="Fig6" ref-type="fig">6</xref>e, f), no large protuberances/dendrites appear. Besides, cross-sectional SEM and EDS images of the ZIF-8@Zn electrode (Fig. S10c, d) show that ZIF-8 layer does not fall off the Zn foil after 100 cycles, which means the ZIF-8 coating is stable in ZIBs. A schematic illustration for the morphology evolution of bare Zn and ZIF-8@Zn electrodes during repeated Zn stripping/plating is presented in Fig. 
+ <xref rid="Fig6" ref-type="fig">6</xref>g. According to the literature [
+ <xref ref-type="bibr" rid="CR71">71</xref>–
+ <xref ref-type="bibr" rid="CR74">74</xref>], Zn inclines to deposit on some sites to form small protuberances/dendrites during the plating process. These small protuberances/dendrites then generate inhomogeneous electric field, which is apt to attract Zn
+ <sup>2+</sup> to grow into uncontrolled protuberances/dendrites. When stripping, these large protuberances/dendrites incline to dissolve from their root positions, leading to the formation of “dead” Zn. Furthermore, the vigorously growing zinc protuberances/dendrites may easily pierce through the separator and cause a short circuit. For ZIF-8@Zn electrodes, the porous structure of ZIF-8 coating can homogenize the zinc-ion flux, avoiding an uneven distribution of the electric field and thus inhibiting the formation of protuberances/dendrites [
+ <xref ref-type="bibr" rid="CR75">75</xref>–
+ <xref ref-type="bibr" rid="CR77">77</xref>].
+</p>

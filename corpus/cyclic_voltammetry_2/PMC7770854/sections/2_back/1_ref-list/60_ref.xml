@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR60">
+ <label>60.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>He</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>Q</given-names>
+   </name>
+   <name>
+    <surname>Man</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Zhou</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Self-sacrificed synthesis of conductive vanadium-based metal-organic framework nanowire-bundle arrays as binder-free cathodes for high-rate and high-energy-density wearable Zn-ion batteries</article-title>
+  <source>Nano Energy</source>
+  <year>2019</year>
+  <volume>64</volume>
+  <fpage>103935</fpage>
+  <pub-id pub-id-type="doi">10.1016/j.nanoen.2019.103935</pub-id>
+ </element-citation>
+</ref>

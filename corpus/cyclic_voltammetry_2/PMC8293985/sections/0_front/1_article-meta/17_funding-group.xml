@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funding-group>
+ <award-group>
+  <funding-source>
+   <institution-wrap>
+    <institution>American Chemical Society Petroleum Research Fund</institution>
+    <institution-id institution-id-type="doi">10.13039/100006770</institution-id>
+   </institution-wrap>
+  </funding-source>
+  <award-id>61430-ND3</award-id>
+ </award-group>
+ <award-group>
+  <funding-source>
+   <institution-wrap>
+    <institution>Division of Chemistry</institution>
+    <institution-id institution-id-type="doi">10.13039/100000165</institution-id>
+   </institution-wrap>
+  </funding-source>
+  <award-id>CHE-2102156</award-id>
+ </award-group>
+</funding-group>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Realizing a secure and sustainable energy supply sets a high standard for large‐scale energy storage systems, which requires the systematic utilization of renewable energy sources and thus facilitates the development of rechargeable batteries.
+ <sup>[</sup>
+ <xref rid="advs2021-bib-0001" ref-type="ref">
+  <sup>1</sup>
+ </xref>
+ <sup>]</sup> Recently, researches on sodium‐ion batteries (SIBs) continuously surge owing to the inexhaustible supply and wide distribution of sodium resources compared with lithium, and the similar electrochemistry to that of lithium‐ion batteries. These advantages pave the way for SIBs to be a forthcoming candidate for grid‐scale energy storage applications.
+ <sup>[</sup>
+ <xref rid="advs2021-bib-0002" ref-type="ref">
+  <sup>2</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0003" ref-type="ref">
+  <sup>3</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0004" ref-type="ref">
+  <sup>4</sup>
+ </xref>
+ <sup>]</sup> Nonetheless, the larger size in conjunction with the heavier mass of Na
+ <sup>+</sup> versus Li
+ <sup>+</sup> commonly leads to undesirable sluggish reaction kinetics and even severe structural collapse of Na‐storage electrode materials, hindering this technology to reach a commercial prosperity.
+ <sup>[</sup>
+ <xref rid="advs2021-bib-0005" ref-type="ref">
+  <sup>5</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0006" ref-type="ref">
+  <sup>6</sup>
+ </xref>
+ <sup>]</sup> Given that cathode is the crucial element dominating the cost and electrochemical performance of batteries, great efforts should be devoted to exploring advanced cathode materials with high redox potential, high capacity, and rapid sodium‐ion mobility.
+ <sup>[</sup>
+ <xref rid="advs2021-bib-0007" ref-type="ref">
+  <sup>7</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0008" ref-type="ref">
+  <sup>8</sup>
+ </xref>
+ <sup>]</sup> Among the various reported cathode candidates, such as transition metal oxides (TMOs),
+ <sup>[</sup>
+ <xref rid="advs2021-bib-0009" ref-type="ref">
+  <sup>9</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0010" ref-type="ref">
+  <sup>10</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0011" ref-type="ref">
+  <sup>11</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0012" ref-type="ref">
+  <sup>12</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0013" ref-type="ref">
+  <sup>13</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0014" ref-type="ref">
+  <sup>14</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0015" ref-type="ref">
+  <sup>15</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0016" ref-type="ref">
+  <sup>16</sup>
+ </xref>
+ <sup>]</sup> polyanion‐type compounds,
+ <sup>[</sup>
+ <xref rid="advs2021-bib-0017" ref-type="ref">
+  <sup>17</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0018" ref-type="ref">
+  <sup>18</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0019" ref-type="ref">
+  <sup>19</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0020" ref-type="ref">
+  <sup>20</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0021" ref-type="ref">
+  <sup>21</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0022" ref-type="ref">
+  <sup>22</sup>
+ </xref>
+ <sup>]</sup> Prussian blue analogs,
+ <sup>[</sup>
+ <xref rid="advs2021-bib-0023" ref-type="ref">
+  <sup>23</sup>
+ </xref>
+ <sup>]</sup> and organic salts,
+ <sup>[</sup>
+ <xref rid="advs2021-bib-0024" ref-type="ref">
+  <sup>24</sup>
+ </xref>
+ <sup>]</sup> layered TMOs have gained considerable attention on account of their high theoretical capacities and special 2D structural merits.
+ <sup>[</sup>
+ <xref rid="advs2021-bib-0009" ref-type="ref">
+  <sup>9</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0013" ref-type="ref">
+  <sup>13</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0025" ref-type="ref">
+  <sup>25</sup>
+ </xref>
+ <sup>]</sup> Typically, the layered TMOs can be mainly divided into two polymorphs: P2 type (P: prismatic) and O3 type (O: octahedral) in accordance with the coordination environment of Na ions, where the “2” or “3” means the number of transition metal layers in a single cell unit.
+ <sup>[</sup>
+ <xref rid="advs2021-bib-0026" ref-type="ref">
+  <sup>26</sup>
+ </xref>
+ <sup>]</sup> The P2‐type oxides featuring large prismatic residing sites and facile diffusion paths for sodium ions generally exhibit better electrochemical properties than the O3‐type materials.
+ <sup>[</sup>
+ <xref rid="advs2021-bib-0027" ref-type="ref">
+  <sup>27</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0028" ref-type="ref">
+  <sup>28</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0029" ref-type="ref">
+  <sup>29</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0030" ref-type="ref">
+  <sup>30</sup>
+ </xref>
+ <sup>]</sup> For instance, P2‐Na
+ <sub>2/3</sub>Fe
+ <sub>1/2</sub>Mn
+ <sub>1/2</sub>O
+ <sub>2</sub> is recognized to be an appealing cathode for SIBs in view of its abundance and low cost in raw materials, environmental benignity, and remarkable theoretical specific capacity (175 mA h g
+ <sup>−1</sup>).
+ <sup>[</sup>
+ <xref rid="advs2021-bib-0028" ref-type="ref">
+  <sup>28</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0031" ref-type="ref">
+  <sup>31</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0032" ref-type="ref">
+  <sup>32</sup>
+ </xref>
+ <sup>]</sup> However, deteriorated cycling performance is usually observed for this material due to the Jahn–Teller lattice distortions caused by Mn
+ <sup>3+</sup> and the phase transitions at high voltage during Na
+ <sup>+</sup> (de)intercalation.
+ <sup>[</sup>
+ <xref rid="advs2021-bib-0033" ref-type="ref">
+  <sup>33</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0034" ref-type="ref">
+  <sup>34</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0035" ref-type="ref">
+  <sup>35</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0036" ref-type="ref">
+  <sup>36</sup>
+ </xref>
+ <sup>]</sup>
+</p>

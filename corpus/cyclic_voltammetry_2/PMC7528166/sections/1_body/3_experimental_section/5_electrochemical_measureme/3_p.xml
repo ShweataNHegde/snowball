@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The LSV curves were recorded in O
+ <sub>2</sub>-saturated 0.1 M KOH, with varying electrode rotation rates from 400 to 2500 rpm. The K–L plots (
+ <italic>j</italic>
+ <sup>–1</sup> vs ω
+ <sup>–1/2</sup>) were analyzed at various potentials according to 
+ <xref rid="eq1" ref-type="disp-formula">eqs 
+  <xref rid="eq1" ref-type="disp-formula">1</xref>
+ </xref> and 
+ <xref rid="eq2" ref-type="disp-formula">2</xref>
+ <disp-formula id="eq1">
+  <graphic xlink:href="ao0c02673_m001" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <label>1</label>
+ </disp-formula>
+ <disp-formula id="eq2">
+  <graphic xlink:href="ao0c02673_m002" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <label>2</label>
+ </disp-formula>where 
+ <italic>j</italic>, 
+ <italic>j</italic>
+ <sub>K</sub>, and 
+ <italic>j</italic>
+ <sub>D</sub> are the measured, kinetic, and diffusion-limited current densities, respectively. ω is the angular velocity of the rotating electrode, 
+ <italic>n</italic> is the number of electron transfer involved in the ORR, 
+ <italic>F</italic> is the Faraday constant (96485 C mol
+ <sup>–1</sup>), 
+ <italic>D</italic> is the oxygen diffusion coefficient (1.9 × 10
+ <sup>–5</sup> cm
+ <sup>2</sup> s
+ <sup>–1</sup>), ν is the kinematic viscosity of the electrolyte solution (0.01 cm
+ <sup>2</sup> s
+ <sup>–1</sup>), and 
+ <italic>C</italic>
+ <sub>O
+  <sub>2</sub>
+ </sub> is the bulk concentration of oxygen (1.2 × 10
+ <sup>–3</sup> mol L
+ <sup>–1</sup>).
+</p>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ji</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>KT</given-names>
+   </name>
+   <name>
+    <surname>Nazar</surname>
+    <given-names>LF</given-names>
+   </name>
+  </person-group>
+  <article-title>A highly ordered nanostructured carbon–sulphur cathode for lithium–sulphur batteries</article-title>
+  <source>Nat. Mater.</source>
+  <year>2009</year>
+  <volume>8</volume>
+  <fpage>500</fpage>
+  <pub-id pub-id-type="doi">10.1038/nmat2460</pub-id>
+  <?supplied-pmid 19448613?>
+  <pub-id pub-id-type="pmid">19448613</pub-id>
+ </element-citation>
+</ref>

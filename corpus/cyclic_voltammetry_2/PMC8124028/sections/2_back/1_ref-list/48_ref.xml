@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR48">
+ <label>48.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pei</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Huang</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Tang</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Ma</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>Z</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Enabling highly efficient, flexible and rechargeable quasi-solid-state Zn–air batteries via catalyst engineering and electrolyte functionalization</article-title>
+  <source>Energy Storage Mater.</source>
+  <year>2019</year>
+  <volume>20</volume>
+  <fpage>234</fpage>
+  <lpage>242</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ensm.2018.11.010</pub-id>
+ </element-citation>
+</ref>

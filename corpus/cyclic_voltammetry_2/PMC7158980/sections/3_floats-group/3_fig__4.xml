@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig4">
+ <label>Fig. 4</label>
+ <caption>
+  <p>
+   <bold>a</bold> Linear sweep voltammetry curves of the NPMCNT, NPMCNT-50, NPMCNT-100, NPMCNT-200, NPMCNT-300, NPMCNT-400, and 20% Pt/C electrocatalysts. 
+   <bold>b</bold> The rotating disk electrode voltammograms of NPMCNT-300 electrocatalyst with different rotation speeds. 
+   <bold>c</bold> The Koutecky-Levich plots (
+   <italic>j</italic> is the measured current density, 
+   <italic>ω</italic> is the angular velocity of the disk (
+   <italic>ω</italic> = 2π
+   <italic>N</italic>, 
+   <italic>N</italic> is the linear rotation speed), 
+   <bold>d</bold> The rotating ring-disk electrode voltammograms, 
+   <bold>e</bold> the estimated value of electron transfer (
+   <italic>n</italic>) and peroxide yields, and 
+   <bold>f</bold> the durability measurement of the NPMCNT-300 and Pt/C electrocatalysts
+  </p>
+ </caption>
+ <graphic xlink:href="11671_2020_3316_Fig4_HTML" id="MO4" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

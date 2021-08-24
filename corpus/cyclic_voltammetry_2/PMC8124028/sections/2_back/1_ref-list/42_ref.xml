@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR42">
+ <label>42.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Man</surname>
+    <given-names>IC</given-names>
+   </name>
+   <name>
+    <surname>Su</surname>
+    <given-names>HY</given-names>
+   </name>
+   <name>
+    <surname>Calle-Vallejo</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Hansen</surname>
+    <given-names>HA</given-names>
+   </name>
+   <name>
+    <surname>Martínez</surname>
+    <given-names>JI</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Universality in oxygen evolution electrocatalysis on oxide surfaces</article-title>
+  <source>ChemCatChem</source>
+  <year>2011</year>
+  <volume>3</volume>
+  <fpage>1159</fpage>
+  <lpage>1165</lpage>
+  <pub-id pub-id-type="doi">10.1002/cctc.201000397</pub-id>
+ </element-citation>
+</ref>

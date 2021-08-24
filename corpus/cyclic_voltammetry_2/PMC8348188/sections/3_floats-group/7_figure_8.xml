@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="materials-14-04331-f008" orientation="portrait" position="float">
+ <label>Figure 8</label>
+ <caption>
+  <p>Nyquist plot from electrochemical impedance spectroscopy (EIS) data of the tested alloys for LIBs (
+   <bold>a</bold>) and SIBs (
+   <bold>b</bold>). EIS data analyzed by fitting to an equivalent electrical circuit scheme (inset) in which R1 is the electrolyte solution resistance, R2 is the charge transfer resistance, CPE1 is the double-layer capacitance, and Wo1 is related to the diffusion-controlled Warburg impedance.
+  </p>
+ </caption>
+ <graphic xlink:href="materials-14-04331-g008" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="molecules-26-03440-t003" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">molecules-26-03440-t003_Table 3</object-id>
+ <label>Table 3</label>
+ <caption>
+  <p>ORR activities in Alkaline solutions for carbon-supported Pd, PdNi and Pt catalysts.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Catalyst</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Mass Activity (mA/mg) at 0.85 V</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">%H
+     <sub>2</sub>O
+     <sub>2</sub> at 0.85 V
+    </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Specific Activity (mA/cm
+     <sup>2</sup>) at 0.85 V
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Pd/C</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">14.40</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">25.03</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.02</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">PdNi/C 90:10</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">22.00</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">19.82</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.07</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">PdNi/C 80:20</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">31.39</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">17.82</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.11</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">PdNi/C 70:30</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">45.05</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">9.26</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.16</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">PdNi/C 60:40</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">74.76</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">6.18</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.29</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">PdNi/C 50:50</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">156.63</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.40</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.62</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pt/C</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10.86</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">43.35</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.03</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

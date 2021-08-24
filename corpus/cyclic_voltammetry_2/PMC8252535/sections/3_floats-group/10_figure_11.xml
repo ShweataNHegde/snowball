@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig fig-type="Figure" xml:lang="en" id="cssc202100364-fig-0011" orientation="portrait" position="float">
+ <label>Figure 11</label>
+ <caption>
+  <p>a) Plot of 
+   <italic>E</italic>
+   <sub>1/
+    <italic>x</italic>
+   </sub> vs. ln(
+   <italic>f</italic>
+   <sub>R</sub>) where squares show 
+   <italic>E</italic>
+   <sub>1/
+    <italic>x</italic>
+   </sub> for 
+   <italic>i</italic>=
+   <italic>i</italic>
+   <sub>D</sub>/x and dashed lines show linear fit. b) Plot of 
+   <math id="jats-math-55">
+    <msub>
+     <mi>α</mi>
+     <mrow>
+      <mi mathvariant="normal">a</mi>
+      <mi mathvariant="normal">p</mi>
+      <mi mathvariant="normal">p</mi>
+     </mrow>
+    </msub>
+   </math> vs. 
+   <italic>x</italic> (black dots). The arrow indicates approaching the ORR onset and thus the more kinetically controlled region. Measurements were conducted in 0.1 
+   <sc>m</sc> Ca(ClO
+   <sub>4</sub>)
+   <sub>2</sub> containing DMSO in an RRDE setup at 9 Hz rotation frequency and 20 mV s
+   <sup>−1</sup> sweep rate.
+  </p>
+ </caption>
+ <graphic id="jats-graphic-23" xlink:href="CSSC-14-2564-g010" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

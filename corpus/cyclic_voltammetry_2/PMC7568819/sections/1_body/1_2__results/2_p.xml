@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To obtain coating (Figures 
+ <xref ref-type="fig" rid="fig2">2(c)</xref> and 
+ <xref ref-type="supplementary-material" rid="supplementary-material-1">S7</xref>), the working electrode was cycled between −2.0 and 2.0 V at the rate of 50 mV s
+ <sup>−1</sup>. The thickness of the PAA coating layer can be controlled spanning over 2 nm to 35 nm along with the CV cycles from 5 to 200 cycles (Figures 
+ <xref ref-type="fig" rid="fig2">2(d)</xref> and 
+ <xref ref-type="supplementary-material" rid="supplementary-material-1">S7</xref>). This self-limiting feature in electrocoating is common to an electron-insulator coating, because the tunneling current exponentially decreases with thickness [
+ <xref rid="B18" ref-type="bibr">18</xref>]. This is seen in Figures 
+ <xref ref-type="fig" rid="fig2">2(e)</xref>–
+ <xref ref-type="fig" rid="fig2">2(g)</xref> (also see Fig. 
+ <xref ref-type="supplementary-material" rid="supplementary-material-1">S8A-B</xref> for deposition on Ti and graphite paper), where the thickness-dependent ECW is defined as the voltage at a threshold current density of Δ
+ <italic>I</italic> = 0.4 mA per square centimeter [
+ <xref rid="B31" ref-type="bibr">31</xref>]. (This was calculated based on the macroscopic size of the electrode. For CCF, which has an electrode area of ~545 cm
+ <sup>2</sup> per cm
+ <sup>2</sup> of the macroscopic size, as measured in Fig. 
+ <xref ref-type="supplementary-material" rid="supplementary-material-1">S9A</xref>, the actual current density is 545x lower.) Nitrogen adsorption-desorption isotherms of uncoated and PAA coated (50 cycles) CCF electrodes were also performed, as shown in 
+ <xref ref-type="supplementary-material" rid="supplementary-material-1">Fig. S9A-B</xref>. The specific surface area of uncoated and PAA-coated (50 cycles) CCF electrodes is 4.46 m
+ <sup>2</sup> g
+ <sup>−1</sup> and 2.99 m
+ <sup>2</sup> g
+ <sup>−1</sup>, respectively. This suggests that the PAA coating layer may reduce the specific surface area of carbon materials because the PAA layer will fill partial pores of carbon materials that N
+ <sub>2</sub> cannot be absorbed. Pore size distribution (Fig. 
+ <xref ref-type="supplementary-material" rid="supplementary-material-1">S9C-D</xref>) shows that after coating PAA, the ratio of the micropores of the CCF electrode is reduced, meaning that PAA may get into the micropores. Considering that the coated PAA itself contributes to some surface area yet the entire electrode's specific surface area is reduced, the PAA layer is dense but not porous. We also repeated the electrodeposite procedure using PAA instead of AA, but it did not make the electrode hydrophilic nor did it enlarge ECW (
+ <xref ref-type="supplementary-material" rid="supplementary-material-1">Fig. S10</xref>). Therefore, PAA cannot coat the electrode and it is essential to have AA monomers in electrodeposition to utilize electropolymerization that converts AA in the electrolyte to the PAA coating on the electrode. Indeed, researchers on PAA electrolyte and binder have never reported finding PAA coating or ECW enlargement [
+ <xref rid="B20" ref-type="bibr">20</xref>–
+ <xref rid="B23" ref-type="bibr">23</xref>, 
+ <xref rid="B30" ref-type="bibr">30</xref>].
+</p>

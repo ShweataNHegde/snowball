@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig2" position="float">
+ <label>Figure 2</label>
+ <caption>
+  <p>(a, c) Selected voltage profiles and (b, d) corresponding cycling trends at 25 and 35 °C of Li/electrolyte/S:Sn 80:20 cells employing either (a, b) DEGDME_HCE or (c, d) TREGDME_HCE. The cells are galvanostatically cycled using a voltage range between 1.9 and 2.8 V at the constant current rate of C/5 (1C = 1675 mA g
+   <sub>S</sub>
+   <sup>–1</sup>).
+  </p>
+ </caption>
+ <graphic xlink:href="ef1c00927_0002" id="gr2" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

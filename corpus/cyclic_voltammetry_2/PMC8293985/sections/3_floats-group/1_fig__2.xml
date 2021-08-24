@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig2" orientation="portrait" position="float">
+ <label>Fig. 2</label>
+ <caption>
+  <title>(A) CVs of TFEOH titration with 0.5 mM BQ obtained under Ar saturation conditions. (B) Linear fit of −
+   <italic>E</italic>
+   <sub>1/2</sub> (V 
+   <italic>vs.</italic> Fc
+   <sup>+</sup>/Fc) 
+   <italic>versus</italic> log[TFEOH (M)] for the two-electron BQ/[BQ]
+   <sup>2−</sup> reduction feature obtained from CV titration data in (A), using only reversible two-electron responses observed in the region from −0.85 to −0.70 V. Conditions: 0.1 M TBAPF
+   <sub>6</sub>/MeCN; glassy carbon working electrode, glassy carbon counter electrode, Ag/AgCl pseudoreference electrode; 100 mV s
+   <sup>−1</sup> scan rate; referenced to internal ferrocene standard.
+  </title>
+ </caption>
+ <graphic xlink:href="d1sc01271a-f2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

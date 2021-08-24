@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par48">
+ <italic>ORR reactions</italic>
+ <list list-type="simple">
+  <list-item>
+   <label>(I)</label>
+   <p id="Par49">O
+    <sub>2</sub>(g) + H
+    <sup>+</sup> + 
+    <italic>e</italic>
+    <sup>−</sup> → OOH
+    <sup>*</sup>
+   </p>
+  </list-item>
+  <list-item>
+   <label>(II)</label>
+   <p id="Par50">OOH
+    <sup>*</sup> + H
+    <sup>+</sup> + 
+    <italic>e</italic>
+    <sup>−</sup> → O
+    <sup>*</sup>
+   </p>
+  </list-item>
+  <list-item>
+   <label>(III)</label>
+   <p id="Par51">O
+    <sup>*</sup> + H
+    <sup>+</sup> + 
+    <italic>e</italic>
+    <sup>−</sup> → OH
+    <sup>*</sup>
+   </p>
+  </list-item>
+  <list-item>
+   <label>(IV)</label>
+   <p id="Par52">OH
+    <sup>*</sup> + H
+    <sup>+</sup> + 
+    <italic>e</italic>
+    <sup>−</sup> → H
+    <sub>2</sub>O(l) + 
+    <sup>*</sup>
+   </p>
+  </list-item>
+ </list>
+ <italic>OER reactions</italic>
+ <list list-type="simple">
+  <list-item>
+   <label>(I)</label>
+   <p id="Par53">H
+    <sub>2</sub>O(l) + 
+    <sup>*</sup> → OH
+    <sup>*</sup> + H
+    <sup>+</sup> + 
+    <italic>e</italic>
+    <sup>−</sup>
+   </p>
+  </list-item>
+  <list-item>
+   <label>(II)</label>
+   <p id="Par54">OH
+    <sup>*</sup> → O
+    <sup>*</sup> + H
+    <sup>+</sup> + 
+    <italic>e</italic>
+    <sup>−</sup>
+   </p>
+  </list-item>
+  <list-item>
+   <label>(III)</label>
+   <p id="Par55">O
+    <sup>*</sup> → OOH
+    <sup>*</sup> + H
+    <sup>+</sup> + 
+    <italic>e</italic>
+    <sup>−</sup>
+   </p>
+  </list-item>
+  <list-item>
+   <label>(IV)</label>
+   <p id="Par56">OOH
+    <sup>*</sup> → O
+    <sub>2</sub>(g) + H
+    <sup>+</sup> + 
+    <italic>e</italic>
+    <sup>−</sup>
+   </p>
+  </list-item>
+ </list>
+</p>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The collection efficiency was determined in the same manner as our previous reports
+ <sup>
+  <xref rid="cit15a" ref-type="bibr">15
+   <italic>a</italic>
+  </xref>
+ </sup> using 0.5 mM ferrocene (Fig. S60 and S61
+ <xref ref-type="fn" rid="fn1">†</xref>). Under conditions for which Levich behavior was observed, the difference between the amount of current produced at the disk under O
+ <sub>2</sub> saturation conditions and the amount of current produced at the disk under Ar saturation conditions was taken as the corrected disk current for O
+ <sub>2</sub> saturation conditions (
+ <italic>I</italic>
+ <sub>disk corrected</sub>) at each rotation rate. The difference between the amount of current produced at the ring under O
+ <sub>2</sub> saturation conditions and the amount of current produced at the ring under Ar saturation conditions was taken as the corrected ring current for O
+ <sub>2</sub> saturation conditions (
+ <italic>I</italic>
+ <sub>ring corrected</sub>) at each rotation rate. To calculate the H
+ <sub>2</sub>O
+ <sub>2</sub>%, the 
+ <italic>I</italic>
+ <sub>disk corrected</sub> was multiplied by the corresponding 
+ <italic>N</italic>
+ <sub>empirical</sub> value for the specific rotation rate to determine the maximum amount of ring current for H
+ <sub>2</sub>O
+ <sub>2</sub> production (
+ <italic>I</italic>
+ <sub>ring max</sub>). The ratio of 
+ <italic>I</italic>
+ <sub>ring corrected</sub> to 
+ <italic>I</italic>
+ <sub>ring max</sub> was multiplied by a factor of 100 to determine the % H
+ <sub>2</sub>O
+ <sub>2</sub> generated at the ring across all measured rotation rates (
+ <xref ref-type="disp-formula" rid="eqn10">eqn (10)</xref>).
+ <disp-formula id="eqn10">
+  <label>10</label>
+  <graphic xlink:href="d1sc01271a-t7.jpg" id="ugt7" position="float" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </disp-formula>
+</p>

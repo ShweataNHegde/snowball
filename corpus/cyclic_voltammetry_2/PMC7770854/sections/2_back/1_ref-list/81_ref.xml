@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR81">
+ <label>81.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Augustyn</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Come</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Lowe</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>Kim</surname>
+    <given-names>JW</given-names>
+   </name>
+   <name>
+    <surname>Taberna</surname>
+    <given-names>PL</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>High-rate electrochemical energy storage through Li
+   <sup>+</sup> intercalation pseudocapacitance
+  </article-title>
+  <source>Nat. Mater.</source>
+  <year>2013</year>
+  <volume>12</volume>
+  <issue>6</issue>
+  <fpage>518</fpage>
+  <lpage>522</lpage>
+  <pub-id pub-id-type="doi">10.1038/nmat3601</pub-id>
+  <pub-id pub-id-type="pmid">23584143</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aff id="cssc202100364-aff-0001">
+ <label>
+  <sup>1</sup>
+ </label>
+ <named-content content-type="organisation-division">Institut für Physikalische und Theoretische Chemie</named-content>
+ <institution>Universität Bonn</institution>
+ <named-content content-type="street">Römerstraße 164</named-content>
+ <span class="postal-code" xmlns="http://www.w3.org/1999/xhtml">53117</span>
+ <city>Bonn</city>
+ <country country="DE">Germany</country>
+</aff>

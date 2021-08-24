@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>A general conclusion is that a smaller exchange current density, i.e., slower electroreduction kinetics, promotes relatively compact electrodeposition. As we will show later in this section, the beneficial effects of low 
+ <italic>J</italic>
+ <sub>0</sub> values can be theoretically understood by comparing the interfacial reaction kinetics to the other kinetic variables in the problem through several dimensionless Damköhler numbers: e.g., based on (i) the cation diffusion rate in the electrolyte bulk (
+ <xref rid="R37" ref-type="bibr">
+  <italic>37</italic>
+ </xref>), (ii) the self-diffusion rate of the deposited metal (
+ <xref rid="R38" ref-type="bibr">
+  <italic>38</italic>
+ </xref>), and (iii) the rate at which electrons move in an external circuit. An important discovery is that electrodeposition of Zn can be tuned by adding polymers, such as poly(ethylene glycol) (PEG), e.g., PEG-200, at such low concentrations in liquid electrolytes that the polymer does not have any obvious effect on the ion or adatom transport fluxes. Instead, studies such as the work reported by Banik and Akolkar (
+ <xref rid="R39" ref-type="bibr">
+  <italic>39</italic>
+ </xref>) suggest that the polymer additive directly alters 
+ <italic>J</italic>
+ <sub>0</sub>. The authors showed, for example, that 
+ <italic>J</italic>
+ <sub>0</sub> decreases systematically (from 2.28, 2.22, and 1.30 to 0.39 mA/cm
+ <sup>2</sup>) as the concentration of PEG-200 increases from 0, 100, and 1000 to 10,000 parts per million in aqueous electrolytes. The authors further observed that the growth of Zn dendrites is inhibited by PEG addition, which is consistent with other studies (
+ <xref rid="R40" ref-type="bibr">
+  <italic>40</italic>
+ </xref>, 
+ <xref rid="R41" ref-type="bibr">
+  <italic>41</italic>
+ </xref>). Analogous studies of Cu electrodeposition show by means of in situ electrochemical quartz crystal microbalance analysis that dynamic adsorption of the polymer additive may instead influence the reaction kinetics by introducing a new rate-limiting step, namely, the ion adsorption kinetics at the electrode (
+ <xref rid="R42" ref-type="bibr">
+  <italic>42</italic>
+ </xref>).
+</p>

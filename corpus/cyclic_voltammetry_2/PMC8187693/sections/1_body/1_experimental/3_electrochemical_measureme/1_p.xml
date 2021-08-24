@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par34">The electrochemical characteristics of ORR/OER catalysts were investigated using a benchmark three-electrode system and an electrochemical workstation (Biologic, VSP, France) [
+ <xref ref-type="bibr" rid="CR31">31</xref>]. All measurements were conducted in 0.1 M KOH (specification of analysis, Samchun Co., Ltd.) solution at ambient temperature and pressure. Typically, M-N
+ <sub>4</sub>/NC (4 mg) was dispersed into the solution of deionized water (480 μL), ethanol (480 μL, 99.9%, Duksan Co., Ltd.), and Nafion
+ <sup>®</sup>117 (40 μL, 5 wt %, Aldrich Co., Ltd.) by 30-min ultrasonication to produce a well-distributed catalyst ink. The ink was drop-cast onto a well-polished glassy carbon disk electrode (
+ <italic>R</italic>
+ <sub>diameter</sub> = 4 mm) and dried under ambient conditions to afford a loading of 800 μg/cm
+ <sup>2</sup>. A Pt wire was used as a counter electrode, while Hg/HgO in 1 M NaOH was regarded as a reference electrode. Every electric potential was calibrated using the reversible hydrogen electrode (RHE) conversion formula, 
+ <italic>E</italic>
+ <sub>RHE</sub> (V) = 
+ <italic>E</italic>
+ <sub>Hg/HgO(1MNaOH)</sub> + 0.198 + 0.059pH. For ORR analysis, polarization curves were constructed using linear sweep voltammetry (LSV) measurements in O
+ <sub>2</sub>-saturated 0.1 M KOH at a scanning speed (5 mV s
+ <sup>−1</sup>) and a rotation rate (1600 rpm) within a voltage region (0.2–1.2 V vs. RHE). Chronoamperometry (CA) measurement of Co-N
+ <sub>4</sub>/NC was performed at 0.6 V versus RHE for 30,000 s to examine cycling stability and catalyst durability. Also, chronopotentiometry (CP) response at a certain current density (–4 mA cm
+ <sup>−2</sup>) for the Co-N
+ <sub>4</sub>/NC was measured to verify the durability and stability. Cyclic voltammetry (CV) measurements were carried out at 100 mV s
+ <sup>−1</sup> in the voltage range 0.4–1.0 V versus RHE for 3000 cycles. Additionally, the average electron transfer number (
+ <italic>n</italic>) and the yield of H
+ <sub>2</sub>O
+ <sub>2</sub> were measured based on rotating ring–disk electrodes (RRDE) analysis. It is expressed by the following equation:
+ <disp-formula id="Equ1">
+  <label>1</label>
+  <alternatives>
+   <tex-math id="M1">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$n = 4 \times I_{\text{d}} /\left( {I_{\text{d}} + I_{\text{r}} /N} \right)$$\end{document}</tex-math>
+   <math id="M2" display="block">
+    <mrow>
+     <mi>n</mi>
+     <mo>=</mo>
+     <mn>4</mn>
+     <mo>×</mo>
+     <msub>
+      <mi>I</mi>
+      <mtext>d</mtext>
+     </msub>
+     <mo stretchy="false">/</mo>
+     <mfenced close=")" open="(">
+      <mrow>
+       <msub>
+        <mi>I</mi>
+        <mtext>d</mtext>
+       </msub>
+       <mo>+</mo>
+       <msub>
+        <mi>I</mi>
+        <mtext>r</mtext>
+       </msub>
+       <mo stretchy="false">/</mo>
+       <mi>N</mi>
+      </mrow>
+     </mfenced>
+    </mrow>
+   </math>
+   <graphic xlink:href="40820_2020_581_Article_Equ1.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+ <disp-formula id="Equ2">
+  <label>2</label>
+  <alternatives>
+   <tex-math id="M3">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\text{H}}_{ 2} {\text{O}}_{ 2} \,\left( \% \right) = 200 \, \times I_{\text{r}} \times N^{ - 1} /\left( {I_{\text{d}} + I_{\text{r}} /N} \right)$$\end{document}</tex-math>
+   <math id="M4" display="block">
+    <mrow>
+     <msub>
+      <mtext>H</mtext>
+      <mn>2</mn>
+     </msub>
+     <msub>
+      <mtext>O</mtext>
+      <mn>2</mn>
+     </msub>
+     <mspace width="0.166667em"/>
+     <mfenced close=")" open="(">
+      <mo>%</mo>
+     </mfenced>
+     <mo>=</mo>
+     <mn>200</mn>
+     <mspace width="0.166667em"/>
+     <mo>×</mo>
+     <msub>
+      <mi>I</mi>
+      <mtext>r</mtext>
+     </msub>
+     <mo>×</mo>
+     <msup>
+      <mi>N</mi>
+      <mrow>
+       <mo>-</mo>
+       <mn>1</mn>
+      </mrow>
+     </msup>
+     <mo stretchy="false">/</mo>
+     <mfenced close=")" open="(">
+      <mrow>
+       <msub>
+        <mi>I</mi>
+        <mtext>d</mtext>
+       </msub>
+       <mo>+</mo>
+       <msub>
+        <mi>I</mi>
+        <mtext>r</mtext>
+       </msub>
+       <mo stretchy="false">/</mo>
+       <mi>N</mi>
+      </mrow>
+     </mfenced>
+    </mrow>
+   </math>
+   <graphic xlink:href="40820_2020_581_Article_Equ2.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>where 
+ <italic>I</italic>
+ <sub>d</sub>, 
+ <italic>I</italic>
+ <sub>r</sub>, and 
+ <italic>N</italic> denote the disk current, ring current, and current collection efficiency, respectively.
+</p>

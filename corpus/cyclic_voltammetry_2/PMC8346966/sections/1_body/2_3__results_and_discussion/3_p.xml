@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>CVs at a scan rate of 0.1 mV s
+ <sup>−1</sup> between 0.01 and 2.5 V (vs. Li
+ <sup>+</sup>/Li) are shown in 
+ <xref ref-type="fig" rid="materials-14-04348-f005">Figure 5</xref>a. In the first cathodic process, np-Cu
+ <sub>6</sub>Sn
+ <sub>5</sub> anode shows a peak at 0.77 V (vs. Li
+ <sup>+</sup>/Li), due to the irreversible reactions in the initial cycle [
+ <xref rid="B22-materials-14-04348" ref-type="bibr">22</xref>]. The irreversible reactions might be attributed to the formation of solid-electrolyte interface (SEI). The CV peaks start to overlap from the second cycle, indicating that the anode becomes stable after the first cycle (
+ <xref ref-type="fig" rid="materials-14-04348-f005">Figure 5</xref>a). The performance of as-dealloyed Cu
+ <sub>6</sub>Sn
+ <sub>5</sub> anode was evaluated using galvanostatic discharge–charge cycling. 
+ <xref ref-type="fig" rid="materials-14-04348-f005">Figure 5</xref>b exhibits the initial five charge/discharge curves between 0.01 V (vs. Li
+ <sup>+</sup>/Li) and 2.0 V (vs. Li
+ <sup>+</sup>/Li) of the dealloyed Cu
+ <sub>6</sub>Sn
+ <sub>5</sub> anode at the current density of 0.1 A g
+ <sup>−1</sup>. For the first cycle, the discharge process shows a plateau at around 0.25 and 0.77 V (vs. Li
+ <sup>+</sup>/Li), corresponding to the CV curve in 
+ <xref ref-type="fig" rid="materials-14-04348-f005">Figure 5</xref>a. The discharge processes from the second cycle show obvious potential plateau at around 0.3 V (vs. Li
+ <sup>+</sup>/Li), in correspondence with the slight anodic peak from CV curves. The charge processes have plateaus at around 0.5 and 0.75 V (vs. Li
+ <sup>+</sup>/Li), which were also found in other Cu
+ <sub>6</sub>Sn
+ <sub>5</sub>-based materials [
+ <xref rid="B21-materials-14-04348" ref-type="bibr">21</xref>,
+ <xref rid="B22-materials-14-04348" ref-type="bibr">22</xref>,
+ <xref rid="B23-materials-14-04348" ref-type="bibr">23</xref>,
+ <xref rid="B24-materials-14-04348" ref-type="bibr">24</xref>,
+ <xref rid="B26-materials-14-04348" ref-type="bibr">26</xref>]. To further study the phase transition during the charge/discharge process, the ex situ XRD analysis was performed. The pristine np-Cu
+ <sub>6</sub>Sn
+ <sub>5</sub> clearly shows the peaks indexed to Cu
+ <sub>6</sub>Sn
+ <sub>5</sub> phase (PDF # 65-2303) (
+ <xref ref-type="fig" rid="materials-14-04348-f005">Figure 5</xref>c). After fully discharging to 0 V for the first cycle, Cu
+ <sub>6</sub>Sn
+ <sub>5</sub> phase disappears, and Li
+ <sub>2</sub>CuSn phase (PDF # 65-5125) emerges at around 24.5 °C and 40.6 °C. The XRD pattern corresponding to the fully charged state of the second cycle confirms the transition from Li
+ <sub>2</sub>CuSn to Cu
+ <sub>6</sub>Sn
+ <sub>5</sub> again. Furthermore, the second fully discharged process proves the reversible conversion from Cu
+ <sub>6</sub>Sn
+ <sub>5</sub> to Li
+ <sub>2</sub>CuSn. The ex situ XRD patterns indicate the reversible conversion of Cu
+ <sub>6</sub>Sn
+ <sub>5</sub> to Li
+ <sub>2</sub>CuSn during the charge/discharge process. 
+ <xref ref-type="fig" rid="materials-14-04348-f005">Figure 5</xref>d shows the cycling performance of np-Cu
+ <sub>6</sub>Sn
+ <sub>5</sub> alloy at the current density of 0.1 A g
+ <sup>−1</sup>. The initial discharge capacity is as high as 700 mA h g
+ <sup>−</sup>
+ <sup>1</sup>, slightly higher than that from electrodeposited Cu
+ <sub>6</sub>Sn
+ <sub>5</sub> alloy film [
+ <xref rid="B26-materials-14-04348" ref-type="bibr">26</xref>]. The higher capacity could be attributed to the nanoporous ligament-channel structure that facilities the diffusion of electrolyte and the reduced Li-ions insertion pathway into the Cu
+ <sub>6</sub>Sn
+ <sub>5</sub> ligaments [
+ <xref rid="B8-materials-14-04348" ref-type="bibr">8</xref>,
+ <xref rid="B9-materials-14-04348" ref-type="bibr">9</xref>]. The capacity can be maintained higher than 500 mA h g
+ <sup>−1</sup> for at least 20 cycles and keep at ~200 mA h g
+ <sup>−1</sup> for the following 400 cycles with the Coulombic efficiency of nearly 100%. The residual stress of electrodes is related to the performance and stability of energy generation devices such as LIBs here, and np-Cu
+ <sub>6</sub>Sn
+ <sub>5</sub> with bi-continuous ligament-channel structure own strain relaxation, favoring the cyclability of LIBs [
+ <xref rid="B37-materials-14-04348" ref-type="bibr">37</xref>]. The decay of capacity is induced by the alloy aggregation and collapse of porous structure during cycling, and the stability of np-Cu
+ <sub>6</sub>Sn
+ <sub>5</sub> anode is expected to be improved by adjusting the constituent of alloy precursors and dealloying conditions in the future. The np-Cu
+ <sub>6</sub>Sn
+ <sub>5</sub> anode also presents excellent rate performance, as illustrated in 
+ <xref ref-type="fig" rid="materials-14-04348-f005">Figure 5</xref>e,f. At the current density of 0.1 A g
+ <sup>−1</sup>, the capacity is ~900 mA h g
+ <sup>−1</sup> for the first cycle and maintains at higher than 700 mA h g
+ <sup>−1</sup> for 10 cycles. With the current density increasing to 2.0 A g
+ <sup>−1</sup>, the capacity gradually decreases to ~380 mA h g
+ <sup>−1</sup>. The anode recovers to a capacity of around 600 mA h g
+ <sup>−1</sup> when the current density is reversed to 0.1 A g
+ <sup>−1</sup>. The results demonstrate that the nanoporous structure gives an excellent rate performance to the Cu
+ <sub>6</sub>Sn
+ <sub>5</sub> anode, even after experiencing the high current density of 2.0 A g
+ <sup>−1</sup>. The anode was also performed under 0.5 A g
+ <sup>−1</sup> to investigate its possible application under a higher current density. As shown in 
+ <xref ref-type="app" rid="app1-materials-14-04348">Figure S2</xref>, after 100 cycles, the anode can maintain its capacity higher than 150 mA h g
+ <sup>−1</sup> for at least 1000 cycles, demonstrating excellent stability.
+</p>

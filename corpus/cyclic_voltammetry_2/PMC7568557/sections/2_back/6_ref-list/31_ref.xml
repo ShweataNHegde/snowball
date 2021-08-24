@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR31">
+ <label>31.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wei</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A stable room-temperature sodium–sulfur battery</article-title>
+  <source>Nat. Commun.</source>
+  <year>2016</year>
+  <volume>7</volume>
+  <fpage>11722</fpage>
+  <pub-id pub-id-type="doi">10.1038/ncomms11722</pub-id>
+  <?supplied-pmid 27277345?>
+  <pub-id pub-id-type="pmid">27277345</pub-id>
+ </element-citation>
+</ref>

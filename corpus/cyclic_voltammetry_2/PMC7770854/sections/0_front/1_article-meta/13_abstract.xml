@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1" abstract-type="ArticleHighlights">
+ <title>Highlights</title>
+ <p id="Par1">
+  <list list-type="bullet">
+   <list-item>
+    <p id="Par2">Various MOF materials were synthesized and investigated as ZIB cathodes.</p>
+   </list-item>
+   <list-item>
+    <p id="Par3">A long-term stable ZIF-8@Zn anode was proposed by coating ZIF-8 material on the surface of zinc foils.</p>
+   </list-item>
+   <list-item>
+    <p id="Par4">High-performance aqueous ZIBs were constructed using the Mn(BTC) cathode and the ZIF-8@Zn anode.</p>
+   </list-item>
+  </list>
+ </p>
+ <sec>
+  <title>Electronic supplementary material</title>
+  <p>The online version of this article (10.1007/s40820-020-00487-1) contains supplementary material, which is available to authorized users.</p>
+ </sec>
+</abstract>

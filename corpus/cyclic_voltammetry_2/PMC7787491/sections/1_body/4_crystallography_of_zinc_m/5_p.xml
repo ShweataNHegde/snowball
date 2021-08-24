@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The crystallographic texture of metal electrodeposits is determined by two main factors: the substrate and the overpotential (
+ <xref rid="R87" ref-type="bibr">
+  <italic>87</italic>
+ </xref>, 
+ <xref rid="R92" ref-type="bibr">
+  <italic>92</italic>
+ </xref>, 
+ <xref rid="R137" ref-type="bibr">
+  <italic>137</italic>
+ </xref>). The influence of substrate can be most fruitfully interrogated using the concept of heteroepitaxy, which describes a group of crystal growths in which the epilayer forms a semi-/coherent interface with the substrate and therefore shows locked orientation relation with the substrate (
+ <xref rid="R138" ref-type="bibr">
+  <italic>138</italic>
+ </xref>). There is a set of well-defined criteria for this heteroepitaxy to occur: (i) the lattice misfit between the two crystals δ is smaller than 15%, and (ii) the substrate is textured with favorable facet(s) being exposed (
+ <xref rid="R139" ref-type="bibr">
+  <italic>139</italic>
+ </xref>). As these criteria are satisfied, the newly nucleated metal spontaneously aligns with the substrate and forms the semi-/coherent interface to minimize surface energy. This heteroepitaxy provides an effective manipulator for regulating the electrodeposition morphology of metals. We showed recently that horizontally aligned graphene layer, which has a δ = 7% with Zn, can effectively promote the formation of horizontally aligned, (002)-textured Zn plate-like electrodeposits that claim plating/stripping efficiencies of &gt;99.6% over thousands of cycles (
+ <xref rid="R22" ref-type="bibr">
+  <italic>22</italic>
+ </xref>, 
+ <xref rid="R76" ref-type="bibr">
+  <italic>76</italic>
+ </xref>). In the early exploration of a group of powder-based Zn electrodes used in alkaline batteries (
+ <xref rid="R140" ref-type="bibr">
+  <italic>140</italic>
+ </xref>), it has been suggested that the addition of some metal oxides (e.g., PbO or SnO) introduces a similar epitaxial effect (
+ <xref rid="R141" ref-type="bibr">
+  <italic>141</italic>
+ </xref>). The metal oxides are reduced to their elemental forms and act as a heterogeneous epitaxial substrate for the Zn electrodeposition. Analogous concept of substrate-induced heteroepitaxy has also been reported for Li metal (
+ <xref rid="R142" ref-type="bibr">
+  <italic>142</italic>
+ </xref>). Even without an epitaxial substrate, metal electrodeposits were found to exhibit some degree of texturing behaviors depending on overpotential as reported in early studies (
+ <xref rid="R143" ref-type="bibr">
+  <italic>143</italic>
+ </xref>, 
+ <xref rid="R144" ref-type="bibr">
+  <italic>144</italic>
+ </xref>). This phenomenon was rationalized in later works by considering work of formation of a 2D nucleus 
+ <inline-formula>
+  <math id="m23">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>W</mi>
+      <mi mathvariant="normal">hkl</mi>
+     </msub>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mi>B</mi>
+        <mi mathvariant="normal">hkl</mi>
+       </msub>
+      </mrow>
+      <mrow>
+       <mfrac>
+        <mn>1</mn>
+        <msub>
+         <mi>N</mi>
+         <mi mathvariant="normal">A</mi>
+        </msub>
+       </mfrac>
+       <mo stretchy="false">(</mo>
+       <mi mathvariant="normal">μ</mi>
+       <mo>−</mo>
+       <msub>
+        <mi mathvariant="normal">μ</mi>
+        <mn>0</mn>
+       </msub>
+       <mo stretchy="false">)</mo>
+       <mo>−</mo>
+       <msub>
+        <mi>A</mi>
+        <mi mathvariant="normal">hkl</mi>
+       </msub>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>, where 
+ <italic>N</italic>
+ <sub>A</sub> is the Avogadro number, μ − μ
+ <sub>0</sub> is the overpotential, and 
+ <italic>A</italic> and 
+ <italic>B</italic> are constants determined by the works for separating an atoms from a crystal (
+ <xref rid="R145" ref-type="bibr">
+  <italic>145</italic>
+ </xref>, 
+ <xref rid="R146" ref-type="bibr">
+  <italic>146</italic>
+ </xref>). It is argued that when the overpotential is large, the 
+ <italic>A</italic>
+ <sub>hkl</sub> term can be neglected and 
+ <italic>B</italic>
+ <sub>hkl</sub> dominates 
+ <italic>W</italic>
+ <sub>hkl</sub>; when the overpotential is small, the 
+ <italic>W</italic>
+ <sub>hkl</sub> will instead depend much on 
+ <italic>A</italic>
+ <sub>hkl</sub>. On the basis of calculation, for HCP crystal, 
+ <italic>W</italic>
+ <sub>002</sub> &lt; 
+ <italic>W</italic>
+ <sub>101</sub> at low overpotential, and 
+ <italic>W</italic>
+ <sub>002</sub> &gt; 
+ <italic>W</italic>
+ <sub>101</sub> at large overpotential. This predicts that Zn electrodeposits are (002) textured at small overpotential but (101) textured at large overpotential, which is consistent with experimental observation (
+ <xref rid="F5" ref-type="fig">Fig. 5D</xref>) (
+ <xref rid="R28" ref-type="bibr">
+  <italic>28</italic>
+ </xref>).
+</p>

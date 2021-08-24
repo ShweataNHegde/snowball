@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes" id="ath1">
+  <name>
+   <surname>Ejigu</surname>
+   <given-names>Andinet</given-names>
+  </name>
+  <xref rid="cor1" ref-type="other">*</xref>
+  <xref rid="aff1" ref-type="aff">†</xref>
+  <xref rid="aff2" ref-type="aff">‡</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath2">
+  <name>
+   <surname>Le Fevre</surname>
+   <given-names>Lewis W.</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">‡</xref>
+  <xref rid="aff3" ref-type="aff">§</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes" id="ath3">
+  <name>
+   <surname>Dryfe</surname>
+   <given-names>Robert A. W.</given-names>
+  </name>
+  <xref rid="cor2" ref-type="other">*</xref>
+  <xref rid="aff1" ref-type="aff">†</xref>
+  <xref rid="aff2" ref-type="aff">‡</xref>
+  <xref rid="aff4" ref-type="aff">∥</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>†</label>Department of Chemistry, 
+  <institution>University of Manchester</institution>, Oxford Road, Manchester M13 9PL, 
+  <country>U.K.</country>
+ </aff>
+ <aff id="aff2">
+  <label>‡</label>National Graphene Institute, 
+  <institution>University of Manchester</institution>, Oxford Road, Manchester M13 9PL, 
+  <country>U.K.</country>
+ </aff>
+ <aff id="aff3">
+  <label>§</label>Department of Electrical and Electronic Engineering, 
+  <institution>University of Manchester</institution>, Oxford Road, Manchester M13 9PL, 
+  <country>U.K.</country>
+ </aff>
+ <aff id="aff4">
+  <label>∥</label>Henry Royce Institute, 
+  <institution>University of Manchester</institution>, Oxford Road, Manchester M13 9PL, 
+  <country>U.K.</country>
+ </aff>
+</contrib-group>

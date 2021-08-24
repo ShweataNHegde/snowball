@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4019-4383</contrib-id>
+  <name>
+   <surname>Pasadakis-Kavounis</surname>
+   <given-names>Alexandros</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-6386-9139</contrib-id>
+  <name>
+   <surname>Baj</surname>
+   <given-names>Vanessa</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-0072-5784</contrib-id>
+  <name>
+   <surname>Hjelm</surname>
+   <given-names>Johan</given-names>
+  </name>
+  <xref rid="c1-molecules-26-02227" ref-type="corresp">*</xref>
+ </contrib>
+</contrib-group>

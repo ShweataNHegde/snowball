@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bulbula</surname>
+    <given-names>ST</given-names>
+   </name>
+   <name>
+    <surname>Lu</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Dong</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Yang</surname>
+    <given-names>X-Y</given-names>
+   </name>
+  </person-group>
+  <article-title>Hierarchically porous graphene for batteries and supercapacitors</article-title>
+  <source>New J. Chem.</source>
+  <year>2018</year>
+  <volume>42</volume>
+  <fpage>5634</fpage>
+  <lpage>5655</lpage>
+  <pub-id pub-id-type="doi">10.1039/C8NJ00652K</pub-id>
+ </element-citation>
+</ref>

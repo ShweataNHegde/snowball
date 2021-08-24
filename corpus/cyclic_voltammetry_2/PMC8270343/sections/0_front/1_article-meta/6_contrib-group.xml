@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dan</surname>
+   <given-names>Monica</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-molecules-26-03858">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-9202-0575</contrib-id>
+  <name>
+   <surname>Vulcu</surname>
+   <given-names>Adriana</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-molecules-26-03858">1</xref>
+  <xref rid="c1-molecules-26-03858" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Porav</surname>
+   <given-names>Sebastian A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-molecules-26-03858">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Leostean</surname>
+   <given-names>Cristian</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-molecules-26-03858">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Borodi</surname>
+   <given-names>Gheorghe</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-molecules-26-03858">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-0879-9211</contrib-id>
+  <name>
+   <surname>Cadar</surname>
+   <given-names>Oana</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-molecules-26-03858">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5885-3132</contrib-id>
+  <name>
+   <surname>Berghian-Grosan</surname>
+   <given-names>Camelia</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-molecules-26-03858">1</xref>
+  <xref rid="c1-molecules-26-03858" ref-type="corresp">*</xref>
+ </contrib>
+</contrib-group>

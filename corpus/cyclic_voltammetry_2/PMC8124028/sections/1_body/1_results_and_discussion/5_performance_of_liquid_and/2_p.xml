@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par29">The cycle stability and efficiency were evaluated by the galvanostatic charge–discharge mode at a high current density of 20 mA cm
+ <sup>−2</sup> for 40 min per cycle and the results are shown in Fig. 
+ <xref rid="Fig7" ref-type="fig">7</xref>d, e. The Co/CoFe@NC-based ZAB displays an initial charge–discharge voltage gap of 0.68 V, which is smaller than the ZAB assembled with Pt/C + RuO
+ <sub>2</sub> (0.87 V). More significantly, the ZAB based on Co/CoFe@NC exhibits only a very slight voltage loss of 60 mV after continuous test of 550 cycles (~ 360 h, 15 days), whereas the ZAB using Pt/C + RuO
+ <sub>2</sub> undergoes severe performance degradation with 292 mV increase in voltage gap after only 275 cycles (~ 180 h). It presents an extremely low decaying rate of 0.109 millivolts per cycle for the ZAB based on Co/CoFe@NC, which is ten times lower than the noble-metal benchmark (1.061 millivolts per cycle). The poor stability of the Pt/C + RuO
+ <sub>2</sub> electrode is presumably due to nanoparticle agglomeration and catalyst-support breakaway during the operation [
+ <xref ref-type="bibr" rid="CR45">45</xref>, 
+ <xref ref-type="bibr" rid="CR46">46</xref>]. For Co/CoFe@NC, the fascinating porosity and ultra-thin protective carbon shell can not only suppress the catalysts from agglomeration, but also maintain continuous electron/mass-transport channels for the ORR/OER. Such long-lasting cyclability over the time scale in this work is evidently superior to other recently reported results, as shown in Fig. 
+ <xref rid="Fig7" ref-type="fig">7</xref>f (note detailed information in Table S2).
+</p>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>A. Wasfey</surname>
+   <given-names>Madlin</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-materials-13-04906">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-3822-2752</contrib-id>
+  <name>
+   <surname>Abdelwahab</surname>
+   <given-names>Abdalla</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-materials-13-04906">2</xref>
+  <xref rid="c1-materials-13-04906" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2516-7806</contrib-id>
+  <name>
+   <surname>Carrasco-Marín</surname>
+   <given-names>Francisco</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-materials-13-04906">3</xref>
+  <xref ref-type="aff" rid="af4-materials-13-04906">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-1483-0035</contrib-id>
+  <name>
+   <surname>Pérez-Cadenas</surname>
+   <given-names>Agustín F.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-materials-13-04906">3</xref>
+  <xref ref-type="aff" rid="af4-materials-13-04906">4</xref>
+  <xref rid="c1-materials-13-04906" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-3532-254X</contrib-id>
+  <name>
+   <surname>H Abdullah</surname>
+   <given-names>H.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-materials-13-04906">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-9855-5033</contrib-id>
+  <name>
+   <surname>S. Yahia</surname>
+   <given-names>I.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af5-materials-13-04906">5</xref>
+  <xref ref-type="aff" rid="af6-materials-13-04906">6</xref>
+  <xref ref-type="aff" rid="af7-materials-13-04906">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Farghali</surname>
+   <given-names>Ahmed Ali</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-materials-13-04906">2</xref>
+ </contrib>
+</contrib-group>

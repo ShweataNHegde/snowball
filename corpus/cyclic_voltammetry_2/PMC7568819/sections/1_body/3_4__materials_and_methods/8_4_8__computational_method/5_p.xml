@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>All calculations were performed at the level of density functional theory (DFT) using the Vienna Ab initio Simulation Package (VASP) [
+ <xref rid="B41" ref-type="bibr">41</xref>]. A plane-wave basis and projector-augmented wave method (PAW) pseudopotentials were used [
+ <xref rid="B42" ref-type="bibr">42</xref>]. The Perdew-Burke-Ernzerhof (PBE) generalized gradient approximation (GGA) was adopted to treat exchange-correlation effects [
+ <xref rid="B43" ref-type="bibr">43</xref>]. A cutoff of 520 eV was imposed on the kinetic energy, and the accuracy of the total energy was set to be 10
+ <sup>−8</sup> eV. Atomic and lattice parameter relaxations were optimized by a conjugate-gradient (CG) algorithm with an imposed numerical threshold of 0.005 eV/Å. We also considered the van der Waals interaction using the DFT-D2 method of Grimme [
+ <xref rid="B44" ref-type="bibr">44</xref>] in the present study. A 6 × 6 × 1 supercell of graphene (72 atoms) was built for the adsorption of H
+ <sup>+</sup> and OH
+ <sup>−</sup>, where the free energy of adsorption (e.g., for hydrogen, Δ
+ <italic>G</italic>
+ <sub>H</sub>) is defined as Δ
+ <italic>G</italic>
+ <sub>H</sub> = Δ
+ <italic>E</italic>
+ <sub>H</sub> + Δ
+ <italic>E</italic>
+ <sub>ZPE</sub>–
+ <italic>T</italic>Δ
+ <italic>S</italic>
+ <sub>H</sub> [
+ <xref rid="B45" ref-type="bibr">45</xref>]. Here, Δ
+ <italic>E</italic>
+ <sub>H</sub> is the chemisorption energy of hydrogen atom, defined as the ground-state energy difference of the adsorbed hydrogen and a free hydrogen (on graphene, Δ
+ <italic>E</italic>
+ <sub>H</sub> is positive meaning an endothermic reaction consistent with the literature [
+ <xref rid="B45" ref-type="bibr">45</xref>]). In addition, Δ
+ <italic>E</italic>
+ <sub>ZPE</sub> is the correction of zero-point energy, 
+ <italic>T</italic> is the temperature (300 K here), and Δ
+ <italic>S</italic>
+ <sub>H</sub> is the entropy between the adsorbed hydrogen and free hydrogen (in the gas phase). As the vibrational entropy of H in the adsorbed state is small, the entropy of adsorption is Δ
+ <italic>S</italic>
+ <sub>
+  <italic>H</italic>
+ </sub> ≈ −1/2
+ <italic>S</italic>0 
+ <italic>H</italic>2, where 
+ <italic>S</italic>0 
+ <italic>H</italic>2 is the entropy of H
+ <sub>2</sub> in the gas phase at standard conditions. Moreover, since our study is focused on the effect of H
+ <sub>2</sub>O on surface diffusion of H
+ <sup>+</sup>/OH
+ <sup>−</sup>, the same method was used to quantify the tendency of H
+ <sub>2</sub>O to adsorb onto graphene surfaces in terms of the binding energy, 
+ <italic>E</italic>
+ <sub>b</sub>, defined as 
+ <italic>E</italic>
+ <sub>b</sub> = 
+ <italic>E</italic>
+ <sub>g/water</sub>–
+ <italic>E</italic>
+ <sub>water</sub>–
+ <italic>E</italic>
+ <sub>g</sub>. Here, 
+ <italic>E</italic>
+ <sub>g/water</sub> is the total energy of the water-graphene system after geometric relaxation, 
+ <italic>E</italic>
+ <sub>water</sub> is the total energy of a (stand-alone) water molecular, and 
+ <italic>E</italic>
+ <sub>g</sub> is the total energy of a (stand-alone) graphene, so a more negative 
+ <italic>E</italic>
+ <sub>b</sub> indicates a stronger tendency for H
+ <sub>2</sub>O adsorption. Lastly, to study the energy barriers of H
+ <sup>+</sup> and OH
+ <sup>−</sup> migration, we employed the nudged elastic band (NEB) [
+ <xref rid="B46" ref-type="bibr">46</xref>] method implemented in VASP with eight image structures between the reactant and the product.
+</p>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In order to match the charge balance between the two electrodes, the loaded active materials should follow the relationship 
+ <inline-formula>
+  <math id="mm8">
+   <mrow>
+    <mrow>
+     <msup>
+      <mi>q</mi>
+      <mo>+</mo>
+     </msup>
+     <mo>=</mo>
+     <msup>
+      <mi>q</mi>
+      <mo>−</mo>
+     </msup>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>, in which the stored charge by each electrode is determined by the specific capacitance (
+ <italic>C</italic>), the potential range for the charge/discharge process (Δ
+ <italic>E</italic>), and the mass loading of each electrode (
+ <inline-formula>
+  <math id="mm9">
+   <mrow>
+    <mi>m</mi>
+   </mrow>
+  </math>
+ </inline-formula>) using Equation (2) [
+ <xref rid="B15-nanomaterials-11-00003" ref-type="bibr">15</xref>,
+ <xref rid="B16-nanomaterials-11-00003" ref-type="bibr">16</xref>,
+ <xref rid="B65-nanomaterials-11-00003" ref-type="bibr">65</xref>]. 
+ <disp-formula id="FD2-nanomaterials-11-00003">
+  <label>(2)</label>
+  <math id="mm10">
+   <mrow>
+    <mrow>
+     <mi>q</mi>
+     <mo>=</mo>
+     <mi>C</mi>
+     <mo>×</mo>
+     <mi mathvariant="sans-serif">Δ</mi>
+     <mi>E</mi>
+     <mo>×</mo>
+     <mi>m</mi>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+</p>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B38">
+ <label>38</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Safizadeh</surname>
+    <given-names>F.</given-names>
+   </name>
+   <name>
+    <surname>Ghali</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Houlachi</surname>
+    <given-names>G.</given-names>
+   </name>
+  </person-group>
+  <article-title>Electrocatalysis developments for hydrogen evolution reaction in alkaline solutions - a review</article-title>
+  <source>
+   <italic toggle="yes">International Journal of Hydrogen Energy</italic>
+  </source>
+  <year>2015</year>
+  <volume>40</volume>
+  <issue>1</issue>
+  <fpage>256</fpage>
+  <lpage>274</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ijhydene.2014.10.109</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84916606964</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR7">
+ <label>7.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Aurbach</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Weissman</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Gofer</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Levi</surname>
+    <given-names>E</given-names>
+   </name>
+  </person-group>
+  <article-title>Nonaqueous magnesium electrochemistry and its application in secondary batteries</article-title>
+  <source>The Chemical Record</source>
+  <year>2003</year>
+  <volume>3</volume>
+  <fpage>61</fpage>
+  <lpage>73</lpage>
+  <pub-id pub-id-type="doi">10.1002/tcr.10051</pub-id>
+  <?supplied-pmid 12552532?>
+  <pub-id pub-id-type="pmid">12552532</pub-id>
+ </element-citation>
+</ref>

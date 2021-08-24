@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wu</surname>
+   <given-names>Chongrui</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-molecules-26-04188">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhang</surname>
+   <given-names>Fuming</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-molecules-26-04188">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xiao</surname>
+   <given-names>Xiangshang</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-molecules-26-04188">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Junyan</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-molecules-26-04188">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sun</surname>
+   <given-names>Junqi</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-molecules-26-04188">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gandla</surname>
+   <given-names>Dayakar</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-molecules-26-04188">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ein-Eli</surname>
+   <given-names>Yair</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-molecules-26-04188">2</xref>
+  <xref rid="c1-molecules-26-04188" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2282-2000</contrib-id>
+  <name>
+   <surname>Tan</surname>
+   <given-names>Daniel Q.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-molecules-26-04188">1</xref>
+  <xref rid="c1-molecules-26-04188" ref-type="corresp">*</xref>
+ </contrib>
+</contrib-group>

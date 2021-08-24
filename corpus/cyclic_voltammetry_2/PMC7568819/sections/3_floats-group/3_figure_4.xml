@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig4" orientation="portrait" position="float">
+ <label>Figure 4</label>
+ <caption>
+  <p>Influence of PAA coating on three-electrode electrochemical properties. Electrodes used were CCF-GP loaded by activated carbon YP-50, with and without PAA coating, some additionally modified by YP-50's preoxidation (M-YP-50). (a) CV curves scanned at 2 mV s
+   <sup>−1</sup>, for YP-50-CCF-GP electrode in 0.5 M H
+   <sub>2</sub>SO
+   <sub>4</sub> (label: H
+   <sub>2</sub>SO
+   <sub>4</sub>) and 2 M Li
+   <sub>2</sub>SO
+   <sub>4</sub> (label: Li
+   <sub>2</sub>SO
+   <sub>4</sub>, pH~6), and PAA-coated YP-50-CCF-GP electrode in 2 M Li
+   <sub>2</sub>SO
+   <sub>4</sub> (label: PAA-Li
+   <sub>2</sub>SO
+   <sub>4</sub>, pH~6). (b) Same as (a) for PAA-coated YP-50-CCF-GP electrode in 2 M Li
+   <sub>2</sub>SO
+   <sub>4</sub> adjusted to several pH. (c) Tafel plots of electrode potential against pH at steady-state current density of 10 
+   <italic>μ</italic>A cm
+   <sup>−2</sup>, for YP-50-CCF-GP, and PAA-coated/uncoated M-YP-50-CCF-GP electrodes. (d) Potential for hydrogen evolution reaction and oxygen evolution reaction of uncoated (blue) and coated (red) CCF-GP electrodes in 2 M Li
+   <sub>2</sub>SO
+   <sub>4</sub> electrolyte, adjusted to various pH. Shadowed band is a theoretical electrochemical window of water. Same electrode/electrolyte combinations as in (a) for (e) rate performance of specific capacity according to the galvanostatic charging/discharging test from 0.5 to 40 A g
+   <sup>−1</sup>, and (f) specific capacity versus square root of half-cycle time according to CV test data from 2 to 500 mV s
+   <sup>−1</sup>. Extrapolated intercept capacity is rate-independent capacity, the remainder diffusion-controlled capacity.
+  </p>
+ </caption>
+ <graphic xlink:href="RESEARCH2020-4178179.004" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

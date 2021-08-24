@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <xref rid="fig2" ref-type="fig">Figure 
+  <xref rid="fig2" ref-type="fig">2</xref>
+ </xref>D presents the discharge curves at 50 mA g
+ <sup>–1</sup>of the ZIB full cells with the WiTS gel electrolyte for different halide-based cathodes. As expected, G–ZnCl
+ <sub>2</sub> showed a very low capacity with the absence of any useable voltage plateau due to the irreversible reaction. The G–ZnI
+ <sub>2</sub> and G–ZnBr
+ <sub>2</sub> cathodes showed voltage plateaus that correspond to their respective redox reactions, G–ZnI
+ <sub>2</sub> at 1.17 V and G–ZnBr
+ <sub>2</sub> at 1.67 V vs Zn/Zn
+ <sup>2+</sup>, in agreement with the CV data. The cathode made from the equimolar mixture of ZnCl
+ <sub>2</sub> and ZnBr
+ <sub>2</sub> showed two discharges voltage plateaus: a small one at 1.90 V, due to the Cl
+ <sup>–</sup>/Cl
+ <sub>2</sub> redox reaction, and the other at 1.67 V due to the Br
+ <sup>–</sup>/Br
+ <sub>2</sub> redox reaction. Nonetheless, the specific capacity of each cathode is much lower than the theoretical capacity of a halogen GIC (309 mAh g
+ <sup>–1</sup> for MBr
+ <sub>n</sub> and 632 mAh g
+ <sup>–1</sup> for MCl
+ <sub>n</sub>).
+ <sup>
+  <xref ref-type="bibr" rid="ref6">6</xref>
+ </sup> Among the cathodes tested, the best specific capacity (55 mAh g
+ <sup>–1</sup>) was obtained using G–ZnCl
+ <sub>2</sub>–ZnBr
+ <sub>2</sub> with the others being lower than 30 mAh g
+ <sup>–1</sup>. However, the capacity decayed by more than 50% after 200 cycles due to the continual formation of zinc carbide species (
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c20622/suppl_file/am0c20622_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S4</ext-link>). The specific capacity quoted is based on the total mass of the cathode (mass of graphite plus mass of halide).
+</p>

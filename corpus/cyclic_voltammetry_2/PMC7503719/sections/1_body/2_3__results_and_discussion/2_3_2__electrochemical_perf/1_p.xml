@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In order to further understand the electrochemical process of CuS/Cu
+ <sub>1.8</sub>S nanocomposites, the cyclic voltammetry (CV) curves were measured with a scanning rate of 0.1 mV s
+ <sup>−1</sup> and in a potential range between 0.01 V and 3.0 V. As shown in 
+ <xref ref-type="fig" rid="materials-13-03797-f003">Figure 3</xref>a, during the first cathodic sweep (lithiation), two prominent reduction peaks at 2.0 V and 1.6 V were observed, which could be attributed to the process of CuS to Li
+ <sub>x</sub>CuS and the conversion of Li
+ <sub>x</sub>CuS to Cu and Li
+ <sub>2</sub>S, respectively. During the first anodic sweep (delithiation), two obvious oxidation peaks at 1.9 V and 2.4 V were observed, which denoted the reversible process related to the cathodic reactions [
+ <xref rid="B31-materials-13-03797" ref-type="bibr">31</xref>,
+ <xref rid="B32-materials-13-03797" ref-type="bibr">32</xref>,
+ <xref rid="B34-materials-13-03797" ref-type="bibr">34</xref>,
+ <xref rid="B47-materials-13-03797" ref-type="bibr">47</xref>,
+ <xref rid="B48-materials-13-03797" ref-type="bibr">48</xref>,
+ <xref rid="B54-materials-13-03797" ref-type="bibr">54</xref>]. The reduction peak at 2.0 V transferred to 2.1 V in the second scan and faded in the subsequent scans, which has also been observed in other reports [
+ <xref rid="B32-materials-13-03797" ref-type="bibr">32</xref>,
+ <xref rid="B47-materials-13-03797" ref-type="bibr">47</xref>,
+ <xref rid="B55-materials-13-03797" ref-type="bibr">55</xref>]. Furthermore, the reduction peak at 1.6 V transferred to lower potential values gradually, which could indicate the increase of energy and the polarization of the electrodes [
+ <xref rid="B55-materials-13-03797" ref-type="bibr">55</xref>]. 
+ <xref ref-type="fig" rid="materials-13-03797-f003">Figure 3</xref>b shows the corresponding initial five galvanostatic discharge-charge curves of CuS/Cu
+ <sub>1.8</sub>S nanocomposites at 267 mA g
+ <sup>−1</sup>. In the first discharge process, two potential plateaus appeared at about 2.1 V and 1.6 V, and in the first charge process, two potential plateaus appeared at around 1.9 V and 2.3 V. These are matched with the redox peaks (redox reactions) of the first CV curve very well [
+ <xref rid="B47-materials-13-03797" ref-type="bibr">47</xref>,
+ <xref rid="B48-materials-13-03797" ref-type="bibr">48</xref>,
+ <xref rid="B54-materials-13-03797" ref-type="bibr">54</xref>,
+ <xref rid="B55-materials-13-03797" ref-type="bibr">55</xref>]. Compared with the CV curves, the discharge potential plateau at 2.1 V also gradually disappeared in the subsequent cycles. Importantly, we obtained the relatively higher initial discharge capability of 1130 mAh g
+ <sup>−1</sup> and charge capability of 707 mAh g
+ <sup>−1</sup> [
+ <xref rid="B29-materials-13-03797" ref-type="bibr">29</xref>,
+ <xref rid="B30-materials-13-03797" ref-type="bibr">30</xref>,
+ <xref rid="B31-materials-13-03797" ref-type="bibr">31</xref>,
+ <xref rid="B32-materials-13-03797" ref-type="bibr">32</xref>,
+ <xref rid="B47-materials-13-03797" ref-type="bibr">47</xref>,
+ <xref rid="B48-materials-13-03797" ref-type="bibr">48</xref>,
+ <xref rid="B54-materials-13-03797" ref-type="bibr">54</xref>,
+ <xref rid="B55-materials-13-03797" ref-type="bibr">55</xref>], which could be ascribed to the formation of solid electrolyte interface (SEI) and the existence of Cu
+ <sub>1.8</sub>S [
+ <xref rid="B38-materials-13-03797" ref-type="bibr">38</xref>,
+ <xref rid="B39-materials-13-03797" ref-type="bibr">39</xref>,
+ <xref rid="B40-materials-13-03797" ref-type="bibr">40</xref>,
+ <xref rid="B41-materials-13-03797" ref-type="bibr">41</xref>,
+ <xref rid="B42-materials-13-03797" ref-type="bibr">42</xref>,
+ <xref rid="B43-materials-13-03797" ref-type="bibr">43</xref>,
+ <xref rid="B44-materials-13-03797" ref-type="bibr">44</xref>]. The discharge capacities of the fourth and fifth cycles were about 610 mAh g
+ <sup>−1</sup> and 580 mAh g
+ <sup>−1</sup>, which are also higher than the theoretical capability 560 mAh g
+ <sup>−1</sup> of CuS. This extra capacity has been widely observed transition metal compounds [
+ <xref rid="B56-materials-13-03797" ref-type="bibr">56</xref>], which can be attributed to the formation/decomposition of polymeric gel-like films around the transition metal particles [
+ <xref rid="B57-materials-13-03797" ref-type="bibr">57</xref>], the interface lithium storage [
+ <xref rid="B58-materials-13-03797" ref-type="bibr">58</xref>,
+ <xref rid="B59-materials-13-03797" ref-type="bibr">59</xref>], and the surface conversion of LiOH to Li2O and LiH [
+ <xref rid="B60-materials-13-03797" ref-type="bibr">60</xref>]. In the following cycles, the curves tended to overlap, which showed the outstanding cyclic stability of the CuS/Cu
+ <sub>1.8</sub>S nanocomposites.
+</p>

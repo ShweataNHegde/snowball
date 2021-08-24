@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par21">Based on the above analysis, we speculate possible reaction paths of the Mn(BTC) cathode during charge–discharge processes. During the first charge process, there occurs a transformation from Mn(BTC) to Zn(BTC), and Mn
+ <sup>2+</sup> dissolves into electrolyte. These Mn
+ <sup>2+</sup> is oxidized to MnO
+ <sub>2</sub> on the cathode surface through a normal manganese deposition reaction as the charging process proceeds. The reaction paths were further confirmed by plasma atomic emission spectrometry (ICP-AES) tests. As shown in Table S1, Mn element concentration in electrolyte was detected when the cathode was charged/discharged to various states. Mn element concentration in electrolyte is 6.15 and 4.62 mg L
+ <sup>−1</sup> when the cathode is charged to 1.8 and 1.9 V, respectively. Decrease in Mn concentration in electrolyte is attributed to manganese deposition reaction. Subsequently, the deposited MnO
+ <sub>2</sub> serves as a host for Zn
+ <sup>2+</sup> and H
+ <sup>+</sup> storage in the following charge/discharge processes, which is the reason that we detected the formation of BZSP during charge/discharge processes (Fig. 
+ <xref rid="Fig3" ref-type="fig">3</xref>c, d) [
+ <xref ref-type="bibr" rid="CR68">68</xref>]. It worth noting that the BTC organic ligands of Mn(BTC) cathodes are not involved in the Zn-storage redox process, not only because the BTC ligands have been proved to be redox-innocent ligands [
+ <xref ref-type="bibr" rid="CR61">61</xref>] but also because they are always detected during charge/discharge processes of our ZIB systems (which means that BTC would not directly participate in Zn-storage reactions). However, BTC ligand is an indispensable part of Mn(BTC) because it constructs the three-dimensional framework of MOF materials. Interestingly, as shown in Fig. S6, Zn(BTC) particles seem to be the main by-product in this system and the formation of BZSP by-product is suppressed in this system compared with previously reported MnO
+ <sub>2</sub> cathode [
+ <xref ref-type="bibr" rid="CR68">68</xref>]. Unlike densely arranged BZSP flakes generated in MnO
+ <sub>2</sub>//Zn ZIBs [
+ <xref ref-type="bibr" rid="CR68">68</xref>], these rod-like Zn(BTC) particles (generated in Mn(BTC)//Zn ZIBs) do not impede the direct contact between electrolyte and electrode materials, which is beneficial to ions diffusion and prolonged cycle life of the ZIBs.
+</p>

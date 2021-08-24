@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR5">
+ <label>5.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hu</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Lin</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Connell</surname>
+    <given-names>JW</given-names>
+   </name>
+   <name>
+    <surname>Cheng</surname>
+    <given-names>HM</given-names>
+   </name>
+   <name>
+    <surname>Gogotsi</surname>
+    <given-names>Y</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Carbon-based metal-free catalysts for energy storage and environmental remediation</article-title>
+  <source>Adv. Mater.</source>
+  <year>2019</year>
+  <volume>31</volume>
+  <fpage>1806128</fpage>
+  <pub-id pub-id-type="doi">10.1002/adma.201806128</pub-id>
+ </element-citation>
+</ref>

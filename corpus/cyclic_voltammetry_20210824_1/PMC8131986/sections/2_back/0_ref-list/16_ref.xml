@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib16">
+ <element-citation publication-type="journal" id="sref16">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Freeman</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Eddy</surname>
+    <given-names>S.L.</given-names>
+   </name>
+   <name>
+    <surname>McDonough</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Smith</surname>
+    <given-names>M.K.</given-names>
+   </name>
+   <name>
+    <surname>Okoroafor</surname>
+    <given-names>N.</given-names>
+   </name>
+   <name>
+    <surname>Jordt</surname>
+    <given-names>H.</given-names>
+   </name>
+   <name>
+    <surname>Wenderoth</surname>
+    <given-names>M.P.</given-names>
+   </name>
+  </person-group>
+  <article-title>Active learning increases student performance in science, engineering, and mathematics</article-title>
+  <source>Proc. Natl. Acad. Sci. U S A</source>
+  <volume>111</volume>
+  <year>2014</year>
+  <fpage>8410</fpage>
+  <lpage>8415</lpage>
+  <pub-id pub-id-type="pmid">24821756</pub-id>
+ </element-citation>
+</ref>

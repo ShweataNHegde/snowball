@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list list-type="simple">
+ <list-item>
+  <label>(a)</label>
+  <p>In some cases, it requires chemical precursors that present safety and health hazards such as SiCl
+   <sub>4</sub> and B
+   <sub>2</sub>H
+   <sub>6</sub>. In addition, the exhaust gases consist of by-products and intermediates such as CO, H
+   <sub>2</sub>, or HCl, which can be hazardous, toxic, corrosive, and flammable in high concentrations when they are released into the environment.
+  </p>
+ </list-item>
+ <list-item>
+  <label>(b)</label>
+  <p>It has a sort of complexity because numerous runs are required to determine and reach the suitable growth parameters. This can be overcome through computational fluid dynamics (CFD) simulations to eliminate unexpected deformation of the coated surface, since it can be performed to evaluate the whole experimental process, before, during, and after the experimental procedure.</p>
+ </list-item>
+</list>

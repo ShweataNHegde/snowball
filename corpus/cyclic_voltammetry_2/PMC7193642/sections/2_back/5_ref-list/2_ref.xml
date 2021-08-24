@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Song</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Sahadeo</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Noked</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>SB</given-names>
+   </name>
+  </person-group>
+  <article-title>Mapping the Challenges of Magnesium Battery</article-title>
+  <source>J. Phys. Chem. Lett.</source>
+  <year>2016</year>
+  <volume>7</volume>
+  <fpage>1736</fpage>
+  <lpage>1749</lpage>
+  <pub-id pub-id-type="doi">10.1021/acs.jpclett.6b00384</pub-id>
+  <?supplied-pmid 27088555?>
+  <pub-id pub-id-type="pmid">27088555</pub-id>
+ </element-citation>
+</ref>

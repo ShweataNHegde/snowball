@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sha</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Three-dimensional printed graphene foams</article-title>
+  <source>ACS Nano</source>
+  <year>2017</year>
+  <volume>11</volume>
+  <fpage>6860</fpage>
+  <lpage>6867</lpage>
+  <pub-id pub-id-type="doi">10.1021/acsnano.7b01987</pub-id>
+  <?supplied-pmid 28608675?>
+  <pub-id pub-id-type="pmid">28608675</pub-id>
+ </element-citation>
+</ref>

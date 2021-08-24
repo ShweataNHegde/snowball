@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR72">
+ <label>72.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gallaway</surname>
+    <given-names>JW</given-names>
+   </name>
+   <name>
+    <surname>Desai</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Gaikwad</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Corredor</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Banerjee</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Steingart</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>A lateral microfluidic cell for imaging electrodeposited zinc near the shorting condition</article-title>
+  <source>J. Electrochem. Soc.</source>
+  <year>2010</year>
+  <volume>157</volume>
+  <issue>12</issue>
+  <fpage>1279</fpage>
+  <lpage>1286</lpage>
+  <pub-id pub-id-type="doi">10.1149/1.3491355</pub-id>
+ </element-citation>
+</ref>

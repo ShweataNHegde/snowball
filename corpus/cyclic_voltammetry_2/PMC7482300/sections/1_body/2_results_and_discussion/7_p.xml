@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The electrochemical performance of the synthesized materials is tested in four different configurations: (i) 65% sulfur, 25% carbon, and 10% binder cathode (S cathode) without any interlayer; (ii) 65% sulfur, 25% carbon, and 10% binder cathode with a MgB
+ <sub>2</sub> interlayer (S/MgB
+ <sub>2</sub>); (iii) NC-S cathode without an interlayer; and (iv) NC-S cathode with a MgB
+ <sub>2</sub> interlayer (NC-S/MgB
+ <sub>2</sub>). The electrochemical activity and the LPS adsorption capability of the S/MgB
+ <sub>2</sub> and NC-S/MgB
+ <sub>2</sub> cathodes are studied by cyclic voltammetry (CV) measurements at a scan rate of 0.1 mV s
+ <sup>–1</sup> in the potential range of 2.8–1.7 V. 
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>a depicts the CV profiles for S/MgB
+ <sub>2</sub> and NC-S/MgB
+ <sub>2</sub> cathodes at a scan rate of 0.1 mV s
+ <sup>–1</sup>. In the cathodic scan, the first reduction peak (I) at 2.37 V corresponds to the reduction of S
+ <sub>8</sub> to higher-order LPS (Li
+ <sub>2</sub>S
+ <italic>
+  <sub>x</sub>
+ </italic>, 4 ≤ 
+ <italic>x</italic> ≤ 8), and the second the reduction peak (II) at 2.01 V indicates the reduction of higher-order LPS to lower-order LPS (Li
+ <sub>2</sub>S
+ <sub>2</sub>/Li
+ <sub>2</sub>S). During the anodic scan, the peak at 2.4 V signifies the oxidation of lower-order LPS (Li
+ <sub>2</sub>S
+ <sub>2</sub>/Li
+ <sub>2</sub>S) to higher-order LPS and sulfur. These peaks are well consistent with the galvanostatic charge–discharge profiles (
+ <xref rid="fig5" ref-type="fig">Figure 
+  <xref rid="fig5" ref-type="fig">5</xref>
+ </xref> a&amp;b). The NC-S/MgB
+ <sub>2</sub> cathode illustrates reduction peaks at 2.37 V and 2.01 V and an oxidation peak at 2.4 V. The S/MgB
+ <sub>2</sub> cathode displays sulfur reduction and oxidation peaks at 2.3 V, 1.91 V, and 2.45 V, respectively. The reduction peaks of the NC-S/MgB
+ <sub>2</sub> cathode are at more positive potentials, and the oxidation peak is more negative than the S/MgB
+ <sub>2</sub> cathode, suggesting the low polarization and enhanced sulfur redox kinetic of the NC-S/MgB
+ <sub>2</sub> cathode.
+ <sup>
+  <xref ref-type="bibr" rid="ref11">11</xref>
+ </sup> The anodic peak (III) and cathodic peak (I) potential differences are found to be 30 and 150 mV for NC-S/MgB
+ <sub>2</sub> and S/MgB
+ <sub>2</sub> cathodes, respectively. The lower overpotential toward the redox reaction of LPS is an effective way to reduce the cell polarization and enhance the rate capacity and durability of the Li-S battery.
+ <sup>
+  <xref ref-type="bibr" rid="ref33">33</xref>
+ </sup> To further understand the overpotential caused at higher scan rates, cyclic voltammetry studies were carried out at scan rates from 0.1 to 0.5 mV s
+ <sup>–1</sup> in the potential range of 2.8–1.7 V. The CV profiles at different scan rates for the NC-S/MgB
+ <sub>2</sub> and S/MgB
+ <sub>2</sub> cathodes are shown in 
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>b,c respectively. An increase in the scan rate increases the peak current and negative shits in the potential values. The variations of the anodic peak (III) potential and the cathodic peak (I and II) potentials with respect to scan rate are given in 
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>d–f, respectively. A large positive shift and negative shifts are observed in the oxidation peak (III) and reduction peaks (I and II), respectively, for the S/MgB
+ <sub>2</sub> cathode, which indicate the slower redox reaction kinetics toward LPS on the surface of sulfur. The addition of a nitrogen-doped porous carbon network to sulfur has significantly lowered the overpotential occurred during the lithiation/delithiation processes, suggesting the inherent LPS adsorption property.
+ <sup>
+  <xref ref-type="bibr" rid="ref34">34</xref>
+ </sup> This also facilitates the efficient conversion and utilization of active sulfur materials within the cathode.
+</p>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhao</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Cascade anchoring strategy for general mass production of high-loading single-atomic metal-nitrogen catalysts</article-title>
+  <source>Nat. Commun.</source>
+  <year>2019</year>
+  <volume>10</volume>
+  <fpage>1278</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41467-019-09290-y</pub-id>
+  <?supplied-pmid 30894539?>
+  <pub-id pub-id-type="pmid">30894539</pub-id>
+ </element-citation>
+</ref>

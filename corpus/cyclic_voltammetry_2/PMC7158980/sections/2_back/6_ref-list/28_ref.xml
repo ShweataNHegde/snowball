@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR28">
+ <label>28.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Duan</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Vasileff</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Qiao</surname>
+    <given-names>SZ</given-names>
+   </name>
+  </person-group>
+  <article-title>Anion and cation modulation in metal compounds for bifunctional overall water splitting</article-title>
+  <source>ACS Nano</source>
+  <year>2016</year>
+  <volume>10</volume>
+  <fpage>8738</fpage>
+  <lpage>8745</lpage>
+  <pub-id pub-id-type="doi">10.1021/acsnano.6b04252</pub-id>
+  <pub-id pub-id-type="pmid">27622580</pub-id>
+ </element-citation>
+</ref>

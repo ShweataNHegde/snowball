@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In order to extend the cycle life, additional galvanostatic cycling tests were performed on Li/S and Li/LFP cells by adopting the most suitable operative conditions according to the data reported in this work. Indeed, 
+ <xref rid="fig6" ref-type="fig">Figure 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref> reports the cycling trends of a Li/DEGDME_HCE/S:Sn 80:20 cell (
+ <xref rid="fig6" ref-type="fig">Figure 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref>a) operating at 35 °C and of a Li/TREGDME_HCE/LFP cell (
+ <xref rid="fig6" ref-type="fig">Figure 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref>b) working at room temperature (25 °C), the latter by exploiting the initial reduction step at low voltage (1.2 V). It is worth mentioning that the Li/S cell adopted an electrolyte/sulfur ratio limited to 20 μL mg
+ <sup>–1</sup> in order to reduce the excess of electrolyte and, thus, to increase the practical energy density of the device.
+ <sup>
+  <xref ref-type="bibr" rid="ref30">30</xref>
+ </sup> As observed in 
+ <xref rid="fig6" ref-type="fig">Figure 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref>, both cells exhibit notable performances, long cycle life, and Coulombic efficiency around 100% even by cycling at higher current rates, that is, at 1C for the Li/S cell (1675 mA g
+ <sub>S</sub>
+ <sup>–1</sup>) and C/3 for the Li/LFP one (1C = 170 mA g
+ <sup>–1</sup>). In particular, the Li/S cell delivers 140 cycles with an initial capacity upon activation of almost 750 mAh g
+ <sub>S</sub>
+ <sup>–1</sup> retained at the 70% at the end of the test (
+ <xref rid="fig6" ref-type="fig">Figure 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref>a), while the Li/LFP cell displays a capacity of 152 mAh g
+ <sup>–1</sup> (89% of the theoretical value) retained at the 85% after 100 charge/discharge cycles (
+ <xref rid="fig6" ref-type="fig">Figure 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref>b). Despite the lower delivered capacity values with respect to the tests performed at C/5 (see 
+ <xref rid="fig2" ref-type="fig">Figures 
+  <xref rid="fig2" ref-type="fig">2</xref>
+ </xref> and 
+ <xref rid="fig5" ref-type="fig">5</xref>), as expected by the employment of higher currens, these tests further evidence that the optimal tuning of the working conditions can lead to the extension of the cycle life and to a notable as well as steady delivered capacity values of Li/S and Li/LFP cells with lowly flammable concentrated glyme-based electrolytes.
+</p>

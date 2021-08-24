@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The promising performances of the polymer-coated TiO
+ <sub>2</sub> NTs suggested it as a suitable anode material for application in full all-solid-state Li-ion batteries using the LiFePO
+ <sub>4</sub> cathode material, as schematically depicted in 
+ <xref ref-type="fig" rid="molecules-25-02121-f007">Figure 7</xref>a. Note that for this battery, the polymer electrolyte is deposited via electropolymerization reaction for 25 cycles CV. The polymer thin film deposited atop the TiO
+ <sub>2</sub> NTs during the electropolymerization process serves as a continuous layer with an additional drop-cast polymer layer, with the total thickness of the polymer electrolyte layer being approximately 200 µm. As seen in 
+ <xref ref-type="fig" rid="molecules-25-02121-f007">Figure 7</xref>b, the electrochemical behavior of TiO
+ <sub>2</sub> NTs/polymer/LiFePO
+ <sub>4</sub> full-cell by performing the cyclic voltammetry (CV) test is investigated. The CV curves of the full-cell recorded at the scanning rate of 0.5 mV s
+ <sup>−1</sup> exhibit well-defined redox peaks. The presence of the oxidation peaks at 1.93 V is attributed to the extraction of Li
+ <sup>+</sup> from the cathode and their subsequent insertion into the anode material. By contrast, reduction peaks at 1.21 V are assigned to the extraction of Li
+ <sup>+</sup> from the anode and their simultaneous insertion into the cathode according to the reactions given in Equations (10)–(12). 
+ <disp-formula>Cathode: LiFePO
+  <sub>4</sub>→ xLi
+  <sup>+</sup> + xe
+  <sup>−</sup> + Li
+  <sub>(1−x)</sub> FePO
+  <sub>4</sub>
+  <label>(10)</label>
+ </disp-formula>
+ <disp-formula>Anode: TiO
+  <sub>2</sub> + xLi + xe
+  <sup>−</sup> → Li
+  <sub>x</sub>TiO
+  <sub>2</sub>
+  <label>(11)</label>
+ </disp-formula>
+ <disp-formula>Overall reaction: LiFePO
+  <sub>4</sub> + TiO
+  <sub>2</sub> ⇌ LixTiO
+  <sub>2</sub> + Li 
+  <sub>(1−x)</sub> FePO
+  <sub>4</sub>
+  <label>(12)</label>
+ </disp-formula>
+</p>

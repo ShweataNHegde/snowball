@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig4" position="float">
+ <label>Figure 4</label>
+ <caption>
+  <p>ZnCl
+   <sub>2</sub> in 12CE: (a) Cyclic voltammograms with different cathodic switching potentials of 0.3 M ZnCl
+   <sub>2</sub> in 12CE at a graphene working electrode (
+   <italic>A</italic> ≈ 0.3 cm
+   <sup>2</sup>), 
+   <italic>v</italic> = 10 mV s
+   <sup>–1</sup>, Pt gauze auxiliary electrode, and Zn/Zn
+   <sup>2+</sup> RE. The arrow indicates sweep start in the cathodic direction. (b) SEM images of a graphene electrode with potentiodynamically deposited zinc (10 cycles, corresponding to 
+   <xref rid="fig5" ref-type="fig">Figure 
+    <xref rid="fig5" ref-type="fig">5</xref>
+   </xref>b, further SEM and AFM data is shown in Supporting Information 
+   <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S6</ext-link>) showing an area close to the meniscus of the electrolyte (top), an area halfway between the meniscus and the lower end of the electrode (middle), and an area at the lower end of the electrode (bottom). (c) Raman spectrum of a graphene electrode with potentiodynamically deposited zinc.
+  </p>
+ </caption>
+ <graphic xlink:href="am0c11467_0005" id="gr4" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

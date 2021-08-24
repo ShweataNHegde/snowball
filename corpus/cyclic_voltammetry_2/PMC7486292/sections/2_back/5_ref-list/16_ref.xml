@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR16">
+ <label>16.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zamfir</surname>
+    <given-names>MR</given-names>
+   </name>
+   <name>
+    <surname>Nguyen</surname>
+    <given-names>HT</given-names>
+   </name>
+   <name>
+    <surname>Moyen</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>YH</given-names>
+   </name>
+   <name>
+    <surname>Pribat</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>Silicon nanowires for Li-based battery anodes: a review</article-title>
+  <source>J. Mater. Chem. A</source>
+  <year>2013</year>
+  <volume>1</volume>
+  <fpage>9566</fpage>
+  <lpage>9586</lpage>
+  <pub-id pub-id-type="doi">10.1039/c3ta11714f</pub-id>
+ </element-citation>
+</ref>

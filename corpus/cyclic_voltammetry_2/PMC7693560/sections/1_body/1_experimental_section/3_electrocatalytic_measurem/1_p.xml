@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The electrochemical performance was tested at the IviumStat workstation. The electrochemical test is carried out in a three-electrode system, including a working electrode, a reference electrode, and a counter electrode. The integrated Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC/CC electrode prepared in this work can be directly used as the working electrode. The saturated calomel electrode is the reference electrode, and the carbon rod or platinum is the counter electrode. The obtained Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC powder samples were made into working electrodes according to traditional electrode preparation methods for comparison. Electrode slurry was prepared by suspending 10 mg Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC in a mixed solvent of deionized water 0.68 mL, isopropanol 0.23 mL, and Nafion 0.09 mL (v/v/v = 15/5/2). For noble metal catalysts, 8 mg IrO
+ <sub>2</sub> was mixed with 2 mg carbon powder. The OER working electrode was prepared by the drop-casting method, and the slurry was deposited on 1.0 × 1.0 cm
+ <sup>2</sup> carbon cloth (loading mass is about 1.0 mg cm
+ <sup>−2</sup>) and dried at 60°C. The OER performance was tested in 1M KOH saturated with high purity N
+ <sub>2</sub>. IrO
+ <sub>2</sub> electrode is also prepared by the same process. The ink of the catalyst was deposited on the glass carbon of the rotating disk electrode (RDE) with a diameter of 5 mm to prepare an ORR working electrode. Then, 10 μL of the resulting ink was coated on the electrode and dried in the air environment. The ORR performance of the catalyst was measured in 0.1 M KOH solution saturated with oxygen. First, several cyclic voltammetry (CV) curves were performing until the signal was stable. Linear sweep voltammetry of ORR and OER was performed at a scan rate of 10 mV s
+ <sup>−1</sup>. The electrochemical impedance spectroscopy is performed in the frequency range of 100 kHz to 100 mHz. The electric double-layer capacitance (C
+ <sub>dl</sub>) was measured by CV. For data analysis, convert the potential to a reversible hydrogen electrode (RHE) according to the following formula: E (vs. RHE) = E (vs. SCE) + 0.059 × pH + 0.241 V. The OER polarization measurements were iR-corrected. The Koutecky-Levich (K-L) curve is obtained by the following formula:
+</p>

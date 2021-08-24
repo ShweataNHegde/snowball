@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Galvanostatic charge/discharge tests were performed in 6M KOH within a voltage window of 0–1 V at different current densities. The gravimetric specific capacitance Cs was estimated using Equation (7) [
+ <xref rid="B41-materials-13-04906" ref-type="bibr">41</xref>,
+ <xref rid="B42-materials-13-04906" ref-type="bibr">42</xref>]:
+ <disp-formula id="FD7-materials-13-04906">
+  <label>(7)</label>
+  <math id="mm16">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>C</mi>
+      <mi>s</mi>
+     </msub>
+     <mo>=</mo>
+     <mn>4</mn>
+     <mi>I</mi>
+     <mi>d</mi>
+     <mi>t</mi>
+     <mo>/</mo>
+     <mi>m</mi>
+     <mo>Δ</mo>
+     <mi>v</mi>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where 
+ <italic>I</italic> is the applied current, 
+ <inline-formula>
+  <math id="mm17">
+   <mrow>
+    <mrow>
+     <mi>d</mi>
+     <mi>t</mi>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> is the discharging time, m is the total mass (in grams) of the electrode active material, 
+ <inline-formula>
+  <math id="mm18">
+   <mrow>
+    <mrow>
+     <mo>Δ</mo>
+     <mi>v</mi>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> is the operating voltage window. Here again, the factor 4 was used to calculate capacitance for a three electrodes equivalent system.
+</p>

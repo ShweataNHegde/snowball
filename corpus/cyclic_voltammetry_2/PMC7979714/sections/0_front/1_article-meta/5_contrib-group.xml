@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yang</surname>
+   <given-names>Gege</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhu</surname>
+   <given-names>Jiawei</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yuan</surname>
+   <given-names>Pengfei</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hu</surname>
+   <given-names>Yongfeng</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Qu</surname>
+   <given-names>Gan</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lu</surname>
+   <given-names>Bang-An</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xue</surname>
+   <given-names>Xiaoyi</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yin</surname>
+   <given-names>Hengbo</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cheng</surname>
+   <given-names>Wenzheng</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cheng</surname>
+   <given-names>Junqi</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xu</surname>
+   <given-names>Wenjing</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Li</surname>
+   <given-names>Jin</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6268-0959</contrib-id>
+  <name>
+   <surname>Hu</surname>
+   <given-names>Jinsong</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Mu</surname>
+   <given-names>Shichun</given-names>
+  </name>
+  <address>
+   <email>msc@whut.edu.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Zhang</surname>
+   <given-names>Jia-Nan</given-names>
+  </name>
+  <address>
+   <email>zjn@zzu.edu.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.207374.5</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2189 3846</institution-id>
+   <institution>College of Materials Science and Engineering, </institution>
+   <institution>Zhengzhou University, </institution>
+  </institution-wrap>Zhengzhou, 450001 PR China 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.162110.5</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 9291 3229</institution-id>
+   <institution>State Key Laboratory of Advanced Technology for Materials Synthesis and Processing, </institution>
+   <institution>Wuhan University of Technology, </institution>
+  </institution-wrap>Wuhan, 430070 PR China 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>Foshan Xianhu Laboratory, Foshan, 528200 PR China 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.207374.5</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2189 3846</institution-id>
+   <institution>International Joint Research Laboratory for Quantum Functional Materials of Henan Province, and School of Physics and Microelectronics, </institution>
+   <institution>Zhengzhou University, </institution>
+  </institution-wrap>Zhengzhou, 450001 PR China 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.423571.6</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0443 7584</institution-id>
+   <institution>Canadian Light Source, </institution>
+  </institution-wrap>44 Innovation Blvd, Saskatoon, SK S7N 2V3 Canada 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.9227.e</institution-id>
+   <institution-id institution-id-type="ISNI">0000000119573309</institution-id>
+   <institution>Beijing National Laboratory for Molecular Sciences (BNLMS), CAS Key Laboratory of Molecular Nanostructure and Nanotechnology Institute of Chemistry, </institution>
+   <institution>Chinese Academy of Sciences, </institution>
+  </institution-wrap>Beijing, 100190 PR China 
+ </aff>
+</contrib-group>

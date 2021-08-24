@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B2-materials-14-02824">
+ <label>2.</label>
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Armand</surname>
+    <given-names>M.B.</given-names>
+   </name>
+  </person-group>
+  <article-title>Intercalation electrodes</article-title>
+  <source>Materials for Advanced Batteries</source>
+  <person-group person-group-type="editor">
+   <name>
+    <surname>Murphy</surname>
+    <given-names>D.W.</given-names>
+   </name>
+   <name>
+    <surname>Broadhead</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Steele</surname>
+    <given-names>B.C.H.</given-names>
+   </name>
+  </person-group>
+  <publisher-name>Springer</publisher-name>
+  <publisher-loc>Boston, MA, USA</publisher-loc>
+  <year>1980</year>
+  <fpage>145</fpage>
+  <lpage>161</lpage>
+ </element-citation>
+</ref>

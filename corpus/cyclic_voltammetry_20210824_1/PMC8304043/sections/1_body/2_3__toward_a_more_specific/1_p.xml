@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For ASSLB, the use of solid electrolytes requires them to be stable at high potentials vs Li
+ <sup>+</sup>/Li and compatible with high voltage cathode materials (NMC, NCA) operating up to 4.2/4.3 V [
+ <xref rid="B96-materials-14-03840" ref-type="bibr">96</xref>,
+ <xref rid="B119-materials-14-03840" ref-type="bibr">119</xref>,
+ <xref rid="B120-materials-14-03840" ref-type="bibr">120</xref>] while remaining compatible with the lithium metal anode. Surprisingly, despite high oxidation limits claimed in most publications (largely above 4.0 V vs. Li
+ <sup>+</sup>/Li), the electrochemical characterization of these materials in a battery set up is usually performed using LFP cathodes, which have a redox potential of 3.45 V vs. Li
+ <sup>+</sup>/Li. The fact that the well-known cathode material NMC, which has a potential window of 3.0–4.3 V vs. Li
+ <sup>+</sup>/Li, is not used in these publications to further qualify the stability of their electrolyte leads to questions regarding the validity of the ESW measurement.
+</p>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Khamsanga</surname>
+   <given-names>Sonti</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-ijms-21-04689">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-5436-123X</contrib-id>
+  <name>
+   <surname>Nguyen</surname>
+   <given-names>Mai Thanh</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-ijms-21-04689">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-7371-204X</contrib-id>
+  <name>
+   <surname>Yonezawa</surname>
+   <given-names>Tetsu</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-ijms-21-04689">2</xref>
+  <xref ref-type="aff" rid="af3-ijms-21-04689">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-0261-3014</contrib-id>
+  <name>
+   <surname>Thamyongkit</surname>
+   <given-names>Patchanita</given-names>
+  </name>
+  <xref ref-type="aff" rid="af4-ijms-21-04689">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pornprasertsuk</surname>
+   <given-names>Rojana</given-names>
+  </name>
+  <xref ref-type="aff" rid="af5-ijms-21-04689">5</xref>
+  <xref ref-type="aff" rid="af6-ijms-21-04689">6</xref>
+  <xref ref-type="aff" rid="af7-ijms-21-04689">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pattananuwat</surname>
+   <given-names>Prasit</given-names>
+  </name>
+  <xref ref-type="aff" rid="af5-ijms-21-04689">5</xref>
+  <xref ref-type="aff" rid="af6-ijms-21-04689">6</xref>
+  <xref ref-type="aff" rid="af7-ijms-21-04689">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Tuantranont</surname>
+   <given-names>Adisorn</given-names>
+  </name>
+  <xref ref-type="aff" rid="af8-ijms-21-04689">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Siwamogsatham</surname>
+   <given-names>Siwaruk</given-names>
+  </name>
+  <xref ref-type="aff" rid="af8-ijms-21-04689">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-3129-2750</contrib-id>
+  <contrib-id contrib-id-type="homepage" authenticated="true">https://sciprofiles.com/profile/475671</contrib-id>
+  <name>
+   <surname>Kheawhom</surname>
+   <given-names>Soorathep</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-ijms-21-04689">1</xref>
+  <xref ref-type="aff" rid="af7-ijms-21-04689">7</xref>
+  <xref rid="c1-ijms-21-04689" ref-type="corresp">*</xref>
+ </contrib>
+</contrib-group>

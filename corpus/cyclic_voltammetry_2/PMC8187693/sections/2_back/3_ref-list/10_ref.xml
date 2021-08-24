@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>ZH</given-names>
+   </name>
+   <name>
+    <surname>Jin</surname>
+    <given-names>HH</given-names>
+   </name>
+   <name>
+    <surname>Meng</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Liao</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Meng</surname>
+    <given-names>WQ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Fe, Cu-coordinated ZIF-derived carbon framework for efficient oxygen reduction reaction and zinc-air batteries</article-title>
+  <source>Adv. Funct. Mater.</source>
+  <year>2018</year>
+  <volume>28</volume>
+  <issue>39</issue>
+  <fpage>1802596</fpage>
+  <pub-id pub-id-type="doi">10.1002/adfm.201802596</pub-id>
+ </element-citation>
+</ref>

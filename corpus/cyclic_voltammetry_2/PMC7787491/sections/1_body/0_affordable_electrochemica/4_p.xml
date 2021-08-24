@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The formula takes into account cost (
+ <italic>C</italic>) and energy (
+ <italic>E</italic>) terms associated with power generation (in this example, from PV) and storage (
+ <xref rid="R12" ref-type="bibr">
+  <italic>12</italic>
+ </xref>). We may likewise define a levelized cost of storage (LCOS) as a quantitative metric for more formally comparing EES and other storage options, as well as for guiding choices among EES options
+ <disp-formula id="E2">
+  <math id="m3">
+   <mrow>
+    <mrow>
+     <mtext>LCOS</mtext>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mi>I</mi>
+        <mn>0</mn>
+       </msub>
+       <mo>+</mo>
+       <mstyle displaystyle="true">
+        <msubsup>
+         <mo stretchy="true">Σ</mo>
+         <mrow>
+          <mi>t</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+         </mrow>
+         <mi>n</mi>
+        </msubsup>
+       </mstyle>
+       <mfrac>
+        <mrow>
+         <msub>
+          <mi>C</mi>
+          <mrow>
+           <mtext>ESS</mtext>
+           <mo>,</mo>
+           <mi>t</mi>
+          </mrow>
+         </msub>
+        </mrow>
+        <mrow>
+         <msup>
+          <mrow>
+           <mo stretchy="false">(</mo>
+           <mn>1</mn>
+           <mo>+</mo>
+           <mi>r</mi>
+           <mo stretchy="false">)</mo>
+          </mrow>
+          <mi>t</mi>
+         </msup>
+        </mrow>
+       </mfrac>
+      </mrow>
+      <mrow>
+       <mstyle displaystyle="true">
+        <msubsup>
+         <mo stretchy="true">Σ</mo>
+         <mrow>
+          <mi>t</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+         </mrow>
+         <mi>n</mi>
+        </msubsup>
+       </mstyle>
+       <mfrac>
+        <mrow>
+         <msub>
+          <mi>E</mi>
+          <mrow>
+           <mtext>ESS</mtext>
+           <mo>,</mo>
+           <mi>t</mi>
+          </mrow>
+         </msub>
+        </mrow>
+        <mrow>
+         <msup>
+          <mrow>
+           <mo stretchy="false">(</mo>
+           <mn>1</mn>
+           <mo>+</mo>
+           <mi>r</mi>
+           <mo stretchy="false">)</mo>
+          </mrow>
+          <mi>t</mi>
+         </msup>
+        </mrow>
+       </mfrac>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+  <label>(2)</label>
+ </disp-formula>
+</p>

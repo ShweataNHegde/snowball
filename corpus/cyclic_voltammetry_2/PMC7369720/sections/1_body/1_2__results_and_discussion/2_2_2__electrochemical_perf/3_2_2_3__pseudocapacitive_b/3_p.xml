@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To quantitatively distinguish the capacitive contribution from the current response, the equation can be rewritten as in Equation (6) [
+ <xref rid="B57-ijms-21-04689" ref-type="bibr">57</xref>]:
+ <disp-formula id="FD6-ijms-21-04689">
+  <label>(6)</label>
+  <math id="mm6">
+   <mrow>
+    <mrow>
+     <mi>i</mi>
+     <mo>=</mo>
+     <mi>k</mi>
+     <msub>
+      <mi>v</mi>
+      <mn>1</mn>
+     </msub>
+     <mo>+</mo>
+     <msub>
+      <mi>k</mi>
+      <mn>2</mn>
+     </msub>
+     <msup>
+      <mi>v</mi>
+      <mrow>
+       <mfrac bevelled="true">
+        <mn>1</mn>
+        <mn>2</mn>
+       </mfrac>
+      </mrow>
+     </msup>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where 
+ <italic>k
+  <sub>1</sub>
+ </italic> and 
+ <italic>k
+  <sub>2</sub>
+ </italic> are constants. Thus, the redox reaction is limited by the diffusion-controlled behavior; the current 
+ <italic>i</italic> at a fixed potential varies as 
+ <italic>k</italic>
+ <sub>2</sub>
+ <italic>v</italic>
+ <sup>1/2</sup>. The capacitive contribution suggests that the peak current 
+ <italic>i</italic> varies as 
+ <italic>k
+  <sub>1</sub>v
+ </italic> [
+ <xref rid="B58-ijms-21-04689" ref-type="bibr">58</xref>,
+ <xref rid="B59-ijms-21-04689" ref-type="bibr">59</xref>,
+ <xref rid="B60-ijms-21-04689" ref-type="bibr">60</xref>]. By plotting 
+ <italic>i</italic>/
+ <italic>v</italic>
+ <sup>1/2</sup> vs 
+ <italic>v</italic>
+ <sup>1/2</sup>, 
+ <italic>k
+  <sub>1</sub>
+ </italic> and 
+ <italic>k
+  <sub>2</sub>
+ </italic> are calculated from the slope and the y-axis intercept at the point of a straight line, respectively.
+</p>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par32">The adsorption free energy (ΔG
+ <sub>ads</sub>) is obtained by
+ <disp-formula id="Equ14">
+  <label>14</label>
+  <alternatives>
+   <tex-math id="M27">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\Delta G_{{\mathrm{ads}}} = \Delta E + \Delta ZPE - T\Delta S + \Delta G_{\mathrm{U}} + \Delta G_{{\mathrm{pH}}}$$\end{document}</tex-math>
+   <math id="M28">
+    <mi mathvariant="normal">Δ</mi>
+    <msub>
+     <mrow>
+      <mi>G</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="normal">ads</mi>
+     </mrow>
+    </msub>
+    <mo>=</mo>
+    <mi mathvariant="normal">Δ</mi>
+    <mi>E</mi>
+    <mo>+</mo>
+    <mi mathvariant="normal">Δ</mi>
+    <mi>Z</mi>
+    <mi>P</mi>
+    <mi>E</mi>
+    <mo>−</mo>
+    <mi>T</mi>
+    <mi mathvariant="normal">Δ</mi>
+    <mi>S</mi>
+    <mo>+</mo>
+    <mi mathvariant="normal">Δ</mi>
+    <msub>
+     <mrow>
+      <mi>G</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="normal">U</mi>
+     </mrow>
+    </msub>
+    <mo>+</mo>
+    <mi mathvariant="normal">Δ</mi>
+    <msub>
+     <mrow>
+      <mi>G</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="normal">pH</mi>
+     </mrow>
+    </msub>
+   </math>
+   <graphic xlink:href="41467_2021_21919_Article_Equ14.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>where Δ
+ <italic>E</italic> is the energy difference of reactants and products, obtained from DFT calculations; ΔZPE and ΔS are the contributions to the free energy from the zero-point vibration energy and entropy, respectively. 
+ <italic>T</italic> is the temperature (300 K). Δ
+ <italic>G</italic>
+ <sub>
+  <italic>U</italic>
+ </sub> = −
+ <italic>eU</italic>, here 
+ <italic>U</italic> is the potential at the electrode and 
+ <italic>e</italic> is the transferred charge. Δ
+ <italic>G</italic>
+ <sub>pH</sub> is the correction of the H
+ <sup>+</sup> free energy. The free energy of H
+ <sup>+</sup> ions has been corrected by the concentration dependence of the entropy:
+ <disp-formula id="Equ15">
+  <label>15</label>
+  <alternatives>
+   <tex-math id="M29">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$G\left( {{\mathrm{pH}}} \right) = - kT\,{\mathrm{ln}}\,\left[ {H^ + } \right] = kT{\mathrm{ln10}} \ast {\mathrm{pH}}$$\end{document}</tex-math>
+   <math id="M30">
+    <mi>G</mi>
+    <mfenced close=")" open="(">
+     <mrow>
+      <mi mathvariant="normal">pH</mi>
+     </mrow>
+    </mfenced>
+    <mo>=</mo>
+    <mo>−</mo>
+    <mi>k</mi>
+    <mi>T</mi>
+    <mspace width="0.25em"/>
+    <mi mathvariant="normal">ln</mi>
+    <mspace width="0.25em"/>
+    <mfenced close="]" open="[">
+     <mrow>
+      <msup>
+       <mrow>
+        <mi>H</mi>
+       </mrow>
+       <mrow>
+        <mo>+</mo>
+       </mrow>
+      </msup>
+     </mrow>
+    </mfenced>
+    <mo>=</mo>
+    <mi>k</mi>
+    <mi>T</mi>
+    <mi mathvariant="normal">ln10</mi>
+    <mo>*</mo>
+    <mi mathvariant="normal">pH</mi>
+   </math>
+   <graphic xlink:href="41467_2021_21919_Article_Equ15.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>(0.059526 for 0.1 M HClO
+ <sub>4</sub>; 0.773844 for 0.1 M KOH).
+</p>

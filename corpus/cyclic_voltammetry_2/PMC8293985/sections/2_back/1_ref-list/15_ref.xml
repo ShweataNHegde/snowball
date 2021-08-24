@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="cit15">
+ <element-citation publication-type="journal" id="cit15a">
+  <label> (a) </label>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hooe</surname>
+    <given-names>S. L.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rheingold</surname>
+    <given-names>A. L.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Machan</surname>
+    <given-names>C. W.</given-names>
+   </name>
+  </person-group>
+  <source>J. Am. Chem. Soc.</source>
+  <year>2018</year>
+  <volume>140</volume>
+  <fpage>3232</fpage>
+  <lpage>3241</lpage>
+  <pub-id pub-id-type="doi">10.1021/jacs.7b09027</pub-id>
+  <pub-id pub-id-type="pmid">29216711</pub-id>
+ </element-citation>
+ <element-citation publication-type="journal" id="cit15b">
+  <label> (b) </label>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hooe</surname>
+    <given-names>S. L.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Machan</surname>
+    <given-names>C. W.</given-names>
+   </name>
+  </person-group>
+  <source>J. Am. Chem. Soc.</source>
+  <year>2019</year>
+  <volume>141</volume>
+  <fpage>4379</fpage>
+  <lpage>4387</lpage>
+  <pub-id pub-id-type="doi">10.1021/jacs.8b13373</pub-id>
+  <?supplied-pmid 30712355?>
+  <pub-id pub-id-type="pmid">30712355</pub-id>
+ </element-citation>
+</ref>

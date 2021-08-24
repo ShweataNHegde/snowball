@@ -1,0 +1,955 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Appl Mater Interfaces</journal-id><journal-id journal-id-type="iso-abbrev">ACS Appl Mater Interfaces</journal-id><journal-id journal-id-type="publisher-id">am</journal-id><journal-id journal-id-type="coden">aamick</journal-id><journal-title-group><journal-title>ACS Applied Materials &#x00026; Interfaces</journal-title></journal-title-group><issn pub-type="ppub">1944-8244</issn><issn pub-type="epub">1944-8252</issn><publisher><publisher-name>American
+Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7496728</article-id><article-id pub-id-type="doi">10.1021/acsami.0c11467</article-id><article-categories><subj-group><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Electrochemical
+Behavior of Graphene in a Deep Eutectic
+Solvent</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Fuchs</surname><given-names>David</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="notes2" ref-type="notes">$</xref><xref rid="notes1" ref-type="notes">#</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath2"><name><surname>Bayer</surname><given-names>Bernhard C.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x02225;</xref><xref rid="notes1" ref-type="notes">#</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Gupta</surname><given-names>Tushar</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Szabo</surname><given-names>Gabriel L.</given-names></name><xref rid="aff4" ref-type="aff">&#x022a5;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Wilhelm</surname><given-names>Richard A.</given-names></name><xref rid="aff4" ref-type="aff">&#x022a5;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Eder</surname><given-names>Dominik</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath7"><name><surname>Meyer</surname><given-names>Jannik C.</given-names></name><xref rid="aff3" ref-type="aff">&#x02225;</xref><xref rid="notes3" ref-type="notes">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath8"><name><surname>Steiner</surname><given-names>Sandra</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath9"><name><surname>Gollas</surname><given-names>Bernhard</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Institute
+for Chemistry and Technology of Materials, <institution>Graz University of Technology</institution>, Stremayrgasse 9, Graz A-8010, <country>Austria</country></aff><aff id="aff2"><label>&#x02021;</label>Institute
+of Materials Chemistry, <institution>Vienna University
+of Technology (TU Wien)</institution>, Getreidemarkt 9, Vienna A-1060, <country>Austria</country></aff><aff id="aff3"><label>&#x02225;</label>Faculty
+of Physics, <institution>University of Vienna</institution>, Boltzmanngasse 5, Vienna A-1090, <country>Austria</country></aff><aff id="aff4"><label>&#x022a5;</label>Institute
+of Applied Physics, <institution>Vienna University of
+Technology (TU Wien)</institution>, Wiedner Hauptstra&#x000df;e 8-10, Vienna A-1040, <country>Austria</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>bernhard.bayer-skoff@tuwien.ac.at</email>.</corresp><corresp id="cor2"><label>*</label>Email: <email>bernhard.gollas@tugraz.at</email>.</corresp></author-notes><pub-date pub-type="epub"><day>11</day><month>08</month><year>2020</year></pub-date><pub-date pub-type="ppub"><day>09</day><month>09</month><year>2020</year></pub-date><volume>12</volume><issue>36</issue><fpage>40937</fpage><lpage>40948</lpage><history><date date-type="received"><day>24</day><month>06</month><year>2020</year></date><date date-type="accepted"><day>11</day><month>08</month><year>2020</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2020 American Chemical Society</copyright-statement><copyright-year>2020</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under a Creative Commons Attribution (CC-BY) <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_ccby_termsofuse.html">License</ext-link>, which permits unrestricted use, distribution and reproduction in any medium, provided the author and source are cited.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am0c11467_0009" id="ab-tgr1"/></p><p>Graphene
+electrodes and deep eutectic solvents (DESs) are two emerging
+material systems that have individually shown highly promising properties
+in electrochemical applications. To date, however, it has not been
+tested whether the combination of graphene and DESs can yield synergistic
+effects in electrochemistry. We therefore study the electrochemical
+behavior of a defined graphene monolayer of centimeter-scale, which
+was produced by chemical vapor deposition and transferred onto insulating
+SiO<sub>2</sub>/Si supports, in the common DES choline chloride/ethylene
+glycol (12CE) under typical electrochemical conditions. We measure
+the graphene potential window in 12CE and estimate the apparent electron
+transfer kinetics of an outer-sphere redox couple. We further explore
+the applicability of the 12CE electrolyte to fabricate nanostructured
+metal (Zn) and metalloid (Ge) hybrids with graphene by electrodeposition.
+By comparing our graphene electrodes with common bulk glassy carbon
+electrodes, a key finding we make is that the two-dimensional nature
+of the graphene electrodes has a clear impact on DES-based electrochemistry.
+Thereby, we provide a first framework toward rational optimization
+of graphene&#x02013;DES systems for electrochemical applications.</p></abstract><kwd-group><kwd>graphene</kwd><kwd>deep eutectic solvent</kwd><kwd>electrochemistry</kwd><kwd>electrodeposition</kwd><kwd>zinc</kwd><kwd>germanium</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>am0c11467</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>am0c11467</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>The
+electrochemical behavior of graphene is central to the many
+considered uses of graphene and related graphene-derived carbon materials
+as electrode materials in electrochemical energy storage including
+supercapacitors and batteries.<sup><xref ref-type="bibr" rid="ref1">1</xref>&#x02212;<xref ref-type="bibr" rid="ref4">4</xref></sup> Equally, graphene&#x02019;s electrochemical properties
+are key when graphene is electrochemically produced or electrochemically
+coated to form functional graphene/metal(-oxide) hybrids.<sup><xref ref-type="bibr" rid="ref5">5</xref>&#x02212;<xref ref-type="bibr" rid="ref8">8</xref></sup> Graphene also serves as an ideal model system to fundamentally study
+electrochemical mechanisms for other carbon-based electrodes with
+a less defined and controllable crystalline structure, such as common
+glassy carbon electrodes.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup></p><p>The electrochemical
+behavior of a given material is however not
+universal but critically depends on the choice of the employed electrolyte.
+While the electrochemistry of graphene has to date been mostly studied
+in conventional aqueous and nonaqueous electrolytes,<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref10">10</xref>&#x02212;<xref ref-type="bibr" rid="ref17">17</xref></sup> novel electrolytes with enhanced properties are continuing to emerge.
+A particularly prominent example of such a novel class of electrolytes
+is deep eutectic solvents (DESs). DESs are ionic liquid-like fluids,
+which consist of a eutectic mixture of Lewis or Br&#x000f8;nsted acids
+and bases that can encompass a variety of anionic and/or cationic
+species.<sup><xref ref-type="bibr" rid="ref18">18</xref>&#x02212;<xref ref-type="bibr" rid="ref20">20</xref></sup> DESs share many of the beneficial properties of ionic
+liquids, but additionally are inexpensive and environmentally friendly.<sup><xref ref-type="bibr" rid="ref18">18</xref>&#x02212;<xref ref-type="bibr" rid="ref20">20</xref></sup> Consequently, they have been a subject of intense interest in many
+fields of application including electroplating/metal processing,<sup><xref ref-type="bibr" rid="ref21">21</xref>,<xref ref-type="bibr" rid="ref22">22</xref></sup> nanotechnology,<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref24">24</xref></sup> organic synthesis,<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> biomass processing,<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> and electrochemical energy storage.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup></p><p>Whether the advantages of DESs can also be translated in the
+context
+of electrochemical applications of graphene remains however largely
+unexplored. While a few, mostly computational studies investigated
+DES/graphene interfaces,<sup><xref ref-type="bibr" rid="ref28">28</xref>&#x02212;<xref ref-type="bibr" rid="ref32">32</xref></sup> at present only very limited experimental reports on the electrochemical
+behavior of graphene in DESs are available. So far, DESs were employed
+to electrochemically exfoliate graphene from graphite,<sup><xref ref-type="bibr" rid="ref33">33</xref>&#x02212;<xref ref-type="bibr" rid="ref38">38</xref></sup> to covalently functionalize graphene(&#x02212;oxide),<sup><xref ref-type="bibr" rid="ref39">39</xref>&#x02212;<xref ref-type="bibr" rid="ref42">42</xref></sup> and to explore the potential application of a DES as an electrolyte
+in graphene-based supercapacitors.<sup><xref ref-type="bibr" rid="ref43">43</xref></sup> Fundamental
+characterization of the electrochemical behavior of a defined graphene
+monolayer in a DES remains however missing. In addition, the applicability
+of DESs to produce graphene-based hybrid materials by electrochemical
+means has not been explored yet. Such hybrid materials have been suggested
+for corrosion protection<sup><xref ref-type="bibr" rid="ref44">44</xref>,<xref ref-type="bibr" rid="ref45">45</xref></sup> of steel, for energy
+storage<sup><xref ref-type="bibr" rid="ref46">46</xref></sup> in the case of, for example,
+graphene/zinc (Zn), or as anode materials in Li-ion batteries<sup><xref ref-type="bibr" rid="ref47">47</xref>,<xref ref-type="bibr" rid="ref48">48</xref></sup> in the case of, for example, graphene/germanium (Ge). All of these
+bulk composite materials have either been prepared in aqueous media
+or from the gas phase. While the former procedures may suffer from
+possible side reactions, for example, hydrogen evolution, which can
+affect the chemical integrity of graphene as well as the morphology
+of the composites, the latter method is highly involved and probably
+difficult to control in a scaled-up procedure. The feasibility of
+preparing such graphene composites by electrodeposition from cheap
+and environmentally friendly nonaqueous electrolytes such as DESs
+has not been explored to date. A detailed understanding of the reactivity
+of the graphene/DES interface is in this context crucial for a rational
+selection of fabrication strategies but remains completely missing
+in the literature.</p><p>To address this, we show here for the first
+time how centimeter-scale
+graphene electrodes made from graphene monolayer films<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> that were produced by chemical vapor deposition
+(CVD) and transferred onto insulating SiO<sub>2</sub>/Si supports,
+interact with the common DES choline chloride/ethylene glycol of 1:2
+molar ratio (12CE) under typical electrochemical conditions, including
+identification of the graphene/DES potential window and determination
+of apparent electron transfer kinetics. For comparison, we contrast
+the observed electrochemical behavior of our graphene electrodes with
+the behavior of widely used standard glassy carbon electrodes under
+the same conditions. We also explore how our graphene films can be
+decorated with metal (Zn) and metalloid (Ge) nanostructures by electrodeposition
+from DES electrolytes.<sup><xref ref-type="bibr" rid="ref50">50</xref>&#x02212;<xref ref-type="bibr" rid="ref53">53</xref></sup> We have chosen choline chloride/ethylene glycol (12CE) as an archetypal
+example of DES electrolytes. 12CE fulfills all criteria for technical
+applications. Its components are cheap and environmentally friendly,
+while the mixture is easy to prepare, and it shows the highest ionic
+conductivity at room temperature among such types of electrolytes.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> Consequently, 12CE probably is the most extensively
+studied DES for electrochemical applications.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> Moreover, also features of the double layer structure at carbon
+electrodes<sup><xref ref-type="bibr" rid="ref29">29</xref>,<xref ref-type="bibr" rid="ref53">53</xref></sup> and some of its mechanistic implications,
+for example, for the electrodeposition of Zn,<sup><xref ref-type="bibr" rid="ref52">52</xref></sup> have been reported. The double layer structure of three choline
+chloride-based DESs showed similar features,<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> and therefore, the resulting charge transfer behavior is highly
+likely to be similar as well, particularly for outer sphere redox
+probes, such as ferrocene.<sup><xref ref-type="bibr" rid="ref54">54</xref></sup></p><p>Combined,
+our work here systematically explores for the first time
+the prospects and limitations of monolayer graphene&#x02013;DES systems
+in electrochemical applications.</p></sec><sec id="sec2"><title>Methods</title><sec id="sec2.1"><title>Fabrication
+of Monolayer Graphene Electrodes</title><p>We fabricate
+monolayer graphene working electrodes using graphene monolayers of
+macroscopic size (&#x0223c; 2 &#x000d7; 1 cm), that were grown by CVD
+and transferred onto electrically insulating SiO<sub>2</sub> (90 nm
+thermally grown) covered Si wafers (SiO<sub>2</sub>/Si). These working
+electrodes are immersed along half of their length into the DES electrolyte
+during the electrochemical experiments (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a,b). The graphene monolayer films are electrically
+contacted on their front via silver epoxy on their non-immersed end
+above the electrolyte meniscus. This geometry allows us to study the
+electrochemical response exclusively from the graphene avoiding interference
+of any electrically conductive support. Graphene films were grown
+via CVD using 25 &#x003bc;m thick Cu foil catalysts exposed to CH<sub>4</sub>/H<sub>2</sub> at &#x0223c; 12 mbar and 960 &#x000b0;C, resulting
+in high-quality polycrystalline (grain size tens of &#x003bc;m) monolayer
+graphene films.<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> After CVD, graphene was
+transferred from the Cu catalyst onto the target SiO<sub>2</sub>/Si
+wafers via a widely used, standard polymer-assisted (polymethylmethacrylate,
+PMMA) transfer process using a wet etch (FeCl<sub>3</sub> in H<sub>2</sub>O) to remove the Cu catalyst.<sup><xref ref-type="bibr" rid="ref55">55</xref></sup> After transfer onto the target SiO<sub>2</sub>/Si wafers, the PMMA
+scaffold was removed by soaking in acetone (&#x0003e;8 h), followed by
+a final
+sample clean in isopropanol. See <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c&#x02013;e for the optical photograph/micrograph
+and a Raman spectrum<sup><xref ref-type="bibr" rid="ref56">56</xref></sup> of an as-fabricated,
+not electrochemically cycled graphene electrode. The as-fabricated
+graphene electrode is a continuous film on the SiO<sub>2</sub>/Si
+with only few small &#x003bc;m-sized holes, allowing an electrical conduction
+path along its entire length (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c,d). The Raman spectrum of the as-fabricated electrode
+is fully consistent with that of high-quality monolayer graphene produced
+by CVD (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>e).<sup><xref ref-type="bibr" rid="ref56">56</xref></sup> It shows only very little defect-related D band
+intensity, and the observed 2D to G intensity ratio of &#x0223c; 2
+confirms the monolayer nature of the graphene.<sup><xref ref-type="bibr" rid="ref56">56</xref></sup> It is known that the employed PMMA-transfer method leaves
+only few microscopic but a sizeable amount of nanoscopic PMMA residues
+on the graphene support,<sup><xref ref-type="bibr" rid="ref57">57</xref>,<xref ref-type="bibr" rid="ref58">58</xref></sup> which are inherent
+to state-of-the-art transferred graphene produced by CVD. Prior electrochemical
+studies have shown that these PMMA residues do not have a critical
+impact on the fundamental electrochemical behavior of graphene in
+a first approximation,<sup><xref ref-type="bibr" rid="ref57">57</xref></sup> allowing us to
+study the intrinsic electrochemical properties of graphene.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(a) Schematic
+and (b) photograph of a monolayer graphene film on
+SiO<sub>2</sub>/Si working electrode configuration. (c) Photograph,
+(d) optical micrograph, and (e) Raman spectrum of an as-transferred,
+pristine CVD graphene film on a SiO<sub>2</sub>/Si wafer.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am0c11467_0002" id="gr1" position="float"/></fig></sec><sec id="sec2.2"><title>Electrolyte Preparation</title><p>The DES consisting of a 1:2
+molar ratio of choline chloride and ethylene glycol (12CE) was prepared
+by first drying the choline chloride (99% Fluka) at 100 &#x000b0;C under
+reduced pressure (10<sup>&#x02013;2</sup> mbar) in a Schlenk flask
+for &#x02265;48 h. When the flask had cooled down close to room temperature,
+the flask was isolated from the vacuum pump and transferred to an
+argon-filled glovebox, where anhydrous ethylene glycol (99.8%, Aldrich)
+was added as supplied, without further drying. The mixture was stirred
+using a PTFE-coated magnetic stir bar until a single, colorless liquid
+phase was obtained.</p><p>Electrolytes containing ZnCl<sub>2</sub> were prepared similarly by adding predried powdered ZnCl<sub>2</sub> (99.999%, Aldrich, dried at room temperature at 10<sup>&#x02013;2</sup> mbar for &#x02265;48 h) to the 12 CE electrolyte. The solution was
+stirred until all of the salt had completely dissolved. Higher temperatures
+were avoided to limit reactions between ZnCl<sub>2</sub> and the hydroxyl
+group of the choline.</p><p>Karl&#x02013;Fischer analysis was performed
+to determine the initial
+water content of the electrolytes using an automatic titrator (CA-100/VA-100,
+Mitsubishi Chemicals Corp.). Ethylene glycol contained 30 ppm water,
+and the freshly prepared and dried 12 CE electrolyte had 70 ppm water
+content.</p><p>Ferrocene (&#x02265; 98%) was purchased from Merck and
+used as received.
+Tetra(<italic>n</italic>-butyl)ammonium trichlorogermanate (TBAGeCl<sub>3</sub>) was synthesized at the University of Southampton as published
+previously.<sup><xref ref-type="bibr" rid="ref59">59</xref></sup></p></sec><sec id="sec2.3"><title>Electrochemical Measurements</title><p>Electrochemical experiments
+were carried out in a three-electrode glass cell within a dry, argon-filled
+glovebox (MBraun, MB G-120) at 30 &#x000b0;C unless otherwise stated.
+The graphene on SiO<sub>2</sub>/Si was used as the working electrode
+with the graphene films immersed up to approximately half of their
+length. Because of the slightly varying immersion depths and slight
+variations in graphene film dimensions, the exact electroactive area
+and hence the absolute currents of the graphene electrodes used in
+this study vary to some extent. For reference, comparative measurements
+with a 3 mm diameter glassy carbon disk working electrode (Metrohm,
+0.071 cm<sup>2</sup>, polished to a mirror finish with an aqueous
+slurry of alumina powder) and with a zinc disk electrode of 5 mm diameter
+were also made. The zinc disk was machined from a rod (99.999%, Goodfellow
+Cambridge Limited, UK) and inserted into an interchangeable rotating
+disk electrode tip holder with a polyether ether ketone shroud (Pine
+Research Instrumentation Inc., USA). Working electrodes were rinsed
+with deionized water and acetone and dried in air prior to their transfer
+into the glovebox.</p><p>A zinc wire immersed in 0.3 M ZnCl<sub>2</sub> was used as a reference electrode (RE) separated from the bulk electrolyte
+in the Haber&#x02013;Luggin capillary via a glass frit. In some measurements,
+a Ag/Ag<sup>+</sup> (1 mM) RE separated from the bulk electrolyte
+in the Haber&#x02013;Luggin capillary via a glass frit was used. The
+potentials in this paper are reported versus Zn/0.3 M Zn<sup>2+</sup> to allow easy comparison to our previous studies of ZnCl<sub>2</sub> in 12CE. They can be converted to the Ag/Ag<sup>+</sup> (1 mM) potential
+scale by subtracting 1.033 V. Platinum mesh was used as the counter
+electrode (CE).</p><p>A Metrohm Echo Chemie Autolab PGSTAT100 potentiostat/galvanostat
+controlled by NOVA 1.10 software and hooked up to the glovebox was
+used for electrochemical measurements.</p></sec><sec id="sec2.4"><title>Material Characterization</title><p>The structural quality of
+the graphene films before and after all electrochemical measurements
+was assessed by Raman spectroscopy (all samples measured both in NT-MDT
+NTEGRA Spectra<sup><xref ref-type="bibr" rid="ref60">60</xref></sup> at 473 nm and in LabRAM
+HR at 633 nm laser wavelengths). Coverage and morphology of graphene
+films and, if present, Zn and Ge deposits before and after electrochemistry
+were studied by optical microscopy (Olympus), scanning electron microscopy
+(SEM, Zeiss Supra 55 VP, 2 kV, Everhart&#x02013;Thornley secondary
+electron detector), and atomic force microscopy (AFM, Asylum Research
+Cypher, tapping mode, Olympus OMCL-AC240TS-R3 tips). Additional chemical
+and structural characterization of Zn and Ge deposits employed energy
+dispersive X-ray spectroscopy (EDX, FEI Quanta 250 FEG with EDAX SDD
+Octane Elite 55, 10 kV) and powder X-ray diffractometry (XRD, PANalytical
+XPert Pro MPD, Cu-K&#x003b1; at 0.154 nm, &#x003b8;-&#x003b8; Bragg&#x02013;Brentano
+geometry) including qualitative phase analysis by comparison to the
+International Centre for Diffraction Data (ICDD) using HighscorePlus
+software.</p></sec></sec><sec id="sec3"><title>Results and Discussion</title><sec id="sec3.1"><title>Cyclic Voltammetric Background
+Curves</title><p>We first present
+in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a,c results
+of anodic and cathodic voltammetric background cycling experiments
+of our graphene electrodes in neat 12 CE and compare them to the behavior
+of common glassy carbon electrodes. In <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b, we assess the effect of voltammetric cycling
+on the structural quality of the graphene via well-established Raman
+spectroscopy.<sup><xref ref-type="bibr" rid="ref56">56</xref></sup></p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(a) First voltammetric
+background cycles of two graphene electrodes
+(<italic>A</italic> &#x02248; 0.3 cm<sup>2</sup>) and a glassy carbon
+disk electrode (<italic>A</italic> = 0.07 cm<sup>2</sup>) in 12CE,
+Pt-mesh auxiliary electrode, <italic>v</italic> = 50 mV s<sup>&#x02013;1</sup>, <italic>E</italic><sub>start</sub> = 0.7 V, initial sweep direction
+indicated by arrows. (b) Raman spectra of the graphene electrodes
+after the cyclic voltammetric background cycles shown in (a). (c)
+Successive cyclic voltammetric background cycles of a graphene electrode
+(<italic>A</italic> &#x02248; 0.3 cm<sup>2</sup>) in a 12CE, Pt-mesh
+auxiliary electrode, <italic>v</italic> = 50 mV s<sup>&#x02013;1</sup>, <italic>E</italic><sub>start</sub> = 0.7 V, initial sweep direction
+negative. Note that the third cathodic cycle (green) is fully overlaid
+by the fourth cycle (red).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am0c11467_0003" id="gr2" position="float"/></fig><p>For the as-fabricated graphene electrodes that are subjected to
+a first positive sweep, the current only starts to rise above +2.2
+V and decreases again during the return sweep (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a, blue). This anodic behavior upon a first
+positive sweep is comparable to that of glassy carbon in 12CE (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a, gray dashed).
+The rise in current above +2.2 V is probably due to the anodic oxidation
+of the chloride ions,<sup><xref ref-type="bibr" rid="ref61">61</xref></sup> which limits the
+anodic stability of the DES. This occurs at the same potential for
+both types of carbon electrodes. In the case of glassy carbon, a peak
+for the reduction of the Cl<sub>3</sub><sup>&#x02013;</sup> ions, which
+form upon the oxidation of chloride ions, can be observed on the cathodic
+return sweep. This peak is missing in the case of graphene, where
+the chloride oxidation current is almost one order of magnitude lower
+than that in the case of glassy carbon. In <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>e above, the Raman spectrum of an as-fabricated,
+not electrochemically cycled graphene electrode has been shown in
+which the low defect-related D peak intensity and the intensity ratio
+of 2D/G of &#x0223c; 2 confirmed high-quality monolayer graphene. In
+comparison, <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b shows the Raman spectrum of the once positively swept electrode
+(bottom blue). Notably, after anodic cycling up to +2.5 V, the Raman
+signature of the graphene electrodes remains virtually unchanged,
+suggesting that the graphene layer remains structurally fully intact
+during anodic cycling 12CE. Consistent with this, optical microscopy
+images of the graphene electrodes before and after anodic cycling
+show no observable change in terms of graphene film homogeneity and
+coverage from their as-prepared state as shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>d.</p><p>In stark contrast
+to the anodic background sweep, the first sweep
+of a fresh graphene electrode to negative potentials shows a large
+cathodic peak with an onset at already &#x02212;0.4 V (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a, red). After reaching its
+maximum at &#x02212;1.25 V, a rather steep drop of the current is observed,
+which is in most cases discontinuous toward the cathodic switching
+potential. We find that the cathodic peak shape is typical for the
+behavior of the monolayer graphene in 12CE, as in comparison glassy
+carbon electrodes show only a small increasing cathodic background
+current in the same potential range (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>, gray dashed). Raman measurements in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b of the once negatively
+swept electrode (top red) reveal that the large cathodic peak is related
+to severe defect formation in the graphene as evidenced by a significant
+increase of D band intensity.<sup><xref ref-type="bibr" rid="ref56">56</xref></sup> The emergence
+of the D&#x02019; and the D + D&#x02019; bands in the spectrum is also
+indicative of this effect.<sup><xref ref-type="bibr" rid="ref56">56</xref></sup> The formation
+of defects in the graphene upon negative sweeps is also corroborated
+by further electrochemical observations in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c, where we study the effects of repeated
+cycling. First, when sweeping to the positive regime after initial
+cathodic sweeps, an anodic peak around +2.2 V is observed (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c, blue) which was
+absent in the first anodic sweep of as-fabricated, noncycled graphene
+(<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a, blue).
+This suggests that the initial cathodic sweep has electrochemically
+activated the graphene toward anodic reactions. Electrochemical activity
+of graphene is known to be linked to defects,<sup><xref ref-type="bibr" rid="ref62">62</xref></sup> consistent with the defects observed in the Raman spectrum that
+formed during cathodic sweeps of graphene (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b, red). Second, repeated cycling to the
+negative switching potential consistently shows that the current drastically
+decreases from sweep to sweep (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c). This suggests that the graphene electrode is deactivated
+upon sweeping to negative potentials, which can be ascribed to diminishing
+electrical conductivity of the graphene layer. Because defects in
+graphene are known to drastically decrease the intrinsically high
+electrical conductivity of graphene,<sup><xref ref-type="bibr" rid="ref63">63</xref></sup> this
+observed electrode degradation can also be linked to the defect formation
+observed in the Raman spectrum. Finally, for graphene cycled to large
+cathodic potentials we also find strong signs of graphene film degradation
+and even delamination in optical microscopy by formation of voids
+and ruptured areas (Supporting Information <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf">Figure S1</ext-link>). This indicates that the detrimental impact of the cathodic
+sweep is not only microscopic, but also adversely affects the macroscopic
+homogeneity of the graphene film.</p><p>We suggest that the mechanism
+behind the cathodic degradation of
+the graphene in 12CE is linked to highly reactive radical electrolysis
+products of 12CE. Haerens et al. have studied the cathodic decomposition
+of 12CE and identified several products of the preparative electrolysers
+of 12CE.<sup><xref ref-type="bibr" rid="ref61">61</xref></sup> On this basis, they suggested
+possible reaction pathways for choline, whereby the initially formed
+choline radical decomposes into trimethylamine and an ethanol radical
+(<xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>A) or into
+dimethylamino-ethanol and a methyl radical (<xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>B). In both paths, radicals are generated
+that can easily bind covalently to graphene as known from electrografting.<sup><xref ref-type="bibr" rid="ref64">64</xref></sup> Covalent bonding of these radicals to graphene
+converts sp<sup>2</sup> into sp<sup>3</sup>-hybridized carbons and
+disrupts the delocalized &#x003c0;-electron system. Such types of defects
+result in a decrease of electronic conductivity and also lead to characteristic
+changes in the Raman spectrum of graphene.<sup><xref ref-type="bibr" rid="ref65">65</xref></sup> Corroborating this is also our observation during cyclic voltammetry
+that gas bubbles emanated on the graphene electrodes around the cathodic
+switching potential. This can be explained by the decomposition of
+choline to trimethylamine (<xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>A), although the formation of gaseous products, such
+as methane or ethane in reaction path B, cannot be ruled out. Bubble
+formation may also exacerbate the graphene film destruction via bubble-induced
+delamination<sup><xref ref-type="bibr" rid="ref66">66</xref></sup> from the substrate, which
+may account for the extensive void formation observed by optical microscopy
+for the fully cathodically cycled film (Supporting Information <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf">Figure S1</ext-link>). With respect to the proposed reaction
+scheme, the anodic peak around +2.2 V, which is observed only after
+the cathodic decomposition, points to the grafting of an oxidizable
+functional group such as the
+hydroxyl group in the ethanol radical generated also in path A.</p><fig id="sch1" position="float"><label>Scheme 1</label><caption><title>Cathodic Decomposition Reactions of 12CE According to Haerens et
+al.<sup><xref ref-type="bibr" rid="ref61">61</xref></sup></title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am0c11467_0008" id="gr7" position="float"/></fig><p>Electrochemical background cycling has revealed the stability limits
+of graphene in 12CE, whereby we find that graphene is electrochemically
+stable at positive potentials up to +2.5 V, while at potentials negative
+from approximately &#x02212;0.5 V versus Zn/Zn<sup>2+</sup>, graphene
+degradation via radical formation from 12CE decomposition readily
+occurs.</p></sec><sec id="sec3.2"><title>Electron Transfer Kinetics</title><p>Well-characterized redox
+couples are often used to study the electrochemical behavior of electrode
+materials in combination with a certain electrolyte.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> Here, we use the ferrocene/ferrocenium couple<sup><xref ref-type="bibr" rid="ref54">54</xref></sup> to compare the electrochemical behavior of the
+CVD graphene electrodes with that of glassy carbon in the DES.<sup><xref ref-type="bibr" rid="ref67">67</xref></sup> This couple is known to undergo an outer-sphere
+one-electron transfer, that is, without strong interaction (bond formation)
+with the electrode material and is thus well suited for comparing
+the heterogeneous charge transfer rate at different electrode materials.
+Typical features of the cyclic voltammograms of this redox couple,
+such as the peak potentials and peak currents and their variation
+with the scan rate, can be used as diagnostic criteria to estimate
+the rate of heterogeneous charge transfer. If the charge transfer
+is fast on the timescale of the experiment (reversible or Nernstian
+system), the peak potentials should be independent of scan rate, and
+a peak potential difference, &#x00394;<italic>E</italic><sub>p</sub>, of 59 mV is expected for the one-electron transfer of ferrocene.
+In this case, the reaction is diffusion controlled and the forward
+peak currents should be proportional to the square root of the scan
+rate. The linear regression of the corresponding plot should pass
+through the origin, and the diffusion coefficient can be calculated
+from the slope with the Randles&#x02013;Sevcik equation (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf">eq S1</ext-link> in the Supporting Information). The cyclic
+voltammograms of 3.2 mM ferrocene between 0 and + 2 V on the graphene
+electrodes in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref> (blue traces) show peak potential differences, &#x00394;<italic>E</italic><sub>p</sub>, to vary between 145 and 446 mV at sweep rates &#x003bd;
+from 10 to 500 mV s<sup>&#x02013;1</sup> (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>). Such large values for &#x00394;<italic>E</italic><sub>p</sub> and their strong dependence on the sweep rate indicate
+slow charge transfer at the monolayer graphene electrodes in 12 CE
+(quasi-reversible behavior), although some contribution to &#x00394;<italic>E</italic><sub>p</sub> of the uncompensated ohmic resistance of the
+electrolyte and across the macroscopically large CVD graphene layer
+cannot be ruled out (<italic>iR</italic> drop). A minimum value of
+1.0 &#x000d7; 10<sup>&#x02013;4</sup> cm s<sup>&#x02013;1</sup> for the
+apparent heterogeneous rate constant of ferrocene at the CVD graphene
+electrode is estimated from the data in <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref> via the work function by Nicholson.<sup><xref ref-type="bibr" rid="ref68">68</xref></sup> Prior literature<sup><xref ref-type="bibr" rid="ref62">62</xref></sup> has argued that the contribution at edges and defects to the heterogeneous
+electron transfer rate is much higher than that at the basal plane
+for graphene. We note, however, that our measurement provides a mean
+value for which contributions from graphene&#x02019;s basal plane,
+edges, and point defects cannot be differentiated. In agreement with
+the background experiments above, the graphene electrodes are not
+degraded by cyclic voltammetry of ferrocene up to anodic potentials
+of 2 V vs Zn/Zn<sup>2+</sup> as evidenced by the Raman spectrum in
+Supporting Information <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf">Figure S2</ext-link>, which
+does not show any indications for induced defects. The observation
+of slow charge transfer and the magnitude of the measured apparent
+heterogeneous rate constant are in line with prior reports in the
+literature for similar outer-sphere redox couples at monolayer graphene
+in other electrolytes.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> This behavior for
+outer-sphere redox probes such as ferrocene has been suggested to
+be linked to the low density of electronic states at the Fermi level
+of graphene and of the basal plane of highly ordered pyrolytic graphite
+(HOPG).<sup><xref ref-type="bibr" rid="ref69">69</xref></sup></p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Cyclic voltammograms at different sweep
+rates of 3.2 mM ferrocene
+on a graphene electrode (<italic>A</italic> &#x02248; 0.3 cm<sup>2</sup>) and a glassy carbon electrode (<italic>A</italic> = 0.07 cm<sup>2</sup>) in 12CE, Pt-mesh auxiliary electrode, <italic>E</italic><sub>start</sub> = 0 V (graphene electrode) and 1 V (glassy carbon
+electrode), initial sweep direction positive. The currents on both
+axes have been normalized by the square root of the sweep rate.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am0c11467_0004" id="gr3" position="float"/></fig><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Cyclic Voltammetric Peak Potential
+Differences, &#x00394;<italic>E</italic><sub>p</sub>, of 3.2 mM Ferrocene
+at Graphene and Glassy Carbon Electrodes for a Range of Sweep Rates,
+&#x003bd;.</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center">graphene</th><th style="border:none;" align="center">glassy carbon</th></tr><tr><th style="border:none;" align="center"><italic>v</italic> / V s<sup>&#x02013;1</sup></th><th style="border:none;" align="center">&#x00394;<italic>E</italic><sub>p</sub> / V</th><th style="border:none;" align="center">&#x00394;<italic>E</italic><sub>p</sub> / V</th></tr></thead><tbody><tr><td style="border:none;" align="left">0.010</td><td style="border:none;" align="left">0.145</td><td style="border:none;" align="left">0.066</td></tr><tr><td style="border:none;" align="left">0.025</td><td style="border:none;" align="left">0.186</td><td style="border:none;" align="left">0.069</td></tr><tr><td style="border:none;" align="left">0.050</td><td style="border:none;" align="left">0.226</td><td style="border:none;" align="left">0.065</td></tr><tr><td style="border:none;" align="left">0.100</td><td style="border:none;" align="left">0.275</td><td style="border:none;" align="left">0.071</td></tr><tr><td style="border:none;" align="left">0.250</td><td style="border:none;" align="left">0.365</td><td style="border:none;" align="left">0.071</td></tr><tr><td style="border:none;" align="left">0.500</td><td style="border:none;" align="left">0.446</td><td style="border:none;" align="left">0.069</td></tr></tbody></table></table-wrap><p>In contrast to the graphene electrode,
+glassy carbon in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref> (gray traces) shows
+pairs of peaks with peak potential differences, &#x00394;<italic>E</italic><sub>p</sub>, between 66 and 71 mV at sweep rates from 10 to 500
+mV&#x000b7;s<sup>&#x02013;1</sup> (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>). The much smaller &#x00394;<italic>E</italic><sub>p</sub> values, as compared to those at graphene, and their negligible dependence
+on the sweep rate &#x003bd; indicate that the electron transfer on glassy
+carbon is fast, that is, the reaction is diffusion controlled (electrochemically
+reversible or Nernstian behavior) with some <italic>iR</italic> drop
+contributing to &#x00394;<italic>E</italic><sub>p</sub>. A series of
+cyclic voltammograms recorded at scan rates between 10 and 500 mV
+s<sup>&#x02013;1</sup> is shown in Supporting Information <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf">Figure S3</ext-link>. A plot of the anodic peak current <italic>i</italic><sub>p</sub><sup>ox</sup> versus the square root of the
+scan rate has a linear regression with a correlation coefficient larger
+than 0.9999 and an intercept close to zero (Supporting Information <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf">Figure S4</ext-link>). From the slope of this regression,
+a diffusion coefficient for ferrocene in 12CE of 1.9 &#x000d7; 10<sup>&#x02013;7</sup> cm<sup>2</sup> s<sup>&#x02013;1</sup> is calculated
+with the Randles&#x02013;Sevcik equation.<sup><xref ref-type="bibr" rid="ref70">70</xref></sup> This value is almost one order of magnitude larger than that reported
+by Bahadori et al.,<sup><xref ref-type="bibr" rid="ref67">67</xref>,<xref ref-type="bibr" rid="ref71">71</xref></sup> who have however used the Randles&#x02013;Sevcik
+equation without correction term for hemispherical diffusion<sup><xref ref-type="bibr" rid="ref70">70</xref></sup> to analyze cyclic voltammetric currents at a
+Pt ultramicroelectrode.</p></sec><sec id="sec3.3"><title>Electrodeposition of Zinc</title><p>After
+having established
+the potential window and electron transfer kinetics of graphene in
+12CE, we now turn to using the DES as an electrolyte for metal (Zn)
+and metalloid (Ge) electrodeposition on the graphene.</p><p>We have
+recently studied the mechanism of zinc electrodeposition from ZnCl<sub>2</sub> in 12CE on various electrode materials including glassy carbon
+and Zn.<sup><xref ref-type="bibr" rid="ref50">50</xref>&#x02212;<xref ref-type="bibr" rid="ref52">52</xref></sup> It has been found that Zn deposition from ZnCl<sub>2</sub> in 12CE is a two-step process that first requires the formation
+of a reducible zinc species via ligand exchange with cathodic decomposition
+products of 12CE. In the second step, these newly formed zinc species
+are reduced during the anodic return sweep affecting zinc deposition.
+The explanation for this two-step process is that the otherwise dominating
+tetrachlorozincate ion [ZnCl<sub>4</sub>]<sup>2&#x02013;</sup> cannot
+be directly reduced within the potential window of 12CE. It was found
+that this process strongly depends on the electrode material and is
+additionally complicated by the blocking of the electrode at very
+cathodic potentials.<sup><xref ref-type="bibr" rid="ref52">52</xref></sup></p><p>Typical cyclic
+voltammograms of ZnCl<sub>2</sub> in 12CE on graphene
+with variable cathodic switching potentials in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a show that graphene electrodes also generally
+conform to the above two-step process. A rather small current is observed
+on sweeping cathodically in ZnCl<sub>2</sub>/12CE, which increases
+toward the switching potential (same as in the cathodic 12CE background
+curves in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a)
+during which the reducible Zn species is generated via 12CE decomposition.
+In the reverse anodic sweep in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a, a cathodic peak (&#x0201c;A&#x0201d;) is observed,
+which corresponds to Zn deposition from the in situ generated reducible
+Zn species. If samples are unloaded after this point, Zn deposition
+on the graphene is readily verified by SEM (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b), whereby additional EDX and XRD in Supporting
+Information <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf">Figure S5</ext-link> confirm that the
+observed deposits are polycrystalline Zn. If, however, cycled further
+after cathodic Zn deposition (&#x0201c;A&#x0201d;), an anodic peak (&#x0201c;B&#x0201d;)
+appears, which corresponds to Zn stripping. Consistent with our prior
+cathodic background cycling in 12CE to such negative potentials (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a,b) also during
+the two-step potentiodynamic Zn deposition the graphene is severely
+degraded by generation of defects, as shown by the emergence of the
+defect-related D band in the Raman spectrum of a graphene electrode
+after Zn deposition in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c. At potentials negative from &#x02212;0.5 V vs Zn/Zn<sup>2+</sup>, the 12CE electrolyte decomposes producing reactive radicals
+that attack the graphene. While the decomposition of the electrolyte
+is necessary for generating reducible zinc species, it also produces
+radicals that react with the graphene and thus decrease its conductivity.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>ZnCl<sub>2</sub> in 12CE: (a) Cyclic voltammograms with different
+cathodic switching potentials of 0.3 M ZnCl<sub>2</sub> in 12CE at
+a graphene working electrode (<italic>A</italic> &#x02248; 0.3 cm<sup>2</sup>), <italic>v</italic> = 10 mV s<sup>&#x02013;1</sup>, Pt gauze
+auxiliary electrode, and Zn/Zn<sup>2+</sup> RE. The arrow indicates
+sweep start in the cathodic direction. (b) SEM images of a graphene
+electrode with potentiodynamically deposited zinc (10 cycles, corresponding
+to <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b, further
+SEM and AFM data is shown in Supporting Information <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf">Figure S6</ext-link>) showing an area close to the meniscus of the electrolyte
+(top), an area halfway between the meniscus and the lower end of the
+electrode (middle), and an area at the lower end of the electrode
+(bottom). (c) Raman spectrum of a graphene electrode with potentiodynamically
+deposited zinc.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am0c11467_0005" id="gr4" position="float"/></fig><p>An interesting observation we
+make from potentiodynamic Zn deposition
+(i.e., without anodic Zn stripping &#x0201c;B&#x0201d;) is that Zn exhibits
+a strong morphology gradient with respect to the distance from the
+electrolyte meniscus (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b, here shown for 10 voltammetric deposition cycles corresponding
+to <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b, see also Supporting Information <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf">Figure S6</ext-link> for additional AFM and SEM data). Near the meniscus,
+a coherent, thick Zn coating on the graphene electrode is observed
+with an average thickness of about 1&#x02013;2 &#x003bc;m (estimated
+from the side view SEM image in Supporting Information <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf">Figure S6</ext-link>). The SEM image at higher magnification
+and the AFM image in Supporting Information <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf">Figure S6</ext-link> show that the coherent Zn coating is composed of an assembly
+of nanograins with an apparent average lateral size of about 100 nm,
+fully consistent with the polycrystalline nature of the deposits measured
+by XRD. With increasing distance from the electrolyte meniscus, the
+amount of deposited Zn drastically decreases. In the lower immersed
+third of the electrode, only individual Zn nanoparticles (&#x02248;
+100 nm lateral size and &#x02248; 50 nm height, Supporting Information <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf">Figure S6</ext-link>) on graphene can be observed. Given
+that the amount of deposited Zn decreases with increasing distance
+from the electrolyte meniscus (and also the nonimmersed graphene electrode&#x02019;s
+silver epoxy contact), this points to a strong influence of an <italic>iR</italic> drop along the graphene layer during electrodeposition.
+The resistance of the graphene causes a potential drop along the graphene
+film that continuously increases with the distance to the electrolyte
+meniscus/silver epoxy contact. This leads to a gradient of the local
+current density for metal deposition, which is reflected in the amount
+of deposited zinc decreasing with distance from the electrolyte meniscus.
+The situation is similar to the current density distribution in a
+Hull cell, which is caused by the inclined arrangement of the cathode.<sup><xref ref-type="bibr" rid="ref72">72</xref></sup> Similar results for inhomogeneous metal deposition
+on carbon electrodes have been achieved in bipolar electrochemistry.<sup><xref ref-type="bibr" rid="ref73">73</xref></sup> Furthermore, bipolar cathodic grafting of 4-bromobenzene
+on monolayer graphene films has produced similar results.<sup><xref ref-type="bibr" rid="ref65">65</xref></sup></p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>ZnCl<sub>2</sub> in 12CE: (a) Cyclic voltammograms with
+different
+cathodic switching potentials of 0.3 M ZnCl<sub>2</sub> in 12CE at
+a glassy carbon working electrode (<italic>A</italic> = 0.07 cm<sup>2</sup>), <italic>v</italic> = 10 mV s<sup>&#x02013;1</sup>, Pt gauze
+auxiliary electrode, Zn/Zn<sup>2+</sup> RE. Arrow indicates sweep
+start in the cathodic direction. (b) Successive cyclic voltammograms
+of 0.3 M ZnCl<sub>2</sub> in 12CE on a graphene electrode (<italic>A</italic> &#x02248; 0.3 cm<sup>2</sup>) and on a zinc disk electrode
+(<italic>A</italic> = 0.95 cm<sup>2</sup>), <italic>v</italic> = 10
+mV s<sup>&#x02013;1</sup>, Pt gauze auxiliary electrode, Zn/Zn<sup>2+</sup> RE. Arrows indicate the sweep direction.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am0c11467_0006" id="gr5" position="float"/></fig><p>In our case, the gradient of the current density is the result
+of a combination of several factors. Initially, the internal resistance
+in the graphene layer (see the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf">Supporting Information</ext-link>) causes an <italic>iR</italic> drop with increasing distance from
+the connecting wire. This leads to a gradient for zinc deposited during
+the first cycle. This gradient then is enhanced from cycle to cycle,
+because, on the one hand, zinc will be deposited on zinc, which has
+an electric conductivity more than 5 times higher than graphene.<sup><xref ref-type="bibr" rid="ref74">74</xref></sup> On the other hand, the conductivity of the uncoated
+graphene is diminished by the chemical attack of radical species generated
+by the cathodic decomposition of the DES toward the rather negative
+switching potential of &#x02212;0.6 V.</p><p>We note that on the lower
+third of the immersed graphene electrode
+below the electrolyte meniscus also signs of graphene delamination
+can be observed (Supporting Information <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf">Figure S7</ext-link>), again consistent with the Raman spectrum in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c pointing to severe graphene
+degradation during the sweeps to very negative potentials. The key
+impact of in situ graphene degradation during the negative sweeps
+is finally also corroborated, when observing that the amount of deposited
+zinc on graphene decreases with the cathodic switching potential becoming
+more negative, as shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a. The more negative the applied potential, the more
+the electrolyte is decomposed, which causes two opposing effects on
+the zinc deposition rate. On the one hand, the higher the decomposition
+rate of the electrolyte, the more reducible Zn species are formed
+from the decomposition products. A higher concentration of reducible
+Zn species will increase the Zn deposition rate during the anodic
+return sweep. The more reactive radical decomposition products are
+formed, on the other hand, the more defects are generated in the graphene,
+resulting in an increasing <italic>iR</italic> drop. This in turn
+gradually decreases the effective overpotential of the electrode,
+slowing down both potential-dependent processes. As a result, the
+applied cathodic overpotential and the amount of Zn <italic>inversely</italic> correlate for graphene, as observed.</p><p>This behavior is in direct
+contrast to the electrochemical behavior
+observed on glassy carbon electrodes (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a). For the glassy carbon, the charge found
+for zinc deposition (and stripping) <italic>directly</italic> correlates
+with the cathodic overpotential.<sup><xref ref-type="bibr" rid="ref50">50</xref>&#x02212;<xref ref-type="bibr" rid="ref52">52</xref></sup> The more negative the
+switching potential on glassy carbon, the larger the extent of electrolyte
+decomposition, and thus the more zinc is deposited on the anodic return
+sweep. In contrast to graphene, glassy carbon electrodes are bulk
+electrodes in which the overall conductivity is not impeded by a possible
+defect-induced degradation of conductivity in the top-most atomic
+layer. The bulk of the electrode underneath can continue to transport
+sufficient charge for Zn deposition; that is, the overall conductivity
+of glassy carbon electrodes is hardly affected by defects in the first
+atomic layer. In contrast, for the truly two-dimensional graphene
+monolayers, defects in the top-most (and only) layer immediately decrease
+their overall conductivity. This shows that the two-dimensional nature
+of graphene has a key effect on its electrode properties in electrochemistry.
+While the general reaction pathway for zinc deposition upon variation
+of the cathodic switching potential for graphene and glassy carbon
+is found to be identical, the two-dimensional nature of graphene results
+in the two carbon materials showing opposite trends in terms of Zn
+deposition rate as a function of applied potential. This highlights
+that graphene can in principle be used to approximate the behavior
+of other graphitic carbon electrodes; however, graphene&#x02019;s two-dimensional
+nature has to be kept in mind when doing so.</p><p>The unique impact
+of the two-dimensional nature of graphene on
+electrochemistry is also corroborated when considering that in our
+experiments the generation of defects in graphene monolayers did not
+improve their electrochemical activity. Although defects might increase
+the density of electronic states at the Fermi level and thus the rate
+of heterogeneous electron transfer,<sup><xref ref-type="bibr" rid="ref62">62</xref></sup> the
+decrease of conductivity in the 2D material<sup><xref ref-type="bibr" rid="ref63">63</xref></sup> negates this effect. This is in stark contrast to the commonly observed
+behavior for the graphene bulk analog HOPG, for which defect generation
+in the HOPG basal plane improves electrochemical activity.<sup><xref ref-type="bibr" rid="ref62">62</xref></sup></p><p>Further insight into the build-up of the
+Zn layer on graphene can
+be obtained by studying the consecutive voltammetric cycles shown
+in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b, where
+the zinc is not anodically stripped. In <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b, the cathodic switching potential is set
+at &#x02212;0.6 V, where the extent of electrolyte decomposition is
+not so large, and consequently, only little zinc is deposited in the
+first cycle. In turn, also graphene degradation is less severe, and
+the graphene electrode can be cycled several times without diminishing
+current densities. In doing so, we find that the deposition current
+increases from cycle to cycle, and with increasing cycle number, a
+deposition peak is not only observed on the anodic return sweep, but
+increasingly also on the cathodic forward sweep. Moreover, these peaks
+residing on an increasing background current develop a pronounced
+triangular shape from cycle to cycle. Such a triangular shape was
+previously found for Zn deposition from ZnCl<sub>2</sub>/12CE onto
+bulk Zn electrodes,<sup><xref ref-type="bibr" rid="ref52">52</xref></sup> where an exemplary
+cycling curve is also shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b (green dashed). Thus, the data in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b evidence the changeover from
+a two-dimensional graphene electrode that with increasing Zn coverage
+becomes increasingly more similar to a bulk Zn electrode in its electrochemical
+properties in agreement with the previous observations for the zinc
+gradient (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b).
+The shift of the peak maxima toward negative potentials with increasing
+peak current from cycle to cycle for the graphene electrode as shown
+in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b can be
+attributed to a slowly increasing <italic>iR</italic> drop from an
+increasing number of defects in the graphene with an increasing cycle
+number.</p></sec><sec id="sec3.4"><title>Electrodeposition of Germanium</title><p>Our results on Zn electrodeposition
+generally show that electrochemical deposition routes that require
+very negative potentials in 12CE are nonideal for monolayer graphene
+electrodes, because in parallel to metal deposition also graphene
+degradation readily occurs. Precursors in 12CE that require less negative
+potentials for deposition, however, may circumvent any graphene degradation.
+To test this hypothesis, we finally investigate deposition of Ge from
+TBAGeCl<sub>3</sub> in 12CE.</p><p>In <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a (red) we find that for TBAGeCl<sub>3</sub> in 12CE on graphene, the onset of reduction is at 0.115 V versus
+Zn/Zn<sup>2+</sup>. This is by far less negative than that of Zn(II)
+and well within the above established potential window of graphene
+in 12 CE. No clear reduction peak for TBAGeCl<sub>3</sub> on graphene
+is observed in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a (red), but only a steady increase of the cathodic current with
+a nucleation overpotential of about 150 mV. As shown by SEM in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>b, this electrochemical
+behavior corresponds to successful Ge deposition on the graphene (here
+shown after potentiostatic Ge deposition at &#x02212;0.3 V for 260
+s). In contrast to the Zn deposition, no gradient in the amount of
+deposited Ge with respect to the macroscopic distance from the electrolyte
+meniscus is observed. Instead, we find the same Ge morphology near
+and far from the electrolyte meniscus. As seen in the SEM images in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>b, the Ge is composed
+of individual islands with lateral sizes ranging from &#x02248; 100
+nm to &#x02248; 800 nm while having a rather uniform height of &#x02248;
+50 nm (AFM in Supporting Information <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf">Figure S8</ext-link>). These individual islands start to form a coherent layer at longer
+deposition times (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>d, potentiostatic deposition at &#x02212;0.3 V for 7000 s).
+Additional EDX and XRD characterization in Supporting Information <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf">Figure S9</ext-link> identifies the deposits as amorphous
+Ge nanoparticles. Importantly, the Raman spectrum of the Ge-coated
+graphene electrode in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>c shows no emergence of a defect-related D peak, but fully
+resembles the Raman spectrum of the as-fabricated, high quality graphene.
+Furthermore macroscopically, no graphene degradation is observed (Supporting
+Information <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf">Figure S10</ext-link>). This indicates
+in agreement with our hypothesis that electrodeposition from 12CE
+at moderate cathodic potentials can readily be carried out on graphene
+without degradation of the graphene quality. The absence of a gradient
+in the Ge deposit homogeneity along the electrode length, combined
+with the retained high graphene quality observed in Raman after Ge
+deposition, corroborates our above suggestion that the defect formation
+in graphene at strongly cathodic potentials (as observed for potentiodynamic
+Zn deposition) is the compounding factor to cause a large enough <italic>iR</italic> drop, which results in a macroscopic deposit gradient
+(as observed above for Zn). A second factor that affects the local
+current density during Ge deposition probably is the electric conductivity
+of germanium. In contrast to zinc, the conductivity of germanium is
+smaller by six orders of magnitude compared to that of the graphene
+monolayer.<sup><xref ref-type="bibr" rid="ref75">75</xref></sup> As a result, the local current
+density on the uncoated graphene area increases during the deposition,
+favoring two-dimensional growth of Ge with uniform thickness (Supporting
+Information <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf">Figure S8</ext-link>) toward the formation
+of a coherent layer (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>d).</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>TBAGeCl<sub>3</sub> in 12CE: (a) Cyclic voltammetry of TBAGeCl<sub>3</sub>/12CE at graphene (<italic>A</italic> &#x02248; 0.3 cm<sup>2</sup>) and glassy carbon (<italic>A</italic> = 0.07 cm<sup>2</sup>) electrodes, <italic>v</italic> = 50 mV s<sup>&#x02013;1</sup>, Pt
+gauze auxiliary electrode, and Zn/Zn<sup>2+</sup> RE. Arrows indicate
+the sweep direction. For comparison, also voltammetric background
+cycles in neat 12 CE from <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref> are plotted. (b) SEM image of a graphene electrode
+with potentiostatically deposited Ge (&#x02212;0.3 V for 260 s). Corresponding
+AFM data is shown in Supporting Information <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf">Figure S8</ext-link>. White arrows indicate wrinkles in the graphene at which
+Ge islands nucleated. (c) Raman spectrum of a graphene electrode with
+potentiostatically deposited Ge. (d) SEM image of a graphene electrode
+with potentiostatically deposited Ge (&#x02212;0.3 V for 7000 s).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am0c11467_0007" id="gr6" position="float"/></fig><p>The cyclic voltammogram for Ge electrodeposition
+on graphene (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a, red) shows a steady
+increase of cathodic current and a nucleation overpotential/loop.
+In contrast, on glassy carbon (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a, black) a clear reduction peak at 0.052 V vs Zn/Zn<sup>2+</sup> without significant nucleation overpotential is seen. This
+difference between the two electrode materials suggests that nucleation
+is more difficult on the graphene compared to the glassy carbon. This
+could be related to a higher nucleation barrier on the structurally
+highly defined graphene basal plane compared to the less defined glassy
+carbon surface.<sup><xref ref-type="bibr" rid="ref76">76</xref></sup> A close inspection of
+the Ge islands shown in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>b and Supporting Information <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf">Figure S8</ext-link> supports this hypothesis, as we find several examples (white arrows)
+where Ge nanoparticles nucleated preferentially over wrinkles in the
+graphene film instead of on the basal plane. Wrinkles are known to
+be preferred sites for nucleation of ad-deposits on graphene because
+of their higher electrochemical activity and surface energy compared
+to the graphene basal plane.<sup><xref ref-type="bibr" rid="ref58">58</xref></sup> Thereby
+our observations confirm that also for a DES such as 12CE graphene&#x02019;s
+higher reactivity sites such as wrinkles show variations in their
+electrochemical properties compared to the graphene basal plane, which
+translate to spatial differences in electrodeposition.</p></sec></sec><sec id="sec4"><title>Conclusions</title><p>In summary, we have determined the potential limits of graphene
+monolayer electrodes in neat 12CE upon cathodic and anodic sweeps
+and elucidated apparent electron transfer kinetics of the outer-sphere
+ferrocene/ferrocenium couple. We suggest that the observed lower stability
+in the cathodic regime is linked to electrochemical formation of radicals
+during choline reduction, which attack and degrade the monolayer graphene.
+By comparison to common glassy carbon bulk electrodes, we have found
+that the two-dimensional nature of our graphene electrodes critically
+impacts DES electrochemistry. For potentiodynamic Zn deposition from
+ZnCl<sub>2</sub> in 12CE, for instance, a significant <italic>iR</italic> drop over the length of the graphene electrode, which is enhanced
+by the aforementioned radical attack, resulted in spatially graded
+amounts of deposited Zn. The spatial inhomogeneity of the zinc deposits
+and the graphene degradation are interrelated via graphene&#x02019;s
+two-dimensional nature in which defects generated in the topmost (and
+only) layer decrease the overall electrode conductivity. This is in
+stark contrast to bulk carbon electrodes such as glassy carbon or
+HOPG for which the overall conductivity is hardly affected by defects
+in the topmost atomic layer and for which generated defects might
+even increase their electrochemical activity. For graphene in DESs,
+both the graphene degradation and the spatial inhomogeneity of deposits
+can however be avoided by potentiostatic deposition at less cathodic
+potentials. This was demonstrated by uniform electrodeposition of
+Ge from TBAGeCl<sub>3</sub> in 12CE onto graphene monolayer electrodes
+without any degradation of the graphene. Combined, our work highlights
+that while some aspects of the electrochemical behavior of graphene
+in 12CE are similar to those of bulk carbon materials such as glassy
+carbon or HOPG, other aspects in the graphene/12CE system are unique,
+because of graphene&#x02019;s two-dimensional nature. These findings
+merit consideration for processing of graphene and related carbon
+(composite) materials in choline chloride-based DESs and for the application
+of these materials in such electrolytes.</p></sec></body><back><notes id="notes4" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsami.0c11467?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsami.0c11467</ext-link>.<list id="silist" list-type="simple"><list-item><p>Calculation of <italic>iR</italic> drop, optical microscopy,
+cyclic voltammograms with Randles&#x02013;Sevcik plot, Raman and EDX
+spectra, X-ray diffraction patterns, additional SEM data, and AFM
+data (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am0c11467_si_001.pdf"><caption><p>am0c11467_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes3"><title>Author Present Address</title><p><sup>&#x000a7;</sup> Present address: Institute for Applied Physics, Eberhard Karls
+University of Tuebingen, Auf der Morgenstelle 10, D-72076 Tuebingen,
+Germany and Natural and Medical Sciences Institute at the University
+of Tuebingen, Markwiesenstr. 55, D-72770, Reutlingen, Germany</p></notes><notes notes-type="" id="notes2"><title>Author Present Address</title><p><sup>$</sup> Present address: Institute of Energy Technology, University
+of
+Duisburg-Essen, Lotharstra&#x000df;e 1, D-47048 Duisburg, Germany.</p></notes><notes notes-type="" id="notes1"><title>Author Contributions</title><p><sup>#</sup> D.F. and B.C.B. contributed equally to this work.</p></notes><notes notes-type="COI-statement" id="NOTES-d7e1495-autogenerated"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>B.C.B. acknowledges funding from the European Union&#x02019;s
+Horizon 2020 research and innovation program under the Marie Sk&#x0006c;&#x00337;odowska-Curie
+Grant Agreement 656214-2DInterFOX. B.C.B. and R.A.W. gratefully acknowledge
+funding from TU Wien&#x02019;s competitive Innovative Projects program.
+J.C.M. acknowledges the Austrian Science Fund (FWF) under project
+P25721-N20. G.L.S. and R.A.W. acknowledge support from the Austrian
+Science Fund (FWF): Y1174-N36. We also acknowledge the use of the
+facilities at the University Service Centre for Transmission Electron
+Microscopy (USTEM) and at the X-ray Center (XRC), Vienna University
+of Technology (TU Wien), Austria for parts of this work. D.F. and
+B.G. gratefully acknowledge financial support (Grant No. F-AF5-638-01)
+through the Competitive Initial Funding Programme in the Field of
+Expertise <italic>Advanced Materials Science</italic> of the Graz
+University of Technology. The authors thank Jennifer Burt at the University
+of Southampton for a generous gift of TBAGeCl<sub>3</sub>.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Ambrosi</surname><given-names>A.</given-names></name>; <name><surname>Chua</surname><given-names>C. K.</given-names></name>; <name><surname>Bonanni</surname><given-names>A.</given-names></name>; <name><surname>Pumera</surname><given-names>M.</given-names></name>
+<article-title>Electrochemistry of
+Graphene and Related Materials</article-title>. <source>Chem. Rev.</source>
+<year>2014</year>, <volume>114</volume>, <fpage>7150</fpage>&#x02013;<lpage>7188</lpage>. <pub-id pub-id-type="doi">10.1021/cr500023c</pub-id>.<pub-id pub-id-type="pmid">24895834</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="book" id="cit2"><person-group><name><surname>Alkire</surname><given-names>R. C.</given-names></name>, <name><surname>Bartlett</surname><given-names>P. N.</given-names></name>, <name><surname>Lipkowski</surname><given-names>J.</given-names></name></person-group>, Eds. <article-title>Electrochemistry of Graphene</article-title>. In <source>Electrochemistry of Carbon Electrodes (Advances in Electrochemical
+Science and Engineering)</source>; <person-group person-group-type="allauthors"><name><surname>Patten</surname><given-names>H. V.</given-names></name>; <name><surname>Velick&#x000fd;</surname><given-names>M.</given-names></name>; <name><surname>Dryfe</surname><given-names>R.
+A. W.</given-names></name>, Eds.</person-group>; Vol. 16, <publisher-name>John Wiley &#x00026; Sons</publisher-name>: <year>2015</year>; pp. <fpage>121</fpage>&#x02013;<lpage>162</lpage>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Galhena</surname><given-names>D. T. L.</given-names></name>; <name><surname>Bayer</surname><given-names>B. C.</given-names></name>; <name><surname>Hofmann</surname><given-names>S.</given-names></name>; <name><surname>Amaratunga</surname><given-names>G. A. J.</given-names></name>
+<article-title>Understanding
+Capacitance Variation in Sub-Nanometer Pores by in Situ Tuning of
+Interlayer Constrictions</article-title>. <source>ACS Nano</source>
+<year>2016</year>, <volume>10</volume>, <fpage>747</fpage>&#x02013;<lpage>754</lpage>. <pub-id pub-id-type="doi">10.1021/acsnano.5b05819</pub-id>.<pub-id pub-id-type="pmid">26714196</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Galhena</surname><given-names>D. T. L.</given-names></name>; <name><surname>Bayer</surname><given-names>B. C.</given-names></name>; <name><surname>Meyer</surname><given-names>J. C.</given-names></name>; <name><surname>Hofmann</surname><given-names>S.</given-names></name>; <name><surname>Amaratunga</surname><given-names>G. A. J.</given-names></name>
+<article-title>Reduced
+Graphene Oxide as a Monolithic Multifunctional Conductive Binder for
+Activated Carbon Supercapacitors</article-title>. <source>ACS Omega</source>
+<year>2018</year>, <volume>3</volume>, <fpage>9246</fpage>&#x02013;<lpage>9255</lpage>. <pub-id pub-id-type="doi">10.1021/acsomega.8b01075</pub-id>.<pub-id pub-id-type="pmid">30197998</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Lomax</surname><given-names>D. J.</given-names></name>; <name><surname>Dryfe</surname><given-names>R. A. W.</given-names></name>
+<article-title>Electrodeposition of Au on Basal
+Plane Graphite and
+Graphene</article-title>. <source>J. Electroanal. Chem.</source>
+<year>2018</year>, <volume>819</volume>, <fpage>374</fpage>&#x02013;<lpage>383</lpage>. <pub-id pub-id-type="doi">10.1016/j.jelechem.2017.11.023</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Yoon</surname><given-names>T.</given-names></name>; <name><surname>Kim</surname><given-names>J.-H.</given-names></name>; <name><surname>Choi</surname><given-names>J. H.</given-names></name>; <name><surname>Jung</surname><given-names>D. Y.</given-names></name>; <name><surname>Park</surname><given-names>I.-J.</given-names></name>; <name><surname>Choi</surname><given-names>S.-Y.</given-names></name>; <name><surname>Cho</surname><given-names>N. S.</given-names></name>; <name><surname>Lee</surname><given-names>J.-I.</given-names></name>; <name><surname>Kwon</surname><given-names>Y.-D.</given-names></name>; <name><surname>Cho</surname><given-names>S.</given-names></name>; <name><surname>Kim</surname><given-names>T.-S.</given-names></name>
+<article-title>Healing
+Graphene Defects Using Selective Electrochemical
+Deposition: Toward Flexible and Stretchable Devices</article-title>. <source>ACS Nano</source>
+<year>2016</year>, <volume>10</volume>, <fpage>1539</fpage>&#x02013;<lpage>1545</lpage>. <pub-id pub-id-type="doi">10.1021/acsnano.5b07098</pub-id>.<pub-id pub-id-type="pmid">26715053</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Bosch-Navarro</surname><given-names>C.</given-names></name>; <name><surname>Rourke</surname><given-names>J. P.</given-names></name>; <name><surname>Wilson</surname><given-names>N. R.</given-names></name>
+<article-title>Controlled
+Electrochemical and Electroless
+Deposition of Noble Metal Nanoparticles on Graphene</article-title>. <source>RSC Adv.</source>
+<year>2016</year>, <volume>6</volume>, <fpage>73790</fpage>&#x02013;<lpage>73796</lpage>. <pub-id pub-id-type="doi">10.1039/C6RA14836K</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Rengaraj</surname><given-names>A.</given-names></name>; <name><surname>Haldorai</surname><given-names>Y.</given-names></name>; <name><surname>Kwak</surname><given-names>C. H.</given-names></name>; <name><surname>Ahn</surname><given-names>S.</given-names></name>; <name><surname>Jeon</surname><given-names>K.-J.</given-names></name>; <name><surname>Park</surname><given-names>S. H.</given-names></name>; <name><surname>Han</surname><given-names>Y.-K.</given-names></name>; <name><surname>Huh</surname><given-names>Y. S.</given-names></name>
+<article-title>Electrodeposition
+of Flower-like Nickel Oxide on CVD-Grown Graphene to Develop an Electrochemical
+Non-Enzymatic Biosensor</article-title>. <source>J. Mater. Chem. B</source>
+<year>2015</year>, <volume>3</volume>, <fpage>6301</fpage>&#x02013;<lpage>6309</lpage>. <pub-id pub-id-type="doi">10.1039/C5TB00908A</pub-id>.<pub-id pub-id-type="pmid">32262749</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="book" id="cit9"><person-group person-group-type="allauthors"><name><surname>Alkire</surname><given-names>R. C.</given-names></name>, <name><surname>Bartlett</surname><given-names>P. N.</given-names></name>, <name><surname>Lipkowski</surname><given-names>J.</given-names></name></person-group>, Eds.; <source>Electrochemistry
+of Carbon Electrodes (Advances in Electrochemical Science and Engineering)</source>, Vol. <volume>16</volume>; <publisher-name>John Wiley &#x00026; Sons</publisher-name>: <year>2015</year>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Paek</surname><given-names>E.</given-names></name>; <name><surname>Pak</surname><given-names>A. J.</given-names></name>; <name><surname>Hwang</surname><given-names>G. S.</given-names></name>
+<article-title>A Computational
+Study of the Interfacial
+Structure and Capacitance of Graphene in [BMIM][PF6] Ionic Liquid</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2013</year>, <volume>160</volume>, <fpage>A1</fpage>&#x02013;<lpage>A10</lpage>. <pub-id pub-id-type="doi">10.1149/2.019301jes</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Uysal</surname><given-names>A.</given-names></name>; <name><surname>Zhou</surname><given-names>H.</given-names></name>; <name><surname>Feng</surname><given-names>G.</given-names></name>; <name><surname>Lee</surname><given-names>S. S.</given-names></name>; <name><surname>Li</surname><given-names>S.</given-names></name>; <name><surname>Fenter</surname><given-names>P.</given-names></name>; <name><surname>Cummings</surname><given-names>P. T.</given-names></name>; <name><surname>Fulvio</surname><given-names>P. F.</given-names></name>; <name><surname>Dai</surname><given-names>S.</given-names></name>; <name><surname>McDonough</surname><given-names>J. K.</given-names></name>; <name><surname>Gogotsi</surname><given-names>Y.</given-names></name>
+<article-title>Structural Origins of Potential Dependent
+Hysteresis at the Electrified Graphene/Ionic Liquid Interface</article-title>. <source>J. Phys. Chem. C</source>
+<year>2013</year>, <volume>118</volume>, <fpage>569</fpage>&#x02013;<lpage>574</lpage>. <pub-id pub-id-type="doi">10.1021/jp4111025</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Oll</surname><given-names>O.</given-names></name>; <name><surname>Romann</surname><given-names>T.</given-names></name>; <name><surname>Lust</surname><given-names>E.</given-names></name>
+<article-title>An Infrared
+Study of the Few-Layer
+Graphene| Ionic Liquid Interface: Reintroduction of in Situ Electroreflectance
+Spectroscopy</article-title>. <source>Electrochem. Commun.</source>
+<year>2014</year>, <volume>46</volume>, <fpage>22</fpage>&#x02013;<lpage>25</lpage>. <pub-id pub-id-type="doi">10.1016/j.elecom.2014.05.023</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>M&#x000e9;ndez-Morales</surname><given-names>T.</given-names></name>; <name><surname>Carrete</surname><given-names>J.</given-names></name>; <name><surname>P&#x000e9;rez-Rodr&#x000ed;guez</surname><given-names>M.</given-names></name>; <name><surname>Cabeza</surname><given-names>&#x000d3;.</given-names></name>; <name><surname>Gallego</surname><given-names>L. J.</given-names></name>; <name><surname>Lynden-Bell</surname><given-names>R. M.</given-names></name>; <name><surname>Varela</surname><given-names>L. M.</given-names></name>
+<article-title>Molecular Dynamics Simulations of the Structure of
+the Graphene&#x02013;Ionic Liquid/Alkali Salt Mixtures Interface</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2014</year>, <volume>16</volume>, <fpage>13271</fpage>&#x02013;<lpage>13278</lpage>. <pub-id pub-id-type="doi">10.1039/C4CP00918E</pub-id>.<pub-id pub-id-type="pmid">24871696</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Ivani&#x00161;t&#x00161;ev</surname><given-names>V.</given-names></name>; <name><surname>Fedorov</surname><given-names>M. V.</given-names></name>; <name><surname>Lynden-Bell</surname><given-names>R. M.</given-names></name>
+<article-title>Screening of Ion&#x02013;Graphene
+Electrode Interactions by Ionic Liquids: The Effects of Liquid Structure</article-title>. <source>J. Phys. Chem. C</source>
+<year>2014</year>, <volume>118</volume>, <fpage>5841</fpage>&#x02013;<lpage>5847</lpage>. <pub-id pub-id-type="doi">10.1021/jp4120783</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Paek</surname><given-names>E.</given-names></name>; <name><surname>Pak</surname><given-names>A. J.</given-names></name>; <name><surname>Hwang</surname><given-names>G. S.</given-names></name>
+<article-title>On the
+Influence of Polarization
+Effects in Predicting the Interfacial Structure and Capacitance of
+Graphene-like Electrodes in Ionic Liquids</article-title>. <source>J.
+Chem. Phys.</source>
+<year>2015</year>, <volume>142</volume>, <fpage>024701</fpage><pub-id pub-id-type="doi">10.1063/1.4905328</pub-id>.<pub-id pub-id-type="pmid">25591371</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Begi&#x00107;</surname><given-names>S.</given-names></name>; <name><surname>J&#x000f3;nsson</surname><given-names>E.</given-names></name>; <name><surname>Chen</surname><given-names>F.</given-names></name>; <name><surname>Forsyth</surname><given-names>M.</given-names></name>
+<article-title>Molecular Dynamics
+Simulations of Pyrrolidinium and Imidazolium Ionic Liquids at Graphene
+Interfaces</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2017</year>, <volume>19</volume>, <fpage>30010</fpage>&#x02013;<lpage>30020</lpage>. <pub-id pub-id-type="doi">10.1039/C7CP03389C</pub-id>.<pub-id pub-id-type="pmid">29094121</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Williams</surname><given-names>C. D.</given-names></name>; <name><surname>Dix</surname><given-names>J.</given-names></name>; <name><surname>Troisi</surname><given-names>A.</given-names></name>; <name><surname>Carbone</surname><given-names>P.</given-names></name>
+<article-title>Effective Polarization in Pairwise
+Potentials at the Graphene&#x02013;Electrolyte Interface</article-title>. <source>J. Phys. Chem. Lett.</source>
+<year>2017</year>, <volume>8</volume>, <fpage>703</fpage>&#x02013;<lpage>708</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpclett.6b02783</pub-id>.<pub-id pub-id-type="pmid">28121448</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Zhang</surname><given-names>Q.</given-names></name>; <name><surname>Vigier</surname><given-names>K. d. O.</given-names></name>; <name><surname>Royer</surname><given-names>S.</given-names></name>; <name><surname>J&#x000e9;r&#x000f4;me</surname><given-names>F.</given-names></name>
+<article-title>Deep Eutectic
+Solvents: Syntheses, Properties and Application</article-title>. <source>Chem. Soc. Rev.</source>
+<year>2012</year>, <volume>41</volume>, <fpage>7108</fpage>&#x02013;<lpage>7146</lpage>. <pub-id pub-id-type="doi">10.1039/c2cs35178a</pub-id>.<pub-id pub-id-type="pmid">22806597</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Smith</surname><given-names>E. L.</given-names></name>; <name><surname>Abbott</surname><given-names>A. P.</given-names></name>; <name><surname>Ryder</surname><given-names>K. S.</given-names></name>
+<article-title>Deep Eutectic
+Solvents (DESs) and
+Their Applications</article-title>. <source>Chem. Rev.</source>
+<year>2014</year>, <volume>114</volume>, <fpage>11060</fpage>&#x02013;<lpage>11082</lpage>. <pub-id pub-id-type="doi">10.1021/cr300162p</pub-id>.<pub-id pub-id-type="pmid">25300631</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Paiva</surname><given-names>A.</given-names></name>; <name><surname>Craveiro</surname><given-names>R.</given-names></name>; <name><surname>Aroso</surname><given-names>I.</given-names></name>; <name><surname>Martins</surname><given-names>M.</given-names></name>; <name><surname>Reis</surname><given-names>R. L.</given-names></name>; <name><surname>Duarte</surname><given-names>A. R. C.</given-names></name>
+<article-title>Natural Deep Eutectic Solvents&#x02013;Solvents for
+the 21st Century</article-title>. <source>ACS Sustain. Chem. Eng.</source>
+<year>2014</year>, <volume>2</volume>, <fpage>1063</fpage>&#x02013;<lpage>1071</lpage>. <pub-id pub-id-type="doi">10.1021/sc500096j</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="book" id="cit21"><person-group person-group-type="editor"><name><surname>Endres</surname><given-names>F.</given-names></name>; <name><surname>Abbott</surname><given-names>A.</given-names></name>; <name><surname>MacFarlane</surname><given-names>D. R.</given-names></name></person-group>, Eds.; <source>Electrodeposition
+from Ionic Liquids</source>; <publisher-name>John Wiley &#x00026; Sons</publisher-name>, <year>2017</year>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Abbott</surname><given-names>A.
+P.</given-names></name>; <name><surname>Frisch</surname><given-names>G.</given-names></name>; <name><surname>Gurman</surname><given-names>S. J.</given-names></name>; <name><surname>Hillman</surname><given-names>A. R.</given-names></name>; <name><surname>Hartley</surname><given-names>J.</given-names></name>; <name><surname>Holyoak</surname><given-names>F.</given-names></name>; <name><surname>Ryder</surname><given-names>K. S.</given-names></name>
+<article-title>Ionometallurgy: Designer Redox Properties
+for Metal Processing</article-title>. <source>Chem. Commun.</source>
+<year>2011</year>, <volume>47</volume>, <fpage>10031</fpage>&#x02013;<lpage>10033</lpage>. <pub-id pub-id-type="doi">10.1039/c1cc13616j</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Abo-Hamad</surname><given-names>A.</given-names></name>; <name><surname>Hayyan</surname><given-names>M.</given-names></name>; <name><surname>AlSaadi</surname><given-names>M. A.</given-names></name>; <name><surname>Hashim</surname><given-names>M. A.</given-names></name>
+<article-title>Potential Applications
+of Deep Eutectic Solvents in Nanotechnology</article-title>. <source>Chem. Eng. J.</source>
+<year>2015</year>, <volume>273</volume>, <fpage>551</fpage>&#x02013;<lpage>567</lpage>. <pub-id pub-id-type="doi">10.1016/j.cej.2015.03.091</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Wagle</surname><given-names>D. V.</given-names></name>; <name><surname>Zhao</surname><given-names>H.</given-names></name>; <name><surname>Baker</surname><given-names>G. A.</given-names></name>
+<article-title>Deep Eutectic
+Solvents: Sustainable
+Media for Nanoscale and Functional Materials</article-title>. <source>Acc. Chem. Res.</source>
+<year>2014</year>, <volume>47</volume>, <fpage>2299</fpage>&#x02013;<lpage>2308</lpage>. <pub-id pub-id-type="doi">10.1021/ar5000488</pub-id>.<pub-id pub-id-type="pmid">24892971</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Alonso</surname><given-names>D. A.</given-names></name>; <name><surname>Baeza</surname><given-names>A.</given-names></name>; <name><surname>Chinchilla</surname><given-names>R.</given-names></name>; <name><surname>Guillena</surname><given-names>G.</given-names></name>; <name><surname>Pastor</surname><given-names>I. M.</given-names></name>; <name><surname>Ram&#x000f3;n</surname><given-names>D. J.</given-names></name>
+<article-title>Deep Eutectic
+Solvents: The Organic Reaction Medium
+of the Century</article-title>. <source>Eur. J. Org. Chem.</source>
+<year>2016</year>, <volume>2016</volume>, <fpage>612</fpage>&#x02013;<lpage>632</lpage>. <pub-id pub-id-type="doi">10.1002/ejoc.201501197</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Tang</surname><given-names>X.</given-names></name>; <name><surname>Zuo</surname><given-names>M.</given-names></name>; <name><surname>Li</surname><given-names>Z.</given-names></name>; <name><surname>Liu</surname><given-names>H.</given-names></name>; <name><surname>Xiong</surname><given-names>C.</given-names></name>; <name><surname>Zeng</surname><given-names>X.</given-names></name>; <name><surname>Sun</surname><given-names>Y.</given-names></name>; <name><surname>Hu</surname><given-names>L.</given-names></name>; <name><surname>Liu</surname><given-names>S.</given-names></name>; <name><surname>Lei</surname><given-names>T.</given-names></name>; <name><surname>Lu</surname><given-names>L.</given-names></name>
+<article-title>Green Processing
+of Lignocellulosic Biomass and Its Derivatives in Deep Eutectic Solvents</article-title>. <source>ChemSusChem</source>
+<year>2017</year>, <volume>10</volume>, <fpage>2696</fpage>&#x02013;<lpage>2706</lpage>. <pub-id pub-id-type="doi">10.1002/cssc.201700457</pub-id>.<pub-id pub-id-type="pmid">28425225</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Chakrabarti</surname><given-names>M. H.</given-names></name>; <name><surname>Mjalli</surname><given-names>F. S.</given-names></name>; <name><surname>AlNashef</surname><given-names>I. M.</given-names></name>; <name><surname>Hashim</surname><given-names>M. A.</given-names></name>; <name><surname>Hussain</surname><given-names>M. A.</given-names></name>; <name><surname>Bahadori</surname><given-names>L.</given-names></name>; <name><surname>Low</surname><given-names>C. T. J.</given-names></name>
+<article-title>Prospects
+of Applying Ionic Liquids
+and Deep Eutectic Solvents for Renewable Energy Storage by Means of
+Redox Flow Batteries</article-title>. <source>Renew. Sustain. Energy
+Rev.</source>
+<year>2014</year>, <volume>30</volume>, <fpage>254</fpage>&#x02013;<lpage>270</lpage>. <pub-id pub-id-type="doi">10.1016/j.rser.2013.10.004</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Shen</surname><given-names>Y.</given-names></name>; <name><surname>He</surname><given-names>X.</given-names></name>; <name><surname>Hung</surname><given-names>F. R.</given-names></name>
+<article-title>Structural
+and Dynamical Properties of a Deep Eutectic
+Solvent Confined inside a Slit Pore</article-title>. <source>J. Phys.
+Chem. C</source>
+<year>2015</year>, <volume>119</volume>, <fpage>24489</fpage>&#x02013;<lpage>24500</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.5b08172</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Chen</surname><given-names>Z.</given-names></name>; <name><surname>McLean</surname><given-names>B.</given-names></name>; <name><surname>Ludwig</surname><given-names>M.</given-names></name>; <name><surname>Stefanovic</surname><given-names>R.</given-names></name>; <name><surname>Warr</surname><given-names>G. G.</given-names></name>; <name><surname>Webber</surname><given-names>G. B.</given-names></name>; <name><surname>Page</surname><given-names>A. J.</given-names></name>; <name><surname>Atkin</surname><given-names>R.</given-names></name>
+<article-title>Nanostructure
+of Deep Eutectic Solvents at Graphite Electrode Interfaces as a Function
+of Potential</article-title>. <source>J. Phys. Chem. C</source>
+<year>2016</year>, <volume>120</volume>, <fpage>2225</fpage>&#x02013;<lpage>2233</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.5b10624</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Kaur</surname><given-names>S.</given-names></name>; <name><surname>Sharma</surname><given-names>S.</given-names></name>; <name><surname>Kashyap</surname><given-names>H. K.</given-names></name>
+<article-title>Bulk and Interfacial
+Structures of
+Reline Deep Eutectic Solvent: A Molecular Dynamics Study</article-title>. <source>J. Chem. Phys.</source>
+<year>2017</year>, <volume>147</volume>, <fpage>194507</fpage><pub-id pub-id-type="doi">10.1063/1.4996644</pub-id>.<pub-id pub-id-type="pmid">29166122</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Atilhan</surname><given-names>M.</given-names></name>; <name><surname>Costa</surname><given-names>L. T.</given-names></name>; <name><surname>Aparicio</surname><given-names>S.</given-names></name>
+<article-title>Elucidating
+the Properties of Graphene&#x02013;Deep
+Eutectic Solvents Interface</article-title>. <source>Langmuir</source>
+<year>2017</year>, <volume>33</volume>, <fpage>5154</fpage>&#x02013;<lpage>5165</lpage>. <pub-id pub-id-type="doi">10.1021/acs.langmuir.7b00767</pub-id>.<pub-id pub-id-type="pmid">28485942</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Rozas</surname><given-names>S.</given-names></name>; <name><surname>Atilhan</surname><given-names>M.</given-names></name>; <name><surname>Aparicio</surname><given-names>S.</given-names></name>
+<article-title>Deep Eutectic
+Solvent Reline at 2D
+Nanomaterial Interfaces</article-title>. <source>J. Phys. Chem. B</source>
+<year>2020</year>, <volume>124</volume>, <fpage>1197</fpage>&#x02013;<lpage>1206</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcb.9b08873</pub-id>.<pub-id pub-id-type="pmid">31983208</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Abdelkader</surname><given-names>A. M.</given-names></name>; <name><surname>Patten</surname><given-names>H. V.</given-names></name>; <name><surname>Li</surname><given-names>Z.</given-names></name>; <name><surname>Chen</surname><given-names>Y.</given-names></name>; <name><surname>Kinloch</surname><given-names>I. A.</given-names></name>
+<article-title>Electrochemical
+Exfoliation of Graphite in Quaternary Ammonium-Based Deep Eutectic
+Solvents: A Route for the Mass Production of Graphane</article-title>. <source>Nanoscale</source>
+<year>2015</year>, <volume>7</volume>, <fpage>11386</fpage>&#x02013;<lpage>11392</lpage>. <pub-id pub-id-type="doi">10.1039/C5NR02840J</pub-id>.<pub-id pub-id-type="pmid">26074262</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Abdelkader</surname><given-names>A. M.</given-names></name>; <name><surname>Kinloch</surname><given-names>I. A.</given-names></name>
+<article-title>Mechanochemical
+Exfoliation of 2D Crystals in Deep
+Eutectic Solvents</article-title>. <source>ACS Sustain. Chem. Eng.</source>
+<year>2016</year>, <volume>4</volume>, <fpage>4465</fpage>&#x02013;<lpage>4472</lpage>. <pub-id pub-id-type="doi">10.1021/acssuschemeng.6b01195</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Chakrabarti</surname><given-names>M. H.</given-names></name>; <name><surname>Manan</surname><given-names>N. S. A.</given-names></name>; <name><surname>Brandon</surname><given-names>N. P.</given-names></name>; <name><surname>Maher</surname><given-names>R. C.</given-names></name>; <name><surname>Mjalli</surname><given-names>F. S.</given-names></name>; <name><surname>AlNashef</surname><given-names>I. M.</given-names></name>; <name><surname>Hajimolana</surname><given-names>S. A.</given-names></name>; <name><surname>Hashim</surname><given-names>M. A.</given-names></name>; <name><surname>Hussain</surname><given-names>M. A.</given-names></name>; <name><surname>Nir</surname><given-names>D.</given-names></name>
+<article-title>One-Pot Electrochemical
+Gram-Scale Synthesis of Graphene Using Deep
+Eutectic Solvents and Acetonitrile</article-title>. <source>Chem. Eng.
+J.</source>
+<year>2015</year>, <volume>274</volume>, <fpage>213</fpage>&#x02013;<lpage>223</lpage>. <pub-id pub-id-type="doi">10.1016/j.cej.2015.03.083</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="patent" id="cit36"><person-group person-group-type="allauthors"><name><surname>Turullois</surname><given-names>I. D. M.</given-names></name>; <name><surname>Garc&#x000ed;a</surname><given-names>B. H.</given-names></name>; <name><surname>Morales</surname><given-names>E. A. M.</given-names></name>; <name><surname>Bergas</surname><given-names>E. M.</given-names></name></person-group><article-title>Exfoliation of Graphite with
+Deep Eutectic Solvents</article-title>, <patent>EP3050844A1</patent>, August 18, <year>2016</year>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Xu</surname><given-names>Y.</given-names></name>; <name><surname>Zhu</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>L.</given-names></name>; <name><surname>Du</surname><given-names>X.</given-names></name>; <name><surname>Sun</surname><given-names>X.</given-names></name>
+<article-title>Electrochemically
+Exfoliated High-Yield Graphene in Ambient Temperature Molten Salts
+and Its Application for Flexible Solid-State Supercapacitors</article-title>. <source>Carbon</source>
+<year>2018</year>, <volume>127</volume>, <fpage>392</fpage>&#x02013;<lpage>403</lpage>. <pub-id pub-id-type="doi">10.1016/j.carbon.2017.11.002</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Xiang</surname><given-names>L.</given-names></name>; <name><surname>Shen</surname><given-names>Q.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Bai</surname><given-names>W.</given-names></name>; <name><surname>Nie</surname><given-names>C.</given-names></name>
+<article-title>One-Step Electrodeposited
+Ni-Graphene Composite Coating with Excellent Tribological Properties</article-title>. <source>Surf. Coat. Technol.</source>
+<year>2019</year>, <volume>373</volume>, <fpage>38</fpage><pub-id pub-id-type="doi">10.1016/j.surfcoat.2019.05.074</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Hayyan</surname><given-names>M.</given-names></name>; <name><surname>Abo-Hamad</surname><given-names>A.</given-names></name>; <name><surname>AlSaadi</surname><given-names>M. A.</given-names></name>; <name><surname>Hashim</surname><given-names>M. A.</given-names></name>
+<article-title>Functionalization
+of Graphene Using Deep Eutectic Solvents</article-title>. <source>Nanoscale
+Res. Lett.</source>
+<year>2015</year>, <volume>10</volume>, <fpage>324</fpage><pub-id pub-id-type="doi">10.1186/s11671-015-1004-2</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Pan</surname><given-names>Q.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Ding</surname><given-names>X.</given-names></name>; <name><surname>Xu</surname><given-names>K.</given-names></name>; <name><surname>Li</surname><given-names>N.</given-names></name>; <name><surname>Wen</surname><given-names>Q.</given-names></name>
+<article-title>Magnetic Graphene Oxide Modified
+with Choline Chloride-Based Deep Eutectic Solvent for the Solid-Phase
+Extraction of Protein</article-title>. <source>Anal. Chim. Acta</source>
+<year>2015</year>, <volume>877</volume>, <fpage>90</fpage>&#x02013;<lpage>99</lpage>. <pub-id pub-id-type="doi">10.1016/j.aca.2015.03.048</pub-id>.<pub-id pub-id-type="pmid">26002214</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Fang</surname><given-names>Y. K.</given-names></name>; <name><surname>Osama</surname><given-names>M.</given-names></name>; <name><surname>Rashmi</surname><given-names>W.</given-names></name>; <name><surname>Shahbaz</surname><given-names>K.</given-names></name>; <name><surname>Khalid</surname><given-names>M.</given-names></name>; <name><surname>Mjalli</surname><given-names>F. S.</given-names></name>; <name><surname>Farid</surname><given-names>M. M.</given-names></name>
+<article-title>Synthesis
+and Thermo-Physical Properties
+of Deep Eutectic Solvent-Based Graphene Nanofluids</article-title>. <source>Nanotechnology</source>
+<year>2016</year>, <volume>27</volume>, <elocation-id>075702</elocation-id><pub-id pub-id-type="doi">10.1088/0957-4484/27/7/075702</pub-id>.<pub-id pub-id-type="pmid">26766874</pub-id></mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Abo-Hamad</surname><given-names>A.</given-names></name>; <name><surname>AlSaadi</surname><given-names>M. A.</given-names></name>; <name><surname>Hashim</surname><given-names>M. A.</given-names></name>
+<article-title>Eutectic
+Mixture-Functionalized Carbon
+Nanomaterials for Selective Amperometric Detection of Nitrite Using
+Modified Glassy Carbon Electrode</article-title>. <source>J. Electroanal.
+Chem.</source>
+<year>2018</year>, <volume>812</volume>, <fpage>107</fpage>&#x02013;<lpage>114</lpage>. <pub-id pub-id-type="doi">10.1016/j.jelechem.2018.01.052</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Ju</surname><given-names>Y.-J.</given-names></name>; <name><surname>Lien</surname><given-names>C.-H.</given-names></name>; <name><surname>Chang</surname><given-names>K.-H.</given-names></name>; <name><surname>Hu</surname><given-names>C.-C.</given-names></name>; <name><surname>Wong</surname><given-names>D. S.-H.</given-names></name>
+<article-title>Deep
+Eutectic Solvent-based Ionic Liquid Electrolytes for Electrical Double-layer
+Capacitors</article-title>. <source>J. Chin. Chem. Soc.</source>
+<year>2012</year>, <volume>59</volume>, <fpage>1280</fpage>&#x02013;<lpage>1287</lpage>. <pub-id pub-id-type="doi">10.1002/jccs.201100698</pub-id>.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Kumar</surname><given-names>M. K. P.</given-names></name>; <name><surname>Singh</surname><given-names>M. P.</given-names></name>; <name><surname>Srivastava</surname><given-names>C.</given-names></name>
+<article-title>Electrochemical
+Behavior of Zn&#x02013;Graphene
+Composite Coatings</article-title>. <source>RSC Adv.</source>
+<year>2015</year>, <volume>5</volume>, <fpage>25603</fpage>&#x02013;<lpage>25608</lpage>. <pub-id pub-id-type="doi">10.1039/C5RA02898A</pub-id>.</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Song</surname><given-names>G.</given-names></name>; <name><surname>Li</surname><given-names>S.</given-names></name>; <name><surname>Liu</surname><given-names>G.</given-names></name>; <name><surname>Fu</surname><given-names>Q.</given-names></name>; <name><surname>Pan</surname><given-names>C.</given-names></name>
+<article-title>Influence of Graphene
+Oxide Content on the Zn-Gr Composite Layer Prepared by Pulse Reverse
+Electro-Plating</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2018</year>, <volume>165</volume>, <fpage>D501</fpage>&#x02013;<lpage>D510</lpage>. <pub-id pub-id-type="doi">10.1149/2.0431811jes</pub-id>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Protich</surname><given-names>Z.</given-names></name>; <name><surname>Wong</surname><given-names>P.</given-names></name>; <name><surname>Santhanam</surname><given-names>K. S. V.</given-names></name>
+<article-title>A New
+Graphene Composite with a High
+Coulombic Efficiency</article-title>. <source>J. Power Sources</source>
+<year>2016</year>, <volume>332</volume>, <fpage>337</fpage>&#x02013;<lpage>344</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2016.09.118</pub-id>.</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Ren</surname><given-names>J.-G.</given-names></name>; <name><surname>Wu</surname><given-names>Q.-H.</given-names></name>; <name><surname>Tang</surname><given-names>H.</given-names></name>; <name><surname>Hong</surname><given-names>G.</given-names></name>; <name><surname>Zhang</surname><given-names>W.</given-names></name>; <name><surname>Lee</surname><given-names>S.-T.</given-names></name>
+<article-title>Germanium&#x02013;Graphene
+Composite Anode for High-Energy
+Lithium Batteries with Long Cycle Life</article-title>. <source>J. Mater.
+Chem. A</source>
+<year>2013</year>, <volume>1</volume>, <fpage>1821</fpage>&#x02013;<lpage>1826</lpage>. <pub-id pub-id-type="doi">10.1039/C2TA01286C</pub-id>.</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Zhong</surname><given-names>C.</given-names></name>; <name><surname>Wang</surname><given-names>J.-Z.</given-names></name>; <name><surname>Gao</surname><given-names>X.-W.</given-names></name>; <name><surname>Wexler</surname><given-names>D.</given-names></name>; <name><surname>Liu</surname><given-names>H.-K.</given-names></name>
+<article-title>In Situ
+One-Step Synthesis of a 3D Nanostructured Germanium&#x02013;Graphene
+Composite and Its Application in Lithium-Ion Batteries</article-title>. <source>J. Mater. Chem. A</source>
+<year>2013</year>, <volume>1</volume>, <fpage>10798</fpage>&#x02013;<lpage>10804</lpage>. <pub-id pub-id-type="doi">10.1039/c3ta11796k</pub-id>.</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Kidambi</surname><given-names>P.
+R.</given-names></name>; <name><surname>Bayer</surname><given-names>B. C.</given-names></name>; <name><surname>Blume</surname><given-names>R.</given-names></name>; <name><surname>Wang</surname><given-names>Z.-J.</given-names></name>; <name><surname>Baehtz</surname><given-names>C.</given-names></name>; <name><surname>Weatherup</surname><given-names>R. S.</given-names></name>; <name><surname>Willinger</surname><given-names>M.-G.</given-names></name>; <name><surname>Schloegl</surname><given-names>R.</given-names></name>; <name><surname>Hofmann</surname><given-names>S.</given-names></name>
+<article-title>Observing
+Graphene Grow: Catalyst&#x02013;Graphene Interactions during Scalable
+Graphene Growth on Polycrystalline Copper</article-title>. <source>Nano
+Lett.</source>
+<year>2013</year>, <volume>13</volume>, <fpage>4769</fpage>&#x02013;<lpage>4778</lpage>. <pub-id pub-id-type="doi">10.1021/nl4023572</pub-id>.<pub-id pub-id-type="pmid">24041311</pub-id></mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Whitehead</surname><given-names>A. H.</given-names></name>; <name><surname>P&#x000f6;lzler</surname><given-names>M.</given-names></name>; <name><surname>Gollas</surname><given-names>B.</given-names></name>
+<article-title>Zinc Electrodeposition from a Deep
+Eutectic System Containing Choline Chloride and Ethylene Glycol</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2010</year>, <volume>157</volume>, <fpage>D328</fpage>&#x02013;<lpage>D334</lpage>. <pub-id pub-id-type="doi">10.1149/1.3364930</pub-id>.</mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Vieira</surname><given-names>L.</given-names></name>; <name><surname>Whitehead</surname><given-names>A. H.</given-names></name>; <name><surname>Gollas</surname><given-names>B.</given-names></name>
+<article-title>Mechanistic Studies of Zinc Electrodeposition
+from Deep Eutectic Electrolytes</article-title>. <source>J. Electrochem.
+Soc.</source>
+<year>2014</year>, <volume>161</volume>, <fpage>D7</fpage>&#x02013;<lpage>D13</lpage>. <pub-id pub-id-type="doi">10.1149/2.016401jes</pub-id>.</mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Vieira</surname><given-names>L.</given-names></name>; <name><surname>Schennach</surname><given-names>R.</given-names></name>; <name><surname>Gollas</surname><given-names>B.</given-names></name>
+<article-title>The Effect of the Electrode Material
+on the Electrodeposition of Zinc from Deep Eutectic Solvents</article-title>. <source>Electrochim. Acta</source>
+<year>2016</year>, <volume>197</volume>, <fpage>344</fpage>&#x02013;<lpage>352</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2015.11.030</pub-id>.</mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Vieira</surname><given-names>L.</given-names></name>; <name><surname>Schennach</surname><given-names>R.</given-names></name>; <name><surname>Gollas</surname><given-names>B.</given-names></name>
+<article-title>In Situ PM-IRRAS of a Glassy Carbon
+Electrode/Deep Eutectic Solvent Interface</article-title>. <source>Phys.
+Chem. Chem. Phys.</source>
+<year>2015</year>, <volume>17</volume>, <fpage>12870</fpage>&#x02013;<lpage>12880</lpage>. <pub-id pub-id-type="doi">10.1039/C5CP00070J</pub-id>.<pub-id pub-id-type="pmid">25908481</pub-id></mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Gritzner</surname><given-names>G.</given-names></name>; <name><surname>Kuta</surname><given-names>J.</given-names></name>
+<article-title>Recommendations on
+Reporting Electrode Potentials in Nonaqueous Solvents
+(Recommendations 1983)</article-title>. <source>Pure Appl. Chem.</source>
+<year>1984</year>, <volume>56</volume>, <fpage>461</fpage>&#x02013;<lpage>466</lpage>. <pub-id pub-id-type="doi">10.1351/pac198456040461</pub-id>.</mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>Cai</surname><given-names>W.</given-names></name>; <name><surname>Borysiak</surname><given-names>M.</given-names></name>; <name><surname>Han</surname><given-names>B.</given-names></name>; <name><surname>Chen</surname><given-names>D.</given-names></name>; <name><surname>Piner</surname><given-names>R. D.</given-names></name>; <name><surname>Colombo</surname><given-names>L.</given-names></name>; <name><surname>Ruoff</surname><given-names>R. S.</given-names></name>
+<article-title>Transfer
+of Large-Area
+Graphene Films for High-Performance Transparent Conductive Electrodes</article-title>. <source>Nano Lett.</source>
+<year>2009</year>, <volume>9</volume>, <fpage>4359</fpage>&#x02013;<lpage>4363</lpage>. <pub-id pub-id-type="doi">10.1021/nl902623y</pub-id>.<pub-id pub-id-type="pmid">19845330</pub-id></mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name><surname>Ferrari</surname><given-names>A. C.</given-names></name>
+<article-title>Raman Spectroscopy
+of Graphene and Graphite: Disorder, Electron&#x02013;Phonon Coupling,
+Doping and Nonadiabatic Effects</article-title>. <source>Solid State
+Commun.</source>
+<year>2007</year>, <volume>143</volume>, <fpage>47</fpage>&#x02013;<lpage>57</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssc.2007.03.052</pub-id>.</mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name><surname>Patten</surname><given-names>H. V.</given-names></name>; <name><surname>Velick&#x000fd;</surname><given-names>M.</given-names></name>; <name><surname>Clark</surname><given-names>N.</given-names></name>; <name><surname>Muryn</surname><given-names>C. A.</given-names></name>; <name><surname>Kinloch</surname><given-names>I. A.</given-names></name>; <name><surname>Dryfe</surname><given-names>R. A. W.</given-names></name>
+<article-title>Electrochemistry
+of Well-Defined Graphene Samples:
+Role of Contaminants</article-title>. <source>Faraday Discuss.</source>
+<year>2014</year>, <volume>172</volume>, <fpage>261</fpage>&#x02013;<lpage>272</lpage>. <pub-id pub-id-type="doi">10.1039/C4FD00064A</pub-id>.<pub-id pub-id-type="pmid">25426966</pub-id></mixed-citation></ref><ref id="ref58"><mixed-citation publication-type="journal" id="cit58"><name><surname>Kratzer</surname><given-names>M.</given-names></name>; <name><surname>Bayer</surname><given-names>B. C.</given-names></name>; <name><surname>Kidambi</surname><given-names>P. R.</given-names></name>; <name><surname>Matkovi&#x00107;</surname><given-names>A.</given-names></name>; <name><surname>Gaji&#x00107;</surname><given-names>R.</given-names></name>; <name><surname>Cabrero-Vilatela</surname><given-names>A.</given-names></name>; <name><surname>Weatherup</surname><given-names>R. S.</given-names></name>; <name><surname>Hofmann</surname><given-names>S.</given-names></name>; <name><surname>Teichert</surname><given-names>C.</given-names></name>
+<article-title>Effects of Polymethylmethacrylate-Transfer
+Residues on the Growth of Organic Semiconductor Molecules on Chemical
+Vapor Deposited Graphene</article-title>. <source>Appl. Phys. Lett.</source>
+<year>2015</year>, <volume>106</volume>, <fpage>103101</fpage><pub-id pub-id-type="doi">10.1063/1.4913948</pub-id>.</mixed-citation></ref><ref id="ref59"><mixed-citation publication-type="journal" id="cit59"><name><surname>Bartlett</surname><given-names>P. N.</given-names></name>; <name><surname>Cummings</surname><given-names>C. Y.</given-names></name>; <name><surname>Levason</surname><given-names>W.</given-names></name>; <name><surname>Pugh</surname><given-names>D.</given-names></name>; <name><surname>Reid</surname><given-names>G.</given-names></name>
+<article-title>Halometallate
+Complexes of Germanium (II) and (IV): Probing the Role of Cation,
+Oxidation State and Halide on the Structural and Electrochemical Properties</article-title>. <source>Chem. Eur. J.</source>
+<year>2014</year>, <volume>20</volume>, <fpage>5019</fpage>&#x02013;<lpage>5027</lpage>. <pub-id pub-id-type="doi">10.1002/chem.201400179</pub-id>.<pub-id pub-id-type="pmid">24644266</pub-id></mixed-citation></ref><ref id="ref60"><mixed-citation publication-type="journal" id="cit60"><name><surname>Elibol</surname><given-names>K.</given-names></name>; <name><surname>Bayer</surname><given-names>B. C.</given-names></name>; <name><surname>Hummel</surname><given-names>S.</given-names></name>; <name><surname>Kotakoski</surname><given-names>J.</given-names></name>; <name><surname>Argentero</surname><given-names>G.</given-names></name>; <name><surname>Meyer</surname><given-names>J. C.</given-names></name>
+<article-title>Visualising the Strain Distribution
+in Suspended Two-Dimensional Materials under Local Deformation</article-title>. <source>Sci. Rep.</source>
+<year>2016</year>, <volume>6</volume>, <fpage>28485</fpage><pub-id pub-id-type="doi">10.1038/srep28485</pub-id>.<pub-id pub-id-type="pmid">27346485</pub-id></mixed-citation></ref><ref id="ref61"><mixed-citation publication-type="journal" id="cit61"><name><surname>Haerens</surname><given-names>K.</given-names></name>; <name><surname>Matthijs</surname><given-names>E.</given-names></name>; <name><surname>Binnemans</surname><given-names>K.</given-names></name>; <name><surname>Van der Bruggen</surname><given-names>B.</given-names></name>
+<article-title>Electrochemical
+Decomposition of Choline Chloride Based Ionic Liquid Analogues</article-title>. <source>Green Chem.</source>
+<year>2009</year>, <volume>11</volume>, <fpage>1357</fpage>&#x02013;<lpage>1365</lpage>. <pub-id pub-id-type="doi">10.1039/b906318h</pub-id>.</mixed-citation></ref><ref id="ref62"><mixed-citation publication-type="book" id="cit62"><person-group person-group-type="allauthors"><name><surname>Brownson</surname><given-names>D. A. C.</given-names></name>; <name><surname>Banks</surname><given-names>C. E.</given-names></name></person-group><source>The Handbook of Graphene
+Electrochemistry</source>; <publisher-name>Springer</publisher-name>: <publisher-loc>London</publisher-loc>, <year>2014</year>.</mixed-citation></ref><ref id="ref63"><mixed-citation publication-type="journal" id="cit63"><name><surname>Banhart</surname><given-names>F.</given-names></name>; <name><surname>Kotakoski</surname><given-names>J.</given-names></name>; <name><surname>Krasheninnikov</surname><given-names>A. V.</given-names></name>
+<article-title>Structural
+Defects in Graphene</article-title>. <source>ACS Nano</source>
+<year>2011</year>, <volume>5</volume>, <fpage>26</fpage>&#x02013;<lpage>41</lpage>. <pub-id pub-id-type="doi">10.1021/nn102598m</pub-id>.<pub-id pub-id-type="pmid">21090760</pub-id></mixed-citation></ref><ref id="ref64"><mixed-citation publication-type="journal" id="cit64"><name><surname>Lillethorup</surname><given-names>M.</given-names></name>; <name><surname>Kongsfelt</surname><given-names>M.</given-names></name>; <name><surname>Ceccato</surname><given-names>M.</given-names></name>; <name><surname>Jensen</surname><given-names>B. B. E.</given-names></name>; <name><surname>J&#x000f8;rgensen</surname><given-names>B.</given-names></name>; <name><surname>Pedersen</surname><given-names>S. U.</given-names></name>; <name><surname>Daasbjerg</surname><given-names>K.</given-names></name>
+<article-title>High-versus Low-Quality Graphene:
+A Mechanistic Investigation of Electrografted Diazonium-Based Films
+for Growth of Polymer Brushes</article-title>. <source>Small</source>
+<year>2014</year>, <volume>10</volume>, <fpage>922</fpage>&#x02013;<lpage>934</lpage>. <pub-id pub-id-type="doi">10.1002/smll.201301915</pub-id>.<pub-id pub-id-type="pmid">24745057</pub-id></mixed-citation></ref><ref id="ref65"><mixed-citation publication-type="journal" id="cit65"><name><surname>Koefoed</surname><given-names>L.</given-names></name>; <name><surname>Pedersen</surname><given-names>E. B.</given-names></name>; <name><surname>Thyssen</surname><given-names>L.</given-names></name>; <name><surname>Vinther</surname><given-names>J.</given-names></name>; <name><surname>Kristiansen</surname><given-names>T.</given-names></name>; <name><surname>Pedersen</surname><given-names>S. U.</given-names></name>; <name><surname>Daasbjerg</surname><given-names>K.</given-names></name>
+<article-title>Functionalizing
+Arrays of Transferred
+Monolayer Graphene on Insulating Surfaces by Bipolar Electrochemistry</article-title>. <source>Langmuir</source>
+<year>2016</year>, <volume>32</volume>, <fpage>6289</fpage>&#x02013;<lpage>6296</lpage>. <pub-id pub-id-type="doi">10.1021/acs.langmuir.6b01309</pub-id>.<pub-id pub-id-type="pmid">27299175</pub-id></mixed-citation></ref><ref id="ref66"><mixed-citation publication-type="journal" id="cit66"><name><surname>Gao</surname><given-names>L.</given-names></name>; <name><surname>Ren</surname><given-names>W.</given-names></name>; <name><surname>Xu</surname><given-names>H.</given-names></name>; <name><surname>Jin</surname><given-names>L.</given-names></name>; <name><surname>Wang</surname><given-names>Z.</given-names></name>; <name><surname>Ma</surname><given-names>T.</given-names></name>; <name><surname>Ma</surname><given-names>L.-P.</given-names></name>; <name><surname>Zhang</surname><given-names>Z.</given-names></name>; <name><surname>Fu</surname><given-names>Q.</given-names></name>; <name><surname>Peng</surname><given-names>L.-M.</given-names></name>; <name><surname>Bao</surname><given-names>X.</given-names></name>; <name><surname>Cheng</surname><given-names>H.-M.</given-names></name>
+<article-title>Repeated Growth
+and Bubbling Transfer of Graphene with
+Millimetre-Size Single-Crystal Grains Using Platinum</article-title>. <source>Nat. Commun.</source>
+<year>2012</year>, <volume>3</volume>, <fpage>699</fpage><pub-id pub-id-type="doi">10.1038/ncomms1702</pub-id>.<pub-id pub-id-type="pmid">22426220</pub-id></mixed-citation></ref><ref id="ref67"><mixed-citation publication-type="journal" id="cit67"><name><surname>Bahadori</surname><given-names>L.</given-names></name>; <name><surname>Manan</surname><given-names>N. S. A.</given-names></name>; <name><surname>Chakrabarti</surname><given-names>M. H.</given-names></name>; <name><surname>Hashim</surname><given-names>M. A.</given-names></name>; <name><surname>Mjalli</surname><given-names>F. S.</given-names></name>; <name><surname>AlNashef</surname><given-names>I. M.</given-names></name>; <name><surname>Hussain</surname><given-names>M. A.</given-names></name>; <name><surname>Low</surname><given-names>C. T. J.</given-names></name>
+<article-title>The Electrochemical
+Behaviour of Ferrocene in Deep Eutectic Solvents Based on Quaternary
+Ammonium and Phosphonium Salts</article-title>. <source>Phys. Chem.
+Chem. Phys.</source>
+<year>2013</year>, <volume>15</volume>, <fpage>1707</fpage>&#x02013;<lpage>1714</lpage>. <pub-id pub-id-type="doi">10.1039/C2CP43077K</pub-id>.<pub-id pub-id-type="pmid">23247115</pub-id></mixed-citation></ref><ref id="ref68"><mixed-citation publication-type="journal" id="cit68"><name><surname>Nicholson</surname><given-names>R. S.</given-names></name>
+<article-title>Theory
+and Application of Cyclic Voltammetry for Measurement of Electrode
+Reaction Kinetics</article-title>. <source>Anal. Chem.</source>
+<year>1965</year>, <volume>37</volume>, <fpage>1351</fpage>&#x02013;<lpage>1355</lpage>. <pub-id pub-id-type="doi">10.1021/ac60230a016</pub-id>.</mixed-citation></ref><ref id="ref69"><mixed-citation publication-type="journal" id="cit69"><name><surname>McCreery</surname><given-names>R. L.</given-names></name>
+<article-title>Advanced
+Carbon Electrode Materials for Molecular Electrochemistry</article-title>. <source>Chem. Rev.</source>
+<year>2008</year>, <volume>108</volume>, <fpage>2646</fpage>&#x02013;<lpage>2687</lpage>. <pub-id pub-id-type="doi">10.1021/cr068076m</pub-id>.<pub-id pub-id-type="pmid">18557655</pub-id></mixed-citation></ref><ref id="ref70"><mixed-citation publication-type="book" id="cit70"><person-group person-group-type="allauthors"><name><surname>Bard</surname><given-names>A. J.</given-names></name>; <name><surname>Faulkner</surname><given-names>L. R.</given-names></name></person-group><source>Electrochemical Methods:
+Fundamentals and Applications</source>, <edition>2nd ed.</edition>; <publisher-name>Wiley</publisher-name>: <publisher-loc>New York</publisher-loc>, <year>2001</year>.</mixed-citation></ref><ref id="ref71"><mixed-citation publication-type="journal" id="cit71"><name><surname>Bahadori</surname><given-names>L.</given-names></name>; <name><surname>Chakrabarti</surname><given-names>M. H.</given-names></name>; <name><surname>Manan</surname><given-names>N. S. A.</given-names></name>; <name><surname>Hashim</surname><given-names>M. A.</given-names></name>; <name><surname>Mjalli</surname><given-names>F. S.</given-names></name>; <name><surname>AlNashef</surname><given-names>I. M.</given-names></name>; <name><surname>Brandon</surname><given-names>N.</given-names></name>
+<article-title>The Effect of Temperature on Kinetics
+and Diffusion Coefficients of Metallocene Derivatives in Polyol-Based
+Deep Eutectic Solvents</article-title>. <source>PLoS One</source>
+<year>2015</year>, <volume>10</volume>, <fpage>e0144235</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0144235</pub-id>.<pub-id pub-id-type="pmid">26642045</pub-id></mixed-citation></ref><ref id="ref72"><mixed-citation publication-type="journal" id="cit72"><name><surname>Hull</surname><given-names>R.</given-names></name>
+<article-title>Current Density
+Range Characteristics, Their Determination and Application</article-title>. <source>Proc. Am. Electroplaters Soc.</source>
+<year>1939</year>, <volume>27</volume>, <fpage>52</fpage>.</mixed-citation></ref><ref id="ref73"><mixed-citation publication-type="journal" id="cit73"><name><surname>Tisserant</surname><given-names>G.</given-names></name>; <name><surname>Gillion</surname><given-names>J.</given-names></name>; <name><surname>Lannelongue</surname><given-names>J.</given-names></name>; <name><surname>Fattah</surname><given-names>Z.</given-names></name>; <name><surname>Garrigue</surname><given-names>P.</given-names></name>; <name><surname>Roche</surname><given-names>J.</given-names></name>; <name><surname>Zigah</surname><given-names>D.</given-names></name>; <name><surname>Kuhn</surname><given-names>A.</given-names></name>; <name><surname>Bouffier</surname><given-names>L.</given-names></name>
+<article-title>Single-Step
+Screening of the Potential Dependence of Metal Layer Morphologies
+along Bipolar Electrodes</article-title>. <source>ChemElectroChem</source>
+<year>2016</year>, <volume>3</volume>, <fpage>387</fpage>&#x02013;<lpage>391</lpage>. <pub-id pub-id-type="doi">10.1002/celc.201500313</pub-id>.</mixed-citation></ref><ref id="ref74"><mixed-citation publication-type="undeclared" id="cit74"><person-group person-group-type="allauthors"><name><surname>Lide</surname><given-names>D. R.</given-names></name></person-group><source>CRC Handbook of Chemistry
+and Physics 88th Edition 2007&#x02013;2008</source>; <year>2007</year>.</mixed-citation></ref><ref id="ref75"><mixed-citation publication-type="book" id="cit75"><person-group person-group-type="allauthors"><name><surname>Cutnell</surname><given-names>J.</given-names></name>; <name><surname>Johnson</surname><given-names>K.</given-names></name></person-group><source>Physics</source>; <publisher-name>Wiley</publisher-name>: <publisher-loc>New York</publisher-loc>, <year>1998</year>.</mixed-citation></ref><ref id="ref76"><mixed-citation publication-type="journal" id="cit76"><name><surname>Van
+der Linden</surname><given-names>W. E.</given-names></name>; <name><surname>Dieker</surname><given-names>J. W.</given-names></name>
+<article-title>Glassy Carbon as Electrode Material
+in Electro-Analytical Chemistry</article-title>. <source>Anal. Chim.
+Acta</source>
+<year>1980</year>, <volume>119</volume>, <fpage>1</fpage>&#x02013;<lpage>24</lpage>. <pub-id pub-id-type="doi">10.1016/S0003-2670(00)00025-8</pub-id>.</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par36">At different various rotational speeds (400, 625, 900, 1225, 1600, and 2025 rpm), the value of the transfer electron number (
+ <italic>n</italic>) of the LSV curve during the ORR obtained by RDE can be calculated by the following Koutecky-Levich (K-L) equation: 
+ <disp-formula id="Equ9">
+  <label>9</label>
+  <alternatives>
+   <tex-math id="M17">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$ \frac{1}{j}=\frac{1}{j_k}+\frac{1}{j_d}=\frac{1}{nFK{C}_{O_2}}+\frac{1}{B{\omega}^{\raisebox{1ex}{$1$}\!\left/ \!\raisebox{-1ex}{$2$}\right.}} $$\end{document}</tex-math>
+   <math id="M18" display="block">
+    <mfrac>
+     <mn>1</mn>
+     <mi>j</mi>
+    </mfrac>
+    <mo>=</mo>
+    <mfrac>
+     <mn>1</mn>
+     <msub>
+      <mi>j</mi>
+      <mi>k</mi>
+     </msub>
+    </mfrac>
+    <mo>+</mo>
+    <mfrac>
+     <mn>1</mn>
+     <msub>
+      <mi>j</mi>
+      <mi>d</mi>
+     </msub>
+    </mfrac>
+    <mo>=</mo>
+    <mfrac>
+     <mn>1</mn>
+     <mrow>
+      <mi mathvariant="italic">nFK</mi>
+      <msub>
+       <mi>C</mi>
+       <msub>
+        <mi>O</mi>
+        <mn>2</mn>
+       </msub>
+      </msub>
+     </mrow>
+    </mfrac>
+    <mo>+</mo>
+    <mfrac>
+     <mn>1</mn>
+     <mrow>
+      <mi>B</mi>
+      <msup>
+       <mi>ω</mi>
+       <mfrac bevelled="true">
+        <mn>1</mn>
+        <mn>2</mn>
+       </mfrac>
+      </msup>
+     </mrow>
+    </mfrac>
+   </math>
+   <graphic xlink:href="11671_2020_3316_Article_Equ9.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+ <disp-formula id="Equ10">
+  <label>10</label>
+  <alternatives>
+   <tex-math id="M19">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$ B=0.2{nFC}_{O_2}{D}_{O_2}^{\raisebox{1ex}{$1$}\!\left/ \!\raisebox{-1ex}{$3$}\right.}{V}^{\raisebox{1ex}{$-1$}\!\left/ \!\raisebox{-1ex}{$6$}\right.} $$\end{document}</tex-math>
+   <math id="M20" display="block">
+    <mi>B</mi>
+    <mo>=</mo>
+    <mn>0.2</mn>
+    <msub>
+     <mi mathvariant="italic">nFC</mi>
+     <msub>
+      <mi>O</mi>
+      <mn>2</mn>
+     </msub>
+    </msub>
+    <msubsup>
+     <mi>D</mi>
+     <msub>
+      <mi>O</mi>
+      <mn>2</mn>
+     </msub>
+     <mfrac bevelled="true">
+      <mn>1</mn>
+      <mn>3</mn>
+     </mfrac>
+    </msubsup>
+    <msup>
+     <mi>V</mi>
+     <mfrac bevelled="true">
+      <mrow>
+       <mo>−</mo>
+       <mn>1</mn>
+      </mrow>
+      <mn>6</mn>
+     </mfrac>
+    </msup>
+   </math>
+   <graphic xlink:href="11671_2020_3316_Article_Equ10.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+</p>

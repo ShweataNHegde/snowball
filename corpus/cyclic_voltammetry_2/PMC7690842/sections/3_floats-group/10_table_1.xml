@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="nanomaterials-10-02106-t001" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">nanomaterials-10-02106-t001_Table 1</object-id>
+ <label>Table 1</label>
+ <caption>
+  <p>Electrochemical and storage performance of TMC- and TMN-based cathode electrocatalysts for LOBs.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Materials</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Morphology</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">CD-Potential Gap (V)</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Capacity (mAh g
+     <sup>−1</sup>)/Current Density (mA g
+     <sup>−1</sup>)
+    </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Capacity Retention </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Ref</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">TiC</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Nanosheets</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1 V</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">500 at 1 mA cm
+     <sup>−2</sup>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">98% after 100 cycles</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B67-nanomaterials-10-02106" ref-type="bibr">67</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Ru-TiC</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Nanowire</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.91 V</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.6 mAh cm
+     <sup>−2</sup> at 0.1 mA cm
+     <sup>−2</sup>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">~61% after 270 cycles</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B74-nanomaterials-10-02106" ref-type="bibr">74</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">TiC-cloth</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Nanowire</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.6 V</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.5 mAh cm
+     <sup>−2</sup> at 0.1 mA cm
+     <sup>−2</sup>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">~92% after 100 cycles</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B75-nanomaterials-10-02106" ref-type="bibr">75</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">graphene@Fe/Fe
+     <sub>3</sub>C
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Three-dimensional porous structure</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.61 V</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">7150 at 0.1 mA cm
+     <sup>−2</sup>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">n.a</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B83-nanomaterials-10-02106" ref-type="bibr">83</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">F@NG-NCNT</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Bamboo tubular</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.1 V</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">6966 at 0.1 mA cm
+     <sup>−2</sup>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">100% after 30 cycles</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B84-nanomaterials-10-02106" ref-type="bibr">84</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Fe/Fe
+     <sub>3</sub>C–CNFs
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Nanofibers</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.05 V</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">6920/80</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">n.a</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B85-nanomaterials-10-02106" ref-type="bibr">85</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">(V-TiO
+     <sub>2</sub>/Ti
+     <sub>3</sub>C
+     <sub>2</sub>T
+     <sub>x</sub>)
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Nanosheet</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.21 V</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">11,487/100</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">79% after 200 cycles</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B127-nanomaterials-10-02106" ref-type="bibr">127</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">NiO/Ti
+     <sub>3</sub>C
+     <sub>2</sub>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Accordion nanosheets</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.07 V</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">13,350/100</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Maintains stable capacity after 90 cycles</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B128-nanomaterials-10-02106" ref-type="bibr">128</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">CoO/Ti
+     <sub>3</sub>C
+     <sub>2</sub>T
+     <italic>
+      <sub>x</sub>
+     </italic>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Layered nanosheet</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.02 V</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">16,220/100</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">n.a</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B129-nanomaterials-10-02106" ref-type="bibr">129</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Carbon-wrapped Mo
+     <sub>2</sub>C/Ni-foam
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Nanoparticles</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.9 V</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">10,400/100</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Maintains stable capacity after 200 cycles</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B137-nanomaterials-10-02106" ref-type="bibr">137</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Mo
+     <sub>2</sub>C/C
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Nanoflowers</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.2 V</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">7500/100</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Maintains stable capacity after 104 cycles</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B134-nanomaterials-10-02106" ref-type="bibr">134</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Mo
+     <sub>2</sub>C/CNF
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Nanoparticles</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.0 V</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">10,509/100</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Maintains stable capacity after 124 cycles</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B132-nanomaterials-10-02106" ref-type="bibr">132</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Mo
+     <sub>2</sub>CT
+     <sub>x</sub> MXene/CNT
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Nanoporous</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.0 V</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5950/100</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Maintains stable capacity after 40 cycles</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B131-nanomaterials-10-02106" ref-type="bibr">131</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Mo
+     <sub>2</sub>C-NR@NC
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Nanorods</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.28 V</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">6962/100</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">n.a</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B133-nanomaterials-10-02106" ref-type="bibr">133</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Mo
+     <sub>2</sub>C-MoC
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">House penticide</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">n.a</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">34,862/200</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Maintains stable capacity after 162 cycles</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B136-nanomaterials-10-02106" ref-type="bibr">136</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">MoO
+     <sub>2</sub>/Mo
+     <sub>2</sub>C
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Porous nanocrystals</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.21 V</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5000/1000</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Maintains stable capacity after 40 cycles</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B138-nanomaterials-10-02106" ref-type="bibr">138</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Mo
+     <sub>2</sub>C-MoO
+     <sub>2</sub>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Porous nanosheet</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.56 V</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2365/200</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Maintains stable capacity after 100 cycles</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B139-nanomaterials-10-02106" ref-type="bibr">139</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">n-TiN/VC</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Nanoparticles</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.39 V</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">6407/50</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">n.a</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B90-nanomaterials-10-02106" ref-type="bibr">90</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">VN @C</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">nanoribbon</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.88 V</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1000/100</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Maintains stable capacity after 183 cycles</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B102-nanomaterials-10-02106" ref-type="bibr">102</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Fe, Co–co-doped C-N</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">polyhedra</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.0 V</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">800/500</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Maintains stable capacity after 56 cycles</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B147-nanomaterials-10-02106" ref-type="bibr">147</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pt supported g-C
+     <sub>3</sub>N
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">nanosheet</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.5 V</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">17,059.5/100</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Maintains stable capacity after 100 cycles</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B149-nanomaterials-10-02106" ref-type="bibr">149</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

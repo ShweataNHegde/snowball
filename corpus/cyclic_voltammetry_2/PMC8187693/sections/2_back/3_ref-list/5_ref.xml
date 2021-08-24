@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR5">
+ <label>5.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Xu</surname>
+    <given-names>NN</given-names>
+   </name>
+   <name>
+    <surname>Wilson</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>YD</given-names>
+   </name>
+   <name>
+    <surname>Su</surname>
+    <given-names>TS</given-names>
+   </name>
+   <name>
+    <surname>Wei</surname>
+    <given-names>YN</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Flexible self-supported bi-metal electrode as a highly stable carbon- and binder-free cathode for large-scale solid-state zinc-air batteries</article-title>
+  <source>Appl. Catal. B: Environ.</source>
+  <year>2020</year>
+  <volume>272</volume>
+  <issue>5</issue>
+  <fpage>118953</fpage>
+  <pub-id pub-id-type="doi">10.1016/j.apcatb.2020.118953</pub-id>
+ </element-citation>
+</ref>

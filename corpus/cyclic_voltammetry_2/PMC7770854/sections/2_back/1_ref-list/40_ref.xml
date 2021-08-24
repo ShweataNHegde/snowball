@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR40">
+ <label>40.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Xie</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Liang</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Gao</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Guo</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Guo</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Manipulating the ion-transfer kinetics and interface stability for high-performance zinc metal anodes</article-title>
+  <source>Energy Environ. Sci.</source>
+  <year>2020</year>
+  <volume>13</volume>
+  <issue>2</issue>
+  <fpage>503</fpage>
+  <lpage>510</lpage>
+  <pub-id pub-id-type="doi">10.1039/c9ee03545a</pub-id>
+ </element-citation>
+</ref>

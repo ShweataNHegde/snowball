@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>(A) Thermogravimetric analysis (TGA) traces recorded for a WiTS gel electrolyte obtained by ramping the temperature from 30 to 800 °C at a rate of 10 °C min
+   <sup>–1</sup> under N
+   <sub>2</sub>. The inset shows the photographic images of a WiTS gel electrolyte, the scale bar is 5 cm. (B) Cyclic voltammetry (CV) recorded at a 3 mm diameter glassy carbon (GC) electrode at 10 mV s
+   <sup>–1</sup> using a WiTS gel electrolyte between −0.2 and 4.2 V. (C) CVs recorded with a symmetrical Zn|Zn cell at 1 mV s
+   <sup>–1</sup> in a WiTS gel electrolyte before and after cycling for 40 h using galvanostatic charge–discharge. (D) Galvanostatic charge–discharge curve obtained using a symmetrical Zn|Zn cell in a WiTS gel electrolyte and 2.0 M ZnSO
+   <sub>4</sub> (aq) at 0.2 mA cm
+   <sup>–2</sup>. (E) Scanning electron microscopy (SEM) image of a fully discharged Zn substrate, the scale bar = 20 μm. (F) SEM of a fully charged Zn substrate, scale bar = 20 μm.
+  </p>
+ </caption>
+ <graphic xlink:href="am0c20622_0002" id="gr1" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

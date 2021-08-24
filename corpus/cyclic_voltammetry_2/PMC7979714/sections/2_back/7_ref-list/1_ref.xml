@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Li</surname>
+    <given-names>JZ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Atomically dispersed manganese catalysts for oxygen reduction in proton-exchange membrane fuel cells</article-title>
+  <source>Nat. Catal.</source>
+  <year>2018</year>
+  <volume>1</volume>
+  <fpage>935</fpage>
+  <lpage>945</lpage>
+  <pub-id pub-id-type="doi">10.1038/s41929-018-0164-8</pub-id>
+ </element-citation>
+</ref>

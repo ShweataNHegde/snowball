@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funding-group>
+ <award-group id="funding-0001">
+  <funding-source>
+   <institution-wrap>
+    <institution>National Natural Science Foundation of China </institution>
+    <institution-id institution-id-type="open-funder-registry">10.13039/501100001809</institution-id>
+   </institution-wrap>
+  </funding-source>
+  <award-id>21805007</award-id>
+  <award-id>21805066</award-id>
+  <award-id>21825102</award-id>
+ </award-group>
+ <award-group id="funding-0002">
+  <funding-source>Young Elite Scientists Sponsorship Program by CAST</funding-source>
+  <award-id>2018QNRC001</award-id>
+ </award-group>
+ <award-group id="funding-0003">
+  <funding-source>
+   <institution-wrap>
+    <institution>National Key Research and Development Program of China </institution>
+    <institution-id institution-id-type="open-funder-registry">10.13039/501100012166</institution-id>
+   </institution-wrap>
+  </funding-source>
+  <award-id>2018YFB0104303</award-id>
+ </award-group>
+ <award-group id="funding-0004">
+  <funding-source>
+   <institution-wrap>
+    <institution>Beijing Natural Science Foundation </institution>
+    <institution-id institution-id-type="open-funder-registry">10.13039/501100004826</institution-id>
+   </institution-wrap>
+  </funding-source>
+  <award-id>L182019</award-id>
+ </award-group>
+ <award-group id="funding-0005">
+  <funding-source>
+   <institution-wrap>
+    <institution>Fundamental Research Funds for the Central Universities </institution>
+    <institution-id institution-id-type="open-funder-registry">10.13039/501100012226</institution-id>
+   </institution-wrap>
+  </funding-source>
+  <award-id>FRF‐TP‐19‐029A2</award-id>
+  <award-id>FRF‐TP‐20‐020A3</award-id>
+ </award-group>
+ <award-group id="funding-0006">
+  <funding-source>
+   <institution-wrap>
+    <institution>Natural Science Foundation of Hebei Province </institution>
+    <institution-id institution-id-type="open-funder-registry">10.13039/501100003787</institution-id>
+   </institution-wrap>
+  </funding-source>
+  <award-id>B2019201160</award-id>
+ </award-group>
+ <award-group id="funding-0007">
+  <funding-source>Top Young Talents Project of Hebei Education Department</funding-source>
+  <award-id>BJ2019052</award-id>
+ </award-group>
+ <award-group id="funding-0008">
+  <funding-source>
+   <institution-wrap>
+    <institution>111 Project </institution>
+    <institution-id institution-id-type="open-funder-registry">10.13039/501100013314</institution-id>
+   </institution-wrap>
+  </funding-source>
+  <award-id>B12015</award-id>
+  <award-id>B170003</award-id>
+ </award-group>
+</funding-group>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Han</surname>
+    <given-names>XP</given-names>
+   </name>
+   <name>
+    <surname>Ling</surname>
+    <given-names>XF</given-names>
+   </name>
+   <name>
+    <surname>Yu</surname>
+    <given-names>DS</given-names>
+   </name>
+   <name>
+    <surname>Xie</surname>
+    <given-names>DY</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>LL</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Atomically dispersed binary Co–Ni sites in nitrogen-doped hollow carbon nanocubes for reversible oxygen reduction and evolution</article-title>
+  <source>Adv. Mater.</source>
+  <year>2019</year>
+  <volume>31</volume>
+  <fpage>1905622</fpage>
+  <pub-id pub-id-type="doi">10.1002/adma.201905622</pub-id>
+ </element-citation>
+</ref>

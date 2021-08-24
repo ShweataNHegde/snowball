@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR19">
+ <label>19.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lei</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Yang</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Huang</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>NiFe nanoparticles embedded N-doped carbon nanotubes as high-efficient electrocatalysts for wearable solid-state Zn–air batteries</article-title>
+  <source>Nano Energy</source>
+  <year>2020</year>
+  <volume>68</volume>
+  <fpage>104293</fpage>
+  <pub-id pub-id-type="doi">10.1016/j.nanoen.2019.104293</pub-id>
+ </element-citation>
+</ref>

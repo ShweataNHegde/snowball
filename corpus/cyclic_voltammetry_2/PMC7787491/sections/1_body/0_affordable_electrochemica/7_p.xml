@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Multiple big leaps in the design of all components of the electrochemical cell are required to achieve Zn systems that achieve cycle life of 10,000 to 20,000 cycles. 
+ <xref rid="F1" ref-type="fig">Figure 1C</xref>, for example, quantitatively assesses the reversibility metrics for the Zn metal anode needed to meet these goals. It shows that with a reasonable N:P ratio below 5:1, a &gt;99.96% plating/stripping efficiency is necessary. We note that this value is widely reported to be &lt;90% in cells without proper control over the plating/stripping reaction, and the reversibility further deteriorates as areal capacity increases. We note further that unlike the liquid-phase reactions that can be treated in a classical electrochemistry framework with quite good accuracy, the metal plating/stripping reaction that controls the reversibility of the Zn battery anode involves the repeated creation and dissolution of a solid, crystalline phase over cycling. This means that non-negligible, oftentimes appreciable, morphology evolution of the electrode is constantly taking place during normal battery operation. This attribute differentiates metal plating/stripping from classical pure liquid-phase electrochemical reactions—For liquid-phase reactions, the reversibility is mainly dictated by the chemistry and the energy surface associated with the kinetics (
+ <xref rid="R23" ref-type="bibr">
+  <italic>23</italic>
+ </xref>); in contrast, the reversibility of a metal plating/stripping redox couple is dominated by the morphology of the electrodeposits through two main mechanisms: chemical instability and physical orphaning (
+ <xref rid="R24" ref-type="bibr">
+  <italic>24</italic>
+ </xref>, 
+ <xref rid="R25" ref-type="bibr">
+  <italic>25</italic>
+ </xref>). The former describes metals’ propensity for undergoing side reactions with other battery components, e.g., an electrolyte; the latter for detaching from the current collector and thereby losing the electrical connection (
+ <xref rid="F1" ref-type="fig">Fig. 1D</xref>). Both of the two mechanisms are fundamentally attributable to the porous, heterogeneous morphology of the Zn electrodeposits formed in battery recharge and ultimately result in permanent materials loss. As a result, the real plating/stripping efficiency achieved experimentally in electrochemical cells is lower (i.e., oftentimes &lt;90%, sometimes &lt;50%) than one would expect. The noncompact nature of the porous electrodeposits also creates volume expansion in the anode chamber. A perhaps more obvious aftermath of heterogeneous Zn growth is—the metallic, electrically conductive Zn deposits, which exhibit a high modulus of 108 GPa (versus 5 and 10 GPa, for Li and Na, respectively), penetrate the separator with ease, and physically bridge the two electrodes—the battery short (
+ <xref rid="R22" ref-type="bibr">
+  <italic>22</italic>
+ </xref>, 
+ <xref rid="R26" ref-type="bibr">
+  <italic>26</italic>
+ </xref>, 
+ <xref rid="R27" ref-type="bibr">
+  <italic>27</italic>
+ </xref>).
+</p>

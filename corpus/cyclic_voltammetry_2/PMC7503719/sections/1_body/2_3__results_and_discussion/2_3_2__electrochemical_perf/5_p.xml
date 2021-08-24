@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In order to obtain further understanding of the enhanced electrochemical performance of CuS/Cu
+ <sub>1.8</sub>S nanocomposites electrode, electrochemical impedance spectroscopy (EIS) was measured. The Nyquist plot (black dots) measured before cycling and the relative fitting line (red line) were shown in 
+ <xref ref-type="fig" rid="materials-13-03797-f004">Figure 4</xref>c. And the corresponding equivalent circuit was also showed in 
+ <xref ref-type="fig" rid="materials-13-03797-f004">Figure 4</xref>c. Two depressed semicircles and a straight line were found in the Nyquist plot. The intercept in the high frequency region represents the ohmic resistance (
+ <italic>R</italic>
+ <sub>s</sub>) of the electrode and electrolyte [
+ <xref rid="B61-materials-13-03797" ref-type="bibr">61</xref>,
+ <xref rid="B62-materials-13-03797" ref-type="bibr">62</xref>,
+ <xref rid="B63-materials-13-03797" ref-type="bibr">63</xref>]. The small semicircle at high frequency is related to the impedance of SEI film (
+ <italic>R</italic>
+ <sub>c</sub>
+ <sub>f</sub>) [
+ <xref rid="B61-materials-13-03797" ref-type="bibr">61</xref>,
+ <xref rid="B64-materials-13-03797" ref-type="bibr">64</xref>]. The semicircle at high-medium frequency is related to the charge-transfer resistance (
+ <italic>R</italic>
+ <sub>ct</sub>) induced by the diffusion of lithium ions between electrode and electrolyte. The slope of the straight line in low frequency corresponds to Warburg impedance (
+ <italic>Z</italic>
+ <sub>w</sub>) relating to the diffusion of lithium ions in CuS/Cu
+ <sub>1.8</sub>S nanocomposites electrode [
+ <xref rid="B44-materials-13-03797" ref-type="bibr">44</xref>,
+ <xref rid="B47-materials-13-03797" ref-type="bibr">47</xref>,
+ <xref rid="B48-materials-13-03797" ref-type="bibr">48</xref>,
+ <xref rid="B52-materials-13-03797" ref-type="bibr">52</xref>,
+ <xref rid="B54-materials-13-03797" ref-type="bibr">54</xref>,
+ <xref rid="B55-materials-13-03797" ref-type="bibr">55</xref>,
+ <xref rid="B61-materials-13-03797" ref-type="bibr">61</xref>,
+ <xref rid="B62-materials-13-03797" ref-type="bibr">62</xref>]. The Nyquist plot could be well fitted by the equivalent circuit shown in 
+ <xref ref-type="fig" rid="materials-13-03797-f004">Figure 4</xref>c. The values of 
+ <italic>R</italic>
+ <sub>s</sub>, 
+ <italic>R</italic>
+ <sub>c</sub>
+ <sub>f</sub> and 
+ <italic>R</italic>
+ <sub>ct</sub> are 1.8 ohm, 34.3 ohm and 175 ohm, respectively. The EIS measured after 1000 cycles and the fitting line were shown in 
+ <xref ref-type="app" rid="app1-materials-13-03797">Figure S2</xref>. The values of 
+ <italic>R</italic>
+ <sub>s</sub>, 
+ <italic>R</italic>
+ <sub>c</sub>
+ <sub>f</sub> and 
+ <italic>R</italic>
+ <sub>ct</sub> increased after 1000 discharge-charge cycles, and the comparisons of 
+ <italic>R</italic>
+ <sub>s</sub>, 
+ <italic>R</italic>
+ <sub>c</sub>
+ <sub>f</sub> and 
+ <italic>R</italic>
+ <sub>ct</sub> before cycling and after 1000 cycles can be seen in 
+ <xref ref-type="app" rid="app1-materials-13-03797">Table S2</xref>. Furthermore, the diffusion coefficient of Li-ions (
+ <inline-formula>
+  <math id="mm2">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>D</mi>
+      <mrow>
+       <mi>L</mi>
+       <msup>
+        <mi mathvariant="normal">i</mi>
+        <mo>+</mo>
+       </msup>
+      </mrow>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>) could be obtained by the Equations as follows [
+ <xref rid="B61-materials-13-03797" ref-type="bibr">61</xref>,
+ <xref rid="B62-materials-13-03797" ref-type="bibr">62</xref>]:
+ <disp-formula id="FD2-materials-13-03797">
+  <label>(2)</label>
+  <math id="mm3">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>D</mi>
+      <mrow>
+       <mi>L</mi>
+       <msup>
+        <mi mathvariant="normal">i</mi>
+        <mo>+</mo>
+       </msup>
+      </mrow>
+     </msub>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <msup>
+        <mi>R</mi>
+        <mn>2</mn>
+       </msup>
+       <msup>
+        <mi>T</mi>
+        <mn>2</mn>
+       </msup>
+      </mrow>
+      <mrow>
+       <mn>2</mn>
+       <msup>
+        <mi>A</mi>
+        <mn>2</mn>
+       </msup>
+       <msup>
+        <mi>n</mi>
+        <mn>4</mn>
+       </msup>
+       <msup>
+        <mi>F</mi>
+        <mn>4</mn>
+       </msup>
+       <msup>
+        <mi>C</mi>
+        <mn>2</mn>
+       </msup>
+       <msup>
+        <mi>σ</mi>
+        <mn>2</mn>
+       </msup>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+ <disp-formula id="FD3-materials-13-03797">
+  <label>(3)</label>
+  <math id="mm4">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>Z</mi>
+      <mrow>
+       <mi>real</mi>
+      </mrow>
+     </msub>
+     <mo>=</mo>
+     <msub>
+      <mi>R</mi>
+      <mi mathvariant="normal">s</mi>
+     </msub>
+     <mo>+</mo>
+     <msub>
+      <mi>R</mi>
+      <mrow>
+       <mi>ct</mi>
+      </mrow>
+     </msub>
+     <mo>+</mo>
+     <mi>σ</mi>
+     <msup>
+      <mi>ω</mi>
+      <mrow>
+       <mo>−</mo>
+       <mn>1</mn>
+       <mo>/</mo>
+       <mn>2</mn>
+      </mrow>
+     </msup>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where 
+ <italic>ω</italic> is the angular frequency in the low frequency region, 
+ <italic>σ</italic> is the Warburg coefficient, 
+ <italic>C</italic> is the concentration of lithium ions, 
+ <italic>n</italic> is the number of transferred electrons, 
+ <italic>F</italic> is the Faraday constant, 
+ <italic>T</italic> is the measuring temperature, 
+ <italic>A</italic> is the surface area of the electrode, and 
+ <italic>R</italic> is the gas constant [
+ <xref rid="B61-materials-13-03797" ref-type="bibr">61</xref>,
+ <xref rid="B62-materials-13-03797" ref-type="bibr">62</xref>]. The value of 
+ <italic>σ</italic> was obtained by linear fitting of 
+ <italic>Z</italic>
+ <sub>real</sub> versus 
+ <italic>ω</italic>
+ <sup>−1/2</sup> Equation (3), and then the diffusion coefficient of Li-ions (
+ <inline-formula>
+  <math id="mm5">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>D</mi>
+      <mrow>
+       <mi>L</mi>
+       <msup>
+        <mi mathvariant="normal">i</mi>
+        <mo>+</mo>
+       </msup>
+      </mrow>
+     </msub>
+     <mo>=</mo>
+     <mn>3.89</mn>
+     <mo>×</mo>
+     <msup>
+      <mrow>
+       <mn>10</mn>
+      </mrow>
+      <mrow>
+       <mo>−</mo>
+       <mn>12</mn>
+      </mrow>
+     </msup>
+     <msup>
+      <mrow>
+       <mrow>
+        <mtext> </mtext>
+        <mi>cm</mi>
+       </mrow>
+      </mrow>
+      <mn>2</mn>
+     </msup>
+     <msup>
+      <mrow>
+       <mrow>
+        <mtext> </mtext>
+        <mi mathvariant="normal">S</mi>
+       </mrow>
+      </mrow>
+      <mrow>
+       <mo>−</mo>
+       <mn>1</mn>
+      </mrow>
+     </msup>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>) was calculated by Equation (2). The relatively low 
+ <italic>R</italic>
+ <sub>ct</sub> and high 
+ <inline-formula>
+  <math id="mm6">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>D</mi>
+      <mrow>
+       <mi>L</mi>
+       <msup>
+        <mi mathvariant="normal">i</mi>
+        <mo>+</mo>
+       </msup>
+      </mrow>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> further indicated the enhancement of capability and rate performance of the CuS/Cu
+ <sub>1.8</sub>S nanocomposites electrode [
+ <xref rid="B47-materials-13-03797" ref-type="bibr">47</xref>,
+ <xref rid="B48-materials-13-03797" ref-type="bibr">48</xref>,
+ <xref rid="B54-materials-13-03797" ref-type="bibr">54</xref>,
+ <xref rid="B55-materials-13-03797" ref-type="bibr">55</xref>,
+ <xref rid="B61-materials-13-03797" ref-type="bibr">61</xref>,
+ <xref rid="B62-materials-13-03797" ref-type="bibr">62</xref>], which could be attributed to the small sizes of CuS/Cu
+ <sub>1.8</sub>S nanocomposites and the assistance of Cu
+ <sub>1.8</sub>S [
+ <xref rid="B29-materials-13-03797" ref-type="bibr">29</xref>,
+ <xref rid="B30-materials-13-03797" ref-type="bibr">30</xref>,
+ <xref rid="B31-materials-13-03797" ref-type="bibr">31</xref>,
+ <xref rid="B32-materials-13-03797" ref-type="bibr">32</xref>,
+ <xref rid="B33-materials-13-03797" ref-type="bibr">33</xref>,
+ <xref rid="B34-materials-13-03797" ref-type="bibr">34</xref>,
+ <xref rid="B36-materials-13-03797" ref-type="bibr">36</xref>,
+ <xref rid="B37-materials-13-03797" ref-type="bibr">37</xref>,
+ <xref rid="B38-materials-13-03797" ref-type="bibr">38</xref>,
+ <xref rid="B43-materials-13-03797" ref-type="bibr">43</xref>,
+ <xref rid="B44-materials-13-03797" ref-type="bibr">44</xref>,
+ <xref rid="B45-materials-13-03797" ref-type="bibr">45</xref>,
+ <xref rid="B46-materials-13-03797" ref-type="bibr">46</xref>,
+ <xref rid="B49-materials-13-03797" ref-type="bibr">49</xref>,
+ <xref rid="B50-materials-13-03797" ref-type="bibr">50</xref>,
+ <xref rid="B51-materials-13-03797" ref-type="bibr">51</xref>,
+ <xref rid="B52-materials-13-03797" ref-type="bibr">52</xref>,
+ <xref rid="B53-materials-13-03797" ref-type="bibr">53</xref>]. The nano-size of the CuS/Cu
+ <sub>1.8</sub>S nanocomposites could increase the specific surface area and shorten the length of lithium ions diffusion [
+ <xref rid="B27-materials-13-03797" ref-type="bibr">27</xref>,
+ <xref rid="B28-materials-13-03797" ref-type="bibr">28</xref>,
+ <xref rid="B29-materials-13-03797" ref-type="bibr">29</xref>,
+ <xref rid="B30-materials-13-03797" ref-type="bibr">30</xref>,
+ <xref rid="B31-materials-13-03797" ref-type="bibr">31</xref>,
+ <xref rid="B32-materials-13-03797" ref-type="bibr">32</xref>,
+ <xref rid="B38-materials-13-03797" ref-type="bibr">38</xref>,
+ <xref rid="B39-materials-13-03797" ref-type="bibr">39</xref>,
+ <xref rid="B40-materials-13-03797" ref-type="bibr">40</xref>,
+ <xref rid="B41-materials-13-03797" ref-type="bibr">41</xref>,
+ <xref rid="B42-materials-13-03797" ref-type="bibr">42</xref>,
+ <xref rid="B43-materials-13-03797" ref-type="bibr">43</xref>,
+ <xref rid="B44-materials-13-03797" ref-type="bibr">44</xref>,
+ <xref rid="B45-materials-13-03797" ref-type="bibr">45</xref>,
+ <xref rid="B46-materials-13-03797" ref-type="bibr">46</xref>,
+ <xref rid="B47-materials-13-03797" ref-type="bibr">47</xref>,
+ <xref rid="B48-materials-13-03797" ref-type="bibr">48</xref>,
+ <xref rid="B49-materials-13-03797" ref-type="bibr">49</xref>,
+ <xref rid="B50-materials-13-03797" ref-type="bibr">50</xref>,
+ <xref rid="B51-materials-13-03797" ref-type="bibr">51</xref>,
+ <xref rid="B52-materials-13-03797" ref-type="bibr">52</xref>,
+ <xref rid="B53-materials-13-03797" ref-type="bibr">53</xref>,
+ <xref rid="B54-materials-13-03797" ref-type="bibr">54</xref>,
+ <xref rid="B55-materials-13-03797" ref-type="bibr">55</xref>]. The existence of Cu
+ <sub>1.8</sub>S might prevent the stacking of CuS and Cu particles, which could enhance the cycling stability at high current densities [
+ <xref rid="B31-materials-13-03797" ref-type="bibr">31</xref>,
+ <xref rid="B44-materials-13-03797" ref-type="bibr">44</xref>,
+ <xref rid="B50-materials-13-03797" ref-type="bibr">50</xref>,
+ <xref rid="B51-materials-13-03797" ref-type="bibr">51</xref>].
+</p>

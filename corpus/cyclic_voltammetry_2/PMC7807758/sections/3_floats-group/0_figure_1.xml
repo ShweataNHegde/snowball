@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>(A) Time versus the applied potential of CV with scan rate = 100 mV/s and (B) corresponding power spectrum of the potential in the frequency domain. CVs obtained by an inverse Fourier transform at different scan rates with CPE of (C) 
+   <italic>n</italic> = 1.0 (pure capacitor), (D) 
+   <italic>n</italic> = 0.9, (E) 
+   <italic>n</italic> = 0.8, and (F) 
+   <italic>n</italic> = 0.7. (G) Dependence of the charging current upon 
+   <italic>n</italic> of CPE. Equivalent circuits are composed of 100 Ω as a solution resistance and 
+   <italic>Q</italic>
+   <sub>0</sub> = 10
+   <sup>–3</sup> F/s
+   <sup>
+    <italic>n</italic>–1
+   </sup> as a CPE.
+  </p>
+ </caption>
+ <graphic xlink:href="ao0c04702_0002" id="gr2" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

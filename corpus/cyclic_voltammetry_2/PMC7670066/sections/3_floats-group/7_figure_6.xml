@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F6" position="float">
+ <label>Figure 6</label>
+ <caption>
+  <p>
+   <bold>(A)</bold> RDE voltammetry obtained in O
+   <sub>2</sub>-saturated 0.1 M KOH solutions at 50 mV s
+   <sup>−1</sup> and 900 rpm for anC, anC:Np5, anC:Np10, and anC:Np20; 
+   <bold>(B)</bold> shows details of the onset region including the reference 0.1 mA cm
+   <sup>−2</sup> current density used to estimate E
+   <sub>on</sub> values. 
+   <bold>(C)</bold> RRDE data showing disk (bottom) and ring (top) currents at 1,600 rpm. 
+   <bold>(D)</bold> Calculated H
+   <sub>2</sub>O
+   <sub>2</sub>% yield (bottom) and average number of electrons (top) from data in 
+   <bold>(C)</bold>.
+  </p>
+ </caption>
+ <graphic xlink:href="fchem-08-593932-g0006" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

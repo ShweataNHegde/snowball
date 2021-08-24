@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par17">To further shed light on the reason of the superior ORR activities of Fe,Mn/N–C, density functional theory (DFT) calculations were conducted. Supplementary Figs. 
+ <xref rid="MOESM1" ref-type="media">26</xref>–
+ <xref rid="MOESM1" ref-type="media">28</xref> and Supplementary Tables 
+ <xref rid="MOESM1" ref-type="media">10</xref>–
+ <xref rid="MOESM1" ref-type="media">12</xref> show all possible active sites by optimized the structure via DFT calculations and their free energies for each elementary step was calculated by combining the enthalpy and the harmonic entropy. Considering Fe,Mn/N
+ <sub>6</sub>-1, is the nearest structure of our dual-metal atomically catalyst, we apply Fe,Mn/N
+ <sub>6</sub>-1, FeN
+ <sub>4</sub>, and MnN
+ <sub>4</sub> graphene as the model reference to represent the difference of Fe,Mn/N–C, Fe/N–C, and Mn/N–C (Supplementary Figs. 
+ <xref rid="MOESM2" ref-type="media">27</xref> and 
+ <xref rid="MOESM2" ref-type="media">28</xref>). In the first step, the metal active site adsorbs oxygen molecules and forms a long Mn–O
+ <sub>2</sub> bond (2.209 Å) in Mn/N–C (Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">30</xref>). Due to the large Mn
+ <sup>III</sup> ion radius, the interaction with oxygen is so weak that the kinetic rate is limited because the process of proton-electron transfers to *O
+ <sub>2</sub> or splitting of the *O bind in O
+ <sub>2</sub> (dissociative mechanism) demand extra energy. In addition, Mn
+ <sup>III</sup> ions are unstable in solution and underwent a disproportionation reaction to form Mn
+ <sup>II</sup> and Mn
+ <sup>IV</sup> ions, which makes it very low ORR activities and low stability. The Fe–O
+ <sub>2</sub> bond is 1.884 Å in Fe/N–C (Fig. 
+ <xref rid="Fig5" ref-type="fig">5a, b</xref>), which makes reaction site that bind oxygen too strongly and proton-electron transfer *O or *OH be circumscribed
+ <sup>
+  <xref ref-type="bibr" rid="CR42">42</xref>
+ </sup>. This promotes the formation of more peroxide intermediates and leads to poor ORR activity and stability. While oxygen is adsorbed by Fe/Mn atom pair (Fig. 
+ <xref rid="Fig5" ref-type="fig">5c, d</xref>), it leads to proper bond length and suitable binding energy, which would reduce the dissociation energy barrier. In addition, it can effectively capture oxygen-containing intermediates and quickly break the bond between M–OH to ensure the regeneration of O*, OH*, making the ORR kinetics faster by effectively inhibiting the production of peroxides
+ <sup>
+  <xref ref-type="bibr" rid="CR40">40</xref>
+ </sup>. The calculated minimum free-energy path along the subtractions of the ORR is listed in Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">26</xref>. For the Fe,Mn/N
+ <sub>6</sub>-1 model at a potential U = 0 V, all the reaction steps from O
+ <sub>2</sub> to OH
+ <sup>−</sup> are downhill, implying a facile reaction. At U = 0.72 V, the subtraction step from O* to OH* takes place, while the other subtractions remain downhill. This potential is consequently called the thermodynamic limiting potential. The limiting potentials are determined to be 0.42 V and 0.36 V for Mn/N–C and Fe/N–C, respectively. Therefore, it suggests that Fe,Mn/N–C with a highly reactive ORR process under this condition, consistent with our experimental results. In addition, as shown in Fig. 
+ <xref rid="Fig5" ref-type="fig">5e, f</xref> at a pH different from 0, the acid-corrected one does not significantly change the free energy diagram, while the alkaline-corrected one does. However, the pH-corrected operation would not change the rate-determining step of oxygen reduction reaction with the same calculation model. Accordingly, despite the numerical change of overpotential, the theoretical ORR trend would not change for different models as well, as a result of the same pH-corrected value. That is to say, the effect of electrolyte would not change the current conclusion: the Fe,Mn/N
+ <sub>6</sub>-1 model possess the best theoretical ORR activity with the smallest overpotential among all models. In addition, Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">31</xref> and Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">15</xref> show all possible active sites and their free energies of OER, all the reaction steps from OH
+ <sup>−</sup> to O
+ <sub>2</sub> are downhill, implying a facile reaction. The Fe,Mn/N
+ <sub>6</sub>-1 structure is also the active site of OER.
+</p>

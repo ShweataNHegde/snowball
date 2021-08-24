@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="molecules-26-02227-f008" orientation="portrait" position="float">
+ <label>Figure 8</label>
+ <caption>
+  <p>(
+   <bold>a</bold>) Cyclic voltammetry of a 5 mM DSMeQUI 
+   <bold>20</bold> solution in a Britton–Robinson universal buffer solution with added KCl at various pHs. The voltammograms were recorded at a scan rate of 100 mV/s using a 3 mm diameter glassy carbon disk electrode. (
+   <bold>b</bold>) The reduction (red) and oxidation (black) peak potential and average peak potential (green) as a function of pH.
+  </p>
+ </caption>
+ <graphic xlink:href="molecules-26-02227-g008" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

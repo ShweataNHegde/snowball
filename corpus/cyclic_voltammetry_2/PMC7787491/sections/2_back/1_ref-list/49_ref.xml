@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R49">
+ <label>49</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Argoul</surname>
+    <given-names>F.</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Arneodo</surname>
+    <given-names>A.</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Grasseau</surname>
+    <given-names>G.</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Swinney</surname>
+    <given-names>H. L.</given-names>
+   </name>
+  </person-group>, 
+  <article-title>Self-similarity of diffusion-limited aggregates and electrodeposition clusters</article-title>. 
+  <source>Phys. Rev. Lett.</source>
+  <volume>61</volume>, 
+  <fpage>2558</fpage> (
+  <year>1988</year>).
+  <pub-id pub-id-type="pmid">10039156</pub-id>
+ </mixed-citation>
+</ref>

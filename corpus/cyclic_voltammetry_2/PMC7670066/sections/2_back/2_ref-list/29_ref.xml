@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B29">
+ <mixed-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hoare</surname>
+    <given-names>J. P.</given-names>
+   </name>
+  </person-group> (
+  <year>1985</year>). 
+  <article-title>“Oxygen,”</article-title> in 
+  <source>Standard Potentials in Aqueous Solution</source>, eds. 
+  <person-group person-group-type="editor">
+   <name>
+    <surname>Bard</surname>
+    <given-names>A. J.</given-names>
+   </name>
+   <name>
+    <surname>Parsons</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Jordan</surname>
+    <given-names>J.</given-names>
+   </name>
+  </person-group> (
+  <publisher-loc>New York, NY</publisher-loc>: 
+  <publisher-name>Marcel Dekker</publisher-name>), 
+  <fpage>49</fpage>–
+  <lpage>66</lpage>.
+ </mixed-citation>
+</ref>

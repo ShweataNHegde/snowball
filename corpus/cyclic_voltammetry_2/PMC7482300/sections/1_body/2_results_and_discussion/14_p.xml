@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The electrochemical reaction kinetics of the NC-S/MgB
+ <sub>2</sub> cathode are analyzed by fitting the Nyquist plots during the discharging and charging processes (
+ <xref rid="fig7" ref-type="fig">Figure 
+  <xref rid="fig7" ref-type="fig">7</xref>
+ </xref>a,b using the equivalent circuit given in the inset of 
+ <xref rid="fig5" ref-type="fig">Figure 
+  <xref rid="fig5" ref-type="fig">5</xref>
+ </xref>d). The variation of 
+ <italic>R</italic>
+ <sub>o</sub>, 
+ <italic>R</italic>
+ <sub>si</sub>, and 
+ <italic>R</italic>
+ <sub>ct</sub> with respect to DOD is illustrated in 
+ <xref rid="fig7" ref-type="fig">Figure 
+  <xref rid="fig7" ref-type="fig">7</xref>
+ </xref>c. The Ohmic resistance (
+ <italic>R</italic>
+ <sub>o</sub>) values remain uniform during the discharging process, which can be attributed to the synergistic combination of the NC sulfur cathode and the metallic MgB
+ <sub>2</sub> interlayer that can inhibit LPS dissolution into the electrolyte. The 
+ <italic>R</italic>
+ <sub>si</sub> value is constant at the beginning of the discharging process and it decreases with increasing DOD up to 2.2 V due to the formation of higher-order lithium polysulfides on the surface of the MgB
+ <sub>2</sub> interlayer, which is mostly in liquid state and decreases the surface film resistance. Above 2.1 V, 
+ <italic>R</italic>
+ <sub>si</sub> increases for the conversion of higher-order LPS to Li
+ <sub>2</sub>S
+ <sub>2</sub>/Li
+ <sub>2</sub>S films on the cathode surface. The 
+ <italic>R</italic>
+ <sub>ct</sub> value is higher during the initial discharging process due to the presence of insoluble sulfur spices; as DOD increases, the 
+ <italic>R</italic>
+ <sub>ct</sub> value decreases for the conversion of S
+ <sub>8</sub> to Li
+ <sub>2</sub>S
+ <sub>8</sub>/Li
+ <sub>2</sub>S
+ <sub>6</sub> with faster reaction kinetics on the MgB
+ <sub>2</sub> interlayer. Above 2.2 V, 
+ <italic>R</italic>
+ <sub>ct</sub> tends to increase due to an increase in the concentration of insoluble and nonconductive LPS (Li
+ <sub>2</sub>S
+ <sub>2</sub>/Li
+ <sub>2</sub>S) species on the cathode. The variation of resistance values (
+ <italic>R</italic>
+ <sub>o</sub>, 
+ <italic>R</italic>
+ <sub>si</sub>, and 
+ <italic>R</italic>
+ <sub>ct</sub>) during the charging process is represented in 
+ <xref rid="fig7" ref-type="fig">Figure 
+  <xref rid="fig7" ref-type="fig">7</xref>
+ </xref>d. Similar to the discharging process, the 
+ <italic>R</italic>
+ <sub>o</sub> value remains constant during the charging process of NC-S/MgB
+ <sub>2</sub> cathode. During the initial charging condition, the 
+ <italic>R</italic>
+ <sub>si</sub> value is higher due to the presence of Li
+ <sub>2</sub>S
+ <sub>2</sub>/Li
+ <sub>2</sub>S on the cathode surface and decreases as the conversion of lower-order LPS to higher-order LPS proceeds. At the end of charging, the 
+ <italic>R</italic>
+ <sub>si</sub> value increases due to the deposition of a sulfur film on the cathode. The 
+ <italic>R</italic>
+ <sub>si</sub> value represents the resistance offered due to the diffusion of electrolyte through pores of the interlayer, which suggests that the electrochemical process taking place during the charging is governed by the transport properties of the electrolyte.
+ <sup>
+  <xref ref-type="bibr" rid="ref42">42</xref>
+ </sup> During charging, the 
+ <italic>R</italic>
+ <sub>ct</sub> values tend to decrease from 2.2 to 2.5 V due to the formation of higher-order LPS and reaches maximum at the end of the charging process.
+</p>

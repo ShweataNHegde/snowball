@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Our FT-based approach can be applied not only to a simple serial RC circuit model but also to a general equivalent circuit model, which cannot easily be solved by the Laplace transform. The CV was obtained from a Au working electrode, as indicated by the black solid line in 
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>C, to get the practical charging current. Its impedance was analyzed by our FT-based approach, as shown in 
+ <xref rid="sch1" ref-type="scheme">Scheme 
+  <xref rid="sch1" ref-type="scheme">1</xref>
+ </xref>C. The black dots in 
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>B represent the impedance data for this large-amplitude perturbation, which is symmetric most likely due to the symmetry of the current in the CV. Half of the experimental data for the low-frequency region appear to consist of a hemisphere and a linear line with ca. 45°, similar to the Randles equivalent circuit shown in 
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>A in spite of the considerable difference in the amplitude of the perturbation. It should be noted that both charge-transfer resistance (
+ <italic>R</italic>
+ <sub>ct</sub>) and the Warburg impedance are not expected for an ideal polarized electrode in an electrolyte without redox species, whereas they were observed experimentally.
+ <sup>
+  <xref ref-type="bibr" rid="ref20">20</xref>
+ </sup> The simple RC circuit models previously reported do not represent the practical CV; thus, we assumed a Randles equivalent circuit based on the trend shown in 
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>B. Although the physical meaning and the origin of 
+ <italic>R</italic>
+ <sub>ct</sub> and the Warburg impedance are not obvious, we speculate that the heterogeneity of the electrode/electrolyte interface,
+ <sup>
+  <xref ref-type="bibr" rid="ref7">7</xref>
+ </sup> liquid bulk phenomena,
+ <sup>
+  <xref ref-type="bibr" rid="ref20">20</xref>
+ </sup> or the variance in the capacitance depending on the electrode potential
+ <sup>
+  <xref ref-type="bibr" rid="ref21">21</xref>
+ </sup> may evoke these components. In contrast to solving a complex differential equation, we applied the lsqcurvefit function for nonlinear fitting in MATLAB based on the Randles equivalent circuit. The red dots in 
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>B show the fitting result from the FT-based approach. Even this equivalent circuit shows some deviation from the experimental data in both the impedance and CV because the Au/electrolyte interface is not a perfectly ideal polarized electrode. Although the charging current for the electric double layer is dominant, experimental background current can come from various sources, though this is out of the scope of this manuscript. Note that the experimental impedance can be fitted with any equivalent circuit by our method. Then, the inverse Fourier transform results in the CV are expressed by the red line in 
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>C. These results demonstrate that the experimental electrochemical data in the time domain, such as the CV and galvanostatic charging/discharging data, can be modeled with an arbitrary circuit model to find the physical phenomena.
+</p>

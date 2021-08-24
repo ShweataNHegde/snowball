@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig5" orientation="portrait" position="float">
+ <label>Figure 5</label>
+ <caption>
+  <p>Performance of symmetric cells with PAA-coated N-doped graphene (N-graphene for short) and YP-50 electrodes. YP-50 electrode in (a–c), N-graphene-CCF-GP electrode in (d, e), with electrolyte (0.5 M H
+   <sub>2</sub>SO
+   <sub>4</sub> labeled as H
+   <sub>2</sub>SO
+   <sub>4</sub> and 2 M Li
+   <sub>2</sub>SO
+   <sub>4</sub> at pH ~6 labeled as Li
+   <sub>2</sub>SO
+   <sub>4</sub>) and PAA coating indicated where applicable. (a, d) CV curves at 2 mV s
+   <sup>−1</sup>. (b, e) Galvanostatic charging/discharging curves at 1 A g
+   <sup>−1</sup>. (c) Retention of initial capacitance of symmetric cell with coated vs. uncoated electrodes in 2 M Li
+   <sub>2</sub>SO
+   <sub>4</sub> (pH ~6). Inset: threshold voltage for water splitting determined by H
+   <sub>2</sub> accumulation (measured by gas chromatography) in a sealed symmetric cell under 24 h CV sweeping at 2 mV s
+   <sup>−1</sup>. (f) Ragone plot of specific energy versus specific power for several standard devices vs. our coated YP-50 and N-graphene symmetric cells using 2 M Li
+   <sub>2</sub>SO
+   <sub>4</sub> (pH ~6) electrolyte.
+  </p>
+ </caption>
+ <graphic xlink:href="RESEARCH2020-4178179.005" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

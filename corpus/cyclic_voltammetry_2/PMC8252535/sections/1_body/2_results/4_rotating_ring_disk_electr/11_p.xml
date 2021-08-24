@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In Figure 
+ <xref rid="cssc202100364-fig-0005" ref-type="fig">5</xref> and Figure 
+ <xref rid="cssc202100364-fig-0007" ref-type="fig">7</xref> one observes a positive shift of ORR half‐wave potential with increasing electrode roughness. In the DEMS measurement, the shift in half‐wave potential will not be quantified, as the whole electrode was roughened in a hanging meniscus setup, while only the inner part of the electrode surface has contact to the electrolyte in the DEMS cell. Therefore, only the RRDE experiment is used for further evaluation to avoid uncertainties in electrode roughness. To quantify the half‐wave potential shift, we start with the current density, which is given by the Koutecký‐Levich equation [Equation 
+ <xref rid="cssc202100364-disp-0001" ref-type="disp-formula">1</xref>]:
+ <disp-formula id="cssc202100364-disp-0001">
+  <label>(1)</label>
+  <math id="jats-math-24">
+   <mstyle displaystyle="true">
+    <mrow>
+     <mfrac>
+      <mn>1</mn>
+      <mi>i</mi>
+     </mfrac>
+     <mo>=</mo>
+     <mfrac>
+      <mn>1</mn>
+      <msub>
+       <mi>i</mi>
+       <mi mathvariant="normal">D</mi>
+      </msub>
+     </mfrac>
+     <mo>+</mo>
+     <mfrac>
+      <mn>1</mn>
+      <msub>
+       <mi>i</mi>
+       <mi mathvariant="normal">K</mi>
+      </msub>
+     </mfrac>
+    </mrow>
+   </mstyle>
+  </math>
+ </disp-formula>
+</p>

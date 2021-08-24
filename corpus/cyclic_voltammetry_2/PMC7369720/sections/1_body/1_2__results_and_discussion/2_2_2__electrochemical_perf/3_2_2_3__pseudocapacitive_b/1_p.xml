@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To further investigate the electrochemical storage mechanism of the MN-CNT7525 electrode, CV curves at different scan rates between 0.25 and 4.0 mV s
+ <sup>−1</sup> in the voltage range 1.0–1.8 V were recorded and shown, as in 
+ <xref ref-type="fig" rid="ijms-21-04689-f006">Figure 6</xref>a. It is seen that one maximum reduction peak and oxidation peak distinctly exist in each cycle, with an increase in specific current exhibited, as scan rates are raised. At much higher scan rates, redox peaks are still maintained at an increased specific current. According to previous studies, the peak current (
+ <italic>i</italic>) of the CV curves allows a power-law relationship with the scan rate (
+ <italic>v</italic>) and can be used to analyze the charge storage mechanism, as in Equation (4) [
+ <xref rid="B55-ijms-21-04689" ref-type="bibr">55</xref>]:
+ <disp-formula id="FD4-ijms-21-04689">
+  <label>(4)</label>
+  <math id="mm4">
+   <mrow>
+    <mrow>
+     <mi>i</mi>
+     <mo>=</mo>
+     <mi>a</mi>
+     <msup>
+      <mi>v</mi>
+      <mi>b</mi>
+     </msup>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where 
+ <italic>i</italic> and 
+ <italic>v</italic> are the peak specific current and scan rate, respectively, and 
+ <italic>a</italic>, 
+ <italic>b</italic> are adjustable parameters. Equation (4) can be converted to logarithmic form, as in Equation (5):
+ <disp-formula id="FD5-ijms-21-04689">
+  <label>(5)</label>
+  <math id="mm5">
+   <mrow>
+    <mrow>
+     <mi>ln</mi>
+     <mi>i</mi>
+     <mo>=</mo>
+     <mi>b</mi>
+     <mi>ln</mi>
+     <mi>v</mi>
+     <mo>+</mo>
+     <mi>ln</mi>
+     <mi>a</mi>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+</p>

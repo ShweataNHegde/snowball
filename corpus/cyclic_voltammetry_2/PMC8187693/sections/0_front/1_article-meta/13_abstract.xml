@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1" abstract-type="ArticleHighlights">
+ <title>Highlights</title>
+ <p id="Par111">
+  <list list-type="bullet">
+   <list-item>
+    <p id="Par23">Single-atom M-N
+     <sub>4</sub>/N-doped carbons (M = Fe, Co) prepared as OER/ORR catalysts.
+    </p>
+   </list-item>
+   <list-item>
+    <p id="Par24">Ultrasonication-assisted plasma engineering used for catalyst synthesis.</p>
+   </list-item>
+   <list-item>
+    <p id="Par25">Co-N
+     <sub>4</sub>/NC outperformed benchmark commercial catalysts in practical Zn–air battery test.
+    </p>
+   </list-item>
+   <list-item>
+    <p id="Par26">DFT calculations provided insights into the origin of superior ORR/OER performance.</p>
+   </list-item>
+  </list>
+ </p>
+ <sec>
+  <title>Supplementary Information</title>
+  <p>The online version contains supplementary material available at 10.1007/s40820-020-00581-4</p>
+ </sec>
+</abstract>

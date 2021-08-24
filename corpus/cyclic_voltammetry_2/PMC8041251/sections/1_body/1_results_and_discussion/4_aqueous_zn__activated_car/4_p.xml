@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The halide ion conversion–adsorption reaction is an electrocatalytic process where the reaction is greatly affected by the surface composition of the electrode.
+ <sup>
+  <xref ref-type="bibr" rid="ref44">44</xref>,
+  <xref ref-type="bibr" rid="ref45">45</xref>
+ </sup> CVs were used to see if this electrocatalytic effect is in play, and 
+ <xref rid="fig4" ref-type="fig">Figures 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>D and 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c20622/suppl_file/am0c20622_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">S6A</ext-link> show the CVs recorded for each electrode. At the AC–ZnCl
+ <sub>2</sub>Br
+ <sub>2</sub>I
+ <sub>2</sub>, a sharp oxidation peak at 1.18 V due to the conversion and adsorption of iodide species was seen along with a corresponding reduction peak at 1.06 V due to the reduction and recombination of iodide with Zn. Electrochemical data also suggest that the I
+ <sup>–</sup>/I
+ <sub>2</sub> redox reaction is a surface-controlled process at the AC electrode as both 
+ <italic>i</italic>
+ <sub>p,a</sub> and 
+ <italic>i</italic>
+ <sub>p,c</sub> are proportional to the scan rate (
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c20622/suppl_file/am0c20622_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S6C</ext-link>). The Δ
+ <italic>E</italic>
+ <sub>P</sub> for the I
+ <sup>–</sup>/I
+ <sub>2</sub> redox couple at AC–ZnCl
+ <sub>2</sub>Br
+ <sub>2</sub>I
+ <sub>2</sub> was 0.12 V in contrast to over 1.0 V at AC–ZnI
+ <sub>2</sub>. This demonstrates that the I
+ <sup>–</sup>/I
+ <sub>2</sub> redox reaction is kinetically much faster for the AC–ZnCl
+ <sub>2</sub>Br
+ <sub>2</sub>I
+ <sub>2</sub> case than the AC–ZnI
+ <sub>2</sub> system. Similarly, the Δ
+ <italic>E</italic>
+ <sub>P</sub> for the Br
+ <sup>–</sup>/Br
+ <sub>2</sub> redox couple decreased from 0.65 V at AC–ZnBr
+ <sub>2</sub> to 0.1 V at AC–ZnCl
+ <sub>2</sub>Br
+ <sub>2</sub>I
+ <sub>2</sub>, which confirms the electrocatalytic effect of the ternary halide mixture over the individual halides. In other words, the preadsorption of iodine, due to its low redox potential, on the AC surface improved the kinetics of bromine adsorption, which in turn improves the kinetics of chlorine adsorption similar to an electrodeposition process. 
+ <italic>Ex situ</italic> XPS was used to gauge the surface composition of fully charged Zn|AC–ZnCl
+ <sub>2</sub>Br
+ <sub>2</sub>I
+ <sub>2</sub> cell as shown in 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c20622/suppl_file/am0c20622_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S7</ext-link>. XPS shows the presence of Cl
+ <sup>–</sup>, Br
+ <sup>–</sup>, and I
+ <sup>–</sup> for the sample that was analyzed at OCP. However, the XPS signal due to all of the three-halogen species disappeared for the fully charged sample. This indicates that the halide ions are fully oxidized to molecular halogen and coadsorbed to the AC pore, which can sublime under the ultrahigh vacuum of the XPS. Nevertheless, the presence of preadsorbed halogen on the AC surface was confirmed using 
+ <italic>in situ</italic> Raman spectroscopy using AC–ZnI
+ <sub>2</sub> as an example electrode. As shown in 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c20622/suppl_file/am0c20622_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S8</ext-link>, the fully charged electrode displayed bands associated with surface-bound I
+ <sub>2</sub> species as well as the typical defective (
+ <italic>D</italic>) and G-band of AC. The SEM images of the AC–ZnCl
+ <sub>2</sub>B
+ <sub>2</sub>rI
+ <sub>2</sub> electrode at OCP and after full charging are also presented in 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c20622/suppl_file/am0c20622_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S9</ext-link>. The images after charging showed a pore swelling with significant size expansion due to the adsorption of halogens. Each of the expanded pores contained several smaller holes. The small pores could be created by the evaporation of the adsorbed halogen under the SEM-operating vacuum that leaves holes behind.
+</p>

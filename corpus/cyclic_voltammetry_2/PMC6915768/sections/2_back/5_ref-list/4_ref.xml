@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schmidt</surname>
+    <given-names>TJ</given-names>
+   </name>
+   <name>
+    <surname>Behm</surname>
+    <given-names>RJ</given-names>
+   </name>
+   <name>
+    <surname>Grgur</surname>
+    <given-names>BN</given-names>
+   </name>
+   <name>
+    <surname>Markovic</surname>
+    <given-names>NM</given-names>
+   </name>
+   <name>
+    <surname>Ross</surname>
+    <given-names>PN</given-names>
+   </name>
+  </person-group>
+  <article-title>Formic acid oxidation on pure and Bi-modified Pt (111) temperature effects</article-title>
+  <source>Langmuir.</source>
+  <year>2000</year>
+  <volume>16</volume>
+  <fpage>8159</fpage>
+  <lpage>8166</lpage>
+  <pub-id pub-id-type="doi">10.1021/la000339z</pub-id>
+ </element-citation>
+</ref>

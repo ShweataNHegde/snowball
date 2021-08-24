@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR39">
+ <label>39.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jeong</surname>
+    <given-names>YK</given-names>
+   </name>
+   <name>
+    <surname>Choi</surname>
+    <given-names>JW</given-names>
+   </name>
+  </person-group>
+  <article-title>Mussel-inspired self-healing metallopolymers for silicon nanoparticle anodes</article-title>
+  <source>ACS Nano</source>
+  <year>2019</year>
+  <volume>13</volume>
+  <fpage>8364</fpage>
+  <lpage>8373</lpage>
+  <pub-id pub-id-type="doi">10.1021/acsnano.9b03837</pub-id>
+  <?supplied-pmid 31246400?>
+  <pub-id pub-id-type="pmid">31246400</pub-id>
+ </element-citation>
+</ref>

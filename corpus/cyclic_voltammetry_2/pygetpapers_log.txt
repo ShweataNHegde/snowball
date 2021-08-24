@@ -1,0 +1,22 @@
+INFO:root:Making log file at cyclic_voltammetry_2\pygetpapers_log.txt
+INFO:root:Final query is ((cyclic voltammetry) AND batteries AND (disk electrode OR  scan rate OR  calendered electrodes))
+INFO:root:Total Hits are 359
+WARNING:root:Could not find more papers
+WARNING:root:Keywords not found for paper 3
+WARNING:root:Keywords not found for paper 11
+WARNING:root:Keywords not found for paper 16
+WARNING:root:pdf url not found for paper 16
+WARNING:root:Keywords not found for paper 19
+WARNING:root:Keywords not found for paper 24
+WARNING:root:Keywords not found for paper 27
+WARNING:root:Keywords not found for paper 28
+WARNING:root:Keywords not found for paper 29
+WARNING:root:Keywords not found for paper 33
+WARNING:root:Keywords not found for paper 37
+WARNING:root:Keywords not found for paper 39
+WARNING:root:Keywords not found for paper 40
+WARNING:root:Keywords not found for paper 43
+WARNING:root:Keywords not found for paper 46
+WARNING:root:Keywords not found for paper 49
+WARNING:root:Keywords not found for paper 50
+INFO:root:Saving XML files to c:\Users\shweata\snowball\cyclic_voltammetry_2\*\fulltext.xml

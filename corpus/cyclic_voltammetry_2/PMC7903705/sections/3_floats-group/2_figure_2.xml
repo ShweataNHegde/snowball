@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig2" position="float">
+ <label>Figure 2</label>
+ <caption>
+  <p>(a) Linear sweep voltammograms of Li|CE53|CE53-C|stainless-steel cells at a scan rate of 20 μV s
+   <sup>–1</sup> from 1.3 to 4.0 V 
+   <italic>vs</italic> Li
+   <sup>+</sup>/Li at 60 °C. (b) 
+   <italic>E</italic>
+   <sub>onset</sub> estimation from two linear regression lines of the nonfaradaic background current and faradaic anodic current.
+  </p>
+ </caption>
+ <graphic xlink:href="ae0c02525_0003" id="gr2" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

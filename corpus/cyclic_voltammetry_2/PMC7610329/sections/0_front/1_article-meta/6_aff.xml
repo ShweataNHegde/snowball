@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aff id="advs2021-aff-0001">
+ <label>
+  <sup>1</sup>
+ </label>
+ <named-content content-type="organisation-division">Beijing Advanced Innovation Center for Materials Genome Engineering</named-content>
+ <named-content content-type="organisation-division">Institute for Advanced Materials and Technology</named-content>
+ <named-content content-type="organisation-division">State Key Laboratory for Advanced Metals and Materials</named-content>
+ <institution>University of Science and Technology Beijing</institution>
+ <city>Beijing</city>
+ <span class="postal-code" xmlns="http://www.w3.org/1999/xhtml">100083</span>
+ <country country="CN">China</country>
+</aff>

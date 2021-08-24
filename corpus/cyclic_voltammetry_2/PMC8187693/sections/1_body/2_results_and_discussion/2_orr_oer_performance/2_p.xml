@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par45">The OER activities of Co-N
+ <sub>4</sub>/NC and Fe-N
+ <sub>4</sub>/NC were also investigated in 0.1 M KOH electrolyte. Among all, Co-N
+ <sub>4</sub>/NC features the lowest onset potential (1.52 V) and overpotential (1.60 V) at 10 mA cm
+ <sup>−2</sup>, while Fe-N
+ <sub>4</sub>/NC exhibited a similar overpotential of 1.63 V at 10 mA cm
+ <sup>−2</sup> (Fig. 
+ <xref rid="Fig6" ref-type="fig">6</xref>g). Both M-N
+ <sub>4</sub>/NCs showed better intrinsic OER activity than 5 wt % Ru/C (overpotential at 10 mA cm
+ <sup>−2</sup> = 1.67 V), while NC showed the worst OER performance (Fig. S11). As shown in Fig. 
+ <xref rid="Fig6" ref-type="fig">6</xref>h, the Tafel slopes of Co-N
+ <sub>4</sub>/NC, Fe-N
+ <sub>4</sub>/NC, and Ru/C equaled 138, 145, and 238 mV dec
+ <sup>−1</sup>, respectively. Thus, Co-N
+ <sub>4</sub>/NC presented both the highest OER activity and the best OER kinetics. The OER stability of Co-N
+ <sub>4</sub>/NC was determined by the chronoamperometry measurement at a constant potential of 1.6 V for 5000 s. Figure S12 indicates that Co-N
+ <sub>4</sub>/NC shows a large attenuation after 5000 s compared to its initial current density, illustrating that there is a certain instability under the relatively high operating potential. Compared to the relatively high ORR stability Co-N
+ <sub>4</sub>/NC at a potential of 0.6 V (Fig. S10), the stability at the higher potential range is much lower. The key aspects of the instability of single-atom metal catalysts are mainly due to (1) single-atom migration into cluster and (2) single-atom metal loss due to detachment [
+ <xref ref-type="bibr" rid="CR57">57</xref>]. Particularly, atomic metal atoms often drift on pristine carbon surfaces to form aggregate particles due to the relatively weak interactions between carbon and metal when compared to the strong 
+ <italic>sp</italic>
+ <sup>2</sup> binding between carbon atoms [
+ <xref ref-type="bibr" rid="CR58">58</xref>]. Some possible approaches have been reported, including stabilizing the single metal atoms on defective graphene [
+ <xref ref-type="bibr" rid="CR59">59</xref>], carbon vacancies [
+ <xref ref-type="bibr" rid="CR60">60</xref>], or introduction of foreign atoms such as nitrogen or sulfur into the carbon supports [
+ <xref ref-type="bibr" rid="CR61">61</xref>]. In particular, the atomic structure of M-N
+ <sub>4</sub> moieties was reported to anchor the single-atom metal site securely onto the carbon support [
+ <xref ref-type="bibr" rid="CR62">62</xref>–
+ <xref ref-type="bibr" rid="CR64">64</xref>]. For instance, Zhang et al. reproted a stable Co center atoms coordinated with four pyridinic N atoms of the Co-N
+ <sub>4</sub> plane [
+ <xref ref-type="bibr" rid="CR65">65</xref>]. Based on the XANES spectrum, ultrasonic-plasma-engineered Co-N
+ <sub>4</sub>/NC catalyst presents very similar pre-edge peak to that of cobalt phthalocyanine (CoPc), which proves the existence of a planar Co-N
+ <sub>4</sub> coordination. Based on the above literature reviews, this stable Co-N
+ <sub>4</sub> structure could have avoided the migration or detachment of single-atom metal active sites from the support. In contrast, the OER stability of Co-N
+ <sub>4</sub>/NC still shows low stability. Although the single-atom cobalt metal atoms are anchored strongly via the M-N
+ <sub>4</sub> carbon support, transitional metal active sites are easily oxidized during the OER process at high operating potential of 1.6 V [
+ <xref ref-type="bibr" rid="CR66">66</xref>]. Li et al. studied the stability of Co/Fe catalysts by in situ and 
+ <italic>operando</italic> X-ray absorption spectroscopy (XAS) to probe the structural and oxidation changes of transitional metal elements under 1.6 V versus RHE. Both Co and Fe showed a clear edge shift toward higher energy, which implied that the metal active sites were further oxidized compared to their original states. Furthermore, Co and Fe remain at its high oxidation state and the reaction was irreversible even the electrode potential was switched back to OCV [
+ <xref ref-type="bibr" rid="CR67">67</xref>].
+</p>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The capacity of the Li|CE26|TiS
+ <sub>2</sub> cell at RT for the first cycle is 51 mA h g
+ <sup>–1</sup> (
+ <xref rid="fig6" ref-type="fig">Figure 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref>), compared with the value of 139 mA h g
+ <sup>–1</sup> obtained for the 65th cycle at 60 °C. In order to clarify this difference, Figure S6 in the 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsaem.0c02525/suppl_file/ae0c02525_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Supporting Information</ext-link> shows the voltage profiles of the 65th charge and discharge cycles shown in 
+ <xref rid="fig5" ref-type="fig">Figure 
+  <xref rid="fig5" ref-type="fig">5</xref>
+ </xref> compared with those corresponding to the 1st cycle at RT (
+ <xref rid="fig6" ref-type="fig">Figure 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref>). It is clear that the decrease of the working temperature causes an increase of the cell polarization, indicating that the capacity drop (
+ <italic>i.e.</italic>, between the last cycle at 60 °C and the first cycle at RT) can be assigned to kinetic limitations due to the low temperature. During the 4 h rest, the evolution of the cell resistance was monitored by means of 
+ <italic>in situ</italic> EIS (Figure S7a in the 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsaem.0c02525/suppl_file/ae0c02525_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Supporting Information</ext-link>). The increase of the cell resistance during the 4 h rest at RT is mainly related to the decrease of the ionic conductivity of the SSE. Figure S7b in the 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsaem.0c02525/suppl_file/ae0c02525_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Supporting Information</ext-link> shows the contact resistance (
+ <italic>R</italic>
+ <sub>1</sub>) after each charge discharge cycle at RT. Assuming that the formation of the SEI was completed during the first cycles at 60 °C, the steady increase of 
+ <italic>R</italic>
+ <sub>1</sub> can be assigned to just a continuous contact loss, as also observed after the 30th cycle at 60 °C (Figure S4b in the 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsaem.0c02525/suppl_file/ae0c02525_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Supporting Information</ext-link>). Despite this, CE53 allowed to operate the Li|CE53|TiS
+ <sub>2</sub> system at RT, once the SEI was formed.
+</p>

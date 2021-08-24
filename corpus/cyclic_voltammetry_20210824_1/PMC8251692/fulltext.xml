@@ -1,0 +1,512 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Appl Mater Interfaces</journal-id><journal-id journal-id-type="iso-abbrev">ACS Appl Mater Interfaces</journal-id><journal-id journal-id-type="publisher-id">am</journal-id><journal-id journal-id-type="coden">aamick</journal-id><journal-title-group><journal-title>ACS Applied Materials &#x00026; Interfaces</journal-title></journal-title-group><issn pub-type="ppub">1944-8244</issn><issn pub-type="epub">1944-8252</issn><publisher><publisher-name>American
+Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">8251692</article-id><article-id pub-id-type="pmid">34128637</article-id><article-id pub-id-type="doi">10.1021/acsami.1c06013</article-id><article-categories><subj-group><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Caffeine-Derived
+Noble Carbons as Ball Milling-Resistant
+Cathode Materials for Lithium-Ion Capacitors</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-6974-2753</contrib-id><name><surname>Ilic</surname><given-names>Ivan K.</given-names></name><xref rid="notes1" ref-type="notes">&#x000a5;</xref></contrib><contrib contrib-type="author" id="ath2"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4252-3056</contrib-id><name><surname>Lepre</surname><given-names>Enrico</given-names></name><xref rid="notes1" ref-type="notes">&#x000a5;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath3"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-8438-9548</contrib-id><name><surname>L&#x000f3;pez-Salas</surname><given-names>Nieves</given-names></name><xref rid="cor1" ref-type="other">*</xref></contrib><aff id="aff1">Colloid Chemistry Department, <institution>Max Planck Institute of Colloids and Interfaces</institution>, Am M&#x000fc;hlenberg 1, Potsdam 14476, <country>Germany</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>nieves.lopezsalas@mpikg.mpg.de</email>. Tel.: <phone>+49 (331) 567-9511</phone>.</corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>06</month><year>2021</year></pub-date><pub-date pub-type="ppub"><day>30</day><month>06</month><year>2021</year></pub-date><volume>13</volume><issue>25</issue><fpage>29612</fpage><lpage>29618</lpage><history><date date-type="received"><day>01</day><month>04</month><year>2021</year></date><date date-type="accepted"><day>08</day><month>06</month><year>2021</year></date></history><permissions><copyright-statement>&#x000a9; 2021 The Authors. Published by American
+Chemical Society</copyright-statement><copyright-year>2021</copyright-year><copyright-holder>The Authors</copyright-holder><license><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am1c06013_0006" id="ab-tgr1"/></p><p>Energy consumption
+is a growing phenomenon in our society causing
+many negative effects such as global warming. There is a need for
+the development of new sustainable materials for energy storage. Carbons
+are materials derivable from biowaste that can rather easily store
+energy due to their high conductivity and surface area. However, their
+large-scale processing is challenging as derived materials can be
+rather heterogeneous and homogenization requires ball milling, a process
+that can damage carbons in the process of oxidation. Herein, we have
+prepared caffeine-derived noble nitrogen-doped carbon that withstands
+the ball milling process without significant oxidation. Additionally,
+it performs extraordinarily as a cathode material for lithium-ion
+capacitors, making it an attractive biowaste-derived alternative to
+commercial heavy metal cathodes.</p></abstract><kwd-group><kwd>ball milling</kwd><kwd>Li-ion capacitors</kwd><kwd>caffeine</kwd><kwd>noble carbons</kwd><kwd>sustainability</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution>Max-Planck-Gesellschaft</institution><institution-id institution-id-type="doi">10.13039/501100004189</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>am1c06013</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>am1c06013</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Global warming is a man-made phenomenon caused by the excessive
+production of greenhouse gases. The biggest share of greenhouse gases
+is carbon dioxide generated during the combustion of fossil fuels.
+There is an ongoing attempt to replace fossil fuels with carbon-neutral
+sources, mostly producing electrical energy from sun, wind, and hydropower.
+However, storage of electrical energy is not trivial and special devices
+for reversible electrical energy storage (i.e., EES devices) are needed.</p><p>The two main types of EES devices are secondary batteries and capacitors.
+Secondary batteries utilize two different redox reactions occurring
+on the opposite electrodes for EES, while capacitors utilize high
+surface area conductive networks for the electrostatic adsorption
+of ions on the surface.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> While secondary batteries exhibit
+high energy densities, capacitors show high power densities. Less
+than two decades ago, ion capacitors, a new type of hybrid EES device
+merging the advantages of batteries and capacitors, started to be
+developed.<sup><xref ref-type="bibr" rid="ref3">3</xref>&#x02212;<xref ref-type="bibr" rid="ref6">6</xref></sup> Ion capacitors utilize one battery-type electrode and one capacitor-type
+electrode to deliver a device with energy densities higher than capacitors
+and power densities higher than batteries.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> Hybrid lithium capacitors are of special interest as existing lithium-ion
+battery technologies, such as anodes, can be directly applied.</p><p>A common cathode material for lithium-ion capacitors is activated
+carbon due to its low price, good conductivity, high surface area,
+and synthesizability from biowaste.<sup><xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref9">9</xref></sup> Furthermore,
+nitrogen doping has been proven to improve the electroactivity of
+hybrid ion capacitors,<sup><xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref11">11</xref></sup> making highly N-doped materials
+an interesting choice for the synthesis of the new generation of lithium-ion
+hybrid capacitors. However, activated carbons and related materials
+are usually obtained as powders requiring the processing to prepare
+the electrodes. The preparation of electrodes from powdery materials
+is not a standardized process, and it varies from one research school
+to another. Though electrode preparation directly affects many of
+the properties of the final device tested, the process is often overlooked
+in research papers. Among the different strategies, ball milling using
+stainless steel jars is a well-established technique implemented in
+industry at a very large scale due to the fact that stainless steel
+is a relatively inexpensive as compared to other common ball milling
+materials such as tungsten carbide and zirconia. In the context of
+electrode preparation, ball milling is used to prepare homogeneous
+electrode inks by mixing the active material, a conductive additive,
+the binder, and the dispersing agent since it can easily be scaled
+up.<sup><xref ref-type="bibr" rid="ref12">12</xref>,<xref ref-type="bibr" rid="ref13">13</xref></sup> However, when ball milling the ink mixtures,
+they are submitted to harsh oxidation conditions. As a result, the
+active carbon materials undergo oxidation<sup><xref ref-type="bibr" rid="ref14">14</xref>&#x02212;<xref ref-type="bibr" rid="ref16">16</xref></sup> and end up
+contaminated mainly with iron coming from the stainless steel balls,
+as described previously for inorganic compounds.<sup><xref ref-type="bibr" rid="ref17">17</xref>,<xref ref-type="bibr" rid="ref18">18</xref></sup> As a result, the ball milling equipment erodes and the performance
+of the material becomes questionable as it often occurs that the effect
+of the metallic impurities in the carbonaceous materials is treated
+as part of the performance of the material.<sup><xref ref-type="bibr" rid="ref19">19</xref>,<xref ref-type="bibr" rid="ref20">20</xref></sup> In this context, noble carbons are very promising candidates for
+effective ball milling. Noble carbons are a new class of carbon-based
+materials comprising a high resistance upon oxidation.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> Noble carbons are obtained upon heat treatment
+of a series of specific organic precursors that are already very resistant
+upon oxidation themselves (i.e., ionic liquids, nucleobases, or certain
+organic dyes).<sup><xref ref-type="bibr" rid="ref12">12</xref>,<xref ref-type="bibr" rid="ref22">22</xref>&#x02212;<xref ref-type="bibr" rid="ref25">25</xref></sup> Contrary to what occurs when
+carbonizing a conventional precursor (i.e., glucose), a noble carbon
+precursor decomposition leads to the formation of new and even more
+stable bonds to satisfy thermodynamics, which results in materials
+with low HOMO levels and great stability upon oxidation.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> Recently, a noble C<sub>1</sub>N<sub>1</sub>-like material exhibiting large stability upon oxidation derived
+from guanine, a purine nucleobase, was reported. At high temperatures,
+the synthesis yielded a CN covalent material comprising less nitrogen
+(C/N ratio of 7) but still exhibiting high resistance upon oxidation
+and an ultrahigh surface area, thus standing as an excellent candidate
+for EES electrode ink preparation <italic>via</italic> ball milling.<sup><xref ref-type="bibr" rid="ref24">24</xref>,<xref ref-type="bibr" rid="ref25">25</xref></sup></p><p>In this paper, a noble CN material derived from caffeine (CafCN),
+a xanthine comprising a structure similar to purines, was compared
+to activated carbon with similar porosity (KC) and its nitrogen-doped
+analog (N-KC) in terms of electrochemical activity and resistance
+upon ball milling. The results were critically compared giving a great
+emphasis on the changes of these carbons as a result of electrode
+preparation <italic>via</italic> ball milling.</p></sec><sec id="sec2"><label>2</label><title>Materials and Methods</title><sec id="sec2.1"><label>2.1</label><title>Synthesis
+of the Materials</title><p>All the
+materials were used without further purification. Caffeine (99%) and
+cyanamide (98%) were purchased from Sigma-Aldrich. Kuraray was purchased
+from MTI. Hydrochloric acid was purchased from Merck. ZnCl<sub>2</sub> was purchased from Alfa Aesar, and NaCl was purchased from Fischer
+Chemicals. 1-Methyl-2-pyrrolidinone 99% (NMP) was purchased from Alfa
+Aesar and polyvinylidene difluoride (PVDF) was purchased from MPI
+Corporation.</p><sec id="sec2.1.1"><label>2.1.1</label><title>Synthesis of CafNC</title><p>In a normal
+procedure, caffeine (1 g) was mixed with 20 g of NaCl/ZnCl<sub>2</sub> (1/1 wt %) by grinding in an Agate mortar. The solid mixture was
+submitted to carbonization at 700 &#x000b0;C (2 h, 1 &#x000b0;C min<sup>&#x02013;1</sup>). After spontaneous cooling down, the system was
+washed with HCl (1 M, 400 mL) 3 times at room temperature. After the
+last washing, the material was dried at 70&#x000b0; at atmospheric pressure
+for 6 h and then at 150 &#x000b0;C in a vacuum overnight. The final product
+was obtained as a black fluffy powder, and it was obtained with 30%
+yield.</p></sec><sec id="sec2.1.2"><label>2.1.2</label><title>Synthesis of N-KC</title><p>Cyanamide (2
+g) was solubilized in 2 mL of water. Commercial Kuraray (1 g) was
+soaked in cyanamide solution and stirred for 6 h. After stirring,
+water was evaporated at 60 &#x000b0;C for 12 h. The dried solid mixture
+was then submitted to heat treatment at 800 &#x000b0;C (4 h, 1 &#x000b0;C
+min<sup>&#x02013;1</sup>). After spontaneous cooling down, the product
+was obtained as a black fluffy powder.</p></sec><sec id="sec2.1.3"><label>2.1.3</label><title>Ball
+Milling</title><p>To compare different
+carbons regarding their stability to ball milling, the samples (54
+mg) were put in stainless steel jars (12.5 mL equipped with five stainless
+steel balls with a diameter of 1 cm) and ground for 50 min at 650
+rpm in a planetary ball mill (Retsch PM 100).</p></sec></sec><sec id="sec2.2"><label>2.2</label><title>Characterization</title><p>Powder X-ray diffraction
+patterns were recorded with a Bruker D8 Advance instrument with Cu-K&#x003b1;
+as a radiation source (&#x003bb; = 0.154 nm). A NaI scintillation counter
+detector was used to observe X-ray diffractions. The patterns were
+analyzed in a range between 5 and 70&#x000b0; for 2&#x003b8; with steps
+of 0.05&#x000b0; and 2 s.</p><p>Thermogravimetric analysis was carried
+out in synthetic air as a gas carrier (20 cm<sup>3</sup> min<sup>&#x02013;1</sup>) and with a heating rate of 10 K min<sup>&#x02013;1</sup> in a Pt
+crucible. In a typical analysis, 10 mg of samples was weighed with
+a Thermo Microbalance TG 209 F1 Libra (Netzsch Selb, Germany) while
+increasing the temperature.</p><p>A PerkinElmer ICP-OES Optima 8000
+was used to perform inductively
+coupled plasma optical emission spectroscopy (ICP-OES). In a standard
+procedure, 10 mg of samples was dissolved in 500 &#x003bc;L of a 1:3
+HNO<sub>3</sub>:HCl mixture before the analysis. The heterogeneous
+mixture was kept at room temperature for 12 h and at 96 &#x000b0;C for
+1 h. After spontaneous cooling down, the samples were diluted in ultrapure
+water to 10 mL and filtrated after the measurement. Four calibration
+standard solutions per element were used to obtain the curve.</p><p>Scanning electron microscopy (SEM) was recorded on a LEO 15550-Gemini
+instrument. Before the analysis, the samples were sputtered with a
+ca. 10 nm layer of an 80% gold and 20% platinum mixture. Energy-dispersive
+X-ray (EDX) spectroscopy was run using a couple of EDX analyzers (Oxford
+Instruments). An EM 102 Zeiss instrument operating at 120 kV was used
+to record transmission electron microscopy micrographs (TEM). The
+samples were prepared on a copper grid by drop-casting sample dispersions
+in ethanol.</p><p>Nitrogen adsorption and desorption isotherms at
+77 K were analyzed
+by a Quantachrome Quadrasorb SI apparatus. A 3P Instruments Masterprep
+degassing machine was used to degas the samples at 150 &#x000b0;C under
+vacuum (0.5 Torr) for 20 h before the measurements. The Brunauer&#x02013;Emmett&#x02013;Teller
+(BET) method was used to calculate the specific surface area from
+adsorption branch data (<italic>P</italic>/<italic>P</italic><sub>0</sub> &#x0003c; 0.2). The total pore volume (<italic>V</italic><sub>T</sub>) was calculated from the amount of gas adsorbed at <italic>P</italic>/<italic>P</italic><sub>0</sub> = 0.995. Pore size distributions
+were calculated by the nitrogen adsorption branch using the quenched
+solid density functional theory (QSDFT) model.</p></sec><sec id="sec2.3"><label>2.3</label><title>Electrochemical
+Characterization of the Materials</title><p>Electrodes were prepared
+by taking 42 mg of the respective carbon
+material and ball milling it along with 12 mg of Super P carbon in
+stainless steel jars (12.5 mL equipped with five stainless steel balls
+with a diameter of 1 cm) for 50 min at 650 rpm in a planetary ball
+mill (Retsch PM 100). After the initial grinding, 1 mL of PVDF solution
+was added (concentration, 6 mg mL<sup>&#x02013;1</sup>) and the prepared
+sample was further ground for 10 more minutes. The prepared ink (40
+&#x003bc;L) was dropped on 11 mm carbon paper discs (Spectracarb 2050A-0550)
+that were dried for 1 h at 80 &#x000b0;C in the air to remove possible
+volatile impurities. The formed electrodes were dried at 120 &#x000b0;C
+for 17 h under vacuum. Sample ng-C/CafNC was prepared without initial
+grinding. Loading of all the electrodes was 2.0&#x02013;2.5 mg cm<sup>&#x02013;2</sup>. Furthermore, the exact mass of all the electrodes
+can be found in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.1c06013/suppl_file/am1c06013_si_001.pdf">Table S4</ext-link>.</p><p>All electrochemical
+measurements were performed in Swagelok-type cells. Lithium foil,
+Celgard 2325 (13 mm in diameter, 25 &#x003bc;m thick), and 1 M LiPF<sub>6</sub> in ethylene carbonate and diethyl carbonate (volumetric ratio
+of 1:1, 100 &#x003bc;L, a solution used as obtained from Sigma-Aldrich)
+were used as the counter electrode, membrane, and electrolyte, respectively.
+A circular carbon current collector covered with the active material
+was used as a working electrode. All Swagelok-type cells were assembled
+in a glovebox with low water and oxygen levels. Charging-discharging
+measurements were performed at constant current densities (0.2 A g<sup>&#x02013;1</sup> for 100 cycles and 0.8 A g<sup>&#x02013;1</sup> for
+1000 cycles) or at varying current densities (20 cycles at 0.05 A
+g<sup>&#x02013;1</sup>, 10 cycles at 0.10 A g<sup>&#x02013;1</sup>,
+10 cycles at 0.20 A g<sup>&#x02013;1</sup>, 10 cycles at 0.40 A g<sup>&#x02013;1</sup>, 10 cycles at 0.80 A g<sup>&#x02013;1</sup>, and 10
+cycles at 0.05 A g<sup>&#x02013;1</sup>) in triplicate. Cyclic voltammetry
+was performed by cycling at 5 mV s<sup>&#x02013;1</sup> during 30 cycles
+and at 2, 1, 0.5, 0.2, and 0.1 mV s<sup>&#x02013;1</sup> for subsequently
+one cycle each. In the displayed cycling voltammetry curves, the last
+cycle at the respective speed is always shown unless mentioned otherwise.</p></sec></sec><sec id="sec3"><label>3</label><title>Results and Discussion</title><sec id="sec3.1"><label>3.1</label><title>Synthesis
+and Characterization of Caffeine-Derived
+Noble Carbon (CafNC)</title><p>A porous NC material was prepared from
+caffeine by submitting the precursor to heat treatment in the presence
+of a NaCl and ZnCl<sub>2</sub> (1:1 wt/wt) salt mix as porogen.<sup><xref ref-type="bibr" rid="ref12">12</xref>,<xref ref-type="bibr" rid="ref24">24</xref>,<xref ref-type="bibr" rid="ref26">26</xref>,<xref ref-type="bibr" rid="ref27">27</xref></sup> In brief, 1 g of caffeine was mixed in a ratio of 1:20 wt/wt with
+the salt mix and treated at 700 &#x000b0;C in a nitrogen atmosphere.
+After cooling down, the rest of the salts were washed away using 1
+M HCl. The prepared sample will be named hereafter as CafNC. SEM&#x02013;EDX
+results (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>) show
+that CafNC is a nitrogen-rich carbonaceous material with a C/N ratio
+of 3.2.<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> For comparison purposes, commercial
+non-noble porous carbon (i.e., Kuraray active carbon, herein KC) and
+nitrogen-doped carbon KC (herein N-KC) have been used (further details
+on N-KC preparation can be found in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.1c06013/suppl_file/am1c06013_si_001.pdf">Supporting Information</ext-link>). While KC shows a C/N ratio equal to 16, after
+being doped, N-KC shows a C/N ratio of 8.2. Fourier transformed infrared
+spectroscopy (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.1c06013/suppl_file/am1c06013_si_001.pdf">Figure S1a</ext-link>) was used to evaluate
+chemical bond differences between the samples. While KC and N-KC show
+almost no absorption features, CafNC shows bands at 3200, 1576, 1192,
+and 663 cm<sup>&#x02013;1</sup> ascribed to N&#x02013;H, C=N,
+C&#x02013;N, and C&#x02013;N-heterocycle vibrations of the material,
+respectively. XRD patterns (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.1c06013/suppl_file/am1c06013_si_001.pdf">Figure S1b</ext-link>)
+show a broad peak centered at 26&#x000b0; typically ascribed to graphitic
+stacking. The broad nature of the peak indicates that samples are
+not well ordered. In the case of KC and N-KC, a second broad peak
+at 44&#x000b0; ascribed to in-plane carbon atoms is visible.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup></p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Specific Surface
+Area, Total Pore
+Volume, and EDX Results</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="char" char="."/><col align="left"/><col align="left"/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center" char=".">&#x000a0;</th><th colspan="4" align="center">EDX<hr/></th></tr><tr><th style="border:none;" align="center">sample</th><th style="border:none;" align="center"><italic>S</italic><sub>BET</sub> (m<sup>2</sup>&#x000a0;g<sup>&#x02013;1</sup>)</th><th style="border:none;" align="center" char=".">total pore volume (cm<sup>3</sup>&#x000a0;g<sup>&#x02013;1</sup>)</th><th style="border:none;" align="center">C (wt
+%)</th><th style="border:none;" align="center">N (wt %)</th><th style="border:none;" align="center">O (wt %)</th><th style="border:none;" align="center">C/N (at)</th></tr></thead><tbody><tr><td style="border:none;" align="left">CafNC</td><td style="border:none;" align="left">1496</td><td style="border:none;" align="char" char=".">0.654</td><td style="border:none;" align="left">70</td><td style="border:none;" align="left">22</td><td style="border:none;" align="left">5</td><td style="border:none;" align="left">4</td></tr><tr><td style="border:none;" align="left">KC</td><td style="border:none;" align="left">1672</td><td style="border:none;" align="char" char=".">0.763</td><td style="border:none;" align="left">80</td><td style="border:none;" align="left">5</td><td style="border:none;" align="left">5</td><td style="border:none;" align="left">18</td></tr><tr><td style="border:none;" align="left">N-KC</td><td style="border:none;" align="left">1422</td><td style="border:none;" align="char" char=".">0.635</td><td style="border:none;" align="left">86</td><td style="border:none;" align="left">10</td><td style="border:none;" align="left">4</td><td style="border:none;" align="left">10</td></tr></tbody></table></table-wrap><p>Scanning electron microscopy images
+of CafNC at large magnification
+show a rough surface, indicating that the salt melt chosen acted as
+an effective template to induce a very narrow porous network in the
+sample (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.1c06013/suppl_file/am1c06013_si_001.pdf">Figure S2</ext-link>). The KC surface is rough
+as expected due to the characteristic of the commercial sample. Sample
+N-KC preserves its surface roughness, also indicating that the porous
+network of KC was not fully clogged by the synthetic strategy chosen
+to introduce heteroatoms. On the other hand, transmission electron
+microscopy images suggest the presence of a mesoporous network for
+samples KC and N-KC whereas a much flatter morphology of CafNC indicates
+mainly the presence of micropores in the sample.</p><p>N<sub>2</sub> adsorption isotherms were used to further evaluate
+the porous morphology of the materials. KC and N-KC exhibit a combination
+of type I and type IV N<sub>2</sub> adsorption isotherms at 77 K indicative
+of the presence of both mesopores and micropores in the samples (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a). On the other
+hand, CafNC shows a type I isotherm with a slight hysteresis at intermediate
+relative pressures, indicating that the sample is mainly microporous
+but also shows some mesoporosity. Specific surface areas were calculated
+using the Brunauer&#x02013;Emmett&#x02013;Teller (BET) method. As can
+be seen in <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>,
+the materials show very similar surface areas (i.e., 1496, 1672, and
+1422 m<sup>2</sup> g<sup>&#x02013;1</sup> for CafNC, KC, and N-KC,
+respectively) and total pore volumes. Pore size distribution (PSD)
+calculated using quenched solid density functional theory (QSDFT)
+to nitrogen adsorption isotherms shows that all the samples present
+well-defined mesopores of 2.2 nm in diameter (see <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b).</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(a) N<sub>2</sub> adsorption/desorption
+isotherm at 77 K and (b)
+pore size distribution and cumulative pore volume calculated by QSDFT
+from the N<sub>2</sub> adsorption branch at 77 K of CafNC, KC, and
+N-KC.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am1c06013_0002" id="gr1" position="float"/></fig><p>Previously, it was reported that
+non-noble carbons tend to get
+severely oxidized upon ball milling.<sup><xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup> In the process, they absorb iron from the sample,
+but no trace of iron particles was observed. It was concluded that
+iron leakage during ball milling is connected to the oxidation of
+carbon. CafNC, as representative noble carbon, Kuraray carbon (KC),
+and nitrogen-doped Kuraray carbon (N-KC) were ball-milled for 50 min
+and compared. Elemental analysis before and after ball milling for
+50 min was run in all three samples (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.1c06013/suppl_file/am1c06013_si_001.pdf">Table S1</ext-link> and <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>). Upon
+grinding, both KC and N-KC undergo significant oxidation (lower relative
+carbon content), which is not observed in the case of CafNC. This
+points to the high oxidative resistance of CafNC as part of the noble
+carbon family. Thermogravimetric analyses in synthetic air for CafNC,
+KC, and N-KC (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.1c06013/suppl_file/am1c06013_si_001.pdf">Figure S3</ext-link>) give more information
+on the type of stability of the samples toward oxidative environments.
+Interestingly, CafNC shows lower stability of this material when compared
+to KC and N-KC, which indicates that the oxidation path where the
+sample undergoes upon ball milling is different from the one occurring
+upon heat treatment. The differences between thermal oxidation and
+oxidation upon ball milling made us track iron and chromium contamination
+upon ball milling by ICP-OES (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.1c06013/suppl_file/am1c06013_si_001.pdf">Table S2</ext-link>). All the
+pristine carbons contained insignificant levels of iron contamination,
+but upon ball milling, KC and N-KC absorb significantly more iron
+than CafNC. Similar iron absorption by KC (nitrogen content around
+1%) and N-KC (nitrogen content around 5%) highlights the independence
+of metal adsorption from the nitrogen content. The much lower iron
+uptake of CafCN and much larger resistance upon ball milling oxidation
+indicate that the oxidation mechanism occurring involves the incorporation
+of metals from the grinding balls. Interestingly, noble CN materials
+resist that process much better than conventional carbons. To prove
+that the resistance does not only correlate to the nitrogen content
+of the sample, a sample identical to CafCN but treated at 800 &#x000b0;C
+(herein called CafCN800) was prepared and its composition was analyzed
+before and after 50 min of ball milling. The results summarized in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.1c06013/suppl_file/am1c06013_si_001.pdf">Table S3</ext-link> show that sample CafCN800 has a very
+similar composition to N-KC; however, its resistance toward oxidation
+is similar to that of CafCN, i.e., nor oxygen neither iron content
+increase upon ball milling.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Elemental content of pristine and ground CafNC,
+KC, and N-KC as
+determined from combustive elemental analysis (C, N, and O) and ICP-EOS
+(Fe).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am1c06013_0003" id="gr2" position="float"/></fig><fig id="fig3" position="float"><label>Figure 3</label><caption><p>(a) Discharge capacities as calculated from
+charging-discharging
+tests of CafNC with (C/CafNC) and without (ng-C/CafNC) prior ball
+milling. SEM images of ng-C/CafNC (b) and as-prepared C/CafNC (c)
+electrodes. The white bars represent 2 &#x003bc;m.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am1c06013_0004" id="gr3" position="float"/></fig></sec><sec id="sec3.2"><label>3.2</label><title>Enhanced Performance of Ball-Milled CafNC</title><p>The electrochemical performance of CafNC was tested after its incorporation
+in electrodes. CafNC powder was mixed with a conductive additive and
+ground for 50 min. Afterward, 1 mL of NMP with a dispersed binder
+was added and the mixture was further milled for 10 min to assure
+good dispersion of the ink (details of the procedure are given in
+the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.1c06013/suppl_file/am1c06013_si_001.pdf">Supporting Information</ext-link>). Upon drying,
+a sample denoted as C/CafNC was obtained. The importance of ball milling
+before ink preparation was assessed by the electrochemical test of
+the ink prepared without prior ball milling (ng-C/CafNC). Performances
+of C/CafNC and ng-C/CafNC were evaluated <italic>via</italic> galvanostatic
+charging-discharging measurements at 0.2 A g<sup>&#x02013;1</sup> during
+100 cycles (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.1c06013/suppl_file/am1c06013_si_001.pdf">Figure S4</ext-link>). Alike non-noble carbons,
+ball-milled CafNC shows superior electrochemical performance to the
+non-ball-milled ones.<sup><xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref30">30</xref></sup></p><p>A better understanding
+of the differences between the pre-ground and directly prepared carbon
+ink was achieved by analyzing the samples using scanning electron
+microscopy (SEM) (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b,c). SEM micrographs show how C/CafNC exhibits much smaller
+particles than r-C/CafNC, resulting in better contact between the
+particles of CafNC and the conductive additive. Additionally, the
+homogeneity of the sample was evaluated <italic>via</italic> energy-dispersive
+X-ray spectroscopy (EDX), and contrary to the high nitrogen content
+of CafNC, the conductive additive has virtually no nitrogen. EDX mapping
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.1c06013/suppl_file/am1c06013_si_001.pdf">Figure S5</ext-link>) shows the homogeneous distribution
+of all the elements in the ball-milled sample; however, it shows the
+heterogeneous distribution of nitrogen without prior ball milling,
+suggesting an inhomogeneous sample with regions rich with Super P
+and CafCN.</p><p>The performance of the three carbons as electrodes
+in lithium-ion
+supercapacitors was analyzed (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.1c06013/suppl_file/am1c06013_si_001.pdf">Figure S6</ext-link>). While KC and N-KC perform similarly, CafNC performs significantly
+better, more than twice as good upon 50 cycles. This can be ascribed
+to the resistance of CafNC to oxidative damage upon sample preparation
+and its larger nitrogen content. For instance, it is well known that
+a high nitrogen content increases the performance of supercapacitors
+due to electrostatic stabilization of adsorbed ions<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> as all three pristine carbons have otherwise similar porosities,
+as measured by nitrogen (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a).</p></sec><sec id="sec3.3"><label>3.3</label><title>Detailed Investigation
+of Electrochemical
+Performance of CafNC</title><p>Electrochemical performance of C/CafNC
+was studied in depth <italic>via</italic> charging-discharging tests
+at varying current densities, for 300 cycles at a constant current
+density of 0.8 A g<sup>&#x02013;1</sup>, and <italic>via</italic> cyclic
+voltammetry at varying scan rates (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>). Samples tested <italic>via</italic> charging-discharging
+tests at different current densities were first cycled for 20 cycles
+at 0.05 A g<sup>&#x02013;1</sup> until no significant change in the
+capacity was observed. Subsequently, the current density was increased
+to 0.1, 0.2, 0.4, and 0.8 A g<sup>&#x02013;1</sup> for 10 cycles each,
+only to be reduced to the beginning value for the last 10 cycles (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a). At a current
+density of 0.05 A g<sup>&#x02013;1</sup>, the maximum observed discharge
+capacities are around 55 mA g<sup>&#x02013;1</sup>, and as expected,
+they are reduced upon the increase in current densities. However,
+no significant reduction has been observed as discharge capacities
+of around 30 mAh g<sup>&#x02013;1</sup> are visible at a high current
+density of 0.8 A g<sup>&#x02013;1</sup>. Upon the decrease in current
+density to the original value of 0.05 A g<sup>&#x02013;1</sup>, the
+capacities increase reaching similar values as in the first 20 cycles,
+pointing that no damage was done to the samples at higher current
+densities. Charging-discharging profiles are distorted triangles as
+expected for hybrid lithium capacitors (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b).<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> Additionally,
+they show that both charging and discharging are quick so that a full
+cycle occurs in less than 5 min at 0.8 A g<sup>&#x02013;1</sup>.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Detailed study
+of the electrochemical performance of C/CafNC. (a)
+Charging-discharging tests at varying current densities. (b) Charging-discharging
+profiles at different current densities. (c) Cyclic voltammetry of
+C/CafNC at varying scan rates. (d) Calculated surface-controlled contributions
+to capacity. (e) Charging-discharging test at 0.8 A g<sup>&#x02013;1</sup> for 300 cycles.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am1c06013_0005" id="gr4" position="float"/></fig><p>Cyclic voltammetry experiments
+were performed at varying scan rates.
+First, the cell was cycled at 5 mV s<sup>&#x02013;1</sup> for 30 cycles,
+allowing for the cyclic voltammogram to stabilize (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.1c06013/suppl_file/am1c06013_si_001.pdf">Figure S7</ext-link>). At changing scan rates, no significant change
+in the shape of the curve was observed (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c) and the distorted rectangular shape, appearing
+as peaks, is characteristic for hybrid lithium capacitors. Distortion
+can be ascribed to the limited accessibility of cations into the pores
+at the potentials below the open-circuit voltage (around 3.2 V, as
+calculated from <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.1c06013/suppl_file/am1c06013_si_001.pdf">Figure S8</ext-link>).<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> From experiments, at varying scan rates, surface-
+and diffusion-controlled contribution to the capacity were determined
+according to the model well described in the previous studies.<sup><xref ref-type="bibr" rid="ref33">33</xref>,<xref ref-type="bibr" rid="ref34">34</xref></sup> As expected for a capacitor, an almost purely surface-controlled
+reaction was observed (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>d). Details of the calculation can be found in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.1c06013/suppl_file/am1c06013_si_001.pdf">Supporting Information</ext-link>, assessment of the model
+can be found in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.1c06013/suppl_file/am1c06013_si_001.pdf">Figure S9</ext-link>, and the comparison
+of the calculated and measured cyclic voltammograms can be found in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.1c06013/suppl_file/am1c06013_si_001.pdf">Figure S10</ext-link>.</p><p>Last, the sample was cycled
+at 0.8 A g<sup>&#x02013;1</sup> for
+300 cycles (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>e). The capacity first reaches, due to slow wetting of more and more
+of the carbon&#x02019;s surface, a capacity of around 45 mAh g<sup>&#x02013;1</sup>, retaining the said capacity without significant
+loss after 200 more cycles. The extraordinary performance of the material
+can be ascribed to a high nitrogen content and ball-milling resistivity.
+As the material is biowaste-derived, it holds great potential for
+commercial applications.</p></sec></sec><sec id="sec4"><label>4</label><title>Conclusions</title><p>Noble
+carbon, a class of nitrogen-rich carbonaceous material characterized
+by its resistance to oxidation, derived from caffeine was prepared
+and characterized. Additionally, it was used as a model noble carbon
+material to investigate its resistivity to oxidation during ball milling
+and compared to non-noble carbon and nitrogen-doped non-noble carbon
+with similar porosity. Non-noble carbon withstands not only a much
+lower oxidation but also a much lower uptake of iron from the milling
+equipment. Last, such carbon performs much better than its non-noble
+counterpart does as a lithium-hybrid capacitor, achieving extraordinary
+performance ascribed to its processability in the ball mill and high
+nitrogen content.</p></sec></body><back><notes id="notes2" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsami.1c06013?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsami.1c06013</ext-link>.<list id="silist" list-type="simple"><list-item><p>FTIR transmittance spectra,
+powder XRD diffraction patterns,
+SEM and TEM micrographs and thermogravimetric analysis in synthetic
+air of CafNC, KC, and N-KC; the 50th cycle charging and discharging
+curve of CafNC with and without prior ball milling at 0.2 A g<sup>&#x02013;1</sup>; the 50th cycle charging and discharging curve of
+CafCN, KC, and N-KC at 0.2 A g<sup>&#x02013;1</sup>; SEM and EDX mapping
+(carbon, nitrogen, and oxygen) of the electrodes as prepared with
+and without prior ball milling; integrated cyclic voltammograms at
+5 mV s<sup>&#x02013;1</sup>; open-circuit voltage of the C/CafNC cell
+before the cyclic voltammetry test; the assessment of the model used
+for surface-controlled contribution evaluation and cyclic voltammogram
+at 1 mV s<sup>&#x02013;1</sup> as calculated and as measured; elemental
+chemical analysis of samples before and after the ball milling grinding
+process; a summary of ICP analysis before and after the ball milling
+grinding procedure; the elemental chemical analysis of CafNC800 before
+and after ball milling; and the masses of all the electrodes used
+in the preparation of this manuscript (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.1c06013/suppl_file/am1c06013_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am1c06013_si_001.pdf"><caption><p>am1c06013_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes1"><title>Author Contributions</title><p><sup>&#x000a5;</sup> I.K.I. and E.L. contributed equally to this work.</p></notes><notes notes-type="COI-statement" id="NOTES-d7e834-autogenerated"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>We acknowledge
+Jessica Brandt for help in the laboratory
+and with ICP-OES measurements. Furthermore, the authors would like
+to thank Antje V&#x000f6;lkel for help with elemental analysis and
+TGA measurements and Heike Runge for help with SEM measurements. The
+Max Planck Society is gratefully acknowledged for financial support.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Winter</surname><given-names>M.</given-names></name>; <name><surname>Barnett</surname><given-names>B.</given-names></name>; <name><surname>Xu</surname><given-names>K.</given-names></name>
+<article-title>Before Li
+Ion Batteries</article-title>. <source>Chem. Rev.</source>
+<year>2018</year>, <volume>118</volume>, <fpage>11433</fpage>&#x02013;<lpage>11456</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemrev.8b00422</pub-id>.<pub-id pub-id-type="pmid">30500179</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Simon</surname><given-names>P.</given-names></name>; <name><surname>Gogotsi</surname><given-names>Y.</given-names></name>
+<article-title>Materials for Electrochemical Capacitors</article-title>. <source>Nat. Mater.</source>
+<year>2010</year>, <volume>7</volume>, <fpage>138</fpage>&#x02013;<lpage>147</lpage>. <pub-id pub-id-type="doi">10.1142/9789814317665_0021</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Amatucci</surname><given-names>G. G.</given-names></name>; <name><surname>Badway</surname><given-names>F.</given-names></name>; <name><surname>Du Pasquier</surname><given-names>A.</given-names></name>; <name><surname>Zheng</surname><given-names>T.</given-names></name>
+<article-title>An Asymmetric Hybrid
+Nonaqueous Energy Storage Cell</article-title>. <source>J. Electrochem.
+Soc.</source>
+<year>2001</year>, <volume>148</volume>, <fpage>A930</fpage><pub-id pub-id-type="doi">10.1149/1.1383553</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Lukatskaya</surname><given-names>M. R.</given-names></name>; <name><surname>Dunn</surname><given-names>B.</given-names></name>; <name><surname>Gogotsi</surname><given-names>Y.</given-names></name>
+<article-title>Multidimensional Materials and Device
+Architectures for Future Hybrid Energy Storage</article-title>. <source>Nat. Commun.</source>
+<year>2016</year>, <volume>7</volume>, <fpage>12647</fpage><pub-id pub-id-type="doi">10.1038/ncomms12647</pub-id>.<pub-id pub-id-type="pmid">27600869</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Dubal</surname><given-names>D. P.</given-names></name>; <name><surname>Ayyad</surname><given-names>O.</given-names></name>; <name><surname>Ruiz</surname><given-names>V.</given-names></name>; <name><surname>G&#x000f3;mez-Romero</surname><given-names>P.</given-names></name>
+<article-title>Hybrid Energy
+Storage: The Merging of Battery and Supercapacitor Chemistries</article-title>. <source>Chem. Soc. Rev.</source>
+<year>2015</year>, <volume>44</volume>, <fpage>1777</fpage>&#x02013;<lpage>1790</lpage>. <pub-id pub-id-type="doi">10.1039/c4cs00266k</pub-id>.<pub-id pub-id-type="pmid">25623995</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Tie</surname><given-names>D.</given-names></name>; <name><surname>Huang</surname><given-names>S.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Ma</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Zhao</surname><given-names>Y.</given-names></name>
+<article-title>Hybrid Energy Storage Devices: Advanced
+Electrode Materials and Matching
+Principles</article-title>. <source>Energy Storage Mater.</source>
+<year>2019</year>, <volume>21</volume>, <fpage>22</fpage>&#x02013;<lpage>40</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2018.12.018</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Ding</surname><given-names>J.</given-names></name>; <name><surname>Hu</surname><given-names>W.</given-names></name>; <name><surname>Paek</surname><given-names>E.</given-names></name>; <name><surname>Mitlin</surname><given-names>D.</given-names></name>
+<article-title>Review of
+Hybrid Ion Capacitors:
+From Aqueous to Lithium to Sodium</article-title>. <source>Chem. Rev.</source>
+<year>2018</year>, <volume>118</volume>, <fpage>6457</fpage>&#x02013;<lpage>6498</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemrev.8b00116</pub-id>.<pub-id pub-id-type="pmid">29953230</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Phattharasupakun</surname><given-names>N.</given-names></name>; <name><surname>Wutthiprom</surname><given-names>J.</given-names></name>; <name><surname>Ma</surname><given-names>N.</given-names></name>; <name><surname>Chanlek</surname><given-names>N.</given-names></name>; <name><surname>Sawangphruk</surname><given-names>M.</given-names></name>
+<article-title>Sodium-Ion
+Diffusion and Charge Transfer Kinetics of Sodium-Ion Hybrid Capacitors
+Using Bio-Derived Hierarchical Porous Carbon</article-title>. <source>Electrochim. Acta</source>
+<year>2018</year>, <volume>286</volume>, <fpage>55</fpage>&#x02013;<lpage>64</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2018.08.029</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Vadivazhagan</surname><given-names>M.</given-names></name>; <name><surname>Parameswaran</surname><given-names>P.</given-names></name>; <name><surname>Mani</surname><given-names>U.</given-names></name>; <name><surname>Nallathamby</surname><given-names>K.</given-names></name>
+<article-title>Waste-Driven
+Bio-Carbon Electrode Material for Na-Ion Storage Applications</article-title>. <source>ACS Sustainable Chem. Eng.</source>
+<year>2018</year>, <volume>6</volume>, <fpage>13915</fpage>&#x02013;<lpage>13923</lpage>. <pub-id pub-id-type="doi">10.1021/acssuschemeng.8b02199</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Dubal</surname><given-names>D.</given-names></name>; <name><surname>Jagadale</surname><given-names>A.</given-names></name>; <name><surname>Chodankar</surname><given-names>N. R.</given-names></name>; <name><surname>Kim</surname><given-names>D.-H.</given-names></name>; <name><surname>Gomez-Romero</surname><given-names>P.</given-names></name>; <name><surname>Holze</surname><given-names>R.</given-names></name>
+<article-title>Polypyrrole Nanopipes
+as a Promising Cathode Material for Li-Ion
+Batteries and Li-Ion Capacitors: Two-in-One Approach</article-title>. <source>Energy Technol.</source>
+<year>2018</year>, <volume>7</volume>, <fpage>193</fpage>&#x02013;<lpage>200</lpage>. <pub-id pub-id-type="doi">10.1002/ente.201800551</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Wang</surname><given-names>R.</given-names></name>; <name><surname>Jin</surname><given-names>D.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>S.</given-names></name>; <name><surname>Lang</surname><given-names>J.</given-names></name>; <name><surname>Yan</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>L.</given-names></name>
+<article-title>Engineering
+Metal Organic Framework Derived 3D Nanostructures for
+High Performance Hybrid Supercapacitors</article-title>. <source>J.
+Mater. Chem. A</source>
+<year>2017</year>, <volume>5</volume>, <fpage>292</fpage>&#x02013;<lpage>302</lpage>. <pub-id pub-id-type="doi">10.1039/c6ta09143a</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Pampel</surname><given-names>J.</given-names></name>; <name><surname>Fellinger</surname><given-names>T. P.</given-names></name>
+<article-title>Opening
+of Bottleneck Pores for the Improvement of
+Nitrogen Doped Carbon Electrocatalysts</article-title>. <source>Adv.
+Energy Mater.</source>
+<year>2016</year>, <volume>6</volume>, <fpage>1502389</fpage><pub-id pub-id-type="doi">10.1002/aenm.201502389</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Ilic</surname><given-names>I. K.</given-names></name>; <name><surname>Leus</surname><given-names>K.</given-names></name>; <name><surname>Schmidt</surname><given-names>J.</given-names></name>; <name><surname>Hwang</surname><given-names>J.</given-names></name>; <name><surname>Maranska</surname><given-names>M.</given-names></name>; <name><surname>Eigler</surname><given-names>S.</given-names></name>; <name><surname>Liedel</surname><given-names>C.</given-names></name>
+<article-title>Polymerisation in Carbone:
+A Novel
+Method for the Synthesis of More Sustainable Electrodes and Their
+Application as Cathodes for Lithium-Organic Energy Storage Materials
+Based on Vanillin</article-title>. <source>ACS Sustainable Chem. Eng.</source>
+<year>2020</year>, <volume>8</volume>, <fpage>3055</fpage>&#x02013;<lpage>3064</lpage>. <pub-id pub-id-type="doi">10.1021/acssuschemeng.9b04797</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Vujkovi&#x00107;</surname><given-names>M.</given-names></name>; <name><surname>Matovi&#x00107;</surname><given-names>L.</given-names></name>; <name><surname>Krsti&#x00107;</surname><given-names>J.</given-names></name>; <name><surname>Stojmenovi&#x00107;</surname><given-names>M.</given-names></name>; <name><surname>&#x00110;uki&#x00107;</surname><given-names>A.</given-names></name>; <name><surname>Babi&#x00107;</surname><given-names>B.</given-names></name>; <name><surname>Mentus</surname><given-names>S.</given-names></name>
+<article-title>Mechanically Activated
+Carbonized Rayon Fibers as an Electrochemical Supercapacitor in Aqueous
+Solutions</article-title>. <source>Electrochim. Acta</source>
+<year>2017</year>, <volume>245</volume>, <fpage>796</fpage>&#x02013;<lpage>806</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2017.06.018</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Leistenschneider</surname><given-names>D.</given-names></name>; <name><surname>Z&#x000fc;rbes</surname><given-names>K.</given-names></name>; <name><surname>Schneidermann</surname><given-names>C.</given-names></name>; <name><surname>Gr&#x000e4;tz</surname><given-names>S.</given-names></name>; <name><surname>Oswald</surname><given-names>S.</given-names></name>; <name><surname>Wegner</surname><given-names>K.</given-names></name>; <name><surname>Klemmed</surname><given-names>B.</given-names></name>; <name><surname>Giebeler</surname><given-names>L.</given-names></name>; <name><surname>Eychm&#x000fc;ller</surname><given-names>A.</given-names></name>; <name><surname>Borchardt</surname><given-names>L.</given-names></name>
+<article-title>Mechanochemical Functionalization
+of Carbon Black at Room Temperature</article-title>. <source>C</source>
+<year>2018</year>, <volume>4</volume>, <fpage>14</fpage><pub-id pub-id-type="doi">10.3390/c4010014</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Lu</surname><given-names>H.</given-names></name>; <name><surname>Ai</surname><given-names>F.</given-names></name>; <name><surname>Jia</surname><given-names>Y.</given-names></name>; <name><surname>Tang</surname><given-names>C.</given-names></name>; <name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Yang</surname><given-names>H.</given-names></name>; <name><surname>Cao</surname><given-names>Y.</given-names></name>
+<article-title>Exploring Sodium-Ion Storage Mechanism
+in Hard Carbons with Different Microstructure Prepared by Ball-Milling
+Method</article-title>. <source>Small</source>
+<year>2018</year>, <volume>14</volume>, <fpage>1802694</fpage><pub-id pub-id-type="doi">10.1002/smll.201802694</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>&#x00160;tefani&#x00107;</surname><given-names>G.</given-names></name>; <name><surname>Krehula</surname><given-names>S.</given-names></name>; <name><surname>&#x00160;tefani&#x00107;</surname><given-names>I.</given-names></name>
+<article-title>Phase Development during
+High-Energy Ball-Milling of Zinc Oxide and Iron-the Impact of Grain
+Size on the Source and the Degree of Contamination</article-title>. <source>Dalton Trans.</source>
+<year>2015</year>, <volume>44</volume>, <fpage>18870</fpage>&#x02013;<lpage>18881</lpage>. <pub-id pub-id-type="doi">10.1039/c5dt02498f</pub-id>.<pub-id pub-id-type="pmid">26466089</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>&#x00160;tefani&#x00107;</surname><given-names>G.</given-names></name>; <name><surname>Krehula</surname><given-names>S.</given-names></name>; <name><surname>&#x00160;tefani&#x00107;</surname><given-names>I.</given-names></name>
+<article-title>The High Impact of
+a Milling Atmosphere on Steel Contamination</article-title>. <source>Chem. Commun.</source>
+<year>2013</year>, <volume>49</volume>, <fpage>9245</fpage>&#x02013;<lpage>9247</lpage>. <pub-id pub-id-type="doi">10.1039/c3cc44803g</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Chua</surname><given-names>C. K.</given-names></name>; <name><surname>Sofer</surname><given-names>Z.</given-names></name>; <name><surname>Khezri</surname><given-names>B.</given-names></name>; <name><surname>Webster</surname><given-names>R. D.</given-names></name>; <name><surname>Pumera</surname><given-names>M.</given-names></name>
+<article-title>Ball-Milled
+Sulfur-Doped Graphene Materials Contain Metallic Impurities Originating
+from Ball-Milling Apparatus: Their Influence on the Catalytic Properties</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2016</year>, <volume>18</volume>, <fpage>17875</fpage>&#x02013;<lpage>17880</lpage>. <pub-id pub-id-type="doi">10.1039/c6cp03004a</pub-id>.<pub-id pub-id-type="pmid">27314607</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Smajic</surname><given-names>J.</given-names></name>; <name><surname>Simoes</surname><given-names>F. R. F.</given-names></name>; <name><surname>Costa</surname><given-names>P. M. F. J.</given-names></name>
+<article-title>How
+Metallic Impurities in Carbon
+Cathodes Affect the Electrochemistry of Aluminum Batteries</article-title>. <source>ChemElectroChem</source>
+<year>2020</year>, <volume>7</volume>, <fpage>4810</fpage>&#x02013;<lpage>4814</lpage>. <pub-id pub-id-type="doi">10.1002/celc.202001273</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Antonietti</surname><given-names>M.</given-names></name>; <name><surname>Oschatz</surname><given-names>M.</given-names></name>
+<article-title>The Concept of &#x0201c;Noble, Heteroatom-Doped Carbons,&#x0201d;
+Their Directed Synthesis by Electronic Band Control of Carbonization,
+and Applications in Catalysis and Energy Materials</article-title>. <source>Adv. Mater.</source>
+<year>2018</year>, <volume>30</volume>, <fpage>1706836</fpage><pub-id pub-id-type="doi">10.1002/adma.201706836</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Lef&#x000e8;vre</surname><given-names>M.</given-names></name>; <name><surname>Proietti</surname><given-names>E.</given-names></name>; <name><surname>Jaouen</surname><given-names>F.</given-names></name>; <name><surname>Dodelet</surname><given-names>J. P.</given-names></name>
+<article-title>Iron-Based Catalysts
+with Improved Oxygen Reduction Activity in Polymer Electrolyte Fuel
+Cells</article-title>. <source>Science</source>
+<year>2009</year>, <volume>324</volume>, <fpage>71</fpage>&#x02013;<lpage>74</lpage>. <pub-id pub-id-type="doi">10.1126/science.1170051</pub-id>.<pub-id pub-id-type="pmid">19342583</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Paraknowitsch</surname><given-names>J. P.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Su</surname><given-names>D.</given-names></name>; <name><surname>Thomas</surname><given-names>A.</given-names></name>; <name><surname>Antonietti</surname><given-names>M.</given-names></name>
+<article-title>Ionic Liquids
+as Precursors for Nitrogen-Doped Graphitic Carbon</article-title>. <source>Adv. Mater.</source>
+<year>2010</year>, <volume>22</volume>, <fpage>87</fpage>&#x02013;<lpage>92</lpage>. <pub-id pub-id-type="doi">10.1002/adma.200900965</pub-id>.<pub-id pub-id-type="pmid">20217703</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Kossmann</surname><given-names>J.</given-names></name>; <name><surname>Heil</surname><given-names>T.</given-names></name>; <name><surname>Antonietti</surname><given-names>M.</given-names></name>; <name><surname>L&#x000f3;pez-Salas</surname><given-names>N.</given-names></name>
+<article-title>Guanine-Derived
+Porous Carbonaceous Materials: Towards C1N1</article-title>. <source>ChemSusChem</source>
+<year>2020</year>, <volume>13</volume>, <fpage>6643</fpage>&#x02013;<lpage>6650</lpage>. <pub-id pub-id-type="doi">10.1002/cssc.202002274</pub-id>.<pub-id pub-id-type="pmid">33090683</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Kossmann</surname><given-names>J.</given-names></name>; <name><surname>Piankova</surname><given-names>D.</given-names></name>; <name><surname>Tarakina</surname><given-names>N. V.</given-names></name>; <name><surname>Heske</surname><given-names>J.</given-names></name>; <name><surname>K&#x000fc;hne</surname><given-names>T. D.</given-names></name>; <name><surname>Schmidt</surname><given-names>J.</given-names></name>; <name><surname>Antonietti</surname><given-names>M.</given-names></name>; <name><surname>L&#x000f3;pez-Salas</surname><given-names>N.</given-names></name>
+<article-title>Guanine Condensates
+as Covalent Materials and the Concept of Cryptopores</article-title>. <source>Carbon N. Y.</source>
+<year>2021</year>, <volume>172</volume>, <fpage>497</fpage>&#x02013;<lpage>505</lpage>. <pub-id pub-id-type="doi">10.1016/j.carbon.2020.10.047</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Fechler</surname><given-names>N.</given-names></name>; <name><surname>Fellinger</surname><given-names>T. P.</given-names></name>; <name><surname>Antonietti</surname><given-names>M.</given-names></name>
+<article-title>&#x0201c;salt Templating:&#x0201d;
+A Simple and Sustainable Pathway toward Highly Porous Functional Carbons
+from Ionic Liquids</article-title>. <source>Adv. Mater.</source>
+<year>2013</year>, <volume>25</volume>, <fpage>75</fpage>&#x02013;<lpage>79</lpage>. <pub-id pub-id-type="doi">10.1002/adma.201203422</pub-id>.<pub-id pub-id-type="pmid">23027658</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>Fechler</surname><given-names>N.</given-names></name>; <name><surname>Antonietti</surname><given-names>M.</given-names></name>
+<article-title>Salt Melt Synthesis of Ceramics,
+Semiconductors and Carbon Nanostructures</article-title>. <source>Chem.
+Soc. Rev.</source>
+<year>2013</year>, <volume>42</volume>, <fpage>8237</fpage>&#x02013;<lpage>8265</lpage>. <pub-id pub-id-type="doi">10.1039/c3cs60159e</pub-id>.<pub-id pub-id-type="pmid">23868658</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Pfaff</surname><given-names>T.</given-names></name>; <name><surname>Badaczewski</surname><given-names>F. M.</given-names></name>; <name><surname>Loeh</surname><given-names>M. O.</given-names></name>; <name><surname>Franz</surname><given-names>A.</given-names></name>; <name><surname>Hoffmann</surname><given-names>J. U.</given-names></name>; <name><surname>Reehuis</surname><given-names>M.</given-names></name>; <name><surname>Zeier</surname><given-names>W. G.</given-names></name>; <name><surname>Smarsly</surname><given-names>B. M.</given-names></name>
+<article-title>Comparative Microstructural
+Analysis of Nongraphitic Carbons by Wide-Angle X-Ray and Neutron Scattering</article-title>. <source>J. Phys. Chem. C</source>
+<year>2019</year>, <volume>123</volume>, <fpage>20532</fpage>&#x02013;<lpage>20546</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.9b03590</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Ilic</surname><given-names>I. K.</given-names></name>; <name><surname>Tsouka</surname><given-names>A.</given-names></name>; <name><surname>Perovic</surname><given-names>M.</given-names></name>; <name><surname>Hwang</surname><given-names>J.</given-names></name>; <name><surname>Heil</surname><given-names>T.</given-names></name>; <name><surname>Loeffler</surname><given-names>F. F.</given-names></name>; <name><surname>Oschatz</surname><given-names>M.</given-names></name>; <name><surname>Antonietti</surname><given-names>M.</given-names></name>; <name><surname>Liedel</surname><given-names>C.</given-names></name>
+<article-title>Sustainable Cathodes for Lithium-Ion Energy Storage
+Devices Based on Tannic Acid &#x02014; Toward Ecofriendly Energy Storage</article-title>. <source>Adv. Sustainable Syst.</source>
+<year>2021</year>, <volume>5</volume>, <fpage>2000206</fpage><pub-id pub-id-type="doi">10.1002/adsu.202000206</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Sun</surname><given-names>F.</given-names></name>; <name><surname>Qu</surname><given-names>Z.</given-names></name>; <name><surname>Wang</surname><given-names>K.</given-names></name>; <name><surname>Wang</surname><given-names>L.</given-names></name>; <name><surname>Pi</surname><given-names>X.</given-names></name>; <name><surname>Gao</surname><given-names>J.</given-names></name>; <name><surname>Zhao</surname><given-names>G.</given-names></name>
+<article-title>Oxygen Functional Group Modification of Cellulose-Derived
+Hard Carbon for Enhanced Sodium Ion Storage</article-title>. <source>ACS Sustainable Chem. Eng.</source>
+<year>2019</year>, <volume>7</volume>, <fpage>18554</fpage>&#x02013;<lpage>18565</lpage>. <pub-id pub-id-type="doi">10.1021/acssuschemeng.9b04676</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Yan</surname><given-names>R.</given-names></name>; <name><surname>Antonietti</surname><given-names>M.</given-names></name>; <name><surname>Oschatz</surname><given-names>M.</given-names></name>
+<article-title>Toward the Experimental Understanding
+of the Energy Storage Mechanism and Ion Dynamics in Ionic Liquid Based
+Supercapacitors</article-title>. <source>Adv. Energy Mater.</source>
+<year>2018</year>, <volume>8</volume>, <fpage>1800026</fpage><pub-id pub-id-type="doi">10.1002/aenm.201800026</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Ajuria</surname><given-names>J.</given-names></name>; <name><surname>Redondo</surname><given-names>E.</given-names></name>; <name><surname>Arnaiz</surname><given-names>M.</given-names></name>; <name><surname>Mysyk</surname><given-names>R.</given-names></name>; <name><surname>Rojo</surname><given-names>T.</given-names></name>; <name><surname>Goikolea</surname><given-names>E.</given-names></name>
+<article-title>Lithium and Sodium Ion Capacitors with High Energy
+and Power Densities Based on Carbons from Recycled Olive Pits</article-title>. <source>J. Power Sources</source>
+<year>2017</year>, <volume>359</volume>, <fpage>17</fpage>&#x02013;<lpage>26</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2017.04.107</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Liu</surname><given-names>T. C.</given-names></name>; <name><surname>Pell</surname><given-names>W. G.</given-names></name>; <name><surname>Conway</surname><given-names>B. E.</given-names></name>; <name><surname>Roberson</surname><given-names>S. L.</given-names></name>
+<article-title>Behavior of Molybdenum
+Nitrides as Materials for Electrochemical Capacitors Comparison with
+Ruthenium Oxide</article-title>. <source>J. Electrochem. Soc.</source>
+<year>1998</year>, <volume>145</volume>, <fpage>1882</fpage>&#x02013;<lpage>1888</lpage>. <pub-id pub-id-type="doi">10.1149/1.1838571</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Ilic</surname><given-names>I. K.</given-names></name>; <name><surname>Perovic</surname><given-names>M.</given-names></name>; <name><surname>Liedel</surname><given-names>C.</given-names></name>
+<article-title>Interplay of Porosity, Wettability,
+and Redox Activity as Determining Factors for Lithium&#x02013;Organic
+Electrochemical Energy Storage Using Biomolecules</article-title>. <source>ChemSusChem</source>
+<year>2020</year>, <volume>13</volume>, <fpage>1856</fpage>&#x02013;<lpage>1863</lpage>. <pub-id pub-id-type="doi">10.1002/cssc.201903156</pub-id>.<pub-id pub-id-type="pmid">32026541</pub-id></mixed-citation></ref></ref-list></back></article>

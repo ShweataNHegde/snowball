@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par22">The development of modern society depends on energy supply to a large extent, but with environmental problems induced by the burning of fossil fuels and the aggravation of energy shortage, it is necessary to find new conversion systems or renewable energy [
+ <xref ref-type="bibr" rid="CR1">1</xref>–
+ <xref ref-type="bibr" rid="CR4">4</xref>]. Fuel cells and metal-air batteries are considered to be promising energy systems; however, their poor energy conversion efficiency and short life span are the main bottlenecks that limit their widespread use [
+ <xref ref-type="bibr" rid="CR5">5</xref>–
+ <xref ref-type="bibr" rid="CR9">9</xref>]. These deficiencies are primarily on account of the inherent sluggish kinetics of the oxygen evolution reaction (OER) and oxygen reduction reaction (ORR) [
+ <xref ref-type="bibr" rid="CR10">10</xref>–
+ <xref ref-type="bibr" rid="CR13">13</xref>]. Especially, OER plays a very important role in metal-air batteries and water splitting. However, the slow kinetics of it usually result in low reaction rates and high electrode overpotential, hindering the development such energy systems. Currently, the most accepted theory explains the OER process under alkaline conditions is as follows: 
+ <disp-formula id="Equ1">
+  <label>1</label>
+  <alternatives>
+   <tex-math id="M1">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$ \mathrm{M}+\mathrm{OH}\to \mathrm{M}-\mathrm{OH}+{\mathrm{e}}^{-} $$\end{document}</tex-math>
+   <math id="M2" display="block">
+    <mi mathvariant="normal">M</mi>
+    <mo>+</mo>
+    <mi>OH</mi>
+    <mo>→</mo>
+    <mi mathvariant="normal">M</mi>
+    <mo>−</mo>
+    <mi>OH</mi>
+    <mo>+</mo>
+    <msup>
+     <mi mathvariant="normal">e</mi>
+     <mo>−</mo>
+    </msup>
+   </math>
+   <graphic xlink:href="11671_2020_3316_Article_Equ1.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+ <disp-formula id="Equ2">
+  <label>2</label>
+  <alternatives>
+   <tex-math id="M3">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$ \mathrm{M}-\mathrm{OH}+{\mathrm{O}\mathrm{H}}^{-}\to \mathrm{M}-{\mathrm{O}}^{-}+{\mathrm{H}}_2\mathrm{O} $$\end{document}</tex-math>
+   <math id="M4" display="block">
+    <mi mathvariant="normal">M</mi>
+    <mo>−</mo>
+    <mi>OH</mi>
+    <mo>+</mo>
+    <msup>
+     <mi>OH</mi>
+     <mo>−</mo>
+    </msup>
+    <mo>→</mo>
+    <mi mathvariant="normal">M</mi>
+    <mo>−</mo>
+    <msup>
+     <mi mathvariant="normal">O</mi>
+     <mo>−</mo>
+    </msup>
+    <mo>+</mo>
+    <msub>
+     <mi mathvariant="normal">H</mi>
+     <mn>2</mn>
+    </msub>
+    <mi mathvariant="normal">O</mi>
+   </math>
+   <graphic xlink:href="11671_2020_3316_Article_Equ2.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+ <disp-formula id="Equ3">
+  <label>3</label>
+  <alternatives>
+   <tex-math id="M5">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$ \mathrm{M}-{\mathrm{O}}^{-}\to \mathrm{M}-\mathrm{O}+{\mathrm{e}}^{-} $$\end{document}</tex-math>
+   <math id="M6" display="block">
+    <mi mathvariant="normal">M</mi>
+    <mo>−</mo>
+    <msup>
+     <mi mathvariant="normal">O</mi>
+     <mo>−</mo>
+    </msup>
+    <mo>→</mo>
+    <mi mathvariant="normal">M</mi>
+    <mo>−</mo>
+    <mi mathvariant="normal">O</mi>
+    <mo>+</mo>
+    <msup>
+     <mi mathvariant="normal">e</mi>
+     <mo>−</mo>
+    </msup>
+   </math>
+   <graphic xlink:href="11671_2020_3316_Article_Equ3.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+ <disp-formula id="Equ4">
+  <label>4</label>
+  <alternatives>
+   <tex-math id="M7">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$ 2\mathrm{M}-\mathrm{O}\to 2\mathrm{M}+{\mathrm{O}}_2 $$\end{document}</tex-math>
+   <math id="M8" display="block">
+    <mn>2</mn>
+    <mi mathvariant="normal">M</mi>
+    <mo>−</mo>
+    <mi mathvariant="normal">O</mi>
+    <mo>→</mo>
+    <mn>2</mn>
+    <mi mathvariant="normal">M</mi>
+    <mo>+</mo>
+    <msub>
+     <mi mathvariant="normal">O</mi>
+     <mn>2</mn>
+    </msub>
+   </math>
+   <graphic xlink:href="11671_2020_3316_Article_Equ4.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+</p>

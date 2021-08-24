@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wan</surname>
+    <given-names>X</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Fe–N–C electrocatalyst with dense active sites and efficient mass transport for high-performance proton exchange membrane fuel cells</article-title>
+  <source>Nat. Catal.</source>
+  <year>2019</year>
+  <volume>2</volume>
+  <fpage>259</fpage>
+  <lpage>268</lpage>
+  <pub-id pub-id-type="doi">10.1038/s41929-019-0237-3</pub-id>
+ </element-citation>
+</ref>

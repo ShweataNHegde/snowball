@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib3">
+ <element-citation publication-type="journal" id="sref3">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Boettcher</surname>
+    <given-names>S.W.</given-names>
+   </name>
+   <name>
+    <surname>Oener</surname>
+    <given-names>S.Z.</given-names>
+   </name>
+   <name>
+    <surname>Lonergan</surname>
+    <given-names>M.C.</given-names>
+   </name>
+   <name>
+    <surname>Surendranath</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Ardo</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Brozek</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Kempler</surname>
+    <given-names>P.A.</given-names>
+   </name>
+  </person-group>
+  <article-title>Potentially confusing: potentials in electrochemistry</article-title>
+  <source>ACS Energy Lett.</source>
+  <volume>6</volume>
+  <year>2020</year>
+  <fpage>261</fpage>
+  <lpage>266</lpage>
+ </element-citation>
+</ref>

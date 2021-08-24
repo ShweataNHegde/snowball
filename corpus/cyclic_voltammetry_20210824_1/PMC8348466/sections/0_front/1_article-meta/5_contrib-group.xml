@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Buga</surname>
+   <given-names>Mihaela-Ramona</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-molecules-26-04531">1</xref>
+  <xref rid="c1-molecules-26-04531" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Spinu-Zaulet</surname>
+   <given-names>Adnana Alina</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-molecules-26-04531">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ungureanu</surname>
+   <given-names>Cosmin Giorgian</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-molecules-26-04531">1</xref>
+  <xref ref-type="aff" rid="af2-molecules-26-04531">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-6969-2832</contrib-id>
+  <name>
+   <surname>Mitran</surname>
+   <given-names>Raul-Augustin</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-molecules-26-04531">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Vasile</surname>
+   <given-names>Eugeniu</given-names>
+  </name>
+  <xref ref-type="aff" rid="af4-molecules-26-04531">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Florea</surname>
+   <given-names>Mihaela</given-names>
+  </name>
+  <xref ref-type="aff" rid="af5-molecules-26-04531">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Neatu</surname>
+   <given-names>Florentina</given-names>
+  </name>
+  <xref ref-type="aff" rid="af5-molecules-26-04531">5</xref>
+ </contrib>
+</contrib-group>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R100">
+ <label>100</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Zachman</surname>
+    <given-names>M. J.</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Hachtel</surname>
+    <given-names>J. A.</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Idrobo</surname>
+    <given-names>J. C.</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Chi</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group>, 
+  <article-title>Emerging electron microscopy techniques for probing functional interfaces in energy materials</article-title>. 
+  <source>Angew. Chem. Int. Ed. Eng.</source>
+  <volume>59</volume>, 
+  <fpage>1384</fpage>–
+  <lpage>1396</lpage> (
+  <year>2020</year>).
+ </mixed-citation>
+</ref>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B52-materials-14-03259">
+ <label>52.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McDaniel</surname>
+    <given-names>J.G.</given-names>
+   </name>
+   <name>
+    <surname>Son</surname>
+    <given-names>C.Y.</given-names>
+   </name>
+   <name>
+    <surname>Yethiraj</surname>
+    <given-names>A.</given-names>
+   </name>
+  </person-group>
+  <article-title>Ab initio force fields for organic Anions: Properties of (BMIM)[TFSI], (BMIM)[FSI], and (BMIM)[OTf] ionic liquids</article-title>
+  <source>J. Phys. Chem. B</source>
+  <year>2018</year>
+  <volume>122</volume>
+  <fpage>4101</fpage>
+  <lpage>4114</lpage>
+  <pub-id pub-id-type="doi">10.1021/acs.jpcb.8b01221</pub-id>
+  <?supplied-pmid 29536738?>
+  <pub-id pub-id-type="pmid">29536738</pub-id>
+ </element-citation>
+</ref>

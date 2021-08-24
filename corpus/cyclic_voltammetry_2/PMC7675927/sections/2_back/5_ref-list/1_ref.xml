@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref1">
+ <mixed-citation publication-type="journal" id="cit1">
+  <name>
+   <surname>Gasteiger</surname>
+   <given-names>H. A.</given-names>
+  </name>; 
+  <name>
+   <surname>Kocha</surname>
+   <given-names>S. S.</given-names>
+  </name>; 
+  <name>
+   <surname>Sompalli</surname>
+   <given-names>B.</given-names>
+  </name>; 
+  <name>
+   <surname>Wagner</surname>
+   <given-names>F. T.</given-names>
+  </name>
+  <article-title>Activity benchmarks and requirements for Pt, Pt-alloy, and non-Pt oxygen reduction catalysts for PEMFCs</article-title>. 
+  <source>Appl. Catal. B-Environ.</source>
+  <year>2005</year>, 
+  <volume>56</volume>, 
+  <fpage>9</fpage>–
+  <lpage>35</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.apcatb.2004.06.021</pub-id>.
+ </mixed-citation>
+</ref>

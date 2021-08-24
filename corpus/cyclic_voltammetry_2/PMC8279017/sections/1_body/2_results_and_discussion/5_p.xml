@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The DEGDME_HCE and TREGDME_HCE are subsequently employed in a Li/LFP cell and galvanostatically cycled at the constant current rate of C/5 (1C = 170 mA g
+ <sup>–1</sup>) at room temperature, with the outcomes displayed in 
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>. The voltage profiles reported in 
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>a (DEGDME_HCE) and 
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>c (TREGDME_HCE) reflect the response associated with the LiFePO
+ <sub>4</sub> ⇄ Li + FePO
+ <sub>4</sub> electrochemical process, centered at about 3.45 V as already described in CVs of 
+ <xref rid="fig3" ref-type="fig">Figure 
+  <xref rid="fig3" ref-type="fig">3</xref>
+ </xref>.
+ <sup>
+  <xref ref-type="bibr" rid="ref27">27</xref>,
+  <xref ref-type="bibr" rid="ref37">37</xref>
+ </sup> The cells show relatively limited polarization during the first cycle and capacity values approaching 160 mAh g
+ <sup>–1</sup>, that is, about 94% of the theoretical value. Moreover, the Coulombic efficiency interestingly approaches 100% during both tests, as displayed by the cycling trends in 
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>b for DEGDME_HCE and in 
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>d for TREGDME_HCE, while a progressive increase of the polarization affects the cells after 10 cycles and leads to capacity decay upon 50 cycles, which is more remarkable for the former (
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>a) compared to the latter electrolyte (
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>c). Therefore, the cell using DEGDME_HCE (
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>b) exhibits a capacity retention of 63% during the 50 charge–discharge cycles taken into account; instead, the one using TREGDME_HCE (
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>d) holds 94% of the initial capacity upon the same number of cycles. This behavior can be ascribed to the nature of the SEI layer formed at the electrode surface upon cycling, which is influenced by the electrolyte composition, by the lithium salts content, and by the operating conditions.
+ <sup>
+  <xref ref-type="bibr" rid="ref38">38</xref>−
+  <xref ref-type="bibr" rid="ref40">40</xref>
+ </sup> In particular, the higher lithium salts concentration of TREGDME_HCE compared to DEGDME_HCE could play a crucial role in the formation of a more suitable SEI in this cell, as already suggested by its application in a Li/O
+ <sub>2</sub> cell studied elsewhere.
+ <sup>
+  <xref ref-type="bibr" rid="ref20">20</xref>
+ </sup> A further reason for the different Li/LFP cell performances between the two solutions may be the narrower electrochemical stability window of DEGDME_HCE (0–4.3 V) with respect to TREGDME_HCE (0–4.4 V).
+ <sup>
+  <xref ref-type="bibr" rid="ref20">20</xref>
+ </sup> However, the relevant increase in cell polarization observed using both DEGDME_HCE (
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>a) and TREGDME_HCE (
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>c) after 50 cycles may actually indicate the need for further optimization of the SEI at the electrodes surface to allow proper operation of the glyme-based electrolytes in a lithium–metal cell using insertion cathodes. Indeed, previous literature has demonstrated that high concentrations of lithium salts in glyme-based electrolytes can lead to an uneven composition and low thickness of the SEI layer, possibly leading to a modest stability.
+ <sup>
+  <xref ref-type="bibr" rid="ref41">41</xref>
+ </sup> We have demonstrated in a recent paper that TREGDME dissolving lithium trifluoromethanesulfonate (LiCF
+ <sub>3</sub>SO
+ <sub>3</sub>) and LiNO
+ <sub>3</sub> in conventional concentrations undergoes an electrochemical optimization process in a Li/LFP cell by adopting a reduction step at the first discharge occurring around 1.5 V, i.e., a voltage value far lower than the ones exploited in the galvanostatic measurements reported in 
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>.
+ <sup>
+  <xref ref-type="bibr" rid="ref36">36</xref>
+ </sup> The above-mentioned reduction deals with LiNO
+ <sub>3</sub> and actually leads to the formation of stable interfaces at the electrodes surface with a remarkable improvement of the cell performance.
+ <sup>
+  <xref ref-type="bibr" rid="ref7">7</xref>,
+  <xref ref-type="bibr" rid="ref36">36</xref>
+ </sup>
+</p>

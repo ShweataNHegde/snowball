@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We fabricate monolayer graphene working electrodes using graphene monolayers of macroscopic size (∼ 2 × 1 cm), that were grown by CVD and transferred onto electrically insulating SiO
+ <sub>2</sub> (90 nm thermally grown) covered Si wafers (SiO
+ <sub>2</sub>/Si). These working electrodes are immersed along half of their length into the DES electrolyte during the electrochemical experiments (
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>a,b). The graphene monolayer films are electrically contacted on their front via silver epoxy on their non-immersed end above the electrolyte meniscus. This geometry allows us to study the electrochemical response exclusively from the graphene avoiding interference of any electrically conductive support. Graphene films were grown via CVD using 25 μm thick Cu foil catalysts exposed to CH
+ <sub>4</sub>/H
+ <sub>2</sub> at ∼ 12 mbar and 960 °C, resulting in high-quality polycrystalline (grain size tens of μm) monolayer graphene films.
+ <sup>
+  <xref ref-type="bibr" rid="ref49">49</xref>
+ </sup> After CVD, graphene was transferred from the Cu catalyst onto the target SiO
+ <sub>2</sub>/Si wafers via a widely used, standard polymer-assisted (polymethylmethacrylate, PMMA) transfer process using a wet etch (FeCl
+ <sub>3</sub> in H
+ <sub>2</sub>O) to remove the Cu catalyst.
+ <sup>
+  <xref ref-type="bibr" rid="ref55">55</xref>
+ </sup> After transfer onto the target SiO
+ <sub>2</sub>/Si wafers, the PMMA scaffold was removed by soaking in acetone (&gt;8 h), followed by a final sample clean in isopropanol. See 
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>c–e for the optical photograph/micrograph and a Raman spectrum
+ <sup>
+  <xref ref-type="bibr" rid="ref56">56</xref>
+ </sup> of an as-fabricated, not electrochemically cycled graphene electrode. The as-fabricated graphene electrode is a continuous film on the SiO
+ <sub>2</sub>/Si with only few small μm-sized holes, allowing an electrical conduction path along its entire length (
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>c,d). The Raman spectrum of the as-fabricated electrode is fully consistent with that of high-quality monolayer graphene produced by CVD (
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>e).
+ <sup>
+  <xref ref-type="bibr" rid="ref56">56</xref>
+ </sup> It shows only very little defect-related D band intensity, and the observed 2D to G intensity ratio of ∼ 2 confirms the monolayer nature of the graphene.
+ <sup>
+  <xref ref-type="bibr" rid="ref56">56</xref>
+ </sup> It is known that the employed PMMA-transfer method leaves only few microscopic but a sizeable amount of nanoscopic PMMA residues on the graphene support,
+ <sup>
+  <xref ref-type="bibr" rid="ref57">57</xref>,
+  <xref ref-type="bibr" rid="ref58">58</xref>
+ </sup> which are inherent to state-of-the-art transferred graphene produced by CVD. Prior electrochemical studies have shown that these PMMA residues do not have a critical impact on the fundamental electrochemical behavior of graphene in a first approximation,
+ <sup>
+  <xref ref-type="bibr" rid="ref57">57</xref>
+ </sup> allowing us to study the intrinsic electrochemical properties of graphene.
+</p>

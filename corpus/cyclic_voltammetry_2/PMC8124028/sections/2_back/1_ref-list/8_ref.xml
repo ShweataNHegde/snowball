@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shen</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Thomas</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Rasaki</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Saad</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Hu</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Oxygen reduction reactions of Fe-NC catalysts: current status and the way forward</article-title>
+  <source>Electrochem. Energy Rev.</source>
+  <year>2019</year>
+  <volume>2</volume>
+  <fpage>252</fpage>
+  <lpage>276</lpage>
+  <pub-id pub-id-type="doi">10.1007/s41918-019-00030-w</pub-id>
+ </element-citation>
+</ref>

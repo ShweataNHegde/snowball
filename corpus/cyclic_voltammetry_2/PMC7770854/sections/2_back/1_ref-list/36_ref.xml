@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR36">
+ <label>36.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fu</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Wei</surname>
+    <given-names>Q</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>High-performance reversible aqueous Zn-ion battery based on porous MnO
+   <sub>x</sub> nanorods coated by MOF-derived N-doped carbon
+  </article-title>
+  <source>Adv. Energy Mater.</source>
+  <year>2018</year>
+  <volume>8</volume>
+  <issue>26</issue>
+  <fpage>1801445</fpage>
+  <pub-id pub-id-type="doi">10.1002/aenm.201801445</pub-id>
+ </element-citation>
+</ref>

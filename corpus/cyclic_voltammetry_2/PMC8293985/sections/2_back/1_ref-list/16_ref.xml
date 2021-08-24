@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="cit16">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lam</surname>
+    <given-names>Y. C.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nielsen</surname>
+    <given-names>R. J.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gray</surname>
+    <given-names>H. B.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Goddard</surname>
+    <given-names>W. A.</given-names>
+   </name>
+  </person-group>
+  <source>ACS Catal.</source>
+  <year>2015</year>
+  <volume>5</volume>
+  <fpage>2521</fpage>
+  <lpage>2528</lpage>
+  <pub-id pub-id-type="doi">10.1021/cs501963v</pub-id>
+ </element-citation>
+</ref>

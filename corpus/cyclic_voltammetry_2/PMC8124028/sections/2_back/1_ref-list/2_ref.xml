@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shinde</surname>
+    <given-names>SS</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>CH</given-names>
+   </name>
+   <name>
+    <surname>Jung</surname>
+    <given-names>J-Y</given-names>
+   </name>
+   <name>
+    <surname>Wagh</surname>
+    <given-names>NK</given-names>
+   </name>
+   <name>
+    <surname>Kim</surname>
+    <given-names>S-H</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Unveiling dual-linkage 3D hexaiminobenzene metal–organic frameworks towards long-lasting advanced reversible Zn–air batteries</article-title>
+  <source>Energy Environ. Sci.</source>
+  <year>2019</year>
+  <volume>12</volume>
+  <fpage>727</fpage>
+  <lpage>738</lpage>
+  <pub-id pub-id-type="doi">10.1039/c8ee02679c</pub-id>
+ </element-citation>
+</ref>

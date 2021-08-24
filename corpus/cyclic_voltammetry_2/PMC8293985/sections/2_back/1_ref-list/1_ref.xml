@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="cit1">
+ <element-citation publication-type="journal" id="cit1a">
+  <label> (a) </label>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Savéant</surname>
+    <given-names>J.-M.</given-names>
+   </name>
+  </person-group>
+  <source>Chem. Rev.</source>
+  <year>2008</year>
+  <volume>108</volume>
+  <fpage>2348</fpage>
+  <lpage>2378</lpage>
+  <pub-id pub-id-type="doi">10.1021/cr068079z</pub-id>
+  <pub-id pub-id-type="pmid">18620367</pub-id>
+ </element-citation>
+ <element-citation publication-type="journal" id="cit1b">
+  <label> (b) </label>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Savéant</surname>
+    <given-names>J.-M.</given-names>
+   </name>
+  </person-group>
+  <source>Angew. Chem., Int. Ed.</source>
+  <year>2019</year>
+  <volume>58</volume>
+  <fpage>2125</fpage>
+  <lpage>2128</lpage>
+  <pub-id pub-id-type="doi">10.1002/anie.201812375</pub-id>
+  <?supplied-pmid 30548762?>
+  <pub-id pub-id-type="pmid">30548762</pub-id>
+ </element-citation>
+ <element-citation publication-type="journal" id="cit1c">
+  <label> (c) </label>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Warren</surname>
+    <given-names>J. J.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tronic</surname>
+    <given-names>T. A.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mayer</surname>
+    <given-names>J. M.</given-names>
+   </name>
+  </person-group>
+  <source>Chem. Rev.</source>
+  <year>2010</year>
+  <volume>110</volume>
+  <fpage>6961</fpage>
+  <lpage>7001</lpage>
+  <pub-id pub-id-type="doi">10.1021/cr100085k</pub-id>
+  <?supplied-pmid 20925411?>
+  <pub-id pub-id-type="pmid">20925411</pub-id>
+ </element-citation>
+</ref>

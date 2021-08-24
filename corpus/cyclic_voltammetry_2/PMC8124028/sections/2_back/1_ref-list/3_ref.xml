@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Guo</surname>
+    <given-names>BB</given-names>
+   </name>
+   <name>
+    <surname>Ma</surname>
+    <given-names>RG</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>ZC</given-names>
+   </name>
+   <name>
+    <surname>Guo</surname>
+    <given-names>SK</given-names>
+   </name>
+   <name>
+    <surname>Luo</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Hierarchical N-doped porous carbons for Zn–air batteries and supercapacitors</article-title>
+  <source>Nano-Micro Lett.</source>
+  <year>2020</year>
+  <volume>12</volume>
+  <fpage>20</fpage>
+  <pub-id pub-id-type="doi">10.1007/s40820-019-0364-z</pub-id>
+ </element-citation>
+</ref>

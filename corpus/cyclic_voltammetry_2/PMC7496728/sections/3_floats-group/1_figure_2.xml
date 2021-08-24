@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig2" position="float">
+ <label>Figure 2</label>
+ <caption>
+  <p>(a) First voltammetric background cycles of two graphene electrodes (
+   <italic>A</italic> ≈ 0.3 cm
+   <sup>2</sup>) and a glassy carbon disk electrode (
+   <italic>A</italic> = 0.07 cm
+   <sup>2</sup>) in 12CE, Pt-mesh auxiliary electrode, 
+   <italic>v</italic> = 50 mV s
+   <sup>–1</sup>, 
+   <italic>E</italic>
+   <sub>start</sub> = 0.7 V, initial sweep direction indicated by arrows. (b) Raman spectra of the graphene electrodes after the cyclic voltammetric background cycles shown in (a). (c) Successive cyclic voltammetric background cycles of a graphene electrode (
+   <italic>A</italic> ≈ 0.3 cm
+   <sup>2</sup>) in a 12CE, Pt-mesh auxiliary electrode, 
+   <italic>v</italic> = 50 mV s
+   <sup>–1</sup>, 
+   <italic>E</italic>
+   <sub>start</sub> = 0.7 V, initial sweep direction negative. Note that the third cathodic cycle (green) is fully overlaid by the fourth cycle (red).
+  </p>
+ </caption>
+ <graphic xlink:href="am0c11467_0003" id="gr2" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

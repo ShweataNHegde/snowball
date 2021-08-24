@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR42">
+ <label>42.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kresse</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Furthmuller</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <article-title>Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave bases set</article-title>
+  <source>Comput. Mater. Sci.</source>
+  <year>1996</year>
+  <volume>6</volume>
+  <fpage>15</fpage>
+  <lpage>50</lpage>
+  <pub-id pub-id-type="doi">10.1016/0927-0256(96)00008-0</pub-id>
+ </element-citation>
+</ref>

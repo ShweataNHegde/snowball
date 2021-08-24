@@ -1,0 +1,750 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-id journal-id-type="coden">acsodf</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7482300</article-id><article-id pub-id-type="doi">10.1021/acsomega.0c02778</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Synergy between Interconnected Porous Carbon-Sulfur
+Cathode and Metallic MgB<sub>2</sub> Interlayer as a Lithium Polysulfide
+Immobilizer for High-Performance Lithium-Sulfur Batteries</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Garapati</surname><given-names>Meenakshi
+Seshadhri</given-names></name></contrib><contrib contrib-type="author" corresp="yes" id="ath2"><name><surname>Sundara</surname><given-names>Ramaprabhu</given-names></name><xref rid="cor1" ref-type="other">*</xref></contrib><aff id="aff1">Alternative Energy and Nanotechnology
+Laboratory (AENL), Nano Functional Materials Technology Center (NFMTC),
+Department of Physics, <institution>Indian Institute
+of Technology Madras</institution>, Chennai 600036, <country>India</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>ramp@iitm.ac.in</email>.</corresp></author-notes><pub-date pub-type="epub"><day>27</day><month>08</month><year>2020</year></pub-date><pub-date pub-type="collection"><day>08</day><month>09</month><year>2020</year></pub-date><volume>5</volume><issue>35</issue><fpage>22379</fpage><lpage>22388</lpage><history><date date-type="received"><day>12</day><month>06</month><year>2020</year></date><date date-type="accepted"><day>13</day><month>08</month><year>2020</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2020 American Chemical Society</copyright-statement><copyright-year>2020</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c02778_0011" id="ab-tgr1"/></p><p>Lithium-sulfur
+(Li-S) batteries are the potential candidates for
+developing high-energy-density electric vehicles. However, poor electrical
+conductivity of sulfur/discharged products, low active material utilization,
+shuttle mechanism, and poor cycle life remain the major challenges
+for the development of Li-S batteries. Herein, we report the nitrogen-doped
+highly porous carbon (NC) with interconnected pores as the sulfur
+host (NC-S), which is synthesized by a facile one-step process without
+using any template and activation agents. The highly interconnected
+porous structure of NC can accommodate a high amount of sulfur loading
+and provide space for sulfur volume expansion during redox reactions.
+Besides, to mitigate the lithium polysulfide dissolution and shuttle
+mechanism, metallic and polar magnesium diboride (MgB<sub>2</sub>)
+is used as an interlayer. Consequently, the NC-S/MgB<sub>2</sub> cathode
+delivers higher specific capacity, rate capability, and excellent
+cyclic stability than the NC-S cathode and bulk sulfur cathode with
+MgB<sub>2</sub> interlayer. The lithium polysulfide (LPS) adsorption
+test shows that MgB<sub>2</sub> has strong chemisorption toward lithium
+polysulfides, which can inhibit the dissolution of LPS into the electrolyte
+and minimizes the shuttle effect. The dynamic electrochemical impedance
+spectroscopy analysis investigates the electrochemical reaction kinetics
+of the NC-S/MgB<sub>2</sub> cathode during the charging and discharging
+processes. Overall, this work demonstrates that the synergy between
+the nitrogen-doped porous carbon-sulfur host and polar metallic MgB<sub>2</sub> improves the performance of the Li-S battery, which is beneficial
+for the development of high-energy-density batteries for the future.</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao0c02778</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao0c02778</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Lithium-sulfur
+(Li-S) batteries are considered as the next-generation
+electrochemical energy storage devices owing to their high energy
+density (2600 Wh kg<sup>&#x02013;1</sup>) and theoretical capacity
+(1672 mA h g<sup>&#x02013;1</sup>). Besides, eco-friendliness, low
+cost, and wide availability of sulfur cathode make it a promising
+candidate.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> However, the poor ionic/electronic conductivity
+of sulfur/discharged products, pulverization of sulfur during the
+redox reactions, dissolution of intermediately formed lithium polysulfides
+(LPS) into the electrolyte, and shuttle mechanism are the major barriers
+for the development of Li-S batteries in a larger scale.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> These issues give rise to low coulombic efficiency,
+poor cyclic stability, and active material losses of Li-S batteries.
+For commercialization of Li-S batteries, the above-mentioned challenges
+should be addressed.</p><p>The electrical conductivity and wettability
+of the sulfur and discharge
+product lithium sulfide (Li<sub>2</sub>S) can be enriched by incorporating
+sulfur into carbonaceous host materials. This can improve the specific
+capacity, rate capability, and cyclic stability of the Li-S battery.<sup><xref ref-type="bibr" rid="ref4">4</xref>,<xref ref-type="bibr" rid="ref5">5</xref></sup> These parameters also depend on the choice of carbonaceous host.
+In this context, porous carbon nanostructures are considered as more
+suitable materials owing to their high specific surface area, controlled
+pore size distribution, and chemical and thermal stabilities.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> Porous carbon with the combination of mesoporous
+and microporous structures can enhance the active materials storage
+and utilization and therefore, mitigate the lithium polysulfide shuttling.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> For the synthesis of porous carbon structures,
+many approaches have been made using various templates. These processes
+are time-consuming, have complex synthesis routes, and costly.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> Besides, addition of a nitrogen dopant to the
+porous carbon structure can enhance the interaction between the lithium
+polysulfides (LPS) and carbon structure, thereby improving the performance
+of the Li-S battery.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> In the present work,
+a nitrogen-doped porous carbon (NC) has been synthesized by the facile
+thermal decomposition method. For this, sodium bicarbonate is used
+as pyrogen, and melamine and glucose are used as nitrogen and carbon
+sources, respectively. The highly porous nitrogen-doped carbon is
+used as a sulfur host (NC-S).</p><p>Extensive research has been carried
+out for developing promising
+polar, nonpolar, organic, and inorganic materials for the confinement
+of lithium polysulfides (LPS) and minimize the active material losses.
+The carbon-based materials can provide conductivity to the sulfur
+cathode and also reduce the LPS shuttling by physical confinement.
+This weak interaction between nonpolar carbonaceous materials and
+polar LPS limits the performance of the Li-S battery.<sup><xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref10">10</xref></sup> Therefore, the strong interaction between lithium polysulfides (LPS)
+and polar materials can trap the lithium polysulfides efficiently
+through chemical interactions. Transition-metal oxide, carbide, nitrides,
+and sulfides are mainly identified as polar materials, which can easily
+adsorb the LPS on their surface by the Lewis acid&#x02013;base reaction,
+unlike nonpolar carbonaceous materials.<sup><xref ref-type="bibr" rid="ref11">11</xref>,<xref ref-type="bibr" rid="ref12">12</xref></sup> The shuttle
+mechanism is only partially limited by chemical interactions using
+transition-metal oxides, nitrides, carbides and sulfides due to the
+less number of available sites for these materials, which therefore
+hamper the cycling capability of the Li-S battery. To improve the
+performance of the Li-S battery, new materials/chemistry should be
+explored. The study on interactions of metal borides with lithium
+polysulfide has not been reported much. Li et al. have reported conductive
+and polar titanium boride (TiB<sub>2</sub>) as a sulfur host in Li-S
+batteries and effectively confined the shuttle effect.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> Guan et al. have reported an amorphous Co<sub>2</sub>B@graphene composite for immobilization of LPS and explained
+that the synergistic effect of Co and B interactions with LPS and
+high conductivity of graphene could efficiently restrict the LPS dissolution.<sup><xref ref-type="bibr" rid="ref14">14</xref></sup></p><p>In this work, we report the layer-structured
+and room-temperature
+metallic nature MgB<sub>2</sub> as an interlayer to mitigate LPS shuttling.
+MgB<sub>2</sub> consists of alternative layers of magnesium and boron
+atoms, where the boron layer forms honeycomb stacks with the magnesium
+layer as a space filler.<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> MgB<sub>2</sub> has similar band structures to graphite with deeper &#x003c0; bands
+and coexistence of 2D covalent bands from in-plane sigma bonds and
+3D metallic conducting bands from the interlayer-made MgB<sub>2</sub> as the most attractive material in the field of superconductivity.<sup><xref ref-type="bibr" rid="ref16">16</xref>,<xref ref-type="bibr" rid="ref17">17</xref></sup> The application of metallic, layered, and structured MgB<sub>2</sub> as the lithium polysulfide immobilizer is not explored much. Recently,
+Linda F. Nazar&#x02019;s group has reported ultra-lightweight MgB<sub>2</sub> as the polysulfide mediator for LPS redox reaction.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> They have stated that both magnesium and boron
+centers bind S<sub>2</sub><sup>2&#x02013;</sup> anions in the absence
+of Li<sup>+</sup> cations, which can enhance the diffusion of Li<sup>+</sup> ions. The interaction reported here is different from the
+previously reported Lewis acid&#x02013;base interactions on chalcogenides,
+carbides, and nitrides with LPS.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup></p><p>In the present work, a simple one-step synthesis has been approached
+from the synthesis of highly porous nitrogen-doped carbon (NC) without
+using KOH or templates. The nitrogen-doped porous carbon is used as
+the sulfur host (NC-S) to fabricate the cathode. SEM, TEM, and surface
+area measurements confirm the highly porous nature of NC. Magnesium
+diboride coated on the carbon cloth with high LPS adsorption is used
+as the interlayer. Li-S batteries are tested with NC-S cathode with
+and without the MgB<sub>2</sub> interlayer. To understand the significant
+performance of the NC-S cathode, the cells were fabricated using 65%
+sulfur, 25% carbon, and 10% binder as bulk sulfur cathode with the
+MgB<sub>2</sub> interlayer and compared to the NC-S cathode with MgB<sub>2</sub> interlayer.</p></sec><sec id="sec2"><label>2</label><title>Experimental Section</title><sec id="sec2.1"><label>2.1</label><title>Synthesis of NC and NC-S</title><p>Synthesis
+of nitrogen-doped porous carbon (NC) involves a facile thermal decomposition
+technique. Briefly, melamine, glucose, and sodium bicarbonate were
+taken as nitrogen, carbon, and pore-forming precursors, respectively.
+Melamine, glucose, and sodium hydrogen carbonate were taken in the
+molar ratio of 1:1:1 and well ground with the help of a mortar and
+pestle. The ground mixture was loaded into a horizontal tubular furnace
+and heated at a heating rate of 5 &#x000b0;C min<sup>&#x02013;1</sup> to
+800 &#x000b0;C and held at this temperature for 2 h. After the furnace
+temperature reaches room temperature, the sample was washed with ethanol
+and deionized water for the removal of sodium content and any unreacted
+compounds. The final NC sample was obtained by filtering and drying
+the washed sample at 60 &#x000b0;C in a vacuum oven for 10 h. The pore
+formation mechanism is dependent on the hydrogen-bond interactions
+with the material precursors. Melamine consists of molecules like
+N&#x02013;H&#x000b7;&#x000b7;&#x000b7;N bonds arranged in planar sheets, which
+are connected with HCO<sub>3</sub><sup>&#x02013;</sup> anions originating
+from bicarbonates forming bonds like N&#x02013;H&#x000b7;&#x000b7;&#x000b7;O.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> The self-assembly of porous sheets is promoted
+by sodium bicarbonate.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> The sodium bicarbonate
+and glucose decompose at a high temperature, liberating CO<sub>2</sub> and H<sub>2</sub>O that lead to the formation of a porous network
+in the sample.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup></p><p>Sulfur-incorporated
+nitrogen-doped porous carbon (NC-S) is synthesized by the melt-diffusion
+method. First, sublimed sulfur and NC are taken in a 4:1 ratio and
+a homogeneous mixture of sulfur and NC was obtained by grinding well
+for 1 h. The sample was sealed in an ampoule and heated to 155 &#x000b0;C
+very slowly and maintained at that temperature for 12 h and further
+annealed at 300 &#x000b0;C to vaporize the surface-deposited sulfur.
+Sulfur infiltration into the NC network was carried out at 155 &#x000b0;C,
+where sulfur is in a molten state with the lowest viscosity and can
+quickly diffuse through the pores of NC by capillary forces, which
+are a very slow process, and polymerization of S<sub>8</sub> takes
+place.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> The schematic illustration of
+the synthesis process is given in <xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>.</p><fig id="sch1" position="float"><label>Scheme 1</label><caption><title>Schematic Representation of the Synthesis
+Procedure for NC and NC-S</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c02778_0010" id="gr1" position="float"/></fig></sec><sec id="sec2.2"><label>2.2</label><title>Fabrication of MgB<sub>2</sub> Interlayer</title><p>MgB<sub>2</sub> (Alfa Aesar, 99%, &#x0223c;100 mesh powder) is well
+ground with acetylene black and PVDF in an 80:10:10 ratio. The slurry
+was prepared by adding the NMP solvent. The uniform mixture of the
+slurry is coated on a carbon cloth by the doctor blade method (GDL,
+Nickunj Eximp Entp Pvt Ltd, India). The MgB<sub>2</sub>-coated carbon
+cloth is dried at 80 &#x000b0;C for 12 h in a vacuum oven. The dried
+sample is cut into a 12 mm disk and used as the MgB<sub>2</sub> interlayer
+for Li-S battery.</p></sec><sec id="sec2.3"><label>2.3</label><title>Material Characterizations</title><p>X-ray
+diffraction (XRD) patterns of the samples were recorded using a Rigaku
+Smartlab X-ray diffractometer with Cu K<sub>&#x003b1;</sub> radiation
+(&#x003bb; = 0.154 nm) at 40 kV and 100 mA embedded with a nickel filter.
+The XRD patterns were recorded with a step size of 0.02&#x000b0;, in
+the range of 10&#x02013;90&#x000b0;. The surface area analysis of the
+synthesized samples was studied by recording nitrogen adsorption/desorption
+isotherms at a liquid nitrogen temperature using a Micromeritics ASAP
+2020. The specific surface area and porosity of the samples were calculated
+using the Brunauer&#x02013;Emmett&#x02013;Teller (BET) and Barrett&#x02013;Joyner&#x02013;Halenda
+(BJH) theories, respectively. The morphology of the synthesized samples
+was characterized by an Inspect F50 scanning electron microscopy (SEM)
+and a Technai G20 transmission electron microscopy (TEM) instruments.
+Energy-dispersive X-ray spectra analysis (EDS) measurements were studied
+using an Inspect F50 instrument. Thermogravimetric analysis (TGA)
+was carried out using an SDT Q600 from TA Instruments, at a heating
+rate of 20 &#x000b0;C min<sup>&#x02013;1</sup> from room temperature to
+1000 &#x000b0;C. The chemical structure/bonding of the samples was studied
+by X-ray photoelectron spectroscopy (XPS) from a Specs X-ray photoelectron
+spectrometer using Al K<sub>&#x003b1;</sub> enabled with PHOIBOS 100MCD
+analyzer as an X-ray source.</p></sec><sec id="sec2.4"><label>2.4</label><title>Electrochemical Measurements</title><p>The
+cathode of Li-S battery was prepared by mixing 75% active material
+(NC-S), 10% acetylene black, and 15% poly(vinylidene fluoride) binder
+(PVDF) with <italic>N</italic>-methyl-2-pyrrolidone (NMP) solvent
+in the form of a slurry. The well-prepared slurry was cast over the
+aluminum foil using the doctor blade technique and dried at 80 &#x000b0;C
+overnight. Similarly, bulk sulfur (S) cathode was prepared by mixing
+65% sulfur, 25% carbon, and 10% binder. The dried slurry-coated aluminum
+foil was cut in the shape of circular disks with a 12 mm diameter
+and served as the working electrode. The sulfur loading was controlled
+as 2.5&#x02013;2.8 mg cm<sup>&#x02013;2</sup>. Li-S battery was fabricated
+in 2032 coin cells using NC-S or S electrodes as a cathode, glass
+fiber (GF/C) as a separator, and lithium metal as an anode. Bis(trifluoromethane)sulfonimide
+lithium salt (1 M, LITFSI) and LiNO<sub>3</sub> additive (0.2 M) in
+1,3-dioxolane (DOL) and 1,2-dimethoxyethane (DME) (1:1 v/v) was used
+as an electrolyte. The coin cell fabrication was carried out inside
+a glovebox (Mbraun) by maintaining O<sub>2</sub> and H<sub>2</sub>O levels &#x0003c;0.1 ppm. The coin cells were assembled with and without
+MgB<sub>2</sub> interlayers.</p><p>Cyclic voltammetry (CV), electrochemical
+impedance spectroscopy (EIS), dynamic electrochemical impedance spectroscopy
+(DEIS) measurements were recorded using the Biologic VSP 300 electrochemical
+test station, and galvanostatic charge&#x02013;discharge profiles were
+recorded using Biologic BCS-810 battery cycler. The CV and galvanostatic
+charge&#x02013;discharge profiles were recorded in the potential range
+of 2.8&#x02013;1.7 V. The EIS and DEIS measurements were recorded in
+the frequency range of 100 mHz to 1 MHz.</p><sec id="sec2.4.1"><label>2.4.1</label><title>Lithium
+Polysulfide Absorption Test</title><p>Li<sub>2</sub>S<sub>6</sub> (0.5
+M) was prepared by adding lithium
+sulfide (Li<sub>2</sub>S) and elemental sulfur (1:5 molar ratio) in
+DOL and DME solvents (1:1 v/v). The suspension was stirred continuously
+for 72 h inside a glovebox for obtaining Li<sub>2</sub>S<sub>6</sub>. For the LPS absorption test, Li<sub>2</sub>S<sub>6</sub> was further
+diluted by adding 8 &#x003bc;L of Li<sub>2</sub>S<sub>6</sub> in 4 mL
+of DOL and DME solvents (1:1 v/v). The samples (10 mg) were added
+to the above solution, mixed for 30 min, and allowed to stand for
+10 h. The supernatant of the samples was analyzed by UV&#x02013;vis
+spectra using a Cary 100 UV&#x02013;vis spectrophotometer from Agilent
+Technologies.</p></sec></sec></sec><sec id="sec3"><label>3</label><title>Results and Discussion</title><p>The X-ray diffraction (XRD) patterns for NC, NC-S, and MgB<sub>2</sub> interlayer are shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a. The XRD pattern of NC consists of a high-intensity
+peak and a low-intensity peak at 26.4&#x000b0; and 44.1&#x000b0; respectively,
+corresponding to the (002) and (101) planes of graphitic carbon, which
+confirms the graphitization of porous carbon network. After sulfur
+incorporation into the NC structure, the XRD of NC-S depicts mainly
+sublimed sulfur peaks (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a) with a broad hump at 20&#x02013;30&#x000b0;, suggesting the
+infiltration of sulfur inside the porous network of NC.<sup><xref ref-type="bibr" rid="ref24">24</xref>,<xref ref-type="bibr" rid="ref25">25</xref></sup> The XRD pattern of MgB<sub>2</sub> interlayer (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c02778/suppl_file/ao0c02778_si_001.pdf">Figure S1</ext-link>) illustrates peaks at 25.2, 35.5, 42.4, 51.9, 59.9,
+63.2, 66.1, 70.4, 76.1, and 83.2&#x000b0; corresponding to the (001),
+(100), (101), (002), (110), (102), (111), (200), (201), and (112)
+planes of MgB<sub>2</sub> with hexagonal crystal structure (ICDD:
+01-074-0982).</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(a) X-ray diffraction pattern for NC, NC-S, and sublimed
+sulfur.
+(b) Nitrogen adsorption&#x02013;desorption isotherms and (c) pore size
+distribution for NC.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c02778_0002" id="gr2" position="float"/></fig><p><xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b depicts
+the nitrogen adsorption&#x02013;desorption isotherms obtained at 77
+K for NC. The sample illustrates type IV isotherm with a hysteresis
+loop above 0.5 relative pressure suggests the mesoporous structure
+of the NC. Besides, the high nitrogen uptake in the low-relative-pressure
+region (&#x0003c;0.1) indicates the presence of micropores in the sample.
+The specific surface area of the NC sample estimated based on the
+Brunauer&#x02013;Emmett&#x02013;Teller (BET) method is 1272.4 m<sup>2</sup> g<sup>&#x02013;1</sup>. The Barrett&#x02013;Joyner&#x02013;Halenda
+(BJH) method is used to calculate the pore volume and pore size of
+NC. <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c represents
+the pore size distribution of NC. The sample consists of both mesopores
+(4 nm) and micropores (&#x0003c;2 nm), as indicated in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c inset. The NC shows a total
+pore volume of 1.04 cm<sup>3</sup> g<sup>&#x02013;1</sup>, including
+mesopore and micropore volumes of 0.77 and 0.277 cm<sup>3</sup> g<sup>&#x02013;1</sup>, respectively. The high surface area and porosity
+of the NC sample can enhance the electrochemical reactivity of the
+sulfur by providing more surface area and improved diffusion of Li<sup>+</sup> ions and electrolytes into the porous network for the reactions
+to occur.</p><p>Thermogravimetric analysis (TGA) was carried out in
+the air atmosphere
+to estimate the decomposition temperature of NC and in a nitrogen
+atmosphere to find the sulfur weight % in the NC-S sample. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c02778/suppl_file/ao0c02778_si_001.pdf">Figure S2a</ext-link> illustrates the profile of NC from
+room temperature to 1000 &#x000b0;C in the presence of air. The weight
+loss below 150 &#x000b0;C indicates the removal of surface-adsorbed moisture.
+From 200 to 450 &#x000b0;C the NC sample wt % remains constant, and above
+500 &#x000b0;C, the major decomposition occurs due to oxidation of carbon
+in NC. The TGA profile of NC-S carried out in the nitrogen atmosphere
+is shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c02778/suppl_file/ao0c02778_si_001.pdf">Figure S2b</ext-link>. The decomposition
+above 200 &#x000b0;C illustrates the oxidation of sulfur, and the final
+weight of sulfur in NC-S is 78 wt %. This suggests that the high surface
+and porous network of NC could accommodate a large amount of sulfur
+in it. The dominant sulfur peaks in the NC-S XRD pattern is due to
+the large amount of sulfur in the present sample.</p><p>The morphology
+of the synthesized samples is studied by scanning
+electron microscopy (SEM) and transmission electron microscopy. <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a shows the SEM images
+for NC, where randomly distribute interconnected open pores are clearly
+visible. After sulfur incorporation into nitrogen-doped porous carbon,
+SEM of NC-S illustrates a porous network with some pores filled with
+sulfur nanoparticle (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b). The open pores of NC still remain the same. The presence
+of open pores, mainly mesoporous and microporous networks, can efficiently
+store the active material inside the cathode, therefore improving
+the active material utilization. The microporous configuration can
+accelerate the diffusion of Li<sup>+</sup> ions, electrolyte, and
+electron pathways.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup><xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c displays the TEM image of NC. The interconnected
+channels of the pores with uniform distribution are illustrated. The
+TEM image of NC-S depicts the dark sulfur particles over the porous
+network of the nitrogen-doped carbon, as shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>d. <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>e depicts the TEM of NC-S, where the sulfur
+particles inside the porous carbon network are highlighted with yellow
+arrows. The presence of sulfur inside the nitrogen-doped porous is
+confirmed by energy-dispersive X-ray spectra analysis (EDS) measurements. <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>f represents the
+EDS pattern of NC-S, and the quantification of elements is given in
+the <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>f inset
+pie chart. The nitrogen content in NC-S is found to be 4.5%, which
+can also help in improving the active material utilization in Li-S
+battery.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(a, b) SEM images, (c&#x02013;e) TEM images of NC and NC-S, and
+(f) EDS spectra inset elemental composition for NC-S.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c02778_0003" id="gr3" position="float"/></fig><p>X-ray photoelectron spectroscopy (XPS) analysis was carried
+out
+to elucidate the chemical bonding of the samples. <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a represents the high-resolution
+XPS of N 1s spectra, which deconvoluted into four peaks at 398.2,
+399.7, 400.7, and 402.4 eV corresponding to pyridinic-N, pyrrolic-N,
+graphitic-N, and oxidized-N (NO<italic><sub>x</sub></italic>). The
+pyridinic, pyrrolic, and graphitic-N contents are 47.3, 28.6, and
+17.1%, respectively. The high amount of pyridinic-N in the NC-S sample
+can bind the LPS by Lewis acid&#x02013;base interactions and suppress
+the active material losses.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> The high-resolution
+S 2p peak of NC-S is illustrated in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b. The S 2p spectra consist of three peaks
+at 163.3, 164.4, and 168.1 eV corresponding to S 2p<sub>3/2</sub>,
+S 2p<sub>1/2</sub>, and sulfate in air.<sup><xref ref-type="bibr" rid="ref28">28</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup> The binding
+energies of S 2p<sub>3/2</sub> and S 2p<sub>1/2</sub> shift to lower
+values than the elemental sulfur due to the interaction of carbon
+host and sulfur.<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> The high-resolution
+XPS Mg 2p and B 1s spectra are shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>c,d, respectively. The Mg 2p spectra illustrate
+a peak centered at 50.3 eV corresponding to the metallic Mg.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> The B 1s spectra deconvoluted into two peaks
+at 187.7 and 192.2 eV correspond to the zero oxidation state of boron
+and B<sub>2</sub>O<sub>3</sub>.<sup><xref ref-type="bibr" rid="ref31">31</xref>,<xref ref-type="bibr" rid="ref32">32</xref></sup></p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>High-resolution X-ray
+photoelectron spectra for (a) N 1s, (b) S
+2p, (c) B 1s, and (d) Mg 2p.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c02778_0004" id="gr4" position="float"/></fig><p>The electrochemical performance of the synthesized materials is
+tested in four different configurations: (i) 65% sulfur, 25% carbon,
+and 10% binder cathode (S cathode) without any interlayer; (ii) 65%
+sulfur, 25% carbon, and 10% binder cathode with a MgB<sub>2</sub> interlayer
+(S/MgB<sub>2</sub>); (iii) NC-S cathode without an interlayer; and
+(iv) NC-S cathode with a MgB<sub>2</sub> interlayer (NC-S/MgB<sub>2</sub>). The electrochemical activity and the LPS adsorption capability
+of the S/MgB<sub>2</sub> and NC-S/MgB<sub>2</sub> cathodes are studied
+by cyclic voltammetry (CV) measurements at a scan rate of 0.1 mV s<sup>&#x02013;1</sup> in the potential range of 2.8&#x02013;1.7 V. <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a depicts the CV
+profiles for S/MgB<sub>2</sub> and NC-S/MgB<sub>2</sub> cathodes at
+a scan rate of 0.1 mV s<sup>&#x02013;1</sup>. In the cathodic scan,
+the first reduction peak (I) at 2.37 V corresponds to the reduction
+of S<sub>8</sub> to higher-order LPS (Li<sub>2</sub>S<italic><sub>x</sub></italic>, 4 &#x02264; <italic>x</italic> &#x02264; 8), and
+the second the reduction peak (II) at 2.01 V indicates the reduction
+of higher-order LPS to lower-order LPS (Li<sub>2</sub>S<sub>2</sub>/Li<sub>2</sub>S). During the anodic scan, the peak at 2.4 V signifies
+the oxidation of lower-order LPS (Li<sub>2</sub>S<sub>2</sub>/Li<sub>2</sub>S) to higher-order LPS and sulfur. These peaks are well consistent
+with the galvanostatic charge&#x02013;discharge profiles (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref> a&#x00026;b). The NC-S/MgB<sub>2</sub> cathode illustrates reduction peaks at 2.37 V and 2.01 V
+and an oxidation peak at 2.4 V. The S/MgB<sub>2</sub> cathode displays
+sulfur reduction and oxidation peaks at 2.3 V, 1.91 V, and 2.45 V,
+respectively. The reduction peaks of the NC-S/MgB<sub>2</sub> cathode
+are at more positive potentials, and the oxidation peak is more negative
+than the S/MgB<sub>2</sub> cathode, suggesting the low polarization
+and enhanced sulfur redox kinetic of the NC-S/MgB<sub>2</sub> cathode.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> The anodic peak (III) and cathodic peak (I)
+potential differences are found to be 30 and 150 mV for NC-S/MgB<sub>2</sub> and S/MgB<sub>2</sub> cathodes, respectively. The lower overpotential
+toward the redox reaction of LPS is an effective way to reduce the
+cell polarization and enhance the rate capacity and durability of
+the Li-S battery.<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> To further understand
+the overpotential caused at higher scan rates, cyclic voltammetry
+studies were carried out at scan rates from 0.1 to 0.5 mV s<sup>&#x02013;1</sup> in the potential range of 2.8&#x02013;1.7 V. The CV profiles at different
+scan rates for the NC-S/MgB<sub>2</sub> and S/MgB<sub>2</sub> cathodes
+are shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b,c respectively. An increase in the scan rate increases the peak
+current and negative shits in the potential values. The variations
+of the anodic peak (III) potential and the cathodic peak (I and II)
+potentials with respect to scan rate are given in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>d&#x02013;f, respectively. A
+large positive shift and negative shifts are observed in the oxidation
+peak (III) and reduction peaks (I and II), respectively, for the S/MgB<sub>2</sub> cathode, which indicate the slower redox reaction kinetics
+toward LPS on the surface of sulfur. The addition of a nitrogen-doped
+porous carbon network to sulfur has significantly lowered the overpotential
+occurred during the lithiation/delithiation processes, suggesting
+the inherent LPS adsorption property.<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> This also facilitates the efficient conversion and utilization of
+active sulfur materials within the cathode.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>(a) Cyclic voltammetry
+curves at 0.1 mV s<sup>&#x02013;1</sup> for
+S/MgB<sub>2</sub> and NC-S/MgB<sub>2</sub> cathodes; cyclic voltammetry
+curves for different scan rates (b) S/MgB<sub>2</sub> and (c) NC-S/MgB<sub>2</sub> cathodes; variation peak potential with respect to scan rate
+for S/MgB<sub>2</sub> and NC-S/MgB<sub>2</sub> cathodes (d) anodic
+peak (III), (e) first cathodic peak (I), and (f) second cathodic peak
+(II).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c02778_0005" id="gr5" position="float"/></fig><p>Galvanostatic charge&#x02013;discharge
+studies were carried out
+at different C rates (1C-1672 mA g<sup>&#x02013;1</sup>) in the potential
+range of 2.8&#x02013;1.7 V. The galvanostatic discharge curves indicate
+two plateaus at 2.38 and 2.1 V corresponding to the reduction of S<sub>8</sub> to higher-order and lower-order lithium polysulfides (LPS).
+In the charge curve, the plateaus indicate the oxidation Li<sub>2</sub>S to lower-order LPS, higher-order LPS, and back to S<sub>8</sub>. <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a depicts
+the galvanostatic charge&#x02013;discharge profiles for S cathode without
+any interlayer. In the first discharge cycle at 0.05C rate, the sulfur
+cathode delivered a specific capacity of 452 mA h g<sup>&#x02013;1</sup>, and in the second cycle, the discharge specific capacity increased
+very little to 459 mA h g<sup>&#x02013;1</sup>, which might be due
+to the rearrangement of sulfur atoms. However, the charge profile
+of the first cycles is overlapped by that of the second cycle; therefore,
+it is not identified clearly in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a. When the C rate increases to 0.1C, the specific
+capacity of the S cathode decreases to 342 mA h g<sup>&#x02013;1</sup>, and the second plateau at 2.08 V falls to 1.95 V with a slopping
+line rather than plateau. This indicates the pulverization of the
+pure sulfur cathode and the shuttling of LPS. The galvanostatic charge&#x02013;discharge
+profiles for the NC-S cathode are shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c02778/suppl_file/ao0c02778_si_001.pdf">Figure S3a</ext-link>. The NC-S cathode exhibits a specific capacity of 554,
+475, 385, 298, and 156 mA h g<sup>&#x02013;1</sup> at 0.1, 0.2, 0.5,
+1, and 2C rates, respectively. The NC-S cathode delivers higher specific
+capacity and rate capability than the S cathode, signifying the role
+of the porous carbon structure, which acts as a buffer layer to accommodate
+the volume changes occurred during the redox reactions of the sulfur.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> Even though the specific capacity and current
+uptake are higher than those of pure S cathode, the unstable discharge
+plateaus at higher C rates indicate that the additional interlayer
+can improve the specific capacity of the cathode.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Galvanostatic charge&#x02013;discharge
+profiles at various C rates
+for (a) S cathode; (b) S/MgB<sub>2</sub>, NC-S, and NC-S/MgB<sub>2</sub> cathodes at 0.1C rate; (c) rate capability and (d) EIS profiles
+for S/MgB<sub>2</sub>, NC-S, and NC-S/MgB<sub>2</sub> cathodes.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c02778_0006" id="gr6" position="float"/></fig><p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c02778/suppl_file/ao0c02778_si_001.pdf">Figure S3b</ext-link> displays
+the charge&#x02013;discharge
+profiles for the S/MgB<sub>2</sub> cathode at different C rates. The
+specific capacities obtained by the S/MgB<sub>2</sub> cathode at 0.1,
+0.2, 0.5, 1, and 2C rates are 1015, 830, 627, 537, and 371 mA h g<sup>&#x02013;1</sup>, respectively. After the addition of the MgB<sub>2</sub> interlayer, the specific capacity values drastically improved,
+suggesting the strong LPS adsorption of the MgB<sub>2</sub> surface.
+The Li-S battery performance of the NC-S cathode is also evaluated
+with the MgB<sub>2</sub> interlayer. The galvanostatic charge&#x02013;discharge
+profile obtained for the NC-S/MgB<sub>2</sub> cathode from 0.1C to
+2C is shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c02778/suppl_file/ao0c02778_si_001.pdf">Figure S3c</ext-link>. The NC-S/MgB<sub>2</sub> cathode delivers specific capacities of 1218, 1077, 946,
+809, and 624 mA h g<sup>&#x02013;1</sup> at 0.1, 0.2, 0.5, 1, and 2C
+rates, respectively. These specific capacity values are much higher
+than the NC-S cathode without interlayer and the S/MgB<sub>2</sub> cathode, indicating that the highly porous nitrogen-doped carbon
+architecture with a strong LPS MgB<sub>2</sub> adsorption mediator
+interlayer has significantly contributed to the confinement of the
+LPS shuttle effect. Therefore, the synergy between the NC-S cathode
+and the MgB<sub>2</sub> interlayer delivers higher specific capacity
+values at all current densities. The polarization values &#x00394;<italic>E</italic><sub>1</sub>, &#x00394;<italic>E</italic><sub>2</sub>, &#x00394;<italic>E</italic><sub>3</sub>, and &#x00394;<italic>E</italic><sub>4</sub> are measured between the linear regions of charge&#x02013;discharge
+curves for pure S, NC-S, S/MgB<sub>2</sub>, and NC-S/MgB<sub>2</sub> cathodes, respectively, as shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a,b. The measured polarization values for
+pure S, NC-S, S/MgB<sub>2</sub>, and NC-S/MgB<sub>2</sub> cathodes
+are &#x00394;<italic>E</italic><sub>4</sub> &#x0003c; &#x00394;<italic>E</italic><sub>3</sub> &#x0003c; &#x00394;<italic>E</italic><sub>2</sub> &#x0003c; &#x00394;<italic>E</italic><sub>1</sub>. Therefore, the NC-S/MgB<sub>2</sub> cathode
+shows lower polarization than the other cathodes owing to the synergy
+of inherent polysulfide adsorption property of the MgB<sub>2</sub> interlayer and nitrogen dopant sites in the porous carbon structure.</p><p>The capability of the Li-S battery with the NC-S, NC-S/MgB<sub>2</sub>, and S/MgB<sub>2</sub> cathodes delivering the specific capacity
+at higher C rates is evaluated by rate performance studies. <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>c shows the rate
+performances of the NC-S, NC-S/MgB<sub>2</sub>, and S/MgB<sub>2</sub> cathodes from 0.1 to 2C rates. The rate performance of the NC-S/MgB<sub>2</sub> cathode is higher than the S/MgB<sub>2</sub> cathode due
+to the nitrogen-doped interconnected porous structure of carbon, which
+can minimize the shuttling of LPS.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> All
+the cathodes significantly deliver specific capacity up to 2C rate.
+However, the NC-S cathode without a MgB<sub>2</sub> interlayer shows
+lower specific capacity, and after the addition of a MgB<sub>2</sub> interlayer to the NC-S cathode, the specific capacity values significantly
+enhanced, contributing to the conductive carbon host and the polar
+interlayer. All the cells are cycled up to 2C rate and switched back
+to the 0.1C rate. The capacity retentions after switching to 0.1C
+for the NC-S, S/MgB<sub>2</sub>, and NC-S/MgB<sub>2</sub> cathodes
+are 95.9%, 91%, and 96.6%, respectively. The NC carbon host could
+retain maximum specific capacity after rate performance can be attributed
+to the low overpotential measured from the CV profiles of the NC-S/MgB<sub>2</sub> cathode.</p><p>The reaction kinetics of the NC-S, S/MgB<sub>2</sub>, and NC-S/MgB<sub>2</sub> cathodes were studied by electrochemical
+impedance spectroscopy
+(EIS) analysis. The Nyquist plots for NC-S, S/MgB<sub>2</sub>, and
+NC-S/MgB<sub>2</sub> cathodes after CV measurements are shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>d. All the Nyquist
+plots comprise the depressed semicircles in the high- and mid-frequency
+regions and an inclined line in the low-frequency region. Nyquist
+plots have been fitted with an equivalent circuit model in the inset
+of <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>d, where <italic>R</italic><sub>o</sub>, <italic>R</italic><sub>si</sub>, and <italic>R</italic><sub>ct</sub> correspond to Ohmic resistance of the electrolyte,
+surface film resistance of the electrode, and the charge-transfer
+resistance between the electrode and electrolyte interface. CPE<sub>1</sub> and CPE<sub>2</sub> represent the constant phase elements,
+and CPE<sub>3</sub> represents an infinite-length Warburg element
+that deals with the diffusion of ions within the cathode.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> The <italic>R</italic><sub>o</sub>, <italic>R</italic><sub>si</sub>, and <italic>R</italic><sub>ct</sub> values
+for the NC-S, S/MgB<sub>2</sub>, and NC-S/MgB<sub>2</sub> cathodes
+are given in <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>. The NC-S cathode depicts a higher <italic>R</italic><sub>ct</sub> (33.9 &#x003a9;) value than the S/MgB<sub>2</sub> and NC-S/MgB<sub>2</sub> cathodes, which signifies that the MgB<sub>2</sub> interlayer
+can act as an upper current collector by enhancing the conductivity
+of the cathode.<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> Besides, the LPS adsorption
+property of MgB<sub>2</sub> also enhances the redox kinetics of sulfur
+and promotes the high utilization of active materials. The NC-S/MgB<sub>2</sub> cathode shows lower <italic>R</italic><sub>o</sub>, <italic>R</italic><sub>si</sub>, and <italic>R</italic><sub>ct</sub> values
+compared to the S/MgB<sub>2</sub> cathode, suggesting that the synergistic
+combination of nitrogen-doped highly porous carbon network and MgB<sub>2</sub> interlayer can significantly improve the active material
+utilization of Li-S battery and inhibit the shuttling mechanism.</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title><italic>R</italic><sub>o</sub>, <italic>R</italic><sub>si</sub>, and <italic>R</italic><sub>ct</sub> Values
+for NC-S, S/MgB<sub>2</sub>, and NC-S/MgB<sub>2</sub> Cathodes</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/></colgroup><thead><tr><th style="border:none;" align="center">cathode</th><th style="border:none;" align="center" char="."><italic>R</italic><sub>o</sub> (&#x003a9;)</th><th style="border:none;" align="center" char="."><italic>R</italic><sub>si</sub> (&#x003a9;)</th><th style="border:none;" align="center" char="."><italic>R</italic><sub>ct</sub> (&#x003a9;)</th></tr></thead><tbody><tr><td style="border:none;" align="left">NC-S</td><td style="border:none;" align="char" char=".">5.1</td><td style="border:none;" align="char" char=".">30.7</td><td style="border:none;" align="char" char=".">33.9</td></tr><tr><td style="border:none;" align="left">S/MgB<sub>2</sub></td><td style="border:none;" align="char" char=".">2.8</td><td style="border:none;" align="char" char=".">7.1</td><td style="border:none;" align="char" char=".">5.1</td></tr><tr><td style="border:none;" align="left">NC-S/MgB<sub>2</sub></td><td style="border:none;" align="char" char=".">2.2</td><td style="border:none;" align="char" char=".">5.5</td><td style="border:none;" align="char" char=".">3.9</td></tr></tbody></table></table-wrap><p>The long-term cyclic stability
+of the NC-S, S/MgB<sub>2</sub>,
+and NC-S/MgB<sub>2</sub> cathodes are evaluated at 1C rate in the
+potential window 2.8&#x02013;1.7 V for 500 cycles (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>). The NC-S without any interlayer
+could show cyclic performance up to 500 cycles, while the capacity
+value is less. At the end of 500 cycles, the NC-S cathode could retain
+66.4% of its initial capacity. S/MgB<sub>2</sub> cyclic stability
+curves indicate the decrease in the specific capacity values with
+increasing number of cycles. The capacity retention of the S/MgB<sub>2</sub> cathode after 500 cycles is 71%. Even though MgB<sub>2</sub> has strong adsorption toward LPS, the poor stability of the sulfur
+cathode degrades the performance of the S/MgB<sub>2</sub> cathode.
+The cyclic performance of the NC-S/MgB<sub>2</sub> cathode is illustrated
+in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>. The NC-S/MgB<sub>2</sub> cathode could retain 85% of its initial capacity after 500
+cycles, with nearly 99% coulombic efficiency. This suggests the synergistic
+effect of highly porous nitrogen-doped carbon host and layered metallic
+MgB<sub>2</sub>. As reported in the literature, Mg and B atoms can
+adsorb polysulfide anions strongly and facilitate Li<sup>+</sup>-ion
+diffusion without binding to Mg and B atoms.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> This has also contributed to the enhanced cyclic stability and rate
+capability of the MgB<sub>2</sub> interlayer. Nitrogen doping of the
+carbon lattice, mainly pyridinic-N and graphitic-N, can strongly bind
+the LPS via chemisorption and minimize the active material losses.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> Therefore, combination of the materials of these
+two properties, such as the NC-S/MgB<sub>2</sub> cathode for Li-S
+battery, results in an increase of specific capacity, rate performance,
+and cyclic stability of the battery.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Cyclic stability at 1C rate for NC-S,
+S/MgB<sub>2</sub>, and NC-S/MgB<sub>2</sub> cathodes.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c02778_0007" id="gr7" position="float"/></fig><p>To elucidate the electrochemical process taking place on
+the NC-S/MgB<sub>2</sub> cathode during the charging and discharging
+processes distinctly,
+the dynamic electrochemical impedance spectroscopy (DEIS) technique
+has been studied. The DEIS technique is beneficial over EIS, where
+the AC signal is superimposed by the DC signal during the charging/discharging
+process, and the measurements are recorded in the quasi-stationary
+state.<sup><xref ref-type="bibr" rid="ref38">38</xref>,<xref ref-type="bibr" rid="ref39">39</xref></sup> This technique is helpful in studying the
+electrochemical reaction kinetics of the electrode materials in both
+charge and discharge states separately. <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>a,b depicts the DEIS profiles of the NC-S/MgB<sub>2</sub> cathode during the discharging and charging processes, respectively.
+Similar to EIS, the Nyquist plots of DEIS also comprise depressed
+semicircles in high- and mid-frequency regions, followed by a slopping
+line in the low-frequency region. It is clearly visible from the DEIS
+profile of the NC-S/MgB<sub>2</sub> cathode during the discharging
+process that with increasing depth of discharge (DOD), the length
+of the diffusion tail decreases until the voltage reaches 2.36 V.
+This is because as the voltage reaches from 2.8 to 2.36 V, S<sub>8</sub> reduces for the formation of higher-order LPS (Li<sub>2</sub>S<sub>8</sub>); during this stage, Li<sup>+</sup> ions have faster diffusion
+kinetics and the diffusion tail decreases. Above 2.36 V, the higher-order
+LPS reduces for the formation of lower-order LPS, which increases
+the viscosity of the electrolyte, and therefore, diffusion tails increase.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> During the charging process, a similar trend
+in the DEIS profile has been observed. The length of the diffusion
+is minimum around 2.36 V due to the formation of higher-order LPS.<sup><xref ref-type="bibr" rid="ref40">40</xref>,<xref ref-type="bibr" rid="ref41">41</xref></sup></p><fig id="fig7" position="float"><label>Figure 7</label><caption><p>DEIS
+profiles for the NC-S/MgB<sub>2</sub> cathode during (a) discharging
+and (b) charging processes. Resistance versus voltage profile during
+(c) discharging and (d) charging processes.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c02778_0008" id="gr8" position="float"/></fig><p>The electrochemical reaction kinetics of the NC-S/MgB<sub>2</sub> cathode are analyzed by fitting the Nyquist plots during the discharging
+and charging processes (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>a,b using the equivalent circuit given in the inset of <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>d). The variation
+of <italic>R</italic><sub>o</sub>, <italic>R</italic><sub>si</sub>, and <italic>R</italic><sub>ct</sub> with respect to DOD is illustrated
+in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>c. The Ohmic
+resistance (<italic>R</italic><sub>o</sub>) values remain uniform
+during the discharging process, which can be attributed to the synergistic
+combination of the NC sulfur cathode and the metallic MgB<sub>2</sub> interlayer that can inhibit LPS dissolution into the electrolyte.
+The <italic>R</italic><sub>si</sub> value is constant at the beginning
+of the discharging process and it decreases with increasing DOD up
+to 2.2 V due to the formation of higher-order lithium polysulfides
+on the surface of the MgB<sub>2</sub> interlayer, which is mostly
+in liquid state and decreases the surface film resistance. Above 2.1
+V, <italic>R</italic><sub>si</sub> increases for the conversion of
+higher-order LPS to Li<sub>2</sub>S<sub>2</sub>/Li<sub>2</sub>S films
+on the cathode surface. The <italic>R</italic><sub>ct</sub> value
+is higher during the initial discharging process due to the presence
+of insoluble sulfur spices; as DOD increases, the <italic>R</italic><sub>ct</sub> value decreases for the conversion of S<sub>8</sub> to Li<sub>2</sub>S<sub>8</sub>/Li<sub>2</sub>S<sub>6</sub> with
+faster reaction kinetics on the MgB<sub>2</sub> interlayer. Above
+2.2 V, <italic>R</italic><sub>ct</sub> tends to increase due to an
+increase in the concentration of insoluble and nonconductive LPS (Li<sub>2</sub>S<sub>2</sub>/Li<sub>2</sub>S) species on the cathode. The
+variation of resistance values (<italic>R</italic><sub>o</sub>, <italic>R</italic><sub>si</sub>, and <italic>R</italic><sub>ct</sub>) during
+the charging process is represented in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>d. Similar to the discharging process, the <italic>R</italic><sub>o</sub> value remains constant during the charging
+process of NC-S/MgB<sub>2</sub> cathode. During the initial charging
+condition, the <italic>R</italic><sub>si</sub> value is higher due
+to the presence of Li<sub>2</sub>S<sub>2</sub>/Li<sub>2</sub>S on
+the cathode surface and decreases as the conversion of lower-order
+LPS to higher-order LPS proceeds. At the end of charging, the <italic>R</italic><sub>si</sub> value increases due to the deposition of
+a sulfur film on the cathode. The <italic>R</italic><sub>si</sub> value
+represents the resistance offered due to the diffusion of electrolyte
+through pores of the interlayer, which suggests that the electrochemical
+process taking place during the charging is governed by the transport
+properties of the electrolyte.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> During
+charging, the <italic>R</italic><sub>ct</sub> values tend to decrease
+from 2.2 to 2.5 V due to the formation of higher-order LPS and reaches
+maximum at the end of the charging process.</p><sec id="sec3.1"><label>3.1</label><title>Evaluation
+of Lithium Polysulfide Confinement</title><p>The adsorption capability
+of nitrogen-doped porous carbon (NC)
+and MgB<sub>2</sub> toward LPS is evaluated by the LPS adsorption
+test. For this, NC and MgB<sub>2</sub> are added in a blank Li<sub>2</sub>S<sub>6</sub> solution, mixed well, and kept undisturbed for
+10 h inside an argon-filled glovebox. <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>a inset displays the digital photographs
+of blank Li<sub>2</sub>S<sub>6</sub> solution and Li<sub>2</sub>S<sub>6</sub> solution with NC and MgB<sub>2</sub> samples. Compared to
+the blank Li<sub>2</sub>S<sub>6</sub> solution, the NC sample shows
+a very light yellowish color due to the adsorption of LPS. The MgB<sub>2</sub> sample solution becomes completely transparent, suggesting
+the strong adsorption of LPS on its surface. This is further analyzed
+using UV&#x02013;vis photospectrometer by collecting the supernatant
+solution of NC and MgB<sub>2</sub> samples. A UV&#x02013;vis spectrum
+is obtained for the blank Li<sub>2</sub>S<sub>6</sub> solution for
+comparison. In <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>a, the UV&#x02013;vis spectra of the blank Li<sub>2</sub>S<sub>6</sub> solution show a peak at &#x0223c;357 nm corresponding to the absorbance
+of S<sub>6</sub><sup>2&#x02013;</sup> anions.<sup><xref ref-type="bibr" rid="ref43">43</xref></sup> The peak intensity reduces for the supernatant solution NC, indicating
+the adsorption of LPS on the surface but not completely. On the other
+hand, for the MgB<sub>2</sub> supernatant solution, the peak at &#x0223c;357
+nm disappears, indicating the absence of Li<sub>2</sub>S<sub>6</sub> in the solution. Moreover, the intensity of absorbance also reduces
+for the supernatant solution of MgB<sub>2</sub> compared to NC and
+blank Li<sub>2</sub>S<sub>6</sub> solution. This also corroborates
+the strong adsorption capability of MgB<sub>2</sub> toward LPS, which
+can minimize the shuttle effect during cycling. This also infers that
+polar metallic compounds have strong LPS adsorption capability over
+carbonaceous materials. However, the carbonaceous material as the
+sulfur host can accommodate a large amount of sulfur loading and suppress
+the volume changes during the redox cycle due to its high surface
+and porosity.</p><fig id="fig8" position="float"><label>Figure 8</label><caption><p>(a) UV&#x02013;vis spectra and (inset) digital photograph
+of LPS
+adsorption of NC, MgB<sub>2</sub>, and reference blank Li<sub>2</sub>S<sub>6</sub> solution; NC-S cathode (b) uncycled, (c) cycled with
+MgB<sub>2</sub> interlayer, (d) uncycled MgB<sub>2</sub> interlayer,
+(e) cycled MgB<sub>2</sub> interlayer with NC-S, and (f) cycled MgB<sub>2</sub> interlayer with S cathode.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c02778_0009" id="gr9" position="float"/></fig><p>To understand the interaction of LPS with electrode and interlayers,
+the morphology of the cycled electrode and interlayers and uncycled
+electrodes are studied SEM images. <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>b illustrates the SEM image of the uncycled
+NC-S electrode with interconnected open pores. After cycling the NC-S
+electrode, the pores of nitrogen-doped porous carbon covered the polysulfides,
+suggesting the porous structure of NC contributed to anchoring the
+LPS in the cathode (<xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>c). The SEM images of uncycled MgB<sub>2</sub> interlayer
+and cycled interlayer with the NC-S cathode and pure sulfur cathode
+are represented in <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>d&#x02013;f, respectively. The morphology of the cycled MgB<sub>2</sub> interlayer with the NC-S cathode is changed when compared
+to the uncycled one where larger and discrete particles of the MgB<sub>2</sub> interlayer are identified. This can be due to the adsorption
+of LPS on its surface. The cycled MgB<sub>2</sub> interlayer with
+S cathode shows the high polysulfide deposition of LPS on the surface
+of MgB<sub>2</sub> with very less discrete particle nature. This can
+be attributed to the poor adsorption capability of the sulfur cathode.</p></sec></sec><sec id="sec4"><label>4</label><title>Conclusions</title><p>In summary, nitrogen-doped porous
+carbon (NC) with interconnected
+pores has been synthesized by a facile one-step synthesis method and
+used as the sulfur host (NC-S) for Li-S battery. The high surface
+area for NC can accommodate a high amount of sulfur loading in the
+cathode and also provide space for the sulfur volume change and prevent
+pulverization. The NC-S cathode delivers higher specific capacity
+(554 mA h g<sup>&#x02013;1</sup> at 0.1C) and rate capability (up to
+2C) than bulk sulfur (S) cathode, signifying the role the porous of
+the carbon structure. To prevent the polysulfide dissolution and inhibit
+the active material losses, room-temperature metallic and polar material
+MgB<sub>2</sub> has been used as an interlayer. The sulfur cathode
+with MgB<sub>2</sub> interlayer (S/MgB<sub>2</sub>) delivers a specific
+capacity of 1015 mA h g<sup>&#x02013;1</sup> at 0.1C rate, much higher
+than the sulfur cathode, owing to the inherent LPS adsorption property
+of MgB<sub>2</sub>. The NC-S cathode with MgB<sub>2</sub> interlayer
+(NC-S/MgB<sub>2</sub>) delivers a specific capacity of 1218 mA h g<sup>&#x02013;1</sup> at 0.1C rate higher than the S/MgB<sub>2</sub> cathode.
+Moreover, the NC-S/MgB<sub>2</sub> cathode shows excellent cycling
+stability up to 500 cycles, with 85% of capacity retention. The high
+performance of NC-S/MgB<sub>2</sub> can be attributed to the synergy
+between the interconnected porous network of the NC cathode and the
+strong LPS adsorption capability of the MgB<sub>2</sub> interlayer.
+The dynamic electrochemical impedance spectroscopy (DEIS) analysis
+elucidates the electrochemical reaction kinetics of the NC-S/MgB<sub>2</sub> cathode during the charging and discharging processes. In
+conclusion, the synergy of the lithium polysulfide confinement and
+conversion reactions of the NC-S/MgB<sub>2</sub> cathode paves the
+way for the development of high-energy-density lithium-sulfur batteries.</p></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsomega.0c02778?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsomega.0c02778</ext-link>.<list id="silist" list-type="simple"><list-item><p>X-ray diffraction pattern
+of the MgB<sub>2</sub> interlayer,
+TGA profiles of NC and NC-S samples, and galvanostatic charge&#x02013;discharge
+profiles of the NC-S, S/MgB<sub>2</sub>, and NC-S/MgB<sub>2</sub> cathodes
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c02778/suppl_file/ao0c02778_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c02778_si_001.pdf"><caption><p>ao0c02778_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="NOTES-d7e1704-autogenerated"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>The authors acknowledge the Indian Institute
+of Technology
+Madras (IITM), Chennai, India, for financial support. One of the authors
+(R.S.) thanks the Department of Science and Technology (DST) for the
+financial support to establish Nano Functional Materials Technology
+Centre (NFMTC) through SR/NM/NAT/02&#x02013;2005 project.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Manthiram</surname><given-names>A.</given-names></name>; <name><surname>Fu</surname><given-names>Y.</given-names></name>; <name><surname>Chung</surname><given-names>S.-H.</given-names></name>; <name><surname>Zu</surname><given-names>C.</given-names></name>; <name><surname>Su</surname><given-names>Y.-S.</given-names></name>
+<article-title>Rechargeable Lithium&#x02013;Sulfur
+Batteries</article-title>. <source>Chem. Rev.</source>
+<year>2014</year>, <volume>114</volume>, <fpage>11751</fpage>&#x02013;<lpage>11787</lpage>. <pub-id pub-id-type="doi">10.1021/cr500062v</pub-id>.<pub-id pub-id-type="pmid">25026475</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Yu</surname><given-names>X.</given-names></name>; <name><surname>Manthiram</surname><given-names>A.</given-names></name>
+<article-title>Electrode&#x02013;Electrolyte Interfaces in Lithium&#x02013;Sulfur
+Batteries with Liquid or Inorganic Solid Electrolytes</article-title>. <source>Acc. Chem. Res.</source>
+<year>2017</year>, <volume>50</volume>, <fpage>2653</fpage>&#x02013;<lpage>2660</lpage>. <pub-id pub-id-type="doi">10.1021/acs.accounts.7b00460</pub-id>.<pub-id pub-id-type="pmid">29112389</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Lochala</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>D.</given-names></name>; <name><surname>Wu</surname><given-names>B.</given-names></name>; <name><surname>Robinson</surname><given-names>C.</given-names></name>; <name><surname>Xiao</surname><given-names>J.</given-names></name>
+<article-title>Research Progress toward
+the Practical Applications of Lithium-Sulfur Batteries</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2017</year>, <fpage>24407</fpage>&#x02013;<lpage>24421</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.7b06208</pub-id>.<pub-id pub-id-type="pmid">28617586</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Wang</surname><given-names>D.-W.</given-names></name>; <name><surname>Zeng</surname><given-names>Q.</given-names></name>; <name><surname>Zhou</surname><given-names>G.</given-names></name>; <name><surname>Yin</surname><given-names>L.</given-names></name>; <name><surname>Li</surname><given-names>F.</given-names></name>; <name><surname>Cheng</surname><given-names>H.-M.</given-names></name>; <name><surname>Gentle</surname><given-names>I. R.</given-names></name>; <name><surname>Lu</surname><given-names>G. Q. M.</given-names></name>
+<article-title>Carbon&#x02013;Sulfur
+Composites for Li&#x02013;S Batteries: Status and Prospects</article-title>. <source>J. Mater. Chem. A</source>
+<year>2013</year>, <volume>1</volume>, <fpage>9382</fpage><pub-id pub-id-type="doi">10.1039/c3ta11045a</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Eftekhari</surname><given-names>A.</given-names></name>; <name><surname>Kim</surname><given-names>D.-W.</given-names></name>
+<article-title>Cathode Materials
+for Lithium&#x02013;Sulfur Batteries:
+A Practical Perspective</article-title>. <source>J. Mater. Chem. A</source>
+<year>2017</year>, <volume>5</volume>, <fpage>17734</fpage>&#x02013;<lpage>17776</lpage>. <pub-id pub-id-type="doi">10.1039/C7TA00799J</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Borchardt</surname><given-names>L.</given-names></name>; <name><surname>Oschatz</surname><given-names>M.</given-names></name>; <name><surname>Kaskel</surname><given-names>S.</given-names></name>
+<article-title>Tailoring Porosity in Carbon Materials
+for Supercapacitor Applications</article-title>. <source>Mater. Horiz.</source>
+<year>2014</year>, <volume>1</volume>, <fpage>157</fpage>&#x02013;<lpage>168</lpage>. <pub-id pub-id-type="doi">10.1039/C3MH00112A</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Zhou</surname><given-names>W.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>; <name><surname>Abru&#x000f1;a</surname><given-names>H. D.</given-names></name>; <name><surname>He</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Mao</surname><given-names>S. X.</given-names></name>; <name><surname>Xiao</surname><given-names>X.</given-names></name>
+<article-title>Tailoring Pore Size
+of Nitrogen-Doped Hollow Carbon Nanospheres for Confining Sulfur in
+Lithium-Sulfur Batteries</article-title>. <source>Adv. Energy Mater.</source>
+<year>2015</year>, <volume>5</volume>, <elocation-id>1401752</elocation-id><pub-id pub-id-type="doi">10.1002/aenm.201401752</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Zhang</surname><given-names>Z.</given-names></name>; <name><surname>Wang</surname><given-names>G.</given-names></name>; <name><surname>Lai</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>Z.</given-names></name>; <name><surname>Chen</surname><given-names>W.</given-names></name>
+<article-title>Nitrogen-Doped Porous Hollow Carbon
+Sphere-Decorated Separators for
+Advanced Lithium-Sulfur Batteries</article-title>. <source>J. Power
+Sources</source>
+<year>2015</year>, <volume>300</volume>, <fpage>157</fpage>&#x02013;<lpage>163</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2015.09.067</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Wang</surname><given-names>N.</given-names></name>; <name><surname>Xu</surname><given-names>Z.</given-names></name>; <name><surname>Xu</surname><given-names>X.</given-names></name>; <name><surname>Liao</surname><given-names>T.</given-names></name>; <name><surname>Tang</surname><given-names>B.</given-names></name>; <name><surname>Bai</surname><given-names>Z.</given-names></name>; <name><surname>Dou</surname><given-names>S.</given-names></name>
+<article-title>Synergistically
+Enhanced Interfacial Interaction to Polysulfide via
+N,O Dual-Doped Highly Porous Carbon Microrods for Advanced Lithium-Sulfur
+Batteries</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2018</year>, <volume>10</volume>, <fpage>13573</fpage>&#x02013;<lpage>13580</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.8b02084</pub-id>.<pub-id pub-id-type="pmid">29616547</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Li</surname><given-names>Z.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Yuan</surname><given-names>L.</given-names></name>; <name><surname>Hao</surname><given-names>Z.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>
+<article-title>Status and
+Prospects in Sulfur-Carbon Composites as Cathode Materials for Rechargeable
+Lithium-Sulfur Batteries</article-title>. <source>Carbon</source>
+<year>2015</year>, <volume>92</volume>, <fpage>41</fpage>&#x02013;<lpage>63</lpage>. <pub-id pub-id-type="doi">10.1016/j.carbon.2015.03.008</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Zhou</surname><given-names>T.</given-names></name>; <name><surname>Lv</surname><given-names>W.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Zhou</surname><given-names>G.</given-names></name>; <name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Fan</surname><given-names>S.</given-names></name>; <name><surname>Liu</surname><given-names>B.</given-names></name>; <name><surname>Li</surname><given-names>B.</given-names></name>; <name><surname>Kang</surname><given-names>F.</given-names></name>; <name><surname>Yang</surname><given-names>Q.-H.</given-names></name>
+<article-title>Twinborn TiO 2 &#x02212;TiN
+Heterostructures Enabling Smooth Trapping&#x02013;Diffusion&#x02013;Conversion
+of Polysulfides towards Ultralong Life Lithium&#x02013;Sulfur Batteries</article-title>. <source>Energy Environ. Sci.</source>
+<year>2017</year>, <volume>10</volume>, <fpage>1694</fpage>&#x02013;<lpage>1703</lpage>. <pub-id pub-id-type="doi">10.1039/C7EE01430A</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Wang</surname><given-names>L.</given-names></name>; <name><surname>Song</surname><given-names>Y. H.</given-names></name>; <name><surname>Zhang</surname><given-names>B. H.</given-names></name>; <name><surname>Liu</surname><given-names>Y. T.</given-names></name>; <name><surname>Wang</surname><given-names>Z. Y.</given-names></name>; <name><surname>Li</surname><given-names>G. R.</given-names></name>; <name><surname>Liu</surname><given-names>S.</given-names></name>; <name><surname>Gao</surname><given-names>X. P.</given-names></name>
+<article-title>Spherical Metal
+Oxides with High Tap Density as Sulfur Host to Enhance Cathode Volumetric
+Capacity for Lithium-Sulfur Battery</article-title>. <source>ACS Appl.
+Mater. Interfaces</source>
+<year>2020</year>, <volume>12</volume>, <fpage>5909</fpage>&#x02013;<lpage>5919</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.9b20111</pub-id>.<pub-id pub-id-type="pmid">31944646</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Li</surname><given-names>C.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>Zhu</surname><given-names>L.</given-names></name>; <name><surname>Huang</surname><given-names>R.</given-names></name>; <name><surname>Zhao</surname><given-names>M.</given-names></name>; <name><surname>Xu</surname><given-names>L.</given-names></name>; <name><surname>Qian</surname><given-names>Y.</given-names></name>
+<article-title>Conductive
+and Polar Titanium Boride as a Sulfur Host for Advanced
+Lithium-Sulfur Batteries</article-title>. <source>Chem. Mater.</source>
+<year>2018</year>, <volume>30</volume>, <fpage>6969</fpage>&#x02013;<lpage>6977</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemmater.8b01352</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Guan</surname><given-names>B.</given-names></name>; <name><surname>Fan</surname><given-names>L.</given-names></name>; <name><surname>Wu</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>P.</given-names></name>; <name><surname>Qiu</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>M.</given-names></name>; <name><surname>Guo</surname><given-names>Z.</given-names></name>; <name><surname>Zhang</surname><given-names>N.</given-names></name>; <name><surname>Sun</surname><given-names>K.</given-names></name>
+<article-title>The Facile Synthesis and Enhanced
+Lithium-Sulfur Battery Performance of an Amorphous Cobalt Boride (Co<sub>2</sub>B)@graphene Composite Cathode</article-title>. <source>J. Mater.
+Chem. A</source>
+<year>2018</year>, <volume>6</volume>, <fpage>24045</fpage>&#x02013;<lpage>24049</lpage>. <pub-id pub-id-type="doi">10.1039/C8TA09301F</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Kortus</surname><given-names>J.</given-names></name>; <name><surname>Mazin</surname><given-names>I. I.</given-names></name>; <name><surname>Belashchenko</surname><given-names>K. D.</given-names></name>; <name><surname>Antropov</surname><given-names>V. P.</given-names></name>; <name><surname>Boyer</surname><given-names>L. L.</given-names></name>
+<article-title>Superconductivity
+of Metallic Boron in MgB<sub>2</sub></article-title>. <source>Phys.
+Rev. Lett.</source>
+<year>2001</year>, <volume>86</volume>, <fpage>4656</fpage>&#x02013;<lpage>4659</lpage>. <pub-id pub-id-type="doi">10.1103/PhysRevLett.86.4656</pub-id>.<pub-id pub-id-type="pmid">11384307</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Belashchenko</surname><given-names>K. D.</given-names></name>; <name><surname>van Schilfgaarde</surname><given-names>M.</given-names></name>; <name><surname>Antropov</surname><given-names>V. P.</given-names></name>
+<article-title>Nature of Bonding and Electronic
+Structure in MgB<sub>2</sub>, a Boron Intercalation Superconductor</article-title>. <source>Phys. Rev. B</source>
+<year>2001</year>, <volume>64</volume>, <elocation-id>092503</elocation-id><pub-id pub-id-type="doi">10.1103/PhysRevB.64.092503</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Bud&#x02019;ko</surname><given-names>S. L.</given-names></name>; <name><surname>Lapertot</surname><given-names>G.</given-names></name>; <name><surname>Petrovic</surname><given-names>C.</given-names></name>; <name><surname>Cunningham</surname><given-names>C. E.</given-names></name>; <name><surname>Anderson</surname><given-names>N.</given-names></name>; <name><surname>Canfield</surname><given-names>P. C.</given-names></name>
+<article-title>Boron Isotope Effect
+in Superconducting
+MgB<sub>2</sub></article-title>. <source>Phys. Rev. Lett.</source>
+<year>2001</year>, <volume>86</volume>, <fpage>1877</fpage>&#x02013;<lpage>1880</lpage>. <pub-id pub-id-type="doi">10.1103/PhysRevLett.86.1877</pub-id>.<pub-id pub-id-type="pmid">11290271</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Pang</surname><given-names>Q.</given-names></name>; <name><surname>Kwok</surname><given-names>C. Y.</given-names></name>; <name><surname>Kundu</surname><given-names>D.</given-names></name>; <name><surname>Liang</surname><given-names>X.</given-names></name>; <name><surname>Nazar</surname><given-names>L. F.</given-names></name>
+<article-title>Lightweight
+Metallic MgB<sub>2</sub> Mediates Polysulfide Redox and Promises High-Energy-Density
+Lithium-Sulfur Batteries</article-title>. <source>Joule</source>
+<year>2019</year>, <volume>3</volume>, <fpage>136</fpage>&#x02013;<lpage>148</lpage>. <pub-id pub-id-type="doi">10.1016/j.joule.2018.09.024</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Peng</surname><given-names>H.-J.</given-names></name>; <name><surname>Zhang</surname><given-names>G.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>Z.-W.</given-names></name>; <name><surname>Xu</surname><given-names>W.-T.</given-names></name>; <name><surname>Huang</surname><given-names>J.-Q.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>
+<article-title>Enhanced Electrochemical
+Kinetics
+on Conductive Polar Mediators for Lithium-Sulfur Batteries</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2016</year>, <volume>55</volume>, <fpage>12990</fpage>&#x02013;<lpage>12995</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201605676</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Ghosh</surname><given-names>A.</given-names></name>; <name><surname>Ghosh</surname><given-names>S.</given-names></name>; <name><surname>Seshadhri</surname><given-names>G. M.</given-names></name>; <name><surname>Ramaprabhu</surname><given-names>S.</given-names></name>
+<article-title>Green Synthesis
+of Nitrogen-Doped Self-Assembled Porous Carbon-Metal Oxide Composite
+towards Energy and Environmental Applications</article-title>. <source>Sci. Rep.</source>
+<year>2019</year>, <volume>9</volume>, <elocation-id>5187</elocation-id><pub-id pub-id-type="doi">10.1038/s41598-019-41700-5</pub-id>.<pub-id pub-id-type="pmid">30914729</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Tian</surname><given-names>W.</given-names></name>; <name><surname>Zhang</surname><given-names>H.</given-names></name>; <name><surname>Sun</surname><given-names>H.</given-names></name>; <name><surname>Suvorova</surname><given-names>A.</given-names></name>; <name><surname>Saunders</surname><given-names>M.</given-names></name>; <name><surname>Tade</surname><given-names>M.</given-names></name>; <name><surname>Wang</surname><given-names>S.</given-names></name>
+<article-title>Heteroatom
+(N or N-S)-Doping Induced
+Layered and Honeycomb Microstructures of Porous Carbons for CO<sub>2</sub> Capture and Energy Applications</article-title>. <source>Adv.
+Funct. Mater.</source>
+<year>2016</year>, <volume>26</volume>, <fpage>8651</fpage>&#x02013;<lpage>8661</lpage>. <pub-id pub-id-type="doi">10.1002/adfm.201603937</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Hartman</surname><given-names>M.</given-names></name>; <name><surname>Svoboda</surname><given-names>K.</given-names></name>; <name><surname>Poho&#x00159;el&#x000fd;</surname><given-names>M.</given-names></name>; <name><surname>&#x00160;yc</surname><given-names>M.</given-names></name>
+<article-title>Thermal Decomposition
+of Sodium Hydrogen Carbonate and Textural Features of Its Calcines</article-title>. <source>Ind. Eng. Chem. Res.</source>
+<year>2013</year>, <volume>52</volume>, <fpage>10619</fpage>&#x02013;<lpage>10626</lpage>. <pub-id pub-id-type="doi">10.1021/ie400896c</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Zhang</surname><given-names>S. S.</given-names></name>
+<article-title>Liquid
+Electrolyte Lithium/Sulfur Battery: Fundamental Chemistry, Problems,
+and Solutions</article-title>. <source>J. Power Sources</source>
+<year>2013</year>, <volume>231</volume>, <fpage>153</fpage>&#x02013;<lpage>162</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2012.12.102</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Zeng</surname><given-names>Q.</given-names></name>; <name><surname>Wang</surname><given-names>D. W.</given-names></name>; <name><surname>Wu</surname><given-names>K. H.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Condi De
+Godoi</surname><given-names>F.</given-names></name>; <name><surname>Gentle</surname><given-names>I. R.</given-names></name>
+<article-title>Synergy of Nanoconfinement and Surface
+Oxygen in Recrystallization of Sulfur Melt in Carbon Nanocapsules
+and the Related Li-S Cathode Properties</article-title>. <source>J.
+Mater. Chem. A</source>
+<year>2014</year>, <volume>2</volume>, <fpage>6439</fpage>&#x02013;<lpage>6447</lpage>. <pub-id pub-id-type="doi">10.1039/c4ta00314d</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Zhao</surname><given-names>Z.</given-names></name>; <name><surname>Qin</surname><given-names>D.</given-names></name>; <name><surname>Wang</surname><given-names>S.</given-names></name>; <name><surname>Chen</surname><given-names>G.</given-names></name>; <name><surname>Li</surname><given-names>Z.</given-names></name>
+<article-title>Electrochimica Acta
+Fabrication of High Conductive S/C Cathode by Sulfur Infiltration
+into Hierarchical Porous Carbon/Carbon Fiber Weave-Structured Materials
+via Vapor-Melting Method</article-title>. <source>Electrochim. Acta</source>
+<year>2014</year>, <volume>127</volume>, <fpage>123</fpage>&#x02013;<lpage>131</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2014.02.001</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Song</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Ma</surname><given-names>Q.</given-names></name>; <name><surname>Li</surname><given-names>D.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>G.</given-names></name>; <name><surname>Yang</surname><given-names>Y.</given-names></name>; <name><surname>Dong</surname><given-names>X.</given-names></name>; <name><surname>Yu</surname><given-names>W.</given-names></name>
+<article-title>3D Nitrogen-Doped Hierarchical
+Porous Carbon Framework for Protecting Sulfur Cathode in Lithium&#x02013;Sulfur
+Batteries</article-title>. <source>New J. Chem.</source>
+<year>2019</year>, <volume>43</volume>, <fpage>9641</fpage>&#x02013;<lpage>9651</lpage>. <pub-id pub-id-type="doi">10.1039/C9NJ01017C</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Peng</surname><given-names>H. J.</given-names></name>; <name><surname>Hou</surname><given-names>T. Z.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>; <name><surname>Huang</surname><given-names>J. Q.</given-names></name>; <name><surname>Cheng</surname><given-names>X. B.</given-names></name>; <name><surname>Guo</surname><given-names>M. Q.</given-names></name>; <name><surname>Yuan</surname><given-names>Z.</given-names></name>; <name><surname>He</surname><given-names>L. Y.</given-names></name>; <name><surname>Wei</surname><given-names>F.</given-names></name>
+<article-title>Strongly Coupled
+Interfaces between a Heterogeneous Carbon Host and a Sulfur-Containing
+Guest for Highly Stable Lithium-Sulfur Batteries: Mechanistic Insight
+into Capacity Degradation</article-title>. <source>Adv. Mater. Interfaces</source>
+<year>2014</year>, <volume>1</volume>, <elocation-id>1400227</elocation-id><pub-id pub-id-type="doi">10.1002/admi.201400227</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Zhao</surname><given-names>X.</given-names></name>; <name><surname>Kim</surname><given-names>M.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Ahn</surname><given-names>H. J.</given-names></name>; <name><surname>Kim</surname><given-names>K. W.</given-names></name>; <name><surname>Cho</surname><given-names>K. K.</given-names></name>; <name><surname>Ahn</surname><given-names>J. H.</given-names></name>
+<article-title>Root-like Porous
+Carbon Nanofibers with High Sulfur
+Loading Enabling Superior Areal Capacity of Lithium Sulfur Batteries</article-title>. <source>Carbon</source>
+<year>2018</year>, <volume>128</volume>, <fpage>138</fpage>&#x02013;<lpage>146</lpage>. <pub-id pub-id-type="doi">10.1016/j.carbon.2017.11.025</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Zhou</surname><given-names>G.</given-names></name>; <name><surname>Yin</surname><given-names>L. C.</given-names></name>; <name><surname>Wang</surname><given-names>D. W.</given-names></name>; <name><surname>Li</surname><given-names>L.</given-names></name>; <name><surname>Pei</surname><given-names>S.</given-names></name>; <name><surname>Gentle</surname><given-names>I. R.</given-names></name>; <name><surname>Li</surname><given-names>F.</given-names></name>; <name><surname>Cheng</surname><given-names>H. M.</given-names></name>
+<article-title>Fibrous
+Hybrid of
+Graphene and Sulfur Nanocrystals for High-Performance Lithium-Sulfur
+Batteries</article-title>. <source>ACS Nano</source>
+<year>2013</year>, <volume>7</volume>, <fpage>5367</fpage>&#x02013;<lpage>5375</lpage>. <pub-id pub-id-type="doi">10.1021/nn401228t</pub-id>.<pub-id pub-id-type="pmid">23672616</pub-id></mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Wang</surname><given-names>Z.</given-names></name>; <name><surname>Dong</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>H.</given-names></name>; <name><surname>Zhao</surname><given-names>Z.</given-names></name>; <name><surname>Bin Wu</surname><given-names>H.</given-names></name>; <name><surname>Hao</surname><given-names>C.</given-names></name>; <name><surname>Liu</surname><given-names>S.</given-names></name>; <name><surname>Qiu</surname><given-names>J.</given-names></name>; <name><surname>Lou</surname><given-names>X. W. D.</given-names></name>
+<article-title>Enhancing Lithium-Sulphur
+Battery Performance by Strongly Binding the Discharge Products on
+Amino-Functionalized Reduced Graphene Oxide</article-title>. <source>Nat. Commun.</source>
+<year>2014</year>, <volume>5</volume>, <elocation-id>5002</elocation-id><pub-id pub-id-type="doi">10.1038/ncomms6002</pub-id>.<pub-id pub-id-type="pmid">25255431</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Vasquez</surname><given-names>R. P.</given-names></name>; <name><surname>Jung</surname><given-names>C. U.</given-names></name>; <name><surname>Park</surname><given-names>M.-S.</given-names></name>; <name><surname>Kim</surname><given-names>H.-J.</given-names></name>; <name><surname>Kim</surname><given-names>J. Y.</given-names></name>; <name><surname>Lee</surname><given-names>S.-I.</given-names></name>
+<article-title>X-Ray Photoemission
+Study of MgB2</article-title>. <source>Phys. Rev. B</source>
+<year>2001</year>, <volume>64</volume>, <elocation-id>052510</elocation-id><pub-id pub-id-type="doi">10.1103/PhysRevB.64.052510</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Garg</surname><given-names>K. B.</given-names></name>; <name><surname>Chatterji</surname><given-names>T.</given-names></name>; <name><surname>Dalela</surname><given-names>S.</given-names></name>; <name><surname>Heinonnen</surname><given-names>M.</given-names></name>; <name><surname>Leiro</surname><given-names>J.</given-names></name>; <name><surname>Dalela</surname><given-names>B.</given-names></name>; <name><surname>Singhal</surname><given-names>R. K.</given-names></name>
+<article-title>Core Level Photoemission
+Study of Polycrystalline MgB2</article-title>. <source>Solid State Commun.</source>
+<year>2004</year>, <volume>131</volume>, <fpage>343</fpage>&#x02013;<lpage>347</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssc.2004.01.006</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Thangavel</surname><given-names>N. K.</given-names></name>; <name><surname>Gopalakrishnan</surname><given-names>D.</given-names></name>; <name><surname>Arava</surname><given-names>L. M. R.</given-names></name>
+<article-title>Understanding Heterogeneous Electrocatalysis
+of Lithium Polysulfide Redox on Pt and WS<sub>2</sub> Surfaces</article-title>. <source>J. Phys. Chem. C</source>
+<year>2017</year>, <volume>121</volume>, <fpage>12718</fpage>&#x02013;<lpage>12725</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.7b01514</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Cao</surname><given-names>B.</given-names></name>; <name><surname>Huang</surname><given-names>J.</given-names></name>; <name><surname>Mo</surname><given-names>Y.</given-names></name>; <name><surname>Xu</surname><given-names>C.</given-names></name>; <name><surname>Chen</surname><given-names>Y.</given-names></name>; <name><surname>Fang</surname><given-names>H.</given-names></name>
+<article-title>A Collaboratively Polar
+Conductive Interface for Accelerating Polysulfide
+Redox Conversion</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2019</year>, <volume>11</volume>, <fpage>14035</fpage>&#x02013;<lpage>14043</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.8b21447</pub-id>.<pub-id pub-id-type="pmid">30869862</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Chung</surname><given-names>S. H.</given-names></name>; <name><surname>Han</surname><given-names>P.</given-names></name>; <name><surname>Singhal</surname><given-names>R.</given-names></name>; <name><surname>Kalra</surname><given-names>V.</given-names></name>; <name><surname>Manthiram</surname><given-names>A.</given-names></name>
+<article-title>Electrochemically
+Stable Rechargeable Lithium-Sulfur Batteries with a Microporous Carbon
+Nanofiber Filter for Polysulfide</article-title>. <source>Adv. Energy
+Mater.</source>
+<year>2015</year>, <volume>5</volume>, <elocation-id>1500738</elocation-id><pub-id pub-id-type="doi">10.1002/aenm.201500738</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Deng</surname><given-names>Z.</given-names></name>; <name><surname>Zhang</surname><given-names>Z.</given-names></name>; <name><surname>Lai</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>
+<article-title>Electrochemical Impedance Spectroscopy Study of a Lithium/Sulfur
+Battery: Modeling and Analysis of Capacity Fading</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2013</year>, <volume>160</volume>, <fpage>A553</fpage>&#x02013;<lpage>A558</lpage>. <pub-id pub-id-type="doi">10.1149/2.026304jes</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Su</surname><given-names>Y. S.</given-names></name>; <name><surname>Fu</surname><given-names>Y.</given-names></name>; <name><surname>Cochell</surname><given-names>T.</given-names></name>; <name><surname>Manthiram</surname><given-names>A.</given-names></name>
+<article-title>A Strategic Approach to Recharging
+Lithium-Sulphur Batteries for Long Cycle Life</article-title>. <source>Nat. Commun.</source>
+<year>2013</year>, <volume>4</volume>, <elocation-id>2985</elocation-id><pub-id pub-id-type="doi">10.1038/ncomms3985</pub-id>.<pub-id pub-id-type="pmid">24346483</pub-id></mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Huang</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>Z.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>
+<article-title>Dynamic Electrochemical
+Impedance Spectroscopy Reconstructed
+from Continuous Impedance Measurement of Single Frequency during Charging/Discharging</article-title>. <source>J. Power Sources</source>
+<year>2015</year>, <volume>273</volume>, <fpage>1098</fpage>&#x02013;<lpage>1102</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2014.07.067</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Huang</surname><given-names>J.</given-names></name>; <name><surname>Ge</surname><given-names>H.</given-names></name>; <name><surname>Li</surname><given-names>Z.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>
+<article-title>Dynamic Electrochemical Impedance
+Spectroscopy of a Three-Electrode Lithium-Ion Battery during Pulse
+Charge and Discharge</article-title>. <source>Electrochim. Acta</source>
+<year>2015</year>, <volume>176</volume>, <fpage>311</fpage>&#x02013;<lpage>320</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2015.07.017</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Garapati</surname><given-names>M. S.</given-names></name>; <name><surname>V.S</surname><given-names>A. P.</given-names></name>; <name><surname>Sundara</surname><given-names>R.</given-names></name>
+<article-title>Synergy between
+Partially Exfoliated
+Carbon Nanotubes-Sulfur Cathode and Nitrogen Rich Dual Function Interlayer
+for High Performance Lithium Sulfur Battery</article-title>. <source>Carbon</source>
+<year>2019</year>, <volume>147</volume>, <fpage>364</fpage>&#x02013;<lpage>376</lpage>. <pub-id pub-id-type="doi">10.1016/j.carbon.2019.03.007</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Chen</surname><given-names>C.-F.</given-names></name>; <name><surname>Mistry</surname><given-names>A.</given-names></name>; <name><surname>Mukherjee</surname><given-names>P. P.</given-names></name>
+<article-title>Probing
+Impedance and Microstructure
+Evolution in Lithium&#x02013;Sulfur Battery Electrodes</article-title>. <source>J. Phys. Chem. C</source>
+<year>2017</year>, <volume>121</volume>, <fpage>21206</fpage>&#x02013;<lpage>21216</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.7b07245</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Kolosnitsyn</surname><given-names>V. S.</given-names></name>; <name><surname>Kuzmina</surname><given-names>E. V.</given-names></name>; <name><surname>Karaseva</surname><given-names>E. V.</given-names></name>; <name><surname>Mochalov</surname><given-names>S. E.</given-names></name>
+<article-title>A Study of the Electrochemical
+Processes in Lithium-Sulphur Cells by Impedance Spectroscopy</article-title>. <source>J. Power Sources</source>
+<year>2011</year>, <volume>196</volume>, <fpage>1478</fpage>&#x02013;<lpage>1482</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2010.08.105</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Barchasz</surname><given-names>C.</given-names></name>; <name><surname>Molton</surname><given-names>F.</given-names></name>; <name><surname>Duboc</surname><given-names>C.</given-names></name>; <name><surname>Lepr&#x000ea;tre</surname><given-names>J. C.</given-names></name>; <name><surname>Patoux</surname><given-names>S.</given-names></name>; <name><surname>Alloin</surname><given-names>F.</given-names></name>
+<article-title>Lithium/Sulfur Cell Discharge Mechanism:
+An Original Approach for Intermediate Species Identification</article-title>. <source>Anal. Chem.</source>
+<year>2012</year>, <volume>84</volume>, <fpage>3973</fpage>&#x02013;<lpage>3980</lpage>. <pub-id pub-id-type="doi">10.1021/ac2032244</pub-id>.<pub-id pub-id-type="pmid">22482872</pub-id></mixed-citation></ref></ref-list></back></article>

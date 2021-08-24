@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The spectroscopic ellipsometry parameters (Ψ and Δ) for films deposited on a silicon substrate were measured out with an Ellips-1891 SAG ellipsometer (CNT, Novosibirsk, Russia) in a wavelength range from 370 to 1000 nm and an incidence angle of 70°. The Spectr software package (1.10, CNT, Novosibirsk, Russia) was used to construct and fit a structural-optical model function. After fitting the parameters of the optical model and experimental spectra, the thicknesses of the films were calculated. The errors of the film thickness calculation were no more than 0.3 nm. The gradient of the thickness (
+ <italic>GT</italic>) was calculated using Equation (1):
+ <disp-formula id="FD1-nanomaterials-11-00907">
+  <label>(1)</label>
+  <math id="mm1">
+   <mrow>
+    <mrow>
+     <mi>G</mi>
+     <mi>T</mi>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <mrow>
+        <msub>
+         <mi mathvariant="normal">T</mi>
+         <mi>max</mi>
+        </msub>
+       </mrow>
+       <mo>−</mo>
+       <mrow>
+        <msub>
+         <mi mathvariant="normal">T</mi>
+         <mi>min</mi>
+        </msub>
+       </mrow>
+      </mrow>
+      <mrow>
+       <mrow>
+        <msub>
+         <mi mathvariant="normal">T</mi>
+         <mi>max</mi>
+        </msub>
+       </mrow>
+       <mo>+</mo>
+       <mrow>
+        <msub>
+         <mi mathvariant="normal">T</mi>
+         <mi>min</mi>
+        </msub>
+       </mrow>
+      </mrow>
+     </mfrac>
+     <mo>×</mo>
+     <mn>100</mn>
+     <mo>%</mo>
+     <mo>,</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where T
+ <sub>max</sub> and T
+ <sub>min</sub> are the maximum and minimum film thicknesses, respectively [
+ <xref rid="B29-nanomaterials-11-00907" ref-type="bibr">29</xref>].
+</p>

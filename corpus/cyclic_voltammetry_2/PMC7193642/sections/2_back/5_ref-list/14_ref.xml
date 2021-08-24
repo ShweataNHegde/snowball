@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Herb</surname>
+    <given-names>JT</given-names>
+   </name>
+   <name>
+    <surname>Nist-Lund</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Schwartz</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Arnold</surname>
+    <given-names>CB</given-names>
+   </name>
+  </person-group>
+  <article-title>Structural Effects of Magnesium Dialkoxides as Precursors for Magnesium-Ion Electrolytes</article-title>
+  <source>ECS Electrochemistry Letters</source>
+  <year>2015</year>
+  <volume>4</volume>
+  <fpage>A49</fpage>
+  <lpage>A52</lpage>
+  <pub-id pub-id-type="doi">10.1149/2.0031506eel</pub-id>
+ </element-citation>
+</ref>

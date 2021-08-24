@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B45">
+ <label>45</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jiao</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Zheng</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Davey</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Qiao</surname>
+    <given-names>S. Z.</given-names>
+   </name>
+  </person-group>
+  <article-title>Activity origin and catalyst design principles for electrocatalytic hydrogen evolution on heteroatom-doped graphene</article-title>
+  <source>
+   <italic toggle="yes">Nature Energy</italic>
+  </source>
+  <year>2016</year>
+  <volume>1</volume>
+  <issue>10</issue>
+  <pub-id pub-id-type="doi">10.1038/nenergy.2016.130</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-85011081780</pub-id>
+ </element-citation>
+</ref>

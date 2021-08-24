@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par14">Electrochemical studies were conducted using 0.5 M CMC/DME/THF. Ca plating/stripping was performed via CV at 20 mV s
+ <sup>−1</sup> with three-electrode setup using Ca metal as the reference and counter electrodes, and Au metal as the working electrode. Typical metal plating/stripping behaviour was observed in the cathodic/anodic scans (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>a). Ca plating commenced at − 220 mV in the cathodic scan, and in the anodic scan, the current began to rise at ∼ 80 mV, indicating the stripping of plated Ca. After conditioning for three cycles (Fig. 
+ <xref rid="MOESM1" ref-type="media">S6</xref>), plating/stripping proceeded with a lower overpotential and improved reversibility. Moreover, the Coulombic efficiency increased to ca. 88% during the initial several cycles and then remained steady over the 30th cycle (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>b). The insufficient Coulombic efficiency seems to be a result of the partially decomposed CMC/DME/THF electrolyte on the Au electrode and the formation of dead Ca, which is electrically isolated from the electrode. This will be discussed in a different section of this paper along with the SEM/EDS results. Even if the Au working electrode is replaced by an electrode of another metal (e.g., Pt, Cu, and SUS), low overpotential, reversibility, and moderate Coulombic efficiency were still obtained (Fig. 
+ <xref rid="MOESM1" ref-type="media">S7</xref>). On the other hand, the Ca plating/stripping behaviours were not observed when using electrolytes of 0.1 M CMC in diglyme and 0.1 M CMC in triglyme (Fig. 
+ <xref rid="MOESM1" ref-type="media">S8</xref>). Considering the influence of the type of ether solvent and anion coordination on Ca, the incompetency of these electrolytes arises due to the coordination of Ca with diglyme and triglyme being stronger than that of Ca with DME and THF
+ <sup>
+  <xref ref-type="bibr" rid="CR37">37</xref>
+ </sup>.
+</p>

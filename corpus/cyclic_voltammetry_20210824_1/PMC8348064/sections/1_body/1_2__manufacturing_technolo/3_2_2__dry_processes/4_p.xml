@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>CVD is based on the principle of adding a new layer of material onto a substrate surface and therefore belongs to the additive manufacturing technique family. CVD routes do not require any external driver for the solidification process such as the spread binders in 3D printing. In particular, it is a route for depositing a material in a controllable manner via the thermal decomposition of precursors [
+ <xref rid="B41-materials-14-04177" ref-type="bibr">41</xref>]. A chemical reaction is initiated in the chamber between the decomposed products and a substrate that causes the precursor gas to react or break down into the desired solid material and bond to the substrate surface in the form of a thin film [
+ <xref rid="B42-materials-14-04177" ref-type="bibr">42</xref>]. By varying experimental processing parameters such as substrate material, substrate temperature, reaction gas mixture, precursors, and total pressure gas flows, materials with a wide range of properties can be grown [
+ <xref rid="B43-materials-14-04177" ref-type="bibr">43</xref>,
+ <xref rid="B44-materials-14-04177" ref-type="bibr">44</xref>,
+ <xref rid="B45-materials-14-04177" ref-type="bibr">45</xref>]. CVD techniques enable the production of coatings with uniform thickness and low porosity even on substrates with complicated shape and patterned surfaces [
+ <xref rid="B46-materials-14-04177" ref-type="bibr">46</xref>]. The main CVD processes are summarised below. The first set of processes is classified by the operating pressure:
+ <list list-type="bullet">
+  <list-item>
+   <p>Atmospheric pressure CVD (APCVD): Processes at atmospheric pressure/Precursors are either in liquid or powder form/Precursor vapours are transported in the reaction chamber by means of inert gases.</p>
+  </list-item>
+  <list-item>
+   <p>Low-pressure CVD: Processes at sub-atmospheric pressure/Reduced pressures tend to eliminate unwanted gas-phase reactions and improve film uniformity across the substrate surface/Similar precursor characteristics with APCVD.</p>
+  </list-item>
+  <list-item>
+   <p>Ultra-high vacuum CVD: Processes at very low pressure (&lt;10
+    <sup>−6</sup> Pa)/Similar precursor characteristics with APCVD.
+   </p>
+  </list-item>
+  <list-item>
+   <p>In addition, they can be divided by the physical characteristics of vapour:</p>
+  </list-item>
+  <list-item>
+   <p>Aerosol-assisted CVD (AACVD): Similar precursor characteristics with APCVD/Precursors are transported to the substrate by means of an aerosol. In this route, the precursors are non-volatile.</p>
+  </list-item>
+  <list-item>
+   <p>Direct liquid injection CVD: Precursors are solid dissolved in convenient solvent, which are injected in the chamber towards injectors/Precursor vapours are transported to the substrate as in APCVD process/High growth rates can be achieved.</p>
+  </list-item>
+  <list-item>
+   <p>Furthermore, there are the plasma methods, which include the following:</p>
+  </list-item>
+  <list-item>
+   <p>Plasma-enhanced CVD: Plasma is utilised to enhance the chemical reaction rates of the precursors/Lower growth temperatures (even at 120 °C) than APCVD are allowed.</p>
+  </list-item>
+  <list-item>
+   <p>Other procedures include the following:</p>
+  </list-item>
+  <list-item>
+   <p>Hot wire CVD: Hot filament is utilised to chemically decompose the source gas/Difficult to control the substrate temperature for a large area, since an increase in catalytic surface requires a proportionally larger supply of source gases.</p>
+  </list-item>
+  <list-item>
+   <p>Initiated CVD: Production of polymeric thin films using one or more monomer species along with initiator/Higher deposition rate and energy required as compared with hot wire CVD due to the free-radical initiating species/Highly desirable for the surface modification of thermally sensitive substrates/Low vacuum required in the range 13 to 133 Pa.</p>
+  </list-item>
+  <list-item>
+   <p>Atomic layer deposition (ALD): Layers of different materials can be produced/Annealing is often required to get crystalline materials/Excellent control of thickness and uniformity/ALD proceeds through two half-reactions, i.e., the one after the other in contrast with the CVD, which is a continuous process; i.e., all reactants are supplied at the same time and in a faster rate than ALD.</p>
+  </list-item>
+ </list>
+</p>

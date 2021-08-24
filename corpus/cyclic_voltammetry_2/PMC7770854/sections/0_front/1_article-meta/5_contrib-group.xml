@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pu</surname>
+   <given-names>Xuechao</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jiang</surname>
+   <given-names>Baozheng</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Xianli</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Liu</surname>
+   <given-names>Wenbao</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Dong</surname>
+   <given-names>Liubing</given-names>
+  </name>
+  <address>
+   <email>donglb@jnu.edu.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kang</surname>
+   <given-names>Feiyu</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Xu</surname>
+   <given-names>Chengjun</given-names>
+  </name>
+  <address>
+   <email>vivaxuchengjun@163.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.12527.33</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0662 3178</institution-id>
+   <institution>Shenzhen Geim Graphene Center, Tsinghua Shenzhen International Graduate School, </institution>
+   <institution>Tsinghua University, </institution>
+  </institution-wrap>Shenzhen, 518055 People’s Republic of China 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.12527.33</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0662 3178</institution-id>
+   <institution>State Key Laboratory of New Ceramics and Fine Processing, School of Materials Science and Engineering, </institution>
+   <institution>Tsinghua University, </institution>
+  </institution-wrap>Beijing, 100084 People’s Republic of China 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.12527.33</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0662 3178</institution-id>
+   <institution>Tsinghua-Berkeley Shenzhen Institute (TBSI), </institution>
+   <institution>Tsinghua University, </institution>
+  </institution-wrap>Shenzhen, 518055 People’s Republic of China 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.258164.c</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1790 3548</institution-id>
+   <institution>College of Chemistry and Materials Science, </institution>
+   <institution>Jinan University, </institution>
+  </institution-wrap>Guangzhou, 511443 People’s Republic of China 
+ </aff>
+</contrib-group>

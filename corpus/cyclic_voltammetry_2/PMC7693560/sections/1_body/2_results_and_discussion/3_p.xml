@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The electrocatalytic activities of Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC/CC were evaluated by comparing with noble metal IrO
+ <sub>2</sub> catalyst and Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC in a typical three-electrode configuration using 1.0 M KOH solution as the electrolyte. As displayed in the OER linear sweep voltammograms (LSV), Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC/CC possessed superior OER activity (
+ <xref ref-type="fig" rid="F4">Figure 4A</xref>). Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC/CC required an overpotential of 238 mV to reach a 10 mA cm
+ <sup>−2</sup> current density, which was much lower than those of Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC (340 mV) and IrO
+ <sub>2</sub> (400 mV). The OER activity of Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC/CC actually surpasses most previously reported electrocatalysts (
+ <xref rid="T1" ref-type="table">Table 1</xref>). The fitted Tafel plots revealed that Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC/CC equipped a Tafel slope of 50.2 mV dec
+ <sup>−1</sup>, lower than that of Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC (56.5 mV dec
+ <sup>−1</sup>) and IrO
+ <sub>2</sub> (83.1 mV dec
+ <sup>−1</sup>), which indicated its favorable reaction kinetic (
+ <xref ref-type="fig" rid="F4">Figure 4B</xref>). Electrochemical impedance spectroscopy (EIS) analysis suggested that the charge-transfer resistance (R
+ <sub>ct</sub>) values were around 0.3, 2.2, and 3.4 Ω for Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC/CC, Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC and IrO
+ <sub>2</sub>, respectively (
+ <xref ref-type="fig" rid="F4">Figure 4C</xref>), which was an indication that a rapid charge transfer rate in Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC/CC. This trend was in accordance with the polarization results and Tafel data. The above results show that, compared with the traditional drop-coated electrode, the integrated electrode gives excellent catalytic activity, which fully confirmed the structural advantages of the integrated electrode in improving the overall electrochemical activity. In addition to its high catalytic activity, the long-term stability of Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC/CC is also an important parameter for practical performance. As shown in 
+ <xref ref-type="supplementary-material" rid="SM1">Supplementary Figure 5</xref>, the catalyst Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC/CC exhibited remarkable OER stability at a constant current of 10 mA cm
+ <sup>−2</sup> after continuous operation for 200 min. The LSV curve of Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC/CC nearly overlapped the initial one after continuous 1,000 cyclic voltammetry (CV) cycles (
+ <xref ref-type="fig" rid="F4">Figure 4D</xref>). This result manifested that the Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC/CC hybrid can still maintain its activity after a large number of cycles and has fairly good stability. It can be seen from the 
+ <xref ref-type="supplementary-material" rid="SM1">Supplementary Figure 6</xref> that the morphology of the Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC/CC has not changed significantly after the stability test, which further proves the strong interaction. Since bifunctional oxygen catalytic performance is required in rechargeable Zinc-air battery, the ORR activity of synthesized composites was assessed by coating on rotating disk electrodes (RDEs). As displayed in 
+ <xref ref-type="fig" rid="F4">Figure 4E</xref>, Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC exhibited an onset potential of 0.87 V, a half-wave potential of 0.73 V, and a limiting diffusion current density of 4.5 mA cm
+ <sup>−2</sup> at a rotating speed of 1,600 round per minute (rpm), which is comparable to many reported bifunctional oxygen electrocatalysts (
+ <xref ref-type="supplementary-material" rid="SM1">Supplementary Table 2</xref>). The fitted Koutechy-Levich plot of Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC disclosed an apparent 4-electron reaction pathway, which is deemed to a highly efficient mechanism dominating the ORR process (
+ <xref ref-type="fig" rid="F4">Figure 4F</xref>). The electrochemically active surface area (EASC) was measured by the double-layer capacitance (C
+ <sub>dl</sub>) to be 2.5 mF cm
+ <sup>−2</sup> for Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC, indicating the benefits of NiFe nanoparticles and NC substrate in exposing more electrochemical active sites (
+ <xref ref-type="supplementary-material" rid="SM1">Supplementary Figures 7A,B</xref>). Apart from the catalytic activity, Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC also showed remarkable ORR catalytic stability. After 9 h continuous chronoamperometric treatment, the active current retention of Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC was 80% (
+ <xref ref-type="supplementary-material" rid="SM1">Supplementary Figure 8</xref>). The long-term stability was further demonstrated by the almost overlapping CV curves after 1,000 cycles (
+ <xref ref-type="supplementary-material" rid="SM1">Supplementary Figure 8</xref> inset). The aforementioned experimental results jointly confirm that the Ni
+ <sub>3</sub>Fe
+ <sub>2</sub>@NC/CC hybrid electrode has efficient bifunctional OER/ORR performance and long-term durability, indicating that it has promising application prospects in reversible oxygen electrocatalysis for rechargeable metal-air batteries and regenerative fuel cells.
+</p>

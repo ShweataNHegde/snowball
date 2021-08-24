@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The experimental observation of irreversibility at higher TFEOH concentrations, which cannot be analyzed by the method above (
+ <xref ref-type="fig" rid="fig2">Fig. 2</xref>), coupled with the multiple equivalents solvating the anionic species suggest that additional formal proton transfer can occur.
+ <sup>
+  <xref rid="cit10b" ref-type="bibr">10
+   <italic>b</italic>,11
+   <italic>e</italic>
+  </xref>
+ </sup> It is worth noting that the non-ideality of the solvent system should support additional proton transfer reactions, where high concentrations of TFEOH are expected to favorably solvate mono- and dianionic species.
+ <sup>
+  <xref rid="cit10f" ref-type="bibr">10
+   <italic>f</italic>,11
+  </xref>
+ </sup> As discussed above, previous computational studies estimate that TFEOH has sufficient proton activity to monoprotonate [BQ]
+ <sup>2−</sup> ([HQ]
+ <sup>−</sup> ⇌ H
+ <sup>+</sup> + [BQ]
+ <sup>2−</sup>; p
+ <italic>K</italic>
+ <sub>a</sub>(MeCN) = 40.96), but a second protonation is thermodynamically disfavored ([H
+ <sub>2</sub>Q] ⇌ H
+ <sup>+</sup> + [HQ]
+ <sup>−</sup>; p
+ <italic>K</italic>
+ <sub>a</sub>(MeCN) = 26.20).
+ <sup>
+  <xref rid="cit10i" ref-type="bibr">10
+   <italic>i</italic>
+  </xref>
+ </sup> However, our coulometric data shows that H
+ <sub>2</sub>Q is present at longer timescales and we cannot exclude direct production or a relevant reaction timescale for the dimerization reaction 
+ <xref ref-type="disp-formula" rid="eqn3">eqn (3)</xref> under protic conditions. Therefore, under elevated concentrations of TFEOH, it is likely that a second proton transfer can occur, as evidenced in the NMR data obtained from coulometry, 
+ <xref ref-type="disp-formula" rid="eqn6">eqn (6)</xref>.
+ <disp-formula id="eqn6">
+  <label>6</label>[HQ(TFEOH)
+  <sub>4</sub>(TFEO)]
+  <sup>2−</sup> ⇌ [H
+  <sub>2</sub>Q(TFEOH)
+  <sub>3</sub>(TFEO)
+  <sub>2</sub>]
+  <sup>2−</sup>
+ </disp-formula>
+</p>

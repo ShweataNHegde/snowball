@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Another complication arises from the activation of electroconvective flows in liquid electrolytes at large overpotentials. Such flows introduce a hydrodynamic component that influences both the transport and morphology evolution during metal deposition (
+ <xref rid="F3" ref-type="fig">Fig. 3D</xref>). The general effect is that morphological heterogeneities present at the metal electrode are exacerbated by hydrodynamic flow field (
+ <xref rid="F3" ref-type="fig">Fig. 3D-2</xref>), the details are complicated, however, because the boundary condition on the hydrodynamic flow changes as the metal deposit front progresses into the electrolyte bulk. We therefore consider first the analogous problem of electroconvective flow at an ion-selective membrane (see 
+ <xref rid="F3" ref-type="fig">Fig. 3D-1</xref>). The current-voltage response at an ion-selective membrane includes three regimes: underlimiting, limiting, and overlimiting, similar to that of a metal electrode (
+ <xref rid="F3" ref-type="fig">Fig. 3B</xref>). The overlimiting regime can no longer be interpreted as a result of ramifying metal deposits penetrating the diffusion boundary layer. Initial clues to understanding this overlimiting behavior near an ion-selective membrane were provided by Maletzki 
+ <italic>et al.</italic> (
+ <xref rid="R57" ref-type="bibr">
+  <italic>57</italic>
+ </xref>), who found that the noisy overlimiting regime completely disappears after the 0.01 M CuSO
+ <sub>4</sub>(aq) electrolyte is “immobilized” by agarose gel. This observation suggests that the overlimiting current involves the contribution from convective mass transport, which has been corroborated by multiple studies using microparticles to monitor the hydrodynamic states (
+ <xref rid="R58" ref-type="bibr">
+  <italic>58</italic>
+ </xref>, 
+ <xref rid="R59" ref-type="bibr">
+  <italic>59</italic>
+ </xref>) or using interferometry to visualize the concentration field (
+ <xref rid="R60" ref-type="bibr">
+  <italic>60</italic>
+ </xref>, 
+ <xref rid="R61" ref-type="bibr">
+  <italic>61</italic>
+ </xref>). This voltage-driven convective flow is thought to stem from the electroosmotic slip in a space charge layer developed near the membrane (
+ <xref rid="R62" ref-type="bibr">
+  <italic>62</italic>
+ </xref>–
+ <xref rid="R64" ref-type="bibr">
+  <italic>64</italic>
+ </xref>). Following studies show that the onset of the hydrodynamic instability occurs at 
+ <inline-formula>
+  <math id="m10">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>V</mi>
+      <mtext>cr</mtext>
+     </msub>
+     <mo>≈</mo>
+     <mn>8</mn>
+     <mfrac>
+      <mi mathvariant="italic">RT</mi>
+      <mi>F</mi>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>, which is ~𝒪(0.1) V (
+ <xref rid="R65" ref-type="bibr">
+  <italic>65</italic>
+ </xref>, 
+ <xref rid="R66" ref-type="bibr">
+  <italic>66</italic>
+ </xref>); this is consistent with experimental observations (
+ <xref rid="R43" ref-type="bibr">
+  <italic>43</italic>
+ </xref>). The initiation and development of such convective flow has been evaluated using “direct numerical simulation (DNS) to solve the Poisson-Nernst-Planck and Navier-Stokes equation in 3D space (
+ <xref rid="F3" ref-type="fig">Fig. 3D-1</xref>) (
+ <xref rid="R67" ref-type="bibr">
+  <italic>67</italic>
+ </xref>). The chaotic vortices as delineated by the flow streamlines disrupt the extended space charge layer and induce charge imbalance outside the extended space charge region, e.g., the ribbon indicated by the rectangle, which has a steep concentration gradient and a large induced electric field. However, note that the size of 3D DNS simulations is constrained to 1/ϵ ≪ 10
+ <sup>4</sup> (where ϵ is the dimensionless Debye length) due to the computational cost, while experimental systems typically have a 1/ϵ ≫ 10
+ <sup>4</sup>, making the matching between experimental and computational parameters challenging (
+ <xref rid="R68" ref-type="bibr">
+  <italic>68</italic>
+ </xref>).
+</p>

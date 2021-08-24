@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR24">
+ <label>24.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pandia Rajathi</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Sivakumar</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Berchmans</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Methanol electro-oxidation by nanostructured Pt/Cu bimetallic on poly 3, 4 ethylenedioxythiophene (PEDOT)</article-title>
+  <source>Electrochimica Acta.</source>
+  <year>2018</year>
+  <volume>282</volume>
+  <fpage>163</fpage>
+  <lpage>170</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.electacta.2018.06.027</pub-id>
+ </element-citation>
+</ref>

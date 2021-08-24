@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1893-2706</contrib-id>
+  <name>
+   <surname>Pavlyuk</surname>
+   <given-names>Volodymyr</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-materials-14-04331">1</xref>
+  <xref ref-type="aff" rid="af2-materials-14-04331">2</xref>
+  <xref rid="c1-materials-14-04331" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ciesielski</surname>
+   <given-names>Wojciech</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-materials-14-04331">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pavlyuk</surname>
+   <given-names>Nazar</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-materials-14-04331">1</xref>
+  <xref ref-type="aff" rid="af2-materials-14-04331">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kulawik</surname>
+   <given-names>Damian</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-materials-14-04331">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Balińska</surname>
+   <given-names>Agnieszka</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-materials-14-04331">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kluziak</surname>
+   <given-names>Karolina</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-materials-14-04331">1</xref>
+ </contrib>
+</contrib-group>

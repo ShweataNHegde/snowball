@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sato</surname>
+   <given-names>Kazuhiko</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mori</surname>
+   <given-names>Goro</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kiyosu</surname>
+   <given-names>Takahiro</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yaji</surname>
+   <given-names>Toyonari</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nakanishi</surname>
+   <given-names>Koji</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ohta</surname>
+   <given-names>Toshiaki</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Okamoto</surname>
+   <given-names>Kuniaki</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Orikasa</surname>
+   <given-names>Yuki</given-names>
+  </name>
+  <address>
+   <email>orikasa@fc.ritsumei.ac.jp</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>FUJIFILM Wako Pure Chemical Corporation, 1633 Matoba, Kawagoe, Saitama, 350-1101 Japan 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0000 8863 9909</institution-id>
+   <institution-id institution-id-type="GRID">grid.262576.2</institution-id>
+   <institution>SR Center, Ritsumeikan University, 1-1-1 Nojihigashi, Kusatsu, </institution>
+  </institution-wrap>Shiga, 525-8577 Japan 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="ISNI">0000 0000 8863 9909</institution-id>
+   <institution-id institution-id-type="GRID">grid.262576.2</institution-id>
+   <institution>Department of Applied Chemistry, </institution>
+   <institution>College of Life Sciences, Ritsumeikan University, 1-1-1 Nojihigashi, Kusatsu, </institution>
+  </institution-wrap>Shiga, 525-8577 Japan 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>Present Address: Laboratory of Advanced Science and Technology for Industry, University of Hyogo, 3-1-2 Koto, Kamigori-cho, Ako-gun, Hyogo, 678-1205 Japan 
+ </aff>
+</contrib-group>

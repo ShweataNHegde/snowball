@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The turnover frequencies (TOFs) of ORR and OER for CMOs were calculated by 
+ <xref rid="eq5" ref-type="disp-formula">eqs 
+  <xref rid="eq5" ref-type="disp-formula">5</xref>
+ </xref>(
+ <xref ref-type="bibr" rid="ref69">69</xref>) and 
+ <xref rid="eq7" ref-type="disp-formula">
+  <xref rid="eq7" ref-type="disp-formula">7</xref>
+ </xref>,
+ <sup>
+  <xref ref-type="bibr" rid="ref70">70</xref>
+ </sup> respectively
+ <disp-formula id="eq5">
+  <graphic xlink:href="ao0c04254_m005" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <label>5</label>
+ </disp-formula>where 
+ <italic>i</italic>
+ <sub>k</sub> is the ORR kinetic current, which is expressed by 
+ <xref rid="eq6" ref-type="disp-formula">eq 
+  <xref rid="eq6" ref-type="disp-formula">6</xref>
+ </xref>, and 
+ <italic>n</italic> is the moles of the loaded Co and Mn atoms on the RDE.
+ <disp-formula id="eq6">
+  <graphic xlink:href="ao0c04254_m006" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <label>6</label>
+ </disp-formula>where 
+ <italic>i</italic> is measured ORR current at 0.75 V, and 
+ <italic>i</italic>
+ <sub>l</sub> is the ORR mass transport limited current.
+ <disp-formula id="eq7">
+  <graphic xlink:href="ao0c04254_m007" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <label>7</label>
+ </disp-formula>where 
+ <italic>i</italic> is the OER current at 1.65 V, and 
+ <italic>n</italic> is the moles of the loaded Co and Mn atoms on the RDE.
+</p>

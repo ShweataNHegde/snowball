@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1" orientation="portrait" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>Calculated energy barrier for H diffusion by the NEB method and corresponding transition state mediated by water: (a) pristine, (b) N-doped, and (c) O-doped (with one vacancy) graphene. C, N, O, and H are represented in brown, grey, red, and white, respectively.</p>
+ </caption>
+ <graphic xlink:href="RESEARCH2020-4178179.001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

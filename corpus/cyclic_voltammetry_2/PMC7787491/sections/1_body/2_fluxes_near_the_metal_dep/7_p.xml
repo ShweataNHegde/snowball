@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Caution, however, should be made against oversimplifications of these transport analyses based on the measured current 
+ <italic>i</italic> because the electrode surface in a metal electrodeposition is not invariant as expected in classical liquid-phase electrochemistry. The straightforward consequence is that 
+ <inline-formula>
+  <math id="m9">
+   <mrow>
+    <mrow>
+     <mi>J</mi>
+     <mo>=</mo>
+     <mfrac>
+      <mi>i</mi>
+      <mrow>
+       <msub>
+        <mi>A</mi>
+        <mn>0</mn>
+       </msub>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> does not hold as 
+ <italic>A</italic>
+ <sub>0</sub> evolves over time in a nontrivial manner particularly in a diffusion-limited regime where the electrodeposits fundamentally alter the electrode landscape; the relation between experimentally measured nominal current and the scientifically meaningful real current density is no longer explicit. In addition, because of the patterning of the electrode surface by metal deposits, the mass transport field determined by the gradients will, as discussed, deviate from the unidirectional situation for planar electrode, which needs additional treatment particularly when the length scale of the morphological heterogeneities (roughness) is comparable to that of the diffusion boundary layer thickness as pointed out by Bard and Faulkner (
+ <xref rid="R23" ref-type="bibr">
+  <italic>23</italic>
+ </xref>).
+</p>

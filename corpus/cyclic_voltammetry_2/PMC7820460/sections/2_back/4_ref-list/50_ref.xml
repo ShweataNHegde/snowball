@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR50">
+ <label>50.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ilnicka</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Gauden</surname>
+    <given-names>PA</given-names>
+   </name>
+   <name>
+    <surname>Terzyk</surname>
+    <given-names>AP</given-names>
+   </name>
+   <name>
+    <surname>Lukaszewicz</surname>
+    <given-names>JP</given-names>
+   </name>
+  </person-group>
+  <article-title>Nano-structured carbon matrixes obtained from chitin and chitosan by a novel method</article-title>
+  <source>J. Nanosci. Nanotechnol.</source>
+  <year>2016</year>
+  <volume>16</volume>
+  <fpage>2623</fpage>
+  <lpage>2631</lpage>
+  <pub-id pub-id-type="doi">10.1166/jnn.2016.10839</pub-id>
+  <?supplied-pmid 27455679?>
+  <pub-id pub-id-type="pmid">27455679</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR19">
+ <label>19.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Craciun</surname>
+    <given-names>MF</given-names>
+   </name>
+   <name>
+    <surname>Rogge</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>den Boer</surname>
+    <given-names>MJL</given-names>
+   </name>
+   <name>
+    <surname>Margadonna</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Prassides</surname>
+    <given-names>K</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Electronic transport through electron-doped metal phthalocyanine materials</article-title>
+  <source>Adv. Mater.</source>
+  <year>2006</year>
+  <volume>18</volume>
+  <issue>3</issue>
+  <fpage>320</fpage>
+  <lpage>324</lpage>
+  <pub-id pub-id-type="doi">10.1002/adma.200501268</pub-id>
+ </element-citation>
+</ref>

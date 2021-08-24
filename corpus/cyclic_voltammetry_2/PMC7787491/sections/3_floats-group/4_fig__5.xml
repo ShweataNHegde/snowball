@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F5" fig-type="figure" orientation="portrait" position="float">
+ <label>Fig. 5</label>
+ <caption>
+  <title>Crystallographic characteristics of zinc.</title>
+  <p>(
+   <bold>A</bold>) Crystal model of HCP Zn metal. The red lattice denotes the primitive unit cells. The front, light blue layer and the back, dark blue layer are two close-packed layers that stack periodically (…ABABAB…) along the [002] direction (also called the 
+   <italic>c</italic> axis). (
+   <bold>B</bold>) Weighted surface energy 
+   <inline-formula>
+    <math id="m18">
+     <mrow>
+      <mrow>
+       <mover accent="true">
+        <mi mathvariant="normal">γ</mi>
+        <mo stretchy="true">¯</mo>
+       </mover>
+      </mrow>
+     </mrow>
+    </math>
+   </inline-formula> and surface energy anisotropy α
+   <sub>γ</sub> of representative anode metals.
+   <inline-formula>
+    <math id="m19">
+     <mrow>
+      <mrow>
+       <mover>
+        <mi mathvariant="normal">γ</mi>
+        <mo stretchy="true">¯</mo>
+       </mover>
+       <mo>=</mo>
+       <msub>
+        <mi mathvariant="normal">Σ</mi>
+        <mrow>
+         <mo stretchy="false">(</mo>
+         <mi>hkl</mi>
+         <mo stretchy="false">)</mo>
+        </mrow>
+       </msub>
+       <msub>
+        <mi mathvariant="normal">γ</mi>
+        <mi>hkl</mi>
+       </msub>
+       <msubsup>
+        <mi>f</mi>
+        <mi>hkl</mi>
+        <mi mathvariant="normal">A</mi>
+       </msubsup>
+      </mrow>
+     </mrow>
+    </math>
+   </inline-formula>, where γ
+   <italic>
+    <sub>hkl</sub>
+   </italic> is the surface energy of (
+   <italic>hkl</italic>), and 
+   <inline-formula>
+    <math id="m20">
+     <mrow>
+      <mrow>
+       <msubsup>
+        <mi>f</mi>
+        <mi mathvariant="normal">hkl</mi>
+        <mi mathvariant="normal">A</mi>
+       </msubsup>
+      </mrow>
+     </mrow>
+    </math>
+   </inline-formula> is the area fraction of the (
+   <italic>hkl</italic>) family in the Wulff shape. 
+   <inline-formula>
+    <math id="m21">
+     <mrow>
+      <mrow>
+       <msub>
+        <mi mathvariant="normal">α</mi>
+        <mi mathvariant="normal">γ</mi>
+       </msub>
+       <mo>=</mo>
+       <mfrac>
+        <mrow>
+         <msqrt>
+          <mrow>
+           <msub>
+            <mo>Σ</mo>
+            <mrow>
+             <mo stretchy="false">(</mo>
+             <mi mathvariant="normal">hkl</mi>
+             <mo stretchy="false">)</mo>
+            </mrow>
+           </msub>
+           <msup>
+            <mrow>
+             <mo stretchy="false">(</mo>
+             <msub>
+              <mi mathvariant="normal">γ</mi>
+              <mi mathvariant="normal">hkl</mi>
+             </msub>
+             <mo>−</mo>
+             <mover accent="true">
+              <mi mathvariant="normal">γ</mi>
+              <mo stretchy="true">¯</mo>
+             </mover>
+             <mo stretchy="false">)</mo>
+            </mrow>
+            <mn>2</mn>
+           </msup>
+           <msubsup>
+            <mi>f</mi>
+            <mi mathvariant="normal">hkl</mi>
+            <mi mathvariant="normal">A</mi>
+           </msubsup>
+          </mrow>
+         </msqrt>
+        </mrow>
+        <mrow>
+         <mover accent="true">
+          <mi mathvariant="normal">γ</mi>
+          <mo stretchy="true">¯</mo>
+         </mover>
+        </mrow>
+       </mfrac>
+      </mrow>
+     </mrow>
+    </math>
+   </inline-formula>. α
+   <sub>γ</sub> can be viewed as a normalized coefficient of variation of surface energy. A greater α
+   <sub>γ</sub> value implies a larger anisotropy in the surface energies of the crystal facets exposed in its Wulff shape. In an extreme case of a perfectly isotropic crystal, α
+   <sub>γ</sub> = 0. Plotted according to data reported in (
+   <xref rid="R125" ref-type="bibr">
+    <italic>125</italic>
+   </xref>). (
+   <bold>C</bold>) Wulff shapes for metals of contemporary interest as battery anode materials. They depict the shape of the crystals at thermodynamic equilibrium. Adapted with permission using the database reported in (
+   <xref rid="R125" ref-type="bibr">
+    <italic>125</italic>
+   </xref>). (
+   <bold>D</bold>) XRD analysis of the crystallographic texturing of Zn metal electrodeposits. (D-1) θ−2θ XRD line scans of Zn electrodeposits. (D-2) Peak intensity ratio 
+   <italic>I</italic>
+   <sub>002</sub>:
+   <italic>I</italic>
+   <sub>101</sub> of the scans shown in 
+   <xref rid="F5" ref-type="fig">Fig. 5D-1</xref>. (D-3) 2D XRD of samples #3 and #4 shown in 
+   <xref rid="F5" ref-type="fig">Fig. 5D-1</xref>. Adapted with permission from (
+   <xref rid="R28" ref-type="bibr">
+    <italic>28</italic>
+   </xref>). A.U., arbitrary units.
+  </p>
+ </caption>
+ <graphic xlink:href="abe0219-F5" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

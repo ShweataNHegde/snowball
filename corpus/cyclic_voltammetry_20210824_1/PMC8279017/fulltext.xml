@@ -1,0 +1,596 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Energy Fuels</journal-id><journal-id journal-id-type="iso-abbrev">Energy Fuels</journal-id><journal-id journal-id-type="publisher-id">ef</journal-id><journal-id journal-id-type="coden">enfuem</journal-id><journal-title-group><journal-title>Energy &#x00026; Fuels</journal-title></journal-title-group><issn pub-type="ppub">0887-0624</issn><issn pub-type="epub">1520-5029</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">8279017</article-id><article-id pub-id-type="doi">10.1021/acs.energyfuels.1c00927</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Lithium&#x02013;Metal Batteries Using Sustainable Electrolyte
+Media and Various Cathode Chemistries</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4722-8988</contrib-id><name><surname>Marangon</surname><given-names>Vittorio</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Minnetti</surname><given-names>Luca</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Adami</surname><given-names>Matteo</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Barlini</surname><given-names>Alberto</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath5"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-8218-5680</contrib-id><name><surname>Hassoun</surname><given-names>Jusef</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><aff id="aff1"><label>&#x02020;</label><institution>University
+of Ferrara</institution>, Department of Chemical
+and Pharmaceutical Sciences, Via Fossato di Mortara 17, 44121 Ferrara, <country>Italy</country></aff><aff id="aff2"><label>&#x02021;</label>Graphene
+Laboratories, <institution>Istituto Italiano di Tecnologia</institution>, Via Morego 30, 16163 Genova, <country>Italy</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>jusef.hassoun@unife.it</email>, <email>jusef.hassoun@iit.it</email>.</corresp></author-notes><pub-date pub-type="epub"><day>20</day><month>05</month><year>2021</year></pub-date><pub-date pub-type="ppub"><day>17</day><month>06</month><year>2021</year></pub-date><volume>35</volume><issue>12</issue><fpage>10284</fpage><lpage>10292</lpage><history><date date-type="received"><day>26</day><month>03</month><year>2021</year></date><date date-type="rev-recd"><day>07</day><month>05</month><year>2021</year></date></history><permissions><copyright-statement>&#x000a9; 2021 The
+Authors. Published by American
+Chemical Society</copyright-statement><copyright-year>2021</copyright-year><copyright-holder>The Authors</copyright-holder><license><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ef1c00927_0007" id="ab-tgr1"/></p><p>Lithium&#x02013;metal
+batteries employing concentrated glyme-based
+electrolytes and two different cathode chemistries are herein evaluated
+in view of a safe use of the highly energetic alkali-metal anode.
+Indeed, diethylene-glycol dimethyl-ether (DEGDME) and triethylene-glycol
+dimethyl-ether (TREGDME) dissolving lithium bis(trifluoromethanesulfonyl)imide
+(LiTFSI) and lithium nitrate (LiNO<sub>3</sub>) in concentration approaching
+the solvents saturation limit are used in lithium batteries employing
+either a conversion sulfur&#x02013;tin composite (S:Sn 80:20 w/w) or
+a Li<sup>+</sup> (de)insertion LiFePO<sub>4</sub> cathode. Cyclic
+voltammetry (CV) and electrochemical impedance spectroscopy (EIS)
+clearly show the suitability of the concentrated electrolytes in terms
+of process reversibility and low interphase resistance, particularly
+upon a favorable activation. Galvanostatic measurements performed
+on lithium&#x02013;sulfur (Li/S) batteries reveal promising capacities
+at room temperature (25 &#x000b0;C) and a value as high as 1300 mAh g<sub>S</sub><sup>&#x02013;1</sup> for the cell exploiting the DEGDME-based
+electrolyte at 35 &#x000b0;C. On the other hand, the lithium&#x02013;LiFePO<sub>4</sub> (Li/LFP) cells exhibit satisfactory cycling behavior, in
+particular when employing an additional reduction step at low voltage
+cutoff (i.e., 1.2 V) during the first discharge to consolidate the
+solid electrolyte interphase (SEI). This procedure allows a Coulombic
+efficiency near 100%, a capacity approaching 160 mAh g<sup>&#x02013;1</sup>, and relevant retention particularly for the cell using the TREGDME-based
+electrolyte. Therefore, this work suggests the use of concentrated
+glyme-based electrolytes, the fine-tuning of the operative conditions,
+and the careful selection of active materials chemistry as significant
+steps to achieve practical and safe lithium&#x02013;metal batteries.</p></abstract><funding-group><award-group><funding-source><institution-wrap><institution>H2020 Future and Emerging Technologies</institution><institution-id institution-id-type="doi">10.13039/100010664</institution-id></institution-wrap></funding-source><award-id>881603</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Universit? degli Studi di Ferrara</institution><institution-id institution-id-type="doi">10.13039/501100007109</institution-id></institution-wrap></funding-source><award-id>FAR2019</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Sapienza Universit? di Roma</institution><institution-id institution-id-type="doi">10.13039/501100004271</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ef1c00927</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ef1c00927</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>Li-ion batteries power a wide array of
+electronic devices, from
+portable systems such as laptops and smartphones to hybrid (HEVs)
+and fully electric vehicles (EVs).<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> The research
+on Li-ion batteries has led to the achievement of a remarkable energy
+density, i.e., 260 Wh kg<sup>&#x02013;1</sup>, and a long cycle life.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref4">4</xref></sup> However, an increasing demand for energy with the purpose of extending
+the driving range of EVs has renewed interest in the metallic lithium,
+which offers a high theoretical capacity (3860 mAh g<sup>&#x02013;1</sup>) and the lowest redox potential (&#x02212;3.04 V vs SHE) among the
+various electrodes proposed as the battery anode.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> Despite the various advantages, the application of lithium
+in a rechargeable battery has so far been hindered by the formation
+of dendritic structures due to heterogeneous deposition of lithium
+at the metal surface during charge that can lead to short circuits
+and hazards.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> The most relevant solutions
+proposed to overcome this challenging issue and ensure efficient and
+safe discharge&#x02013;charge cycling of the battery are represented
+by the addition to the electrolyte of sacrificial agents such as lithium
+nitrate (LiNO<sub>3</sub>), that can be reduced at the lithium surface
+to protect the metallic anode by the formation of a suitable solid
+electrolyte interphase (SEI) film.<sup><xref ref-type="bibr" rid="ref7">7</xref>&#x02212;<xref ref-type="bibr" rid="ref9">9</xref></sup> A further relevant breakthrough
+was achieved by the replacement of carbonate-based solvents with more
+stable and less volatile poly(ethylene oxide)s or end-capped glymes
+(CH<sub>3</sub>O(CH<sub>2</sub>CH<sub>2</sub>O)<sub><italic>n</italic></sub>CH<sub>3</sub>).<sup><xref ref-type="bibr" rid="ref10">10</xref>&#x02212;<xref ref-type="bibr" rid="ref15">15</xref></sup> Remarkable improvement of the safety content of the cell was furthermore
+obtained by increasing the salt concentration, in particular using
+the glyme-based electrolytes, in order to decrease the flammability
+and the volatility, holding at the same time long cycle life and high
+Coulombic efficiency.<sup><xref ref-type="bibr" rid="ref16">16</xref>&#x02212;<xref ref-type="bibr" rid="ref19">19</xref></sup> In this regard, in our previous study we have characterized the
+chemical and electrochemical properties of highly concentrated di-
+and triglyme-based electrolytes employing the conductive salt lithium
+bis(trifluoromethanesulfonyl)imide (LiTFSI) and LiNO<sub>3</sub> in
+concentrations approaching the solvent saturation limit.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> The study focused on the performance of the
+new electrolyte media in a Li/O<sub>2</sub> battery, particularly
+in terms of electrode/electrolyte interphase effects on the cycling
+behavior of the cell. The data of the above research principally suggested
+the triglyme-based electrolyte as a promising candidate for application
+in Li/O<sub>2</sub> cells due to its unique properties which include
+a remarkably low volatility and enhanced interphase stability,<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> thus in agreement with other literature papers.<sup><xref ref-type="bibr" rid="ref21">21</xref>,<xref ref-type="bibr" rid="ref22">22</xref></sup> Indeed, according to X-ray photoelectron spectroscopy (XPS) and
+electrochemical impedance spectroscopy (EIS), the enhanced characteristics
+of the triglyme-based electrolyte compared to the diglyme-based one
+in a Li/O<sub>2</sub> cell have been principally attributed to the
+formation of a stable SEI, in particular on the Li metal.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup></p><p>Herein, we originally extend the investigation
+of these highly
+concentrated electrolyte media to different cathode chemistries which
+can be employed in new configurations of lithium&#x02013;metal batteries,
+that is, the ones using the conversion electrochemical process related
+to sulfur<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref24">24</xref></sup> and the Li<sup>+</sup> (de)insertion mechanism
+associated with a LiFePO<sub>4</sub> olivine cathode.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref25">25</xref></sup> Therefore, the present study focuses on the electrochemical performances
+of the new electrolytes in advanced lithium cells using the high-performance
+sulfur composite with low amount of electrochemically inactive, conductive
+tin metal (S:Sn 80:20 w/w)<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> and the advanced
+carbon-coated LiFePO<sub>4</sub> cathode.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> The results of the study may actually shed light on possible applications
+of the highly concentrated glyme-based electrolytes for achieving
+new rechargeable batteries with remarkable safety content using the
+highly energetic, yet challenging, lithium&#x02013;metal anode.</p></sec><sec id="sec2"><title>Experimental Section</title><sec id="sec2.1"><title>Materials</title><p>Lithium
+bis(trifluoromethanesulfonyl)imide
+(LiTFSI, Sigma-Aldrich) and lithium nitrate (LiNO<sub>3</sub>, Sigma-Aldrich)
+salts were dissolved in diethylene-glycol dimethyl-ether (DEGDME,
+CH<sub>3</sub>O(CH<sub>2</sub>CH<sub>2</sub>O)<sub>2</sub>CH<sub>3</sub>, Sigma-Aldrich) and triethylene-glycol dimethyl-ether (TREGDME,
+CH<sub>3</sub>O(CH<sub>2</sub>CH<sub>2</sub>O)<sub>3</sub>CH<sub>3</sub>, Sigma-Aldrich) solvents at room temperature overnight under magnetic
+stirring inside an Ar-filled glovebox (MBraun, O<sub>2</sub> and H<sub>2</sub>O content below 1 ppm). The final concentration of each salt
+was 1.5 mol kg<sub>solvent</sub><sup>&#x02013;1</sup> in DEGDME and
+2 mol kg<sub>solvent</sub><sup>&#x02013;1</sup> in TREGDME, that is,
+amounts approaching the saturation limit of the solvents. Prior to
+use, LiTFSI and LiNO<sub>3</sub> were dried at 110 &#x000b0;C for 24
+h under vacuum, while DEGDME and TREGDME solvents were dried under
+molecular sieves (3 &#x000c5;, rods, size 1/16 in., Honeywell Fluka)
+until a water content lower than 10 ppm was achieved as measured by
+a 899 Karl Fischer coulometer (Metrohm). The highly concentrated electrolyte
+solutions are subsequently indicated as DEGDME_HCE and TREGDME_HCE.
+The analyses of the chemical and electrochemical properties of the
+electrolytes are reported in a previous work.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup></p><p>The synthesis of the sulfur composite (S:Sn 80:20) was achieved
+in a previous work through a physical mixing and melting process of
+elemental sulfur (80% wt, &#x02265;99.5%, Riedel-de Ha&#x000eb;n) and
+nanometric tin powder (20% wt, &#x0003c;150 nm, &#x02265;99% trace metal
+basis, Sigma-Aldrich) at 120 &#x000b0;C,<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> while the LiFePO<sub>4</sub> (LFP) material was developed by advanced
+lithium electrochemistry (Aleees Taiwan, model A1100) and characterized
+by a carbon content of about 5%.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup></p></sec><sec id="sec2.2"><title>Electrochemical
+Measurements</title><p>The electrochemical tests
+were carried out in CR2032 coin-type cells assembled in an Ar-filled
+glovebox (MBraun, O<sub>2</sub> and H<sub>2</sub>O content below 1
+ppm) by employing a 14 mm diameter lithium disk as the anode. The
+S:Sn 80:20 and LFP electrodes were obtained by NMP-solvent casting
+of the active materials (80% wt), Super P carbon (10% wt, Timcal)
+and polyvinilidene fluoride (10% wt, Solef<sup>&#x024c7;</sup> 6020
+PVDF) on a porous carbon-cloth foil (GDL, ELAT 1400, MTI Corp.) or
+an aluminum current collector, respectively. The active material loading
+was of about 1.3 mg cm<sup>&#x02212;2</sup> for S:Sn 80:20 and 4.5
+mg cm<sup>&#x02212;2</sup> for
+LFP as normalized to the electrode geometric area (1.54 cm<sup>2</sup>). The cathodes were separated from the lithium anode by a 16 mm
+Celgard (2400) foil soaked with the electrolyte solution (either DEGDME_HCE
+or TREGDME_HCE, see below for the related amounts) in the Li/S:Sn
+80:20 cells, while they were separated by two GF/A glass fiber Whatman
+16 mm disks soaked with the electrolyte solution (either DEGDME_HCE
+or TREGDME_HCE) in the Li/LFP cells.</p><p>Cyclic voltammetry (CV)
+was performed at a scan rate of 0.1 mV s<sup>&#x02013;1</sup> in the
+1.8&#x02013;2.8 V vs Li<sup>+</sup>/Li potential range for the S:Sn
+80:20 electrode and in the 2.7&#x02013;3.9 V vs Li<sup>+</sup>/Li potential
+range for the LFP one. Electrochemical impedance spectra were collected
+at the open circuit voltage (OCV) condition of the cell, as well as
+after 1, 5, and 10 CV cycles, and were analyzed through the nonlinear
+least-squares (NLLS) fitting method via the Boukamp software (&#x003c7;<sup>2</sup> values of the order of 10<sup>&#x02013;4</sup> or lower).<sup><xref ref-type="bibr" rid="ref28">28</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup> EIS was performed by applying to the cells an alternate voltage
+signal with an amplitude of 10 mV within the frequency range from
+500 kHz to 100 mHz. All of the CV and EIS measurements were performed
+by using a VersaSTAT MC Princeton Applied Research (PAR, AMETEK) instrument.</p><p>The Li/S:Sn 80:20 cells were tested through galvanostatic cycling
+measurements carried out at the constant current rate of C/5 at 25
+and 35 &#x000b0;C and of 1C at 35 &#x000b0;C (1C = 1675 mA g<sub>S</sub><sup>&#x02013;1</sup>). The cells cycled at the current of C/5 employed
+60 &#x003bc;L of electrolyte solution and a voltage range of 1.9&#x02013;2.8
+V, while voltage limits of 1.6 and 2.8 V and an electrolyte/sulfur
+ratio of 20 &#x003bc;L mg<sup>&#x02013;1</sup> were adopted for the cells
+tested at 1C. The galvanostatic cycling measurements of the Li/LFP
+cells were performed at the constant current rate of C/5 (1C = 170
+mA g<sup>&#x02013;1</sup>) at room temperature (25 &#x000b0;C), in a 2.7&#x02013;3.9
+V voltage range. Additional tests were carried out at C/5 and C/3
+by exploiting a voltage range between 1.2 and 3.9 V during the first
+charge&#x02013;discharge cycle and between 2.7 and 3.9 V for the subsequent
+ones. All of the galvanostatic cycling measurements were performed
+by using a MACCOR series 4000 battery test system.</p></sec></sec><sec id="sec3"><title>Results and Discussion</title><p>The DEGDME_HCE and TREGDME_HCE are initially exploited in lithium
+cell using the S:Sn 80:20 cathode by means of CV coupled with EIS
+as reported in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>. The corresponding voltammograms (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a, c) show the typical profiles expected
+for the reversible multiple-step Li/S electrochemical process consisting
+of a first cycle with a different shape compared to the subsequent
+ones, which are well overlapped into various peaks centered at about
+2.4 and below 2.0 V vs Li<sup>+</sup>/Li during cathodic scan and
+merged between 2.3 and 2.5 V vs Li<sup>+</sup>/Li during the anodic
+one.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> The above peaks correspond to the
+reduction of sulfur with formation of soluble polysulfides (Li<sub>2</sub>S<sub><italic>x</italic></sub> with <italic>x</italic> &#x02265;
+6 at 2.4 V, and Li<sub>2</sub>S<sub><italic>x</italic></sub> with
+6 &#x0003e; <italic>x</italic> &#x0003e; 2 below 2.0 V) during discharge, and
+to the
+oxidation back to sulfur during the charge process.<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> Furthermore, the difference between the first and subsequent
+cycles is well justified by the EIS performed at the OCV and after
+1, 5, and 10 voltammetry cycles for the cells using DEGDME_HCE (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b) and TREGDME_HCE
+(<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>d). The corresponding
+Nyquist plots suggest the activation process typical of Li/S cells
+using a suitable electrolyte associated with the consolidation of
+a favorable electrode/electrolyte interphase by the ongoing electrochemical
+process.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> This Li/S activation process
+has been attributed in a previous paper to microstructural modifications
+of the electrode that allow an enhanced electric contact between sulfur
+and the conductive carbon support, and lead to an improved conductivity
+of the electrode/electrolyte interphase.<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> Indeed, the EIS data evidence a remarkable decrease of the cell
+impedance from values between 100 and 200 &#x003a9; at the OCV (see
+insets of <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b
+and d) to values of the order of 10 &#x003a9; for DEGDME_HCE (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b) and 20 &#x003a9;
+for TREGDME_HCE (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>d). An exhaustive summary of the results of the NLLS analyses performed
+on the Nyquist plots of <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b and <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>d is reported in <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>.<sup><xref ref-type="bibr" rid="ref28">28</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup> Notably, both CV and EIS results indicate
+differences between the Li/S cells using DEGDME_HCE and TREGDME_HCE;
+the former shows smoother less-polarized peaks and a slightly lower
+steady-state impedance with respect to the latter (compare <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a and the inset of <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b with <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c and the inset of <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>d, respectively).
+These differences may be likely associated with favorable effects
+on the Li/S electrochemical process promoted by the lower solvent
+viscosity (0.94 g mL<sup>&#x02013;1</sup>)<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> and higher conductivity (3.3 &#x000d7; 10<sup>&#x02013;3</sup> S cm<sup>&#x02013;1</sup>) of DEGDME_HCE compared to the TREGDME_HCE (0.98
+g mL<sup>&#x02013;1</sup> and 8.9 &#x000d7; 10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup>, respectively)<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> at room
+temperature, as reported in our previous study.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup></p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(a, c) Cyclic voltammetry (CV) and (b, d) electrochemical impedance
+spectroscopy (EIS) measurements performed on Li/electrolyte/S:Sn 80:20
+cells employing either (a, b) DEGDME_HCE or (c, d) TREGDME_HCE. CV
+potential range, 1.8&#x02013;2.8 V vs Li<sup>+</sup>/Li; scan rate,
+0.1 mV s<sup>&#x02013;1</sup>. EIS carried out at the OCV of the cells
+and after 1, 5, and 10 voltammetry cycles (inset reports magnification);
+frequency range, 500 kHz&#x02013;100 mHz; alternate voltage signal
+amplitude, 10 mV.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ef1c00927_0001" id="gr1" position="float"/></fig><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>NLLS Analyses
+Performed on the Nyquist
+Plots Reported in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b and d Recorded upon CV Measurements of Li/Electrolyte/S:Sn
+80:20 Cells Employing Either DEGDME_HCE (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b) or TREGDME_HCE (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>d)<sup><xref ref-type="bibr" rid="ref28">28</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup></title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="left"/><col align="char" char="&#x000b1;"/><col align="char" char="&#x000b1;"/><col align="char" char="&#x000b1;"/><col align="char" char="&#x000d7;"/></colgroup><thead><tr><th style="border:none;" align="center">electrolyte</th><th style="border:none;" align="center">cell condition</th><th style="border:none;" align="center">circuit</th><th style="border:none;" align="center" char="&#x000b1;"><italic>R</italic><sub>1</sub> [&#x003a9;]</th><th style="border:none;" align="center" char="&#x000b1;"><italic>R</italic><sub>2</sub> [&#x003a9;]</th><th style="border:none;" align="center" char="&#x000b1;"><italic>R</italic><sub>1</sub> + <italic>R</italic><sub>2</sub> [&#x003a9;]</th><th style="border:none;" align="center" char="&#x000d7;">&#x003c7;<sup>2</sup></th></tr></thead><tbody><tr><td rowspan="4" style="border:none;" align="left">DEGDME_HCE</td><td style="border:none;" align="left">OCV</td><td style="border:none;" align="left">R<sub>e</sub>(R<sub>1</sub>Q<sub>1</sub>)(R<sub>2</sub>Q<sub>2</sub>)</td><td style="border:none;" align="char" char="&#x000b1;">103&#x000a0;&#x000b1;&#x000a0;2</td><td style="border:none;" align="char" char="&#x000b1;">129&#x000a0;&#x000b1;&#x000a0;3</td><td style="border:none;" align="char" char="&#x000b1;">232&#x000a0;&#x000b1;&#x000a0;4</td><td style="border:none;" align="char" char="&#x000d7;">1&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;4</sup></td></tr><tr><td style="border:none;" align="left">1&#x000a0;cycle</td><td style="border:none;" align="left">R<sub>e</sub>(R<sub>1</sub>Q<sub>1</sub>)(R<sub>2</sub>Q<sub>2</sub>)Q<sub>3</sub></td><td style="border:none;" align="char" char="&#x000b1;">9.9&#x000a0;&#x000b1;&#x000a0;0.1</td><td style="border:none;" align="char" char="&#x000b1;">3.4&#x000a0;&#x000b1;&#x000a0;0.2</td><td style="border:none;" align="char" char="&#x000b1;">13.3&#x000a0;&#x000b1;&#x000a0;0.2</td><td style="border:none;" align="char" char="&#x000d7;">2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td></tr><tr><td style="border:none;" align="left">5&#x000a0;cycles</td><td style="border:none;" align="left">R<sub>e</sub>(R<sub>1</sub>Q<sub>1</sub>)(R<sub>2</sub>Q<sub>2</sub>)Q<sub>3</sub></td><td style="border:none;" align="char" char="&#x000b1;">10.1&#x000a0;&#x000b1;&#x000a0;0.1</td><td style="border:none;" align="char" char="&#x000b1;">0.8&#x000a0;&#x000b1;&#x000a0;0.1</td><td style="border:none;" align="char" char="&#x000b1;">10.9&#x000a0;&#x000b1;&#x000a0;0.1</td><td style="border:none;" align="char" char="&#x000d7;">3&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td></tr><tr><td style="border:none;" align="left">10&#x000a0;cycles</td><td style="border:none;" align="left">R<sub>e</sub>(R<sub>1</sub>Q<sub>1</sub>)(R<sub>2</sub>Q<sub>2</sub>)Q<sub>3</sub></td><td style="border:none;" align="char" char="&#x000b1;">9.8&#x000a0;&#x000b1;&#x000a0;0.5</td><td style="border:none;" align="char" char="&#x000b1;">1.5&#x000a0;&#x000b1;&#x000a0;0.5</td><td style="border:none;" align="char" char="&#x000b1;">11.3&#x000a0;&#x000b1;&#x000a0;0.7</td><td style="border:none;" align="char" char="&#x000d7;">6&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td></tr><tr><td rowspan="4" style="border:none;" align="left">TREGDME_HCE</td><td style="border:none;" align="left">OCV</td><td style="border:none;" align="left">R<sub>e</sub>(R<sub>1</sub>Q<sub>1</sub>)(R<sub>2</sub>Q<sub>2</sub>)Q<sub>3</sub></td><td style="border:none;" align="char" char="&#x000b1;">73.3&#x000a0;&#x000b1;&#x000a0;0.4</td><td style="border:none;" align="char" char="&#x000b1;">27&#x000a0;&#x000b1;&#x000a0;3</td><td style="border:none;" align="char" char="&#x000b1;">101&#x000a0;&#x000b1;&#x000a0;3</td><td style="border:none;" align="char" char="&#x000d7;">5&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td></tr><tr><td style="border:none;" align="left">1&#x000a0;cycle</td><td style="border:none;" align="left">R<sub>e</sub>(R<sub>1</sub>Q<sub>1</sub>)(R<sub>2</sub>Q<sub>2</sub>)Q<sub>3</sub></td><td style="border:none;" align="char" char="&#x000b1;">13.1&#x000a0;&#x000b1;&#x000a0;0.3</td><td style="border:none;" align="char" char="&#x000b1;">9.0&#x000a0;&#x000b1;&#x000a0;1.5</td><td style="border:none;" align="char" char="&#x000b1;">22.1&#x000a0;&#x000b1;&#x000a0;1.5</td><td style="border:none;" align="char" char="&#x000d7;">4&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td></tr><tr><td style="border:none;" align="left">5&#x000a0;cycles</td><td style="border:none;" align="left">R<sub>e</sub>(R<sub>1</sub>Q<sub>1</sub>)(R<sub>2</sub>Q<sub>2</sub>)Q<sub>3</sub></td><td style="border:none;" align="char" char="&#x000b1;">5.3&#x000a0;&#x000b1;&#x000a0;0.1</td><td style="border:none;" align="char" char="&#x000b1;">7.2&#x000a0;&#x000b1;&#x000a0;0.3</td><td style="border:none;" align="char" char="&#x000b1;">12.5&#x000a0;&#x000b1;&#x000a0;0.3</td><td style="border:none;" align="char" char="&#x000d7;">2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td></tr><tr><td style="border:none;" align="left">10&#x000a0;cycles</td><td style="border:none;" align="left">R<sub>e</sub>(R<sub>1</sub>Q<sub>1</sub>)(R<sub>2</sub>Q<sub>2</sub>)Q<sub>3</sub></td><td style="border:none;" align="char" char="&#x000b1;">5.4&#x000a0;&#x000b1;&#x000a0;0.1</td><td style="border:none;" align="char" char="&#x000b1;">6.8&#x000a0;&#x000b1;&#x000a0;0.3</td><td style="border:none;" align="char" char="&#x000b1;">12.2&#x000a0;&#x000b1;&#x000a0;0.3</td><td style="border:none;" align="char" char="&#x000d7;">2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td></tr></tbody></table></table-wrap><p><xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref> displays
+the performance of DEGDME_HCE (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a, b) and TREGDME_HCE (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c, d) in a Li/S:Sn 80:20 cell, cycled at
+the constant rate of C/5 (1C = 1675 mA g<sub>S</sub><sup>&#x02013;1</sup>) at 25 and 35 &#x000b0;C. The selected voltage profiles related to
+the steady state of the cells (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a, c) reveal the characteristic response of a Li/S
+battery, in agreement with CVs of <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>, where the two distinct discharge plateaus
+around 2.4 and 2.0 V ascribed to the formation of long chain lithium
+polysulfides (Li<sub>2</sub>S<sub><italic>x</italic></sub> with <italic>x</italic> &#x02265; 6) and short chain ones (Li<sub>2</sub>S<sub><italic>x</italic></sub> with 6 &#x0003e; <italic>x</italic> &#x0003e; 2),
+respectively,
+are reversed into two charge plateaus above 2.3 V.<sup><xref ref-type="bibr" rid="ref30">30</xref>,<xref ref-type="bibr" rid="ref32">32</xref></sup> Furthermore, the figure shows for both DEGDME_HCE (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a) and TREGDME_HCE (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c) a relatively high
+polarization at room temperature (25 &#x000b0;C), in particular for the
+latter electrolyte, leading to steady-state specific capacities of
+about 800 mAh g<sub>S</sub><sup>&#x02013;1</sup> and 340 mAh g<sub>S</sub><sup>&#x02013;1</sup>, respectively. The poor response at room
+temperature of the Li/S cells is most likely due to the hindering
+of the insulating sulfur kinetics by the high viscosity of the concentrated
+electrolytes, which is particularly relevant in the case of the TREGDME_HCE
+due to its longer ether chain, higher lithium salts concentration
+(see <xref rid="sec2" ref-type="other">Experimental Section</xref>), and consequently
+higher viscosity compared to DEGDME_HCE.<sup><xref ref-type="bibr" rid="ref20">20</xref>,<xref ref-type="bibr" rid="ref33">33</xref></sup> In order to favor the electrochemical kinetics and achieve better
+performances, subsequent galvanostatic cycling tests were performed
+on the Li/S:Sn 80:20 cells at a higher temperature, that is, 35 &#x000b0;C,
+by employing the same C-rate of C/5. Advantageously, the increase
+of temperature leads to higher capacity values and to lower polarization
+for both DEGDME_HCE (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a) and TREGDME_HCE (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c), as expected by the decrease of the electrolytes
+viscosity and the concomitant rise of their Li<sup>+</sup> ions conductivity.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup></p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(a, c) Selected voltage profiles and (b, d) corresponding
+cycling
+trends at 25 and 35 &#x000b0;C of Li/electrolyte/S:Sn 80:20 cells employing
+either (a, b) DEGDME_HCE or (c, d) TREGDME_HCE. The cells are galvanostatically
+cycled using a voltage range between 1.9 and 2.8 V at the constant
+current rate of C/5 (1C = 1675 mA g<sub>S</sub><sup>&#x02013;1</sup>).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ef1c00927_0002" id="gr2" position="float"/></fig><p>In particular, the cycling trends
+reported in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b and d reveal that the cell
+using DEGDME_HCE delivers at 35 &#x000b0;C a maximum specific capacity
+of about 1320 mAh g<sub>S</sub><sup>&#x02013;1</sup> (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b), while the one exploiting
+TREGDME_HCE exhibits a value approaching 890 mAh g<sub>S</sub><sup>&#x02013;1</sup> (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>d). Furthermore, the cell using DEGDME_HCE shows over the
+50 cycles of the tests an excellent retention of the maximum capacity
+with values ranging from 92% at room temperature to 90% at 35 &#x000b0;C
+(<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b), while
+lower but still satisfactory values of 88% at room temperature and
+77% at 35 &#x000b0;C are observed for the cell using the more-viscous
+TREGDME_HCE (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>d).</p><p>A further application of the electrolytes is exploited
+by lithium&#x02013;metal
+cells using an olivine-structured, (de)insertion LiFePO<sub>4</sub> (LFP) cathode<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> which is identified by
+literature works as a promising candidate for lithium batteries using
+concentrated solutions.<sup><xref ref-type="bibr" rid="ref34">34</xref>,<xref ref-type="bibr" rid="ref35">35</xref></sup> A combined study using
+CV and EIS is therefore performed and reported in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>, analogously to the investigation
+provided for the sulfur-based electrode (compare with <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>). The voltammograms of the
+cells using DEGDME_HCE and TREGDME_HCE (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a and c, respectively) show the characteristic
+profile centered at about 3.45 V vs Li<sup>+</sup>/Li associated with
+the deinsertion of Li from the LiFePO<sub>4</sub> during the anodic
+scan and its insertion back into the olivine structure during the
+cathodic scan.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref25">25</xref></sup> The first CV cycle shows a charge/discharge
+polarization of about 0.3 V vs Li<sup>+</sup>/Li for DEGDME_HCE (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a, black curve) and
+of about 0.4 V vs Li<sup>+</sup>/Li for TREGDME_HCE (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>c, black curve). This relatively
+high polarization may be ascribed to a not yet completely optimized
+electrode/electrolyte interphase between the LFP electrode and the
+highly concentrated electrolytes.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> Furthermore,
+the subsequent cycles reveal for the two electrolytes a certain improvement
+with favorable decrease of the above-mentioned polarization, leading
+to a shift of about 0.1 V vs Li<sup>+</sup>/Li of the cathodic and
+anodic peaks. This enhancement is likely justified by the EIS Nyquist
+plots reported in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b for DEGDME_HCE and in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>d for TREGDME_HCE and by the results of the corresponding
+NLLS analyses listed in <xref rid="tbl2" ref-type="other">Table <xref rid="tbl2" ref-type="other">2</xref></xref>.<sup><xref ref-type="bibr" rid="ref28">28</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup> Indeed, the data indicate for the two electrolytes
+a series of semicircles and lines ascribed to SEI layers, charge transfer
+processes, and diffusion phenomena occurring in the lithium cells
+at the various frequencies, with an overall initial resistance of
+about 300 &#x003a9; for DEGDME_HCE and 150 &#x003a9; for TREGDME_HCE decreasing
+to about 90 &#x003a9; and 80 &#x003a9;, respectively, upon the 10 CV cycles
+taken under consideration. This likely indicates a partial dissolution
+or a modification of the pristine SEI layer formed at the electrodes
+surface by the ongoing nature of the cycling, which can initially
+favor the kinetics of the electrochemical processes.<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref36">36</xref></sup></p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>(a,
+c) Cyclic voltammetry (CV) and (b, d) electrochemical impedance
+spectroscopy (EIS) measurements performed on Li/electrolyte/LFP cells
+employing either (a, b) DEGDME_HCE or (c, d) TREGDME_HCE. CV potential
+range, 2.7&#x02013;3.9 V vs Li<sup>+</sup>/Li; scan rate, 0.1 mV s<sup>&#x02013;1</sup>. EIS carried out at the OCV of the cells and after
+1, 5, and 10 voltammetry cycles; frequency range, 500 kHz&#x02013;100
+mHz; alternate voltage signal amplitude, 10 mV.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ef1c00927_0003" id="gr3" position="float"/></fig><table-wrap id="tbl2" position="float"><label>Table 2</label><caption><title>NLLS Analyses Performed on the Nyquist
+Plots Reported in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b and d Recorded upon CV Measurements of Li/Electrolyte/LFP
+Cells Employing Either DEGDME_HCE (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b) or TREGDME_HCE (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>d)<sup><xref ref-type="bibr" rid="ref28">28</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup></title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="left"/><col align="char" char="&#x000b1;"/><col align="char" char="&#x000b1;"/><col align="char" char="&#x000b1;"/><col align="char" char="&#x000d7;"/></colgroup><thead><tr><th style="border:none;" align="center">electrolyte</th><th style="border:none;" align="center">cell condition</th><th style="border:none;" align="center">circuit</th><th style="border:none;" align="center" char="&#x000b1;"><italic>R</italic><sub>1</sub> [&#x003a9;]</th><th style="border:none;" align="center" char="&#x000b1;"><italic>R</italic><sub>2</sub> [&#x003a9;]</th><th style="border:none;" align="center" char="&#x000b1;"><italic>R</italic><sub>1</sub> + <italic>R</italic><sub>2</sub> [&#x003a9;]</th><th style="border:none;" align="center" char="&#x000d7;">&#x003c7;<sup><bold>2</bold></sup></th></tr></thead><tbody><tr><td rowspan="4" style="border:none;" align="left">DEGDME_HCE</td><td style="border:none;" align="left">OCV</td><td style="border:none;" align="left">R<sub>e</sub>(R<sub>1</sub>Q<sub>1</sub>)(R<sub>2</sub>Q<sub>2</sub>)Q<sub>3</sub></td><td style="border:none;" align="char" char="&#x000b1;">99&#x000a0;&#x000b1;&#x000a0;7</td><td style="border:none;" align="char" char="&#x000b1;">207&#x000a0;&#x000b1;&#x000a0;30</td><td style="border:none;" align="char" char="&#x000b1;">306&#x000a0;&#x000b1;&#x000a0;31</td><td style="border:none;" align="char" char="&#x000d7;">2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;4</sup></td></tr><tr><td style="border:none;" align="left">1&#x000a0;cycle</td><td style="border:none;" align="left">R<sub>e</sub>(R<sub>1</sub>Q<sub>1</sub>)(R<sub>2</sub>Q<sub>2</sub>)Q<sub>3</sub></td><td style="border:none;" align="char" char="&#x000b1;">37&#x000a0;&#x000b1;&#x000a0;4</td><td style="border:none;" align="char" char="&#x000b1;">45&#x000a0;&#x000b1;&#x000a0;6</td><td style="border:none;" align="char" char="&#x000b1;">82&#x000a0;&#x000b1;&#x000a0;7</td><td style="border:none;" align="char" char="&#x000d7;">8&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td></tr><tr><td style="border:none;" align="left">5&#x000a0;cycles</td><td style="border:none;" align="left">R<sub>e</sub>(R<sub>1</sub>Q<sub>1</sub>)(R<sub>2</sub>Q<sub>2</sub>)Q<sub>3</sub></td><td style="border:none;" align="char" char="&#x000b1;">30&#x000a0;&#x000b1;&#x000a0;2</td><td style="border:none;" align="char" char="&#x000b1;">50&#x000a0;&#x000b1;&#x000a0;3</td><td style="border:none;" align="char" char="&#x000b1;">79&#x000a0;&#x000b1;&#x000a0;4</td><td style="border:none;" align="char" char="&#x000d7;">7&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td></tr><tr><td style="border:none;" align="left">10&#x000a0;cycles</td><td style="border:none;" align="left">R<sub>e</sub>(R<sub>1</sub>Q<sub>1</sub>)(R<sub>2</sub>Q<sub>2</sub>)Q<sub>3</sub></td><td style="border:none;" align="char" char="&#x000b1;">28&#x000a0;&#x000b1;&#x000a0;3</td><td style="border:none;" align="char" char="&#x000b1;">60&#x000a0;&#x000b1;&#x000a0;4</td><td style="border:none;" align="char" char="&#x000b1;">88&#x000a0;&#x000b1;&#x000a0;5</td><td style="border:none;" align="char" char="&#x000d7;">7&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td></tr><tr><td rowspan="4" style="border:none;" align="left">TREGDME_HCE</td><td style="border:none;" align="left">OCV</td><td style="border:none;" align="left">R<sub>e</sub>(R<sub>1</sub>Q<sub>1</sub>)(R<sub>2</sub>Q<sub>2</sub>)Q<sub>3</sub></td><td style="border:none;" align="char" char="&#x000b1;">103&#x000a0;&#x000b1;&#x000a0;10</td><td style="border:none;" align="char" char="&#x000b1;">42&#x000a0;&#x000b1;&#x000a0;9</td><td style="border:none;" align="char" char="&#x000b1;">145&#x000a0;&#x000b1;&#x000a0;13</td><td style="border:none;" align="char" char="&#x000d7;">1&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td></tr><tr><td style="border:none;" align="left">1&#x000a0;cycle</td><td style="border:none;" align="left">R<sub>e</sub>(R<sub>1</sub>Q<sub>1</sub>)(R<sub>2</sub>Q<sub>2</sub>)Q<sub>3</sub></td><td style="border:none;" align="char" char="&#x000b1;">42&#x000a0;&#x000b1;&#x000a0;1</td><td style="border:none;" align="char" char="&#x000b1;">15&#x000a0;&#x000b1;&#x000a0;2</td><td style="border:none;" align="char" char="&#x000b1;">56&#x000a0;&#x000b1;&#x000a0;2</td><td style="border:none;" align="char" char="&#x000d7;">4&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td></tr><tr><td style="border:none;" align="left">5&#x000a0;cycles</td><td style="border:none;" align="left">R<sub>e</sub>(R<sub>1</sub>Q<sub>1</sub>)(R<sub>2</sub>Q<sub>2</sub>)Q<sub>3</sub></td><td style="border:none;" align="char" char="&#x000b1;">45&#x000a0;&#x000b1;&#x000a0;1</td><td style="border:none;" align="char" char="&#x000b1;">25&#x000a0;&#x000b1;&#x000a0;1</td><td style="border:none;" align="char" char="&#x000b1;">70&#x000a0;&#x000b1;&#x000a0;1</td><td style="border:none;" align="char" char="&#x000d7;">3&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td></tr><tr><td style="border:none;" align="left">10&#x000a0;cycles</td><td style="border:none;" align="left">R<sub>e</sub>(R<sub>1</sub>Q<sub>1</sub>)(R<sub>2</sub>Q<sub>2</sub>)Q<sub>3</sub></td><td style="border:none;" align="char" char="&#x000b1;">47&#x000a0;&#x000b1;&#x000a0;1</td><td style="border:none;" align="char" char="&#x000b1;">32&#x000a0;&#x000b1;&#x000a0;1</td><td style="border:none;" align="char" char="&#x000b1;">79&#x000a0;&#x000b1;&#x000a0;1</td><td style="border:none;" align="char" char="&#x000d7;">2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup></td></tr></tbody></table></table-wrap><p>The DEGDME_HCE and TREGDME_HCE are subsequently employed in a Li/LFP
+cell and galvanostatically cycled at the constant current rate of
+C/5 (1C = 170 mA g<sup>&#x02013;1</sup>) at room temperature, with
+the outcomes displayed in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>. The voltage profiles reported in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a (DEGDME_HCE) and <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c (TREGDME_HCE) reflect
+the response associated with the LiFePO<sub>4</sub> &#x021c4; Li +
+FePO<sub>4</sub> electrochemical process, centered at about 3.45 V
+as already described in CVs of <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>.<sup><xref ref-type="bibr" rid="ref27">27</xref>,<xref ref-type="bibr" rid="ref37">37</xref></sup> The cells show relatively limited
+polarization during the first cycle and capacity values approaching
+160 mAh g<sup>&#x02013;1</sup>, that is, about 94% of the theoretical
+value. Moreover, the Coulombic efficiency interestingly approaches
+100% during both tests, as displayed by the cycling trends in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b for DEGDME_HCE
+and in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>d for
+TREGDME_HCE, while a progressive increase of the polarization affects
+the cells after 10 cycles and leads to capacity decay upon 50 cycles,
+which is more remarkable for the former (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a) compared to the latter electrolyte (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c). Therefore, the
+cell using DEGDME_HCE (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b) exhibits a capacity retention of 63% during the 50 charge&#x02013;discharge
+cycles taken into account; instead, the one using TREGDME_HCE (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>d) holds 94% of the
+initial capacity upon the same number of cycles. This behavior can
+be ascribed to the nature of the SEI layer formed at the electrode
+surface upon cycling, which is influenced by the electrolyte composition,
+by the lithium salts content, and by the operating conditions.<sup><xref ref-type="bibr" rid="ref38">38</xref>&#x02212;<xref ref-type="bibr" rid="ref40">40</xref></sup> In particular, the higher lithium salts concentration of TREGDME_HCE
+compared to DEGDME_HCE could play a crucial role in the formation
+of a more suitable SEI in this cell, as already suggested by its application
+in a Li/O<sub>2</sub> cell studied elsewhere.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> A further reason for the different Li/LFP cell performances between
+the two solutions may be the narrower electrochemical stability window
+of DEGDME_HCE (0&#x02013;4.3 V) with respect to TREGDME_HCE (0&#x02013;4.4
+V).<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> However, the relevant increase in
+cell polarization observed using both DEGDME_HCE (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a) and TREGDME_HCE (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c) after 50 cycles
+may actually indicate the need for further optimization of the SEI
+at the electrodes surface to allow proper operation of the glyme-based
+electrolytes in a lithium&#x02013;metal cell using insertion cathodes.
+Indeed, previous literature has demonstrated that high concentrations
+of lithium salts in glyme-based electrolytes can lead to an uneven
+composition and low thickness of the SEI layer, possibly leading to
+a modest stability.<sup><xref ref-type="bibr" rid="ref41">41</xref></sup> We have demonstrated
+in a recent paper that TREGDME dissolving lithium trifluoromethanesulfonate
+(LiCF<sub>3</sub>SO<sub>3</sub>) and LiNO<sub>3</sub> in conventional
+concentrations undergoes an electrochemical optimization process in
+a Li/LFP cell by adopting a reduction step at the first discharge
+occurring around 1.5 V, i.e., a voltage value far lower than the ones
+exploited in the galvanostatic measurements reported in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> The above-mentioned reduction deals with LiNO<sub>3</sub> and actually
+leads to the formation of stable interfaces at the electrodes surface
+with a remarkable improvement of the cell performance.<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref36">36</xref></sup></p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>(a,
+c) Voltage profiles and (b, d) corresponding cycling trends
+with Coulombic efficiency (right <italic>y</italic>-axis) related
+to Li/electrolyte/LFP cells employing either (a, b) DEGDME_HCE or
+(c, d) TREGDME_HCE galvanostatically cycled at the constant current
+rate of C/5 (1C = 170 mA g<sup>&#x02013;1</sup>) at room temperature
+(25 &#x000b0;C). Voltage range, 2.7&#x02013;3.9 V.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ef1c00927_0004" id="gr4" position="float"/></fig><p>Therefore, an additional galvanostatic test was performed using
+DEGDME_HCE and TREGDME_HCE in Li/LFP cells at the constant current
+rate of C/5 by employing a voltage range between 1.2 and 3.9 V for
+the first cycle and between 2.7 and 3.9 V for the subsequent ones,
+as reported in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>. Insets in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a (DEGDME_HCE) and <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>c (TREGDME_HCE) show the voltage profile related to the first
+charge&#x02013;discharge cycle, and they reveal the evolution of a
+discharge plateau between 1.5 and 1.7 V due to the reduction of LiNO<sub>3</sub>;<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref36">36</xref></sup> the subsequent voltage profiles are reported
+in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a and c,
+respectively. The cycling trends of the above Li/LFP cells evidence
+initial capacity values approaching 160 mAh g<sup>&#x02013;1</sup> and
+Coulombic efficiency around 100% upon the first cycles for both DEGDME_HCE
+(<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b) and TREGDME_HCE
+(<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>d). However,
+the cell employing DEGDME_HCE (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b) still exhibits a certain capacity decay, despite
+retention increases from 63% to 71% compared to the analogue test
+performed without the additional reduction step (compare <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>b and <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b) upon the 50 cycles taken
+into account. Furthermore, the voltage profiles of the cell using
+DEGDME_HCE (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a) do not show the increase in cell polarization during cycling observed
+in the previous test (compare <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a and <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a), while a slope appears at the end of the charge and the
+discharge profiles after 20 cycles and becomes more relevant after
+50 cycles. The decrease of cell capacity and the appearance of the
+slope at the end of the (de)insertion processes of LiFePO<sub>4</sub> may be associated with an excessive growth of the SEI layer at the
+electrodes surface and possibly with gradual changes in cathode crystallite
+size distribution and surface free energies of the lithiated and delithiated
+phases, which lead to a change of the biphasic potential.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> Instead, the cell employing TREGDME_HCE shows
+a capacity retention increasing from 94% of the previous test (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>d) up to 97% (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>d), while the corresponding
+voltage profiles reveal only a slight slope after 50 cycles without
+any sign of polarization increase or deterioration (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>c). Therefore, we may suggest
+the additional reduction step at low voltage during the first cycle
+as an actual strategy to improve the performance of the lithium&#x02013;metal
+cell using concentrated glyme-based electrolytes with the LFP electrode,
+particularly those having a longer ether chain such as TREGDME.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>(a, c) Voltage
+profiles and (b, d) corresponding cycling trends
+with Coulombic efficiency (right <italic>y</italic>-axis) related
+to Li/electrolyte/LFP cells employing either (a, b) DEGDME_HCE or
+(c, d) TREGDME_HCE galvanostatically cycled at room temperature (25
+&#x000b0;C) at the constant current rate of C/5 (1C = 170 mA g<sup>&#x02013;1</sup>) in a voltage range between 1.2 and 3.9 V for the first cycle (inset
+in panels (a) and (c)) and between 2.7 and 3.9 V for the subsequent
+ones.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ef1c00927_0005" id="gr5" position="float"/></fig><p>In order to extend the cycle life,
+additional galvanostatic cycling
+tests were performed on Li/S and Li/LFP cells by adopting the most
+suitable operative conditions according to the data reported in this
+work. Indeed, <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref> reports the cycling trends of a Li/DEGDME_HCE/S:Sn 80:20 cell (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a) operating at 35
+&#x000b0;C and of a Li/TREGDME_HCE/LFP cell (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>b) working at room temperature (25 &#x000b0;C),
+the latter by exploiting the initial reduction step at low voltage
+(1.2 V). It is worth mentioning that the Li/S cell adopted an electrolyte/sulfur
+ratio limited to 20 &#x003bc;L mg<sup>&#x02013;1</sup> in order to reduce
+the excess of electrolyte and, thus, to increase the practical energy
+density of the device.<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> As observed in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>, both cells exhibit
+notable performances, long cycle life, and Coulombic efficiency around
+100% even by cycling at higher current rates, that is, at 1C for the
+Li/S cell (1675 mA g<sub>S</sub><sup>&#x02013;1</sup>) and C/3 for
+the Li/LFP one (1C = 170 mA g<sup>&#x02013;1</sup>). In particular,
+the Li/S cell delivers 140 cycles with an initial capacity upon activation
+of almost 750 mAh g<sub>S</sub><sup>&#x02013;1</sup> retained at the
+70% at the end of the test (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a), while the Li/LFP cell displays a capacity of 152
+mAh g<sup>&#x02013;1</sup> (89% of the theoretical value) retained
+at the 85% after 100 charge/discharge cycles (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>b). Despite the lower delivered capacity
+values with respect to the tests performed at C/5 (see <xref rid="fig2" ref-type="fig">Figures <xref rid="fig2" ref-type="fig">2</xref></xref> and <xref rid="fig5" ref-type="fig">5</xref>), as expected by the employment of higher currens, these tests further
+evidence that the optimal tuning of the working conditions can lead
+to the extension of the cycle life and to a notable as well as steady
+delivered capacity values of Li/S and Li/LFP cells with lowly flammable
+concentrated glyme-based electrolytes.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Cycling trends with Coulombic
+efficiency (right <italic>y</italic>-axis) related to (a) Li/DEGDME_HCE/S:Sn
+80:20 and (b) Li/TREGDME_HCE/LFP
+cells galvanostatically cycled at 1C (1675 mA g<sub>S</sub><sup>&#x02013;1</sup>) and C/3 (1C = 170 mA g<sup>&#x02013;1</sup>), respectively. The
+Li/S cell was cycled at 35 &#x000b0;C by exploiting an electrolyte/sulfur
+ratio of 20 &#x003bc;L mg<sup>&#x02013;1</sup> and a 1.6&#x02013;2.8 V
+voltage range. The Li/LFP cell was cycled at room temperature (25
+&#x000b0;C) by employing a 1.2&#x02013;3.9 V voltage range for the first
+cycle and voltage limits of 2.7 and 3.9 V for the subsequent ones.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ef1c00927_0006" id="gr6" position="float"/></fig></sec><sec id="sec4"><title>Conclusions</title><p>Glyme-based electrolytes
+with two different chain lengths employing
+high lithium salts concentrations (indicated as DEGDME_HCE and TREGDME_HCE)
+are studied in either Li/S or Li/LFP cells to explore the applicability
+of this class of solutions in a safe and high-performance Li-metal
+battery. The CV tests performed on the Li/S cells revealed for both
+electrolytes a reversible electrochemical process centered at about
+2.1 and 2.4 V and an activation process leading to the decrease of
+the impedance from values of the order of 100 &#x003a9; to about 10
+&#x003a9; upon cycling. Furthermore, galvanostatic measurements of the
+Li/S cells carried out using the constant current rate of C/5 at 25
+and 35 &#x000b0;C indicated for DEGDME_HCE capacities of about 800 and
+1300 mAh g<sub>S</sub><sup>&#x02013;1</sup>, respectively, while lower
+values of about 340 and 890 mAh g<sub>S</sub><sup>&#x02013;1</sup> were
+obtained for TREGDME_HCE. The more relevant performances of the Li/S
+cells using DEGDME_HCE compared to TREGDME_HCE were attributed to
+faster charge transfer kinetics in the former electrolyte compared
+to the latter. Meanwhile, the lithium cells employing the LFP electrode
+suggested the two solutions as possible electrolyte media for the
+reversible (de)insertion process at about 3.45 V; however, the tests
+indicated possible issues ascribed to the SEI layer formed at the
+electrodes surface, leading to a polarization increase by cell cycling.
+These issues were relevantly mitigated, in particular when using TREGDME_HCE,
+by adopting a first discharge of the cell extended down to 1.2 V in
+order to promote a further reduction of the LiNO<sub>3</sub> additive
+and the consolidation of a suitable SEI layer. Therefore, the above
+Li/LFP cells delivered at C/5 rate an initial capacity of about 160
+mAh g<sup>&#x02013;1</sup> (94% of the theoretical value), an efficiency
+approaching 100%, and a capacity retention of 71% for DEGDME_HCE and
+97% for TREGDME_HCE upon 50 charge/discharge cycles. Furthermore,
+Li/DEGDME_HCE/S and Li/TREGDME_HCE/LFP cells operating with the most
+adequate conditions have shown satisfactory performances at current
+rates increased to 1C and C/3, respectively. The former cell delivered
+750 mAh g<sub>S</sub><sup>&#x02013;1</sup> with capacity retention
+of 70% over 140 cycles at 35 &#x000b0;C, while the latter exhibited about
+150 mAh g<sup>&#x02013;1</sup> with a retention of 85% after 100 cycles
+at 25 &#x000b0;C by exploiting the initial reduction step at 1.2 V.</p><p>In summary, the findings of this work suggested the possible use
+of concentrated solutions based on end-capped glymes in efficient
+lithium&#x02013;metal cells by careful tuning of (i) the ether chain
+length, (ii) the salt nature and concentration, (iii) the chemistry
+of the cathode material, and (iv) the operative conditions, including
+temperature and voltage limits. In addition, the intrinsically lower
+flammability of the concentrated glymes reported herein compared to
+the common electrolytes used in cell is expected to allow the development
+of a lithium&#x02013;metal battery with high energy and acceptable
+safety content.</p></sec></body><back><notes notes-type="COI-statement" id="NOTES-d7e1900-autogenerated"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This project/work has
+received funding from the European Union&#x02019;s
+Horizon 2020 research and innovation programme Graphene Flagship under
+grant agreement no. 881603. The authors are also thankful for the
+grant &#x0201c;Fondo di Ateneo per la Ricerca Locale (FAR) 2019&#x02033;,
+University of Ferrara, and the collaboration project &#x0201c;Accordo
+di Collaborazione Quadro 2015&#x0201d; between the University of Ferrara
+(Department of Chemical and Pharmaceutical Sciences) and the Sapienza
+University of Rome (Department of Chemistry).</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Abraham</surname><given-names>K. M. M.</given-names></name>
+<article-title>Prospects
+and Limits of Energy Storage in Batteries</article-title>. <source>J.
+Phys. Chem. Lett.</source>
+<year>2015</year>, <volume>6</volume> (<issue>5</issue>), <fpage>830</fpage>&#x02013;<lpage>844</lpage>. <pub-id pub-id-type="doi">10.1021/jz5026273</pub-id>.<pub-id pub-id-type="pmid">26262660</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Lu</surname><given-names>L.</given-names></name>; <name><surname>Han</surname><given-names>X.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Hua</surname><given-names>J.</given-names></name>; <name><surname>Ouyang</surname><given-names>M.</given-names></name>
+<article-title>A Review on the Key
+Issues for Lithium-Ion Battery Management in Electric Vehicles</article-title>. <source>J. Power Sources</source>
+<year>2013</year>, <volume>226</volume>, <fpage>272</fpage>&#x02013;<lpage>288</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2012.10.060</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Di
+Lecce</surname><given-names>D.</given-names></name>; <name><surname>Verrelli</surname><given-names>R.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>
+<article-title>Lithium-Ion Batteries
+for Sustainable Energy Storage: Recent Advances towards New Cell Configurations</article-title>. <source>Green Chem.</source>
+<year>2017</year>, <volume>19</volume> (<issue>15</issue>), <fpage>3442</fpage>&#x02013;<lpage>3467</lpage>. <pub-id pub-id-type="doi">10.1039/C7GC01328K</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Scrosati</surname><given-names>B.</given-names></name>; <name><surname>Garche</surname><given-names>J.</given-names></name>
+<article-title>Lithium Batteries:
+Status, Prospects and Future</article-title>. <source>J. Power Sources</source>
+<year>2010</year>, <volume>195</volume> (<issue>9</issue>), <fpage>2419</fpage>&#x02013;<lpage>2430</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2009.11.048</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Varzi</surname><given-names>A.</given-names></name>; <name><surname>Thanner</surname><given-names>K.</given-names></name>; <name><surname>Scipioni</surname><given-names>R.</given-names></name>; <name><surname>Di Lecce</surname><given-names>D.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>; <name><surname>D&#x000f6;rfler</surname><given-names>S.</given-names></name>; <name><surname>Altheus</surname><given-names>H.</given-names></name>; <name><surname>Kaskel</surname><given-names>S.</given-names></name>; <name><surname>Prehal</surname><given-names>C.</given-names></name>; <name><surname>Freunberger</surname><given-names>S. A.</given-names></name>
+<article-title>Current Status and Future Perspectives of Lithium Metal
+Batteries</article-title>. <source>J. Power Sources</source>
+<year>2020</year>, <volume>480</volume>, <fpage>228803</fpage><pub-id pub-id-type="doi">10.1016/j.jpowsour.2020.228803</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Goodenough</surname><given-names>J. B.</given-names></name>; <name><surname>Kim</surname><given-names>Y.</given-names></name>
+<article-title>Challenges for Rechargeable
+Li Batteries</article-title>. <source>Chem.
+Mater.</source>
+<year>2010</year>, <volume>22</volume> (<issue>3</issue>), <fpage>587</fpage>&#x02013;<lpage>603</lpage>. <pub-id pub-id-type="doi">10.1021/cm901452z</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Carbone</surname><given-names>L.</given-names></name>; <name><surname>Gobet</surname><given-names>M.</given-names></name>; <name><surname>Peng</surname><given-names>J.</given-names></name>; <name><surname>Devany</surname><given-names>M.</given-names></name>; <name><surname>Scrosati</surname><given-names>B.</given-names></name>; <name><surname>Greenbaum</surname><given-names>S.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>
+<article-title>Polyethylene Glycol Dimethyl Ether
+(PEGDME)-Based Electrolyte for Lithium Metal Battery</article-title>. <source>J. Power Sources</source>
+<year>2015</year>, <volume>299</volume>, <fpage>460</fpage>&#x02013;<lpage>464</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2015.08.090</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Zhang</surname><given-names>S. S.</given-names></name>
+<article-title>Role of
+LiNO<sub>3</sub> in Rechargeable Lithium/Sulfur Battery</article-title>. <source>Electrochim. Acta</source>
+<year>2012</year>, <volume>70</volume>, <fpage>344</fpage>&#x02013;<lpage>348</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2012.03.081</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Jozwiuk</surname><given-names>A.</given-names></name>; <name><surname>Berkes</surname><given-names>B. B.</given-names></name>; <name><surname>Wei&#x000df;</surname><given-names>T.</given-names></name>; <name><surname>Sommer</surname><given-names>H.</given-names></name>; <name><surname>Janek</surname><given-names>J.</given-names></name>; <name><surname>Brezesinski</surname><given-names>T.</given-names></name>
+<article-title>The Critical
+Role of Lithium Nitrate in the Gas Evolution
+of Lithium&#x02013;sulfur Batteries</article-title>. <source>Energy Environ.
+Sci.</source>
+<year>2016</year>, <volume>9</volume> (<issue>8</issue>), <fpage>2603</fpage>&#x02013;<lpage>2608</lpage>. <pub-id pub-id-type="doi">10.1039/C6EE00789A</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Derrien</surname><given-names>G.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>; <name><surname>Sacchetti</surname><given-names>S.</given-names></name>; <name><surname>Panero</surname><given-names>S.</given-names></name>
+<article-title>Nanocomposite PEO-Based
+Polymer Electrolyte Using a Highly Porous, Super Acid Zirconia Filler</article-title>. <source>Solid State Ionics</source>
+<year>2009</year>, <volume>180</volume>, <fpage>1267</fpage>&#x02013;<lpage>1271</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssi.2009.07.006</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Wei</surname><given-names>S.</given-names></name>; <name><surname>Inoue</surname><given-names>S.</given-names></name>; <name><surname>Di Lecce</surname><given-names>D.</given-names></name>; <name><surname>Li</surname><given-names>Z.</given-names></name>; <name><surname>Tominaga</surname><given-names>Y.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>
+<article-title>Towards a High-Performance Lithium-Metal Battery with
+Glyme Solution and an Olivine Cathode</article-title>. <source>ChemElectroChem</source>
+<year>2020</year>, <volume>7</volume> (<issue>11</issue>), <fpage>2344</fpage>&#x02013;<lpage>2344</lpage>. <pub-id pub-id-type="doi">10.1002/celc.202000554</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Carbone</surname><given-names>L.</given-names></name>; <name><surname>Gobet</surname><given-names>M.</given-names></name>; <name><surname>Peng</surname><given-names>J.</given-names></name>; <name><surname>Devany</surname><given-names>M.</given-names></name>; <name><surname>Scrosati</surname><given-names>B.</given-names></name>; <name><surname>Greenbaum</surname><given-names>S.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>
+<article-title>Comparative Study of Ether-Based
+Electrolytes for Application in Lithium-Sulfur Battery</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2015</year>, <volume>7</volume> (<issue>25</issue>), <fpage>13859</fpage>&#x02013;<lpage>13865</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.5b02160</pub-id>.<pub-id pub-id-type="pmid">26057152</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Tobishima</surname><given-names>S.</given-names></name>; <name><surname>Morimoto</surname><given-names>H.</given-names></name>; <name><surname>Aoki</surname><given-names>M.</given-names></name>; <name><surname>Saito</surname><given-names>Y.</given-names></name>; <name><surname>Inose</surname><given-names>T.</given-names></name>; <name><surname>Fukumoto</surname><given-names>T.</given-names></name>; <name><surname>Kuryu</surname><given-names>T.</given-names></name>
+<article-title>Glyme-Based
+Nonaqueous Electrolytes
+for Rechargeable Lithium Cells</article-title>. <source>Electrochim.
+Acta</source>
+<year>2004</year>, <volume>49</volume> (<issue>6</issue>), <fpage>979</fpage>&#x02013;<lpage>987</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2003.10.009</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>Zarrabeitia</surname><given-names>M.</given-names></name>; <name><surname>Qin</surname><given-names>B.</given-names></name>; <name><surname>Elia</surname><given-names>G. A.</given-names></name>; <name><surname>Passerini</surname><given-names>S.</given-names></name>
+<article-title>Cathode&#x02013;Electrolyte
+Interphase in a LiTFSI/Tetraglyme Electrolyte Promoting the Cyclability
+of V<sub>2</sub>O<sub>5</sub></article-title>. <source>ACS Appl. Mater.
+Interfaces</source>
+<year>2020</year>, <volume>12</volume> (<issue>49</issue>), <fpage>54782</fpage>&#x02013;<lpage>54790</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.0c16727</pub-id>.<pub-id pub-id-type="pmid">33216545</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Ben&#x000ed;tez</surname><given-names>A.</given-names></name>; <name><surname>Marangon</surname><given-names>V.</given-names></name>; <name><surname>Hern&#x000e1;ndez-Rentero</surname><given-names>C.</given-names></name>; <name><surname>Caballero</surname><given-names>&#x000c1;.</given-names></name>; <name><surname>Morales</surname><given-names>J.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>
+<article-title>Porous Cr<sub>2</sub>O<sub>3</sub>@C Composite Derived from Metal Organic Framework in Efficient Semi-Liquid
+Lithium-Sulfur Battery</article-title>. <source>Mater. Chem. Phys.</source>
+<year>2020</year>, <volume>255</volume>, <fpage>123484</fpage><pub-id pub-id-type="doi">10.1016/j.matchemphys.2020.123484</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Xie</surname><given-names>J.-D.</given-names></name>; <name><surname>Liu</surname><given-names>W.-J.</given-names></name>; <name><surname>Li</surname><given-names>C.</given-names></name>; <name><surname>Patra</surname><given-names>J.</given-names></name>; <name><surname>Gandomi</surname><given-names>Y. A.</given-names></name>; <name><surname>Dong</surname><given-names>Q.-F.</given-names></name>; <name><surname>Chang</surname><given-names>J.-K.</given-names></name>
+<article-title>Superior
+Coulombic Efficiency of
+Lithium Anodes for Rechargeable Batteries Utilizing High-Concentration
+Ether Electrolytes</article-title>. <source>Electrochim. Acta</source>
+<year>2019</year>, <volume>319</volume>, <fpage>625</fpage>&#x02013;<lpage>633</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2019.07.020</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Adams</surname><given-names>B. D.</given-names></name>; <name><surname>Carino</surname><given-names>E. V.</given-names></name>; <name><surname>Connell</surname><given-names>J. G.</given-names></name>; <name><surname>Han</surname><given-names>K. S.</given-names></name>; <name><surname>Cao</surname><given-names>R.</given-names></name>; <name><surname>Chen</surname><given-names>J.</given-names></name>; <name><surname>Zheng</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>Q.</given-names></name>; <name><surname>Mueller</surname><given-names>K. T.</given-names></name>; <name><surname>Henderson</surname><given-names>W. A.</given-names></name>; <name><surname>Zhang</surname><given-names>J.-G.</given-names></name>
+<article-title>Long Term Stability
+of Li-S Batteries
+Using High Concentration Lithium Nitrate Electrolytes</article-title>. <source>Nano Energy</source>
+<year>2017</year>, <volume>40</volume>, <fpage>607</fpage>&#x02013;<lpage>617</lpage>. <pub-id pub-id-type="doi">10.1016/j.nanoen.2017.09.015</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Ren</surname><given-names>X.</given-names></name>; <name><surname>Zou</surname><given-names>L.</given-names></name>; <name><surname>Cao</surname><given-names>X.</given-names></name>; <name><surname>Engelhard</surname><given-names>M. H.</given-names></name>; <name><surname>Liu</surname><given-names>W.</given-names></name>; <name><surname>Burton</surname><given-names>S. D.</given-names></name>; <name><surname>Lee</surname><given-names>H.</given-names></name>; <name><surname>Niu</surname><given-names>C.</given-names></name>; <name><surname>Matthews</surname><given-names>B. E.</given-names></name>; <name><surname>Zhu</surname><given-names>Z.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Arey</surname><given-names>B. W.</given-names></name>; <name><surname>Xiao</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>J.-G.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>
+<article-title>Enabling High-Voltage Lithium-Metal
+Batteries under Practical Conditions</article-title>. <source>Joule</source>
+<year>2019</year>, <volume>3</volume> (<issue>7</issue>), <fpage>1662</fpage>&#x02013;<lpage>1676</lpage>. <pub-id pub-id-type="doi">10.1016/j.joule.2019.05.006</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Yamada</surname><given-names>Y.</given-names></name>; <name><surname>Yamada</surname><given-names>A.</given-names></name>
+<article-title>Review&#x02014;Superconcentrated Electrolytes for Lithium
+Batteries</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2015</year>, <volume>162</volume> (<issue>14</issue>), <fpage>A2406</fpage>&#x02013;<lpage>A2423</lpage>. <pub-id pub-id-type="doi">10.1149/2.0041514jes</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Marangon</surname><given-names>V.</given-names></name>; <name><surname>Hernandez-Rentero</surname><given-names>C.</given-names></name>; <name><surname>Levchenko</surname><given-names>S.</given-names></name>; <name><surname>Bianchini</surname><given-names>G.</given-names></name>; <name><surname>Spagnolo</surname><given-names>D.</given-names></name>; <name><surname>Caballero</surname><given-names>A.</given-names></name>; <name><surname>Morales</surname><given-names>J.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>
+<article-title>Lithium&#x02013;Oxygen
+Battery Exploiting Highly Concentrated Glyme-Based Electrolytes</article-title>. <source>ACS Appl. Energy Mater.</source>
+<year>2020</year>, <volume>3</volume> (<issue>12</issue>), <fpage>12263</fpage>&#x02013;<lpage>12275</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.0c02331</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Aurbach</surname><given-names>D.</given-names></name>
+<article-title>Review of
+Selected Electrode&#x02013;solution Interactions Which Determine the
+Performance of Li and Li Ion Batteries</article-title>. <source>J. Power
+Sources</source>
+<year>2000</year>, <volume>89</volume> (<issue>2</issue>), <fpage>206</fpage>&#x02013;<lpage>218</lpage>. <pub-id pub-id-type="doi">10.1016/S0378-7753(00)00431-6</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Liu</surname><given-names>Q.</given-names></name>; <name><surname>Cresce</surname><given-names>A.</given-names></name>; <name><surname>Schroeder</surname><given-names>M.</given-names></name>; <name><surname>Xu</surname><given-names>K.</given-names></name>; <name><surname>Mu</surname><given-names>D.</given-names></name>; <name><surname>Wu</surname><given-names>B.</given-names></name>; <name><surname>Shi</surname><given-names>L.</given-names></name>; <name><surname>Wu</surname><given-names>F.</given-names></name>
+<article-title>Insight on Lithium Metal Anode Interphasial
+Chemistry: Reduction Mechanism of Cyclic Ether Solvent and SEI Film
+Formation</article-title>. <source>Energy Storage Mater.</source>
+<year>2019</year>, <volume>17</volume>, <fpage>366</fpage>&#x02013;<lpage>373</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2018.09.024</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Walu&#x0015b;</surname><given-names>S.</given-names></name>; <name><surname>Barchasz</surname><given-names>C.</given-names></name>; <name><surname>Bouchet</surname><given-names>R.</given-names></name>; <name><surname>Lepr&#x000ea;tre</surname><given-names>J.-C.</given-names></name>; <name><surname>Colin</surname><given-names>J.-F.</given-names></name>; <name><surname>Martin</surname><given-names>J.-F.</given-names></name>; <name><surname>Elka&#x000ef;m</surname><given-names>E.</given-names></name>; <name><surname>Baehtz</surname><given-names>C.</given-names></name>; <name><surname>Alloin</surname><given-names>F.</given-names></name>
+<article-title>Lithium/Sulfur Batteries Upon Cycling:
+Structural Modifications and Species Quantification by In Situ and
+Operando X-Ray Diffraction Spectroscopy</article-title>. <source>Adv.
+Energy Mater.</source>
+<year>2015</year>, <volume>5</volume> (<issue>16</issue>), <fpage>1500165</fpage><pub-id pub-id-type="doi">10.1002/aenm.201500165</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Di
+Lecce</surname><given-names>D.</given-names></name>; <name><surname>Marangon</surname><given-names>V.</given-names></name>; <name><surname>Du</surname><given-names>W.</given-names></name>; <name><surname>Brett</surname><given-names>D. J. L.</given-names></name>; <name><surname>Shearing</surname><given-names>P. R.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>
+<article-title>The Role of Synthesis Pathway on
+the Microstructural Characteristics of Sulfur-Carbon Composites: X-Ray
+Imaging and Electrochemistry in Lithium Battery</article-title>. <source>J. Power Sources</source>
+<year>2020</year>, <volume>472</volume>, <fpage>228424</fpage><pub-id pub-id-type="doi">10.1016/j.jpowsour.2020.228424</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Hern&#x000e1;ndez-Rentero</surname><given-names>C.</given-names></name>; <name><surname>Marangon</surname><given-names>V.</given-names></name>; <name><surname>Olivares-Mar&#x000ed;n</surname><given-names>M.</given-names></name>; <name><surname>G&#x000f3;mez-Serrano</surname><given-names>V.</given-names></name>; <name><surname>Caballero</surname><given-names>&#x000c1;.</given-names></name>; <name><surname>Morales</surname><given-names>J.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>
+<article-title>Alternative Lithium-Ion
+Battery Using Biomass-Derived Carbons as Environmentally Sustainable
+Anode</article-title>. <source>J. Colloid Interface Sci.</source>
+<year>2020</year>, <volume>573</volume>, <fpage>396</fpage>&#x02013;<lpage>408</lpage>. <pub-id pub-id-type="doi">10.1016/j.jcis.2020.03.092</pub-id>.<pub-id pub-id-type="pmid">32304949</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Marangon</surname><given-names>V.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>
+<article-title>Sulfur Loaded by Nanometric
+Tin as a New Electrode
+for High-Performance Lithium/Sulfur Batteries</article-title>. <source>Energy Technol.</source>
+<year>2019</year>, <volume>7</volume> (<issue>12</issue>), <fpage>1900081</fpage><pub-id pub-id-type="doi">10.1002/ente.201900081</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Brutti</surname><given-names>S.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>; <name><surname>Scrosati</surname><given-names>B.</given-names></name>; <name><surname>Lin</surname><given-names>C.-Y.</given-names></name>; <name><surname>Wu</surname><given-names>H.</given-names></name>; <name><surname>Hsieh</surname><given-names>H.-W.</given-names></name>
+<article-title>A High Power Sn&#x02013;C/C&#x02013;LiFePO<sub>4</sub> Lithium Ion Battery</article-title>. <source>J. Power Sources</source>
+<year>2012</year>, <volume>217</volume>, <fpage>72</fpage>&#x02013;<lpage>76</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2012.05.102</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Boukamp</surname><given-names>B.</given-names></name>
+<article-title>A Nonlinear
+Least Squares Fit Procedure for Analysis of Immittance Data of Electrochemical
+Systems</article-title>. <source>Solid State Ionics</source>
+<year>1986</year>, <volume>20</volume> (<issue>1</issue>), <fpage>31</fpage>&#x02013;<lpage>44</lpage>. <pub-id pub-id-type="doi">10.1016/0167-2738(86)90031-7</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Boukamp</surname><given-names>B. A.</given-names></name>
+<article-title>A Package
+for Impedance/Admittance Data Analysis</article-title>. <source>Solid
+State Ionics</source>
+<year>1986</year>, <volume>18&#x02013;19</volume>, <fpage>136</fpage>&#x02013;<lpage>140</lpage>. <pub-id pub-id-type="doi">10.1016/0167-2738(86)90100-1</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Marangon</surname><given-names>V.</given-names></name>; <name><surname>Di Lecce</surname><given-names>D.</given-names></name>; <name><surname>Orsatti</surname><given-names>F.</given-names></name>; <name><surname>Brett</surname><given-names>D. J. L.</given-names></name>; <name><surname>Shearing</surname><given-names>P. R.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>
+<article-title>Investigating High-Performance Sulfur&#x02013;metal
+Nanocomposites for Lithium Batteries</article-title>. <source>Sustain.
+Energy Fuels</source>
+<year>2020</year>, <volume>4</volume> (<issue>6</issue>), <fpage>2907</fpage>&#x02013;<lpage>2923</lpage>. <pub-id pub-id-type="doi">10.1039/D0SE00134A</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Riadigos</surname><given-names>C. F.</given-names></name>; <name><surname>Iglesias</surname><given-names>R.</given-names></name>; <name><surname>Rivas</surname><given-names>M. A.</given-names></name>; <name><surname>Iglesias</surname><given-names>T. P.</given-names></name>
+<article-title>Permittivity and
+Density of the Systems (Monoglyme, Diglyme, Triglyme, or Tetraglyme+n-Heptane)
+at Several Temperatures</article-title>. <source>J. Chem. Thermodyn.</source>
+<year>2011</year>, <volume>43</volume> (<issue>3</issue>), <fpage>275</fpage>&#x02013;<lpage>283</lpage>. <pub-id pub-id-type="doi">10.1016/j.jct.2010.09.008</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Barchasz</surname><given-names>C.</given-names></name>; <name><surname>Molton</surname><given-names>F.</given-names></name>; <name><surname>Duboc</surname><given-names>C.</given-names></name>; <name><surname>Lepr&#x000ea;tre</surname><given-names>J.-C.</given-names></name>; <name><surname>Patoux</surname><given-names>S.</given-names></name>; <name><surname>Alloin</surname><given-names>F.</given-names></name>
+<article-title>Lithium/Sulfur Cell Discharge Mechanism:
+An Original Approach for Intermediate Species Identification</article-title>. <source>Anal. Chem.</source>
+<year>2012</year>, <volume>84</volume> (<issue>9</issue>), <fpage>3973</fpage>&#x02013;<lpage>3980</lpage>. <pub-id pub-id-type="doi">10.1021/ac2032244</pub-id>.<pub-id pub-id-type="pmid">22482872</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Yoshida</surname><given-names>K.</given-names></name>; <name><surname>Tsuchiya</surname><given-names>M.</given-names></name>; <name><surname>Tachikawa</surname><given-names>N.</given-names></name>; <name><surname>Dokko</surname><given-names>K.</given-names></name>; <name><surname>Watanabe</surname><given-names>M.</given-names></name>
+<article-title>Change from
+Glyme Solutions to Quasi-Ionic Liquids for Binary Mixtures Consisting
+of Lithium Bis(Trifluoromethanesulfonyl)Amide and Glymes</article-title>. <source>J. Phys. Chem. C</source>
+<year>2011</year>, <volume>115</volume> (<issue>37</issue>), <fpage>18384</fpage>&#x02013;<lpage>18394</lpage>. <pub-id pub-id-type="doi">10.1021/jp206881t</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>Shen</surname><given-names>C.</given-names></name>; <name><surname>Gao</surname><given-names>N.</given-names></name>; <name><surname>Hou</surname><given-names>Q.</given-names></name>; <name><surname>Song</surname><given-names>F.</given-names></name>; <name><surname>Tian</surname><given-names>X.</given-names></name>; <name><surname>He</surname><given-names>Y.</given-names></name>; <name><surname>Huang</surname><given-names>J.</given-names></name>; <name><surname>Fang</surname><given-names>Z.</given-names></name>; <name><surname>Xie</surname><given-names>K.</given-names></name>
+<article-title>Concentrated Electrolytes Based on
+Dual Salts of LiFSI and LiODFB
+for Lithium-Metal Battery</article-title>. <source>Electrochim. Acta</source>
+<year>2018</year>, <volume>289</volume>, <fpage>422</fpage>&#x02013;<lpage>427</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2018.09.085</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Liu</surname><given-names>P.</given-names></name>; <name><surname>Ma</surname><given-names>Q.</given-names></name>; <name><surname>Fang</surname><given-names>Z.</given-names></name>; <name><surname>Ma</surname><given-names>J.</given-names></name>; <name><surname>Hu</surname><given-names>Y.-S.</given-names></name>; <name><surname>Zhou</surname><given-names>Z.-B.</given-names></name>; <name><surname>Li</surname><given-names>H.</given-names></name>; <name><surname>Huang</surname><given-names>X.-J.</given-names></name>; <name><surname>Chen</surname><given-names>L.-Q.</given-names></name>
+<article-title>Concentrated Dual-Salt Electrolytes
+for Improving the Cycling Stability of Lithium Metal Anodes</article-title>. <source>Chin. Phys. B</source>
+<year>2016</year>, <volume>25</volume> (<issue>7</issue>), <fpage>078203</fpage><pub-id pub-id-type="doi">10.1088/1674-1056/25/7/078203</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Carbone</surname><given-names>L.</given-names></name>; <name><surname>Di Lecce</surname><given-names>D.</given-names></name>; <name><surname>Gobet</surname><given-names>M.</given-names></name>; <name><surname>Munoz</surname><given-names>S.</given-names></name>; <name><surname>Devany</surname><given-names>M.</given-names></name>; <name><surname>Greenbaum</surname><given-names>S.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>
+<article-title>Relevant Features of
+a Triethylene
+Glycol Dimethyl Ether-Based Electrolyte for Application in Lithium
+Battery</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2017</year>, <volume>9</volume> (<issue>20</issue>), <fpage>17085</fpage>&#x02013;<lpage>17095</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.7b03235</pub-id>.<pub-id pub-id-type="pmid">28440629</pub-id></mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Marangon</surname><given-names>V.</given-names></name>; <name><surname>Tominaga</surname><given-names>Y.</given-names></name>; <name><surname>Hassoun</surname><given-names>J.</given-names></name>
+<article-title>An Alternative Composite Polymer
+Electrolyte for High Performances Lithium Battery</article-title>. <source>J. Power Sources</source>
+<year>2020</year>, <volume>449</volume>, <fpage>227508</fpage><pub-id pub-id-type="doi">10.1016/j.jpowsour.2019.227508</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Camacho-Forero</surname><given-names>L. E.</given-names></name>; <name><surname>Smith</surname><given-names>T. W.</given-names></name>; <name><surname>Balbuena</surname><given-names>P. B.</given-names></name>
+<article-title>Effects of High and Low Salt Concentration
+in Electrolytes at Lithium&#x02013;Metal Anode Surfaces</article-title>. <source>J. Phys. Chem. C</source>
+<year>2017</year>, <volume>121</volume> (<issue>1</issue>), <fpage>182</fpage>&#x02013;<lpage>194</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.6b10774</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Yamada</surname><given-names>Y.</given-names></name>
+<article-title>Developing
+New Functionalities of Superconcentrated Electrolytes for Lithium-Ion
+Batteries</article-title>. <source>Electrochemistry</source>
+<year>2017</year>, <volume>85</volume> (<issue>9</issue>), <fpage>559</fpage>&#x02013;<lpage>565</lpage>. <pub-id pub-id-type="doi">10.5796/electrochemistry.85.559</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Winter</surname><given-names>M.</given-names></name>
+<article-title>The Solid
+Electrolyte Interphase &#x02013; The Most Important and the Least Understood
+Solid Electrolyte in Rechargeable Li Batteries</article-title>. <source>Z. Phys. Chem.</source>
+<year>2009</year>, <volume>223</volume> (<issue>10&#x02013;11</issue>), <fpage>1395</fpage>&#x02013;<lpage>1406</lpage>. <pub-id pub-id-type="doi">10.1524/zpch.2009.6086</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Ruggeri</surname><given-names>I.</given-names></name>; <name><surname>La Monaca</surname><given-names>A.</given-names></name>; <name><surname>De Giorgio</surname><given-names>F.</given-names></name>; <name><surname>Soavi</surname><given-names>F.</given-names></name>; <name><surname>Arbizzani</surname><given-names>C.</given-names></name>; <name><surname>Berbenni</surname><given-names>V.</given-names></name>; <name><surname>Ferrara</surname><given-names>C.</given-names></name>; <name><surname>Mustarelli</surname><given-names>P.</given-names></name>
+<article-title>Correlating
+Structure and Properties of Super-Concentrated Electrolyte Solutions: <sup>17</sup>O NMR and Electrochemical Characterization</article-title>. <source>ChemElectroChem</source>
+<year>2019</year>, <volume>6</volume> (<issue>15</issue>), <fpage>4002</fpage>&#x02013;<lpage>4009</lpage>. <pub-id pub-id-type="doi">10.1002/celc.201900829</pub-id>.</mixed-citation></ref></ref-list></back></article>

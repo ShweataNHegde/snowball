@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig2">
+ <label>Figure 2</label>
+ <caption>
+  <p>Electrochemists in training</p>
+  <p>Students from (A) the Oregon Center for Electrochemistry’s founding cohort in 2020, collecting voltammetry data as part of the laboratory course, and (B) the first cohort of students to take part in laboratory activities as part of Prof. Ardo’s CHEM 248 Electrochemistry course in Winter Quarter, 2017.</p>
+ </caption>
+ <graphic xlink:href="gr2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

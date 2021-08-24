@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>C 1s fwhm values and at % composition of nitrogen-free and plasma treated carbon electrodes obtained from XPS analysis.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Sample</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>O/C</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>N/C</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>C1s fwhm (eV)</bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">anC
+     <italic>
+      <sup>
+       <italic>a</italic>
+      </sup>
+     </italic>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5.3%</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">–</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.6</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">anC:Np5</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">11%</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">16%</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.2</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">anC:Np10</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">11%</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">17%</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.4</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">anC:Np20</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">14%</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">17%</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.4</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>a—Data from Behan et al. (
+    <xref rid="B2" ref-type="bibr">2018</xref>)
+   </italic>.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

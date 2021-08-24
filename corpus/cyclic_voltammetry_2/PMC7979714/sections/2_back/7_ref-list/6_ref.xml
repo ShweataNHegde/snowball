@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tian</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Carbon nitride supported Fe2 cluster catalysts with superior performance for alkene epoxidation</article-title>
+  <source>Nat. Commun.</source>
+  <year>2018</year>
+  <volume>9</volume>
+  <fpage>2353</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41467-018-04845-x</pub-id>
+  <?supplied-pmid 29907774?>
+  <pub-id pub-id-type="pmid">29907774</pub-id>
+ </element-citation>
+</ref>

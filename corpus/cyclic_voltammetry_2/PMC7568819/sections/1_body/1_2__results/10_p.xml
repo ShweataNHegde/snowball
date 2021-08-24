@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>These cells achieved a very large power density in the Ragone plot in 
+ <xref ref-type="fig" rid="fig5">Figure 5(f)</xref>. This is despite the relatively large cell resistance (8 for coated YP-50 cell and 4 for coated N-graphene cell) evident from the voltage discontinuities (Figures 
+ <xref ref-type="fig" rid="fig5">5(b)</xref> and 
+ <xref ref-type="fig" rid="fig5">5(e)</xref>) during polarity reversal in galvanostatic charging/discharging. Based on the weight of the active electrode material, the coated N-graphene cell having a specific capacitance of 417 mA h g
+ <sup>−1</sup> at a charge/discharge rate of 1 A g
+ <sup>−1</sup> delivers a specific power density of 237 kW kg
+ <sup>−1</sup> and a specific energy density of 127 Wh kg
+ <sup>−1</sup>. Due to the high specific capacitance of our N-doped graphene and the high electrochemical window, the coated N-graphene cell shows superior than other reported carbon-based aqueous and nonaqueous supercapacitors (Table 
+ <xref ref-type="supplementary-material" rid="supplementary-material-1">S4</xref>). For the YP-50 cell, the corresponding properties are specific capacitance of 111 mA h g
+ <sup>−1</sup>, specific power density of 34 kW kg
+ <sup>−1</sup>, and specific energy density of 28 Wh kg
+ <sup>−1</sup>. Electrodes with a high mass loading, up to 12 mg cm
+ <sup>−2</sup>, were also evaluated (Fig. 
+ <xref ref-type="supplementary-material" rid="supplementary-material-1">S20</xref>). The specific capacity at 12 mg cm
+ <sup>−2</sup> is maintained at ~90% value of that at 1 mg cm
+ <sup>−2</sup> with coated electrodes—the uncoated ones can only maintain ~60%. Such increased mass loading allows the specific surface capacity density of the coated electrodes to reach 12 mA h cm
+ <sup>−2</sup> compared to 6 mA h cm
+ <sup>−2</sup> for uncoated electrodes, and we may again attribute the improvement to PAA serving as a proton reservoir supplying protons to the nearby active materials. The proton reservoir particularly benefits the coated N-graphene electrode allowing it to enjoy fast-rate redox reactions at neutral or close to neutral pH, thus realizing a 2.4 V ECW (Fig. 
+ <xref ref-type="supplementary-material" rid="supplementary-material-1">S17</xref>). In contrast, without coating, the best performance of N-graphene is at pH 2 where it can take full advantage of proton-mediated redox reactions but must suffer from a considerably narrower ECW [
+ <xref rid="B2" ref-type="bibr">2</xref>].
+</p>

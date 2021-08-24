@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib2">
+ <element-citation publication-type="journal" id="sref2">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Baeck</surname>
+    <given-names>S.H.</given-names>
+   </name>
+   <name>
+    <surname>Jaramillo</surname>
+    <given-names>T.F.</given-names>
+   </name>
+   <name>
+    <surname>Brändli</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>McFarland</surname>
+    <given-names>E.W.</given-names>
+   </name>
+  </person-group>
+  <article-title>Combinatorial electrochemical synthesis and characterization of tungsten-based mixed-metal oxides</article-title>
+  <source>J. Comb. Chem.</source>
+  <volume>4</volume>
+  <year>2002</year>
+  <fpage>563</fpage>
+  <lpage>568</lpage>
+  <pub-id pub-id-type="pmid">12425600</pub-id>
+ </element-citation>
+</ref>

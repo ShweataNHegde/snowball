@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="materials-14-03840-f010" orientation="portrait" position="float">
+ <label>Figure 10</label>
+ <caption>
+  <p>Linear sweep voltammogram of PEO:LiTFSI (O/Li = 10) from 3.5 to 5.5 V vs. Li
+   <sup>+</sup>/Li at room temperature. Examples of “stability thresholds” determined by (
+   <bold>a</bold>) extrapolating the voltammogram and (
+   <bold>b</bold>) using an arbitrary onset current density. (
+   <bold>c</bold>) Description of the systematic error in estimating the oxidative stability from current-based methods. Reprinted with permission from ref. [
+   <xref rid="B130-materials-14-03840" ref-type="bibr">130</xref>]. Copyright 2021 American Chemical Society.
+  </p>
+ </caption>
+ <graphic xlink:href="materials-14-03840-g010" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

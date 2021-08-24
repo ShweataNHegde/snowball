@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig3" position="float">
+ <label>Figure 3</label>
+ <caption>
+  <p>Cyclic voltammograms at different sweep rates of 3.2 mM ferrocene on a graphene electrode (
+   <italic>A</italic> ≈ 0.3 cm
+   <sup>2</sup>) and a glassy carbon electrode (
+   <italic>A</italic> = 0.07 cm
+   <sup>2</sup>) in 12CE, Pt-mesh auxiliary electrode, 
+   <italic>E</italic>
+   <sub>start</sub> = 0 V (graphene electrode) and 1 V (glassy carbon electrode), initial sweep direction positive. The currents on both axes have been normalized by the square root of the sweep rate.
+  </p>
+ </caption>
+ <graphic xlink:href="am0c11467_0004" id="gr3" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

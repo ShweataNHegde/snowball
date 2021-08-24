@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par11">In order to check the catalytic activity of the obtained materials in the oxygen reduction reaction, cyclic voltammetry and linear voltammetry measurements were taken. The ORR reaction is distinctive in metal-air batteries and fuel cells, therefore examining the catalytic activity of the produced nitrogen-doped materials was an important aspect of the work. In recent years, heteroatom-doped graphene has become an alternative to platinum-based materials owing to the heteroatoms’ improvement of electrochemical properties
+ <sup>
+  <xref ref-type="bibr" rid="CR47">47</xref>,
+  <xref ref-type="bibr" rid="CR48">48</xref>
+ </sup>. In this case, graphene structures served as a matrix for the introduction of nitrogen, using the natural substrate 
+ <italic>Chlorella vurgalis</italic> as the source. As the literature reports, N-precursor is transformed into conductive carbon forms under the influence of high carbonization temperatures, 800–900 °C, which increase electrocatalytic properties
+ <sup>
+  <xref ref-type="bibr" rid="CR49">49</xref>,
+  <xref ref-type="bibr" rid="CR50">50</xref>
+ </sup>. The reference material in electrochemical tests was a carbon material based on platinum (20 wt%). All measurements were made in an oxygen-saturated 0.1 M KOH electrolyte for the materials from the 1A-T and 1B-T series, however the plots are presented for the 1A-T series only (Fig. 
+ <xref rid="Fig7" ref-type="fig">7</xref>). Figure 
+ <xref rid="Fig7" ref-type="fig">7</xref>a illustrates the CV curves for the samples obtained in the 1A-T series, showing the cathode peaks for samples 1A-10, 1A-30, 1A-60, and 1A-90 at a potential of 0.75 V, 0.74 V, 0.81 V, and 0.76 V relative to the RHE electrode, respectively. This is one proof that the presented method produces materials with good electrocatalytic properties. When examining the catalytic activity in the oxygen reduction reaction, one should keep in mind the measurements of linear voltammetry, which provide the most information regarding the catalytic properties of the obtained materials. Figure 
+ <xref rid="Fig7" ref-type="fig">7</xref>b shows LSV measurements. The curves were retrieved with oxygen flow at a scanning speed of 5 mV s
+ <sup>−1</sup>, and rotation speed of 800–2800 rpm. A curve was selected for all samples in the 1A-T series and for the Pt/C reference catalyst (20 wt%) at one rotation speed, 1600 rpm. Sample 1A_60 exhibits the highest current density among the samples obtained, but it is still lower than a commercial material based on platinum. This proves that, despite sample 1A-60 having the lowest nitrogen content at 0.65 wt%, the material shows good catalytic properties in ORR. The value of the onset potential for the 1A-60 sample, shown in Fig. 
+ <xref rid="Fig7" ref-type="fig">7</xref>c, was 0.91 V, while for the commercial material this value was about 1.03 V. For the other samples, 1A-10, 1A-30, and 1A-90, the value of the onset potential was 0.90, 0.86, and 0.92 V vs RHE, respectively. LSV results are typical for non-metallic graphene-based materials. They contributed to the estimation of the electron transfer number in the oxygen reduction reaction, which primarily describes the path of the ORR reaction. By analyzing the Koutecky–Levich plot (Fig. 
+ <xref rid="Fig7" ref-type="fig">7</xref>d), it is possible to determine the number of electron transfers. Data gathered from the LSV plot at a value of 0.45 V were used to calculate the number of electrons participating in the reaction. For the commercial material based on platinum, a four-electron reaction was a distinguishing characteristic, while graphene is characterized by a two-electron oxygen reduction reaction
+ <sup>
+  <xref ref-type="bibr" rid="CR51">51</xref>
+ </sup>. ORR performance parameters for the 1A-T series and commercial platinum-based carbon are presented in Table 
+ <xref rid="Tab4" ref-type="table">4</xref>. The values closest to those for the commercial catalyst were those of samples 1A-30 and 1A-60, of 3.46 and 3.10, respectively. A high value of n means that the electron transfer in the oxygen reduction reaction is close to the 4 electron ORR mechanism. The number of transferred electrons for the series of samples obtained with DMF as solvent equals 2.55, 2.42, 2.49, and 2.57 for 1B-10, 1B-30, 1B-60, and 1B-90, respectively. The produced materials show improved properties over pristine graphene, whose typical number of electron transfers in ORR is about 2 electrons
+ <sup>
+  <xref ref-type="bibr" rid="CR48">48</xref>,
+  <xref ref-type="bibr" rid="CR52">52</xref>
+ </sup>. The LSV results show that the resulting materials have good catalytic properties. This is proof that the electrocatalysts doped with heteroatomic nitrogen, and mainly nitrogen functional groups in the graphene structure, are responsible for catalyzing the ORR reaction. The products are completely free of any metals and can potentially achieve wide application in the field of electrochemistry. Remarkably, the 1A-60 and 1A-90 exhibited prominent ORR activity with the most positive onset potential (E
+ <sub>onset</sub>) at 0.91 V and 0.92 V. The half-way potential (E
+ <sub>1/2</sub>
+ <bold>)</bold> was also highest for 1A-60 and 1A-90 compared to other samples. The prominent ORR activities of 1A-30 and 1A-60 in an alkaline medium may be benefitting from the synergistic effect of the structure and elemental composition. First, the unique few-layer architecture of graphene is conducive to exposing more of the active sites and facilitates the accessibility of oxygen. Second, the nitrogen heteroatoms can induce charge redistribution and facilitate the adsorption of oxygen and the consequent reduction reaction on carbon. The proposed materials’ composition is their advantage, because generally structures described for ORR application tend to be decorated with expensive, precious, or environmentally-unfriendly metals or metal oxides, e.g., Pd, Ru
+ <sup>
+  <xref ref-type="bibr" rid="CR53">53</xref>
+ </sup>, perovskie oxides
+ <sup>
+  <xref ref-type="bibr" rid="CR54">54</xref>
+ </sup>, Fe(II)
+ <sup>
+  <xref ref-type="bibr" rid="CR55">55</xref>
+ </sup>, Fe
+ <sub>7</sub>C
+ <sub>3</sub>
+ <sup>
+  <xref ref-type="bibr" rid="CR56">56</xref>
+ </sup>
+ <sub>,</sub> or Au
+ <sup>
+  <xref ref-type="bibr" rid="CR57">57</xref>
+ </sup>.
+</p>

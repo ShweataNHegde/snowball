@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>LIBs</term>
+   <def>
+    <p id="Par2">Lithium-ion batteries</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CNT</term>
+   <def>
+    <p id="Par3">Carbon nanotube</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NiCo
+    <sub>2</sub>S
+    <sub>4</sub>
+   </term>
+   <def>
+    <p id="Par4">Binary nickel–cobalt sulfide</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PVDF</term>
+   <def>
+    <p id="Par5">Polyvinylidene fluoride</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NMP</term>
+   <def>
+    <p id="Par6">
+     <italic>N</italic>-Methyl-2-pyrrolidone
+    </p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>XRD</term>
+   <def>
+    <p id="Par7">X-ray powder diffraction</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SEM</term>
+   <def>
+    <p id="Par8">Scanning electron microscopy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CV</term>
+   <def>
+    <p id="Par9">Cyclic voltammetry</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EIS</term>
+   <def>
+    <p id="Par10">Electrochemical impedance spectroscopy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>N-CNT</term>
+   <def>
+    <p id="Par11">Nitrogen-containing carbon nanotube</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TMS</term>
+   <def>
+    <p id="Par12">Transition metal sulfides</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LPS</term>
+   <def>
+    <p id="Par13">Lithium polysulfide</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>XPS</term>
+   <def>
+    <p id="Par14">X-ray photoelectron spectrometry</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TEM</term>
+   <def>
+    <p id="Par15">Transmission electron microscope</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HRTEM</term>
+   <def>
+    <p id="Par16">High-resolution transmission electron microscope</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BET</term>
+   <def>
+    <p id="Par17">Brunauer–Emmett–Teller</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TGA</term>
+   <def>
+    <p id="Par18">Thermogravimetric analysis</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EC</term>
+   <def>
+    <p id="Par19">Ethylene carbonate</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DMC</term>
+   <def>
+    <p id="Par20">Dimethyl carbonate</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FFT</term>
+   <def>
+    <p id="Par21">Fast Fourier transform</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>N</term>
+   <def>
+    <p id="Par22">Nitrogen</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>Li</term>
+   <def>
+    <p id="Par23">Lithium</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

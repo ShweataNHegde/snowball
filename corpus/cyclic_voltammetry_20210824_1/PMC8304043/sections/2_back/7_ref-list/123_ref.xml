@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B123-materials-14-03840">
+ <label>123.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hallinan</surname>
+    <given-names>D.T.</given-names>
+   </name>
+   <name>
+    <surname>Rausch</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>McGill</surname>
+    <given-names>B.</given-names>
+   </name>
+  </person-group>
+  <article-title>An electrochemical approach to measuring oxidative stability of solid polymer electrolytes for lithium batteries</article-title>
+  <source>Chem. Eng. Sci.</source>
+  <year>2016</year>
+  <volume>154</volume>
+  <fpage>34</fpage>
+  <lpage>41</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ces.2016.06.054</pub-id>
+ </element-citation>
+</ref>

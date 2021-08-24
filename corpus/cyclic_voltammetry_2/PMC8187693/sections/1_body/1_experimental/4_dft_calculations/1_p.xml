@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par36">DFT calculations were performed using the Vienna ab initio software package [
+ <xref ref-type="bibr" rid="CR42">42</xref>, 
+ <xref ref-type="bibr" rid="CR43">43</xref>]. Interactions between valence and core electrons were modeled using the projector-augmented wave method [
+ <xref ref-type="bibr" rid="CR44">44</xref>]. The plane-basis wave expansion was analyzed using the generalized gradient approximation with the Perdew–Burke–Ernzerhof functional [
+ <xref ref-type="bibr" rid="CR45">45</xref>]. The cutoff energy was 400 eV. The Brillouin area was divided by the sampled grids of 2 × 2 × 1 gamma-centered 
+ <italic>k</italic>-points in both vertical and lateral graphene supercells with embedded M-N
+ <sub>4</sub> (M = Fe, Co) structures [
+ <xref ref-type="bibr" rid="CR46">46</xref>]. A smearing width of 0.1 eV was used in the Methfessel–Paxton smearing scheme [
+ <xref ref-type="bibr" rid="CR42">42</xref>]. In the self-consistent calculation, the energy convergence domain was set to 10
+ <sup>−5</sup> eV, and the geometric configuration was completely relaxed until Hellman–Feynman forces reached 0.02 eV Å
+ <sup>−1</sup>. The binding energies of OH, O, OOH, and O
+ <sub>2</sub> were calculated to determine the OER- and ORR-induced energy changes of M-N
+ <sub>4</sub> (M = Fe, Co). The Gibbs free energy (Δ
+ <italic>G</italic>) change of the response was calculated as:
+ <disp-formula id="Equ3">
+  <label>3</label>
+  <alternatives>
+   <tex-math id="M5">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\Delta G = \Delta E + \Delta {\text{ZPE}}{-}T\Delta S + \Delta G_{\text{U}} + 0.059\,{\text{pH}}$$\end{document}</tex-math>
+   <math id="M6" display="block">
+    <mrow>
+     <mi mathvariant="normal">Δ</mi>
+     <mi>G</mi>
+     <mo>=</mo>
+     <mi mathvariant="normal">Δ</mi>
+     <mi>E</mi>
+     <mo>+</mo>
+     <mi mathvariant="normal">Δ</mi>
+     <mtext>ZPE</mtext>
+     <mo>-</mo>
+     <mi>T</mi>
+     <mi mathvariant="normal">Δ</mi>
+     <mi>S</mi>
+     <mo>+</mo>
+     <mi mathvariant="normal">Δ</mi>
+     <msub>
+      <mi>G</mi>
+      <mtext>U</mtext>
+     </msub>
+     <mo>+</mo>
+     <mn>0.059</mn>
+     <mspace width="0.166667em"/>
+     <mtext>pH</mtext>
+    </mrow>
+   </math>
+   <graphic xlink:href="40820_2020_581_Article_Equ3.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>where Δ
+ <italic>E</italic> is the calculated total energy difference, and ΔZPE, 
+ <italic>T</italic>Δ
+ <italic>S</italic>, and Δ
+ <italic>G</italic>
+ <sub>U</sub> are the zero-point energy correction, entropy contribution, and free energy term related to the applied electrode potential 
+ <italic>U</italic>, respectively.
+</p>

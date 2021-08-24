@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jiang</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Encapsulation of sulfur with thin-layered nickel-based hydroxides for long-cyclic lithium–sulfur cells</article-title>
+  <source>Nat. Commun.</source>
+  <year>2015</year>
+  <volume>6</volume>
+  <fpage>8622</fpage>
+  <pub-id pub-id-type="doi">10.1038/ncomms9622</pub-id>
+  <?supplied-pmid 26470847?>
+  <pub-id pub-id-type="pmid">26470847</pub-id>
+ </element-citation>
+</ref>

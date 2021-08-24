@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For a better understanding of the origin of the outstanding rate performance of P2‐Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub> nano‐necklaces, the electrode process kinetics were systematically evaluated by means of GITT measurements, CV curves at various sweep rates, and EIS spectra. The typical charge/discharge GITT profile in the second cycle is displayed in 
+ <bold>Figure</bold> 
+ <xref rid="advs2021-fig-0004" ref-type="fig">
+  <bold>4</bold>a
+ </xref>, and the time versus voltage profile for a single titration is plotted in Figure S15 (Supporting Information), showing that the cell experiences an uninterrupted current flux (15 mA g
+ <sup>−1</sup>) for 20 min during charging or discharging and then a relaxing time for 80 min to reach an equilibrium of voltage. Figure 
+ <xref rid="advs2021-fig-0004" ref-type="fig">4b</xref> exhibits the apparent Na‐diffusion coefficients (
+ <italic>D</italic>
+ <sub>Na</sub>) as a function of specific capacity. The 
+ <italic>D</italic>
+ <sub>Na</sub> values of P2‐Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub> (10
+ <sup>−10</sup> to 10
+ <sup>−11</sup> cm
+ <sup>2</sup> s
+ <sup>−1</sup>) are higher than those of the P2‐Na
+ <sub>2/3</sub>Fe
+ <sub>1/2</sub>Mn
+ <sub>1/2</sub>O
+ <sub>2</sub> cathode (10
+ <sup>−11</sup> to 10
+ <sup>−12</sup> cm
+ <sup>2</sup> s
+ <sup>−1</sup> acquired from Figure S16, Supporting Information). This result indicates that the existence of multi‐phase reaction caused by the Na
+ <sup>+</sup>/vacancy ordering in P2‐Na
+ <sub>2/3</sub>Fe
+ <sub>1/2</sub>Mn
+ <sub>1/2</sub>O
+ <sub>2</sub> hinders the sodium‐ion mobility, whereas the above issue can be well relieved by the substitution of Fe by Cu. Figure 
+ <xref rid="advs2021-fig-0004" ref-type="fig">4c</xref> shows the representative CV curves of the P2‐Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub> electrode at different sweep rates from 0.1 to 1.0 mV s
+ <sup>−1</sup>. The CV curves maintain similar shapes and exhibit a slight polarization as the sweep rate increases, reflecting the decent reaction kinetics upon Na
+ <sup>+</sup> (de)insertion. The 
+ <italic>D</italic>
+ <sub>Na</sub> can be calculated based on the CV study according to the Randles–Sevcik formula, i.e., 
+ <italic>i</italic>
+ <sub>p</sub> = 2.69 × 10
+ <sup>5</sup>
+ <italic>n</italic>
+ <sup>3/2</sup>
+ <italic>AD</italic>
+ <sub>Na</sub>
+ <sup>1/2</sup>
+ <italic>C</italic>
+ <sub>Na</sub>
+ <italic>v</italic>
+ <sup>1/2</sup>, where 
+ <italic>i</italic>
+ <sub>p</sub> (A) is the peak current, 
+ <italic>v</italic> (V s
+ <sup>−1</sup>) is the scan rate, 
+ <italic>C</italic>
+ <sub>Na</sub> is the Na ions concentration in the electrode (≈3.06 × 10
+ <sup>−2</sup> mol cm
+ <sup>−3</sup>), 
+ <italic>A</italic> (cm
+ <sup>2</sup>) is the contacting area (0.81 cm
+ <sup>2</sup>) between electrode and electrolyte, and 
+ <italic>n</italic> is the transferred electron number per molecule (
+ <italic>n</italic> = 0.50 in this system).
+ <sup>[</sup>
+ <xref rid="advs2021-bib-0020" ref-type="ref">
+  <sup>20</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0047" ref-type="ref">
+  <sup>47</sup>
+ </xref>
+ <sup>]</sup> The 
+ <italic>i</italic>
+ <sub>p</sub> of the four main redox peaks displays a good linear relationship with the square root of 
+ <italic>v</italic> in Figure 
+ <xref rid="advs2021-fig-0004" ref-type="fig">4d</xref>, accordingly, the 
+ <italic>D</italic>
+ <sub>Na</sub> values for the O1, O2, R1, and R2 peaks are 1.48 × 10
+ <sup>−10</sup>, 4.43 × 10
+ <sup>−10</sup>, 2.59 × 10
+ <sup>−10</sup>, and 9.11 × 10
+ <sup>−11</sup> cm
+ <sup>2</sup> s
+ <sup>−1</sup>, respectively, coinciding well with the GITT results. The CV profiles at different scan rates also reveal the pseudo‐capacitance contributions to the charge storage process, rendering the rapid reaction kinetics of the P2‐Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub> nano‐necklaces cathode. The capacitive effect gradually strengthens with the increase of scan rates (Figure S17 in the Supporting Information). Furthermore, EIS spectra were employed to estimate the 
+ <italic>D</italic>
+ <sub>Na</sub> in the three samples with different annealing conditions. The Nyquist plots in Figure 
+ <xref rid="advs2021-fig-0004" ref-type="fig">4e</xref> consist of a semicircle from high to medium frequency corresponding to the charge‐transfer resistance (
+ <italic>R</italic>
+ <sub>ct</sub>) at the electrode/electrolyte interface, and a slope line at low frequency correlated to the Warburg impedance (
+ <italic>Z</italic>
+ <sub>w</sub>) associated with Na
+ <sup>+</sup> diffusion. The 
+ <italic>D</italic>
+ <sub>Na</sub> values can be determined from the linear fitting results in Figure 
+ <xref rid="advs2021-fig-0004" ref-type="fig">4f</xref> (calculation details are provided in the Supporting Information). The P2‐Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub> nano‐necklaces electrode (850 °C for 6 h) possesses the lowest resistance of about 180 Ω and the fastest Na
+ <sup>+</sup> diffusivity of around 10
+ <sup>−11</sup> cm
+ <sup>2</sup> s
+ <sup>−1</sup>, which can be attributed to its favorable pearl necklace‐like hierarchical nanostructures constituted by small secondary nanograins that offer abundant rapid paths for electronic/ionic transport. In addition, the resistance of P2‐Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub> is smaller than that of P2‐Na
+ <sub>2/3</sub>Fe
+ <sub>1/2</sub>Mn
+ <sub>1/2</sub>O
+ <sub>2</sub> (about 290 Ω acquired from Figure S18, Supporting Information), unambiguously confirming the positive effect of Cu‐doping (creating charge defects) on enhancing the electronic conductivity.
+</p>

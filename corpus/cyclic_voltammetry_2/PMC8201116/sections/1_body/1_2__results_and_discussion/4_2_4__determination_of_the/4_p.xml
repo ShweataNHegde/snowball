@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In Equation (16), 
+ <italic>i
+  <sub>L</sub>
+ </italic> expresses diffusion-limiting current, 
+ <italic>ω</italic> is the angular velocity and related to the rotation rate of the electrode, 
+ <italic>n</italic> is the transferred electron number, 
+ <italic>F</italic> is Faraday constant (F = C mol
+ <sup>−1</sup>), diffusion coefficient is 
+ <italic>D</italic> of O
+ <sub>2</sub> (O
+ <sub>2</sub> = 1.9 × 10
+ <sup>−5</sup> cm
+ <sup>2</sup> s
+ <sup>−1</sup>), kinetic viscosity is 0.01 cm
+ <sup>2</sup> s
+ <sup>−1</sup>, and C° is the bulk concentration of O
+ <sub>2</sub> (1.2 × 10
+ <sup>−6</sup> mol cm
+ <sup>−3</sup>). The constant 0.2 is used to convert rotation rate to rotations per minute. The slope(s) of the straight line(s) (Levich-plot(s)) in 
+ <xref ref-type="fig" rid="molecules-26-03440-f008">Figure 8</xref>c reveals B factor for PdNi/C between 0.093 and 0.103 mA/rpm, Pd/C 0.098 mA/rpm, and Pt/C 0.067 mA/rpm. The number of electrons was computed and reported in 
+ <xref rid="molecules-26-03440-t004" ref-type="table">Table 4</xref> based on the value of B. For Pd/C and PdNi/C, the estimated transferred number of electrons ranged from 3.49 to 3.86, whereas Pt/C was 2.49 at around −0.2 V (vs. Hg/HgO/OH
+ <sup>−</sup>). The computed electron values show that a four-electron (4e
+ <sup>−</sup>) pathway precedes the ORR from −0.076 to 0.074 V (vs. Hg/HgO/OH
+ <sup>−</sup>) and that O
+ <sub>2</sub> is reduced to OH
+ <sup>−</sup> during the reaction. By using a two-electron transfer mechanism, the Pt/C dominates in the creation of more hydrogen peroxide (H
+ <sub>2</sub>O
+ <sub>2</sub>). As shown in 
+ <xref ref-type="fig" rid="molecules-26-03440-f006">Figure 6</xref>, the four electron transfer mechanism elaborates the low formation of H
+ <sub>2</sub>O
+ <sub>2</sub> on PdNi/C, which is then readsorbed on the active sites of Pd in PdNi/C. When H
+ <sub>2</sub>O
+ <sub>2</sub> is entirely adsorbed on the catalysts’-skin active sites, the second metal offers active sites for additional H
+ <sub>2</sub>O
+ <sub>2</sub> adsorption [
+ <xref rid="B37-molecules-26-03440" ref-type="bibr">37</xref>].
+</p>

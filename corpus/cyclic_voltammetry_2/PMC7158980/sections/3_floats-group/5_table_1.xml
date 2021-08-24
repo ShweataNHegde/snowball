@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Comparison of the electrocatalytic performance of CoP with various reported Co-based non-precious electrocatalysts in alkaline media</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Electrocatalyst</th>
+    <th>OER (η (mV) at 
+     <italic>j</italic> = 10 mA cm
+     <sup>−2</sup>)
+    </th>
+    <th>ORR (E
+     <sub>1/2</sub> V)
+    </th>
+    <th>Reference</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Co
+     <sub>2</sub>P@NPC-1
+    </td>
+    <td>327</td>
+    <td>0.83</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR2">2</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>NiP@N,P-CNSs</td>
+    <td>390</td>
+    <td>0.75</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR7">7</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>Co@N-CNTF</td>
+    <td>350</td>
+    <td>0.81</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR11">11</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>CoP NPs/CNSs</td>
+    <td>340</td>
+    <td>0.88</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR60">60</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>CoP-PBSCF</td>
+    <td>378</td>
+    <td>0.75</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR61">61</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>Bi–CoP/NP-DG</td>
+    <td>370</td>
+    <td>0.81</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR62">62</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>CoP
+     <sub>x</sub>/CoN
+     <sub>x</sub>C@CNT
+    </td>
+    <td>460</td>
+    <td>0.83</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR63">63</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>CoNP@NC/NG-700</td>
+    <td>390</td>
+    <td>0.83</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR64">64</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>CoZn-NC-800</td>
+    <td>480</td>
+    <td>0.82</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR65">65</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>Co-N/C-800</td>
+    <td>492</td>
+    <td>0.67</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR66">66</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>Co/N-GCA</td>
+    <td>408</td>
+    <td>0.81</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR67">67</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <bold>Co/CoP</bold>
+    </td>
+    <td>
+     <bold>342</bold>
+    </td>
+    <td>
+     <bold>0.93</bold>
+    </td>
+    <td>
+     <bold>This work</bold>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR48">
+ <label>48.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Li</surname>
+    <given-names>Z</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Rechargeable calcium-sulfur batteries enabled by an efficient borate-based electrolyte</article-title>
+  <source>Small</source>
+  <year>2020</year>
+  <volume>16</volume>
+  <fpage>e2001806</fpage>
+  <pub-id pub-id-type="doi">10.1002/smll.202001806</pub-id>
+  <?supplied-pmid 32812367?>
+  <pub-id pub-id-type="pmid">32812367</pub-id>
+ </element-citation>
+</ref>

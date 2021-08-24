@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The energy of an electrochemical cell of a linear capacitance 
+ <italic>C</italic> operating at a voltage 
+ <italic>V</italic> is ½
+ <italic>CV</italic>
+ <sup>2</sup>. Therefore, a modest increase in operating voltage will result in a major boost in energy. Thermodynamically, the voltage is limited by the stability of the electrolyte, and aqueous electrolytes decompose into hydrogen and oxygen at 1.23 V. Many organic electrolytes can withstand a higher voltage, but they also charge/discharge relatively slowly and are burdened with certain safety and environmental concerns [
+ <xref rid="B1" ref-type="bibr">1</xref>]. So there is much interest in stabilizing H
+ <sub>2</sub>O molecules, e.g., by strong solvation of cations or anions. Indeed, with Li
+ <sub>2</sub>SO
+ <sub>4</sub> addition to the aqueous electrolyte, the operating voltage is raised to 1.6 V in acidic electrolyte [
+ <xref rid="B2" ref-type="bibr">2</xref>] or 1.8-1.9 V in neutral one [
+ <xref rid="B3" ref-type="bibr">3</xref>]. Further suppressing decomposition kinetics using a high rate [
+ <xref rid="B4" ref-type="bibr">4</xref>] (e.g., reaching 2.2 V at 10 mV s
+ <sup>−1</sup>, Fig. 
+ <xref ref-type="supplementary-material" rid="supplementary-material-1">S1A-I</xref>) was also claimed, but this is impractical because during applications, hydrogen will inevitably form whenever the rate slows. Independently, the disadvantage of a small electrochemical window (ECW) is also partially mitigated by advanced carbon electrodes, such as N-doped few-layer graphene that reaches a specific capacity of 855 F g
+ <sup>−1</sup>, or three times the value of activated carbon in commercial supercapacitors [
+ <xref rid="B2" ref-type="bibr">2</xref>]. The aim of this work is to demonstrate a water-excluding polymer-coated advanced carbon electrode that can reproducibly operate (over 10
+ <sup>5</sup> cycles) at 2.4 V in a Li
+ <sub>2</sub>SO
+ <sub>4</sub> aqueous electrolyte at both high and low rates over a pH window from 3 to 10. The resulting aqueous (symmetric) supercapacitor is capable of an energy density quite comparable to that of a lithium-ion battery, but at 100 times the charging/discharging speed and cycle durability.
+</p>

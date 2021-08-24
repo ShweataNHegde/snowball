@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5166-6027</contrib-id>
+  <name>
+   <surname>Aidoudi</surname>
+   <given-names>Farida H.</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-7993-4268</contrib-id>
+  <name>
+   <surname>Sinopoli</surname>
+   <given-names>Alessandro</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Arunachalam</surname>
+   <given-names>Muthumeenal</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Merzougui</surname>
+   <given-names>Belabbes</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Aïssa</surname>
+   <given-names>Brahim</given-names>
+  </name>
+  <xref rid="c1-materials-14-03259" ref-type="corresp">*</xref>
+ </contrib>
+</contrib-group>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <xref ref-type="fig" rid="F6">Figure 6</xref> illustrates the electrochemical impedance spectroscopy results for the CS and BAG-derived materials. Both display a quasi-ideal capacitive behavior, usually observed in carbon-based materials. This is in accordance with the results obtained by cyclic voltammetry and galvanostatic discharge. At high and mid-frequencies, from 10
+ <sup>5</sup> to ~1–10 Hz, both materials display a purely resistive behavior, with a plateau in the modulus frequency (
+ <xref ref-type="fig" rid="F6">Figure 6A</xref>) and a close-to-zero phase angle (
+ <xref ref-type="fig" rid="F6">Figure 6B</xref>). The Nyquist plot (
+ <xref ref-type="fig" rid="F5">Figure 5C</xref>) shows an equivalent series resistance (ESR) of 2.65 Ohm for BAG and a charge-transfer resistance of 151 mOhm, whereas the CS-derived material displays an ESR of 3.8 Ohm and a charge-transfer resistance of 89 mOhm. Equivalent series resistance arises from the wiring and current collector resistance, the electrolyte resistance, and the contact and ionic resistances associated to the electrode–electrolyte interphase (Li et al., 
+ <xref rid="B24" ref-type="bibr">2015</xref>). Both materials, prepared under the same conditions, present a depressed semi-circle, which accounts for the internal resistance of the electrode. In any case, both materials present a quasi-ideal behavior with a nearly parallel response to the imaginary axis in the mid- and low-frequency range, as observed in the Nyquist plot, and a phase angle close to −80°. Nonetheless, a deviation from the ideal behavior is explained by the contribution to the total impedance of certain diffusion-controlled phenomena that may be associated to the materials' porosity.
+</p>

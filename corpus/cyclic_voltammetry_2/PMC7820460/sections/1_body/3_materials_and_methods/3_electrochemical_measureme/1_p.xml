@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par15">Tests of the obtained materials’ electrochemical properties were carried out using the Autolab potentiostat (PGSTAT128N, The Netherlands). The standard measuring setup was made up of three electrodes—an Ag/AgCl electrode in 3 M KCl was the reference, a Pt electrode the counter, while the working electrode was glassy carbon (GC rotating disk electrode with a 5.0 mm diameter) onto which ink, with the catalyst, was applied. The catalyst ink was prepared basing on the dispersion of 2.5 mg of the test sample in a mixture of distilled water and ethanol (ratio 1:4) and Nafion (0.5 wt% Nafion). As a point of comparison, electrochemical studies were also performed on a commercial catalyst from Sigma Aldrich, platinum on graphitized Pt/C carbon (20 wt% Platinum). The prepared ink was pipetted onto glassy carbon in an amount of 15.63 µl and the electrode was dried afterwards. Catalyst content was about 0.4 mg cm
+ <sup>−2</sup>. Before electrochemical testing, the alkaline solution was saturated with O
+ <sub>2</sub>/N
+ <sub>2</sub> for 20 min. The activity of the samples in an oxygen reduction reaction was evaluated by measuring cyclic voltammetry (CV), carried out at a scanning speed of 10 mV s
+ <sup>−1</sup>, and linear voltammetry (LSV), at a scanning speed of 5 mV s
+ <sup>−1</sup> and rotation speed of 800–2800 rpm, in a solution of 0.1 M KOH at room temperature. The number of electrons (n) directly participating in ORR was calculated using the Koutecky–Levich equation (K–L):
+ <disp-formula id="Equ1">
+  <label>1</label>
+  <alternatives>
+   <tex-math id="M1">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\text{J}}^{{ - {1}}} = {\text{ J}}_{{\text{L}}}^{{ - {1}}} + {\text{ J}}_{{\text{K}}}^{{ - {1}}} = \, \left( {{\text{B}}\omega^{{{1}/{2}}} } \right)^{{ - {1}}} + {\text{ J}}_{{\text{K}}}^{{ - {1}}}$$\end{document}</tex-math>
+   <math id="M2" display="block">
+    <mrow>
+     <msup>
+      <mrow>
+       <mtext>J</mtext>
+      </mrow>
+      <mrow>
+       <mo>-</mo>
+       <mn>1</mn>
+      </mrow>
+     </msup>
+     <mo>=</mo>
+     <msubsup>
+      <mrow>
+       <mspace width="0.333333em"/>
+       <mtext>J</mtext>
+      </mrow>
+      <mrow>
+       <mtext>L</mtext>
+      </mrow>
+      <mrow>
+       <mo>-</mo>
+       <mn>1</mn>
+      </mrow>
+     </msubsup>
+     <mo>+</mo>
+     <msubsup>
+      <mrow>
+       <mspace width="0.333333em"/>
+       <mtext>J</mtext>
+      </mrow>
+      <mrow>
+       <mtext>K</mtext>
+      </mrow>
+      <mrow>
+       <mo>-</mo>
+       <mn>1</mn>
+      </mrow>
+     </msubsup>
+     <mo>=</mo>
+     <mspace width="0.166667em"/>
+     <msup>
+      <mfenced close=")" open="(">
+       <mrow>
+        <mtext>B</mtext>
+        <msup>
+         <mi>ω</mi>
+         <mrow>
+          <mn>1</mn>
+          <mo stretchy="false">/</mo>
+          <mn>2</mn>
+         </mrow>
+        </msup>
+       </mrow>
+      </mfenced>
+      <mrow>
+       <mo>-</mo>
+       <mn>1</mn>
+      </mrow>
+     </msup>
+     <mo>+</mo>
+     <msubsup>
+      <mrow>
+       <mspace width="0.333333em"/>
+       <mtext>J</mtext>
+      </mrow>
+      <mrow>
+       <mtext>K</mtext>
+      </mrow>
+      <mrow>
+       <mo>-</mo>
+       <mn>1</mn>
+      </mrow>
+     </msubsup>
+    </mrow>
+   </math>
+   <graphic xlink:href="41598_2021_81769_Article_Equ1.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+ <disp-formula id="Equ2">
+  <label>2</label>
+  <alternatives>
+   <tex-math id="M3">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\text{B }} = \, 0.{\text{62nFC}}_{0} \left( {{\text{D}}_{0} } \right)^{{{2}/{3}}} \nu^{{ - {1}/{6}}}$$\end{document}</tex-math>
+   <math id="M4" display="block">
+    <mrow>
+     <mrow>
+      <mtext>B</mtext>
+      <mspace width="0.333333em"/>
+     </mrow>
+     <mo>=</mo>
+     <mspace width="0.166667em"/>
+     <mn>0</mn>
+     <mo>.</mo>
+     <msub>
+      <mtext>62nFC</mtext>
+      <mn>0</mn>
+     </msub>
+     <msup>
+      <mfenced close=")" open="(">
+       <msub>
+        <mtext>D</mtext>
+        <mn>0</mn>
+       </msub>
+      </mfenced>
+      <mrow>
+       <mn>2</mn>
+       <mo stretchy="false">/</mo>
+       <mn>3</mn>
+      </mrow>
+     </msup>
+     <msup>
+      <mi>ν</mi>
+      <mrow>
+       <mo>-</mo>
+       <mn>1</mn>
+       <mo stretchy="false">/</mo>
+       <mn>6</mn>
+      </mrow>
+     </msup>
+    </mrow>
+   </math>
+   <graphic xlink:href="41598_2021_81769_Article_Equ2.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>where J is defined as the measured density, J
+ <sub>L</sub> is the current density limiting diffusion, and J
+ <sub>K</sub> is the kinetic current density; ω is the angular velocity of the electrode; n is the number of electron transfers in the reaction; F is the Faraday constant (96,485 C mol
+ <sup>−1</sup>); C
+ <sub>0</sub> is the concentration of dissolved oxygen (1.2 × 10
+ <sup>–6</sup> mol L
+ <sup>−1</sup> in 0.1 M KOH); D
+ <sub>0</sub> is the diffusion coefficient of dissolved oxygen (1.9 × 10
+ <sup>–5</sup> cm
+ <sup>2</sup> s
+ <sup>−1</sup> in 0.1 M KOH); ν is the kinetic viscosity of the electrolyte for 0.1 M KOH, 0.01 cm
+ <sup>2</sup> s
+ <sup>−1</sup>. The slope of the K-L graph can be obtained using Koutecky–Levich Eqs. (
+ <xref rid="Equ1" ref-type="">1</xref>) and (
+ <xref rid="Equ2" ref-type="">2</xref>), thanks to which it is possible to determine the number of electron transfers in ORR.
+</p>

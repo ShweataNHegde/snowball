@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR55">
+ <label>55.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hu</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Cheng</surname>
+    <given-names>YT</given-names>
+   </name>
+  </person-group>
+  <article-title>Effects of adhesion and cohesion on the electrochemical performance and durability of silicon composite electrodes</article-title>
+  <source>J. Power Sources</source>
+  <year>2018</year>
+  <volume>397</volume>
+  <fpage>223</fpage>
+  <lpage>230</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jpowsour.2018.06.103</pub-id>
+ </element-citation>
+</ref>

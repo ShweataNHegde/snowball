@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The specific capacity of poly-[NiAmben], 
+ <italic>C
+  <sub>mAh</sub>
+ </italic>, can be calculated using the following equation:
+ <disp-formula id="FD2-molecules-26-02646">
+  <label>(2)</label>
+  <math id="mm2">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>C</mi>
+      <mrow>
+       <mi>m</mi>
+       <mi>A</mi>
+       <mi>h</mi>
+      </mrow>
+     </msub>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <mi>n</mi>
+       <mo>⋅</mo>
+       <mi>F</mi>
+      </mrow>
+      <mrow>
+       <mn>3.6</mn>
+       <mo>⋅</mo>
+       <mi>M</mi>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+</p>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR46">
+ <label>46.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Merrill</surname>
+    <given-names>LC</given-names>
+   </name>
+   <name>
+    <surname>Schaefer</surname>
+    <given-names>JL</given-names>
+   </name>
+  </person-group>
+  <article-title>Electrochemical Properties and Speciation in Mg(HMDS)2-Based Electrolytes for Magnesium Batteries as a Function of Ethereal Solvent Type and Temperature</article-title>
+  <source>Langmuir</source>
+  <year>2017</year>
+  <volume>33</volume>
+  <fpage>9426</fpage>
+  <lpage>9433</lpage>
+  <pub-id pub-id-type="doi">10.1021/acs.langmuir.7b01111</pub-id>
+  <?supplied-pmid 28636822?>
+  <pub-id pub-id-type="pmid">28636822</pub-id>
+ </element-citation>
+</ref>

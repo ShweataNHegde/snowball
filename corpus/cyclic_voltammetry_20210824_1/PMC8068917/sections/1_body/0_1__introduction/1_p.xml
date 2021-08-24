@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Lithium-ion batteries have been rapidly developed and currently dominate the secondary battery market. However, their use is reaching its limit due to the shortage and high price of lithium compounds. Because of the massive energy storage associated with renewable energy sources, sodium-ion batteries have the advantage of using an abundant and low-cost exchanged metal [
+ <xref rid="B1-nanomaterials-11-00966" ref-type="bibr">1</xref>,
+ <xref rid="B2-nanomaterials-11-00966" ref-type="bibr">2</xref>,
+ <xref rid="B3-nanomaterials-11-00966" ref-type="bibr">3</xref>,
+ <xref rid="B4-nanomaterials-11-00966" ref-type="bibr">4</xref>]. In this context, although carbon materials are the most widely used components of anodes in lithium-ion batteries, different studies indicate a limited insertion capacity of sodium ions in these types of materials [
+ <xref rid="B5-nanomaterials-11-00966" ref-type="bibr">5</xref>,
+ <xref rid="B6-nanomaterials-11-00966" ref-type="bibr">6</xref>,
+ <xref rid="B7-nanomaterials-11-00966" ref-type="bibr">7</xref>]. Numerous alternative anodes have been studied for years in sodium-ion batteries. One of the most common approaches entails the use of transition metal oxides. Nickel oxide (NiO) is active against sodium ions, but unlike other oxides, the metal (Ni) produced during its reduction does not form an alloy with sodium [
+ <xref rid="B1-nanomaterials-11-00966" ref-type="bibr">1</xref>]. In this case, the charge–discharge process is carried out only through the following single-stage conversion reaction:
+ <disp-formula>NiO + 2 Na &lt;==&gt; Na
+  <sub>2</sub>O + Ni
+  <label>(1)</label>
+ </disp-formula>
+</p>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Adams et al. reported an interesting study on the significance of nanometric passivation on cathodes in LOBs. They tested TiC powders as received from two different suppliers (TiC-A and TiC-B) and compared them with TiN [
+ <xref rid="B71-nanomaterials-10-02106" ref-type="bibr">71</xref>]. The as-received TiC powders were observed to have similar bulk properties but different surface properties. XPS and STEM analyses were carried out to observe the surface of the two TiC powders. TiC-A had an amorphous layer surrounding the particles and was around ~2–3 nm thick, whereas the amorphous layer was absent in TiC-B. The oxide layer on the TiC-A was predicted to be more than sufficient to completely prohibit electron transfer. The charge curves for the cathode TiO
+ <sub>2</sub>, TiC-A, and TiC-B were compared with TiN. As predicted, the partially conducting TiO
+ <sub>2</sub>, similar to TiN, did not support the OER due to the bulk insulating layer. Similarly, the TiC-A, with its amorphous layer, was inactive in terms of the OER. This is because the transfer of electrons through the insulating layer plays a critical role in LOBs; if the passivation layer is thin (e.g., TiC-B), sufficient Li
+ <sub>2</sub>O
+ <sub>2</sub> could be charged at a fixed voltage, whereas if the layer is thick (e.g., TiC-A and TiN), the charging process is inhibited (
+ <xref ref-type="fig" rid="nanomaterials-10-02106-f003">Figure 3</xref>a) [
+ <xref rid="B71-nanomaterials-10-02106" ref-type="bibr">71</xref>]. More research is required on the synthesis of active materials for cathodes to inhibit excessive oxidation and/or to form a conductive oxide layer on the material.
+</p>

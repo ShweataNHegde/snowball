@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="ath1">
+  <name>
+   <surname>Yun</surname>
+   <given-names>Changsuk</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes" id="ath2">
+  <name>
+   <surname>Hwang</surname>
+   <given-names>Seongpil</given-names>
+  </name>
+  <xref rid="cor1" ref-type="other">*</xref>
+ </contrib>
+ <aff id="aff1">Department of Advanced Materials Chemistry, 
+  <institution>Korea University</institution>, Sejong 30019, 
+  <country>Korea</country>
+ </aff>
+</contrib-group>

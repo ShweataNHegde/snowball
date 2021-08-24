@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR21">
+ <label>21.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sha</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Preparation of three-dimensional graphene foams using powder metallurgy templates</article-title>
+  <source>ACS Nano</source>
+  <year>2016</year>
+  <volume>10</volume>
+  <fpage>1411</fpage>
+  <lpage>1416</lpage>
+  <pub-id pub-id-type="doi">10.1021/acsnano.5b06857</pub-id>
+  <?supplied-pmid 26678869?>
+  <pub-id pub-id-type="pmid">26678869</pub-id>
+ </element-citation>
+</ref>

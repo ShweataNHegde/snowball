@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <xref ref-type="fig" rid="nanomaterials-11-01025-f007">Figure 7</xref>A shows the discharge (charge storage) curves of (a) GNS, (b) LCFM(5555)-gly/GNS and (c) LCFM(8255)-gly/GNS-composite-based Li-O
+ <sub>2</sub> battery cathodes, operated in the voltage range of 2000–4500 mV vs. Li/Li
+ <sup>+</sup> at a current density of 100 mA g
+ <sup>−1</sup>, which shows capacities around 4860, 5796 and 8475 mAh g
+ <sup>−1</sup>, respectively. The discharge–charge overpotential difference of the cathodes was also studied at the limiting discharge–charge capacity of 1000 mAh g
+ <sup>−1</sup> at a current density of 100 mA g
+ <sup>−1</sup>. As clearly seen in 
+ <xref ref-type="fig" rid="nanomaterials-11-01025-f007">Figure 7</xref>B, the LCFM(8255)-gly/GNS composite cathode shows a very low overpotential difference of about 271 mV vs. Li/Li
+ <sup>+</sup>, as compared to LCFM(5555)-gly/GNS (around 365 mV vs. Li/Li
+ <sup>+</sup>) and GNS cathodes (around 420 mV vs. Li/Li
+ <sup>+</sup>). The obtained results are in strong accordance with the CV and RDE measurements. To further evaluate the performance of Li-O
+ <sub>2</sub> batteries, the cycle stability curves of the as-developed cathodes were obtained at 100 mA g
+ <sup>−1</sup> with limiting capacities of 1000 mAh g
+ <sup>−1</sup>; the data can be seen in 
+ <xref ref-type="fig" rid="nanomaterials-11-01025-f007">Figure 7</xref> ((C) GNS, (D) LCFM(5555)-gly/GNS and (E) LCFM(8255)-gly/GNS samples). The comparison of cycle stability with respect to discharge-limiting capacity was also shown in 
+ <xref ref-type="fig" rid="nanomaterials-11-01025-f007">Figure 7</xref>D. As noted in cycle stability curves, the discharge–charge polarization overpotential rapidly increases to the high cut-off voltage for GNS (up to only 20 cycles) rather than composite cathodes, even in the presence of LiI redox mediator in the electrolyte system, confirms the poor, sluggish ORR/OER kinetics. This is also due to the parasitic reaction between the electrolyte ions and carbon cathodes. Conversely, the LCFM(5555)-gly/GNS composite cathode exhibits stable polarization for up to 35 cycles, and the charge potential is below 3500 mV vs. Li/Li
+ <sup>+</sup>; however, the discharge overpotential reached cut-off voltage. Therefore, a sudden drop in discharge capacity after 35 cycles was observed (
+ <xref ref-type="fig" rid="nanomaterials-11-01025-f007">Figure 7</xref>C), due to the less porous nature of LCFM(5555)-gly particles. On the other hand, the battery with LCFM(8255)-gly/GNS cathode also shows stable polarization up to 55 cycles, as the charge potential does not increase beyond 3100 mV vs. Li/Li
+ <sup>+</sup>, indicating the excellent catalytic activity of the LCFM(8255)-gly/GNS composite. The charge potential on both composite catalysts is still lower upon increasing the cycle life of the battery; this is mainly due to the LiI-soluble catalyst, which can also help to decompose the Li
+ <sub>2</sub>O
+ <sub>2</sub> discharge product during the charging process. On the other hand, the increasing discharge potential range towards the cut-off discharge voltage is due to the blocking of oxygen and Li
+ <sup>+</sup> ion diffusion sites by the continuous deposition of Li
+ <sub>2</sub>O
+ <sub>2</sub> during the discharge process, resulting in poor ORR activity of the catalyst in prolonged cycles. Thus, the results suggest that the air cathode should have a large number of pores and high surface area catalysts, which may enhance the oxygen and Li
+ <sup>+</sup> ion diffusion property that facilitates the high-performance battery lifespan. Therefore, as compared to previous reports [
+ <xref rid="B23-nanomaterials-11-01025" ref-type="bibr">23</xref>,
+ <xref rid="B24-nanomaterials-11-01025" ref-type="bibr">24</xref>,
+ <xref rid="B25-nanomaterials-11-01025" ref-type="bibr">25</xref>,
+ <xref rid="B26-nanomaterials-11-01025" ref-type="bibr">26</xref>,
+ <xref rid="B27-nanomaterials-11-01025" ref-type="bibr">27</xref>] demonstrating the perovskite oxide catalyst prepared by citric acid and urea as fuel or a chelating agent, the present synthesis method with glycine can increase the surface area due to the presence of a large volume of mesopores and the integration of conductive GNS as a support, which can further improve the electrocatalytic properties of the perovskite materials.
+</p>

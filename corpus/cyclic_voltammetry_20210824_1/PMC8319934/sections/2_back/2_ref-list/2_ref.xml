@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref2">
+ <mixed-citation publication-type="journal" id="cit2">
+  <name>
+   <surname>Lu</surname>
+   <given-names>L.</given-names>
+  </name>; 
+  <name>
+   <surname>Han</surname>
+   <given-names>X.</given-names>
+  </name>; 
+  <name>
+   <surname>Li</surname>
+   <given-names>J.</given-names>
+  </name>; 
+  <name>
+   <surname>Hua</surname>
+   <given-names>J.</given-names>
+  </name>; 
+  <name>
+   <surname>Ouyand</surname>
+   <given-names>M.</given-names>
+  </name>
+  <article-title>A review on the key issues for lithium-ion battery management in electric vehicles</article-title>. 
+  <source>J. Power Sources</source>
+  <year>2013</year>, 
+  <volume>226</volume>, 
+  <fpage>272</fpage>–
+  <lpage>282</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.jpowsour.2012.10.060</pub-id>.
+ </mixed-citation>
+</ref>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhong</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Ding</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Zhong</surname>
+    <given-names>Y</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Decoupling electrolytes towards stable and high-energy rechargeable aqueous zinc-manganese dioxide batteries</article-title>
+  <source>Nat. Energy</source>
+  <year>2020</year>
+  <pub-id pub-id-type="doi">10.1038/s41560-020-0584-y</pub-id>
+ </element-citation>
+</ref>

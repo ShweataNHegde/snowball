@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <label>10</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rudnev</surname>
+    <given-names>A. V.</given-names>
+   </name>
+   <name>
+    <surname>Zhumaev</surname>
+    <given-names>U. E.</given-names>
+   </name>
+   <name>
+    <surname>Kuzume</surname>
+    <given-names>A.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The promoting effect of water on the electroreduction of CO
+   <sub>2</sub> in acetonitrile
+  </article-title>
+  <source>
+   <italic toggle="yes">Electrochimica Acta</italic>
+  </source>
+  <year>2016</year>
+  <volume>189</volume>
+  <fpage>38</fpage>
+  <lpage>44</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.electacta.2015.12.088</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84951806058</pub-id>
+ </element-citation>
+</ref>

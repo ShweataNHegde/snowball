@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="molecules-26-02227-t001" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">molecules-26-02227-t001_Table 1</object-id>
+ <label>Table 1</label>
+ <caption>
+  <p>Average peak potential of 5 mM solutions of quinoxalines 
+   <bold>6</bold>, 
+   <bold>16</bold>–
+   <bold>20</bold> dissolved in 0.1 M KOH/0.9 M KCl. All potentials are given versus the Ag/AgCl (3 M NaCl) reference electrode.
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Compound</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Average Peak Potential (V)
+     <break/>Vs. Ag/AgCl (3 M NaCl)
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Quinoxaline (QUI) 
+     <bold>6</bold>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">−0.970</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2-Methylquinoxaline 
+     <bold>16</bold>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">−1.012</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5-Methylquinoxaline 
+     <bold>17</bold>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">−0.972</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2-Hydroxyquinoxaline-3-carboxylic acid 
+     <bold>18</bold>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">−0.458</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Quinoxaline-6-carboxylic acid 
+     <bold>19</bold>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">−0.923</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sodium quinoxaline-2,3-diyldimethanesulfonate (DSMeQUI) 
+     <bold>20</bold>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">−0.890</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

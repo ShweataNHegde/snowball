@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par18">Finally, to investigate the feasibility of the CMC electrolyte, we conducted an exploratory test involving a Ca–S battery, which is a very promising system owing to its high theoretical energy density of 3202 Wh L
+ <sup>−1</sup>
+ <sup>
+  <xref ref-type="bibr" rid="CR46">46</xref>
+ </sup>. A Ca–S battery, viz. Ca | CMC/DME/THF | S/C was tested with a current density of 167.2 mA g
+ <sup>−1</sup> (0.1 C per S) at room temperature (Fig. 
+ <xref rid="Fig5" ref-type="fig">5</xref>a). The initial discharge and charge capacities of the S/C cathode were up to 805 and 750 mAh g
+ <sup>−1</sup>, respectively. Furthermore, it displayed a flat voltage plateau of ~ 2.4 V vs. Ca
+ <sup>2+</sup>/Ca corresponding to the sulfur redox reactions with Ca (Fig. 
+ <xref rid="Fig5" ref-type="fig">5</xref>a inset)
+ <sup>
+  <xref ref-type="bibr" rid="CR47">47</xref>, 
+  <xref ref-type="bibr" rid="CR48">48</xref>
+ </sup>. To obtain information on the conversion reaction of the S/C cathode with Ca, XPS measurements were performed on the pristine electrode and the electrode after discharge. The S 2p spectra of the pristine S/C cathode display the spin–orbit-splitting doublet for elemental S with the S 2p
+ <sub>3/2</sub> and S 2p
+ <sub>1/2</sub> peaks at 164.0 and 165.2 eV, respectively (Fig. 
+ <xref rid="Fig5" ref-type="fig">5</xref>b top). After the electrode discharged to 0.5 V, the S 2p signal spectra can be deconvoluted into three doublet peaks. In addition to peaks of the elemental S, new peaks at 160.3 eV and 162.2 eV attributed to terminal sulfur atom in polysulfides of CaS
+ <sub>x</sub> (2 ≤ x &lt; 8) and calcium sulfide (CaS), respectively, reflecting the effective conversion of S to sulfides (Fig. 
+ <xref rid="Fig5" ref-type="fig">5</xref>b bottom). This result demonstrates the practical applicability of the CMC electrolyte for Ca–S batteries at room temperature, with a Ca metal anode.
+</p>

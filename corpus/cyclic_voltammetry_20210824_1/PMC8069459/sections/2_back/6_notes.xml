@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes notes-type="data-availability">
+ <title>Data Availability Statement</title>
+ <p>The data for of the voltammograms can be found here 
+  <uri xlink:href="https://doi.org/10.5281/zenodo.4670042" xmlns:xlink="http://www.w3.org/1999/xlink">https://doi.org/10.5281/zenodo.4670042</uri>. The NMR data can be provided upon request.
+ </p>
+</notes>

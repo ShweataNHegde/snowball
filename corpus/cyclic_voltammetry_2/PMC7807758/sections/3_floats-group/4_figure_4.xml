@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig4" position="float">
+ <label>Figure 4</label>
+ <caption>
+  <p>(A) Schematic model of the Randles equivalent circuit. (B) Nyquist plots of impedance data from cyclic voltammetry (black dot) and from fitting with the Randles circuit (red dot). (C) Cyclic voltammogram of the bare Au disk electrode in 0.105 M KClO
+   <sub>4</sub> with a scan rate of 50 mV/s (black solid line) and the fitted voltammogram from the equivalent circuit after the inverse Fourier transform to the time domain (red solid line).
+  </p>
+ </caption>
+ <graphic xlink:href="ao0c04702_0005" id="gr5" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

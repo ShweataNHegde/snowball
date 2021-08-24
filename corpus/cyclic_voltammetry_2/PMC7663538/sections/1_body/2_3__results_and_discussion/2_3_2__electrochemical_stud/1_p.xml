@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The electrochemical measurements were carried out following standardized test methods [
+ <xref rid="B41-materials-13-04906" ref-type="bibr">41</xref>]. The cyclic voltammetry (CV) tests were conducted in a 6 M KOH aqueous electrolyte at different scan rates and within a voltage window of 0–1V for all samples except CX, which was measured within a potential window of 0–0.8 V. As shown in 
+ <xref ref-type="fig" rid="materials-13-04906-f005">Figure 5</xref>a–c, the supercapacitors exhibit a near-rectangular CV curves, which indicate that they possess a close-to-ideal double-layer capacitive behavior. The cell capacitance (
+ <italic>C</italic>) at various scan rates was calculated using Equation (1), whereas the specific capacitance (
+ <italic>C
+  <sub>S</sub>
+ </italic>) was calculated using Equation (2) [
+ <xref rid="B41-materials-13-04906" ref-type="bibr">41</xref>,
+ <xref rid="B42-materials-13-04906" ref-type="bibr">42</xref>]:
+ <disp-formula id="FD1-materials-13-04906">
+  <label>(1)</label>
+  <math id="mm7">
+   <mrow>
+    <mrow>
+     <mi>C</mi>
+     <mo> </mo>
+     <mo>=</mo>
+     <mo> </mo>
+     <mstyle mathsize="140%" displaystyle="true">
+      <mo>∫</mo>
+     </mstyle>
+     <mi>I</mi>
+     <mi>d</mi>
+     <mi>v</mi>
+     <mo>/</mo>
+     <mi>v</mi>
+     <mo>Δ</mo>
+     <mi>v</mi>
+     <mo>,</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+ <disp-formula id="FD2-materials-13-04906">
+  <label>(2)</label>
+  <math id="mm8">
+   <mrow>
+    <mrow>
+     <mi>C</mi>
+     <mi>s</mi>
+     <mo> </mo>
+     <mo>=</mo>
+     <mo> </mo>
+     <mn>4</mn>
+     <mi>C</mi>
+     <mo>/</mo>
+     <mi>m</mi>
+     <mo>,</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where 
+ <inline-formula>
+  <math id="mm9">
+   <mrow>
+    <mrow>
+     <mo>∫</mo>
+     <mi>I</mi>
+     <mi>d</mi>
+     <mi>v</mi>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> is the integrated area under the CV curve, 
+ <inline-formula>
+  <math id="mm10">
+   <mrow>
+    <mi>v</mi>
+   </mrow>
+  </math>
+ </inline-formula> is the scan rate, 
+ <inline-formula>
+  <math id="mm1000">
+   <mrow>
+    <mrow>
+     <mo>Δ</mo>
+     <mi>v</mi>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> is the voltage window, and 
+ <inline-formula>
+  <math id="mm11">
+   <mrow>
+    <mrow>
+     <mi>m</mi>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> is the mass of the active material of the two electrodes. The factor 4 was used to calculate capacitance for a three electrodes equivalent system in order to make better comparison with the literature.
+</p>

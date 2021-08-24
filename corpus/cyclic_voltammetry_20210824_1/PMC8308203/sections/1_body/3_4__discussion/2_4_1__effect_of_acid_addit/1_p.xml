@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>During aqueous processing, the pH value of NMC 622 slurries without acid addition reached 12.1 after the mixing process, which is similar to already published results [
+ <xref rid="B17-nanomaterials-11-01840" ref-type="bibr">17</xref>,
+ <xref rid="B37-nanomaterials-11-01840" ref-type="bibr">37</xref>]. The increase of the slurry pH value is due to the Li
+ <sup>+</sup>/H
+ <sup>+</sup> exchange mechanism between layered oxide electrode materials and water, which leads to the formation of lithium hydroxide (LiOH) and other products such as LiHCO
+ <sub>3</sub> and Li
+ <sub>2</sub>CO
+ <sub>3</sub> [
+ <xref rid="B38-nanomaterials-11-01840" ref-type="bibr">38</xref>]. Since the cation exchange only takes place on the edges of the active material, a part of the protons in the surface of NMC 622 can be swapped with Li
+ <sup>+</sup> upon cycling. This may explain the increase of the discharge capacity of all cells with aqueous-based cathodes during the formation step, as shown in 
+ <xref ref-type="fig" rid="nanomaterials-11-01840-f006">Figure 6</xref>. When exposed to alkaline slurries, a local breakdown of the natural oxide layer on the aluminum current collector takes place, leading to the corrosion of the aluminum substrate and hydrogen formation [
+ <xref rid="B39-nanomaterials-11-01840" ref-type="bibr">39</xref>,
+ <xref rid="B40-nanomaterials-11-01840" ref-type="bibr">40</xref>,
+ <xref rid="B41-nanomaterials-11-01840" ref-type="bibr">41</xref>]. The generation of the hydrogen along the interface between the current collector and slurry results in a high porosity with values above 57% and cavities having a diameter larger than 100 µm inside the electrodes after the drying process, as shown in 
+ <xref ref-type="fig" rid="nanomaterials-11-01840-f003">Figure 3</xref>a. The size and number of pores inside the electrode are assumed to depend not only on the slurry pH value but also on wet film thickness (doctor blade height) and drying temperature. In this work, all electrodes were dried at room temperature. Therefore, the influence of temperature can be neglected. With increasing wet film thickness, the drying time is increased, which leads to a longer reaction time between alkaline slurry and Al-foil. This can be verified from the SEM images in 
+ <xref ref-type="fig" rid="nanomaterials-11-01840-f004">Figure 4</xref>, where the thin-film electrodes show fewer pores and cavities in comparison to the thick-film electrode with the same slurry pH value. Since the surface of the deposited slurry was dried faster due to stronger air convection, while the electrode close to the current collector stayed humid for a longer period of time. The formation of hydrogen along the current collector surface continued until the electrode is dried. Thus, the hydrogen bubbles were trapped inside the film during the drying process, forming craters on the surface which could be seen from cross section images in 
+ <xref ref-type="fig" rid="nanomaterials-11-01840-f003">Figure 3</xref>b as well as SEM images in 
+ <xref ref-type="fig" rid="nanomaterials-11-01840-f004">Figure 4</xref>a,b. The high porosity is disadvantageous for achieving high volumetric energy densities and thus counteracts the benefit of increasing the electrode thickness. Therefore, the slurry pH value adjustment is of great importance for aqueous electrode manufacturing.
+</p>

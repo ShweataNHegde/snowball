@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR33">
+ <label>33.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ganesan</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Kim</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Radhakrishnan</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>CoP embedded in hierarchical N-doped carbon nanotube frameworks as efficient electrocatalysts for the hydrogen evolution reaction</article-title>
+  <source>ChemElectroChem</source>
+  <year>2018</year>
+  <volume>5</volume>
+  <fpage>1644</fpage>
+  <lpage>1651</lpage>
+  <pub-id pub-id-type="doi">10.1002/celc.201800381</pub-id>
+ </element-citation>
+</ref>

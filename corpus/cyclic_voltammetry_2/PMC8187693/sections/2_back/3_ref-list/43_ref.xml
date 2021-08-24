@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR43">
+ <label>43.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kresse</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Joubert</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>From ultrasoft pseudopotentials to the projector augmented-wave method</article-title>
+  <source>Phys. Rev. B</source>
+  <year>1999</year>
+  <volume>59</volume>
+  <fpage>1758</fpage>
+  <lpage>1775</lpage>
+  <pub-id pub-id-type="doi">10.1103/PhysRevB.59.1758</pub-id>
+ </element-citation>
+</ref>

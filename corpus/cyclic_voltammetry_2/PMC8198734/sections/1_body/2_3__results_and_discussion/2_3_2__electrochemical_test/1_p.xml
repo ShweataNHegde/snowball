@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The electrochemical performances of the Si-based films as anode material in half cells were assessed using various electrochemical tests. These included electrochemical impedance spectroscopy (EIS), cyclic voltammetry (CV), and galvanostatic charge–discharge (GCD). Cyclic voltammetry tests were conducted with Si
+ <sub>3</sub>N
+ <sub>4</sub>@Si@Cu as an anode in a half-cell using Li metal as a counter and reference electrodes for 20 cycles between 0.05 and 1.2 V vs. Li
+ <sup>+</sup>/Li. As indicated in 
+ <xref ref-type="fig" rid="materials-14-02824-f008">Figure 8</xref>, three peaks in the cathodic (reduction) region were identified, which correspond to the discharging (lithiation) of the battery. These peaks are located at 0.28, 0.21, and 0.10 V. In the anodic (oxidation) region, two peaks were identified, which are located approximately at 0.34 and 0.50 V. This corresponds to the charging of the battery in which delithiation occurs. Apart from one cathodic peak in cycle 1, the positions of each peak are identical and overlap with each other throughout the 20 cycles. This implies that the Si-based anode has excellent recyclability. In addition, the as-prepared anode material has shown good reversibility. In comparison with a previous literature on amorphous Si (conducted at 0.01 mV/s) [
+ <xref rid="B36-materials-14-02824" ref-type="bibr">36</xref>], the voltammogram from this study is almost identical in terms of both the shapes and locations of peaks, except with one cathodic peak at 0.45 V that is only present in the CV plot of amorphous Si. On the contrary, CV curves for crystalline Si differ from the Si
+ <sub>3</sub>N
+ <sub>4</sub>@Si@Cu anode in this present work. The peaks for crystalline Si are less sharp and are shifted to lower voltages in the cathodic region [
+ <xref rid="B37-materials-14-02824" ref-type="bibr">37</xref>]. Therefore, these observations further support the characterization findings that the Si
+ <sub>3</sub>N
+ <sub>4</sub>@Si@Cu anode has an amorphous Si instead of crystalline Si morphology. The inset in 
+ <xref ref-type="fig" rid="materials-14-02824-f008">Figure 8</xref> shows cycle 1 of the Si
+ <sub>3</sub>N
+ <sub>4</sub>@Si@Cu anode (blue) in comparison with Si@Cu anode (red). Both anode materials have two anodic peaks located at the same position in terms of voltage. However, three cathodic peaks were present for the Si
+ <sub>3</sub>N
+ <sub>4</sub>@Si@Cu anode, while only two peaks were observed for the Si@Cu film. Specifically, the peak located at 0.1 V is missing. Another difference is the intensity of the peaks, where the Si
+ <sub>3</sub>N
+ <sub>4</sub>@Si@Cu anode reached a higher intensity (current) than the Si@Cu anode.
+</p>

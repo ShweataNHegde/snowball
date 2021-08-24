@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="molecules-26-04188-f007" orientation="portrait" position="float">
+ <label>Figure 7</label>
+ <caption>
+  <p>Electrochemical characterization of ZnO-coated AC at 100 ms and 70 °C: (
+   <bold>a</bold>) at different ALD coating cycles at the scan rate of 25 mV/s; (
+   <bold>b</bold>) CV loop of 6-cycle ZnO coating at different scan rates; (
+   <bold>c</bold>) GCD curves at different ALD coating cycles; (
+   <bold>d</bold>) Charge-discharge profiles of 6-cycle ZnO coating at 3.2 V using different current densities; (
+   <bold>e</bold>) EIS spectrum of various ZnO ALD coated AC; (f) Self-discharge behavior of various ZnO ALD coated AC.
+  </p>
+ </caption>
+ <graphic xlink:href="molecules-26-04188-g007" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yoo</surname>
+    <given-names>EJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Enhanced electrocatalytic activity of Pt subnanoclusters on graphene nanosheet surface</article-title>
+  <source>Nano Lett.</source>
+  <year>2009</year>
+  <volume>9</volume>
+  <fpage>2255</fpage>
+  <lpage>2259</lpage>
+  <pub-id pub-id-type="doi">10.1021/nl900397t</pub-id>
+  <?supplied-pmid 19405511?>
+  <pub-id pub-id-type="pmid">19405511</pub-id>
+ </element-citation>
+</ref>

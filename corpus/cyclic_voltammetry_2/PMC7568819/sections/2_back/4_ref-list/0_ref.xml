@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lin</surname>
+    <given-names>Z.</given-names>
+   </name>
+   <name>
+    <surname>Goikolea</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Balducci</surname>
+    <given-names>A.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Materials for supercapacitors: when Li-ion battery power is not enough</article-title>
+  <source>
+   <italic toggle="yes">Materials Today</italic>
+  </source>
+  <year>2018</year>
+  <volume>21</volume>
+  <issue>4</issue>
+  <fpage>419</fpage>
+  <lpage>436</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.mattod.2018.01.035</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-85042141101</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The charge capacity during consecutive GCD tests at increasing current densities (100, 200, and 1000 mA/g) was measured, and was then returned to 100 mA/g to investigate the effect of the capacity rate on performance (
+ <xref ref-type="fig" rid="materials-14-02824-f011">Figure 11</xref>c). In the first 10 cycles (100 mA/g), the charge capacity remained relatively constant at approximately 1350 mAh/g. The same trend was seen for a current density of 200 mA/g, with only a slight increase in charge capacity. Upon an increase in current density to 1000 mAh/g, the specific charge capacity dropped to 600 mAh/g and continued to increase until a maximum value just above 900 mAh/g was reached. When the current density was returned back to 100 mAh/g, the capacity gradually decreased from 1350 mAh/g. These results can be explained by a more severe structural evolution at lower rates due to in-depth repetitive Li-ion insertion and extraction compared to those at high rates. Furthermore, a remarkable difference in capacity retention was observed between Si
+ <sub>3</sub>N
+ <sub>4</sub>@Si@Cu and Si@Cu. The Si
+ <sub>3</sub>N
+ <sub>4</sub>@Si@Cu anode material achieved about 90%, whilst Si@Cu attained a 20% capacity retention. This indicates a significant battery performance for the as-prepared Si
+ <sub>3</sub>N
+ <sub>4</sub>@Si@Cu anode as opposed to Si@Cu film.
+</p>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>It is well known that the electrodeposition of vinyl polymer is initiated at the cathode, which provides electrons and activates free radicals to initiate polymerization [
+ <xref rid="B32" ref-type="bibr">32</xref>–
+ <xref rid="B36" ref-type="bibr">36</xref>]. As the electron-deficient C=C in the monomer accepts a cathodic electron, it forms a new free radical to propagate polymerization further. The coating has an FT-IR (
+ <xref ref-type="fig" rid="fig3">Figure 3(a)</xref>) similar to that of a reference PAA, which we separately synthesized by a standard free-radical polymerization procedure. They both reveal a small C=C content from an unreacted monomer. Although free-radical polymerization usually yields a linear polymer, apparently some chain-chain crosslinking (see schemes in 
+ <xref ref-type="fig" rid="fig3">Figure 3(b)</xref>) also exists in electrodeposited PAA, as evidenced by the C7, C8, and C9 peaks in 
+ <sup>13</sup>C-NMR (
+ <xref ref-type="fig" rid="fig3">Figure 3(c)</xref>) and the CH-OH component in C1
+ <italic>s</italic> and O1
+ <italic>s</italic> X-ray photoelectron spectroscopy (XPS, Figures 
+ <xref ref-type="fig" rid="fig3">3(d)</xref> and 
+ <xref ref-type="fig" rid="fig3">3(e)</xref>). A small extent of crosslinking is consistent with the better coating adhesion to C-containing electrodes (CCF, graphite paper, as well as activated carbon YP-50 and N-doped graphene, etc., to be described later) than to metal electrodes (Ti and stainless steel foils, Au film), because polymer can covalently bond to C on the C-containing electrodes. Indeed, a C precoat of metal electrodes using a plasma treatment greatly improved their adhesion with subsequent PAA coating (Fig. 
+ <xref ref-type="supplementary-material" rid="supplementary-material-1">S11A-B</xref>). Lastly, alternating the voltage polarity during deposition produced a more adherent coating (Fig. 
+ <xref ref-type="supplementary-material" rid="supplementary-material-1">S11C</xref>). This is because while hydrogen bubbles may form in cathodic charging (
+ <xref ref-type="fig" rid="fig2">Figure 2(a)</xref>) to degrade the interface, their nucleation takes time, so reversing the voltage polarity frequently will deprive incubation time, hence preventing bubble nucleation. This phenomenon was already seen in solid oxide electrochemical cells albeit at a temperature of 750 K higher [
+ <xref rid="B37" ref-type="bibr">37</xref>].
+</p>

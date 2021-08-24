@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Koshtyal</surname>
+   <given-names>Yury</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-nanomaterials-11-00907">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-9582-7566</contrib-id>
+  <name>
+   <surname>Mitrofanov</surname>
+   <given-names>Ilya</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-nanomaterials-11-00907">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nazarov</surname>
+   <given-names>Denis</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-nanomaterials-11-00907">1</xref>
+  <xref ref-type="aff" rid="af2-nanomaterials-11-00907">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Medvedev</surname>
+   <given-names>Oleg</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-nanomaterials-11-00907">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kim</surname>
+   <given-names>Artem</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-nanomaterials-11-00907">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ezhov</surname>
+   <given-names>Ilya</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-nanomaterials-11-00907">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rumyantsev</surname>
+   <given-names>Aleksander</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-nanomaterials-11-00907">1</xref>
+  <xref ref-type="aff" rid="af3-nanomaterials-11-00907">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Popovich</surname>
+   <given-names>Anatoly</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-nanomaterials-11-00907">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-7870-4751</contrib-id>
+  <name>
+   <surname>Maximov</surname>
+   <given-names>Maxim Yu.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-nanomaterials-11-00907">1</xref>
+  <xref rid="c1-nanomaterials-11-00907" ref-type="corresp">*</xref>
+ </contrib>
+</contrib-group>

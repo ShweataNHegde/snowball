@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To figure out the root of the excellent electrochemical performance of the P2‐Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub> electrode in depth, the Na‐ion migration paths and energy barriers were explored via first‐principles computations based on the DFT. 
+ <bold>Figure</bold> 
+ <xref rid="advs2021-fig-0005" ref-type="fig">
+  <bold>5</bold>a
+ </xref> shows the primitive cell of P2‐Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub>, where the blue arrow points out the optimum migration path following Na1→Na2→Na1. Note that the atomic positions of Na, Cu, Fe, and Mn are simulated based on their atomic ratios and occupancies (Table S1 in the Supporting Information), and the migration path near the Cu‐doping site is selected to figure out the effect of Cu‐doping on the Na
+ <sup>+</sup> migration behavior in the layered oxide lattice. As elucidated in Figure 
+ <xref rid="advs2021-fig-0005" ref-type="fig">5b</xref>, the Na
+ <sup>+</sup> migration barrier in the Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub> crystal is calculated to be about 0.18 eV using the climbing image nudged elastic band (cNEB) method, while the ionic migration barrier in Na
+ <sub>2/3</sub>Fe
+ <sub>1/2</sub>Mn
+ <sub>1/2</sub>O
+ <sub>2</sub> is 0.29 eV. This result provides another solid evidence that the substitution of Fe by Cu is beneficial for the facile Na
+ <sup>+</sup> diffusion. It is noteworthy that the sodium‐ion diffusion barrier in Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub> is much lower than those in other reported Na‐storage cathode materials (mostly ≥0.3 eV),
+ <sup>[</sup>
+ <xref rid="advs2021-bib-0053" ref-type="ref">
+  <sup>53</sup>
+ </xref>
+ <sup>]</sup> accounting for the superb reaction kinetics of the present material. Interestingly, the projected density of states (DOS) of P2‐Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub> manifest some metallic properties (Figure 
+ <xref rid="advs2021-fig-0005" ref-type="fig">5c</xref>), which are responsible for the distinguished rate capability due to the desirable electronic conductivity. Meanwhile, the DOS of Na
+ <sub>2/3</sub>Fe
+ <sub>1/2</sub>Mn
+ <sub>1/2</sub>O
+ <sub>2</sub> is presented in Figure S19 (Supporting Information).
+</p>

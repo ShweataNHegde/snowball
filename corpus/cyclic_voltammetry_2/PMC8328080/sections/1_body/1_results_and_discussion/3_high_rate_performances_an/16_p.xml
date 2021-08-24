@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The energy efficiency loss related to the OER overpotential can be estimated from the difference between the OER plateau of the charge curves and the thermoneutral potential for OER of different samples (0.601 V 
+ <italic>vs.</italic> Hg/HgO 
+ <italic>cf.</italic> calculations in ESI
+ <xref ref-type="fn" rid="fn1">†</xref>):
+ <disp-formula id="eqn6">
+  <label>6</label>
+  <graphic xlink:href="d1ma00024a-t28.jpg" id="ugt28" position="float" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </disp-formula>where 
+ <italic>E</italic>
+ <sub>TN</sub>(OER) is the thermoneutral potential of OER, and 
+ <italic>V</italic>
+ <sub>OER</sub> is the potential of the OER plateau.
+</p>

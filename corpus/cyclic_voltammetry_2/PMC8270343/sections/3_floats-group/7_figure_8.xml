@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="molecules-26-03858-f008" orientation="portrait" position="float">
+ <label>Figure 8</label>
+ <caption>
+  <p>(
+   <bold>a</bold>) True and predicted responses regarding the number of electrons transferred during the ORR process and the appropriate errors for the four investigated materials; (
+   <bold>b</bold>) the predicted vs. actual plot for the Stepwise Linear Regression model.
+  </p>
+ </caption>
+ <graphic xlink:href="molecules-26-03858-g008" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

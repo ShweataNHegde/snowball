@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="tbl1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <title>
+   <italic>R</italic>
+   <sub>o</sub>, 
+   <italic>R</italic>
+   <sub>si</sub>, and 
+   <italic>R</italic>
+   <sub>ct</sub> Values for NC-S, S/MgB
+   <sub>2</sub>, and NC-S/MgB
+   <sub>2</sub> Cathodes
+  </title>
+ </caption>
+ <table frame="hsides" rules="groups" border="0">
+  <colgroup>
+   <col align="left"/>
+   <col align="char" char="."/>
+   <col align="char" char="."/>
+   <col align="char" char="."/>
+  </colgroup>
+  <thead>
+   <tr>
+    <th style="border:none;" align="center">cathode</th>
+    <th style="border:none;" align="center" char=".">
+     <italic>R</italic>
+     <sub>o</sub> (Ω)
+    </th>
+    <th style="border:none;" align="center" char=".">
+     <italic>R</italic>
+     <sub>si</sub> (Ω)
+    </th>
+    <th style="border:none;" align="center" char=".">
+     <italic>R</italic>
+     <sub>ct</sub> (Ω)
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td style="border:none;" align="left">NC-S</td>
+    <td style="border:none;" align="char" char=".">5.1</td>
+    <td style="border:none;" align="char" char=".">30.7</td>
+    <td style="border:none;" align="char" char=".">33.9</td>
+   </tr>
+   <tr>
+    <td style="border:none;" align="left">S/MgB
+     <sub>2</sub>
+    </td>
+    <td style="border:none;" align="char" char=".">2.8</td>
+    <td style="border:none;" align="char" char=".">7.1</td>
+    <td style="border:none;" align="char" char=".">5.1</td>
+   </tr>
+   <tr>
+    <td style="border:none;" align="left">NC-S/MgB
+     <sub>2</sub>
+    </td>
+    <td style="border:none;" align="char" char=".">2.2</td>
+    <td style="border:none;" align="char" char=".">5.5</td>
+    <td style="border:none;" align="char" char=".">3.9</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

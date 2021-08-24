@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Skorupska</surname>
+   <given-names>Malgorzata</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Ilnicka</surname>
+   <given-names>Anna</given-names>
+  </name>
+  <address>
+   <email>ailnicka@umk.pl</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lukaszewicz</surname>
+   <given-names>Jerzy P.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.5374.5</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0943 6490</institution-id>
+   <institution>Faculty of Chemistry, </institution>
+   <institution>Nicolaus Copernicus University in Torun, </institution>
+  </institution-wrap>Gagarina 7, 87-100 Torun, Poland 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.5374.5</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0943 6490</institution-id>
+   <institution>Centre for Modern Interdisciplinary Technologies, </institution>
+   <institution>Nicolaus Copernicus University in Torun, </institution>
+  </institution-wrap>Wilenska 4, 87-100 Torun, Poland 
+ </aff>
+</contrib-group>

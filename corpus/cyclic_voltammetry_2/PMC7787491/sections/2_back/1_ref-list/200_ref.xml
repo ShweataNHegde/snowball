@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R200">
+ <label>200</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Garcia</surname>
+    <given-names>G.</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Ventosa</surname>
+    <given-names>E.</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Schuhmann</surname>
+    <given-names>W.</given-names>
+   </name>
+  </person-group>, 
+  <article-title>Complete prevention of dendrite formation in Zn metal anodes by means of pulsed charging protocols</article-title>. 
+  <source>ACS Appl. Mater. Interfaces</source>
+  <volume>9</volume>, 
+  <fpage>18691</fpage>–
+  <lpage>18698</lpage> (
+  <year>2017</year>).
+  <pub-id pub-id-type="pmid">28503924</pub-id>
+ </mixed-citation>
+</ref>

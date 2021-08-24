@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B23">
+ <label>23</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lee</surname>
+    <given-names>K. T.</given-names>
+   </name>
+   <name>
+    <surname>Tsai</surname>
+    <given-names>C. B.</given-names>
+   </name>
+   <name>
+    <surname>Ho</surname>
+    <given-names>W. H.</given-names>
+   </name>
+   <name>
+    <surname>Wu</surname>
+    <given-names>N. L.</given-names>
+   </name>
+  </person-group>
+  <article-title>Superabsorbent polymer binder for achieving MnO2 supercapacitors of greatly enhanced capacitance density</article-title>
+  <source>
+   <italic toggle="yes">Electrochemistry Communications</italic>
+  </source>
+  <year>2010</year>
+  <volume>12</volume>
+  <issue>7</issue>
+  <fpage>886</fpage>
+  <lpage>889</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.elecom.2010.04.012</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-77955655188</pub-id>
+ </element-citation>
+</ref>

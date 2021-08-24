@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes" id="ath1">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1103-3329</contrib-id>
+  <name>
+   <surname>Kondo</surname>
+   <given-names>Yasuyuki</given-names>
+  </name>
+  <xref rid="cor1" ref-type="other">*</xref>
+  <xref rid="aff1" ref-type="aff">†</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath2">
+  <name>
+   <surname>Fukutsuka</surname>
+   <given-names>Tomokazu</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">‡</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath3">
+  <name>
+   <surname>Yokoyama</surname>
+   <given-names>Yuko</given-names>
+  </name>
+  <xref rid="aff3" ref-type="aff">§</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath4">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4662-0996</contrib-id>
+  <name>
+   <surname>Miyahara</surname>
+   <given-names>Yuto</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">†</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath5">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-5177-3570</contrib-id>
+  <name>
+   <surname>Miyazaki</surname>
+   <given-names>Kohei</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">†</xref>
+  <xref rid="aff4" ref-type="aff">∥</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath6">
+  <name>
+   <surname>Abe</surname>
+   <given-names>Takeshi</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">†</xref>
+  <xref rid="aff4" ref-type="aff">∥</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>†</label>Graduate School of Engineering, 
+  <institution>Kyoto University</institution>, Nishikyo-ku, 615-8510 Kyoto, 
+  <country>Japan</country>
+ </aff>
+ <aff id="aff2">
+  <label>‡</label>Graduate School of Engineering, 
+  <institution>Nagoya University</institution>, Furo-cho, Chikusa-ku, 464-8603 Nagoya, 
+  <country>Japan</country>
+ </aff>
+ <aff id="aff3">
+  <label>§</label>Office of Society-Academia Collaboration for Innovation, 
+  <institution>Kyoto University</institution>, Nishikyo-ku, 615-8510 Kyoto, 
+  <country>Japan</country>
+ </aff>
+ <aff id="aff4">
+  <label>∥</label>Element Strategy Initiative for Catalysts &amp; Batteries, 
+  <institution>Kyoto University</institution>, Nishikyo-ku, 615-8246 Kyoto, 
+  <country>Japan</country>
+ </aff>
+</contrib-group>

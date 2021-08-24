@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig2" orientation="portrait" position="float">
+ <label>Figure 2</label>
+ <caption>
+  <p>Expanding electrochemical window (ECW) by PAA coating. (a) Water droplet on uncoated/coated Ti foil and graphite paper (GP). (b) Coated electrode held at −1.8 V for 50 seconds reveals uncoated portion (PKU) highlighted by fogging from hydrogen bubbling. (c) Corresponding (120 keV) transmission electron microscope (TEM) images of the PAA layer on CCF after 20 cycles. (d) PAA layer thickness versus number of cycles. Cycling CCF electrode in 2 M Mg:2AA solution by cyclic voltammetry (CV) cycles between −2.0 and 2.0 V at the scan rate of 50 mV s
+   <sup>−1</sup> expanded ECW, evident from the enlarged view of (e) cathodic and (f) anodic extremes of (g) electrochemical stability scan. (d–f) Used three-electrode configuration with reticulated vitreous carbon counter electrode and Ag/AgCl reference electrode.
+  </p>
+ </caption>
+ <graphic xlink:href="RESEARCH2020-4178179.002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B6-materials-14-04348">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ast</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Ghidelli</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Durst</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Göken</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Sebastiani</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Korsunsky</surname>
+    <given-names>A.</given-names>
+   </name>
+  </person-group>
+  <article-title>A review of experimental approaches to fracture toughness evaluation at the micro-scale</article-title>
+  <source>Mater. Des.</source>
+  <year>2019</year>
+  <volume>173</volume>
+  <fpage>107762</fpage>
+  <pub-id pub-id-type="doi">10.1016/j.matdes.2019.107762</pub-id>
+ </element-citation>
+</ref>

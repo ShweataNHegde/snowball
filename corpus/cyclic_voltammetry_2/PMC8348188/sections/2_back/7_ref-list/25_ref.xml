@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B25-materials-14-04331">
+ <label>25.</label>
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sheldrick</surname>
+    <given-names>G.M.</given-names>
+   </name>
+  </person-group>
+  <source>SHELXL-97, Program for Crystal Structure Refinement</source>
+  <publisher-name>University of Goettingen</publisher-name>
+  <publisher-loc>Goettingen, Germany</publisher-loc>
+  <year>1997</year>
+ </element-citation>
+</ref>

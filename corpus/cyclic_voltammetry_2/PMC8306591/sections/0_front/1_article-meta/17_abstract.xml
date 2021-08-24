@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract>
+ <p>Fabricating electrical double-layer capacitors (EDLCs) with high energy density for various applications has been of great interest in recent years. However, activated carbon (AC) electrodes are restricted to a lower operating voltage because they suffer from instability above a threshold potential window. Thus, they are limited in their energy storage. The deposition of inorganic compounds’ atomic layer deposition (ALD) aiming to enhance cycling performance of supercapacitors and battery electrodes can be applied to the AC electrode materials. Here, we report on the investigation of zinc oxide (ZnO) coating strategy in terms of different pulse times of precursors, ALD cycles, and deposition temperatures to ensure high electrical conductivity and capacitance retention without blocking the micropores of the AC electrode. Crystalline ZnO phase with its optimal forming condition is obtained preferably using a longer precursor pulse time. Supercapacitors comprising AC electrodes coated with 20 cycles of ALD ZnO at 70 °C and operated in TEABF
+  <sub>4</sub>/acetonitrile organic electrolyte show a specific capacitance of 23.13 F g
+  <sup>−1</sup> at 5 mA cm
+  <sup>−2</sup> and enhanced capacitance retention at 3.2 V, which well exceeds the normal working voltage of a commercial EDLC product (2.7 V). This work delivers an additional feasible approach of using ZnO ALD modification of AC materials, enhancing and promoting stable EDLC cells under high working voltages.
+ </p>
+</abstract>

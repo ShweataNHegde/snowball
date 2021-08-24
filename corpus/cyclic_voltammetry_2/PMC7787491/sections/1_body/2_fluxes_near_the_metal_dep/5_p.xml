@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In pure solution-phase reactions, the diffusion-limited regime is observed as a plateau in a 
+ <italic>J</italic> versus η plot, similar to what is observed in the red region in 
+ <xref rid="F3" ref-type="fig">Fig. 3B</xref>. In contrast, the nature of electrodeposition, in which a solid, conductive phase is created, allows the morphology of the electrode surface to evolve as the deposition proceeds. Since the diffusion layer thickness δ
+ <sub>O</sub> is proportional to 
+ <italic>t</italic>
+ <sup>1/2</sup> (
+ <xref rid="R23" ref-type="bibr">
+  <italic>23</italic>
+ </xref>, 
+ <xref rid="R46" ref-type="bibr">
+  <italic>46</italic>
+ </xref>), the electrodeposits can penetrate this diffusion layer and maintain contact with sufficient cations if it grows at a rate faster than δ
+ <sub>O</sub>. This leads to the observation of an overlimiting regime in metal deposition reactions (
+ <xref rid="F3" ref-type="fig">Fig. 3B</xref>) that can be quite different from classical expectations (
+ <xref rid="R47" ref-type="bibr">
+  <italic>47</italic>
+ </xref>). A second consequence of this chemotaxis-like electrodeposit growth is the increase in deposit porosity and the transition in crystal texturing—Horizontally oriented Zn plates observed at a underlimiting current density are tilted up above 
+ <italic>J</italic>
+ <sub>lim</sub>, which can be captured by x-ray diffraction (see the section discussing crystallography for details) (
+ <xref rid="R28" ref-type="bibr">
+  <italic>28</italic>
+ </xref>). When a rotating disk electrode (RDE) is applied to artificially limit the diffusion layer thickness δ
+ <sub>O</sub> to a small value of &lt;10 μm, the reorientation from horizontal to vertical is completely suppressed, and the strong (002) texturing of Zn is preserved throughout the deposition.
+</p>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In comparison with an ion-selective membrane, additional morphological heterogeneities and instabilities are at play on a reacting electrode surface where metal deposition reactions occur. While there have been a few studies of the electroosmotic flow near reacting electrodes (
+ <xref rid="R69" ref-type="bibr">
+  <italic>69</italic>
+ </xref>), a quantitative framework that integrated both the morphological and hydrodynamic instabilities is not yet available (
+ <xref rid="R68" ref-type="bibr">
+  <italic>68</italic>
+ </xref>). The qualitative understanding of a convective flow’s effect on the electrodeposition morphology appears, however, straightforward. It can be understood as one considers the Nernst-Planck equation governing the mass transport in a dilute electrolyte: 
+ <inline-formula>
+  <math id="m11">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>N</mi>
+      <mi>i</mi>
+     </msub>
+     <mo stretchy="false">(</mo>
+     <mi>x</mi>
+     <mo stretchy="false">)</mo>
+     <mo>=</mo>
+     <mo>−</mo>
+     <msub>
+      <mi>D</mi>
+      <mi>i</mi>
+     </msub>
+     <mfrac>
+      <mrow>
+       <mi mathvariant="normal">∂</mi>
+       <msub>
+        <mi>C</mi>
+        <mi>i</mi>
+       </msub>
+       <mo stretchy="false">(</mo>
+       <mi>x</mi>
+       <mo stretchy="false">)</mo>
+      </mrow>
+      <mrow>
+       <mi mathvariant="normal">∂</mi>
+       <mi>x</mi>
+      </mrow>
+     </mfrac>
+     <mo>−</mo>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mi>z</mi>
+        <mi>i</mi>
+       </msub>
+       <mi>F</mi>
+      </mrow>
+      <mi mathvariant="normal">RT</mi>
+     </mfrac>
+     <msub>
+      <mi>D</mi>
+      <mi>i</mi>
+     </msub>
+     <msub>
+      <mi>C</mi>
+      <mi>i</mi>
+     </msub>
+     <mfrac>
+      <mrow>
+       <mi mathvariant="normal">∂</mi>
+       <mo>∅</mo>
+       <mo stretchy="false">(</mo>
+       <mi>x</mi>
+       <mo stretchy="false">)</mo>
+      </mrow>
+      <mrow>
+       <mi mathvariant="normal">∂</mi>
+       <mi>x</mi>
+      </mrow>
+     </mfrac>
+     <mo>+</mo>
+     <msub>
+      <mi>C</mi>
+      <mi>i</mi>
+     </msub>
+     <mi>v</mi>
+     <mo stretchy="false">(</mo>
+     <mi>x</mi>
+     <mo stretchy="false">)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>, where the terms describe the contribution from diffusion, migration, and convection, respectively. As captured by the convection term, the pattern of convective vortices will strongly influence the mass transport flux, and the metal deposition morphology in a diffusion-limited regime therefore exhibits an obvious correlation with the hydrodynamic states of the liquid electrolyte—The metal preferentially grows at localities with normal flow velocities toward the electrode surface (
+ <xref rid="F3" ref-type="fig">Fig. 3D-2</xref>) (
+ <xref rid="R70" ref-type="bibr">
+  <italic>70</italic>
+ </xref>). It is therefore imperative that this type of convective flows, regardless of the specific origins (e.g., buoyancy, charge imbalance, etc.), be effectively suppressed in an operating battery anode. One may naively conclude that this can be fulfilled by adopting battery cycling protocols that ensure the system stays away from the diffusion limit. In reality, the operation of a macroscopic battery system creates local states [e.g., around hotspots of metal deposition (
+ <xref rid="R71" ref-type="bibr">
+  <italic>71</italic>
+ </xref>)] that are far away from the apparent condition. This means that additional intervention is needed to address the issue. Recent reports show that addition of high–molecular weight polymers delays the onset of convective flow in metal deposition and substantially enlarges the diffusion-limited regime (
+ <xref rid="R72" ref-type="bibr">
+  <italic>72</italic>
+ </xref>). The entanglement among the polymer chains above a threshold concentration introduces elasticity to the liquid electrolyte that attenuates convective flows (
+ <xref rid="R73" ref-type="bibr">
+  <italic>73</italic>
+ </xref>). DNS study further shows that the flow velocity is reduced mainly due to the polymers’ strong resistance to extensional motion (
+ <xref rid="R74" ref-type="bibr">
+  <italic>74</italic>
+ </xref>).
+</p>

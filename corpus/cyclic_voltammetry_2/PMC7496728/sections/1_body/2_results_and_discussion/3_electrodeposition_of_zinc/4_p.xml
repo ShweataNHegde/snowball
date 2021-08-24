@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>An interesting observation we make from potentiodynamic Zn deposition (i.e., without anodic Zn stripping “B”) is that Zn exhibits a strong morphology gradient with respect to the distance from the electrolyte meniscus (
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>b, here shown for 10 voltammetric deposition cycles corresponding to 
+ <xref rid="fig5" ref-type="fig">Figure 
+  <xref rid="fig5" ref-type="fig">5</xref>
+ </xref>b, see also Supporting Information 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S6</ext-link> for additional AFM and SEM data). Near the meniscus, a coherent, thick Zn coating on the graphene electrode is observed with an average thickness of about 1–2 μm (estimated from the side view SEM image in Supporting Information 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S6</ext-link>). The SEM image at higher magnification and the AFM image in Supporting Information 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S6</ext-link> show that the coherent Zn coating is composed of an assembly of nanograins with an apparent average lateral size of about 100 nm, fully consistent with the polycrystalline nature of the deposits measured by XRD. With increasing distance from the electrolyte meniscus, the amount of deposited Zn drastically decreases. In the lower immersed third of the electrode, only individual Zn nanoparticles (≈ 100 nm lateral size and ≈ 50 nm height, Supporting Information 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S6</ext-link>) on graphene can be observed. Given that the amount of deposited Zn decreases with increasing distance from the electrolyte meniscus (and also the nonimmersed graphene electrode’s silver epoxy contact), this points to a strong influence of an 
+ <italic>iR</italic> drop along the graphene layer during electrodeposition. The resistance of the graphene causes a potential drop along the graphene film that continuously increases with the distance to the electrolyte meniscus/silver epoxy contact. This leads to a gradient of the local current density for metal deposition, which is reflected in the amount of deposited zinc decreasing with distance from the electrolyte meniscus. The situation is similar to the current density distribution in a Hull cell, which is caused by the inclined arrangement of the cathode.
+ <sup>
+  <xref ref-type="bibr" rid="ref72">72</xref>
+ </sup> Similar results for inhomogeneous metal deposition on carbon electrodes have been achieved in bipolar electrochemistry.
+ <sup>
+  <xref ref-type="bibr" rid="ref73">73</xref>
+ </sup> Furthermore, bipolar cathodic grafting of 4-bromobenzene on monolayer graphene films has produced similar results.
+ <sup>
+  <xref ref-type="bibr" rid="ref65">65</xref>
+ </sup>
+</p>

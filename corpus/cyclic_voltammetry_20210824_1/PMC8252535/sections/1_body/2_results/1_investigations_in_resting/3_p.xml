@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Calculating the theoretical ORR peak current density for this system with the Randles–Sevcik equation for reversible (or totally irreversible) processes (See the Supporting Information) leads to 153.5 μA cm
+ <sup>−2</sup> (or 85.5 μA cm
+ <sup>−2</sup> for 
+ <math id="jats-math-14">
+  <msub>
+   <mi>z</mi>
+   <mi>α</mi>
+  </msub>
+ </math> =1, 120.9 μA cm
+ <sup>−2</sup> for 
+ <math id="jats-math-15">
+  <msub>
+   <mi>z</mi>
+   <mi>α</mi>
+  </msub>
+ </math> =2) for a two electron process and for a one electron process 54.5 μA cm
+ <sup>−2</sup> (or 42.7 μA cm
+ <sup>−2</sup> for 
+ <math id="jats-math-16">
+  <msub>
+   <mi>z</mi>
+   <mi>α</mi>
+  </msub>
+ </math> =1), where 
+ <math id="jats-math-17">
+  <msub>
+   <mi>z</mi>
+   <mi>α</mi>
+  </msub>
+ </math> is the number of electrons transferred in the rds. The comparison with the experimental values which are larger than 100 μA cm
+ <sup>−2</sup> indicates peroxide as main product. Combining this fact with the lower number of defects in single crystalline surfaces compared to poly crystalline surfaces, explains the observed differences in ORR and OER current: Thus, the nucleation of CaO
+ <sub>2</sub> (or possibly CaO) is hindered at both Au(111) and Au(100) surfaces but facile at Au(pc) surfaces. This leads to a faster decay in ORR current at Au(pc) electrodes and a larger OER current, owing to increased deposition of CaO
+ <sub>2</sub> on the electrode surface as compared to Au(111) and Au(100). This also explains the much higher oxidation charge of ca. 1860 μC cm
+ <sup>−2</sup> at the polycrystalline surface as compared to the single crystal surfaces.
+</p>

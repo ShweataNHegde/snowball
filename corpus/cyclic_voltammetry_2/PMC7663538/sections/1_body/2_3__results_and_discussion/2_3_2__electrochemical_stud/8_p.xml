@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Electrochemical impedance spectroscopy (EIS) has been widely utilized in evaluating the electrochemical performance of supercapacitors. We carried out EIS tests on the different CX electrodes by applying a frequency range from 100 KHz to 1 mHz with a sinusoidal signal amplitude of 10 mV. 
+ <xref ref-type="fig" rid="materials-13-04906-f007">Figure 7</xref> displays the Nyquist plots for CX, Ag-CX, NiCo1/Ag-CX, NiCo5/Ag-CX, and NiCo10/Ag-CX. The imaginary part of the Nyquist plots sharply increases and a nearly vertical line is observed in the low frequency range owing to the dominant double-layer capacitive behavior of the electrodes. Furthermore, all the electrodes exhibit a semicircle in the high frequency range due to the charge/transfer resistance (R
+ <sub>CT</sub>) at the electrode/electrolyte interface. The larger the diameter of the semicircle, the higher the resistance [
+ <xref rid="B48-materials-13-04906" ref-type="bibr">48</xref>]. The intersection of the semicircle with the real axis at around −45° represents the equivalent series resistance (ESR). The extracted ESR values of the different electrodes are listed in 
+ <xref rid="materials-13-04906-t003" ref-type="table">Table 3</xref>. We observed that the R
+ <sub>CT</sub> and the ESR decrease in the following order: CX → Ag-CX → NiCo10/Ag-CX → NiCo5/Ag-CX → NiCo1/Ag-CX. The low R
+ <sub>CT</sub> and ESR values of the NiCo1/Ag-CX supercapacitor further confirms high charge transfer and ion diffusion rates between the electrolyte and the active electrode material, in good agreement with the cyclic voltammetry and galvanostatic charge/discharge results.
+</p>

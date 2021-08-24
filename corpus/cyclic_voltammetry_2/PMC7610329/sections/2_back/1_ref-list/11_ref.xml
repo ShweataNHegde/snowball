@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="advs2021-bib-0012">
+ <label>12</label>
+ <mixed-citation publication-type="journal" id="advs2021-cit-0012">
+  <string-name>
+   <given-names>H.‐H.</given-names>
+   <surname>Sun</surname>
+  </string-name>, 
+  <string-name>
+   <given-names>J.‐Y.</given-names>
+   <surname>Hwang</surname>
+  </string-name>, 
+  <string-name>
+   <given-names>C. S.</given-names>
+   <surname>Yoon</surname>
+  </string-name>, 
+  <string-name>
+   <given-names>A.</given-names>
+   <surname>Heller</surname>
+  </string-name>, 
+  <string-name>
+   <given-names>C. B.</given-names>
+   <surname>Mullins</surname>
+  </string-name>, 
+  <source xml:lang="en">ACS Nano</source>
+  <year>2018</year>, 
+  <volume>12</volume>, 
+  <elocation-id>12912</elocation-id>.
+  <pub-id pub-id-type="pmid">30475595</pub-id>
+ </mixed-citation>
+</ref>

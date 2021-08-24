@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="materials-14-02824-f010" orientation="portrait" position="float">
+ <label>Figure 10</label>
+ <caption>
+  <p>GCD profile of Si
+   <sub>3</sub>N
+   <sub>4</sub>@Si@Cu in a half cell at (
+   <bold>a</bold>) 100 mA/g, (
+   <bold>b</bold>) 200 mA/g, and (
+   <bold>c</bold>) 1000 mA/g. (
+   <bold>d</bold>) First GCD cycle of Si
+   <sub>3</sub>N
+   <sub>4</sub>@Si@Cu in a half cell at different current densities.
+  </p>
+ </caption>
+ <graphic xlink:href="materials-14-02824-g010a" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ <graphic xlink:href="materials-14-02824-g010b" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

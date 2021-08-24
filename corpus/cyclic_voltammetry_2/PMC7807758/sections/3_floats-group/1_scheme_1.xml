@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="sch1" position="float">
+ <label>Scheme 1</label>
+ <caption>
+  <title>Illustration of Estimation of the Charging Current for Cyclic Voltammetry</title>
+  <p id="s1fn1">Equivalent circuits composed of solution resistance and either (A) conventional double-layer capacitance or (B) constant-phase element (CPE) with corresponding phasor diagrams. (C) Procedures for predicting cyclic voltammogram by the Fourier transform. Details are described in the main article.</p>
+ </caption>
+ <graphic xlink:href="ao0c04702_0006" id="gr1" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

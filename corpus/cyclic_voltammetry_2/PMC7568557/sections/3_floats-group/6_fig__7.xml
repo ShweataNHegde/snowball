@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig7">
+ <label>Fig. 7</label>
+ <caption>
+  <title>Convex energy hull of Na
+   <sub>2</sub>S
+   <sub>
+    <italic>y</italic>
+   </sub> phases per mol of S (
+   <italic>x</italic> = 2/
+   <italic>y</italic>) from DFT calculations.
+  </title>
+  <p>Energy of solid Na
+   <sub>2</sub>S
+   <sub>
+    <italic>y</italic>
+   </sub> structures is shown with black symbols relative to end-member compositions of solid Na
+   <sub>2</sub>S and S. The energies of molecular Na
+   <sub>2</sub>S
+   <sub>
+    <italic>y</italic>
+   </sub> geometries bound to the p-CoS
+   <sub>2</sub> (100) surface (magenta), graphene surface (brown) and in the free liquid state (blue) with implicit solvation are shown with dashed lines.
+  </p>
+ </caption>
+ <graphic xlink:href="41467_2020_19078_Fig7_HTML" id="d30e1750" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term> LMO </term>
+   <def>
+    <p id="Par11">Lithium manganese oxide</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term> HF </term>
+   <def>
+    <p id="Par12">Hydrofluoric</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term> LIBs </term>
+   <def>
+    <p id="Par13">Lithium-ion batteries</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term> Mn </term>
+   <def>
+    <p id="Par14">Manganese</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term> SEI </term>
+   <def>
+    <p id="Par15">Solid electrolyte interphase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term> Fc </term>
+   <def>
+    <p id="Par16">Ferrocene</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term> EC </term>
+   <def>
+    <p id="Par17">Ethylene carbonate</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term> DEC </term>
+   <def>
+    <p id="Par18">Diethyl carbonate</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term> PVdF </term>
+   <def>
+    <p id="Par19">Polyvinylidene fluoride</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term> Pt </term>
+   <def>
+    <p id="Par20">Platinum</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term> PP </term>
+   <def>
+    <p id="Par21">Polypropylene</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term> PE </term>
+   <def>
+    <p id="Par22">Polyethylene</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term> CV </term>
+   <def>
+    <p id="Par23">Cyclic voltammetry</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term> OCV </term>
+   <def>
+    <p id="Par24">Open-circuit voltage</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

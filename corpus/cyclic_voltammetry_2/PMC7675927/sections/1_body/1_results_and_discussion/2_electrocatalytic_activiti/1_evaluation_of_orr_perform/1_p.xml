@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The electrocatalytic ORR activities of the three kinds of oxides, bearing distinct structures were evaluated using an LSV technique in O
+ <sub>2</sub>-saturated 0.1 M potassium hydroxide (KOH) solution using a typical three-electrode system, as shown in 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S3</ext-link>. A rotating-disk electrode (RDE, 5 mm diameter) was used as the working electrode. Details of the electrochemical measurements are described in the 
+ <xref rid="sec4" ref-type="other">Experimental Section</xref>. 
+ <xref rid="fig3" ref-type="fig">Figure 
+  <xref rid="fig3" ref-type="fig">3</xref>
+ </xref>a highlights the 
+ <italic>iR</italic>-corrected LSV curves for the three types of oxides with ORR current density per electrode disk area. The loading amounts of CMOs on the RDE were adjusted on the basis of the BET specific surface areas of these catalysts; i.e., the net BET surface area of CMO on each RDE was set to 0.63 cm
+ <sup>2</sup>
+ <sub>BET</sub> cm
+ <sup>–2</sup>
+ <sub>disk</sub>. 
+ <xref rid="fig3" ref-type="fig">Figure 
+  <xref rid="fig3" ref-type="fig">3</xref>
+ </xref>a highlights the superior ORR activity of CMO_L when compared to CMO_T and S. Additionally, the corresponding Tafel slope of CMO_L was lower than those of CMO_T and S (
+ <xref rid="fig3" ref-type="fig">Figure 
+  <xref rid="fig3" ref-type="fig">3</xref>
+ </xref>b), which also indicated the favorable ORR kinetics in CMO_L. The electron transfer numbers (
+ <italic>n</italic>) during ORR were further examined using a rotating ring-disk electrode (RRDE). 
+ <xref rid="fig3" ref-type="fig">Figure 
+  <xref rid="fig3" ref-type="fig">3</xref>
+ </xref>c displays the ring currents and calculated 
+ <italic>n</italic> in regions where ORR currents appeared. The variable 
+ <italic>n</italic> of CMO_L was found to be above 3.62, which was significantly higher than those of CMO_T and S. Although the ORR in CMO_L does not completely follow a direct four-electron transfer pathway, the electrochemical analyses confirmed that CMO_L exhibits better ORR performance as compared to CMO_T and S, even though the ORR activity was lower than that of benchmark Pt/C (
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S4</ext-link>). However, the three types of oxides contain different amounts of metal contents. We then calculated the ORR mass activities at 0.75 V vs. RHE, which were normalized by loading metal amounts per RDE area and BET specific surface areas of the catalyst particles, respectively. Because the conductive CNT support in the catalyst layer on the RDE can also catalyze ORR, the ORR mass and specific activities were calculated using the actual ORR currents of CMOs, which was obtained by the subtraction of the ORR current of the CNT at 0.75 V (
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S5</ext-link>). 
+ <xref rid="fig3" ref-type="fig">Figure 
+  <xref rid="fig3" ref-type="fig">3</xref>
+ </xref>d demonstrates that CMO_L has the lowest ORR mass activity among the oxides, which was attributed to the much smaller BET specific surface area and larger particle size of CMO_L than those of CMO_T and S, as shown in 
+ <xref rid="tbl1" ref-type="other">Table 
+  <xref rid="tbl1" ref-type="other">1</xref>
+ </xref>. We also calculated turnover frequencies (TOFs) of the CMOs based on the loaded weight of metals on the electrodes and compare. The TOFs of CMO_L are smaller than those of CMO_T and S as shown in 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Table S2</ext-link>. Nevertheless, the specific activity (excluding the effect of surface area) expresses the intrinsic catalytic activities and is a more important characteristic for catalysts. The CV curves of CMOs in 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S6</ext-link> show that the shapes of redox peaks in the CV curves are different among CMOs. It indicates that the three types of CMOs had different surface characteristics. Thus, we adjusted the loaded amount of CMOs on the RDE based on BET specific surface areas. It is noteworthy that CMO_L displayed a significantly higher ORR specific activity, which was 4.4 and 5.6 times larger than those of CMO_T and S, respectively (
+ <xref rid="fig3" ref-type="fig">Figure 
+  <xref rid="fig3" ref-type="fig">3</xref>
+ </xref>e). Furthermore, the ORR specific activity of CMO_L was comparable to or even higher than those of the previously reported nonprecious bimetallic oxides containing 3d transition metals that can catalyze ORR and OER in alkaline media (
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Table S1</ext-link>). Therefore, the ORR activity depends on the metal coordination fashion of electrocatalysts; i.e., a layer structure highly benefits the ORR activity.
+</p>

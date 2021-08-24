@@ -1,0 +1,1632 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2198-3844</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7610329</article-id><article-id pub-id-type="doi">10.1002/advs.202002199</article-id><article-id pub-id-type="publisher-id">ADVS2021</article-id><article-categories><subj-group subj-group-type="overline"><subject>Full Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Full Papers</subject></subj-group></article-categories><title-group><article-title>Dual&#x02010;Strategy of Cation&#x02010;Doping and Nanoengineering Enables Fast and Stable Sodium&#x02010;Ion Storage in a Novel Fe/Mn&#x02010;Based Layered Oxide Cathode</article-title></title-group><contrib-group><contrib id="advs2021-cr-0001" contrib-type="author"><name><surname>Shen</surname><given-names>Qiuyu</given-names></name><xref ref-type="aff" rid="advs2021-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs2021-cr-0002" contrib-type="author"><name><surname>Zhao</surname><given-names>Xudong</given-names></name><xref ref-type="aff" rid="advs2021-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs2021-cr-0003" contrib-type="author" corresp="yes"><name><surname>Liu</surname><given-names>Yongchang</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1998-9309</contrib-id><xref ref-type="aff" rid="advs2021-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="advs2021-aff-0002">
+<sup>2</sup>
+</xref><address><email>liuyc@ustb.edu.cn</email></address></contrib><contrib id="advs2021-cr-0004" contrib-type="author"><name><surname>Li</surname><given-names>Youpeng</given-names></name><xref ref-type="aff" rid="advs2021-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="advs2021-cr-0005" contrib-type="author"><name><surname>Zhang</surname><given-names>Jian</given-names></name><xref ref-type="aff" rid="advs2021-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="advs2021-cr-0006" contrib-type="author" corresp="yes"><name><surname>Zhang</surname><given-names>Ning</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6176-7278</contrib-id><xref ref-type="aff" rid="advs2021-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="advs2021-aff-0005">
+<sup>5</sup>
+</xref><address><email>ningzhang@hbu.edu.cn</email></address></contrib><contrib id="advs2021-cr-0007" contrib-type="author"><name><surname>Yang</surname><given-names>Chenghao</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3214-328X</contrib-id><xref ref-type="aff" rid="advs2021-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="advs2021-cr-0008" contrib-type="author"><name><surname>Chen</surname><given-names>Jun</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7330-8976</contrib-id><xref ref-type="aff" rid="advs2021-aff-0004">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="advs2021-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Beijing Advanced Innovation Center for Materials Genome Engineering</named-content>
+<named-content content-type="organisation-division">Institute for Advanced Materials and Technology</named-content>
+<named-content content-type="organisation-division">State Key Laboratory for Advanced Metals and Materials</named-content>
+<institution>University of Science and Technology Beijing</institution>
+<city>Beijing</city>
+<postal-code>100083</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs2021-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Key Laboratory of Advanced Energy Materials Chemistry (Ministry of Education)</named-content>
+<institution>Nankai University</institution>
+<city>Tianjin</city>
+<postal-code>300071</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs2021-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">New Energy Research Institute</named-content>
+<named-content content-type="organisation-division">School of Environment and Energy</named-content>
+<institution>South China University of Technology</institution>
+<city>Guangzhou</city>
+<postal-code>510006</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs2021-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Beijing Advanced Innovation Center for Materials Genome Engineering</named-content>
+<named-content content-type="organisation-division">School of Mathematics and Physics</named-content>
+<institution>University of Science and Technology Beijing</institution>
+<city>Beijing</city>
+<postal-code>100083</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs2021-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">College of Chemistry &#x00026; Environmental Science</named-content>
+<institution>Hebei University</institution>
+<city>Baoding</city>
+<postal-code>071002</postal-code>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>E&#x02010;mail: <email>liuyc@ustb.edu.cn</email>; <email>ningzhang@hbu.edu.cn</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>24</day><month>9</month><year>2020</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2020</year></pub-date><volume>7</volume><issue>21</issue><issue-id pub-id-type="doi">10.1002/advs.v7.21</issue-id><elocation-id>2002199</elocation-id><history><date date-type="received"><day>11</day><month>6</month><year>2020</year></date><date date-type="rev-recd"><day>29</day><month>7</month><year>2020</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 Wiley&#x02010;VCH GmbH <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors. Published by Wiley&#x02010;VCH GmbH</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ADVS-7-2002199.pdf"/><abstract><title>Abstract</title><p>Iron/manganese&#x02010;based layered transition metal oxides have risen to prominence as prospective cathodes for sodium&#x02010;ion batteries (SIBs) owing to their abundant resources and high theoretical specific capacities, yet they still suffer from rapid capacity fading. Herein, a dual&#x02010;strategy is developed to boost the Na&#x02010;storage performance of the Fe/Mn&#x02010;based layered oxide cathode by copper (Cu) doping and nanoengineering. The P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> cathode material synthesized by electrospinning exhibits the pearl necklace&#x02010;like hierarchical nanostructures assembled by nanograins with sizes of 50&#x02013;150 nm. The synergistic effects of Cu doping and nanotechnology enable high Na<sup>+</sup> coefficients and low ionic migration energy barrier, as well as highly reversible structure evolution and Cu/Fe/Mn valence variation upon repeated sodium insertion/extraction; thus, the P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces yield fabulous rate capability (125.4 mA h g<sup>&#x02212;1</sup> at 0.1 C with 56.5 mA h g<sup>&#x02212;1</sup> at 20 C) and excellent cyclic stability (&#x02248;79% capacity retention after 300 cycles). Additionally, a promising energy density of 177.4 Wh kg<sup>&#x02212;1</sup> is demonstrated in a prototype soft&#x02010;package Na&#x02010;ion full battery constructed by the tailored nano&#x02010;necklaces cathode and hard carbon anode. This work symbolizes a step forward in the development of Fe/Mn&#x02010;based layered oxides as high&#x02010;performance cathodes for SIBs.</p></abstract><abstract id="advs2021-abs-0001" abstract-type="graphical"><p>Pearl necklace&#x02010;like hierarchical nanostructures of a P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> cathode are synthesized by electrospinning and evaluated in sodium&#x02010;ion batteries. The synergistic effects of Cu doping and nanoengineering enable high Na<sup>+</sup> coefficients and low ionic migration energy barrier, as well as highly reversible structure evolution and Cu/Fe/Mn valence variation upon repeated sodium insertion/extraction, rendering fabulous rate capability and excellent cyclic stability.
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xlink:href="ADVS-7-2002199-g007.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs2021-kwd-0001">electrospinning</kwd><kwd id="advs2021-kwd-0002">Fe/Mn&#x02010;based layered oxide cathodes</kwd><kwd id="advs2021-kwd-0003">nanoengineering</kwd><kwd id="advs2021-kwd-0004">nanostructures</kwd><kwd id="advs2021-kwd-0005">reaction mechanisms</kwd><kwd id="advs2021-kwd-0006">sodium&#x02010;ion batteries</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Natural Science Foundation of China </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>21805007</award-id><award-id>21805066</award-id><award-id>21825102</award-id></award-group><award-group id="funding-0002"><funding-source>Young Elite Scientists Sponsorship Program by CAST</funding-source><award-id>2018QNRC001</award-id></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>National Key Research and Development Program of China </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100012166</institution-id></institution-wrap></funding-source><award-id>2018YFB0104303</award-id></award-group><award-group id="funding-0004"><funding-source><institution-wrap><institution>Beijing Natural Science Foundation </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100004826</institution-id></institution-wrap></funding-source><award-id>L182019</award-id></award-group><award-group id="funding-0005"><funding-source><institution-wrap><institution>Fundamental Research Funds for the Central Universities </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100012226</institution-id></institution-wrap></funding-source><award-id>FRF&#x02010;TP&#x02010;19&#x02010;029A2</award-id><award-id>FRF&#x02010;TP&#x02010;20&#x02010;020A3</award-id></award-group><award-group id="funding-0006"><funding-source><institution-wrap><institution>Natural Science Foundation of Hebei Province </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100003787</institution-id></institution-wrap></funding-source><award-id>B2019201160</award-id></award-group><award-group id="funding-0007"><funding-source>Top Young Talents Project of Hebei Education Department</funding-source><award-id>BJ2019052</award-id></award-group><award-group id="funding-0008"><funding-source><institution-wrap><institution>111 Project </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100013314</institution-id></institution-wrap></funding-source><award-id>B12015</award-id><award-id>B170003</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="0"/><page-count count="12"/><word-count count="7855"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 4, 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.9.3 mode:remove_FC converted:04.11.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs2021-cit-0054">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <article-title>Dual&#x02010;Strategy of Cation&#x02010;Doping and Nanoengineering Enables Fast and Stable Sodium&#x02010;Ion Storage in a Novel Fe/Mn&#x02010;Based Layered Oxide Cathode</article-title>. <source xml:lang="en">Adv. Sci.</source>
+<year>2020</year>, <volume>7</volume>, <elocation-id>2002199</elocation-id>
+<pub-id pub-id-type="doi">10.1002/advs.202002199</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="advs2021-sec-0010"><label>1</label><title>Introduction</title><p>Realizing a secure and sustainable energy supply sets a high standard for large&#x02010;scale energy storage systems, which requires the systematic utilization of renewable energy sources and thus facilitates the development of rechargeable batteries.<sup>[</sup>
+<xref rid="advs2021-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref>
+<sup>]</sup> Recently, researches on sodium&#x02010;ion batteries (SIBs) continuously surge owing to the inexhaustible supply and wide distribution of sodium resources compared with lithium, and the similar electrochemistry to that of lithium&#x02010;ion batteries. These advantages pave the way for SIBs to be a forthcoming candidate for grid&#x02010;scale energy storage applications.<sup>[</sup>
+<xref rid="advs2021-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="advs2021-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref>, <xref rid="advs2021-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>
+<sup>]</sup> Nonetheless, the larger size in conjunction with the heavier mass of Na<sup>+</sup> versus Li<sup>+</sup> commonly leads to undesirable sluggish reaction kinetics and even severe structural collapse of Na&#x02010;storage electrode materials, hindering this technology to reach a commercial prosperity.<sup>[</sup>
+<xref rid="advs2021-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>, <xref rid="advs2021-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>
+<sup>]</sup> Given that cathode is the crucial element dominating the cost and electrochemical performance of batteries, great efforts should be devoted to exploring advanced cathode materials with high redox potential, high capacity, and rapid sodium&#x02010;ion mobility.<sup>[</sup>
+<xref rid="advs2021-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="advs2021-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>
+<sup>]</sup> Among the various reported cathode candidates, such as transition metal oxides (TMOs),<sup>[</sup>
+<xref rid="advs2021-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="advs2021-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="advs2021-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref>, <xref rid="advs2021-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>, <xref rid="advs2021-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="advs2021-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>, <xref rid="advs2021-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>, <xref rid="advs2021-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref>
+<sup>]</sup> polyanion&#x02010;type compounds,<sup>[</sup>
+<xref rid="advs2021-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref>, <xref rid="advs2021-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref>, <xref rid="advs2021-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref>, <xref rid="advs2021-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref>, <xref rid="advs2021-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref>, <xref rid="advs2021-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref>
+<sup>]</sup> Prussian blue analogs,<sup>[</sup>
+<xref rid="advs2021-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref>
+<sup>]</sup> and organic salts,<sup>[</sup>
+<xref rid="advs2021-bib-0024" ref-type="ref">
+<sup>24</sup>
+</xref>
+<sup>]</sup> layered TMOs have gained considerable attention on account of their high theoretical capacities and special 2D structural merits.<sup>[</sup>
+<xref rid="advs2021-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="advs2021-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="advs2021-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref>
+<sup>]</sup> Typically, the layered TMOs can be mainly divided into two polymorphs: P2 type (P: prismatic) and O3 type (O: octahedral) in accordance with the coordination environment of Na ions, where the &#x0201c;2&#x0201d; or &#x0201c;3&#x0201d; means the number of transition metal layers in a single cell unit.<sup>[</sup>
+<xref rid="advs2021-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref>
+<sup>]</sup> The P2&#x02010;type oxides featuring large prismatic residing sites and facile diffusion paths for sodium ions generally exhibit better electrochemical properties than the O3&#x02010;type materials.<sup>[</sup>
+<xref rid="advs2021-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref>, <xref rid="advs2021-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref>, <xref rid="advs2021-bib-0029" ref-type="ref">
+<sup>29</sup>
+</xref>, <xref rid="advs2021-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref>
+<sup>]</sup> For instance, P2&#x02010;Na<sub>2/3</sub>Fe<sub>1/2</sub>Mn<sub>1/2</sub>O<sub>2</sub> is recognized to be an appealing cathode for SIBs in view of its abundance and low cost in raw materials, environmental benignity, and remarkable theoretical specific capacity (175 mA h g<sup>&#x02212;1</sup>).<sup>[</sup>
+<xref rid="advs2021-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref>, <xref rid="advs2021-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref>, <xref rid="advs2021-bib-0032" ref-type="ref">
+<sup>32</sup>
+</xref>
+<sup>]</sup> However, deteriorated cycling performance is usually observed for this material due to the Jahn&#x02013;Teller lattice distortions caused by Mn<sup>3+</sup> and the phase transitions at high voltage during Na<sup>+</sup> (de)intercalation.<sup>[</sup>
+<xref rid="advs2021-bib-0033" ref-type="ref">
+<sup>33</sup>
+</xref>, <xref rid="advs2021-bib-0034" ref-type="ref">
+<sup>34</sup>
+</xref>, <xref rid="advs2021-bib-0035" ref-type="ref">
+<sup>35</sup>
+</xref>, <xref rid="advs2021-bib-0036" ref-type="ref">
+<sup>36</sup>
+</xref>
+<sup>]</sup>
+</p><p>Aiming at addressing the aforementioned issues facing the layered Na&#x02010;Fe&#x02010;Mn&#x02010;O system, a variety of strategies have been attempted to achieve better electrochemical performance, such as metallic cations (Ti<sup>4+</sup>, Cu<sup>2+</sup>, Co<sup>3+</sup>, etc.) doping to stabilize the P2 structure,<sup>[</sup>
+<xref rid="advs2021-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref>, <xref rid="advs2021-bib-0035" ref-type="ref">
+<sup>35</sup>
+</xref>, <xref rid="advs2021-bib-0037" ref-type="ref">
+<sup>37</sup>
+</xref>, <xref rid="advs2021-bib-0038" ref-type="ref">
+<sup>38</sup>
+</xref>, <xref rid="advs2021-bib-0039" ref-type="ref">
+<sup>39</sup>
+</xref>, <xref rid="advs2021-bib-0040" ref-type="ref">
+<sup>40</sup>
+</xref>, <xref rid="advs2021-bib-0041" ref-type="ref">
+<sup>41</sup>
+</xref>, <xref rid="advs2021-bib-0042" ref-type="ref">
+<sup>42</sup>
+</xref>
+<sup>]</sup> surface engineering to retard the detrimental side reactions,<sup>[</sup>
+<xref rid="advs2021-bib-0043" ref-type="ref">
+<sup>43</sup>
+</xref>, <xref rid="advs2021-bib-0044" ref-type="ref">
+<sup>44</sup>
+</xref>
+<sup>]</sup> or nanosizing to shorten the ionic diffusion paths.<sup>[</sup>
+<xref rid="advs2021-bib-0045" ref-type="ref">
+<sup>45</sup>
+</xref>
+<sup>]</sup> For example, Rojo's group successfully synthesized a Ti&#x02010;substituted P2&#x02010;Na<sub>2/3</sub>Mn<sub>0.8</sub>Fe<sub>0.1</sub>Ti<sub>0.1</sub>O<sub>2</sub> material, which turned out to proceed with a solid solution reaction rather than the P2&#x02010;O2 phase transition during the charge/discharge process and showed a long cycling life of 87% capacity retention after 300 cycles.<sup>[</sup>
+<xref rid="advs2021-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref>
+<sup>]</sup> Hu and co&#x02010;workers fabricated a free&#x02010;standing electrode of P2&#x02010;Na<sub>2/3</sub>Fe<sub>1/2</sub>Mn<sub>1/2</sub>O<sub>2</sub> with graphene flakes, in which the 2D graphene effectively improved the reaction activity of the oxide particles by forming a 3D conductive network, delivering a fascinating discharge capacity of 156 mA h g<sup>&#x02212;1</sup> at 0.1 C with a capacity retention of 61% after 40 cycles.<sup>[</sup>
+<xref rid="advs2021-bib-0043" ref-type="ref">
+<sup>43</sup>
+</xref>
+<sup>]</sup> Guo's team focused on the morphology design and the tailored P2&#x02010;Na<sub>2/3</sub>Fe<sub>1/2</sub>Mn<sub>1/2</sub>O<sub>2</sub> nanofibers enabled an optimized rate performance of 142 mA h g<sup>&#x02212;1</sup> and 52 mA h g<sup>&#x02212;1</sup> at 1 C and 15 C, respectively.<sup>[</sup>
+<xref rid="advs2021-bib-0045" ref-type="ref">
+<sup>45</sup>
+</xref>
+<sup>]</sup> Despite inspiring progresses have been made, in terms of practical applications, it is still not competent to well combine good cyclic stability with superior rate capability in P2&#x02010;Na<sub>2/3</sub>Fe<sub>1/2</sub>Mn<sub>1/2</sub>O<sub>2</sub> only through a single modification route. Considering that cations doping can stabilize the crystal structure and nanoengineering can facilitate the reaction kinetics, the incorporation of the aforementioned two strategies may offer an opportunity to simultaneously boost the fast and stable sodium&#x02010;ion storage in a Fe/Mn&#x02010;based layered oxide cathode. However, to the best of our knowledge, such a dual&#x02010;strategy has scarcely been adopted which still remains a big challenge to date.</p><p>In the light of the foregoing, we herein successfully synthesized the pearl necklace&#x02010;like hierarchical nanostructures of a novel P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> cathode through electrospinning and fully dug out the effects of Cu<sup>2+</sup> doping on electrochemical properties. Such a distinctive nano&#x02010;necklace architecture assembled by secondary nanograins (50&#x02013;150 nm, the smallest size ever reached for Fe/Mn&#x02010;based layered oxides) can expose rich active sites readily accessible to electrolyte, shorten the ionic diffusion distance, and alleviate the nanoparticles from aggregation upon repeated Na<sup>+</sup> insertion/extraction. Meanwhile, the Cu substitution of Fe is proved to accelerate the Na<sup>+</sup> transportation and restrain the Na<sup>+</sup>/vacancy ordering during cycling. Consequently, outstanding rate capability (125.4 mA h g<sup>&#x02212;1</sup> at 0.1 C and 56.5 mA h g<sup>&#x02212;1</sup> at 20 C) and excellent cycling stability (&#x02248;79% capacity retention after 300 cycles) between 2.0 and 4.0 V are simultaneously achieved. The reaction mechanism behind the superb performance regarding structure evolution and valence variation of Cu/Fe/Mn is monitored by in operando X&#x02010;ray diffraction (XRD) and ex situ X&#x02010;ray photoelectron spectroscopy (XPS). Moreover, through galvanostatic intermittent titration technique (GITT), cyclic voltammetry (CV), electrochemical impedance spectroscopy (EIS), and density functional theory (DFT) computations, the electrode process kinetics concerning Na&#x02010;ion diffusivity and Na<sup>+</sup> migration energy barrier are systematically investigated. In addition, a soft&#x02010;package sodium&#x02010;ion full battery employing the as&#x02010;prepared P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> cathode and the hard carbon anode is well established, exhibiting bright practical prospects.</p></sec><sec id="advs2021-sec-0020"><label>2</label><title>Results and Discussion</title><p>The target P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces were successfully synthesized via a facile electrospinning method followed by annealing processes. As shown in <bold>Figure</bold>&#x000a0;<xref rid="advs2021-fig-0001" ref-type="fig">
+<bold>1</bold>a</xref>, the XRD Rietveld refinement of the as&#x02010;prepared Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> reveals that most of the diffraction peaks can be indexed to a hexagonal P2&#x02010;structure with a space group <italic>P</italic>6<sub>3</sub>
+<italic>/mmc</italic> (JCPDS No. 54&#x02013;0894), meanwhile, a good agreement between the experimental and the calculated data is obtained (<italic>R</italic>
+<sub>wp</sub> = 8.55%). Due to the limited solubility of Cu<sup>2+</sup> in the P2&#x02010;structure, the presence of minor CuO impurity (3.5%) is confirmed. This phenomenon has also been reported before in other copper&#x02010;doped P2&#x02010;phase materials.<sup>[</sup>
+<xref rid="advs2021-bib-0040" ref-type="ref">
+<sup>40</sup>
+</xref>, <xref rid="advs2021-bib-0046" ref-type="ref">
+<sup>46</sup>
+</xref>
+<sup>]</sup> The lattice parameters, which are refined to be <italic>a</italic> = <italic>b</italic> = 2.9146 &#x000c5;, <italic>c</italic> = 11.2104 &#x000c5;, and <italic>V</italic> = 82.478 &#x000c5;<sup>3</sup>, turn out to be bigger than those of the standard P2&#x02010;structured material resulting from the larger ionic radius of Cu<sup>2+</sup> (0.73 &#x000c5;) than that of Fe<sup>3+</sup> (0.645 &#x000c5;). This indicates that the copper ions have been successfully incorporated into the TMO<sub>2</sub> layers, providing more interstitial spaces for Na<sup>+</sup> ions diffusion.<sup>[</sup>
+<xref rid="advs2021-bib-0040" ref-type="ref">
+<sup>40</sup>
+</xref>, <xref rid="advs2021-bib-0041" ref-type="ref">
+<sup>41</sup>
+</xref>
+<sup>]</sup> The detailed structure information regarding lattice parameters, thermal factors, agreement factors, atomic sites, and occupancies determined by the Rietveld refined XRD is exhibited in Table S1 (Supporting Information). The P2&#x02010;type crystalline structure acquired from the fitted results is plotted in Figure&#x000a0;<xref rid="advs2021-fig-0001" ref-type="fig">1b</xref>. Along the <italic>c</italic>&#x02010;axis, oxygen slabs are stacked in an ABBAAB sequence and sodium ions are located at two different prismatic sites, namely, Na1 and Na2 sharing faces and edges with MO<sub>6</sub> octahedra, respectively.<sup>[</sup>
+<xref rid="advs2021-bib-0038" ref-type="ref">
+<sup>38</sup>
+</xref>
+<sup>]</sup> The Cu/Fe/Mn ions occupy the octahedral sites of TMO<sub>2</sub> layers in a random distribution. Figure&#x000a0;<xref rid="advs2021-fig-0001" ref-type="fig">1c</xref> clearly displays the scanning electron microscopy (SEM) image of the electrospun precursor sample, presenting smooth and continuous nanofibers that weave into a 3D network. After a thermal treatment at 850 &#x000b0;C for 6 h, the continuous 1D nanostructures are inherited and still maintain an average diameter of around 200 nm (Figure&#x000a0;<xref rid="advs2021-fig-0001" ref-type="fig">1d</xref>); myriads of irregular nanograins string tightly together to constitute the pearl necklace&#x02010;like hierarchitectures. When viewed at a lower magnification, the as&#x02010;spun nanofibers and the annealed nano&#x02010;necklaces both demonstrate a wide&#x02010;range and uniform production (Figure S1, Supporting Information). The microstructure is further scrutinized by transmission electron microscopy (TEM) image (Figure&#x000a0;<xref rid="advs2021-fig-0001" ref-type="fig">1e</xref>) and high&#x02010;magnification SEM image (Figure S2 in the Supporting Information), disclosing that the sizes of the secondary nanograins mostly range from 50 to 150 nm. To the best of our knowledge, these are the smallest particles ever reported for the Fe/Mn&#x02010;based layered oxides. The high&#x02010;resolution TEM (HRTEM) image is subsequently presented in Figure&#x000a0;<xref rid="advs2021-fig-0001" ref-type="fig">1f</xref>, intuitively corroborating the layered structure of P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> with the (002) interplanar distance of 0.56 nm, as is also validated in the fast Fourier transform (FFT) image (inset of Figure&#x000a0;<xref rid="advs2021-fig-0001" ref-type="fig">1f</xref>). The selected&#x02010;area electron diffraction (SAED) pattern (Figure&#x000a0;<xref rid="advs2021-fig-0001" ref-type="fig">1g</xref>) featuring concentric rings suggests the polycrystalline nature of the Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nanograins. The narrower lattice fringes with an interplanar spacing of 0.23 nm can be well attributed to the (102) plane (Figure&#x000a0;<xref rid="advs2021-fig-0001" ref-type="fig">1h</xref>). Meanwhile, the high&#x02010;angle annular dark field (HAADF) TEM image (Figure&#x000a0;<xref rid="advs2021-fig-0001" ref-type="fig">1i</xref>) also exhibits the (102) plane and the bright dots depict the positions of transition metal (Cu/Fe/Mn) atoms. A homogenous distribution of elements in the P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces such as Na, Cu, Fe, Mn, and O is verified by energy dispersive spectroscopy (EDS) mapping (Figure&#x000a0;<xref rid="advs2021-fig-0001" ref-type="fig">1j</xref>). Besides, in order to gain the ideal structure and morphology, the calcination temperature and time have been adjusted reasonably (Figures S3 and S4 in the Supporting Information). It is found that a mixture of P3 + P2 phases is obtained at a low temperature of 750 &#x000b0;C. With the temperature rising to 800 &#x000b0;C, the percentage of P3 phase is decreasing and the P2 phase gradually plays a dominant role. Finally, the pure phase of P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> is achieved at 850 &#x000b0;C. Moreover, a sintering time of 2 h is too short for the target necklace&#x02010;morphology to form uniformly, while a long time (10 h) will cause the collapse of necklace&#x02010;framework and the local agglomeration of oxide nanograins. Therefore, it is believed that an annealing temperature of 850 &#x000b0;C with a time of 6 h should be the most appropriate condition in this work.</p><fig fig-type="Figure" xml:lang="en" id="advs2021-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Structural and morphological characterizations: a) Rietveld refined XRD pattern with corresponding cell parameters of the as&#x02010;prepared Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub>. b) Schematic illustration of the P2&#x02010;type crystal structure. SEM images of the c) electrospun nanofibers and d) resultant Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces. e) TEM image, f) HRTEM image with an inset of FFT image, g) SAED pattern, h,i) HRTEM images, and j) SEM&#x02010;EDS mapping images of the Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces.</p></caption><graphic id="nlm-graphic-3" xlink:href="ADVS-7-2002199-g001"/></fig><p>TEM&#x02010;EDS spectrum and mapping images (Figure S5, Supporting Information) reveal that the molar ratio of Na:Cu:Fe:Mn in the as&#x02010;prepared oxide is 0.76:0.22:0.30:0.48, and the elements are homogenously distributed in a single nanograin. The inductively coupled plasma (ICP) analysis further ascertains that the Na/Cu/Fe/Mn molar ratio is in good accordance with the anticipated values. The chemical compositions of the Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces have also been investigated by XPS, no peaks other than Na, Cu, Fe, Mn, and O elements appear in the survey spectrum (Figure S6, Supporting Information), indicating the high purity of the product. In addition, N<sub>2</sub> adsorption&#x02013;desorption measurement was conducted on the Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> sample (Figure S7, Supporting Information), displaying a typical type&#x02010;IV behavior with an obvious hysteresis loop at relative pressure (<italic>P</italic>/<italic>P</italic>
+<sub>0</sub>) ranging from 0.5 to 1.0. Correspondingly, the specific surface area is 66.58 m<sup>2</sup> g<sup>&#x02212;1</sup> calculated from the Brunauere&#x02013;Emmette&#x02013;Teller method, and the Barrette&#x02013;Joynere&#x02013;Halenda pore sizes are between 2 and 20 nm.</p><p>Prior to electrochemical measurements on the P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces cathode, CV and galvanostatic charge/discharge tests were first performed on the P2&#x02010;Na<sub>2/3</sub>Fe<sub>1/2</sub>Mn<sub>1/2</sub>O<sub>2</sub> sample, which was prepared using the similar method without the addition of Cu source. Figure S8a (Supporting Information) shows the CV curves of the P2&#x02010;Na<sub>2/3</sub>Fe<sub>1/2</sub>Mn<sub>1/2</sub>O<sub>2</sub> cathode cycled at a scan rate of 0.1 mV s<sup>&#x02212;1</sup> between 2.0 and 4.0 V. The anodic peaks at potentials of 3.45 and 3.9 V, as well as the cathodic peak at around 3.8 V, correspond to the redox reactions of the Fe<sup>3+</sup>/Fe<sup>4+</sup> couple;<sup>[</sup>
+<xref rid="advs2021-bib-0034" ref-type="ref">
+<sup>34</sup>
+</xref>, <xref rid="advs2021-bib-0038" ref-type="ref">
+<sup>38</sup>
+</xref>
+<sup>]</sup> while the peaks below 2.5 V should be attributed to the redox reactions of the Mn<sup>3+</sup>/Mn<sup>4+</sup> couple.<sup>[</sup>
+<xref rid="advs2021-bib-0046" ref-type="ref">
+<sup>46</sup>
+</xref>, <xref rid="advs2021-bib-0047" ref-type="ref">
+<sup>47</sup>
+</xref>
+<sup>]</sup> Compared with the CV profiles of the Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces cathode in <bold>Figure</bold>&#x000a0;<xref rid="advs2021-fig-0002" ref-type="fig">
+<bold>2</bold>a</xref>, the main difference is that the oxidation peak at 3.45 V related to the abovementioned Fe<sup>3+</sup>/Fe<sup>4+</sup> redox process disappears and the curves become more sloping and flat. This phenomenon can be interpreted as the Fe<sup>3+</sup>/Fe<sup>4+</sup> redox peaks are able to merge with the oxidation/reduction peaks of Cu<sup>2+</sup>/Cu<sup>3+</sup> (4.0/3.9 V).<sup>[</sup>
+<xref rid="advs2021-bib-0038" ref-type="ref">
+<sup>38</sup>
+</xref>, <xref rid="advs2021-bib-0040" ref-type="ref">
+<sup>40</sup>
+</xref>
+<sup>]</sup> Similar results are also observed in the charge/discharge profiles of the two electrodes. As elucidated in Figure S8b (Supporting Information), several voltage plateaus of the P2&#x02010;Na<sub>2/3</sub>Fe<sub>1/2</sub>Mn<sub>1/2</sub>O<sub>2</sub> electrode are in great coincidence with the CV study and there is a distinct plateau located at &#x02248;3.45 V on the charge curve, which is related to the Na<sup>+</sup>/vacancy ordering due to the gliding of oxygen planes, resulting in the formation of some unfavorable intermediate phases.<sup>[</sup>
+<xref rid="advs2021-bib-0034" ref-type="ref">
+<sup>34</sup>
+</xref>, <xref rid="advs2021-bib-0048" ref-type="ref">
+<sup>48</sup>
+</xref>
+<sup>]</sup> Note that although the P2&#x02010;Na<sub>2/3</sub>Fe<sub>1/2</sub>Mn<sub>1/2</sub>O<sub>2</sub> electrode delivers a high initial discharge capacity of 129.9 mA h g<sup>&#x02212;1</sup>, it suffers from fast capacity decay with a capacity retention of only 35.5% after 100 cycles (Figure S8c, Supporting Information). Figure&#x000a0;<xref rid="advs2021-fig-0002" ref-type="fig">2b</xref> plots the charge/discharge profiles of the Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces at a current density of 0.1 C (1 C = 120 mA g<sup>&#x02212;1</sup>), the electrode delivers an initial discharge capacity of 125.5 mA h g<sup>&#x02212;1</sup>, corresponding to &#x02248;0.50 e<sup>&#x02212;</sup> transfer per formula unit. The profiles become smoother and possess better overlapping and smaller voltage hysteresis compared to those of the Na<sub>2/3</sub>Fe<sub>1/2</sub>Mn<sub>1/2</sub>O<sub>2</sub> sample, indicating an improved reversibility and enhanced reaction kinetics. More importantly, no obvious voltage plateau is found at around 3.45 V on the charge curves, suggesting that the Cu substitution of Fe can efficaciously mitigate the Na<sup>+</sup>/vacancy ordering. It is believed that Cu<sup>2+</sup> can serve as a stabilizer blocking the rearrangement of Na<sup>+</sup>/vacancy, alleviating the Jahn&#x02013;Teller effect of Mn<sup>3+</sup> center upon sodiation/desodiation (diluting the Mn<sup>3+</sup> concentration), and suppressing the irreversible Fe migration into the Na sites upon charging to high voltage.<sup>[</sup>
+<xref rid="advs2021-bib-0035" ref-type="ref">
+<sup>35</sup>
+</xref>, <xref rid="advs2021-bib-0038" ref-type="ref">
+<sup>38</sup>
+</xref>, <xref rid="advs2021-bib-0040" ref-type="ref">
+<sup>40</sup>
+</xref>, <xref rid="advs2021-bib-0041" ref-type="ref">
+<sup>41</sup>
+</xref>, <xref rid="advs2021-bib-0049" ref-type="ref">
+<sup>49</sup>
+</xref>
+<sup>]</sup> Hence, the structural stability is significantly improved through an approximate solid&#x02010;solution process during cycling. This point is further evidenced by the HRTEM images of the Na<sub>2/3</sub>Fe<sub>1/2</sub>Mn<sub>1/2</sub>O<sub>2</sub> and Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> electrode materials after ten charge/discharge cycles (Figure S9 in the Supporting Information). The un&#x02010;doped sample shows obvious lattice distortions, while the layered structure of the Cu&#x02010;doped sample is well reserved. Figure&#x000a0;<xref rid="advs2021-fig-0002" ref-type="fig">2c</xref> illustrates the cycling performance of the Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> samples thermally treated at 850 &#x000b0;C for 2, 6, and 10 h, respectively. Benefiting from the special morphology, the Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces cathode could deliver a reversible capacity of 103.6 mA h g<sup>&#x02212;1</sup> at 0.1 C after 100 cycles with a promising capacity retention of 82.7%. Post&#x02010;mortem examination in SEM image (Figure S10a, Supporting Information) shows a well&#x02010;maintained architecture of the P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces after cycling. The not well&#x02010;formed hierarchical nanostructures exposing less active sites lead to an obviously lower capacity for the sample calcinated for 2 h, yet the sample calcinated for 10 h displays a disappointing cyclability with a capacity retention of only 43.8% after 100 cycles, mainly caused by the serious agglomeration of the not well&#x02010;aligned nanograins upon repeated sodiation/desodiation (Figure S10b in the Supporting Information). The electrochemical performance of the bulk Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> sample prepared by a sol&#x02013;gel method (SEM image in Figure S11a, Supporting Information) is also given, exhibiting inferior reversible capacity and cycling performance compared to those of the nano&#x02010;necklaces electrode (Figure S11b, Supporting Information). In addition, the content of the doped Cu has been optimized by evaluating the sodium&#x02010;storage behaviors of the P2&#x02010;type cathode materials with different stoichiometries. As presented in Figure S12 (Supporting Information), the contrast P2&#x02010;material containing less Cu shows an inferior cycling stability (&#x02248;74.1% capacity retention after 100 cycles) due to the poor inhibiting effects on the Na<sup>+</sup>/vacancy orderings and the Jahn&#x02013;Teller distortions; while the sample containing excess Cu delivers a relatively low initial discharge capacity of 120.1 mA h g<sup>&#x02212;1</sup> at 0.1 C caused by the decreased content of the active Fe<sup>3+</sup>/Fe<sup>4+</sup> redox couple. These results definitely validate that the present dual&#x02010;strategy of Cu doping and hierarchical nanoengineering plays crucial roles in improving the cycling performance of the layered Na&#x02010;Fe&#x02010;Mn&#x02010;O system.</p><fig fig-type="Figure" xml:lang="en" id="advs2021-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Electrochemical properties: a) CV curves at a scan rate of 0.1 mV s<sup>&#x02212;1</sup> and b) galvanostatic charge/discharge profiles at 0.1 C in the voltage window of 2.0&#x02013;4.0 V (vs Na<sup>+</sup>/Na) of the P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces cathode. c) Cycling performance of the Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces (850 &#x000b0;C for 6 h) in comparison with the counterparts annealed at 850 &#x000b0;C for 2 and 10 h at 0.1 C. d) Rate capability of the Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces cathode, inset is the comparison between this work and the previously reported Cu&#x02010;doped Fe/Mn&#x02010;based layered oxides Na&#x02010;storage cathode materials. e) Long&#x02010;term cycling life of the Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces at 2 C.</p></caption><graphic id="nlm-graphic-5" xlink:href="ADVS-7-2002199-g002"/></fig><p>The rate capability of the P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces cathode is presented in Figure&#x000a0;<xref rid="advs2021-fig-0002" ref-type="fig">2d</xref>. The electrode can release reversible specific capacities of 125.4, 112.0, 96.2, 92.5, 79.5, 73.9, 64.9, and 56.5 mA h g<sup>&#x02212;1</sup> at 0.1 C, 0.2 C, 0.5 C, 1 C, 2 C, 5 C, 10 C, and 20 C, respectively. More impressively, when the rate is returned to 0.1 C, a discharge capacity of 112.1 mA h g<sup>&#x02212;1</sup> can be obtained, attesting the exceptional reversibility during rapid Na<sup>+</sup> insertion/extraction. The outstanding rate performance of P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces compared with other reported Cu&#x02010;doped Fe/Mn&#x02010;based layered oxides SIB cathodes is highlighted in the inset of Figure&#x000a0;<xref rid="advs2021-fig-0002" ref-type="fig">2d</xref>.<sup>[</sup>
+<xref rid="advs2021-bib-0035" ref-type="ref">
+<sup>35</sup>
+</xref>, <xref rid="advs2021-bib-0038" ref-type="ref">
+<sup>38</sup>
+</xref>, <xref rid="advs2021-bib-0039" ref-type="ref">
+<sup>39</sup>
+</xref>, <xref rid="advs2021-bib-0040" ref-type="ref">
+<sup>40</sup>
+</xref>, <xref rid="advs2021-bib-0041" ref-type="ref">
+<sup>41</sup>
+</xref>, <xref rid="advs2021-bib-0050" ref-type="ref">
+<sup>50</sup>
+</xref>, <xref rid="advs2021-bib-0051" ref-type="ref">
+<sup>51</sup>
+</xref>
+<sup>]</sup> For one reason, the excellent rate capability primarily benefits from the pearl necklace&#x02010;like hierarchical nanostructures with high porosity, which shorten the Na<sup>+</sup> diffusion lengths and provide more open channels for the ionic transportation. The other is that the Cu substitution of Fe brings about an expansion of the interstitial spaces through which sodium ions can facilely diffuse. Last but not least, the copper doping efficiently alleviates the Na<sup>+</sup>/vacancy ordering and thus yields an approximate solid&#x02010;solution reaction mechanism, rendering the fast Na&#x02010;ion diffusivity. Thereafter, the long&#x02010;term cycling performance at 2 C is displayed in Figure&#x000a0;<xref rid="advs2021-fig-0002" ref-type="fig">2e</xref>, where the P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces electrode enables a respectable capacity retention of 79% after 300 cycles, reaching the highest value for the Cu&#x02010;doped Fe/Mn&#x02010;based layered oxides SIB cathodes till now (Table S2, Supporting Information).</p><p>In order to gain insight into the structure evolution of the Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces electrode during the sodium&#x02010;ion insertion/extraction process, in operando XRD was conducted within 2.0&#x02013;4.0 V employing beryllium foil as the testing window and carbon paper as the current collector. The XRD patterns in <bold>Figure</bold>&#x000a0;<xref rid="advs2021-fig-0003" ref-type="fig">
+<bold>3</bold>a</xref>,<xref rid="advs2021-fig-0003" ref-type="fig">b</xref> demonstrate a good reversibility in characteristic peaks and the P2&#x02010;type structure is well maintained over the entire charge and discharge processes. To be more specific, the (002) and (004) peaks gradually shift leftward upon charging from 2.0 to 4.0 V, while the (100) and (102) peaks shift rightward at the meantime. These phenomena can be interpreted as the extraction of Na<sup>+</sup> gives rise to an increased repulsive electrostatic interaction of O<sup>2&#x02212;</sup> from the neighboring transition metal layers, thus leading to an expansion of the interlayer spacing and a contraction of the TMO<sub>6</sub> octahedra, which reflect on the increase of <italic>c</italic> parameter and the decrease of <italic>a</italic> parameter. Upon discharging from 4.0 to 2.0 V, an eminent reversibility can be observed, since all the abovementioned peaks move toward the opposite direction compared to the shift in charging process. It is found that the (00<italic>l</italic>) peaks move to higher angles and the (10<italic>l</italic>) peaks move to lower angles at the end of discharging, compared with the pristine state. This is resulted from the extra high Coulombic efficiency in the initial cycle (as shown in Figure&#x000a0;<xref rid="advs2021-fig-0002" ref-type="fig">2b</xref>). Moreover, it is worth noticing that the peaks of (004) and (100) split into two peaks in the high&#x02010;voltage region but swiftly merge into one peak along with the voltage decreasing, indicating the transient existence of a two&#x02010;phase reaction region caused by the Na<sup>+</sup>/vacancy ordering, meanwhile, proving the good reversibility of the Cu&#x02010;doped samples. The lattice parameters evolution of P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> upon charge/discharge through Rietveld refinements on the in situ XRD patterns is added in Figure S13 (Supporting Information), revealing a volume change of only 1.43% from the pristine to the fully charged states, much smaller than that of P2&#x02010;Na<sub>2/3</sub>Fe<sub>1/2</sub>Mn<sub>1/2</sub>O<sub>2</sub> (&#x02248;7.7%).<sup>[</sup>
+<xref rid="advs2021-bib-0052" ref-type="ref">
+<sup>52</sup>
+</xref>
+<sup>]</sup> This indicates that Cu&#x02010;doping can effectively alleviate the volume change and stabilize the structure during electrochemical cycling. Besides, the surface oxidation states of the P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces electrode during cycling were investigated by ex situ XPS. Figure&#x000a0;<xref rid="advs2021-fig-0003" ref-type="fig">3c</xref>,<xref rid="advs2021-fig-0003" ref-type="fig">d</xref> displays the core&#x02010;level XPS spectra of Cu 2p and Fe 2p at different charged/discharged states: the pristine electrode featuring Cu 2p<sub>1/2</sub> (952.7 eV), Cu 2p<sub>3/2</sub> (933.2 eV), and a satellite peak (943.3 eV) implies the presence of Cu<sup>2+</sup>;<sup>[</sup>
+<xref rid="advs2021-bib-0038" ref-type="ref">
+<sup>38</sup>
+</xref>, <xref rid="advs2021-bib-0049" ref-type="ref">
+<sup>49</sup>
+</xref>
+<sup>]</sup> and the Fe 2p<sub>1/2</sub> and Fe 2p<sub>3/2</sub> peaks (accompanied by a satellite peak) located at about 724.6 and 711.3 eV, respectively, indicate the existence of Fe<sup>3+</sup>.<sup>[</sup>
+<xref rid="advs2021-bib-0038" ref-type="ref">
+<sup>38</sup>
+</xref>, <xref rid="advs2021-bib-0041" ref-type="ref">
+<sup>41</sup>
+</xref>
+<sup>]</sup> When fully charged to 4.0 V, the peaks of Cu 2p and Fe 2p both move to higher binding energy; and the deconvoluted results manifest the transitions of a small amount of Cu<sup>2+</sup> to Cu<sup>3+</sup> and a considerable amount of Fe<sup>3+</sup> to Fe<sup>4+</sup> upon Na<sup>+</sup> extraction. When fully discharged to 2.0 V, all of the peaks recover to the pristine state, verifying that the Cu<sup>2+</sup>/Cu<sup>3+</sup> and Fe<sup>3+</sup>/Fe<sup>4+</sup> redox couples are both active and experience highly reversible change in the potential range of 2.0&#x02013;4.0 V. Afterward, the Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> electrode was re&#x02010;charged to 4.0 V, the valence transitions of Cu<sup>2+</sup> to Cu<sup>3+</sup> and Fe<sup>3+</sup> to Fe<sup>4+</sup> could be observed again. As for the Mn 2p core&#x02010;level spectra (Figure&#x000a0;<xref rid="advs2021-fig-0003" ref-type="fig">3d</xref>): the deconvoluted results of Mn 2p<sub>1/2</sub> and Mn 2p<sub>3/2</sub> peaks indicate the coexistence of Mn<sup>3+</sup> and Mn<sup>4+</sup> in the pristine electrode.<sup>[</sup>
+<xref rid="advs2021-bib-0041" ref-type="ref">
+<sup>41</sup>
+</xref>, <xref rid="advs2021-bib-0047" ref-type="ref">
+<sup>47</sup>
+</xref>
+<sup>]</sup> Upon charging to 4.0 V, no obvious change can be detected; when discharged to 2.0 V, a small amount of the Mn<sup>4+</sup> is reduced to Mn<sup>3+</sup>; when charged to 4.0 V again, the Mn<sup>3+</sup> is re&#x02010;oxidized to Mn<sup>4+</sup>. These findings prove that the Cu<sup>2+/3+</sup>, Fe<sup>3+/4+</sup>, and Mn<sup>4+/3+</sup> redox couples all take part in the electrochemical reaction and collaboratively contribute to the reversible capacity of the P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> cathode within 2.0&#x02013;4.0 V. In addition, the reversible sodiation and desodiation processes of P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> can be further tracked by ex situ Raman spectra (Figure S14, Supporting Information), which show that the characteristic peaks involving Na vibrations conspicuously weaken during charging, then significantly strengthen again upon discharging.</p><fig fig-type="Figure" xml:lang="en" id="advs2021-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Na&#x02010;storage mechanism: a) in situ XRD patterns of the P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces electrode during the first charge/discharge process at 0.1 C, as well as b) the contour plots. Ex situ XPS of high&#x02010;resolution c) Cu 2p, d) Fe 2p, and e) Mn 2p spectra at various charged/discharged states of the P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> cathode.</p></caption><graphic id="nlm-graphic-7" xlink:href="ADVS-7-2002199-g003"/></fig><p>For a better understanding of the origin of the outstanding rate performance of P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces, the electrode process kinetics were systematically evaluated by means of GITT measurements, CV curves at various sweep rates, and EIS spectra. The typical charge/discharge GITT profile in the second cycle is displayed in <bold>Figure</bold>&#x000a0;<xref rid="advs2021-fig-0004" ref-type="fig">
+<bold>4</bold>a</xref>, and the time versus voltage profile for a single titration is plotted in Figure S15 (Supporting Information), showing that the cell experiences an uninterrupted current flux (15 mA g<sup>&#x02212;1</sup>) for 20 min during charging or discharging and then a relaxing time for 80 min to reach an equilibrium of voltage. Figure&#x000a0;<xref rid="advs2021-fig-0004" ref-type="fig">4b</xref> exhibits the apparent Na&#x02010;diffusion coefficients (<italic>D</italic>
+<sub>Na</sub>) as a function of specific capacity. The <italic>D</italic>
+<sub>Na</sub> values of P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> (10<sup>&#x02212;10</sup> to 10<sup>&#x02212;11</sup> cm<sup>2</sup> s<sup>&#x02212;1</sup>) are higher than those of the P2&#x02010;Na<sub>2/3</sub>Fe<sub>1/2</sub>Mn<sub>1/2</sub>O<sub>2</sub> cathode (10<sup>&#x02212;11</sup> to 10<sup>&#x02212;12</sup> cm<sup>2</sup> s<sup>&#x02212;1</sup> acquired from Figure S16, Supporting Information). This result indicates that the existence of multi&#x02010;phase reaction caused by the Na<sup>+</sup>/vacancy ordering in P2&#x02010;Na<sub>2/3</sub>Fe<sub>1/2</sub>Mn<sub>1/2</sub>O<sub>2</sub> hinders the sodium&#x02010;ion mobility, whereas the above issue can be well relieved by the substitution of Fe by Cu. Figure&#x000a0;<xref rid="advs2021-fig-0004" ref-type="fig">4c</xref> shows the representative CV curves of the P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> electrode at different sweep rates from 0.1 to 1.0 mV s<sup>&#x02212;1</sup>. The CV curves maintain similar shapes and exhibit a slight polarization as the sweep rate increases, reflecting the decent reaction kinetics upon Na<sup>+</sup> (de)insertion. The <italic>D</italic>
+<sub>Na</sub> can be calculated based on the CV study according to the Randles&#x02013;Sevcik formula, i.e., <italic>i</italic>
+<sub>p</sub> = 2.69 &#x000d7; 10<sup>5</sup>
+<italic>n</italic>
+<sup>3/2</sup>
+<italic>AD</italic>
+<sub>Na</sub>
+<sup>1/2</sup>
+<italic>C</italic>
+<sub>Na</sub>
+<italic>v</italic>
+<sup>1/2</sup>, where <italic>i</italic>
+<sub>p</sub> (A) is the peak current, <italic>v</italic> (V s<sup>&#x02212;1</sup>) is the scan rate, <italic>C</italic>
+<sub>Na</sub> is the Na ions concentration in the electrode (&#x02248;3.06 &#x000d7; 10<sup>&#x02212;2</sup> mol cm<sup>&#x02212;3</sup>), <italic>A</italic> (cm<sup>2</sup>) is the contacting area (0.81 cm<sup>2</sup>) between electrode and electrolyte, and <italic>n</italic> is the transferred electron number per molecule (<italic>n</italic> = 0.50 in this system).<sup>[</sup>
+<xref rid="advs2021-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref>, <xref rid="advs2021-bib-0047" ref-type="ref">
+<sup>47</sup>
+</xref>
+<sup>]</sup> The <italic>i</italic>
+<sub>p</sub> of the four main redox peaks displays a good linear relationship with the square root of <italic>v</italic> in Figure&#x000a0;<xref rid="advs2021-fig-0004" ref-type="fig">4d</xref>, accordingly, the <italic>D</italic>
+<sub>Na</sub> values for the O1, O2, R1, and R2 peaks are 1.48 &#x000d7; 10<sup>&#x02212;10</sup>, 4.43 &#x000d7; 10<sup>&#x02212;10</sup>, 2.59 &#x000d7; 10<sup>&#x02212;10</sup>, and 9.11 &#x000d7; 10<sup>&#x02212;11</sup> cm<sup>2</sup> s<sup>&#x02212;1</sup>, respectively, coinciding well with the GITT results. The CV profiles at different scan rates also reveal the pseudo&#x02010;capacitance contributions to the charge storage process, rendering the rapid reaction kinetics of the P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces cathode. The capacitive effect gradually strengthens with the increase of scan rates (Figure S17 in the Supporting Information). Furthermore, EIS spectra were employed to estimate the <italic>D</italic>
+<sub>Na</sub> in the three samples with different annealing conditions. The Nyquist plots in Figure&#x000a0;<xref rid="advs2021-fig-0004" ref-type="fig">4e</xref> consist of a semicircle from high to medium frequency corresponding to the charge&#x02010;transfer resistance (<italic>R</italic>
+<sub>ct</sub>) at the electrode/electrolyte interface, and a slope line at low frequency correlated to the Warburg impedance (<italic>Z</italic>
+<sub>w</sub>) associated with Na<sup>+</sup> diffusion. The <italic>D</italic>
+<sub>Na</sub> values can be determined from the linear fitting results in Figure&#x000a0;<xref rid="advs2021-fig-0004" ref-type="fig">4f</xref> (calculation details are provided in the Supporting Information). The P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces electrode (850 &#x000b0;C for 6 h) possesses the lowest resistance of about 180 &#x003a9; and the fastest Na<sup>+</sup> diffusivity of around 10<sup>&#x02212;11</sup> cm<sup>2</sup> s<sup>&#x02212;1</sup>, which can be attributed to its favorable pearl necklace&#x02010;like hierarchical nanostructures constituted by small secondary nanograins that offer abundant rapid paths for electronic/ionic transport. In addition, the resistance of P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> is smaller than that of P2&#x02010;Na<sub>2/3</sub>Fe<sub>1/2</sub>Mn<sub>1/2</sub>O<sub>2</sub> (about 290 &#x003a9; acquired from Figure S18, Supporting Information), unambiguously confirming the positive effect of Cu&#x02010;doping (creating charge defects) on enhancing the electronic conductivity.</p><fig fig-type="Figure" xml:lang="en" id="advs2021-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Electrode process kinetics: a) charge&#x02013;discharge GITT profiles of the P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces cathode at 15 mA g<sup>&#x02212;1</sup> and b) the corresponding Na<sup>+</sup> diffusion coefficients (<italic>D</italic>
+<sub>Na</sub>). c) CV curves at different scan rates from 0.1 to 1.0 mV s<sup>&#x02212;1</sup> and d) the corresponding fitting curves between peak currents (<italic>i</italic>
+<sub>p</sub>) and square root of scan rates (<italic>v</italic>
+<sup>1/2</sup>). e) Nyquist dots and fitting curves of the samples annealed at 850 &#x000b0;C for 2, 6 (P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces), and 10 h, as well as f) the corresponding real parts of the impedance (<italic>Z</italic>&#x02032;) versus reciprocal square root of the angular frequency (<italic>&#x003c9;</italic>) in the low frequency region, inset is the equivalent circuit.</p></caption><graphic id="nlm-graphic-9" xlink:href="ADVS-7-2002199-g004"/></fig><p>To figure out the root of the excellent electrochemical performance of the P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> electrode in depth, the Na&#x02010;ion migration paths and energy barriers were explored via first&#x02010;principles computations based on the DFT. <bold>Figure</bold>&#x000a0;<xref rid="advs2021-fig-0005" ref-type="fig">
+<bold>5</bold>a</xref> shows the primitive cell of P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub>, where the blue arrow points out the optimum migration path following Na1&#x02192;Na2&#x02192;Na1. Note that the atomic positions of Na, Cu, Fe, and Mn are simulated based on their atomic ratios and occupancies (Table S1 in the Supporting Information), and the migration path near the Cu&#x02010;doping site is selected to figure out the effect of Cu&#x02010;doping on the Na<sup>+</sup> migration behavior in the layered oxide lattice. As elucidated in Figure&#x000a0;<xref rid="advs2021-fig-0005" ref-type="fig">5b</xref>, the Na<sup>+</sup> migration barrier in the Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> crystal is calculated to be about 0.18 eV using the climbing image nudged elastic band (cNEB) method, while the ionic migration barrier in Na<sub>2/3</sub>Fe<sub>1/2</sub>Mn<sub>1/2</sub>O<sub>2</sub> is 0.29 eV. This result provides another solid evidence that the substitution of Fe by Cu is beneficial for the facile Na<sup>+</sup> diffusion. It is noteworthy that the sodium&#x02010;ion diffusion barrier in Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> is much lower than those in other reported Na&#x02010;storage cathode materials (mostly &#x02265;0.3 eV),<sup>[</sup>
+<xref rid="advs2021-bib-0053" ref-type="ref">
+<sup>53</sup>
+</xref>
+<sup>]</sup> accounting for the superb reaction kinetics of the present material. Interestingly, the projected density of states (DOS) of P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> manifest some metallic properties (Figure&#x000a0;<xref rid="advs2021-fig-0005" ref-type="fig">5c</xref>), which are responsible for the distinguished rate capability due to the desirable electronic conductivity. Meanwhile, the DOS of Na<sub>2/3</sub>Fe<sub>1/2</sub>Mn<sub>1/2</sub>O<sub>2</sub> is presented in Figure S19 (Supporting Information).</p><fig fig-type="Figure" xml:lang="en" id="advs2021-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>DFT computations: a) schematic crystal structure of P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> displaying the optimum Na&#x02010;ion migration pathway (depicted by the blue arrow), and b) the corresponding migration energy barriers following the Na1&#x02192;Na2&#x02192;Na1 route in the Na<sub>2/3</sub>Fe<sub>1/2</sub>Mn<sub>1/2</sub>O<sub>2</sub> and Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> lattices. c) DOS of the P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub>.</p></caption><graphic id="nlm-graphic-11" xlink:href="ADVS-7-2002199-g005"/></fig><p>The appealing half&#x02010;cell performance of the P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> cathode motivates us to further examine its full&#x02010;cell properties, focusing on preliminarily assessing the practicability in a Na&#x02010;based battery system. Herein, a prototype full cell configuration schematized in <bold>Figure</bold>&#x000a0;<xref rid="advs2021-fig-0006" ref-type="fig">
+<bold>6</bold>a</xref> was designed by coupling the P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces cathode with the hard carbon anode. The hard carbon anode can deliver a reversible capacity of around 210 mA h g<sup>&#x02212;1</sup> with an operating potential of &#x02248;0.13 V versus Na<sup>+</sup>/Na (Figure S20, Supporting Information). In this case, the active mass ratio of cathode to anode was set at 1.7:1 to balance the capacity. The full cell was tested at 0.1 C within the voltage window of 1.6&#x02013;3.8 V, a reversible discharge capacity of 115 mA h g<sup>&#x02212;1</sup> along with an average working voltage of &#x02248;2.45 V (based on the cathode active mass) can be acquired (Figure&#x000a0;<xref rid="advs2021-fig-0006" ref-type="fig">6b</xref>), enabling a remarkable energy density of 177.4 Wh kg<sup>&#x02212;1</sup> based on the total mass of cathode and anode active materials. Besides, light&#x02010;emitting diodes (LEDs) with different colors could be successfully lightened up by the pouch cell (inset of Figure&#x000a0;<xref rid="advs2021-fig-0006" ref-type="fig">6b</xref>). Figure&#x000a0;<xref rid="advs2021-fig-0006" ref-type="fig">6c</xref> shows that a discharge capacity of 95.4 mA h g<sup>&#x02212;1</sup> is maintained after 100 cycles, corresponding to a promising capacity retention of 82%. The rate profiles depicted in Figure&#x000a0;<xref rid="advs2021-fig-0006" ref-type="fig">6d</xref> further reveal that prominent discharge capacities of 117.7 mA h g<sup>&#x02212;1</sup> at 0.1 C and 55 mA h g<sup>&#x02212;1</sup> at 20 C can be obtained.</p><fig fig-type="Figure" xml:lang="en" id="advs2021-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Sodium&#x02010;ion full batteries: a) diagram of the P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> cathode//hard carbon anode full battery. b) Galvanostatic charge/discharge profiles and c) cycling performance at 0.1 C in the voltage window of 1.6&#x02013;3.8 V of the full battery (based on the cathode active mass), inset is the digital photo showing LED bulbs powered by the pouch cell. d) Rate performance of the full battery.</p></caption><graphic id="nlm-graphic-13" xlink:href="ADVS-7-2002199-g006"/></fig></sec><sec id="advs2021-sec-0030"><label>3</label><title>Conclusion</title><p>To sum up, a dual&#x02010;strategy of cation&#x02010;doping and nanoengineering was applied to obtain the pearl necklace&#x02010;like hierarchical nanostructures of a novel P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> cathode through a feasible electrospinning method. On the one hand, the unique 1D nanostructures assembled by small nanograins could facilitate the accessibility to electrolyte, offer facile pathways for electrons/Na<sup>+</sup> ions transportation, and maintain the structural integrity upon repetitive Na<sup>+</sup> insertion/extraction. On the other hand, the Cu substitution of Fe created larger interstitial spaces in the oxide crystal through which sodium ions could rapidly diffuse, and efficaciously mitigated the Na<sup>+</sup>/vacancy ordering during cycling. Thus, an exceptional rate capability (125.4 mA h g<sup>&#x02212;1</sup> at 0.1 C in comparison with 56.5 mA h g<sup>&#x02212;1</sup> at 20 C) and a fascinating cyclability (&#x02248;79% capacity retention after 300 cycles) were simultaneously attained. In operando XRD and ex situ XPS were employed to track the highly reversible structure evolution and Cu/Fe/Mn valence change upon charge/discharge, and the positive effects of Cu doping on the reaction kinetics were further confirmed by GITT, CV, EIS, and DFT computations. More intriguingly, the prototype Na&#x02010;ion full battery constructed by the P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces cathode and hard carbon anode delivered a distinguished energy density of 177.4 Wh kg<sup>&#x02212;1</sup>, demonstrating a great promise for practical applications. We believe that the combination of metallic cation doping with hierarchical nanoengineering provides a new and ideal platform for enhancing the electrochemical performance of the layered oxide cathode materials for SIBs.</p></sec><sec id="advs2021-sec-0040"><label>4</label><title>Experimental Section</title><sec id="advs2021-sec-0050"><sec id="advs2021-sec-0060"><sec id="advs2021-sec-0070"><title>Materials Synthesis</title><p>The Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> nano&#x02010;necklaces were fabricated via a feasible electrospinning method with subsequent heat treatments. In order to prepare the precursor solution, 4.4 g of polyvinylpyrrolidone (average Mw = 13&#x0202f;00&#x0202f;000, Aladdin) was first dissolved in 30 mL of deionized water under magnetic stirring at room temperature. After complete dissolution, 4 mL of CH<sub>3</sub>COOH (99.5%, Aladdin) was added to create an acidic environment. Then, 3.6 mmol of Mn(CH<sub>3</sub>COO)<sub>2</sub>&#x000b7;4H<sub>2</sub>O (99.9%, Aldrich), 5.985 mmol (5% excess) of NaNO<sub>3</sub> (99.9%, Aladdin), 1.65 mmol of Cu(NO<sub>3</sub>)<sub>2</sub>&#x000b7;3H<sub>2</sub>O (99.9%, Aladdin), and 2.25 mmol of Fe(NO<sub>3</sub>)<sub>3</sub>&#x000b7;9H<sub>2</sub>O (99.9%, Aladdin) were successively put into the above solution with fully mixing.</p><p>After overnight stirring, electrospinning was carried out by loading the as&#x02010;prepared fluid into a plastic syringe equipped with a 21&#x02010;gauge blunt&#x02010;tip needle. The solution was electrospun by a high voltage of 17 kV applied between the needle tip and the aluminium foil collector, with a distance of 15 cm, at a feeding rate of 15 &#x000b5;L min<sup>&#x02212;1</sup>. Consequently, an &#x02248;150 &#x000b5;m thick membrane could be obtained by electrospinning at 35 &#x000b0;C for 36 h.</p><p>After electrospinning, the as&#x02010;spun membrane was peeled off from the Al foil collector and thermally treated in a following step&#x02010;wise process: 350 &#x000b0;C for 2 h (heating rate: 1 &#x000b0;C min<sup>&#x02212;1</sup>), 500 &#x000b0;C for 2 h (heating rate: 2 &#x000b0;C min<sup>&#x02212;1</sup>), and 850 &#x000b0;C for 6 h (heating rate: 3 &#x000b0;C min<sup>&#x02212;1</sup>) in ambient air. Adopting slow heating rates in a step&#x02010;wise calcination process was to protect the pearl necklace&#x02010;like nanostructure from collapse. After careful calculation, the cost for synthesizing 100 mg of the target nano&#x02010;necklace materials was around 4.59 USD. This implied that the present nanoengineering technique was relatively cost&#x02010;effective, and was suitable for large&#x02010;scale production by adopting the multi&#x02010;nozzle equipment. Besides, the final calcination temperature (750, 800, or 850 &#x000b0;C) and time (2, 6, or 10 h) were modulated to optimize the synthesis conditions. In order to figure out the effects of Cu substitution, P2&#x02010;Na<sub>2/3</sub>Fe<sub>1/2</sub>Mn<sub>1/2</sub>O<sub>2</sub>, P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.20</sub>Fe<sub>0.32</sub>Mn<sub>0.48</sub>O<sub>2</sub>, and P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.24</sub>Fe<sub>0.28</sub>Mn<sub>0.48</sub>O<sub>2</sub> samples were also prepared through electrospinning and annealing procedures under the similar conditions to the abovementioned P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> sample used, except for changing the metal salts dosage ratio according to the stoichiometry. The bulk Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> was synthesized by a sol&#x02013;gel method using the same metal salts dosage as that in the preparation of the nano&#x02010;necklaces sample, with extra addition of the complexing agent (citric acid). The annealing processes included 400 &#x000b0;C for 4 h and then 850 &#x000b0;C for 6 h in air (heating rate: 5 &#x000b0;C min<sup>&#x02212;1</sup>).</p></sec><sec id="advs2021-sec-0080"><title>Materials Characterizations</title><p>Crystallographic properties of the annealed products were determined by XRD (Rigaku D/Max&#x02010;2500) with filtered Cu K<italic>&#x003b1;</italic> radiation (<italic>&#x003bb;</italic> = 1.5418 &#x000c5;) in the 2<italic>&#x003b8;</italic> range of 10&#x000b0;&#x02013;90&#x000b0;. Morphological and microstructural studies were scrutinized by field&#x02010;emission scanning electron microscopy (FE&#x02010;SEM, JEOL JSM7500F) and TEM (TECNAI G2 20). Elemental analyses were ascertained by SEM&#x02010; and TEM&#x02010;energy dispersive X&#x02010;ray spectrometer (EDS) mapping. Nitrogen adsorption&#x02013;desorption isotherms obtained on a Micromeritics ASAP 2460 instrument (MicroActive) at 77 K were applied to evaluate the porosity and specific surface area. Raman spectra were gathered on a confocal Raman microscope (Thermo&#x02010;Fisher Scientific) using an argon&#x02010;ion laser (<italic>&#x003bb;</italic> = 532 nm) in ambient air. The chemical content was ascertained by ICP atomic emission spectroscopy (ICP&#x02010;AES, Varian 725&#x02010;ES). X&#x02010;ray photoelectron spectrometry (XPS, Perkin Elmer PHI 1600 ESCA) was applied to investigate the valence states of the elements during cycling.</p><p>When it comes to in operando XRD characterizations, a particular mold battery was assembled employing beryllium foil as the testing window to allow X&#x02010;ray passage and carbon paper as the current collector, thus monitoring in situ reaction during cycling. Each scan was recorded in 0.02&#x000b0; incremental steps between 2<italic>&#x003b8;</italic> = 12&#x000b0; and 42&#x000b0;. The charge/discharge test was conducted at 0.1 C.</p></sec><sec id="advs2021-sec-0090"><title>Electrochemical Measurements</title><p>All electrochemical properties were examined in CR2032 coin&#x02010;type cells assembled in a glove box (Mikrouna Universal 2440/750) filled with high&#x02010;purity argon. Electrodes were fabricated by casting slurries, the composition of which was 75 wt% active materials, 15 wt% acetylene black, and 10 wt% PVdF dissolved in <italic>N</italic>&#x02010;methyl&#x02010;2&#x02010;pyrrolidone, onto Al foil, followed by drying at 80 &#x000b0;C in vacuum overnight. Then the electrodes were cut into suitable&#x02010;size slices with a mass loading of about 2.5 mg cm<sup>&#x02212;2</sup>. The counter and reference electrode of sodium metal disk was put face&#x02010;to&#x02010;face with the working electrode sandwiched by a glass fiber separator in the coin cells. 1 <sc>m</sc> NaClO<sub>4</sub> in propylene carbonate solution with the addition of 5 vol% fluoroethylene carbonate was employed as the electrolyte. Besides, the assembled cells were placed for 6 h before tests to make sure that the electrolyte soaked into the separators and electrodes completely. The coin cells were galvanostatically charged/discharged on a LAND battery&#x02010;test instrument (CT2001A) in a voltage interval of 2.0&#x02013;4.0 V (vs Na/Na<sup>+</sup>). The tests of cyclic voltammetry within the same voltage region at various scan rates and EIS with the ac perturbation signal of 5.0 mV over the frequency from 100 kHz to 100 mHz were used to study the electrode process kinetics, which were both conducted using a CHI660C electrochemical workstation (Shanghai Chenhua, China). The EIS spectra were recorded at open circuit voltage. Prior to the post&#x02010;mortem examinations of the cycled active materials using XRD, XPS, or SEM, the electrodes were taken out from the cells and washed with dimethyl carbonate repeatedly in an argon&#x02010;filled glove box.</p><p>To construct the full cells, the pre&#x02010;sodiated hard carbon was adopted as the anode and well matched with the P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> cathode. The active mass loading ratio of cathode to anode was set at 1.7:1 to balance the capacity. Finally, the full cell was measured within a voltage window of 1.6&#x02013;3.8 V.</p></sec><sec id="advs2021-sec-0100"><title>Computational Details</title><p>The ionic/electronic conductivity of P2&#x02010;Na<sub>0.76</sub>Cu<sub>0.22</sub>Fe<sub>0.30</sub>Mn<sub>0.48</sub>O<sub>2</sub> and P2&#x02010;Na<sub>2/3</sub>Fe<sub>1/2</sub>Mn<sub>1/2</sub>O<sub>2</sub> was evaluated by ab initio computations based on the DFT via Vienna ab&#x02010;initio simulation package (VASP). The projector augmented wave method with the Perdew&#x02013;Burke&#x02013;Ernzerhof function was employed. The cut&#x02010;off energy and <italic>k</italic>&#x02010;point separation were set to 500 eV and 0.03 &#x000c5;<sup>&#x02212;1</sup>, respectively. Moreover, the Na&#x02010;ion migration paths and barriers were thoroughly ascertained by the bond valence energy landscape and cNEB methods.</p></sec></sec></sec></sec><sec sec-type="COI-statement" id="advs2021-sec-0120"><title>Conflict of Interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="ADVS-7-2002199-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="advs2021-sec-0110"><title>Acknowledgements</title><p>Q.S. and X.Z. contributed equally to this work. This work was financially supported by the National Natural Science Foundation of China (21805007, 21805066, and 21825102), the Young Elite Scientists Sponsorship Program by CAST (2018QNRC001), the National Key Research and Development Program of China (2018YFB0104303), the Beijing Natural Science Foundation (L182019), the Fundamental Research Funds for the Central Universities (FRF&#x02010;TP&#x02010;19&#x02010;029A2 and FRF&#x02010;TP&#x02010;20&#x02010;020A3), the Natural Science Foundation of Hebei Province (B2019201160), the Top Young Talents Project of Hebei Education Department (BJ2019052), and the 111 Project (B12015 and B170003).</p></ack><ref-list id="advs2021-bibl-0001"><ref id="advs2021-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs2021-cit-0001">
+<string-name>
+<given-names>J. B.</given-names>
+<surname>Goodenough</surname>
+</string-name>, <source xml:lang="en">Acc. Chem. Res.</source>
+<year>2013</year>, <volume>46</volume>, <fpage>1053</fpage>.<pub-id pub-id-type="pmid">22746097</pub-id></mixed-citation></ref><ref id="advs2021-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs2021-cit-0002">
+<string-name>
+<given-names>D.</given-names>
+<surname>Kundu</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Talaie</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Duffort</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Nazar</surname>
+</string-name>, <source xml:lang="en">Angew. Chem., Int. Ed.</source>
+<year>2015</year>, <volume>54</volume>, <fpage>3431</fpage>.</mixed-citation></ref><ref id="advs2021-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs2021-cit-0003">
+<string-name>
+<given-names>J.&#x02010;Y.</given-names>
+<surname>Hwang</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;T.</given-names>
+<surname>Myung</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;K.</given-names>
+<surname>Sun</surname>
+</string-name>, <source xml:lang="en">Chem. Soc. Rev.</source>
+<year>2017</year>, <volume>46</volume>, <fpage>3529</fpage>.<pub-id pub-id-type="pmid">28349134</pub-id></mixed-citation></ref><ref id="advs2021-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs2021-cit-0004">
+<string-name>
+<given-names>H.</given-names>
+<surname>Pan</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;S.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2013</year>, <volume>6</volume>, <fpage>2338</fpage>.</mixed-citation></ref><ref id="advs2021-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs2021-cit-0005">
+<string-name>
+<given-names>N.</given-names>
+<surname>Ortiz&#x02010;Vitoriano</surname>
+</string-name>, <string-name>
+<given-names>N. E.</given-names>
+<surname>Drewett</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Gonzaloa</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Rojo</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2017</year>, <volume>10</volume>, <fpage>1051</fpage>.</mixed-citation></ref><ref id="advs2021-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs2021-cit-0006">
+<string-name>
+<given-names>N.</given-names>
+<surname>Yabuuchi</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kubota</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Dahbi</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Komaba</surname>
+</string-name>, <source xml:lang="en">Chem. Rev.</source>
+<year>2014</year>, <volume>114</volume>, <elocation-id>11636</elocation-id>.<pub-id pub-id-type="pmid">25390643</pub-id></mixed-citation></ref><ref id="advs2021-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs2021-cit-0007">
+<string-name>
+<given-names>X.</given-names>
+<surname>Xiang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2015</year>, <volume>27</volume>, <fpage>5343</fpage>.<pub-id pub-id-type="pmid">26275211</pub-id></mixed-citation></ref><ref id="advs2021-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs2021-cit-0008">
+<string-name>
+<given-names>C.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>Y. L.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>H. X.</given-names>
+<surname>Yang</surname>
+</string-name>, <source xml:lang="en">Adv. Energy Mater.</source>
+<year>2016</year>, <volume>6</volume>, <elocation-id>1501727</elocation-id>.</mixed-citation></ref><ref id="advs2021-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs2021-cit-0009">
+<string-name>
+<given-names>P.&#x02010;F.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>You</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;X.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;G.</given-names>
+<surname>Guo</surname>
+</string-name>, <source xml:lang="en">Adv. Energy Mater.</source>
+<year>2018</year>, <volume>8</volume>, <elocation-id>1701912</elocation-id>.</mixed-citation></ref><ref id="advs2021-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs2021-cit-0010">
+<string-name>
+<given-names>I.</given-names>
+<surname>Hasa</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Buchholz</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Passerini</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Hassoun</surname>
+</string-name>, <source xml:lang="en">ACS Appl. Mater. Interfaces</source>
+<year>2015</year>, <volume>7</volume>, <fpage>5206</fpage>.<pub-id pub-id-type="pmid">25692933</pub-id></mixed-citation></ref><ref id="advs2021-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs2021-cit-0011">
+<string-name>
+<given-names>S. H.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ishida</surname>
+</string-name>, <string-name>
+<given-names>H. S.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source xml:lang="en">Angew. Chem., Int. Ed.</source>
+<year>2015</year>, <volume>54</volume>, <fpage>5894</fpage>.</mixed-citation></ref><ref id="advs2021-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs2021-cit-0012">
+<string-name>
+<given-names>H.&#x02010;H.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;Y.</given-names>
+<surname>Hwang</surname>
+</string-name>, <string-name>
+<given-names>C. S.</given-names>
+<surname>Yoon</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Heller</surname>
+</string-name>, <string-name>
+<given-names>C. B.</given-names>
+<surname>Mullins</surname>
+</string-name>, <source xml:lang="en">ACS Nano</source>
+<year>2018</year>, <volume>12</volume>, <elocation-id>12912</elocation-id>.<pub-id pub-id-type="pmid">30475595</pub-id></mixed-citation></ref><ref id="advs2021-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs2021-cit-0013">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yue</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Qiu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;Y.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Shadike</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;N.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source xml:lang="en">J. Am. Chem. Soc.</source>
+<year>2019</year>, <volume>141</volume>, <fpage>840</fpage>.<pub-id pub-id-type="pmid">30562030</pub-id></mixed-citation></ref><ref id="advs2021-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs2021-cit-0014">
+<string-name>
+<given-names>C.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Ganapathy</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Cabana</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Bai</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Aspuru&#x02010;Guzik</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wagemaker</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;S.</given-names>
+<surname>Hu</surname>
+</string-name>, <source xml:lang="en">J. Am. Chem. Soc.</source>
+<year>2020</year>, <volume>142</volume>, 12, <fpage>5742</fpage>.<pub-id pub-id-type="pmid">32118416</pub-id></mixed-citation></ref><ref id="advs2021-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs2021-cit-0015">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;F.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>H.&#x02010;R.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>P.&#x02010;F.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;D.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;C.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;X.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;D.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>B.&#x02010;H.</given-names>
+<surname>Zhong</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;G.</given-names>
+<surname>Guo</surname>
+</string-name>, <source xml:lang="en">Adv. Energy Mater.</source>
+<year>2019</year>, <volume>9</volume>, <elocation-id>1803978</elocation-id>.</mixed-citation></ref><ref id="advs2021-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs2021-cit-0016">
+<string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Sheng</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Bai</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Chen</surname>
+</string-name>, <source xml:lang="en">Acta Phys.&#x02010;Chim. Sin.</source>
+<year>2019</year>, <volume>35</volume>, <fpage>1357</fpage>.</mixed-citation></ref><ref id="advs2021-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs2021-cit-0017">
+<string-name>
+<given-names>M.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Hua</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Cortie</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Indris</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;L.</given-names>
+<surname>Chou</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;X.</given-names>
+<surname>Dou</surname>
+</string-name>, <source xml:lang="en">Nat. Commun.</source>
+<year>2019</year>, <volume>10</volume>, <fpage>1480</fpage>.<pub-id pub-id-type="pmid">30931938</pub-id></mixed-citation></ref><ref id="advs2021-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs2021-cit-0018">
+<string-name>
+<given-names>S.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xi</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Maier</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yu</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2017</year>, <volume>29</volume>, <elocation-id>1700431</elocation-id>.</mixed-citation></ref><ref id="advs2021-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs2021-cit-0019">
+<string-name>
+<given-names>F.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>L.&#x02010;Z.</given-names>
+<surname>Fan</surname>
+</string-name>, <source xml:lang="en">Adv. Sci.</source>
+<year>2019</year>, <volume>6</volume>, <elocation-id>1900649</elocation-id>.</mixed-citation></ref><ref id="advs2021-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs2021-cit-0020">
+<string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Bai</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Alvarado</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Radhakrishnan</surname>
+</string-name>, <string-name>
+<given-names>S. P.</given-names>
+<surname>Ong</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wu</surname>
+</string-name>, <source xml:lang="en">Chem. Mater.</source>
+<year>2018</year>, <volume>30</volume>, <fpage>2498</fpage>.</mixed-citation></ref><ref id="advs2021-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs2021-cit-0021">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Ni</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Bai</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wu</surname>
+</string-name>, <source xml:lang="en">Adv. Sci.</source>
+<year>2017</year>, <volume>4</volume>, <elocation-id>1600275</elocation-id>.</mixed-citation></ref><ref id="advs2021-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs2021-cit-0022">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>Q.&#x02010;C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;N.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Bao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source xml:lang="en">Angew. Chem., Int. Ed.</source>
+<year>2020</year>, <pub-id pub-id-type="doi">10.1002/anie.202008318</pub-id>.</mixed-citation></ref><ref id="advs2021-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs2021-cit-0023">
+<string-name>
+<given-names>W.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Qin</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>L. Q.</given-names>
+<surname>Mai</surname>
+</string-name>, <source xml:lang="en">Nano Lett.</source>
+<year>2017</year>, <volume>17</volume>, <fpage>4713</fpage>.<pub-id pub-id-type="pmid">28665610</pub-id></mixed-citation></ref><ref id="advs2021-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs2021-cit-0024">
+<string-name>
+<given-names>S.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kwon</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Ku</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yoon</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;K.</given-names>
+<surname>Jung</surname>
+</string-name>, <string-name>
+<given-names>H. D.</given-names>
+<surname>Lim</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kang</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2018</year>, <volume>30</volume>, <elocation-id>1704682</elocation-id>.</mixed-citation></ref><ref id="advs2021-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="advs2021-cit-0025">
+<string-name>
+<given-names>M. H.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Gonzalo</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Sharma</surname>
+</string-name>, <string-name>
+<given-names>J. M. L.</given-names>
+<surname>del Amo</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Armand</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Avdeev</surname>
+</string-name>, <string-name>
+<given-names>J. J. S.</given-names>
+<surname>Garitaonandia</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Rojo</surname>
+</string-name>, <source xml:lang="en">Chem. Mater.</source>
+<year>2016</year>, <volume>28</volume>, <fpage>106</fpage>.</mixed-citation></ref><ref id="advs2021-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="advs2021-cit-0026">
+<string-name>
+<given-names>C.</given-names>
+<surname>Delmas</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Fouassier</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Hagenmuller</surname>
+</string-name>, <source xml:lang="en">Physica B+C</source>
+<year>1980</year>, <volume>99</volume>, <fpage>81</fpage>.</mixed-citation></ref><ref id="advs2021-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs2021-cit-0027">
+<string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zuo</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xiang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Shan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zhong</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <source xml:lang="en">Angew. Chem., Int. Ed.</source>
+<year>2019</year>, <volume>58</volume>, <elocation-id>18086</elocation-id>.</mixed-citation></ref><ref id="advs2021-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="advs2021-cit-0028">
+<string-name>
+<given-names>N.</given-names>
+<surname>Yabuuchi</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kajiyama</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Iwatate</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Nishikawa</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Hitomi</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Okuyama</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Usui</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yamada</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Komaba</surname>
+</string-name>, <source xml:lang="en">Nat. Mater.</source>
+<year>2012</year>, <volume>11</volume>, <fpage>512</fpage>.<pub-id pub-id-type="pmid">22543301</pub-id></mixed-citation></ref><ref id="advs2021-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="advs2021-cit-0029">
+<string-name>
+<given-names>J.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>D. H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>R. J.</given-names>
+<surname>Clement</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Leskes</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Pell</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Pintacuda</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>C. P.</given-names>
+<surname>Grey</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Meng</surname>
+</string-name>, <source xml:lang="en">Chem. Mater.</source>
+<year>2014</year>, <volume>26</volume>, <fpage>1260</fpage>.</mixed-citation></ref><ref id="advs2021-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="advs2021-cit-0030">
+<string-name>
+<given-names>E.</given-names>
+<surname>Gonzalo</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Lopez del Amo</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Acebedo</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Casas&#x02010;Cabanas</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Rojo</surname>
+</string-name>, <source xml:lang="en">J. Mater. Chem. A</source>
+<year>2014</year>, <volume>2</volume>, <elocation-id>18523</elocation-id>.</mixed-citation></ref><ref id="advs2021-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="advs2021-cit-0031">
+<string-name>
+<given-names>J. S.</given-names>
+<surname>Thorne</surname>
+</string-name>, <string-name>
+<given-names>R. A.</given-names>
+<surname>Dunlap</surname>
+</string-name>, <string-name>
+<given-names>M. N.</given-names>
+<surname>Obrovac</surname>
+</string-name>, <source xml:lang="en">J. Electrochem. Soc.</source>
+<year>2013</year>, <volume>160</volume>, <fpage>A361</fpage>.</mixed-citation></ref><ref id="advs2021-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="advs2021-cit-0032">
+<string-name>
+<given-names>J.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>S. L.</given-names>
+<surname>Chou</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S. X.</given-names>
+<surname>Dou</surname>
+</string-name>, <source xml:lang="en">ChemElectroChem</source>
+<year>2014</year>, <volume>1</volume>, <fpage>371</fpage>.</mixed-citation></ref><ref id="advs2021-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="advs2021-cit-0033">
+<string-name>
+<given-names>W. M.</given-names>
+<surname>Dose</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Sharma</surname>
+</string-name>, <string-name>
+<given-names>J. C.</given-names>
+<surname>Pramudita</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Kimpton</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Gonzalo</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Rojo</surname>
+</string-name>, <source xml:lang="en">Chem. Mater.</source>
+<year>2016</year>, <volume>28</volume>, <fpage>6342</fpage>.</mixed-citation></ref><ref id="advs2021-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="advs2021-cit-0034">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Pang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;G.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>X.&#x02010;L.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>J. P.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source xml:lang="en">ACS Appl. Mater. Interfaces</source>
+<year>2018</year>, <volume>10</volume>, <elocation-id>34272</elocation-id>.<pub-id pub-id-type="pmid">30222306</pub-id></mixed-citation></ref><ref id="advs2021-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="advs2021-cit-0035">
+<string-name>
+<given-names>S.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Stavitski</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Rong</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>L. Q.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;S.</given-names>
+<surname>Hu</surname>
+</string-name>, <source xml:lang="en">J. Mater. Chem. A</source>
+<year>2018</year>, <volume>6</volume>, <elocation-id>20795</elocation-id>.</mixed-citation></ref><ref id="advs2021-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="advs2021-cit-0036">
+<string-name>
+<given-names>W. K.</given-names>
+<surname>Pang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Kalluri</surname>
+</string-name>, <string-name>
+<given-names>V. K.</given-names>
+<surname>Peterson</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Sharma</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kimpton</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Johannessen</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S. X.</given-names>
+<surname>Dou</surname>
+</string-name>, <string-name>
+<given-names>Z. P.</given-names>
+<surname>Guo</surname>
+</string-name>, <source xml:lang="en">Chem. Mater.</source>
+<year>2015</year>, <volume>27</volume>, <fpage>3150</fpage>.</mixed-citation></ref><ref id="advs2021-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="advs2021-cit-0037">
+<string-name>
+<given-names>M.</given-names>
+<surname>Zarrabeitia</surname>
+</string-name>, <string-name>
+<given-names>L. G.</given-names>
+<surname>Chagas</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kuenzel</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Gonzalo</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Rojo</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Passerini</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Munoz&#x02010;Marquez</surname>
+</string-name>, <source xml:lang="en">ACS Appl. Mater. Interfaces</source>
+<year>2019</year>, <volume>11</volume>, <elocation-id>28885</elocation-id>.<pub-id pub-id-type="pmid">31318528</pub-id></mixed-citation></ref><ref id="advs2021-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="advs2021-cit-0038">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Mu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;S.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L. Q.</given-names>
+<surname>Chen</surname>
+</string-name>, <source xml:lang="en">Adv. Sci.</source>
+<year>2015</year>, <volume>2</volume>, <elocation-id>1500031</elocation-id>.</mixed-citation></ref><ref id="advs2021-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="advs2021-cit-0039">
+<string-name>
+<given-names>L.</given-names>
+<surname>Mu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;S.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L. Q.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X. J.</given-names>
+<surname>Huang</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2015</year>, <volume>27</volume>, <fpage>6928</fpage>.<pub-id pub-id-type="pmid">26436288</pub-id></mixed-citation></ref><ref id="advs2021-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="advs2021-cit-0040">
+<string-name>
+<given-names>E.</given-names>
+<surname>Talaie</surname>
+</string-name>, <string-name>
+<given-names>S. Y.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Nazar</surname>
+</string-name>, <source xml:lang="en">Chem. Mater.</source>
+<year>2017</year>, <volume>29</volume>, <fpage>6684</fpage>.</mixed-citation></ref><ref id="advs2021-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="advs2021-cit-0041">
+<string-name>
+<given-names>S. M.</given-names>
+<surname>Oh</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Oh</surname>
+</string-name>, <string-name>
+<given-names>S. O.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>A. A.</given-names>
+<surname>Manthiram</surname>
+</string-name>, <source xml:lang="en">J. Electrochem. Soc.</source>
+<year>2017</year>, <volume>164</volume>, <fpage>A321</fpage>.</mixed-citation></ref><ref id="advs2021-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="advs2021-cit-0042">
+<string-name>
+<given-names>L.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;H.</given-names>
+<surname>Bo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Twu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Ceder</surname>
+</string-name>, <source xml:lang="en">Adv. Energy Mater.</source>
+<year>2015</year>, <volume>5</volume>, <elocation-id>1500944</elocation-id>.</mixed-citation></ref><ref id="advs2021-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="advs2021-cit-0043">
+<string-name>
+<given-names>H.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Hitz</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wan</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Lacey</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Cresce</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Wachsman</surname>
+</string-name>, <string-name>
+<given-names>L. B.</given-names>
+<surname>Hu</surname>
+</string-name>, <source xml:lang="en">ACS Appl. Mater. Interfaces</source>
+<year>2014</year>, <volume>6</volume>, <fpage>4242</fpage>.<pub-id pub-id-type="pmid">24588793</pub-id></mixed-citation></ref><ref id="advs2021-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="advs2021-cit-0044">
+<string-name>
+<given-names>W.</given-names>
+<surname>Kong</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>X. F.</given-names>
+<surname>Liu</surname>
+</string-name>, <source xml:lang="en">Appl. Surf. Sci.</source>
+<year>2019</year>, <volume>497</volume>, <elocation-id>143814</elocation-id>.</mixed-citation></ref><ref id="advs2021-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="advs2021-cit-0045">
+<string-name>
+<given-names>S.</given-names>
+<surname>Kalluri</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Seng</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Pang</surname>
+</string-name>, <string-name>
+<given-names>Z. P.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S. X.</given-names>
+<surname>Dou</surname>
+</string-name>, <source xml:lang="en">ACS Appl. Mater. Interfaces</source>
+<year>2014</year>, <volume>6</volume>, <fpage>8953</fpage>.<pub-id pub-id-type="pmid">24905950</pub-id></mixed-citation></ref><ref id="advs2021-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="advs2021-cit-0046">
+<string-name>
+<given-names>W.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>D. Y. W.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>P. K.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Bian</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>T. W.</given-names>
+<surname>Ng</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>C. S.</given-names>
+<surname>Lee</surname>
+</string-name>, <source xml:lang="en">ACS Appl. Mater. Interfaces</source>
+<year>2016</year>, <volume>8</volume>, <elocation-id>31661</elocation-id>.<pub-id pub-id-type="pmid">27801566</pub-id></mixed-citation></ref><ref id="advs2021-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="advs2021-cit-0047">
+<string-name>
+<given-names>Y. C.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Jiao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>L.&#x02010;Z.</given-names>
+<surname>Fan</surname>
+</string-name>, <source xml:lang="en">Adv. Funct. Mater.</source>
+<year>2020</year>, <volume>30</volume>, <elocation-id>1907837</elocation-id>.</mixed-citation></ref><ref id="advs2021-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="advs2021-cit-0048">
+<string-name>
+<given-names>P.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y. X.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;G.</given-names>
+<surname>Guo</surname>
+</string-name>, <source xml:lang="en">Sci. Adv.</source>
+<year>2018</year>, <volume>4</volume>, <elocation-id>eaar6018</elocation-id>.<pub-id pub-id-type="pmid">29536049</pub-id></mixed-citation></ref><ref id="advs2021-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="advs2021-cit-0049">
+<string-name>
+<given-names>H. V.</given-names>
+<surname>Ramasamy</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kaliyappan</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Thangavel</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Aravindan</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>D. U.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>Y. I.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>X. L.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Lee</surname>
+</string-name>, <source xml:lang="en">J. Mater. Chem. A</source>
+<year>2017</year>, <volume>5</volume>, <fpage>8408</fpage>.</mixed-citation></ref><ref id="advs2021-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="advs2021-cit-0050">
+<string-name>
+<given-names>L.</given-names>
+<surname>Mu</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;S.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>L.&#x02010;Q.</given-names>
+<surname>Chen</surname>
+</string-name>, <source xml:lang="en">Chin. Phys. B</source>
+<year>2015</year>, <volume>24</volume>, <elocation-id>038202</elocation-id>.</mixed-citation></ref><ref id="advs2021-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="advs2021-cit-0051">
+<string-name>
+<given-names>X.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Zou</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>X. B.</given-names>
+<surname>Ji</surname>
+</string-name>, <source xml:lang="en">ACS Appl. Mater. Interfaces</source>
+<year>2020</year>, <volume>12</volume>, <fpage>2432</fpage>.<pub-id pub-id-type="pmid">31845791</pub-id></mixed-citation></ref><ref id="advs2021-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="advs2021-cit-0052">
+<string-name>
+<given-names>E.</given-names>
+<surname>Talaie</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Duffort</surname>
+</string-name>, <string-name>
+<given-names>H. L.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Fultz</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Nazar</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2015</year>, <volume>8</volume>, <fpage>2512</fpage>.</mixed-citation></ref><ref id="advs2021-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="advs2021-cit-0053">
+<string-name>
+<given-names>S. P.</given-names>
+<surname>Ong</surname>
+</string-name>, <string-name>
+<given-names>V. L.</given-names>
+<surname>Chevrier</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Hautier</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Jain</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Moore</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Ceder</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2011</year>, <volume>4</volume>, <fpage>3680</fpage>.</mixed-citation></ref></ref-list></back></article>

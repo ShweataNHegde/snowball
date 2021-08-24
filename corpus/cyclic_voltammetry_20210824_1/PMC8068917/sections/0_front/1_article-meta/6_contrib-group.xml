@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-9375-9531</contrib-id>
+  <name>
+   <surname>Mosa</surname>
+   <given-names>Jadra</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-nanomaterials-11-00966">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-5384-8249</contrib-id>
+  <name>
+   <surname>García-García</surname>
+   <given-names>Francisco José</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-nanomaterials-11-00966">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-6417-1437</contrib-id>
+  <name>
+   <surname>González-Elipe</surname>
+   <given-names>Agustín R.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-nanomaterials-11-00966">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-3024-0593</contrib-id>
+  <name>
+   <surname>Aparicio</surname>
+   <given-names>Mario</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-nanomaterials-11-00966">1</xref>
+  <xref rid="c1-nanomaterials-11-00966" ref-type="corresp">*</xref>
+ </contrib>
+</contrib-group>

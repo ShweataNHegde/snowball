@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Seemingly, a more outright approach for overcoming the issue of parasitic reactions in aqueous solution is to use aprotic organic nonaqueous electrolytes. As illustrated in 
+ <xref rid="F4" ref-type="fig">Fig. 4F</xref>, computation work suggests that Zn electrodeposition can proceed via a one-step, two-electron transfer mechanism in organic electrolyte, e.g., Zn(TFSI)
+ <sub>2</sub> in acetonitrile (AN), which is comparatively faster than the kinetics of Mg, another HCP metal (
+ <xref rid="R114" ref-type="bibr">
+  <italic>114</italic>
+ </xref>). Han 
+ <italic>et al.</italic> (
+ <xref rid="R115" ref-type="bibr">
+  <italic>115</italic>
+ </xref>) reported on a comprehensive experimental study of the electrochemical properties of nonaqueous Zn electrolytes including the combinations between one of the salts: Zn(TFSI)
+ <sub>2</sub>, Zn(CF
+ <sub>3</sub>SO
+ <sub>3</sub>)
+ <sub>2</sub>, Zn(BF
+ <sub>4</sub>)
+ <sub>2</sub>, Zn(PF
+ <sub>6</sub>)
+ <sub>2</sub>, and one of the organic solvents: diglyme (G2), AN, propylene carbonate (PC), and 
+ <italic>N</italic>,
+ <italic>N</italic>′-dimethylformamide (DMF). Among these combinations, AN-Zn(TFSI)
+ <sub>2</sub>, AN-Zn(CF
+ <sub>3</sub>SO
+ <sub>3</sub>)
+ <sub>2</sub>, and PC-Zn(TFSI)
+ <sub>2</sub> are singled out as promising Zn battery electrolytes owing to the high-voltage stability(&gt;3.3 V versus Zn
+ <sup>2+</sup>/Zn) and the absence (or negligible observation) of undesirable additional redox reactions, as well as the reversible Zn plating/stripping behaviors (see cyclic voltammetry scans in 
+ <xref rid="F4" ref-type="fig">Fig. 4G</xref>). An additional finding according to the cyclic voltammetry is that AN-based electrolytes show fastest kinetics as evidenced by the current density. The authors show that AN-based electrolytes have remarkably high ionic conductivities [e.g., using Zn(TFSI)
+ <sub>2</sub> salt, the ionic conductivity equals to 11, 6, 2, and 2 mS/cm for AN, DMF, PC, and G2, respectively], which is attributable to the low viscosity and weak coordination between the solvent and the ionic species. This finding is consistent with a few separate studies that report on Zn full batteries using an AN-based electrolyte (
+ <xref rid="R116" ref-type="bibr">
+  <italic>116</italic>
+ </xref>–
+ <xref rid="R118" ref-type="bibr">
+  <italic>118</italic>
+ </xref>). It could also be attributable to the one-step, two-electron transfer mechanism of Zn as predicted by simulation (
+ <xref rid="R114" ref-type="bibr">
+  <italic>114</italic>
+ </xref>), which results in a large reaction constant five orders of magnitudes larger than that of Mg electrodeposition from tetrahydrofuran that includes two steps. Together, the kinetics in the bulk (i.e., diffusivity) and at the interface (i.e., reaction constant) single out AN-based systems as a group of promising electrolytes for Zn batteries.
+</p>

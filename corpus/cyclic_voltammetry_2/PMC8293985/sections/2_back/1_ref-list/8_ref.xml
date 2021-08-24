@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="cit8">
+ <element-citation publication-type="journal" id="cit8a">
+  <label> (a) </label>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Anson</surname>
+    <given-names>C. W.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ghosh</surname>
+    <given-names>S.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hammes-Schiffer</surname>
+    <given-names>S.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Stahl</surname>
+    <given-names>S. S.</given-names>
+   </name>
+  </person-group>
+  <source>J. Am. Chem. Soc.</source>
+  <year>2016</year>
+  <volume>138</volume>
+  <fpage>4186</fpage>
+  <lpage>4193</lpage>
+  <pub-id pub-id-type="doi">10.1021/jacs.6b00254</pub-id>
+  <?supplied-pmid 26924338?>
+  <pub-id pub-id-type="pmid">26924338</pub-id>
+ </element-citation>
+ <element-citation publication-type="journal" id="cit8b">
+  <label> (b) </label>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Anson</surname>
+    <given-names>C. W.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Stahl</surname>
+    <given-names>S. S.</given-names>
+   </name>
+  </person-group>
+  <source>J. Am. Chem. Soc.</source>
+  <year>2017</year>
+  <volume>139</volume>
+  <fpage>18472</fpage>
+  <lpage>18475</lpage>
+  <pub-id pub-id-type="doi">10.1021/jacs.7b11362</pub-id>
+  <?supplied-pmid 29198114?>
+  <pub-id pub-id-type="pmid">29198114</pub-id>
+ </element-citation>
+</ref>

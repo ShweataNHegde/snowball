@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2013-8141</contrib-id>
+  <name>
+   <surname>Mirabedini</surname>
+   <given-names>Azadeh</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-nanomaterials-11-00003">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lu</surname>
+   <given-names>Zan</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-nanomaterials-11-00003">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mostafavian</surname>
+   <given-names>Saber</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-nanomaterials-11-00003">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1979-5213</contrib-id>
+  <name>
+   <surname>Foroughi</surname>
+   <given-names>Javad</given-names>
+  </name>
+  <xref ref-type="aff" rid="af4-nanomaterials-11-00003">4</xref>
+  <xref ref-type="aff" rid="af5-nanomaterials-11-00003">5</xref>
+  <xref rid="c1-nanomaterials-11-00003" ref-type="corresp">*</xref>
+ </contrib>
+</contrib-group>

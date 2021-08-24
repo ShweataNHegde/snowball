@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <xref ref-type="fig" rid="nanomaterials-11-00966-f004">Figure 4</xref>a shows the galvanostatic discharge–charge curves (capacities vs. voltage) at 400 mA g
+ <sup>−1</sup> between 0.010 and 3.000 V (vs. Na
+ <sup>+</sup>/Na). The first discharge scan reaches a huge capacity value of 6305 mA h g
+ <sup>−1</sup>, associated mainly with the SEI formation. The electrochemical evaluation of the NiO nanosheet’s anode using galvanostatic charge–discharge profiles also shows a very high discharge capacity during the first cycle, which is associated with the SEI formation and electrolyte decomposition [
+ <xref rid="B16-nanomaterials-11-00966" ref-type="bibr">16</xref>]. Increasing the cycle’s number leads to a continuous reduction in the discharge capacity due to the completion of the SEI formation, but also because some amount of Ni
+ <sup>0</sup> and Na
+ <sub>2</sub>O produced during the discharge process remains in the electrode and does not participate in the charge process and subsequent discharges (see next section). A similar analysis using NiO nanosheets shows a decreasing discharge capacity due to the formation of irreversible Na
+ <sub>2</sub>O, more SEI film formation, and a serious electrical isolation caused by the large size of Na
+ <sup>+</sup> in comparison with Li
+ <sup>+</sup> [
+ <xref rid="B17-nanomaterials-11-00966" ref-type="bibr">17</xref>]. Also, in this paper, the large capacity difference between the initial cycles is attributed to the decomposition of the electrolyte and the irreversible formation of the SEI film, which aligns with the CV results. The plots of charge and discharge capacities vs. cycle number (
+ <xref ref-type="fig" rid="nanomaterials-11-00966-f004">Figure 4</xref>b) clearly show this behavior. The reduction in the discharge capacity with the number of cycles in comparison to the rather stable value shown by the charge capacity, together with the higher discharge capacity values, seem to confirm that not all the Ni
+ <sup>0</sup> formed during the discharge processes participates in the charge steps. This situation originates a lower amount of available NiO after each successive discharge process, leading to a stabilized final discharge capacity of 467 mA h g
+ <sup>−1</sup> after 16 cycles.
+</p>

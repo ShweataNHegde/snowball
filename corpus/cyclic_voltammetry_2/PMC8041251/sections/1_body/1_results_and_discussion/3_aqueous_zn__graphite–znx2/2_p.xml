@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The electrochemistry of confined Zn halides within a graphite electrode was examined using the WiTS gel electrolyte in full-cell Zn batteries. The free-standing graphite–ZnX
+ <sub>2</sub> cathodes were prepared by mixing the desired halide and natural graphite at a mass ratio of 1:3 with 5% PTFE binder. 
+ <xref rid="fig2" ref-type="fig">Figure 
+  <xref rid="fig2" ref-type="fig">2</xref>
+ </xref>A shows the CVs recorded at the cathodes of graphite–ZnI
+ <sub>2</sub> (G–ZnI
+ <sub>2</sub>), graphite–ZnBr
+ <sub>2</sub> (G–ZnBr
+ <sub>2</sub>), and graphite–ZnCl
+ <sub>2</sub> (G–ZnCl
+ <sub>2</sub>) combined with Zn anodes in cells using the WiTS gel electrolyte. Significantly, both G–ZnI
+ <sub>2</sub> and G–ZnBr
+ <sub>2</sub> showed reversible redox reactions at the characteristic formal potentials of I
+ <sup>–</sup>/I
+ <sub>2</sub> (1.17 V vs Zn/Zn
+ <sup>2+</sup>) and Br
+ <sup>–</sup>/Br
+ <sub>2</sub> (1.67 V vs Zn/Zn
+ <sup>2+</sup>). The oxidative redox reactions are therefore attributed to the conversion of the halide ion (I
+ <sup>–</sup>, Br
+ <sup>–</sup>) to elemental halogen (I
+ <sup>0</sup> or Br
+ <sup>0</sup>), which is stabilized by sequential intercalation/adsorption into graphite galleries to form a solid graphite intercalation compound (GIC) (
+ <xref rid="eq1" ref-type="disp-formula">eq 
+  <xref rid="eq1" ref-type="disp-formula">1</xref>
+ </xref>).
+ <sup>
+  <xref ref-type="bibr" rid="ref6">6</xref>,
+  <xref ref-type="bibr" rid="ref29">29</xref>−
+  <xref ref-type="bibr" rid="ref31">31</xref>
+ </sup> This oxidation process releases Zn
+ <sup>2+</sup>, which is transported through the gel electrolyte to replace the ions reversibly plated on the Zn anode (
+ <xref rid="eq2" ref-type="disp-formula">eq 
+  <xref rid="eq2" ref-type="disp-formula">2</xref>
+ </xref>). The reduction process at the cathode is due to the deintercalation and reduction of I
+ <sup>0</sup>/Br
+ <sup>0</sup> to recombine with Zn
+ <sup>2+</sup> (
+ <italic>n</italic> is the molar ratio of carbon atoms to the intercalated/adsorbed halogens in the GIC). The ratio between the 
+ <italic>i</italic>
+ <sub>p,a</sub> and the 
+ <italic>i</italic>
+ <sub>p,c</sub> being one in 
+ <xref rid="fig2" ref-type="fig">Figure 
+  <xref rid="fig2" ref-type="fig">2</xref>
+ </xref>A demonstrates the high reversibility of 
+ <xref rid="eq1" ref-type="disp-formula">eq 
+  <xref rid="eq1" ref-type="disp-formula">1</xref>
+ </xref>
+ <disp-formula id="eq1">
+  <graphic xlink:href="am0c20622_m001" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <label>1</label>
+ </disp-formula>
+ <disp-formula id="eq2">
+  <graphic xlink:href="am0c20622_m002" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <label>2</label>
+ </disp-formula>
+</p>

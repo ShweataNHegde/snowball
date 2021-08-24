@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The number of electrons exchanged by each [NiAmben] unit of the polymer film in the redox processes, 
+ <italic>n</italic>, was calculated using Equation (1) [
+ <xref rid="B28-molecules-26-02646" ref-type="bibr">28</xref>]; the results are shown in 
+ <xref rid="molecules-26-02646-t002" ref-type="table">Table 2</xref>. 
+ <disp-formula id="FD1-molecules-26-02646">
+  <label>(1)</label>
+  <math id="mm1">
+   <mrow>
+    <mrow>
+     <mi>n</mi>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mi>Q</mi>
+        <mrow>
+         <mi>C</mi>
+         <mi>V</mi>
+        </mrow>
+       </msub>
+       <mo>⋅</mo>
+       <mi>M</mi>
+      </mrow>
+      <mrow>
+       <mi>F</mi>
+       <mo>⋅</mo>
+       <msub>
+        <mi>m</mi>
+        <mrow>
+         <mi>Q</mi>
+         <mi>C</mi>
+         <mi>M</mi>
+        </mrow>
+       </msub>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where 
+ <italic>Q
+  <sub>CV</sub>
+ </italic> is the voltammetric charge (
+ <italic>Q
+  <sub>ox</sub>
+ </italic> or 
+ <italic>Q
+  <sub>red</sub>
+ </italic>), in C; 
+ <italic>M</italic> is the molar mass of repeat unit in the undoped polymer, in g mol
+ <sup>−1</sup>; 
+ <italic>F</italic> is the Faraday constant (96,485 C mol
+ <sup>−1</sup>); 
+ <italic>m
+  <sub>QCM</sub>
+ </italic> is the mass of the dry undoped polymer film determined by microgravimetric measurements, in g. 
+</p>

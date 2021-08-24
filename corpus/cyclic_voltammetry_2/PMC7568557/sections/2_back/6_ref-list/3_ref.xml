@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bruce</surname>
+    <given-names>PG</given-names>
+   </name>
+   <name>
+    <surname>Freunberger</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Hardwick</surname>
+    <given-names>LJ</given-names>
+   </name>
+   <name>
+    <surname>Tarascon</surname>
+    <given-names>J-M</given-names>
+   </name>
+  </person-group>
+  <article-title>Li–O2 and Li–S batteries with high energy storage</article-title>
+  <source>Nat. Mater.</source>
+  <year>2011</year>
+  <volume>11</volume>
+  <fpage>19</fpage>
+  <pub-id pub-id-type="doi">10.1038/nmat3191</pub-id>
+  <?supplied-pmid 22169914?>
+  <pub-id pub-id-type="pmid">22169914</pub-id>
+ </element-citation>
+</ref>

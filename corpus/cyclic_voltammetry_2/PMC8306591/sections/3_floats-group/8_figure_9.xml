@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="molecules-26-04188-f009" orientation="portrait" position="float">
+ <label>Figure 9</label>
+ <caption>
+  <p>Comparison between bare AC and ZnO-coated AC samples using 400 ms pulse time: (
+   <bold>a</bold>) C-V of 20-cycle ZnO-coated at 150 °C; (
+   <bold>b</bold>) C-V of ZnO-coated sample at 70 °C and 150 °C; (
+   <bold>c</bold>) Electrochemical impedance spectrum of bare AC and coated AC at various conditions; (
+   <bold>d</bold>) Cyclic stability at 3.2 V and /50 mA for 5000 cycles of various samples.
+  </p>
+ </caption>
+ <graphic xlink:href="molecules-26-04188-g009" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

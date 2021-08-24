@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <xref rid="materials-14-03840-t001" ref-type="table">Table 1</xref> groups several results including values of E
+ <sub>ox</sub> for SPEs and SCEs (depending on the method of evaluation, temperature of the experiment, and scanning rate during the analysis) from recent articles spanning 2019–2020. It is worth noting that ESW includes stabilities in terms of oxidation (E
+ <sub>ox</sub>) and reduction (E
+ <sub>red</sub>) potentials. When an additional current to the capacitive one appears, this underlines a faradic reaction (oxidation or reduction of the material/electrolyte) beyond which the system is no more stable. Some authors make the distinction between E
+ <sub>ox</sub> and E
+ <sub>red</sub>. However, in most papers the study is only concentrated on E
+ <sub>ox</sub> because most SPEs and SCEs are assumed to be compatible with Li metal (specifically those containing PEO). Thus, ESW is sometimes simply assimilated to E
+ <sub>ox</sub>.
+</p>

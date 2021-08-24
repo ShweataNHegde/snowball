@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F4" fig-type="figure" orientation="portrait" position="float">
+ <label>Fig. 4</label>
+ <caption>
+  <title>Designing electrolytes for highly reversible Zn metal plating/stripping.</title>
+  <p>(
+   <bold>A</bold>) Spider chart comparing electrolytes for Zn batteries. (
+   <bold>B</bold>) Distribution of chemical species in aqueous Zn
+   <sup>2+</sup> electrolytes. (B-1) Pourbaix diagram. The top and bottom dashed lines represent oxygen evolution and hydrogen evolution reactions (HERs), respectively. (B-2) Fractions of different Zn
+   <sup>2+</sup>-based species. (
+   <bold>C</bold>) Transmission electron microscopy (TEM) characterization of Zn electrodeposits. Adapted with permission from (
+   <xref rid="R199" ref-type="bibr">
+    <italic>199</italic>
+   </xref>). (C-1 and C-2) TEM images and (C-3) selected area electron diffraction pattern. (
+   <bold>D</bold>) Water-in-salt electrolyte for Zn metal deposition. Adapted with permission from (
+   <xref rid="R107" ref-type="bibr">
+    <italic>107</italic>
+   </xref>). (D-1) SEM image of Zn after cycling in water-in-salt electrolyte. (D-2) The plating/stripping voltage profile of Zn in water-in-salt electrolyte. (
+   <bold>E</bold>) The molality-dependent parameters of high-concentration electrolytes. (
+   <bold>F</bold>) Schematic diagram showing reaction kinetics of adsorbed (ads.) solvated Zn
+   <sup>2+</sup> in acetonitrile (AN) on electrode surface. Adapted with permission from (
+   <xref rid="R114" ref-type="bibr">
+    <italic>114</italic>
+   </xref>). (
+   <bold>G</bold>) Cyclic voltammetry of organic Zn battery electrolytes: (G-1) AN-Zn(TFSI)
+   <sub>2</sub>, (G-2) AN-Zn triflate (OTf), and (G-3) propylene carbonate (PC)–Zn(TFSI)
+   <sub>2</sub>. Adapted with permission from (
+   <xref rid="R115" ref-type="bibr">
+    <italic>115</italic>
+   </xref>).
+  </p>
+ </caption>
+ <graphic xlink:href="abe0219-F4" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

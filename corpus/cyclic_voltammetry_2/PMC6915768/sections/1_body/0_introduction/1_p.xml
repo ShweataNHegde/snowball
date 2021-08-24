@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par2">The global demand for electricity generation and its vast usage has motivated the researchers to find alternative renewable energy solutions. Electrochemical conversion of chemical energy into electrical energy is more advantageous than heat engine based energy conversion where Carnot’s theorem poses limitation. The electrochemical energy conversion devices that are of high significance are fuel cells, electrolysers, batteries, supercapacitors and redox flow batteries. There is a dire need for electrochemical energy conversion devices as the demand for off grid portable devices and electric vehicles increases. In a fuel cell the conversion of chemical to electrical energy happens by anodic oxidation of fuel resulting in the liberation of electrons which flows through the exterior circuit and arrive at the cathode wherein most of the cases oxygen reduction occurs. Small molecules like hydrogen, methanol, ethanol, formic acid etc., act as fuels in fuel cells
+ <sup>
+  <xref ref-type="bibr" rid="CR1">1</xref>
+ </sup>. Fuel cell driven electrochemical engines would offer clean source of energy and such engines would be noise free, vibration free and devoid of harmful gaseous emissions. Pt is the best catalyst ever known for fuel cell applications. The poor kinetics of oxidation of fuels at the anode and low abundance combined with the exorbitant cost of Pt make the cost of the device very high. Hence researchers are focusing on alternate catalysts with enhanced performance Also, investigations on the electrochemical oxidation of small molecules like methanol, formic acid are on the increase besides hydrogen
+ <sup>
+  <xref ref-type="bibr" rid="CR2">2</xref>–
+  <xref ref-type="bibr" rid="CR7">7</xref>
+ </sup>.For many of the applications including fuel cells in which Pt reigns supremacy, the current trend is to make use of alloy of noble metals with non-noble metals
+ <sup>
+  <xref ref-type="bibr" rid="CR8">8</xref>,
+  <xref ref-type="bibr" rid="CR9">9</xref>
+ </sup>. Such alloy catalysts are helpful in reducing the overall cost of the catalyst and exhibit much better performance and high selectivity
+ <sup>
+  <xref ref-type="bibr" rid="CR10">10</xref>–
+  <xref ref-type="bibr" rid="CR14">14</xref>
+ </sup>. Nowadays, metallic platinum (Pt) and Pt-based alloys are considered widely popular and superior electrocatalysts for cathodic reaction (oxygen reduction, ORR) in fuel cell applications, metal air batteries, chloralkali electrolysis, water electrolysis, metal corrosion processes etc., In addition to their low abundance and exorbitant cost of Pt based catalysts, they also suffer from low stability, and their susceptibility to fuel (e.g., methanol) poisoning effects. Therefore, we are faced with the big challenge of development of Pt-free electrocatalysts for ORR with improved catalytic performance and durability. Owing to the similarity of Palladium to Pt in terms of crystal structure, electronic configuration and its position at the apex of the volcano plot for ORR activity of pure metals as published by Norskov 
+ <italic>et al</italic>., Pd has emerged as a suitable alternative cathode catalyst for fuel cell applications
+ <sup>
+  <xref ref-type="bibr" rid="CR15">15</xref>
+ </sup>. The high availability and low cost of Pd are the additional advantageous features in support of Pd being a suitable cathode catalyst. It has been shown that Pd-based electro catalysts exhibit good ORR activity in alkaline media. Also it is known that Pd-based electrocatalysts exhibit poor catalytic activity towards ORR in acidic media when compared to Pt-based electrocatalysts. In order to prevent leaching of metal/alloy nanoparticle catalysts from the electrode surface supporting matrices need to be incorporated on the electrode surface. Supporting matrices provide additional advantages such as (1) improved surface area caused by better distribution of nanoparticles (2) enhanced diffusion of electroactive species through porous supports (3) promoting catalytic activity by increasing electron transfer rates/decreasing Fermi level of catalysts. Usually carbonaceous materials, metal oxides and polymers are used as support materials for catalysts. Although carbonaceous materials are traditionally used as supporting materials, the problems associated due to carbon corrosion necessitate the quest for alternate supports for catalysts. Conducting polymers belong to the class of smart materials with promising and novel applications such as thin film field effect transistors, polymeric light emitting diodes, magnetic shielding materials, sensor technology and so on
+ <sup>
+  <xref ref-type="bibr" rid="CR16">16</xref>–
+  <xref ref-type="bibr" rid="CR19">19</xref>
+ </sup>. Conducting polymers are ideal for a broad range of applications because of their special properties, such as high conductivity, stability in air and ease of preparation. Also they can act as a supporting matrix for a dispersed catalyst providing a large surface area that is essential for effective electrocatalysis. In this investigation, the conducting polymer aids high catalytic activity of the nano sized catalytic material. Generally, the combination of chemically prepared polymer and Pd nanoparticles leads to a material with unique properties suitable for multifarious applications and they are predicted as excellent catalysts for oxygen reduction in alkaline medium
+ <sup>
+  <xref ref-type="bibr" rid="CR20">20</xref>
+ </sup>. In order to avoid aggregation, poor distribution and leaching of naked Pd NPs, conducting polymers provide an ideal choice for catalyst supports. A new strategy of galvanic displacement is adopted in this work to obtain nano sized and well dispersed Pd NPs supported on PEDOT matrix without stabilizers. The literature reports on Pd based ORR catalysts reveal that only carbonaceous materials, metal oxides, chalcogenides and metal carbides have been evaluated so far as catalyst supports
+ <sup>
+  <xref ref-type="bibr" rid="CR21">21</xref>
+ </sup>. Further only few catalyst preparations involve electrochemical methods. Hence, this paper discusses the first attempt made towards the evaluation of PEDOT as suitable catalyst supports for Pd where the nanostructured Pd catalyst has been prepared by electrodeposition of Cu followed by galvanic replacement of Pd. It is well known that Pd can galvanically displace Cu
+ <sup>
+  <xref ref-type="bibr" rid="CR22">22</xref>,
+  <xref ref-type="bibr" rid="CR23">23</xref>
+ </sup>. Motivated by the preceding studies, we planned a strategy of initially depositing Cu on PEDOT matrix and then impregnating Pd NPs by galvanic displacement phenomenon between Pd ions and Cu. Pd has higher formal electrode potential then Cu and therefore Pd replaces the Cu from Cu nanocubes on PEDOT surface and thus formed Pd NPs which resembled shrimp like structure. Moreover, the electrochemical data indicate that the Pd/PEDOT catalyst simultaneously exhibits better activity for oxygen reduction reaction in acid medium along with methanol tolerance and can be used as cathode in methanol fuel cell and for hydrogen peroxide preparation.
+</p>

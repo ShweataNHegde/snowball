@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B131-materials-14-03840">
+ <label>131.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Binninger</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Marcolongo</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Mottet</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Weber</surname>
+    <given-names>V.</given-names>
+   </name>
+   <name>
+    <surname>Laino</surname>
+    <given-names>T.</given-names>
+   </name>
+  </person-group>
+  <article-title>Comparison of computational methods for the electrochemical stability window of solid-state electrolyte materials</article-title>
+  <source>J. Mater. Chem. A</source>
+  <year>2020</year>
+  <volume>8</volume>
+  <fpage>1347</fpage>
+  <lpage>1359</lpage>
+  <pub-id pub-id-type="doi">10.1039/C9TA09401F</pub-id>
+ </element-citation>
+</ref>

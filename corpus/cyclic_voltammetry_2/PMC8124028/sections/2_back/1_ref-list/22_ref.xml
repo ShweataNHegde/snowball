@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Liu</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Gao</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Xiao</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Ma</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Sun</surname>
+    <given-names>K</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Self-powered water-splitting devices by core-shell NiFe@N-Graphite-based Zn–air batteries</article-title>
+  <source>Adv. Funct. Mater.</source>
+  <year>2018</year>
+  <volume>28</volume>
+  <fpage>1706928</fpage>
+  <pub-id pub-id-type="doi">10.1002/adfm.201706928</pub-id>
+ </element-citation>
+</ref>

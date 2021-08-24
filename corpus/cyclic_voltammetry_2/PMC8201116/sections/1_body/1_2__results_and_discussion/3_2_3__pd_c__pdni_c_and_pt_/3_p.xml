@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The kinetic current has been calculated using the ORR polarization curves by considering the mass-transport correction using the Koutecky-Levich Equation (12) to explore the electro activity of the PdNi/C, Pd/C, and Pt/C in detail. The kinetic currents were computed in alkaline solution at 0.074 V (vs. Hg/HgO/OH
+ <sup>−</sup>) for all materials. 
+ <disp-formula id="FD7-molecules-26-03440">
+  <label>(12)</label>
+  <math id="mm7">
+   <mrow>
+    <mrow>
+     <mfrac>
+      <mn>1</mn>
+      <mi mathvariant="normal">i</mi>
+     </mfrac>
+     <mo>=</mo>
+     <mfrac>
+      <mn>1</mn>
+      <mrow>
+       <mi>ik</mi>
+      </mrow>
+     </mfrac>
+     <mo>+</mo>
+     <mfrac>
+      <mn>1</mn>
+      <mrow>
+       <msub>
+        <mi mathvariant="normal">i</mi>
+        <mi mathvariant="normal">L</mi>
+       </msub>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+</p>

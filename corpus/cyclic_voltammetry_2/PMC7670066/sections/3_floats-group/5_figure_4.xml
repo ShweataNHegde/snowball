@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F4" position="float">
+ <label>Figure 4</label>
+ <caption>
+  <p>
+   <bold>(A)</bold> Cyclic voltammograms of anC:Np5, anC:Np10, and anC:Np20 electrodes in Ar-saturated 0.1 M TBAPF
+   <sub>6</sub> in acetonitrile at 50 mV s
+   <sup>−1</sup>; the CV of the nitrogen-free anC material is also shown for comparison. Impedance modulus 
+   <bold>(B)</bold> and phase 
+   <bold>(C)</bold> obtained from EIS data (Bode plots) in the same solution at open circuit potential (OCP −0.28–0.1 V vs. Ag/Ag
+   <sup>+</sup>) are also shown for the electrode materials.
+  </p>
+ </caption>
+ <graphic xlink:href="fchem-08-593932-g0004" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

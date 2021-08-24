@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B41">
+ <label>41</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kresse</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Furthmuller</surname>
+    <given-names>J.</given-names>
+   </name>
+  </person-group>
+  <article-title>Efficient iterative schemes forab initiototal-energy calculations using a plane-wave basis set</article-title>
+  <source>
+   <italic toggle="yes">Physical Review B</italic>
+  </source>
+  <year>1996</year>
+  <volume>54</volume>
+  <issue>16</issue>
+  <fpage>11169</fpage>
+  <lpage>11186</lpage>
+  <pub-id pub-id-type="doi">10.1103/PhysRevB.54.11169</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-2442537377</pub-id>
+ </element-citation>
+</ref>

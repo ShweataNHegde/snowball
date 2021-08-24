@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par25">The applications of lithium-ion batteries (LIBs) consisting of spinel lithium manganese oxide (LMO) are limited at elevated temperatures owing to the severe Mn dissolution [
+ <xref ref-type="bibr" rid="CR1">1</xref>, 
+ <xref ref-type="bibr" rid="CR2">2</xref>]. The Mn dissolution from the positive electrode is minimal for the capacity decay of the positive electrode itself; however, the deposition of dissolved transition metal ions on the negative electrode surface degrades the initially formed solid electrolyte interphase (SEI), and a new SEI is formed from further decomposition of the electrolyte on the exposed negative electrode surface [
+ <xref ref-type="bibr" rid="CR1">1</xref>–
+ <xref ref-type="bibr" rid="CR5">5</xref>]. This phenomenon consumes the usable Li-ions and the electrolyte solvents in the assembled cell; hence, the cell resistance and capacity fade at elevated temperature cycling and storage with LMO electrodes are very severe. In the past, the dissolution of Mn-ion from LMO is quite serious from Jahn-Teller distortion of the host structure by the intrinsic oxidation number of Mn-ion. Thus, the dissolution of Mn(II)-ion from the disproportionation reaction of Mn(III) in LMO host structure is crucial for the failure of LMO electrode-comprised cells [
+ <xref ref-type="bibr" rid="CR2">2</xref>, 
+ <xref ref-type="bibr" rid="CR6">6</xref>, 
+ <xref ref-type="bibr" rid="CR7">7</xref>]. To improve prompt dissolution of Mn-ion from host structure, the multivalent metal-ion doping of LMO is conducted to increase the average oxidation number of Mn; and hence the dissolution of Mn from Jahn–Teller distortion is significantly suppressed in advanced LMO active materials [
+ <xref ref-type="bibr" rid="CR8">8</xref>–
+ <xref ref-type="bibr" rid="CR10">10</xref>]. Nevertheless, the hydrogen fluoride (HF) attack from electrolyte decomposition readily dissolves Mn-ions at elevated temperatures [
+ <xref ref-type="bibr" rid="CR9">9</xref>, 
+ <xref ref-type="bibr" rid="CR11">11</xref>] and this failure mechanism is a major concern in advanced LMO chemistry using LIBs. Since the HF formation in the electrolyte solution is readily occurred from the thermal decomposition of LiPF
+ <sub>6</sub> salt, the suppression of HF attack of LMO electrode is decisive factor for enhancing electrochemical performance of LMO-comprised cells [
+ <xref ref-type="bibr" rid="CR1">1</xref>, 
+ <xref ref-type="bibr" rid="CR12">12</xref>, 
+ <xref ref-type="bibr" rid="CR13">13</xref>]. To enhance the failure of LMO-comprised cells at elevated temperature, highly passivating surface film formation is conducted to reduce the dissolution of Mn from LMO electrode [
+ <xref ref-type="bibr" rid="CR9">9</xref>, 
+ <xref ref-type="bibr" rid="CR14">14</xref>–
+ <xref ref-type="bibr" rid="CR16">16</xref>]. Numerous studies have been reported that the passivation film is formed on the positive electrode surface after initial formation process, and the deposited film significantly affects the electrochemical properties of positive electrode material [
+ <xref ref-type="bibr" rid="CR10">10</xref>, 
+ <xref ref-type="bibr" rid="CR17">17</xref>, 
+ <xref ref-type="bibr" rid="CR18">18</xref>]. Aforementioned deposited organic/inorganic composite film on a positive electrode surface [
+ <xref ref-type="bibr" rid="CR19">19</xref>–
+ <xref ref-type="bibr" rid="CR21">21</xref>] suppresses further anodic decomposition of electrolyte components, thereby reducing the transition metal dissolution [
+ <xref ref-type="bibr" rid="CR22">22</xref>, 
+ <xref ref-type="bibr" rid="CR23">23</xref>]. However, to the best of our knowledge, the passivation ability of HF or large-sized molecules on the surface film has not been studied, while the attack of HF greatly influences the electrochemical performances of LMO-comprised cells. Herein, a redox indicator was used to evaluate the passivation properties of ethylene carbonate-derived surface films. Whereas the redox-indicator based interpretation of passivation ability of SEI deposited on the carbon electrode is conducted, the physicochemical property of surface film on positive electrode is not well-analyzed [
+ <xref ref-type="bibr" rid="CR24">24</xref>, 
+ <xref ref-type="bibr" rid="CR25">25</xref>]. The redox indicator used herein must satisfy two electrochemical and physicochemical properties. One is that the oxidation stability exceeds 4.2 V (
+ <italic>vs</italic>. Li/Li
+ <sup>+</sup>), indicating the redox signal of the indicator. The second is the that the redox potential must be far below the working voltage of the positive electrode. Ferrocene (Fc) is a suitable redox indicator satisfying these two properties [
+ <xref ref-type="bibr" rid="CR26">26</xref>]. Fc is very stable in carbonate electrolytes with 4.2 V (
+ <italic>vs</italic>. Li/Li
+ <sup>+</sup>) and the redox potential of Fc is near 3.2–3.4 V (
+ <italic>vs</italic>. Li/Li
+ <sup>+</sup>), which is below the working voltage of LMO. Furthermore, the molecular size of Fc (approximately 3.31 Å) [
+ <xref ref-type="bibr" rid="CR27">27</xref>] is larger than that of the HF molecule (bonding length = 0.91 Å). Thus, the penetration signal of Fc to the LMO electrode surface implies that the HF can attack the LMO surface; hence, the surface film is not sufficient to suppress HF attack from the electrolyte. In this study, the evaluation of the surface film generated from a typical carbonate electrolyte, ethylene carbonate:diethyl carbonate (1.0 
+ <italic>M</italic> LiPF
+ <sub>6</sub> EC/DEC, 1:1 = 
+ <italic>v</italic>/
+ <italic>v</italic>), is sufficient for suppressing the HF penetration. If this proposed method is valid, the expansion of redox-indicator-based experiments for the evaluation of surface films on positive electrode surfaces can be possible.
+</p>

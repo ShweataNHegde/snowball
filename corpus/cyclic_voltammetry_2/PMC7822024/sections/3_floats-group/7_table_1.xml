@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="nanomaterials-11-00003-t001" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">nanomaterials-11-00003-t001_Table 1</object-id>
+ <label>Table 1</label>
+ <caption>
+  <p>Summary performance of previously reported similar fiber supercapacitors (SCs).</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Device Configuration</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Electrolyte</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Capacitance</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Energy Density
+     <break/>Power Density
+    </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Cycle Life</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Ref.</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IR-CNT/PEDOT:PSS</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PVA/H
+     <sub>3</sub>PO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">18.5 F g
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">—</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">91% (600 cycles)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B50-nanomaterials-11-00003" ref-type="bibr">50</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">MWNT
+     <sup>1</sup>/PEDOT:PSS
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">PVA/H
+     <sub>2</sub>SO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.46 mF cm
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.4 mWh cm
+     <sup>−3</sup>
+     <break/>40 W cm
+     <sup>−3</sup>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">92% (10,000 cycles)</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B19-nanomaterials-11-00003" ref-type="bibr">19</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEDOT-coated polyester fabric</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Na
+     <sub>2</sub>SO
+     <sub>4</sub> solution
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.64 F cm
+     <sup>−2</sup> and 5.12 F cm
+     <sup>−3</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEDOT:PSS fiber</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PVA/H
+     <sub>3</sub>PO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">119 mF cm
+     <sup>−2</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.13 µWh cm
+     <sup>−2</sup> 250 µW cm
+     <sup>−2</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B31-nanomaterials-11-00003" ref-type="bibr">31</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Carbon cloth/PEDOT:PS S</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PVA/H
+     <sub>3</sub>PO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">73 F g
+     <sup>−1</sup> at 10 mV s
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.6 Wh kg
+     <sup>−1</sup> 2880 W kg
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">~100% (2000 cycles) ~95% under bending</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B47-nanomaterials-11-00003" ref-type="bibr">47</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DMSO 
+     <sup>2</sup> doped PEDOT:PSS coated onto cellulose/polyester cloth
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sweat (artificial and human)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">8.94 F g
+     <sup>−1</sup> (10 mF cm
+     <sup>−2</sup>) at 1 mV s
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.36 Wh kg
+     <sup>−1</sup> (1.63 µWh cm
+     <sup>−2</sup>) at 1.31 V
+     <break/>329.70 W kg
+     <sup>−1</sup> (0.40 mW cm
+     <sup>−2</sup>) at 1.31 V
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">87–45%
+     <break/>(1000–5000 cycles)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B54-nanomaterials-11-00003" ref-type="bibr">54</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">MnO
+     <sub>2</sub>/PEDOT:PSS/oxidized CNT fibers
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">H
+     <sub>2</sub>SO
+     <sub>4</sub> aqueous solution
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">278.6 mF cm
+     <sup>−2</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">125.37 μWh cm
+     <sup>−2</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">92% (3000 cycles)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B55-nanomaterials-11-00003" ref-type="bibr">55</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Carbon/MnO
+     <sub>2</sub>/PEDOT:PSS composite fibres
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PVA/H
+     <sub>3</sub>PO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">51.3 F g
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">—</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">84.2% (1000 cycles)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B44-nanomaterials-11-00003" ref-type="bibr">44</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">MnO
+     <sub>2</sub>/PEDOT:PSS/oxidized CNT fibers (positive electrode)/OMC 
+     <sup>3</sup>/CNT(negative electrode)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CMC 
+     <sup>4</sup>/Na
+     <sub>2</sub>SO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">21.7 F g
+     <sup>−1</sup>
+     <break/>(23.4 F cm
+     <sup>−3</sup>)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">11.3 mWh cm
+     <sup>−3</sup>
+     <break/>~2.1 W·cm
+     <sup>−</sup>
+     <sup>3</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">85% (10,000 cycles)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B56-nanomaterials-11-00003" ref-type="bibr">56</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>
+    <sup>1</sup> Multi-walled carbon nanotube (MWNT); 
+    <sup>2</sup> Dimethyl sulfoxide (DMSO); 
+    <sup>3</sup> Ordered microporous carbon (OMC); 
+    <sup>4</sup> Carboxymethyl cellulose (CMC).
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

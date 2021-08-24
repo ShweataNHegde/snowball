@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F3" fig-type="figure" orientation="portrait" position="float">
+ <label>Fig. 3</label>
+ <caption>
+  <title>Classical electrochemistry framework of Zn metal electrodeposition.</title>
+  <p>(
+   <bold>A</bold>) Schematic diagram showing the four fluxes near the electrochemical interface. The red curve shows the concentration (conc.) profile of the metal cations. (
+   <bold>B</bold>) Current density–overpotential relation of Zn deposition in a 0.05 M ZnSO
+   <sub>4</sub> aqueous electrolyte. (
+   <bold>C</bold>) Mass transport limit induced dendritic growth of Zn electrodeposits and corresponding concentration profile. Adapted with permission from (
+   <xref rid="R52" ref-type="bibr">
+    <italic>52</italic>
+   </xref>, 
+   <xref rid="R53" ref-type="bibr">
+    <italic>53</italic>
+   </xref>). (
+   <bold>D</bold>) Electroconvection formed near an ion-selective membrane or metal electrodeposits. Adapted with permission from (
+   <xref rid="R67" ref-type="bibr">
+    <italic>67</italic>
+   </xref>, 
+   <xref rid="R70" ref-type="bibr">
+    <italic>70</italic>
+   </xref>). (
+   <bold>E</bold>) Effects of dimensionless Damköhler numbers on electrodeposition morphology. (E-1) Exchange current density versus diffusion-limited current density, and (E-2) reaction rate versus self-diffusion rate. Adapted with permission from (
+   <xref rid="R37" ref-type="bibr">
+    <italic>37</italic>
+   </xref>, 
+   <xref rid="R38" ref-type="bibr">
+    <italic>38</italic>
+   </xref>).
+  </p>
+ </caption>
+ <graphic xlink:href="abe0219-F3" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

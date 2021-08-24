@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In order to evaluate the electrochemical performance of NC@SWCNTs@Se
+ <sub>1-
+  <italic>x</italic>
+ </sub>S
+ <sub>
+  <italic>x</italic>
+ </sub> composites, NC@SWCNTs@Se
+ <sub>1-
+  <italic>x</italic>
+ </sub>S
+ <sub>
+  <italic>x</italic>
+ </sub> composites are employed as freestanding cathodes in Li-Se
+ <sub>1-
+  <italic>x</italic>
+ </sub>S
+ <sub>
+  <italic>x</italic>
+ </sub> batteries with carbonate-based electrolyte (LiPF
+ <sub>6</sub>-EC/DMC). 
+ <xref ref-type="fig" rid="F4">Figure 4A</xref> and 
+ <xref ref-type="sec" rid="s9">Supplementary Figure S4</xref> show initial three cyclic voltammetry (CV) curves of NC@SWCNTs@Se
+ <sub>1-
+  <italic>x</italic>
+ </sub>S
+ <sub>
+  <italic>x</italic>
+ </sub> cathodes at a scanning rate of 0.1 mV s
+ <sup>−1</sup> in the potential window from 1.0 to 3.0 V versus Li/Li
+ <sup>+</sup>. At the initial scan, a sharp reduction peak at ∼1.38 V, a small reduction peak at ∼2.37 V, and a broadened oxidation peak at ∼2.14 V are clearly observed. The small reduction peak at ∼2.37 V disappears after the first scan, while the sharp reduction peak at ∼1.38 V shifts to ∼1.7 V during the subsequent scan. The peak shift indicates the activation process during the first lithification process, and the polarization is effectively reduced thereafter (
+ <xref rid="B20" ref-type="bibr">Luo et al., 2014</xref>; 
+ <xref rid="B36" ref-type="bibr">Zhu et al., 2018</xref>). The subsequent CV curves are well overlapped after the first scan, indicating the good cyclability and reversibility of NC@SWCNTs@Se
+ <sub>0.2</sub>S
+ <sub>0.8</sub> cathode (
+ <xref rid="B10" ref-type="bibr">Guo et al., 2019</xref>). It should be mentioned that the CV curves of NC@SWCNTs@Se
+ <sub>1-
+  <italic>x</italic>
+ </sub>S
+ <sub>
+  <italic>x</italic>
+ </sub> cathodes are obviously different from S cathode, indicating the introduction of Se changes the electrochemical reaction process of S that is conducive to its stable work in carbonate-based electrolytes. Moreover, galvanostatic charge-discharge curves (
+ <xref ref-type="fig" rid="F4">Figure 4B</xref> and 
+ <xref ref-type="sec" rid="s9">Supplementary Figure S5</xref>) of NC@SWCNTs@Se
+ <sub>1-
+  <italic>x</italic>
+ </sub>S
+ <sub>
+  <italic>x</italic>
+ </sub> cathodes are consistent with CV results. During the first discharge process, there are two plateaus: one is an extremely short plateau at ∼2.38 V, and another is a long plateau at ∼1.75 V. In the subsequent cycles, the short plateau at ∼2.38 V disappears, while the long plateau at ∼1.75 V becomes a little steeper and shifts to ∼1.88 V. The short plateau at ∼2.38 V is attributed to the transformation of Se
+ <sub>0.2</sub>S
+ <sub>0.8</sub> to polysulfides/polyselenides intermediates. And the disappearance of the short plateau is probably due to the dissolution of intermediates into the electrolyte (
+ <xref rid="B16" ref-type="bibr">Li et al., 2015</xref>). Meanwhile, the long plateau at 1.75–1.88 V is assigned to the conversion of polysulfides/polyselenides to Li
+ <sub>2</sub>S/Li
+ <sub>2</sub>Se (
+ <xref rid="B20" ref-type="bibr">Luo et al., 2014</xref>). During the charge process, there is only one sloping plateau at ∼2.12 V, corresponding to the conversion of Li
+ <sub>2</sub>Se/Li
+ <sub>2</sub>S to Se
+ <sub>0.2</sub>S
+ <sub>0.8</sub>.
+</p>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Each of the components contributes to the unique properties of the gel. LiTFSI was used as it is soluble in water to a high concentration (when compared to Zn(TFO)
+ <sup>2</sup> or ZnSO
+ <sub>4</sub>) to reach the water-in-salt regime. It is also used as a source of the [TFSI] anion since it is believed that the reduction of [TFSI]
+ <sup>−</sup> is responsible for the formation of the passivating SEI, which extends the overall electrochemical window.
+ <sup>
+  <xref ref-type="bibr" rid="ref5">5</xref>,
+  <xref ref-type="bibr" rid="ref7">7</xref>
+ </sup> We also note that in the absence of ZnSO
+ <sub>4</sub> the gel is very sticky to handle, while in the absence of Zn(TFO)
+ <sup>2</sup>, a rigid dry material is formed, as excess ZnSO
+ <sub>4</sub> pulls water from the mixture. The thermal decomposition of the gel electrolyte was studied by thermogravimetric analysis (TGA), which shows four mass losses due to the loss of H
+ <sub>2</sub>O (&lt;200 °C), decomposition of [SO
+ <sub>4</sub>]
+ <sup>2–</sup> (200–284 °C, ∼10%), [TFO]
+ <sup>−</sup> (323–450 °C, ∼34%), and [TFSI]
+ <sup>−</sup> (&gt;450 °C).
+ <sup>
+  <xref ref-type="bibr" rid="ref21">21</xref>−
+  <xref ref-type="bibr" rid="ref23">23</xref>
+ </sup> The TGA also shows the gel contained about 15% water. The ionic conductivity of the gel electrolyte was determined using alternating current (AC) impedance (
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c20622/suppl_file/am0c20622_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S1</ext-link>) and was found to be 6 mS cm
+ <sup>–1</sup>, which is comparable to that of nonaqueous electrolytes (9.0 mS cm
+ <sup>–1</sup>) used in commercial LIBs.
+ <sup>
+  <xref ref-type="bibr" rid="ref5">5</xref>
+ </sup> The electrochemical window of the gel, as well as the reversibility of Zn plating and stripping, was investigated using cyclic voltammetry (CV) at a glassy carbon (GC) disk electrode. The gel electrolyte exhibited fast kinetics for Zn oxidation/reduction and achieved a potential window of 3.0 V (
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>B), which is comparable to WiSE-based on 21 m LiTFSI.
+ <sup>
+  <xref ref-type="bibr" rid="ref5">5</xref>
+ </sup>
+</p>

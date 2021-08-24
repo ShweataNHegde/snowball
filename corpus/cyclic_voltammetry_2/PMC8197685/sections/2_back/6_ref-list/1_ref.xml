@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ma</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Xie</surname>
+    <given-names>Q</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Peng</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>Intrinsic performance regulation in hierarchically porous Co
+   <sub>3</sub>O
+   <sub>4</sub> microrods towards high-rate lithium ion battery anode
+  </article-title>
+  <source>Mater Today Energy</source>
+  <year>2020</year>
+  <volume>16</volume>
+  <fpage>100383</fpage>
+  <pub-id pub-id-type="doi">10.1016/j.mtener.2020.100383</pub-id>
+ </element-citation>
+</ref>

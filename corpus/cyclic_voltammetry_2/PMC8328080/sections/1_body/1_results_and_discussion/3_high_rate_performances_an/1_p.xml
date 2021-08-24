@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To be suitable for grid-stabilisation, an energy storage device must be able to charge and discharge at sufficiently high rates. Typically, electricity storage systems are designed to reach 4 hours of storage duration.
+ <sup>
+  <xref rid="cit52" ref-type="bibr">52</xref>
+ </sup> Besides, in 
+ <xref rid="cit53" ref-type="bibr">ref. 53</xref> one can observe that renewable solar and wind based energy also follows diurnal behaviour with about 4 h electricity overproduction periods. Thus, an advantageous and realistic use of a battolyser on a daily basis would consist in applying a charge rate of 1C to fully charge the battery in 1 hour for short-term storage (to provide electricity at night) and producing hydrogen for the next 3 hours for long term storage and as chemical feedstock. Note that for these two applications, the round trip efficiency for H
+ <sub>2</sub> back to electricity (≈35%) may justify generating 75% of the charge time hydrogen to store the same amount of electricity as for the battery. Thus more hydrogen needs to be stored when aiming to generate electricity later in the year, and the feedstock application ads to that. Charge rates of 1C, maintained for 4 hours, are therefore important to target. Discharge rates of 4 hours are in general sufficient.
+</p>

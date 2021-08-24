@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="nanomaterials-11-00003-t002" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">nanomaterials-11-00003-t002_Table 2</object-id>
+ <label>Table 2</label>
+ <caption>
+  <p>Ionic conductivity results of Chit hydrogel with and without two different percentages of NaCl salt.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Sample Name</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Conductivity (mS cm
+     <sup>−1</sup>)
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Chit wet gel</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.38 ± 0.04</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Chit-NaCl 0.5% w v
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">11.4 ± 0.2</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Chit-NaCl 1% w v
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">15.1 ± 0.1</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Chit-4% w v
+     <sup>−1</sup> NaOH
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.12 ± 0.01</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funding-group>
+ <award-group id="funding-0001">
+  <funding-source>National Key R &amp; D Program of China</funding-source>
+  <award-id>2018YFB0104300</award-id>
+ </award-group>
+ <award-group id="funding-0002">
+  <funding-source>
+   <institution-wrap>
+    <institution>National Natural Science Foundation of China </institution>
+    <institution-id institution-id-type="open-funder-registry">10.13039/501100001809</institution-id>
+   </institution-wrap>
+  </funding-source>
+  <award-id>51425301</award-id>
+  <award-id>U1601214</award-id>
+  <award-id>51974081</award-id>
+ </award-group>
+ <award-group id="funding-0003">
+  <funding-source>
+   <institution-wrap>
+    <institution>Natural Science Foundation of Jiangsu Province </institution>
+    <institution-id institution-id-type="open-funder-registry">10.13039/501100004608</institution-id>
+   </institution-wrap>
+  </funding-source>
+  <award-id>BK20200696</award-id>
+ </award-group>
+ <award-group id="funding-0004">
+  <funding-source>State Key Lab Research Foundation</funding-source>
+  <award-id>ZK201805</award-id>
+  <award-id>ZK201717</award-id>
+ </award-group>
+ <award-group id="funding-0005">
+  <funding-source>Jiangsu Provincial Innovation Foundation for Postgraduate</funding-source>
+  <award-id>KYCX20_1072</award-id>
+ </award-group>
+ <award-group id="funding-0006">
+  <funding-source>
+   <institution-wrap>
+    <institution>Natural Science Foundation of Liaoning Province </institution>
+    <institution-id institution-id-type="open-funder-registry">10.13039/501100005047</institution-id>
+   </institution-wrap>
+  </funding-source>
+  <award-id>2019‐MS‐129</award-id>
+ </award-group>
+</funding-group>

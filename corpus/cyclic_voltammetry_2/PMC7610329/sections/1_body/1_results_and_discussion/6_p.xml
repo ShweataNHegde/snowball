@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In order to gain insight into the structure evolution of the Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub> nano‐necklaces electrode during the sodium‐ion insertion/extraction process, in operando XRD was conducted within 2.0–4.0 V employing beryllium foil as the testing window and carbon paper as the current collector. The XRD patterns in 
+ <bold>Figure</bold> 
+ <xref rid="advs2021-fig-0003" ref-type="fig">
+  <bold>3</bold>a
+ </xref>,
+ <xref rid="advs2021-fig-0003" ref-type="fig">b</xref> demonstrate a good reversibility in characteristic peaks and the P2‐type structure is well maintained over the entire charge and discharge processes. To be more specific, the (002) and (004) peaks gradually shift leftward upon charging from 2.0 to 4.0 V, while the (100) and (102) peaks shift rightward at the meantime. These phenomena can be interpreted as the extraction of Na
+ <sup>+</sup> gives rise to an increased repulsive electrostatic interaction of O
+ <sup>2−</sup> from the neighboring transition metal layers, thus leading to an expansion of the interlayer spacing and a contraction of the TMO
+ <sub>6</sub> octahedra, which reflect on the increase of 
+ <italic>c</italic> parameter and the decrease of 
+ <italic>a</italic> parameter. Upon discharging from 4.0 to 2.0 V, an eminent reversibility can be observed, since all the abovementioned peaks move toward the opposite direction compared to the shift in charging process. It is found that the (00
+ <italic>l</italic>) peaks move to higher angles and the (10
+ <italic>l</italic>) peaks move to lower angles at the end of discharging, compared with the pristine state. This is resulted from the extra high Coulombic efficiency in the initial cycle (as shown in Figure 
+ <xref rid="advs2021-fig-0002" ref-type="fig">2b</xref>). Moreover, it is worth noticing that the peaks of (004) and (100) split into two peaks in the high‐voltage region but swiftly merge into one peak along with the voltage decreasing, indicating the transient existence of a two‐phase reaction region caused by the Na
+ <sup>+</sup>/vacancy ordering, meanwhile, proving the good reversibility of the Cu‐doped samples. The lattice parameters evolution of P2‐Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub> upon charge/discharge through Rietveld refinements on the in situ XRD patterns is added in Figure S13 (Supporting Information), revealing a volume change of only 1.43% from the pristine to the fully charged states, much smaller than that of P2‐Na
+ <sub>2/3</sub>Fe
+ <sub>1/2</sub>Mn
+ <sub>1/2</sub>O
+ <sub>2</sub> (≈7.7%).
+ <sup>[</sup>
+ <xref rid="advs2021-bib-0052" ref-type="ref">
+  <sup>52</sup>
+ </xref>
+ <sup>]</sup> This indicates that Cu‐doping can effectively alleviate the volume change and stabilize the structure during electrochemical cycling. Besides, the surface oxidation states of the P2‐Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub> nano‐necklaces electrode during cycling were investigated by ex situ XPS. Figure 
+ <xref rid="advs2021-fig-0003" ref-type="fig">3c</xref>,
+ <xref rid="advs2021-fig-0003" ref-type="fig">d</xref> displays the core‐level XPS spectra of Cu 2p and Fe 2p at different charged/discharged states: the pristine electrode featuring Cu 2p
+ <sub>1/2</sub> (952.7 eV), Cu 2p
+ <sub>3/2</sub> (933.2 eV), and a satellite peak (943.3 eV) implies the presence of Cu
+ <sup>2+</sup>;
+ <sup>[</sup>
+ <xref rid="advs2021-bib-0038" ref-type="ref">
+  <sup>38</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0049" ref-type="ref">
+  <sup>49</sup>
+ </xref>
+ <sup>]</sup> and the Fe 2p
+ <sub>1/2</sub> and Fe 2p
+ <sub>3/2</sub> peaks (accompanied by a satellite peak) located at about 724.6 and 711.3 eV, respectively, indicate the existence of Fe
+ <sup>3+</sup>.
+ <sup>[</sup>
+ <xref rid="advs2021-bib-0038" ref-type="ref">
+  <sup>38</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0041" ref-type="ref">
+  <sup>41</sup>
+ </xref>
+ <sup>]</sup> When fully charged to 4.0 V, the peaks of Cu 2p and Fe 2p both move to higher binding energy; and the deconvoluted results manifest the transitions of a small amount of Cu
+ <sup>2+</sup> to Cu
+ <sup>3+</sup> and a considerable amount of Fe
+ <sup>3+</sup> to Fe
+ <sup>4+</sup> upon Na
+ <sup>+</sup> extraction. When fully discharged to 2.0 V, all of the peaks recover to the pristine state, verifying that the Cu
+ <sup>2+</sup>/Cu
+ <sup>3+</sup> and Fe
+ <sup>3+</sup>/Fe
+ <sup>4+</sup> redox couples are both active and experience highly reversible change in the potential range of 2.0–4.0 V. Afterward, the Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub> electrode was re‐charged to 4.0 V, the valence transitions of Cu
+ <sup>2+</sup> to Cu
+ <sup>3+</sup> and Fe
+ <sup>3+</sup> to Fe
+ <sup>4+</sup> could be observed again. As for the Mn 2p core‐level spectra (Figure 
+ <xref rid="advs2021-fig-0003" ref-type="fig">3d</xref>): the deconvoluted results of Mn 2p
+ <sub>1/2</sub> and Mn 2p
+ <sub>3/2</sub> peaks indicate the coexistence of Mn
+ <sup>3+</sup> and Mn
+ <sup>4+</sup> in the pristine electrode.
+ <sup>[</sup>
+ <xref rid="advs2021-bib-0041" ref-type="ref">
+  <sup>41</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0047" ref-type="ref">
+  <sup>47</sup>
+ </xref>
+ <sup>]</sup> Upon charging to 4.0 V, no obvious change can be detected; when discharged to 2.0 V, a small amount of the Mn
+ <sup>4+</sup> is reduced to Mn
+ <sup>3+</sup>; when charged to 4.0 V again, the Mn
+ <sup>3+</sup> is re‐oxidized to Mn
+ <sup>4+</sup>. These findings prove that the Cu
+ <sup>2+/3+</sup>, Fe
+ <sup>3+/4+</sup>, and Mn
+ <sup>4+/3+</sup> redox couples all take part in the electrochemical reaction and collaboratively contribute to the reversible capacity of the P2‐Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub> cathode within 2.0–4.0 V. In addition, the reversible sodiation and desodiation processes of P2‐Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub> can be further tracked by ex situ Raman spectra (Figure S14, Supporting Information), which show that the characteristic peaks involving Na vibrations conspicuously weaken during charging, then significantly strengthen again upon discharging.
+</p>

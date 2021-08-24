@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par48">Thus, a plot of 
+ <italic>ic</italic> as a function of 
+ <italic>v</italic> yields a straight line with a slope equal to 
+ <italic>C</italic>
+ <sub>dl</sub>. By plotting the Δj against the scan rate at 0.1 V (vs. Ag/AgCl), the slope which is twice of 
+ <italic>C</italic>
+ <sub>dl</sub> can be obtained as shown in Fig. 
+ <xref rid="Fig6" ref-type="fig">6</xref>f. The 
+ <italic>C</italic>
+ <sub>dl</sub> of linear fitting slope are 27.55, 43.55, 51, 51.75, and 43.73 mF cm
+ <sup>−2</sup> for NPMCNT-50, NPMCNT-100, NPMCNT-200, NPMCNT-300, and NPMCNT-400, respectively. The ECSA of a electrocatalyst sample is calculated from the C
+ <sub>dl</sub> according to Eq. (
+ <xref rid="Equ2" ref-type="">2</xref>): 
+ <disp-formula id="Equ14">
+  <label>14</label>
+  <alternatives>
+   <tex-math id="M31">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$ \mathrm{ECSA}={C}_{\mathrm{dl}}/{C}_{\mathrm{s}} $$\end{document}</tex-math>
+   <math id="M32" display="block">
+    <mtext>ECSA</mtext>
+    <mo>=</mo>
+    <msub>
+     <mi>C</mi>
+     <mi>dl</mi>
+    </msub>
+    <mo>/</mo>
+    <msub>
+     <mi>C</mi>
+     <mi mathvariant="normal">s</mi>
+    </msub>
+   </math>
+   <graphic xlink:href="11671_2020_3316_Article_Equ14.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+</p>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Méry</surname>
+   <given-names>Adrien</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rousselot</surname>
+   <given-names>Steeve</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lepage</surname>
+   <given-names>David</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-8887-6730</contrib-id>
+  <name>
+   <surname>Dollé</surname>
+   <given-names>Mickaël</given-names>
+  </name>
+  <xref rid="c1-materials-14-03840" ref-type="corresp">*</xref>
+ </contrib>
+</contrib-group>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>After rearranging Equation (2) and inserting the expression for 
+ <math id="jats-math-32">
+  <msub>
+   <mi>i</mi>
+   <mi mathvariant="normal">K</mi>
+  </msub>
+ </math> , this leads to Equation 
+ <xref rid="cssc202100364-disp-0003" ref-type="disp-formula">3</xref>:
+ <disp-formula id="cssc202100364-disp-0003">
+  <label>(3)</label>
+  <math id="jats-math-33">
+   <mstyle displaystyle="true">
+    <mrow>
+     <mi>z</mi>
+     <mi>F</mi>
+     <mfenced separators="" open="[" close="]">
+      <msub>
+       <mi>k</mi>
+       <mn>0</mn>
+      </msub>
+      <msub>
+       <mi>f</mi>
+       <mi mathvariant="normal">R</mi>
+      </msub>
+     </mfenced>
+     <msup>
+      <mrow>
+       <mi>e</mi>
+      </mrow>
+      <mrow>
+       <mo>-</mo>
+       <mfrac>
+        <mrow>
+         <msub>
+          <mi>α</mi>
+          <mrow>
+           <mi mathvariant="normal">a</mi>
+           <mi mathvariant="normal">p</mi>
+           <mi mathvariant="normal">p</mi>
+          </mrow>
+         </msub>
+         <mi>F</mi>
+         <mi>E</mi>
+        </mrow>
+        <mrow>
+         <mi>R</mi>
+         <mi>T</mi>
+        </mrow>
+       </mfrac>
+      </mrow>
+     </msup>
+     <mo>=</mo>
+     <mspace width="4pt"/>
+     <mfrac>
+      <msub>
+       <mi>i</mi>
+       <mi mathvariant="normal">D</mi>
+      </msub>
+      <mrow>
+       <mi>x</mi>
+       <mo>-</mo>
+       <mn>1</mn>
+      </mrow>
+     </mfrac>
+     <mo>=</mo>
+     <mi>b</mi>
+    </mrow>
+   </mstyle>
+  </math>
+ </disp-formula>
+</p>

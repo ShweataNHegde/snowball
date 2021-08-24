@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <xref rid="F4" ref-type="fig">Figure 4A</xref> compares the typical electrolyte systems for Zn batteries: aqueous, walt-in-salt, molten salt, organic, and polymeric electrolytes. While all these systems exhibit some favorable features, it is clear that the aqueous electrolytes (
+ <xref rid="R89" ref-type="bibr">
+  <italic>89</italic>
+ </xref>) appear as the most desirable option for its high operation current density (≈50 mA/cm
+ <sup>2</sup>) and low cost (&lt;$1/kg) when paired with cost-effective cathodes such as MnO
+ <sub>2</sub> (
+ <xref rid="R20" ref-type="bibr">
+  <italic>20</italic>
+ </xref>, 
+ <xref rid="R90" ref-type="bibr">
+  <italic>90</italic>
+ </xref>). Compared with electrolytes that generate multiple inorganic/organic/polymeric products, aqueous Zn electrolytes have a relatively simple chemistry as delineated in 
+ <xref rid="F4" ref-type="fig">Fig. 4B</xref>. The Pourbaix diagram (
+ <xref rid="F4" ref-type="fig">Fig. 4B-1</xref>) and the distribution functions (
+ <xref rid="F4" ref-type="fig">Fig. 4B-2</xref>) of Zn-H
+ <sub>2</sub>O illustrate the stable species in the electrolyte under certain conditions, e.g., potential pH. To avoid a pure solid conversion of Zn
+ <sub>(s)</sub>↔ZnO
+ <sub>(s)</sub> that has slow kinetics, a Zn anode operates either in an acidic regime or in an alkaline regime, where the oxidative Zn
+ <sup>2+</sup> is soluble in the liquid phase. However, there is a thermodynamic potential for Zn metal to react with the acidic or alkaline electrolyte and produce H
+ <sub>2</sub> gas in these regimes, creating a local pH deviation toward the neutral regime, which favors ZnO as a solid precipitate from electrolyte. Such precipitates can adhere to the surface of Zn metal, creating the interphasial layer.
+</p>

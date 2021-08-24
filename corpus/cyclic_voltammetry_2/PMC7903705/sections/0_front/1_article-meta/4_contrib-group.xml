@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="ath1">
+  <name>
+   <surname>Gulino</surname>
+   <given-names>Valerio</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">†</xref>
+  <xref rid="aff3" ref-type="aff">§</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath2">
+  <name>
+   <surname>Brighi</surname>
+   <given-names>Matteo</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">‡</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath3">
+  <name>
+   <surname>Murgia</surname>
+   <given-names>Fabrizio</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">‡</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath4">
+  <name>
+   <surname>Ngene</surname>
+   <given-names>Peter</given-names>
+  </name>
+  <xref rid="aff3" ref-type="aff">§</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath5">
+  <name>
+   <surname>de Jongh</surname>
+   <given-names>Petra</given-names>
+  </name>
+  <xref rid="aff3" ref-type="aff">§</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath6">
+  <name>
+   <surname>Černý</surname>
+   <given-names>Radovan</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">‡</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes" id="ath7">
+  <name>
+   <surname>Baricco</surname>
+   <given-names>Marcello</given-names>
+  </name>
+  <xref rid="cor1" ref-type="other">*</xref>
+  <xref rid="aff1" ref-type="aff">†</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>†</label>Department of Chemistry and Inter-departmental Center Nanostructured Interfaces and Surfaces (NIS), 
+  <institution>University of Turin</institution>, Via Pietro Giuria 7, 10125 Torino, 
+  <country>Italy</country>
+ </aff>
+ <aff id="aff2">
+  <label>‡</label>Laboratoire de Cristallographie, DQMP, 
+  <institution>Université de Genève</institution>, quai Ernest-Ansermet 24, CH-1211 Geneva 4, 
+  <country>Switzerland</country>
+ </aff>
+ <aff id="aff3">
+  <label>§</label>Inorganic Chemistry and Catalysis, Debye Institute for Nanomaterials Science, 
+  <institution>Utrecht University</institution>, Universiteitsweg 99, 3584 CG Utrecht, 
+  <country>The Netherlands</country>
+ </aff>
+</contrib-group>

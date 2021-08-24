@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disp-formula id="FD2">
+ <label>(2)</label>
+ <math id="mm2">
+  <mrow>
+   <mrow>
+    <mi mathvariant="normal">C</mi>
+    <mi mathvariant="normal">total</mi>
+    <mo>=</mo>
+    <mi mathvariant="normal">C</mi>
+    <mi mathvariant="normal">monomer</mi>
+    <mo>+</mo>
+    <mi mathvariant="normal">C</mi>
+    <mi mathvariant="normal">dimer</mi>
+   </mrow>
+  </mrow>
+ </math>
+</disp-formula>

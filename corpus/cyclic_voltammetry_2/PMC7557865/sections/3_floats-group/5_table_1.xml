@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="nanomaterials-10-01805-t001" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">nanomaterials-10-01805-t001_Table 1</object-id>
+ <label>Table 1</label>
+ <caption>
+  <p>Comparison of ORR performance of Mo
+   <sub>2</sub>C/CXG and Mo
+   <sub>2</sub>C/CNT with other reported Mo
+   <sub>2</sub>C-based catalysts.
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Catalysts</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Onset Potential / V</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Current Density at 0.6 V ;
+     <break/>/ mA cm
+     <sup>−2</sup>
+    </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Tafel Slope / mV dec
+     <sup>−1</sup>
+    </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Electron Transfer Number</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Reference</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">G-Mo
+     <sub>2</sub>C
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.75</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">−2.3</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.1–3.2</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B25-nanomaterials-10-01805" ref-type="bibr">25</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">FeMo carbide/NG</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.91</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">−3.5</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.5</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B27-nanomaterials-10-01805" ref-type="bibr">27</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Mo
+     <sub>2</sub>C nanowires
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.87</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">−2.7</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">65</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3–4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B45-nanomaterials-10-01805" ref-type="bibr">45</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Hollow Mo
+     <sub>2</sub>C-C microspheres
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.83</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">−4.2</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">72.2</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.2–3.6</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B26-nanomaterials-10-01805" ref-type="bibr">26</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Mo
+     <sub>2</sub>C/NPCNFs
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.90</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">−4.6</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">60.3</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.8</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B28-nanomaterials-10-01805" ref-type="bibr">28</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Mo
+     <sub>2</sub>C@NC-Fe
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">46</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.7</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B49-nanomaterials-10-01805" ref-type="bibr">49</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">C(Mo
+     <sub>2</sub>C)
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.84</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">57 (126)</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.8</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B51-nanomaterials-10-01805" ref-type="bibr">51</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Mo-doped MCG</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.76</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">37</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.3</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B52-nanomaterials-10-01805" ref-type="bibr">52</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Mo
+     <sub>2</sub>C/CXG
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.89</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">−2.9</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">128</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.0</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">This work</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Mo
+     <sub>2</sub>C/CNT
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.81</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">−1.6</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">77 (119)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.7</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">This work</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>G-Mo
+    <sub>2</sub>C—graphite carbon-supported Mo
+    <sub>2</sub>C; NG—nitrogen-doped graphene; NPCNFs—nanoparticles embedded nitrogen-doped porous carbon nanofibers; NC-Fe—Fe-N-doped carbon nanolayers; C(Mo
+    <sub>2</sub>C)—micromesoporous molybdenum carbide-derived carbon powder; MCG—mesoporous carbon/graphene composite.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

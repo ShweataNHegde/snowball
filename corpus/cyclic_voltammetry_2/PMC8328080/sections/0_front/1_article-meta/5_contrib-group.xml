@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Iranzo</surname>
+   <given-names>A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="affa"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0526-7081</contrib-id>
+  <contrib-id contrib-id-type="resid" authenticated="false">E-7113-2013</contrib-id>
+  <name>
+   <surname>Mulder</surname>
+   <given-names>F. M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="affa"/>
+ </contrib>
+ <aff id="affa">
+  <institution>Materials for Energy Conversion and Storage (MECS), Department of Chemical Engineering, Delft University of Technology</institution>
+  <addr-line>Van der Maasweg 9</addr-line>
+  <city>2629HZ Delft</city>
+  <country>The Netherlands</country>
+  <email>f.m.mulder@tudelft.nl</email>
+ </aff>
+</contrib-group>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The nickel electrode battery losses (in Joule) can be expressed as follows:
+ <disp-formula id="eqn1">
+  <label>1</label>
+  <graphic xlink:href="d1ma00024a-t8.jpg" id="ugt8" position="float" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </disp-formula>where 
+ <inline-graphic xlink:href="d1ma00024a-t9.jpg" id="ugt9" xmlns:xlink="http://www.w3.org/1999/xlink"/> and 
+ <inline-graphic xlink:href="d1ma00024a-t10.jpg" id="ugt10" xmlns:xlink="http://www.w3.org/1999/xlink"/> are the average potential of the charge and discharge processes (
+ <italic>cf.</italic> ESI,
+ <xref ref-type="fn" rid="fn1">†</xref> for eqn (S-12) and (S-13)), and 
+ <italic>C</italic>
+ <sub>
+  <italic>d</italic>
+ </sub> the discharge capacity. Thus, the contribution of the nickel electrode battery function to the hybrid battery energy efficiency losses can be estimated by comparing Loss
+ <sub>bat</sub>(Ni) to the energy inserted to the full cell, for the same operating conditions (a more detailed calculation is given in the ESI
+ <xref ref-type="fn" rid="fn1">†</xref>).
+ <disp-formula id="eqn2">
+  <label>2</label>
+  <graphic xlink:href="d1ma00024a-t11.jpg" id="ugt11" position="float" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </disp-formula>where 
+ <italic>C</italic>
+ <sub>
+  <italic>c</italic>
+ </sub> = 2
+ <italic>C</italic>
+ <sub>
+  <italic>d</italic>
+ </sub> is the chosen charge inserted (so half of the charge converted to H
+ <sub>2</sub>), and 
+ <inline-graphic xlink:href="d1ma00024a-t12.jpg" id="ugt12" xmlns:xlink="http://www.w3.org/1999/xlink"/> is the average voltage of the full cell charge estimated at 1.6 V.
+</p>

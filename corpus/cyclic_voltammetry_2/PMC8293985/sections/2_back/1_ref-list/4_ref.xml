@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="cit4">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hammarström</surname>
+    <given-names>L.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Styring</surname>
+    <given-names>S.</given-names>
+   </name>
+  </person-group>
+  <source>Philos. Trans. R. Soc., B</source>
+  <year>2008</year>
+  <volume>363</volume>
+  <fpage>1283</fpage>
+  <lpage>1291</lpage>
+  <pub-id pub-id-type="doi">10.1098/rstb.2007.2225</pub-id>
+  <?supplied-pmid 17954432?>
+  <pub-id pub-id-type="pmid">17954432</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To gain more understanding on the composition of the Si
+ <sub>3</sub>N
+ <sub>4</sub>@Si@Cu anode post-cycling, XPS was conducted after lithiation (0.05 V) and delithiation (1.20 V) in a half-cell vs. Li
+ <sup>+</sup>/Li. Results from the XPS analysis are given in 
+ <xref ref-type="fig" rid="materials-14-02824-f015">Figure 15</xref>. Five peaks were resolved in the lithiated Si 2p spectra (
+ <xref ref-type="fig" rid="materials-14-02824-f015">Figure 15</xref>a), three of which are the same compounds found in the pristine anode in 
+ <xref ref-type="fig" rid="materials-14-02824-f003">Figure 3</xref>a (
+ <xref ref-type="sec" rid="sec3dot1-materials-14-02824">Section 3.1</xref>): SiN
+ <sub>0.73</sub>, Si
+ <sub>3</sub>N
+ <sub>4</sub>, and SiO
+ <sub>2</sub> [
+ <xref rid="B28-materials-14-02824" ref-type="bibr">28</xref>,
+ <xref rid="B35-materials-14-02824" ref-type="bibr">35</xref>]. In addition to these three species, LiSi and Li
+ <sub>x</sub>SiO
+ <sub>y</sub> were identified upon the lithiation of the anode, with peaks centered at 98.5 eV and 102.7 eV, respectively [
+ <xref rid="B38-materials-14-02824" ref-type="bibr">38</xref>]. After delithiation, only Si
+ <sub>3</sub>N
+ <sub>4</sub> and SiO
+ <sub>2</sub> were found to be present on the anode’s surface, which confirms the reversible lithiation/delithiation process. The presence of these Si-based compounds are also confirmed in the N 1s [
+ <xref rid="B28-materials-14-02824" ref-type="bibr">28</xref>,
+ <xref rid="B35-materials-14-02824" ref-type="bibr">35</xref>] and O 1s [
+ <xref rid="B39-materials-14-02824" ref-type="bibr">39</xref>] spectra in 
+ <xref ref-type="fig" rid="materials-14-02824-f015">Figure 15</xref>b,e, respectively. The main difference between the Li 1s spectra of the lithiated and delithiated anode is the existence of a peak at 55.1 eV in the lithiated stage, which is suspected to be LiSi that was observed in the XRD (
+ <xref ref-type="fig" rid="materials-14-02824-f014">Figure 14</xref>a). Otherwise, peaks that are attributed to Li
+ <sub>3</sub>N and Li
+ <sub>2</sub>O are present in both lithiated/delithiated phases, which were also confirmed in the N 1s and O 1s spectra [
+ <xref rid="B40-materials-14-02824" ref-type="bibr">40</xref>]. The presence of the Li
+ <sub>3</sub>N peak in the lithiated N 1s spectra and XRD analysis (
+ <xref ref-type="fig" rid="materials-14-02824-f014">Figure 14</xref>) confirms the involvement of the sputtered Si
+ <sub>3</sub>N
+ <sub>4</sub> layer during lithiation. Two peaks were observed after deconvolution of the F 1s spectra of the lithiated anode in 
+ <xref ref-type="fig" rid="materials-14-02824-f015">Figure 15</xref>d: LiPF
+ <sub>6</sub> (688.6 eV) (the supporting electrolyte) and Li
+ <sub>x</sub>PF
+ <sub>y</sub> (686.2eV) [
+ <xref rid="B41-materials-14-02824" ref-type="bibr">41</xref>]. In 
+ <xref ref-type="fig" rid="materials-14-02824-f015">Figure 15</xref>e, the lithiated and delithiated anode have identical spectra with three peaks corresponding to CuO [
+ <xref rid="B42-materials-14-02824" ref-type="bibr">42</xref>], Li
+ <sub>2</sub>O [
+ <xref rid="B43-materials-14-02824" ref-type="bibr">43</xref>], and SiO
+ <sub>2</sub> [
+ <xref rid="B39-materials-14-02824" ref-type="bibr">39</xref>], with the exception of a higher binding energy shift observed in the delithiated phase. The lithiated and delithiated C 1s spectra in 
+ <xref ref-type="fig" rid="materials-14-02824-f015">Figure 15</xref>f shows six and five peaks, respectively, that are attributed to various carbon bonds from the carbonates in the electrolyte, as well as the residual acetone that may have remained after cleaning the chamber and sample holder. Overall, XPS analysis has provided key insights and support for the results produced from the other analytical techniques, especially XRD analysis. The presence of Li
+ <sub>2</sub>O, Li
+ <sub>3</sub>N, and Li
+ <sub>x</sub>PF
+ <sub>y</sub> in the lithiated and delithiated anode indicates the formation of a stable solid–electrolyte interface (SEI) by decomposition of the electrolyte. The stability of the SEI film confirms the good cycling stability of the Si
+ <sub>3</sub>N
+ <sub>4</sub>@Si@Cu anode.
+</p>

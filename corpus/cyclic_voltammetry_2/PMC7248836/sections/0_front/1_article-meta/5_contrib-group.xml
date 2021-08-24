@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1729-2401</contrib-id>
+  <name>
+   <surname>Sugiawati</surname>
+   <given-names>Vinsensia Ade</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-molecules-25-02121">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7814-363X</contrib-id>
+  <name>
+   <surname>Vacandio</surname>
+   <given-names>Florence</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-molecules-25-02121">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7606-0304</contrib-id>
+  <name>
+   <surname>Djenizian</surname>
+   <given-names>Thierry</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-molecules-25-02121">1</xref>
+  <xref ref-type="aff" rid="af3-molecules-25-02121">3</xref>
+  <xref rid="c1-molecules-25-02121" ref-type="corresp">*</xref>
+ </contrib>
+</contrib-group>

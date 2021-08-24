@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B34">
+ <label>34</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cram</surname>
+    <given-names>S. L.</given-names>
+   </name>
+   <name>
+    <surname>Spinks</surname>
+    <given-names>G. M.</given-names>
+   </name>
+   <name>
+    <surname>Wallace</surname>
+    <given-names>G. G.</given-names>
+   </name>
+   <name>
+    <surname>Brown</surname>
+    <given-names>H. R.</given-names>
+   </name>
+  </person-group>
+  <article-title>Electrochemical polymerization of acrylics on stainless steel cathodes</article-title>
+  <source>
+   <italic toggle="yes">Journal of Applied Polymer Science</italic>
+  </source>
+  <year>2003</year>
+  <volume>87</volume>
+  <issue>5</issue>
+  <fpage>765</fpage>
+  <lpage>773</lpage>
+  <pub-id pub-id-type="doi">10.1002/app.11436</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0037204405</pub-id>
+ </element-citation>
+</ref>

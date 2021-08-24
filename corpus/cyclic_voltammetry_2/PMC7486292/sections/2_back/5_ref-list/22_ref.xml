@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Karkar</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Guyomard</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Roué</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Lestriez</surname>
+    <given-names>B</given-names>
+   </name>
+  </person-group>
+  <article-title>A comparative study of polyacrylic acid (PAA) and carboxymethyl cellulose (CMC) binders for Si-based electrodes</article-title>
+  <source>Electrochim. Acta</source>
+  <year>2017</year>
+  <volume>258</volume>
+  <fpage>453</fpage>
+  <lpage>466</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.electacta.2017.11.082</pub-id>
+ </element-citation>
+</ref>

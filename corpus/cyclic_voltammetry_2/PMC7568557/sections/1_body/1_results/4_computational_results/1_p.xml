@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par18">DFT calculations were performed with the SCAN + rvv10 functional to understand the interactions of NaPSs with CoX
+ <sub>2</sub> cathode hosts. The lattice parameters of the structures optimized with SCAN + rvv10 are in excellent agreement with experimental results, as shown in Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">23</xref> and Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">1</xref>. As can be seen from the density of states plots in Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">24</xref>, there are states at the Fermi level in the spin up-channel for all structures resulting in half-metallic behavior. The binding of polysulfides to the surface of CoX
+ <sub>2</sub> materials were further investigated with slab calculations. The energies of different surface terminations of pyrite (p-CoS
+ <sub>2</sub>) and marcasite (m-CoTe
+ <sub>2</sub>, m-CoSe
+ <sub>2</sub>) CoX
+ <sub>2</sub> structures are shown in Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">2</xref>. The surface energies (
+ <italic>γ</italic>) were calculated using Eq. (
+ <xref rid="Equ1" ref-type="">1</xref>)
+ <disp-formula id="Equ1">
+  <label>1</label>
+  <alternatives>
+   <tex-math id="M3">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\gamma = \frac{{E_{\rm{slab}} - N^ \ast E_{\rm{bulk}}}}{{2A}},$$\end{document}</tex-math>
+   <math id="M4">
+    <mi>γ</mi>
+    <mo>=</mo>
+    <mfrac>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>E</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="normal">slab</mi>
+       </mrow>
+      </msub>
+      <mo>−</mo>
+      <msup>
+       <mrow>
+        <mi>N</mi>
+       </mrow>
+       <mrow>
+        <mo>*</mo>
+       </mrow>
+      </msup>
+      <msub>
+       <mrow>
+        <mi>E</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="normal">bulk</mi>
+       </mrow>
+      </msub>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+      <mi>A</mi>
+     </mrow>
+    </mfrac>
+    <mo>,</mo>
+   </math>
+   <graphic xlink:href="41467_2020_19078_Article_Equ1.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>where 
+ <italic>E</italic>
+ <sub>slab</sub> is the slab energy for a given surface (single point or relaxed surface), 
+ <italic>E</italic>
+ <sub>bulk</sub> is the energy of relaxed bulk geometry per formula unit, 
+ <italic>N</italic> is the number of formula units in the slab, and 
+ <italic>A</italic> is the area of the surface. To screen a wider range of possible surfaces for different CoX
+ <sub>2</sub> structures, the cheaper PBEsol functional was used instead of the SCAN + rvv10 functional. Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">2</xref> shows the surface energy of the eight-lowest energy surfaces of p-CoS
+ <sub>2</sub> and the ten lowest energy surfaces of m-CoSe
+ <sub>2</sub> and m-CoTe
+ <sub>2</sub>. As can be seen from Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">2</xref>, the lowest energy surface for p-CoS
+ <sub>2</sub> is (100), followed by the (210) surface, which is consistent with previous XRD and TEM results
+ <sup>
+  <xref ref-type="bibr" rid="CR28">28</xref>,
+  <xref ref-type="bibr" rid="CR29">29</xref>
+ </sup>. Several low energy surfaces are present in the m-CoSe
+ <sub>2</sub> and m-CoTe
+ <sub>2</sub> marcasite structures, including the (010), (101), and (211) surfaces, which is consistent with low energy surfaces observed computationally and experimentally for analogous marcasite surfaces
+ <sup>
+  <xref ref-type="bibr" rid="CR30">30</xref>,
+  <xref ref-type="bibr" rid="CR42">42</xref>
+ </sup>. The (100) surface of p-CoS
+ <sub>2</sub> and the (101) and (010) surfaces of m-CoSe
+ <sub>2</sub> and m-CoTe
+ <sub>2</sub> were chosen to study the binding of polysulfides. The geometries of all of the low energy slabs predicted with PBEsol were reoptimized with SCAN + rvv10 before further binding calculations.
+</p>

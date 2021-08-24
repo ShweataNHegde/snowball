@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par7">To find high-performance cathode materials for ZIBs, many attempts have been made [
+ <xref ref-type="bibr" rid="CR14">14</xref>]. Up to now, several types of ZIB cathode materials have been reported, including Mn-based materials [
+ <xref ref-type="bibr" rid="CR15">15</xref>–
+ <xref ref-type="bibr" rid="CR22">22</xref>], V-based materials [
+ <xref ref-type="bibr" rid="CR23">23</xref>–
+ <xref ref-type="bibr" rid="CR29">29</xref>], Prussian blue analogs [
+ <xref ref-type="bibr" rid="CR30">30</xref>–
+ <xref ref-type="bibr" rid="CR32">32</xref>], and some other cathode materials such as Mo
+ <sub>6</sub>S
+ <sub>8</sub> [
+ <xref ref-type="bibr" rid="CR33">33</xref>], quinone [
+ <xref ref-type="bibr" rid="CR34">34</xref>], and poly(benzoquinonyl sulfide) [
+ <xref ref-type="bibr" rid="CR35">35</xref>]. Mn-based materials, especially manganese oxides, possess the advantages such as low cost and environmental friendliness, but they suffer from the problems of rapid capacity fading and poor rate performance [
+ <xref ref-type="bibr" rid="CR36">36</xref>]. V-based cathode materials generally exhibit superior Zn
+ <sup>2+</sup>-storage ability [
+ <xref ref-type="bibr" rid="CR37">37</xref>, 
+ <xref ref-type="bibr" rid="CR38">38</xref>], whereas serious toxicity limits their large-scale applications for ZIBs [
+ <xref ref-type="bibr" rid="CR10">10</xref>]. The Zn
+ <sup>2+</sup>-storage capacity of Prussian blue analogs is only about 50 mAh g
+ <sup>−1</sup>, which determines that the Prussian blue analogs may be not qualified to construct high-energy ZIBs [
+ <xref ref-type="bibr" rid="CR30">30</xref>]. In view of the above discussion, developing high-performance cathode materials for ZIBs is still a challenge. Furthermore, metallic Zn electrode owns an ultrahigh volumetric capacity and low redox potential (− 0.76 V vs. standard hydrogen electrode), which enable it to be a promising anode for ZIBs [
+ <xref ref-type="bibr" rid="CR5">5</xref>, 
+ <xref ref-type="bibr" rid="CR39">39</xref>, 
+ <xref ref-type="bibr" rid="CR40">40</xref>]. However, in practical applications, repeated deposition/dissolution of Zn inclines to form zinc dendrites/protuberances, leading to severe polarization and a short circuit of the batteries [
+ <xref ref-type="bibr" rid="CR41">41</xref>]. Some modification strategies such as introducing additives, employing gel electrolyte, using 3D current collectors, and creating the protection layer have been proposed to regulate Zn stripping/plating behaviors and realized dendrite-free zinc metal anodes [
+ <xref ref-type="bibr" rid="CR11">11</xref>, 
+ <xref ref-type="bibr" rid="CR12">12</xref>, 
+ <xref ref-type="bibr" rid="CR42">42</xref>, 
+ <xref ref-type="bibr" rid="CR43">43</xref>]. In a word, stabilizing zinc anodes is also critical to realize long-life ZIBs.
+</p>

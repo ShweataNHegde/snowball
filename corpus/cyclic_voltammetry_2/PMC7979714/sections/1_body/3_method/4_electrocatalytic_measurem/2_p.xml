@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par24">For the ORR at an RDE, the working electrode was scanned cathodically at a rate of 5 mV s
+ <sup>−1</sup> with varying rotating speed from 400 to 2250 rpm in O
+ <sub>2</sub>-saturated 0.1 M KOH aqueous solution. The electron transfer number per oxygen molecule for oxygen reduction can be determined on the basis of the Koutechy–Levich equation (ref):
+ <disp-formula id="Equ3">
+  <label>3</label>
+  <alternatives>
+   <tex-math id="M5">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\frac{1}{J} = \frac{1}{{J_{\mathrm{L}}}} + \frac{1}{{J_{\mathrm{k}}}} = \frac{1}{{B\omega ^{0.5}}} + \frac{1}{{J_{\mathrm{k}}}}$$\end{document}</tex-math>
+   <math id="M6">
+    <mfrac>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+     <mrow>
+      <mi>J</mi>
+     </mrow>
+    </mfrac>
+    <mo>=</mo>
+    <mfrac>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>J</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="normal">L</mi>
+       </mrow>
+      </msub>
+     </mrow>
+    </mfrac>
+    <mo>+</mo>
+    <mfrac>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>J</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="normal">k</mi>
+       </mrow>
+      </msub>
+     </mrow>
+    </mfrac>
+    <mo>=</mo>
+    <mfrac>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+     <mrow>
+      <mi>B</mi>
+      <msup>
+       <mrow>
+        <mi>ω</mi>
+       </mrow>
+       <mrow>
+        <mn>0.5</mn>
+       </mrow>
+      </msup>
+     </mrow>
+    </mfrac>
+    <mo>+</mo>
+    <mfrac>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>J</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="normal">k</mi>
+       </mrow>
+      </msub>
+     </mrow>
+    </mfrac>
+   </math>
+   <graphic xlink:href="41467_2021_21919_Article_Equ3.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+ <disp-formula id="Equ4">
+  <label>4</label>
+  <alternatives>
+   <tex-math id="M7">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\mathrm{B}} = 0.62nFC_0(D_0)^{2/3}v^{ - 1/6}$$\end{document}</tex-math>
+   <math id="M8">
+    <mi mathvariant="normal">B</mi>
+    <mo>=</mo>
+    <mn>0.62</mn>
+    <mi>n</mi>
+    <mi>F</mi>
+    <msub>
+     <mrow>
+      <mi>C</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <msup>
+     <mrow>
+      <mrow>
+       <mo>(</mo>
+       <mrow>
+        <msub>
+         <mrow>
+          <mi>D</mi>
+         </mrow>
+         <mrow>
+          <mn>0</mn>
+         </mrow>
+        </msub>
+       </mrow>
+       <mo>)</mo>
+      </mrow>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+      <mo>/</mo>
+      <mn>3</mn>
+     </mrow>
+    </msup>
+    <msup>
+     <mrow>
+      <mi>v</mi>
+     </mrow>
+     <mrow>
+      <mo>−</mo>
+      <mn>1</mn>
+      <mo>/</mo>
+      <mn>6</mn>
+     </mrow>
+    </msup>
+   </math>
+   <graphic xlink:href="41467_2021_21919_Article_Equ4.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+ <disp-formula id="Equ5">
+  <label>5</label>
+  <alternatives>
+   <tex-math id="M9">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$J_{\mathrm{k}} = nFkC_0$$\end{document}</tex-math>
+   <math id="M10">
+    <msub>
+     <mrow>
+      <mi>J</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="normal">k</mi>
+     </mrow>
+    </msub>
+    <mo>=</mo>
+    <mi>n</mi>
+    <mi>F</mi>
+    <mi>k</mi>
+    <msub>
+     <mrow>
+      <mi>C</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+   </math>
+   <graphic xlink:href="41467_2021_21919_Article_Equ5.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>Where 
+ <italic>J</italic> is the measured current density and is the electrode rotating rate (rad s
+ <sup>−1</sup>). 
+ <italic>B</italic> is determined from the slope of the Koutechy–Levich (K-L) plot based on Levich equation. 
+ <italic>J</italic>
+ <sub>L</sub> and 
+ <italic>J</italic>
+ <sub>K</sub> are the diffusion- and kinetic-limiting current densities, 
+ <italic>n</italic> is the transferred electron number, 
+ <italic>F</italic> is the Faraday constant (
+ <italic>F</italic> = 96485 C mol
+ <sup>−1</sup>), 
+ <italic>C</italic>
+ <sub>0</sub> is the O
+ <sub>2</sub> concentration in the electrolyte (
+ <italic>C</italic>
+ <sub>0</sub> = 1.26 × 10
+ <sup>−6</sup> mol cm
+ <sup>−3</sup>), 
+ <italic>D</italic>
+ <sub>0</sub> is the diffusion coefficient of O
+ <sub>2</sub> (
+ <italic>D</italic>
+ <sub>0</sub> = 1.93 × 10
+ <sup>−5</sup> cm
+ <sup>2</sup> s
+ <sup>−1</sup>), and 
+ <italic>v</italic> is the kinetic viscosity (
+ <italic>v</italic> = 0.01009 cm
+ <sup>2</sup> s
+ <sup>−1</sup>). The constant 0.62 is adopted when the rotation speed is expressed in rad s
+ <sup>−1</sup>.
+</p>

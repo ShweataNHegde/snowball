@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR47">
+ <label>47.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Blöchl</surname>
+    <given-names>PE</given-names>
+   </name>
+  </person-group>
+  <article-title>Projector augmented-wave method</article-title>
+  <source>Phys. Rev. B</source>
+  <year>1994</year>
+  <volume>50</volume>
+  <fpage>17953</fpage>
+  <lpage>17979</lpage>
+  <pub-id pub-id-type="doi">10.1103/PhysRevB.50.17953</pub-id>
+ </element-citation>
+</ref>

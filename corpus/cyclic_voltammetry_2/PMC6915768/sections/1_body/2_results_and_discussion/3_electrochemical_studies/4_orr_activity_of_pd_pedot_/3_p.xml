@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par27">The percentage of the current associated with the peroxide generation at 0.01 V 
+ <italic>vs</italic>. SHE has been calculated by using following Eq. 
+ <xref rid="Equ4" ref-type="">4</xref>.
+ <disp-formula id="Equ4">
+  <label>4</label>
+  <alternatives>
+   <tex-math id="M9">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$ \% {H}_{2}{O}_{2}=\frac{2{I}_{R}/N}{{I}_{D}+({I}_{R}/N)}$$\end{document}</tex-math>
+   <math id="M10" display="block">
+    <mo>%</mo>
+    <msub>
+     <mrow>
+      <mi>H</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msub>
+    <msub>
+     <mrow>
+      <mi>O</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+     <mrow>
+      <mn>2</mn>
+      <msub>
+       <mrow>
+        <mi>I</mi>
+       </mrow>
+       <mrow>
+        <mi>R</mi>
+       </mrow>
+      </msub>
+      <mo>/</mo>
+      <mi>N</mi>
+     </mrow>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>I</mi>
+       </mrow>
+       <mrow>
+        <mi>D</mi>
+       </mrow>
+      </msub>
+      <mo>+</mo>
+      <mo stretchy="false">(</mo>
+      <msub>
+       <mrow>
+        <mi>I</mi>
+       </mrow>
+       <mrow>
+        <mi>R</mi>
+       </mrow>
+      </msub>
+      <mo>/</mo>
+      <mi>N</mi>
+      <mo stretchy="false">)</mo>
+     </mrow>
+    </mfrac>
+   </math>
+   <graphic xlink:href="41598_2019_55688_Article_Equ4.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>where 
+ <italic>I</italic>
+ <sub>
+  <italic>R</italic>
+ </sub> and 
+ <italic>I</italic>
+ <sub>
+  <italic>D</italic>
+ </sub> are the disk and ring currents and N represent collection efficiency. The percentage of the current associated with the peroxide generation at 0.01 V 
+ <italic>vs</italic>. SHE is 8.8%. ORR shows onset around 0.51 V vs. SHE and gradually current increases approximately to 0.2 mA/cm
+ <sup>2</sup> at 100 rpm. The recorded rpm effect depicts the significant increments in the current with respect to mass transfer process. The proposed mechanism for oxygen reduction is as follows:
+ <disp-formula id="Equ5">
+  <label>5</label>
+  <alternatives>
+   <tex-math id="M11">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${O}_{2}+2{H}^{+}+2{e}^{-}\to {H}_{2}{O}_{2}$$\end{document}</tex-math>
+   <math id="M12" display="block">
+    <msub>
+     <mrow>
+      <mi>O</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msub>
+    <mo>+</mo>
+    <mn>2</mn>
+    <msup>
+     <mrow>
+      <mi>H</mi>
+     </mrow>
+     <mo>+</mo>
+    </msup>
+    <mo>+</mo>
+    <mn>2</mn>
+    <msup>
+     <mrow>
+      <mi>e</mi>
+     </mrow>
+     <mo>−</mo>
+    </msup>
+    <mo>→</mo>
+    <msub>
+     <mrow>
+      <mi>H</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msub>
+    <msub>
+     <mrow>
+      <mi>O</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msub>
+   </math>
+   <graphic xlink:href="41598_2019_55688_Article_Equ5.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+ <disp-formula id="Equ6">
+  <label>6</label>
+  <alternatives>
+   <tex-math id="M13">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$2{H}_{2}{O}_{2}\to 2{H}_{2}O+{O}_{2}$$\end{document}</tex-math>
+   <math id="M14" display="block">
+    <mn>2</mn>
+    <msub>
+     <mrow>
+      <mi>H</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msub>
+    <msub>
+     <mrow>
+      <mi>O</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msub>
+    <mo>→</mo>
+    <mn>2</mn>
+    <msub>
+     <mrow>
+      <mi>H</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msub>
+    <mi>O</mi>
+    <mo>+</mo>
+    <msub>
+     <mrow>
+      <mi>O</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msub>
+   </math>
+   <graphic xlink:href="41598_2019_55688_Article_Equ6.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+</p>

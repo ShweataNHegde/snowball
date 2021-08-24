@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Then, solvated species are formed. Lastly, Zn
+ <sup>2+</sup> ions are reduced to Zn and deposited back on the Zn electrode (cathode). The electrochemical reaction may be expressed as in Equation (2) for the Zn electrode and Equation (3) for the MN-CNT electrode:
+ <disp-formula id="FD2-ijms-21-04689">
+  <label>(2)</label>
+  <math id="mm2">
+   <mrow>
+    <mrow>
+     <mi>Zn</mi>
+     <mo> </mo>
+     <mo>↔</mo>
+     <mi>Zn</mi>
+     <msup>
+      <mn>2</mn>
+      <mo>+</mo>
+     </msup>
+     <mo>+</mo>
+     <mn>2</mn>
+     <msup>
+      <mi mathvariant="normal">e</mi>
+      <mo>-</mo>
+     </msup>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+ <disp-formula id="FD3-ijms-21-04689">
+  <label>(3)</label>
+  <math id="mm3">
+   <mrow>
+    <mrow>
+     <mi>Zn</mi>
+     <msup>
+      <mn>2</mn>
+      <mo>+</mo>
+     </msup>
+     <mo>+</mo>
+     <mn>2</mn>
+     <msup>
+      <mi mathvariant="normal">e</mi>
+      <mo>-</mo>
+     </msup>
+     <mo>+</mo>
+     <mo>(</mo>
+     <mi mathvariant="sans-serif">δ</mi>
+     <mo>+</mo>
+     <mi mathvariant="sans-serif">γ</mi>
+     <mo>)</mo>
+     <mo>-</mo>
+     <msub>
+      <mi>MnO</mi>
+      <mn>2</mn>
+     </msub>
+     <mo> </mo>
+     <mo>↔</mo>
+     <mo>(</mo>
+     <mi mathvariant="sans-serif">δ</mi>
+     <mo>+</mo>
+     <mi mathvariant="sans-serif">γ</mi>
+     <mo>)</mo>
+     <mo>-</mo>
+     <msub>
+      <mi>ZnMnO</mi>
+      <mn>2</mn>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+</p>

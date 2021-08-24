@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Park</surname>
+    <given-names>MH</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Silicon nanotube battery anodes</article-title>
+  <source>Nano Lett.</source>
+  <year>2009</year>
+  <volume>9</volume>
+  <fpage>3844</fpage>
+  <lpage>3847</lpage>
+  <pub-id pub-id-type="doi">10.1021/nl902058c</pub-id>
+  <?supplied-pmid 19746961?>
+  <pub-id pub-id-type="pmid">19746961</pub-id>
+ </element-citation>
+</ref>

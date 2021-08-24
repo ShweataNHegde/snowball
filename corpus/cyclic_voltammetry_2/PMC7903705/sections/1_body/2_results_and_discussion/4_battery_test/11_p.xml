@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To clarify the cause of this effect, the cell impedance was monitored after each charge/discharge cycle and results are reported in Figure S4 in the 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsaem.0c02525/suppl_file/ae0c02525_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Supporting Information</ext-link>. The contact resistance (
+ <italic>R</italic>
+ <sub>1</sub>), at the very first discharge, is &lt;1 Ω (similar to that obtained by Kim 
+ <italic>et al.</italic>),
+ <sup>
+  <xref ref-type="bibr" rid="ref46">46</xref>
+ </sup> and afterward, it quickly increases in the first 10 cycles and then reaches a steady exponential increase. This behavior can be understood considering the sum of two contributions. The first one is the formation of the Li
+ <sub>2</sub>B
+ <sub>12</sub>H
+ <sub>12</sub>-based SEI layer, that is, poor conductivity at 60 °C (lower than 10
+ <sup>–6</sup> S cm
+ <sup>–1</sup>).
+ <sup>
+  <xref ref-type="bibr" rid="ref53">53</xref>
+ </sup> The decrease of the capacity fading at the 30th cycle could correspond to the achievement of the maximal SEI thickness. The second contribution, being the cell not supported by an appropriate stack pressure, is likely due to a continuous loss of contact at the electrode interfaces. In fact, during the delithiation of TiS
+ <sub>2</sub>, a volume contraction of Δ
+ <italic>V</italic>/
+ <italic>V</italic> = −9.7% is experienced, which also explains the rather high contact resistance after each charge cycle (Figure S4 in the 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsaem.0c02525/suppl_file/ae0c02525_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Supporting Information</ext-link>), that is, after Li plating at the negative electrode. The Li
+ <sub>
+  <italic>x</italic>
+ </sub>TiS
+ <sub>2</sub> Δ
+ <italic>V</italic>/
+ <italic>V</italic> value was estimated assuming a complete deintercalation; so, considering the unit cell volume at the two intercalation extremes, 
+ <italic>x</italic> = 0 and at 
+ <italic>x</italic> = 1. In addition, when considering the negative side of the cell, a similar trend of the contact resistance has been reported by Krauskopf 
+ <italic>et al.</italic>,
+ <sup>
+  <xref ref-type="bibr" rid="ref54">54</xref>
+ </sup> when the current density is higher than a critical value (
+ <italic>i.e.</italic>, 200 μA cm
+ <sup>–1</sup> at RT) without a suitable external applied pressure. Therefore, we assume that the contact degradation happens at both the cathode and anode and that it is the main reason of the capacity fading after the 30th cycle.
+</p>

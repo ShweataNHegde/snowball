@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par10">To make it clear of the local structural information for Fe and Mn, X-ray absorption near-edge structure (XANES) and K-edge extended X-ray absorption fine structure (EXAFS) measurements were performed
+ <sup>
+  <xref ref-type="bibr" rid="CR41">41</xref>
+ </sup>. As shown in Fig. 
+ <xref rid="Fig2" ref-type="fig">2a</xref>, Fe K-edge XANES spectra show that the adsorption threshold position of Fe,Mn/N–C and Fe/N–C located between FeO and Fe
+ <sub>2</sub>O
+ <sub>3</sub>, which indicated that the valance of Fe in Fe,Mn/N–C and Fe/N–C is situated between +2 and +3
+ <sup>
+  <xref ref-type="bibr" rid="CR42">42</xref>
+ </sup>. As shown in Fig. 
+ <xref rid="Fig2" ref-type="fig">2b</xref>, the Fourier transform (FT) k
+ <sup>3</sup>-weighted EXAFS spectra of Fe K-edge show apparent the same peak of Fe,Mn/N–C and Fe/N–C at 1.4–Å corresponding to the Fe–N coordination. The peak at 2.16–Å found in Fe,Mn/N–C represents the average nearest Fe-metal atoms distance but almost no such signal in Fe/N–C at the same position. As shown in Fig. 
+ <xref rid="Fig2" ref-type="fig">2d</xref>, the Fourier transform (FT) k
+ <sup>3</sup>-weighted EXAFS spectra of Mn K-edge demonstrate that Fe,Mn/N–C not only shows a peak at 1.40 Å indexing Mn–N coordination, but also gives a peak at 2.34 Å, demonstrating the next nearest Mn–metal atoms distance in Fe,Mn/N–C. Wavelet transform (WT) was also used to investigate the Fe K-edge EXAFS oscillations of Fe,Mn/N–C and the references. As shown in Fig. 
+ <xref rid="Fig2" ref-type="fig">2e</xref>, the WT analysis of Fe,Mn/N–C, Fe/N–C and Mn/N–C shows only one intensity maximum at about 4.0 Å
+ <sup>–1</sup> which is very close to that in the reference FePc (~4.0 Å
+ <sup>–1</sup>) and MnPc (~4.0 Å
+ <sup>–1</sup>) (Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">11a, c</xref>). In order to confirm the existence of Fe,Mn–N
+ <sub>6</sub>-1 moieties in Fe,Mn/N–C, density functional theory (DFT) is firstly used to deduce the possible structure of Fe,Mn/N–C (Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">12a–e</xref>) and single atom Fe–N
+ <sub>4</sub> (Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">12f</xref>). Based on its simulated Fe K-edge spectra of XANES, the calculated architectural Fe,Mn–N
+ <sub>6</sub>-1 model was in agreement with experimental spectra. Other structures could be excluded by the comparisons between the K-edge XANES experimental and theoretical spectra (Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">12</xref>). Therefore, the Fe,Mn/N
+ <sub>6</sub>-1 model is suggested as the most possible structure for our catalyst. Furthermore, as calculated based on the fitting k space curve in Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">13</xref> and listed in Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">4</xref>, the coordination numbers of Fe–N
+ <sub>1</sub>, Fe–N
+ <sub>2</sub> and Fe–Mn are 1.8 ± 0.3, 2.0 ± 0.4, and 0.9 ± 0.2, respectively, and the coordination numbers of Mn–N
+ <sub>1</sub>, Mn–N
+ <sub>2</sub>, and Mn–Fe are 1.9 ± 0.3, 2.2 ± 0.4, and 1.1 ± 0.2, respectively. Compared with reported single metal centers in M–N–C structures, Fe,Mn/N–C adopted a different dual-metal center, whereas the porphyrin-like structure was deformed. Thus, it is reasonable that the bond distances of Fe–N
+ <sub>1</sub>, Fe–N
+ <sub>2</sub>, Mn–N
+ <sub>1</sub>, and Mn–N
+ <sub>2</sub> are different. Consequently, it can be inferred that the structure of Fe,Mn/N–C is Fe,Mn/N
+ <sub>6</sub>-1 model.
+</p>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Niu</surname>
+   <given-names>Yanli</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Teng</surname>
+   <given-names>Xue</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gong</surname>
+   <given-names>Shuaiqi</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xu</surname>
+   <given-names>Mingze</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Sun</surname>
+   <given-names>Shi-Gang</given-names>
+  </name>
+  <address>
+   <email>sgsun@xmu.edu.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Zuofeng</given-names>
+  </name>
+  <address>
+   <email>zfchen@tongji.edu.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.24516.34</institution-id>
+   <institution-id institution-id-type="ISNI">0000000123704535</institution-id>
+   <institution>Shanghai Key Laboratory of Chemical Assessment and Sustainability, School of Chemical Science and Engineering, </institution>
+   <institution>Tongji University, </institution>
+  </institution-wrap>Shanghai, 200092 People’s Republic of China 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.12955.3a</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2264 7233</institution-id>
+   <institution>State Key Lab of Physical Chemistry of Solid Surface, College of Chemistry and Chemical Engineering, </institution>
+   <institution>Xiamen University, </institution>
+  </institution-wrap>Xiamen, 361005 People’s Republic of China 
+ </aff>
+</contrib-group>

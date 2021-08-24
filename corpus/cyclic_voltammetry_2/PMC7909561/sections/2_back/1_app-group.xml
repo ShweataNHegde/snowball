@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app-group>
+ <app id="app1-nanomaterials-11-00261">
+  <title>Supplementary Materials</title>
+  <p>The following are available online at 
+   <uri xlink:href="https://www.mdpi.com/2079-4991/11/2/261/s1" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.mdpi.com/2079-4991/11/2/261/s1</uri>, Figure S1: (a) SEM image of CoZn-BDC; (b) XRD pattern of Co-Zn-BDC; (c) FTIR spectra of Co-Zn-BDC (red) and H
+   <sub>2</sub>BDC (black); (d) Thermogravimetric analysis of Co-Zn-BDC. Figure S2: (a) SEM image of Co@CNTs-800 (Co-Zn-BDC:DCD = 1:2); (b) SEM image of Co@CNTs-800 (Co-Zn-BDC:DCD = 2:1). Figure S3: (a) Raman spectra of Co-MOF-800; (b) contents of various N species in Co@CNTs-800. Figure S4: (a) CV curves of Co@CNTs-T catalyst at 600, 700, 800, and 900 °C in N
+   <sub>2</sub> and O
+   <sub>2</sub>-saturated 0.1 M KOH solution, respectively; (b) LSV curves of blank CNTs, Co-MOF-800, Co-Zn-MOF-800, and Co@CNTs-800; (c) Chronoamperometric responses for Co@CNTs-800 in O
+   <sub>2</sub>-saturated electrolyte solution at −0.30 V (vs. Ag/AgCl); (d) LSV curves of Co@CNTs-800 of initial and after 12 h test. Table S1: The content of N, C, and H for Co@CNTs-600, Co@CNTs-700, Co@CNTs-800, and Co@CNTs-900 were determined by an Organic Element Analyzer. Table S2: Comparison of ORR activity of Co@CNTs-800 with the previously reported non-precious ORR electrocatalysts.
+  </p>
+ </app>
+</app-group>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disp-formula id="FD1">
+ <label>(1)</label>
+ <math id="mm1">
+  <mrow>
+   <mrow>
+    <mi mathvariant="italic">K</mi>
+    <mi mathvariant="normal">agg</mi>
+    <mo>=</mo>
+    <mi mathvariant="normal">C</mi>
+    <mi mathvariant="normal">dimer</mi>
+    <mo>/</mo>
+    <msup>
+     <mi mathvariant="normal">C</mi>
+     <mn>2</mn>
+    </msup>
+    <mi mathvariant="normal">monomer</mi>
+   </mrow>
+  </mrow>
+ </math>
+</disp-formula>

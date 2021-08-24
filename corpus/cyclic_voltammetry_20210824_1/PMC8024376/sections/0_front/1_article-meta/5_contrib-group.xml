@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Kisu</surname>
+   <given-names>Kazuaki</given-names>
+  </name>
+  <address>
+   <email>k.kisu@imr.tohoku.ac.jp</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kim</surname>
+   <given-names>Sangryun</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Shinohara</surname>
+   <given-names>Takara</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhao</surname>
+   <given-names>Kun</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Züttel</surname>
+   <given-names>Andreas</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Orimo</surname>
+   <given-names>Shin-ichi</given-names>
+  </name>
+  <address>
+   <email>orimo@imr.tohoku.ac.jp</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.69566.3a</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2248 6943</institution-id>
+   <institution>Advanced Institute for Materials Research (WPI-AIMR), </institution>
+   <institution>Tohoku University, </institution>
+  </institution-wrap>Katahira 2-1-1, Aoba-ku, Sendai, 980-8577 Japan 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.69566.3a</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2248 6943</institution-id>
+   <institution>Institute for Materials Research (IMR), </institution>
+   <institution>Tohoku University, </institution>
+  </institution-wrap>Katahira 2-1-1, Aoba-ku, Sendai, 980-8577 Japan 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.5333.6</institution-id>
+   <institution-id institution-id-type="ISNI">0000000121839049</institution-id>
+   <institution>Laboratory of Materials for Renewable Energy, </institution>
+   <institution>École Polytechnique Fédérale de Lausanne (EPFL), Valais/Wallis, </institution>
+  </institution-wrap>Rue de l’Industrie 17, 1950 Sion, Switzerland 
+ </aff>
+</contrib-group>

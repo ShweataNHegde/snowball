@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <array orientation="portrait">
+  <tbody>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">ZIB</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Zinc-ion battery</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">MNH-CNT</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">MnO
+     <sub>2</sub> heterostructure on multi-walled carbon nanotubes
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">MN-CNT</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">MnO
+     <sub>2</sub> on multi-walled carbon nanotubes
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">MN-CNT6040</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">MN-CNT having MnO
+     <sub>2</sub> and MWCNT ratio of 60:40
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">MN-CNT7525</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">MN-CNT having MnO
+     <sub>2</sub> and MWCNT ratio of 75:25
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">MN-CNT9010</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">MN-CNT having MnO
+     <sub>2</sub> and MWCNT ratio of 90:10
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">MIB</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Metal-ion battery</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">LIB</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Lithium-ion battery</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">SHE</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Standard hydrogen potential</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CNT</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Carbon nanotube</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">SWCNT</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Single-walled carbon nanotube</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">MWCNT</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Multi-walled carbon nanotube</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">XRD</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">X-ray diffraction</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">FESEM</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Field emission scanning electron microscope</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">TEM-EDS</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Transmission electron microscope with energy dispersive spectroscopy</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CV</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Cyclic voltammetry</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">CE</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Coulombic efficiency</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">OLC</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Onion-like carbon</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">DI water</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Deionized water</td>
+   </tr>
+  </tbody>
+ </array>
+</glossary>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Cyclic voltammetry (CV), a powerful technique used to investigate electrochemical processes, has been attracting much attention in relation to renewable energy.
+ <sup>
+  <xref ref-type="bibr" rid="ref1">1</xref>,
+  <xref ref-type="bibr" rid="ref2">2</xref>
+ </sup> CV studies provide information about (1) the formal potential and its close link to the standard reduction potential of redox couples, (2) the charge-transfer kinetics of electrodics, (3) the concentration of redox couples, (4) chemical reaction mechanisms, and (5) the diffusion coefficient of redox couples, among others.
+ <sup>
+  <xref ref-type="bibr" rid="ref1">1</xref>
+ </sup> In spite of the popularity of CV, there are several difficulties with this process, such as a voltage drop by uncompensated solution resistance (iR drop) and background signals. At a high electrolyte concentration and in conventional three-electrode systems, the iR drop is negligible in most experiments. The latter case, however, has been a practical issue in interpretations of CVs because the precise estimation of the faradic current is essential either for the determination of concentrations in analytical chemistry or for the figure of merit of electrocatalysts or supercapacitors. The dominant portion of the background current in CV originates from the electrical double layer (EDL), which is modeled as a Gouy–Chapman–Stern (GCS) double layer consisting of a serial connection between two capacitances corresponding to the outer Helmholtz layer (OHP) and the capacitance, which originates from the diffuse layer.
+ <sup>
+  <xref ref-type="bibr" rid="ref3">3</xref>
+ </sup> At a high electrolyte concentration, the capacitance of the diffuse layer increases and the total capacitance therefore converges to the capacitance of the OHP. Assuming that the capacitance is independent of the applied potential, the background current in CV for the applied potential (
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>A) is explained by assessing the constant charging current with the transient current at the vertex point of the potential sweep, as shown in 
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>C. In reality, this behavior of ideal polarized electrodes is rare, meaning that this system has been verified based on the simple capacitance model. Thus, CV in the absence of a redox couple is often used as a background, which is not suitable for quantitative analysis and not practical for several processes in electrochemistry such as a hydrogen evolution reaction (HER).
+</p>

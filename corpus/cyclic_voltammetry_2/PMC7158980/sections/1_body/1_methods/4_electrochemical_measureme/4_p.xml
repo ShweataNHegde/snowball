@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par37">where 
+ <italic>j</italic> is the measured current density, 
+ <italic>j</italic>
+ <sub>
+  <italic>k</italic>
+ </sub> is the estimated kinetic limiting current densities, 
+ <italic>n</italic> is the overall number of electrons transferred per oxygen molecule. 
+ <italic>F</italic> is the Faraday constant (
+ <italic>F</italic> = 96,485 C mol
+ <sup>−1</sup>), and 
+ <italic>ω</italic> is the angular velocity of the disk (
+ <italic>ω</italic> = 2π
+ <italic>N, N</italic> is the linear rotation speed), 
+ <inline-formula id="IEq1">
+  <alternatives>
+   <tex-math id="M21">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$ {C}_{{\mathrm{O}}_2} $$\end{document}</tex-math>
+   <math id="M22" display="inline">
+    <msub>
+     <mi>C</mi>
+     <msub>
+      <mi mathvariant="normal">O</mi>
+      <mn>2</mn>
+     </msub>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="11671_2020_3316_Article_IEq1.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> is the bulk concentration of O
+ <sub>2</sub> in the electrolyte (0.1 M KOH, 1.2 × 10
+ <sup>−6</sup> mol cm
+ <sup>−3</sup>), 
+ <inline-formula id="IEq2">
+  <alternatives>
+   <tex-math id="M23">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$ {D}_{{\mathrm{O}}_2} $$\end{document}</tex-math>
+   <math id="M24" display="inline">
+    <msub>
+     <mi>D</mi>
+     <msub>
+      <mi mathvariant="normal">O</mi>
+      <mn>2</mn>
+     </msub>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="11671_2020_3316_Article_IEq2.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> is the diffusion coefficient of O
+ <sub>2</sub> in the electrolyte (1.9 × 10
+ <sup>−5</sup> cm
+ <sup>2</sup> s
+ <sup>−1</sup>), 
+ <italic>ν</italic> is the kinematic viscosity of the electrolyte (0.01 cm
+ <sup>2</sup> s
+ <sup>−1</sup>), 
+ <italic>k</italic> is the electron transfer rate constant. The constant 0.2 is generally accepted when the rotating speed is presented in rpm. The electron transfer number (
+ <italic>n</italic>) and the yield of H
+ <sub>2</sub>O
+ <sub>2</sub> tested by the RRDE measurement and calculated by the ring and disk currents by the following formulas: 
+ <disp-formula id="Equ11">
+  <label>11</label>
+  <alternatives>
+   <tex-math id="M25">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$ n=4\times \frac{I_{\mathrm{disk}}}{I_{\mathrm{disk}}+{I}_{\mathrm{ring}}/N} $$\end{document}</tex-math>
+   <math id="M26" display="block">
+    <mi>n</mi>
+    <mo>=</mo>
+    <mn>4</mn>
+    <mo>×</mo>
+    <mfrac>
+     <msub>
+      <mi>I</mi>
+      <mtext>disk</mtext>
+     </msub>
+     <mrow>
+      <msub>
+       <mi>I</mi>
+       <mtext>disk</mtext>
+      </msub>
+      <mo>+</mo>
+      <msub>
+       <mi>I</mi>
+       <mtext>ring</mtext>
+      </msub>
+      <mo>/</mo>
+      <mi>N</mi>
+     </mrow>
+    </mfrac>
+   </math>
+   <graphic xlink:href="11671_2020_3316_Article_Equ11.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+ <disp-formula id="Equ12">
+  <label>12</label>
+  <alternatives>
+   <tex-math id="M27">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$ {\mathrm{HO}}_2^{-}\left(\%\right)=100\times \frac{2{I}_{\mathrm{ring}}/N}{I_{\mathrm{disk}}+{I}_{\mathrm{ring}}/N} $$\end{document}</tex-math>
+   <math id="M28" display="block">
+    <msubsup>
+     <mi>HO</mi>
+     <mn>2</mn>
+     <mo>−</mo>
+    </msubsup>
+    <mfenced close=")" open="(">
+     <mo>%</mo>
+    </mfenced>
+    <mo>=</mo>
+    <mn>100</mn>
+    <mo>×</mo>
+    <mfrac>
+     <mrow>
+      <mn>2</mn>
+      <msub>
+       <mi>I</mi>
+       <mtext>ring</mtext>
+      </msub>
+      <mo>/</mo>
+      <mi>N</mi>
+     </mrow>
+     <mrow>
+      <msub>
+       <mi>I</mi>
+       <mtext>disk</mtext>
+      </msub>
+      <mo>+</mo>
+      <msub>
+       <mi>I</mi>
+       <mtext>ring</mtext>
+      </msub>
+      <mo>/</mo>
+      <mi>N</mi>
+     </mrow>
+    </mfrac>
+   </math>
+   <graphic xlink:href="11671_2020_3316_Article_Equ12.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+</p>

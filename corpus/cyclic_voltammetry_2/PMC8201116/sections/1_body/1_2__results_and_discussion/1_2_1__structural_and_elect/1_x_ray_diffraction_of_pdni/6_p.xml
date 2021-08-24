@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The inter-atomic distance (dPd-Pd) between two palladium atoms was estimated in the following way. 
+ <disp-formula id="FD3-molecules-26-03440">
+  <label>(3)</label>
+  <math id="mm3">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>d</mi>
+      <mrow>
+       <mi>f</mi>
+       <mi>c</mi>
+       <mi>c</mi>
+      </mrow>
+     </msub>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <msqrt>
+        <mn>2</mn>
+       </msqrt>
+      </mrow>
+      <mn>2</mn>
+     </mfrac>
+     <msub>
+      <mi>a</mi>
+      <mrow>
+       <mi>e</mi>
+       <mi>x</mi>
+       <mi>p</mi>
+      </mrow>
+     </msub>
+     <mo>.</mo>
+     <mtext> </mtext>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+</p>

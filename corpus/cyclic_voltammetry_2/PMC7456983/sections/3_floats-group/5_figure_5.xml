@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F5" position="float">
+ <label>Figure 5</label>
+ <caption>
+  <p>Electrochemical characterization of CS 
+   <bold>(A,C)</bold> and BAG 
+   <bold>(B,D)</bold> by cyclic voltammetry 
+   <bold>(A,B)</bold> and galvanostatic charge–discharge 
+   <bold>(C,D)</bold> at different scan rates and applied currents, respectively. 
+   <bold>(E)</bold> Capacitance retention of each material at different applied specific currents. 
+   <bold>(F)</bold> Capacitance retention after 5,000 cycles of continuous charge–discharge at 10 A·g
+   <sup>−1</sup> in 1 M KOH.
+  </p>
+ </caption>
+ <graphic xlink:href="fchem-08-00686-g0005" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

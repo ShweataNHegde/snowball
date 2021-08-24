@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR40">
+ <label>40.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Huang</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Extremely elastic and conductive N-doped graphene sponge for monitoring human motions</article-title>
+  <source>Nanoscale</source>
+  <year>2019</year>
+  <volume>11</volume>
+  <fpage>1159</fpage>
+  <lpage>1168</lpage>
+  <pub-id pub-id-type="doi">10.1039/C8NR05102J</pub-id>
+  <?supplied-pmid 30600825?>
+  <pub-id pub-id-type="pmid">30600825</pub-id>
+ </element-citation>
+</ref>

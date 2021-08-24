@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app-group>
+ <app id="app1-nanomaterials-11-00569">
+  <title>Supplementary Materials</title>
+  <p>The following are available online at 
+   <uri xlink:href="https://www.mdpi.com/2079-4991/11/3/569/s1" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.mdpi.com/2079-4991/11/3/569/s1</uri>, Figure S1: SEM images for different ALD coating layers: (a) SVO-0, (b) SVO-10, (c) SVO-50, (d) SVO-100 after 100 charge–discharge cycles at a current density of 50 mA g
+   <sup>−1</sup>; Figure S2: EDX spectrum taken from the (a) SVO-0, (b) SVO-100 after 100 charge-discharge cycles; Figure S3: CV curves of (a) SVO-0, (b) SVO-10, (c) SVO-50, (d) SVO-100 at a scanning rate of 0.2 mV s
+   <sup>−1</sup> in the third cycle; Figure S4: Bode plots for SVO-0, SVO-10, SVO-50, SVO-100 after (a) 0 (b) 10, (c) 20, (d) 50 battery cycles; Table S1: Values of resistance calculated from fitting the impedance graphs.
+  </p>
+ </app>
+</app-group>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yang</surname>
+   <given-names>Xinxin</given-names>
+  </name>
+  <address>
+   <email>964224057@qq.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mi</surname>
+   <given-names>Hongwei</given-names>
+  </name>
+  <address>
+   <email>milia807@szu.edu.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ren</surname>
+   <given-names>Xiangzhong</given-names>
+  </name>
+  <address>
+   <email>renxz@szu.edu.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhang</surname>
+   <given-names>Peixin</given-names>
+  </name>
+  <address>
+   <email>pxzhang@szu.edu.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Li</surname>
+   <given-names>Yongliang</given-names>
+  </name>
+  <address>
+   <email>liyli@szu.edu.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.263488.3</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0472 9649</institution-id>
+   <institution>College of Chemistry and Environmental Engineering, </institution>
+   <institution>Shenzhen University, </institution>
+  </institution-wrap>Shenzhen, 518060 Guangdong People’s Republic of China 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.263488.3</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0472 9649</institution-id>
+   <institution>Guangdong Flexible Wearable Energy Tools Engineering Technology Research Centre, </institution>
+   <institution>Shenzhen University, </institution>
+  </institution-wrap>Shenzhen, 518060 Guangdong People’s Republic of China 
+ </aff>
+</contrib-group>

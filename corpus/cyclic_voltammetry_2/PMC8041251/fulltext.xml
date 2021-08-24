@@ -1,0 +1,766 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Appl Mater Interfaces</journal-id><journal-id journal-id-type="iso-abbrev">ACS Appl Mater Interfaces</journal-id><journal-id journal-id-type="publisher-id">am</journal-id><journal-id journal-id-type="coden">aamick</journal-id><journal-title-group><journal-title>ACS Applied Materials &#x00026; Interfaces</journal-title></journal-title-group><issn pub-type="ppub">1944-8244</issn><issn pub-type="epub">1944-8252</issn><publisher><publisher-name>American
+Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">8041251</article-id><article-id pub-id-type="pmid">33724772</article-id><article-id pub-id-type="doi">10.1021/acsami.0c20622</article-id><article-categories><subj-group><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Reversible
+Electrochemical Energy Storage Based on
+Zinc-Halide Chemistry</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes" id="ath1"><name><surname>Ejigu</surname><given-names>Andinet</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Le Fevre</surname><given-names>Lewis W.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath3"><name><surname>Dryfe</surname><given-names>Robert A. W.</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Department
+of Chemistry, <institution>University of Manchester</institution>, Oxford Road, Manchester M13 9PL, <country>U.K.</country></aff><aff id="aff2"><label>&#x02021;</label>National
+Graphene Institute, <institution>University of Manchester</institution>, Oxford Road, Manchester M13 9PL, <country>U.K.</country></aff><aff id="aff3"><label>&#x000a7;</label>Department
+of Electrical and Electronic Engineering, <institution>University of Manchester</institution>, Oxford Road, Manchester M13 9PL, <country>U.K.</country></aff><aff id="aff4"><label>&#x02225;</label>Henry
+Royce Institute, <institution>University of Manchester</institution>, Oxford Road, Manchester M13 9PL, <country>U.K.</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>andinet.aynalem@manchester.ac.uk</email>.</corresp><corresp id="cor2"><label>*</label>Email: <email>robert.dryfe@manchester.ac.uk</email>. Tel: <phone>+44 (0)161-306-4522</phone>. Fax: <fax>+44 (0)161-275-4598</fax>.</corresp></author-notes><pub-date pub-type="epub"><day>16</day><month>03</month><year>2021</year></pub-date><pub-date pub-type="ppub"><day>31</day><month>03</month><year>2021</year></pub-date><volume>13</volume><issue>12</issue><fpage>14112</fpage><lpage>14121</lpage><history><date date-type="received"><day>24</day><month>11</month><year>2020</year></date><date date-type="accepted"><day>23</day><month>02</month><year>2021</year></date></history><permissions><copyright-statement>&#x000a9; 2021 The
+Authors. Published by American
+Chemical Society</copyright-statement><copyright-year>2021</copyright-year><copyright-holder>The Authors</copyright-holder><license><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am0c20622_0007" id="ab-tgr1"/></p><p>The development of
+rechargeable Zinc-ion batteries (ZIBs) has been
+hindered by the lack of efficient cathode materials due to the strong
+binding of divalent zinc ions with the host lattice. Herein, we report
+a strategy that eliminates the participation of Zn<sup>2+</sup> within
+the cathode chemistry. The approach involves the use of composite
+cathode materials that contain Zn halides (ZnCl<sub>2</sub>, ZnBr<sub>2</sub>, and ZnI<sub>2</sub>) and carbon (graphite or activated carbon),
+where the halide ions act both as charge carriers and redox centers
+while using a Zn<sup>2+</sup>-conducting water-in-salt gel electrolyte.
+The use of graphite in the composite electrode produced batterylike
+behavior, where the voltage plateau was related to the standard potential
+of the halogen species. When activated carbon was used in the composite,
+however, the cell acted as a hybrid Zn-ion capacitor due to the fast,
+reversible halide ion electrosorption/desorption in the carbon pores.
+The ZnX<sub>2</sub>-activated carbon composite delivers a capacity
+of over 400 mAh g<sup>&#x02013;1</sup> and cell energy density of 140
+Wh kg<sup>&#x02013;1</sup> while retaining over 95% of its capacity
+after 500 cycles. The halogen reaction mechanism has been elucidated
+using combinations of electrochemical and <italic>in situ</italic> spectroscopic techniques.</p></abstract><kwd-group><kwd>Zn-ion battery</kwd><kwd>halogen conversion intercalation</kwd><kwd>halogen conversion adsorption</kwd><kwd>halogen cathode</kwd><kwd>carbon&#x02212;Zn halide composite</kwd><kwd>Zn-ion capacitor</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>am0c20622</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>am0c20622</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Aqueous rechargeable batteries are a promising class of batteries
+for grid-scale electrochemical energy storage owing to their low cost,
+ease of fabrication, high ionic conductivity, and high operational
+safety.<sup><xref ref-type="bibr" rid="ref1">1</xref>&#x02212;<xref ref-type="bibr" rid="ref3">3</xref></sup> Research on aqueous batteries in recent years has
+been gaining momentum from application in low-voltage divalent zinc&#x02013;ion
+batteries (ZIB) to high-voltage monovalent lithium-ion batteries (LIBs).<sup><xref ref-type="bibr" rid="ref4">4</xref>&#x02212;<xref ref-type="bibr" rid="ref6">6</xref></sup> In particular, ZIBs have attracted substantial interest as one of
+the most promising next-generation technologies because: (i) they
+depend on an Earth-abundant metal, which is air-stable unlike Li;
+(ii) their low cost, safety, and environmental benignancy is attractive
+for grid-scale energy storage, and (iii) the volumetric energy density
+is approximately 3 times higher than that of Li.<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref8">8</xref></sup> Due to these favorable properties, zinc
+has been used as an anode material in a series of battery technologies
+both in conventional static cells (zinc&#x02013;manganese dioxide batteries,
+zinc&#x02013;air batteries, or Zn-graphite dual ion batteries) and
+in redox flow configurations (Zn&#x02013;bromine or Zn&#x02013;iron
+cells).<sup><xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref10">10</xref></sup></p><p>The development of ZIBs is, however,
+hindered by a number of factors
+relating to aqueous electrolytes, the formation of Zn dendrites at
+the anode, and lack of efficient cathode materials.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> Furthermore, the codecomposition of water molecules during
+the deposition of Zn<sup>2+</sup> is known to affect the reversibility
+of the Zn stripping/deposition and depletes the electrolyte due to
+the sustained water consumption. Wang et al. used water-in-salt electrolytes
+(WiSEs) to enhance the electrochemical window of water and obtained
+dendrite-free Zn plating/stripping with near 100% Coulombic efficiency.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> WiSEs contain a high concentration of the desired
+salt so that the hydrated ions outnumber free water: as there is no
+free water to react at the electrode surface, the overall cell voltage
+can be increased. The combination of small cations and large fluorinated
+anions in water alters the hydration behavior of the ions where the
+cation is strongly solvated, but the anion is not. The less solvated
+fluorinated anions can be reduced to form a passivating solid electrolyte
+interface (SEI) on the electrode surface.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> This SEI formation significantly suppresses the hydrogen evolution
+reaction and is largely responsible for the overall electrochemical
+stability window of WiSEs.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> The highest
+voltage window (4.9 V) recorded at the hydrophobic graphite of WiSEs
+contains small metal cations (Li<sup>+</sup>) and large fluorinated
+anions such as bis(trifluoromethanesulfonyl)imide ([TFSI]<sup>&#x02212;</sup>) and trifluoromethanesulfonate ([TFO]<sup>&#x02212;</sup>).<sup><xref ref-type="bibr" rid="ref6">6</xref></sup></p><p>Although the electrochemical reversibility
+of Zn stripping/deposition
+was enhanced and Zn dendrite formation was suppressed using WiSEs,
+the lack of an efficient cathode material for ZIBs remains a severe
+challenge.<sup><xref ref-type="bibr" rid="ref11">11</xref>,<xref ref-type="bibr" rid="ref12">12</xref></sup> Some of the cathode materials
+developed to date are Prussian blue analogs,<sup><xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref14">14</xref></sup> manganese oxides,<sup><xref ref-type="bibr" rid="ref15">15</xref>&#x02212;<xref ref-type="bibr" rid="ref18">18</xref></sup> and vanadium oxides.<sup><xref ref-type="bibr" rid="ref11">11</xref>,<xref ref-type="bibr" rid="ref12">12</xref></sup> Each of these materials suffers
+from limited specific capacity, far below the theoretical capacity
+of the Zn anode (820 mAh g<sup>&#x02013;1</sup>), a low-voltage plateau
+(&#x0003c;1.4 V), and a low rate capability due to their poor electronic
+conductivity. The low performance of these cathodes is mainly attributed
+to the high polarization of the divalent Zn<sup>2+</sup> ions leading
+to strong binding with the host lattice and sluggish solid-state migration
+dynamics.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref12">12</xref></sup> Therefore, the development of efficient
+cathodes should use different combinations of battery chemistry, for
+example, reversible deposition and stripping of Zn as the anode half-reaction
+and reversible atomic intercalation or plating of non-Zn-ion species
+as the cathode half-reaction. This strategy not only avoids the intercalation
+of Zn<sup>2+</sup> to the host cathode material but also allows the
+flexibility to fine tune and increase the output voltage, which is
+the main barrier limiting the overall performance.</p><p>Herein, we
+describe a new class of composite cathode materials
+that contain Zn halides (ZnCl<sub>2</sub>, ZnBr<sub>2</sub>, and ZnI<sub>2</sub>) and carbons (graphite or activated carbon), where the halide
+ions act both as charge carriers and as redox centers. It should be
+noted that our approach differs from the conventional Zn&#x02013;bromine
+flow battery, where bromide is oxidized to bromine and stored in an
+external tank.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> The approach we pursue
+in the current study uses Zn halide immobilized on carbon hosts as
+the cathode, where the redox activity of the halides is exploited
+to store more charge. In other words, the halides undergo a &#x0201c;conversion&#x02013;intercalation/adsorption&#x0201d;
+reaction inside the carbon structure when the cell is charged using
+a Zn<sup>2+</sup> conducting water-in-trisalt (WiTS) gel electrolyte.
+Our approach also removes the halogen cross-over seen in Zn&#x02013;bromine
+cells as the halogen is confined (intercalated or adsorbed) within
+the carbon structure upon oxidation. The variety of the halogen species
+means that the cell voltage can be fine-tuned and increased. The standard
+reduction potentials of I<sup>&#x02013;</sup>/I<sub>2</sub>, Br<sup>&#x02013;</sup>/Br<sub>2</sub>, Cl<sup>&#x02013;</sup>/Cl<sub>2</sub>, and F<sup>&#x02013;</sup>/F<sub>2</sub> redox couples are 0.54,
+1.09, 1.36, and 2.8 V vs standard hydrogen electrode (SHE), respectively.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> The combination of the zinc-halide&#x02013;carbon
+cathode with a Zn anode can therefore generate an open-circuit voltage
+that ranges between 1.3 and 3.5 V depending on the halide type. The
+flexible and non-flammable
+semisolid WiTS gel electrolyte, which is compatible with the halogen
+cathode, exhibited fast electrode kinetics for Zn oxidation and reduction
+without the formation of Zn dendrites. We will show that both the
+identity of the Zn halide and carbon structure in the cathode produces
+electrochemical energy storage devices that fundamentally differ from
+one another. The resultant composite electrodes can deliver a capacity
+of 480 mAh g<sup>&#x02013;1</sup> at 0.05 A g<sup>&#x02013;1</sup> with
+a corresponding energy density of 140 Wh kg<sup>&#x02013;1</sup>. The
+conversion&#x02013;intercalation/adsorption mechanism of the individual
+ZnX<sub>2</sub>&#x02013;carbon composite in the WiTS gel electrolyte
+is characterized by electrochemical, <italic>in situ</italic> Raman
+spectroscopy and <italic>ex situ</italic> X-ray photoelectron spectroscopy
+(XPS) techniques and analyzed in detail.</p></sec><sec id="sec2"><label>2</label><title>Results
+and Discussion</title><sec id="sec2.1"><label>2.1</label><title>WiTS Gel Electrolyte Formulation
+and Characterization</title><p>The robust Zn<sup>2+</sup> conducting
+gel electrolyte was formulated
+from water-in-trisalt (WiTS) electrolyte by mixing ZnSO<sub>4</sub>, Zn(TFO)<sup>2</sup>, and LiTFSI (in a 1:1:2 mass ratio, respectively)
+in 20% water using 10% poly(tetrafluoroethylene) (PTFE) polymer binder.
+The resulting white gel is a highly flexible, yet semisolid, electrolyte
+that can be molded to any shape (inset of <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A for optical image).</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(A) Thermogravimetric
+analysis (TGA) traces recorded for a WiTS
+gel electrolyte obtained by ramping the temperature from 30 to 800
+&#x000b0;C at a rate of 10 &#x000b0;C min<sup>&#x02013;1</sup> under N<sub>2</sub>. The inset shows the photographic images of a WiTS gel electrolyte,
+the scale bar is 5 cm. (B) Cyclic voltammetry (CV) recorded at a 3
+mm diameter glassy carbon (GC) electrode at 10 mV s<sup>&#x02013;1</sup> using a WiTS gel electrolyte between &#x02212;0.2 and 4.2 V. (C)
+CVs recorded with a symmetrical Zn|Zn cell at 1 mV s<sup>&#x02013;1</sup> in a WiTS gel electrolyte before and after cycling for 40 h using
+galvanostatic charge&#x02013;discharge. (D) Galvanostatic charge&#x02013;discharge
+curve obtained using a symmetrical Zn|Zn cell in a WiTS gel electrolyte
+and 2.0 M ZnSO<sub>4</sub> (aq) at 0.2 mA cm<sup>&#x02013;2</sup>.
+(E) Scanning electron microscopy (SEM) image of a fully discharged
+Zn substrate, the scale bar = 20 &#x003bc;m. (F) SEM of a fully charged
+Zn substrate, scale bar = 20 &#x003bc;m.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am0c20622_0002" id="gr1" position="float"/></fig><p>Each of the components contributes to the unique properties of
+the gel. LiTFSI was used as it is soluble in water to a high concentration
+(when compared to Zn(TFO)<sup>2</sup> or ZnSO<sub>4</sub>) to reach
+the water-in-salt regime. It is also used as a source of the [TFSI]
+anion since it is believed that the reduction of [TFSI]<sup>&#x02212;</sup> is responsible for the formation of the passivating SEI, which extends
+the overall electrochemical window.<sup><xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref7">7</xref></sup> We also note
+that in the absence of ZnSO<sub>4</sub> the gel is very sticky to
+handle, while in the absence of Zn(TFO)<sup>2</sup>, a rigid dry material
+is formed, as excess ZnSO<sub>4</sub> pulls water from the mixture.
+The thermal decomposition of the gel electrolyte was studied by thermogravimetric
+analysis (TGA), which shows four mass losses due to the loss of H<sub>2</sub>O (&#x0003c;200 &#x000b0;C), decomposition of [SO<sub>4</sub>]<sup>2&#x02013;</sup> (200&#x02013;284 &#x000b0;C, &#x0223c;10%), [TFO]<sup>&#x02212;</sup> (323&#x02013;450 &#x000b0;C, &#x0223c;34%), and [TFSI]<sup>&#x02212;</sup> (&#x0003e;450 &#x000b0;C).<sup><xref ref-type="bibr" rid="ref21">21</xref>&#x02212;<xref ref-type="bibr" rid="ref23">23</xref></sup> The TGA also shows the
+gel contained
+about 15% water. The ionic conductivity of the gel electrolyte was
+determined using alternating current (AC) impedance (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c20622/suppl_file/am0c20622_si_001.pdf">Figure S1</ext-link>) and was found to be 6 mS cm<sup>&#x02013;1</sup>, which is comparable to that of nonaqueous electrolytes (9.0 mS
+cm<sup>&#x02013;1</sup>) used in commercial LIBs.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> The electrochemical window of the gel, as well as the reversibility
+of Zn plating and stripping, was investigated using cyclic voltammetry
+(CV) at a glassy carbon (GC) disk electrode. The gel electrolyte exhibited
+fast kinetics for Zn oxidation/reduction and achieved a potential
+window of 3.0 V (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B), which is comparable to WiSE-based on 21 m LiTFSI.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup></p><p>The long-term electrochemical reversibility of the
+Zn plating and
+stripping processes in the WiTS gel electrolyte was investigated using
+a Zn|Zn symmetric cell under galvanostatic and CV methods. <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>C shows the CV obtained
+before and after several charge&#x02013;discharge cycles; and in each
+case, the gel electrolyte exhibited reversible Zn redox chemistry
+with the ratio between the anodic (<italic>i</italic><sub>p,a</sub>) and cathodic peak currents (<italic>i</italic><sub>p,c</sub>) being
+one which indicates that the Coulombic efficiency of the cell is near
+100%. The kinetics of Zn oxidation/reduction, however, significantly
+improved after cycling, as exemplified by the peak-to-peak (&#x00394;<italic>E</italic><sub>P</sub>) separation that decreased from &#x0223c;0.4
+to 0.2 V. The decrease in &#x00394;<italic>E</italic><sub>P</sub> with
+cycling is most likely due to the removal of surface oxides from Zn,
+which impede electron transfer. In addition, the current due to Zn
+oxidation/reduction is increased by a factor of 5 after cycling, which
+could be due to an increase in the active surface area. The charge&#x02013;discharge
+curve (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>D) also
+showed similar behavior where the overpotential (&#x003b7;) for Zn stripping/plating
+decreased from about 0.6 to 0.2 V after 10 cycles and stabilized at
+0.2 V even after the cell was cycled for 40 h at 0.2 mA cm<sup>&#x02013;2</sup>. The cell can operate continuously without short circuiting (no
+formation of dendrites) for over 400 h at 0.1 mA cm<sup>&#x02013;2</sup> with a much lower &#x003b7; for Zn|Zn<sup>2+</sup> redox reactions
+(see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c20622/suppl_file/am0c20622_si_001.pdf">Figure S2</ext-link>). In sharp contrast, in
+a dilute electrolyte (2 M ZnSO<sub>4</sub>), a rapid polarization
+started to occur after nine cycles most likely due to the formation
+of Zn dendrites and other associated problems including oxide formation
+(<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>D).<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> These observations demonstrate that the gel
+electrolyte is an excellent Zn<sup>2+</sup> conductor with very facile
+Zn stripping/plating kinetics. Both the stability and the kinetics
+of the Zn couple in the WiTS gel electrolyte are superior to those
+in solution-based aqueous and nonaqueous ionic liquid-based electrolytes.<sup><xref ref-type="bibr" rid="ref25">25</xref>&#x02212;<xref ref-type="bibr" rid="ref28">28</xref></sup></p><p>The presence or absence of Zn dendrite formation in this gel
+electrolyte
+is also examined using SEM after galvanostatic cycling of a Zn|Zn
+symmetric cell for 40 h. The Zn-plated substrate exhibited a dense
+and uniform layeredlike structure with the absence of any substantial
+dendrites (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>E). After Zn stripping, this dense structure is completely removed
+and the original surface is retained without the formation of ZnO
+according to X-ray diffraction (XRD) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c20622/suppl_file/am0c20622_si_001.pdf">Figure S3</ext-link>), indicating the reversibility of Zn chemistry in the gel electrolyte.</p><p>In summary, this Zn<sup>2+</sup>-conducting WiTS gel electrolyte
+provides the advantage of safety (as it is nonflammable) and enables
+certain battery components to be removed (such as the polymer separator).
+The elimination of the separator from the cell will significantly
+reduce the contact resistance of the interface. Then, we consider
+the cathode chemistry involving the carbon host.</p></sec><sec id="sec2.2"><label>2.2</label><title>Aqueous Zn|(Graphite&#x02013;ZnX<sub>2</sub>) Cell</title><p>The
+electrochemistry of confined Zn halides within
+a graphite electrode was examined using the WiTS gel electrolyte in
+full-cell Zn batteries. The free-standing graphite&#x02013;ZnX<sub>2</sub> cathodes were prepared by mixing the desired halide and natural
+graphite at a mass ratio of 1:3 with 5% PTFE binder. <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>A shows the CVs recorded at
+the cathodes of graphite&#x02013;ZnI<sub>2</sub> (G&#x02013;ZnI<sub>2</sub>), graphite&#x02013;ZnBr<sub>2</sub> (G&#x02013;ZnBr<sub>2</sub>), and graphite&#x02013;ZnCl<sub>2</sub> (G&#x02013;ZnCl<sub>2</sub>) combined with Zn anodes in cells using the WiTS gel electrolyte.
+Significantly, both G&#x02013;ZnI<sub>2</sub> and G&#x02013;ZnBr<sub>2</sub> showed reversible redox reactions at the characteristic formal
+potentials of I<sup>&#x02013;</sup>/I<sub>2</sub> (1.17 V vs Zn/Zn<sup>2+</sup>) and Br<sup>&#x02013;</sup>/Br<sub>2</sub> (1.67 V vs Zn/Zn<sup>2+</sup>). The oxidative redox reactions are therefore attributed
+to the conversion of the halide ion (I<sup>&#x02013;</sup>, Br<sup>&#x02013;</sup>) to elemental halogen (I<sup>0</sup> or Br<sup>0</sup>), which is stabilized by sequential intercalation/adsorption into
+graphite galleries to form a solid graphite intercalation compound
+(GIC) (<xref rid="eq1" ref-type="disp-formula">eq <xref rid="eq1" ref-type="disp-formula">1</xref></xref>).<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref29">29</xref>&#x02212;<xref ref-type="bibr" rid="ref31">31</xref></sup> This oxidation process releases Zn<sup>2+</sup>,
+which is transported through the gel electrolyte to replace the ions
+reversibly plated on the Zn anode (<xref rid="eq2" ref-type="disp-formula">eq <xref rid="eq2" ref-type="disp-formula">2</xref></xref>). The reduction process at the cathode is due to the
+deintercalation and reduction of I<sup>0</sup>/Br<sup>0</sup> to recombine
+with Zn<sup>2+</sup> (<italic>n</italic> is the molar ratio of carbon
+atoms to the intercalated/adsorbed halogens in the GIC). The ratio
+between the <italic>i</italic><sub>p,a</sub> and the <italic>i</italic><sub>p,c</sub> being one in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>A demonstrates the high reversibility of <xref rid="eq1" ref-type="disp-formula">eq <xref rid="eq1" ref-type="disp-formula">1</xref></xref><disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am0c20622_m001" position="anchor"/><label>1</label></disp-formula><disp-formula id="eq2"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am0c20622_m002" position="anchor"/><label>2</label></disp-formula></p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(A) Cyclic voltammograms
+recorded at 1 mV s<sup>&#x02013;1</sup> in the WiTS gel electrolyte
+using coin cells constructed from G&#x02013;ZnX<sub>2</sub> positive
+electrodes and a Zn foil negative electrode. <italic>Ex situ</italic> XPS of G&#x02013;ZnCl<sub>2</sub>&#x02013;ZnBr<sub>2</sub> obtained
+for (B) fully charged and (C) fully discharged cells.
+(D) Galvanostatic discharge curves vs capacity obtained at a current
+density of 50 mA g<sup>&#x02013;1</sup> using the positive electrodes
+(G&#x02013;ZnX<sub>2</sub>) shown and the Zn negative electrode in
+the WiTS gel electrolyte.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am0c20622_0003" id="gr2" position="float"/></fig><p>In contrast, the CV obtained using the G&#x02013;ZnCl<sub>2</sub> cathode
+showed a lower current and a lower degree of reversibility
+with a sharp undefined oxidation peak and a small reduction peak.
+The poor reversibility of G&#x02013;ZnCl<sub>2</sub> suggests the formation
+of an irreversible product during battery charging. This is in contrast
+to G&#x02013;LiCl which has been reported to display a reversible Cl<sup>&#x02013;</sup> conversion&#x02013;intercalation process in WiSEs.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> The fact that the conversion&#x02013;intercalation
+of ZnCl<sub>2</sub> is irreversible suggests that the metallic counterions
+have a strong impact on the conversion&#x02013;intercalation process.
+It has been shown that the chemical intercalation of ZnCl<sub>2</sub> into graphite forms a strong complex with the carbon species to
+form ZnCl<sub>2</sub>&#x02013;carbon.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> Indeed,
+characterization of a fully charged G&#x02013;ZnCl<sub>2</sub>-containing
+electrode using XPS showed the formation of C&#x02013;Zn&#x02013;C bonds
+at a low binding energy (283.0 eV) when analyzing the high-resolution
+C1s spectrum (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>B).<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> Furthermore, the signal due to Zn
+carbide is still present and increased for the fully discharged cathode,
+which confirms the irreversibility of the process, manifested in the
+CV response (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>C). The slight shift to high binding energy (283.5 eV) during discharge
+indicates a change in the environment of C1s presumably due to the
+increase in the concentration of chloride along with Zn inside the
+carbon. This data demonstrates that ZnCl<sub>2</sub>-based cathode
+materials cannot be combined with sp<sup>2</sup>-carbon to form a
+secondary ZIB.</p><p><xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>D presents
+the discharge curves at 50 mA g<sup>&#x02013;1</sup>of the ZIB full
+cells with the WiTS gel electrolyte for different halide-based cathodes.
+As expected, G&#x02013;ZnCl<sub>2</sub> showed a very low capacity
+with the absence of any useable voltage plateau due to the irreversible
+reaction. The G&#x02013;ZnI<sub>2</sub> and G&#x02013;ZnBr<sub>2</sub> cathodes showed voltage plateaus that correspond to their respective
+redox reactions, G&#x02013;ZnI<sub>2</sub> at 1.17 V and G&#x02013;ZnBr<sub>2</sub> at 1.67 V vs Zn/Zn<sup>2+</sup>, in agreement with the CV
+data. The cathode made from the equimolar mixture of ZnCl<sub>2</sub> and ZnBr<sub>2</sub> showed two discharges voltage plateaus: a small
+one at 1.90 V, due to the Cl<sup>&#x02013;</sup>/Cl<sub>2</sub> redox
+reaction, and the other at 1.67 V due to the Br<sup>&#x02013;</sup>/Br<sub>2</sub> redox reaction. Nonetheless, the specific capacity
+of each cathode is much lower than the theoretical capacity of a halogen
+GIC (309 mAh g<sup>&#x02013;1</sup> for MBr<sub>n</sub> and 632 mAh
+g<sup>&#x02013;1</sup> for MCl<sub>n</sub>).<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> Among the cathodes tested, the best specific capacity (55 mAh g<sup>&#x02013;1</sup>) was obtained using G&#x02013;ZnCl<sub>2</sub>&#x02013;ZnBr<sub>2</sub> with the others being lower than 30 mAh g<sup>&#x02013;1</sup>. However, the capacity decayed by more than 50% after 200 cycles
+due to the continual formation of zinc carbide species (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c20622/suppl_file/am0c20622_si_001.pdf">Figure S4</ext-link>). The specific capacity quoted is based
+on the total mass of the cathode (mass of graphite plus mass of halide).</p><p><italic>In situ</italic> Raman spectroscopy was used to understand
+the halide intercalation mechanism and to rationalize the poor performance
+of the G&#x02013;ZnX<sub>2</sub> using the WiTS gel electrolyte. <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref> shows the fully
+charged&#x02013;discharged Raman spectra for each cathode. The free-standing
+sample for each cathode showed a similar response at open-circuit
+potential (OCP), with the characteristic graphite bands, G-band at
+1580 cm<sup>&#x02013;1</sup> and a small D-band at &#x0223c;1350 cm<sup>&#x02013;1</sup>, being shown and no other bands associated with Zn
+halides. The fully charged G&#x02013;ZnI<sub>2</sub> electrode displayed
+an intense Raman signal at 172 cm<sup>&#x02013;1</sup> due to surface-bound
+iodine species.<sup><xref ref-type="bibr" rid="ref34">34</xref>,<xref ref-type="bibr" rid="ref35">35</xref></sup> However, the absence of a G-band
+splitting suggests that there is no intercalation of the iodide species
+into the graphite galleries (see the inset of <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>A). While other halogens including chlorine
+and bromine intercalate into graphite, iodine has a strong affinity
+for adsorption rather than intercalation.<sup><xref ref-type="bibr" rid="ref36">36</xref>,<xref ref-type="bibr" rid="ref37">37</xref></sup> G&#x02013;ZnBr<sub>2</sub> also exhibited similar behavior when fully
+charged where it showed a signal at 240 cm<sup>&#x02013;1</sup> due
+to the stretching mode of Br<sub>2</sub>.<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref38">38</xref></sup> The
+G-band of the material, however, was split into two Raman modes: the
+E<sub>2g2i</sub> mode at &#x0223c;1580 cm<sup>&#x02013;1</sup> due to
+the interior unintercalated original layers and the E<sub>2g2b</sub> at 1604 cm<sup>&#x02013;1</sup> due to the bounding layers next to
+the intercalants. The fact that the intensity of the E<sub>2g2i</sub> mode is twice that of the E<sub>2g2b</sub> together with the higher
+wavenumber for the E<sub>2g2b</sub> reflects the dilute staging of
+bromine species into graphite galleries.<sup><xref ref-type="bibr" rid="ref39">39</xref></sup> The opposite trends were observed during discharge that involves
+the desorption/deintercalation of the halogen at each cathode (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>B) characterized
+by the absence of halogen-related bands, further confirming the reversibility
+of the process. This <italic>in situ</italic> Raman spectroscopy data
+shows that reversible surface adsorption/desorption is the dominant
+reaction mechanism in G&#x02013;ZnI<sub>2</sub> and G&#x02013;ZnBr<sub>2</sub> electrodes. This observation is similar to Na chemistry at
+a graphite electrode where Na plates are on the graphite surface rather
+than intercalating due to its size and weaker chemical interaction
+with the graphite planes.<sup><xref ref-type="bibr" rid="ref40">40</xref></sup> The use of
+hard carbon in the composite may improve the cell performance.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p><italic>In
+situ</italic> Raman spectral series of a Zn|G&#x02013;ZnX<sub>2</sub> cell in the WiTS gel electrolyte during full (A) charge and
+(B) discharge. The insets in (A) and (B) show the graphite G-band
+region. (C) Comparison of Zn|G&#x02013;ZnX<sub>2</sub> at different
+voltages.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am0c20622_0004" id="gr3" position="float"/></fig><p>The electrode that contained ZnCl<sub>2</sub> (neat or mixed with
+ZnBr<sub>2</sub>) on the other hand showed a more intense E<sub>2g2b</sub> at 1609 cm<sup>&#x02013;1</sup>, approximately twice that of the
+E<sub>2g2i</sub>, a characteristic of the formation of a stage-3 GIC.<sup><xref ref-type="bibr" rid="ref39">39</xref></sup> However, the G-band splitting remained after
+the battery was fully discharged, which demonstrates that the intercalation
+process is nonreversible, in agreement with the XPS analysis (inset
+of <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>B). Furthermore,
+the fully charged G&#x02013;ZnCl<sub>2</sub> or G&#x02013;ZnBr<sub>2</sub>&#x02013;ZnCl<sub>2</sub> did not show the band associated with Cl<sub>2</sub> (expected in the region of 530&#x02013;570 cm<sup>&#x02013;1</sup>) intercalant due to the reaction of ZnCl<sub>2</sub> with the graphite
+host as previously discussed. <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>C shows the Raman spectrum response for the G&#x02013;ZnI<sub>2</sub>&#x02013;ZnBr<sub>2</sub> composite electrode. It is interesting
+to note that significant Raman frequency shifts for both iodide and
+Br-species were observed when analyzing the G&#x02013;ZnI<sub>2</sub>&#x02013;ZnBr<sub>2</sub> sample. When the cell was charged to 1.4
+V, a broad band at 172 cm<sup>&#x02013;1</sup> due to surface-bound
+iodine species (also the case for G&#x02013;ZnI<sub>2</sub> charged
+to 1.9 V) was seen. When the voltage was increased to 1.9 V, sharp
+bands at 180 and 189 cm<sup>&#x02013;1</sup> were observed along with
+the G-band splitting. The formation of these new bands is most likely
+due to the formation of interatomic IBr intercalants.<sup><xref ref-type="bibr" rid="ref41">41</xref></sup> A frequency downshift is often observed for surface-bound
+halogen when compared to free halogen due to the interaction of halogen
+with host materials, which weakens the interatomic bonds of the intercalants.<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref41">41</xref></sup> In contrast, the G&#x02013;ZnCl<sub>2</sub>&#x02013;ZnBr<sub>2</sub> sample did not show the BrCl formation due to the reaction of ZnCl<sub>2</sub> with the graphite (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>A).</p><p>Overall, the analysis of Raman spectra indicates
+that the size
+of halogens significantly impacts the reaction mechanism at the graphite
+cathode. The conversion&#x02013;adsorption process occurs when the
+halogen is larger, for example in G&#x02013;ZnI<sub>2</sub>, and the
+conversion&#x02013;intercalation process occurs for smaller halogens
+such as G&#x02013;ZnCl<sub>2</sub>. Even though ZnCl<sub>2</sub> can
+reach a reasonably high intercalation staging, the irreversible reaction
+is the hindering factor for use in practical ZIBs. The low capacity
+of the full-cell battery at each electrode is explained by the conversion&#x02013;adsorption
+reaction mechanism, which needs a high surface area carbon rather
+than the low surface area graphite.</p></sec><sec id="sec2.3"><label>2.3</label><title>Aqueous
+Zn|(Activated Carbon&#x02013;ZnX<sub>2</sub>) Cell</title><p>Given that
+the conversion&#x02013;adsorption
+process is the dominant reversible process in Zn halide&#x02013;carbon
+composites, the working hypothesis was that variation of the surface
+area of carbon would determine the extent of cell performance. To
+this end, various Zn halides were mixed with high surface area-activated
+carbon (AC) and their performance was tested in full-cell coin cells. <xref rid="fig4" ref-type="fig">Figures <xref rid="fig4" ref-type="fig">4</xref></xref>A and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c20622/suppl_file/am0c20622_si_001.pdf">S5</ext-link> show the representative charge&#x02013;discharge
+curves of Zn|AC&#x02013;ZnX<sub>2</sub> batteries using the WiTS gel
+electrolyte at various current densities between 0.1 and 2.0 V. Significantly,
+the charge&#x02013;discharge curves possess a near-triangular shape
+with little deviation from an ideal capacitor response. This implies
+that the kinetics of the halogen conversion&#x02013;adsorption reaction
+at the activated carbon electrode is extremely facile in the WiTS
+gel electrolyte. However, the CV response at each electrode was not
+strictly pseudocapacitive due to the presence of redox peaks (see <xref rid="fig4" ref-type="fig">Figures <xref rid="fig4" ref-type="fig">4</xref></xref>D and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c20622/suppl_file/am0c20622_si_001.pdf">S6A</ext-link>). The specific capacities for Zn|AC&#x02013;ZnCl<sub>2</sub>, Zn|AC&#x02013;ZnBr<sub>2</sub>, and Zn|AC&#x02013;ZnI<sub>2</sub> cells are approximately 281, 232, and 196 mAh g<sup>&#x02013;1</sup>, respectively, at a current density of 0.05 A g<sup>&#x02013;1</sup> (compared to &#x0003c;100 mAh g<sup>&#x02013;1</sup> for bare AC in the
+same electrolyte). These capacities decreased to 102, 90, and 65 mAh
+g<sup>&#x02013;1</sup> when the current density was increased to 1.0
+A g<sup>&#x02013;1</sup>, and the corresponding capacity fade is over
+60% for each cell (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>B). The capacity loss is most likely due to the low conductivity
+of the activated carbon and future work will focus on the use of conducting
+additives, such as carbon black, to further optimize the performance.
+The capacities obtained at these electrodes are nonetheless higher
+than Zn-ion capacitors using an activated carbon cathode and Zn anode.<sup><xref ref-type="bibr" rid="ref42">42</xref>,<xref ref-type="bibr" rid="ref43">43</xref></sup></p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>(A)
+Charge&#x02013;discharge curve obtained using coin cells constructed
+from the AC&#x02013;ZnCl<sub>2</sub>Br<sub>2</sub>I<sub>2</sub> positive
+electrode and the Zn foil negative electrode at gravimetric currents
+indicated. In each case, the voltage range was between 0.1 and 2.15
+V vs Zn/Zn<sup>2+</sup>and the gel electrolyte was WiTS. (B) Specific
+capacity vs gravimetric current using positive electrodes indicated.
+(C) Gravimetric capacitance vs gravimetric current using AC&#x02013;ZnCl<sub>2</sub>Br<sub>2</sub>I<sub>2</sub> and bare AC positive electrodes.
+(D) CVs recorded at bare AC and AC&#x02013;ZnCl<sub>2</sub>Br<sub>2</sub>I<sub>2</sub> cathodes using the Zn anode at 3.0 mV s<sup>&#x02013;1</sup> in the WiTS gel electrolyte.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am0c20622_0005" id="gr4" position="float"/></fig><p>The AC composite cathode made from the combination between ZnCl<sub>2</sub>, ZnBr<sub>2</sub>, and ZnI<sub>2</sub> with the equimolar
+ratio of the halides achieved specific capacities twice that of individual
+ZnX<sub>2</sub> at all current densities studied (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>B). The improved capacity in
+the Zn|AC&#x02013;ZnCl<sub>2</sub>Br<sub>2</sub>I<sub>2</sub> cell
+relative to pure Zn|ZnX<sub>2</sub> could be due to a denser adsorption
+of halide ions on the carbon microstructure. The enhancement in performance
+of the mixed halide cathode is possibly due to the reduction of Coulombic
+repulsion of the adsorbed halides and an electrocatalytic effect.
+It has been shown that the intercalation/adsorption density of halogen
+on a carbon surface is approximately twice as large as Li&#x02013;GIC.
+This is because the oxidation state of the halogen is close to zero,
+which reduces the average effective charge per halogen atom. This
+minimizes the Coulombic repulsion and, in turn, increases the adsorption
+density of halogen on the carbon pore.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> Furthermore, the Coulombic repulsion is expected to be further reduced
+within the carbon microstructure host when the three-halide species
+(Cl<sup>&#x02013;</sup>, Br<sup>&#x02013;</sup>, and I<sup>&#x02013;</sup>) are adsorbed next to one another. The low Coulombic repulsion in
+the AC&#x02013;ZnCl<sub>2</sub>Br<sub>2</sub>I<sub>2</sub> electrode
+over individual AC&#x02013;ZnX<sub>2</sub> can enhance the packing
+density of halogens on the carbon surface. Indeed, Yang et al. also
+observed that the performance of individual LiBr&#x02013;carbon or
+LiCl&#x02013;carbon cathodes is inferior to the binary combination
+of the LiClBr&#x02013;carbon cathode.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup></p><p>The halide ion conversion&#x02013;adsorption reaction is an electrocatalytic
+process where the reaction is greatly affected by the surface composition
+of the electrode.<sup><xref ref-type="bibr" rid="ref44">44</xref>,<xref ref-type="bibr" rid="ref45">45</xref></sup> CVs were used to see if this
+electrocatalytic effect is in play, and <xref rid="fig4" ref-type="fig">Figures <xref rid="fig4" ref-type="fig">4</xref></xref>D and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c20622/suppl_file/am0c20622_si_001.pdf">S6A</ext-link> show
+the CVs recorded for each electrode. At the AC&#x02013;ZnCl<sub>2</sub>Br<sub>2</sub>I<sub>2</sub>, a sharp oxidation peak at 1.18 V due
+to the conversion and adsorption of iodide species was seen along
+with a corresponding reduction peak at 1.06 V due to the reduction
+and recombination of iodide with Zn. Electrochemical data also suggest
+that the I<sup>&#x02013;</sup>/I<sub>2</sub> redox reaction is a surface-controlled
+process at the AC electrode as both <italic>i</italic><sub>p,a</sub> and <italic>i</italic><sub>p,c</sub> are proportional to the scan
+rate (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c20622/suppl_file/am0c20622_si_001.pdf">Figure S6C</ext-link>). The &#x00394;<italic>E</italic><sub>P</sub> for the I<sup>&#x02013;</sup>/I<sub>2</sub> redox couple
+at AC&#x02013;ZnCl<sub>2</sub>Br<sub>2</sub>I<sub>2</sub> was 0.12
+V in contrast to over 1.0 V at AC&#x02013;ZnI<sub>2</sub>. This demonstrates
+that the I<sup>&#x02013;</sup>/I<sub>2</sub> redox reaction is kinetically
+much faster for the AC&#x02013;ZnCl<sub>2</sub>Br<sub>2</sub>I<sub>2</sub> case than the AC&#x02013;ZnI<sub>2</sub> system. Similarly,
+the &#x00394;<italic>E</italic><sub>P</sub> for the Br<sup>&#x02013;</sup>/Br<sub>2</sub> redox couple decreased from 0.65 V at AC&#x02013;ZnBr<sub>2</sub> to 0.1 V at AC&#x02013;ZnCl<sub>2</sub>Br<sub>2</sub>I<sub>2</sub>, which confirms the electrocatalytic effect of the ternary
+halide mixture over the individual halides. In other words, the preadsorption
+of iodine, due to its low redox potential, on the AC surface improved
+the kinetics of bromine adsorption, which in turn improves the kinetics
+of chlorine adsorption similar to an electrodeposition process. <italic>Ex situ</italic> XPS was used to gauge the surface composition of
+fully charged Zn|AC&#x02013;ZnCl<sub>2</sub>Br<sub>2</sub>I<sub>2</sub> cell as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c20622/suppl_file/am0c20622_si_001.pdf">Figure S7</ext-link>. XPS shows
+the presence of Cl<sup>&#x02013;</sup>, Br<sup>&#x02013;</sup>, and
+I<sup>&#x02013;</sup> for the sample that was analyzed at OCP. However,
+the XPS signal due to all of the three-halogen species disappeared
+for the fully charged sample. This indicates that the halide ions
+are fully oxidized to molecular halogen and coadsorbed to the AC pore,
+which can sublime under the ultrahigh vacuum of the XPS. Nevertheless,
+the presence of preadsorbed halogen on the AC surface was confirmed
+using <italic>in situ</italic> Raman spectroscopy using AC&#x02013;ZnI<sub>2</sub> as an example electrode. As shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c20622/suppl_file/am0c20622_si_001.pdf">Figure S8</ext-link>, the fully charged electrode displayed bands associated
+with surface-bound I<sub>2</sub> species as well as the typical defective
+(<italic>D</italic>) and G-band of AC. The SEM images of the AC&#x02013;ZnCl<sub>2</sub>B<sub>2</sub>rI<sub>2</sub> electrode at OCP and after full
+charging are also presented in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c20622/suppl_file/am0c20622_si_001.pdf">Figure S9</ext-link>. The images after charging showed a pore swelling with significant
+size expansion due to the adsorption of halogens. Each of the expanded
+pores contained several smaller holes. The small pores could be created
+by the evaporation of the adsorbed halogen under the SEM-operating
+vacuum that leaves holes behind.</p><p>The specific capacity of Zn|AC&#x02013;ZnCl<sub>2</sub>Br<sub>2</sub>I<sub>2</sub> is 479 mAh g<sup>&#x02013;1</sup> at 0.05 A g<sup>&#x02013;1</sup>, which decreased to 230 mAh g<sup>&#x02013;1</sup> at 1.0 A g<sup>&#x02013;1</sup>. The gravimetric capacitances
+of Zn|AC&#x02013;ZnCl<sub>2</sub>Br<sub>2</sub>I<sub>2</sub> ranged
+from 400 to 930 F g<sup>&#x02013;1</sup> depending on the applied current
+density (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>C).
+This figure also
+demonstrates the importance of the Zn halides to the cathode chemistry,
+proving that the cathodic process involved the immobilized Zn halides.
+Based on the mass of the cathode (mass of activated carbon plus mass
+of ZnX<sub>2</sub>), the energy densities of 422 and 160 Wh kg<sup>&#x02013;1</sup> at power densities of 122.8 and 1071.7 W kg<sup>&#x02013;1</sup> were obtained. These values are higher than the energy density of
+all other cathode materials reported to date for ZIBs including MnO<sub>2</sub>,<sup><xref ref-type="bibr" rid="ref46">46</xref>,<xref ref-type="bibr" rid="ref47">47</xref></sup> V<sub>2</sub>O<sub>5</sub>,<sup><xref ref-type="bibr" rid="ref12">12</xref>,<xref ref-type="bibr" rid="ref48">48</xref></sup> Zn<sub>3</sub>V<sub>2</sub>O<sub>7</sub>&#x000b7;2H<sub>2</sub>O,<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> Zn<sub>0.25</sub>V<sub>2</sub>O<sub>5</sub>&#x000b7;<italic>n</italic>H<sub>2</sub>O,<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> CuHCF,<sup><xref ref-type="bibr" rid="ref50">50</xref></sup> and VS<sub>2</sub> nanosheets.<sup><xref ref-type="bibr" rid="ref51">51</xref></sup> The cell energy density ranged between 55 Wh kg<sup>&#x02013;1</sup> (at 1.0 A g<sup>&#x02013;1</sup>) and 140 Wh kg<sup>&#x02013;1</sup> (at 0.05 A g<sup>&#x02013;1</sup>), assuming that the weight of the
+cathode material within a pouch cell configuration is a third of the
+total mass of the cell.<sup><xref ref-type="bibr" rid="ref46">46</xref></sup> These values
+are much higher than those of typical commercial supercapacitors (5&#x02013;10
+Wh kg<sup>&#x02013;1</sup>), lead-acid batteries (30&#x02013;40 Wh kg<sup>&#x02013;1</sup>), and Zn-ion capacitors (17&#x02013;30 Wh kg<sup>&#x02013;1</sup>).<sup><xref ref-type="bibr" rid="ref52">52</xref>&#x02212;<xref ref-type="bibr" rid="ref56">56</xref></sup> The energy density of the Zn|AC&#x02013;ZnCl<sub>2</sub>Br<sub>2</sub>I<sub>2</sub> cell is even higher than a Li-ion capacitor, where
+the energy density varies between 30 and 90 Wh kg<sup>&#x02013;1</sup>.<sup><xref ref-type="bibr" rid="ref57">57</xref></sup> Li-ion capacitors often use intercalation-type
+anodes and adsorption-type cathodes (adsorption of large complex anions
+([PF<sub>6</sub>]<sup>&#x02212;</sup>, [TFSI]<sup>&#x02212;</sup>, [BF<sub>4</sub>]<sup>&#x02212;</sup>, etc.)), where their overall energy density
+is limited by the capacitor-type electrode.<sup><xref ref-type="bibr" rid="ref57">57</xref></sup> The advantages of using halide ion conversion&#x02013;adsorption
+within carbon cathodes are (i) they are smaller than most organic
+anions so that the migration/diffusion of ions is faster, (ii) they
+are inside the carbon structure so that they do not have to diffuse
+to the surface from bulk electrolyte, and (iii) they undergo reversible
+fast redox reactions, which substantially provide an extra charge,
+unlike inert anions.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> The combination of
+these factors is responsible for the high performance of the Zn|AC&#x02013;ZnCl<sub>2</sub>Br<sub>2</sub>I<sub>2</sub> cell. The cell also truly combines
+the characteristic high energy density of a battery with the high
+power density of a supercapacitor device. For example, this cell can
+be fully charged within a few minutes (6 min) at high power and can
+be discharged for over 5 h at lower rates (see <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>A).</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>(A) Zn|AC&#x02013;ZnCl<sub>2</sub>Br<sub>2</sub>I<sub>2</sub> coin
+cells charged at 1.0 A g<sup>&#x02013;1</sup> (left-hand vertical axis)
+and discharged at 0.05 A g<sup>&#x02013;1</sup> (right-hand vertical
+axis) using the WiTS gel electrolyte and (B) capacity retention and
+Coulombic efficiency of the Zn|AC&#x02013;ZnCl<sub>2</sub>Br<sub>2</sub>I<sub>2</sub> cell cycled at 0.75 A g<sup>&#x02013;1</sup> using the
+WiTS gel electrolyte.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am0c20622_0006" id="gr5" position="float"/></fig><p>The Zn|AC&#x02013;ZnCl<sub>2</sub>Br<sub>2</sub>I<sub>2</sub> cell
+also exhibited excellent cyclic stability when the cell was cycled
+at 0.75 A g<sup>&#x02013;1</sup>. The cell capacity retention is 95%
+after 500 cycles with 99% Coulombic efficiency throughout the cycles
+(<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>B). Although
+the capacity initially decreased by 10%, a subsequent increase in
+capacity was observed after 250 cycles and the ohmic drop of the cell
+decreased with increasing cycling (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c20622/suppl_file/am0c20622_si_001.pdf">Figure S10</ext-link>). The increase in capacity could be due to the gradual activation
+of the electrode, which increases the number of active electrochemical
+sites for ion adsorption. Finally, the WiTS gel electrolyte performance
+was tested using a traditional &#x003b1;-MnO<sub>2</sub> cathode and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c20622/suppl_file/am0c20622_si_001.pdf">Figure S11</ext-link> shows the charge&#x02013;discharge
+curve obtained for a Zn|&#x003b1;-MnO<sub>2</sub> cell. The gel electrolyte
+exhibited a Coulombic efficiency of over 99% with specific capacities
+that were increased from 162 to 210 mAh g<sup>&#x02013;1</sup> after
+50 cycles. This indicates that the WiTS gel electrolyte is as efficient
+as traditional aqueous electrolytes (such as 1 M ZnSO<sub>4</sub>),
+but with additional advantages such as the absence of parasitic water
+reduction reactions, elimination of the need for a separator, and
+other advantages that semisolid state devices provide, e.g., flexibility.
+The combination between the WiTS gel electrolyte and ZnX<sub>2</sub>&#x02013;carbon composite cathode in conjunction with aqueous gel
+electrolytes offers the tantalizing possibility of solving the issues
+of poor ZIB performance. This study also provided the very first fundamental
+understanding of halogen conversion chemistry inside crystalline and
+amorphous carbon.</p></sec></sec><sec id="sec3"><label>3</label><title>Conclusions</title><p>A Zn-conducting
+water-in-trisalt gel electrolyte and halogen-incorporating
+cathode have been successfully developed and used in Zn-based electrochemical
+energy storage for the first time. The benefits of using confined
+halogen within the carbon structure as a cathode are (i) elimination
+of the irreversible binding of Zn<sup>2+</sup> to the host structure
+within the cathode chemistry, (ii) the provision of substantial extra
+charge through their conversion&#x02013;intercalation/adsorption process,
+and (iii) obviating the need for ions to diffuse to the surface from
+bulk electrolyte as they are already inside the carbon structure.
+The most significant findings emerging from this study are that the
+identity of the Zn halide and carbon structure in the cathode composite
+produces electrochemical energy storage devices that are fundamentally
+different from each other (battery vs supercapacitor). The use of
+graphite in the composite electrode produced batterylike behavior,
+where the voltage plateau was related to the standard potential of
+the halogen species. <italic>In situ</italic> Raman spectroelectrochemistry
+revealed that the identity of halides determines the mechanism of
+charge storage, intercalation vs electrosorption. In contrast, when
+activated carbon was used in the composite, the cell acted as a hybrid
+Zn-ion capacitor due to the fast reversible halogen species electrosorption/desorption
+in the carbon pores. In this case, the overall capacity is related
+to the number (binary or ternary) of Zn halides present; and the Zn|(activated
+carbon&#x02013;ZnCl<sub>2</sub>Br<sub>2</sub>I<sub>2</sub>) cell exhibited
+a high specific capacity and energy density as well as good cycling
+stability. The combination of the Zn|(activated carbon&#x02013;ZnCl<sub>2</sub>Br<sub>2</sub>I<sub>2</sub>) cell with the WiTS gel electrolyte
+is promising for the development of high-performing, low-cost, and
+environmentally friendly energy storage device based on Zn. Future
+work should focus on the microstructural design of carbon pores to
+match the size of halogens as well as investigating other carbon structures
+such as heteroatom-doped carbon or high surface area hard carbon materials.</p></sec><sec id="sec4"><label>4</label><title>Experimental Methods</title><sec id="sec4.1"><label>4.1</label><title>Materials and Apparatus</title><p>All chemicals
+are of analytical grade and obtained from Sigma-Aldrich, Fluorochem
+or Alfa Aesar and used as received. X-ray photoelectron spectroscopy
+(XPS) was performed using a Kratos Axis Ultra DLD spectrometer with
+a monochromated Al K&#x003b1; X-ray source (<italic>E</italic> = 1486.6
+eV, 10 mA emission). Scanning electron microscope (SEM) analysis was
+carried out using a FEI Quanta 650 FEG environmental SEM. Powder X-ray
+diffraction analysis was performed using a Philips X&#x02019;pert PRO
+diffractometer with Cu K&#x003b1; radiation (&#x003bb; = 0.154 nm) and
+operating at 40 kV and 30 mA.</p></sec><sec id="sec4.2"><label>4.2</label><title>WiTS
+Gel Electrolyte Preparation</title><p>Two grams of ZnSO<sub>4</sub>&#x000b7;7H<sub>2</sub>O (99.99%, Sigma-Aldrich),
+2 g of zinc trifluoromethanesulfonate (98%, Fluorochem), and 4 g of
+lithium bis(trifluoromethanesulfonyl)imide (99%, Fluorochem) were
+mixed together with 1.5 g of ultrapure water (Milli-Q, 18 M&#x003a9;
+cm resistivity) in a mortar and pestle until a uniform white paste
+formed. Subsequently, 1.3 g (10% of total salt) of a 60% PTFE suspension
+was added and mixed with a mortar and pestle. The mixture was then
+heated at 80 &#x000b0;C on a hot plate for 30 min to remove any excess
+water. A semisolid elastic gel was formed, which can be changed into
+any desired shape (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A).</p></sec><sec id="sec4.3"><label>4.3</label><title>Electrode Preparation</title><p>For the preparation
+of the carbon&#x02013;ZnX<sub>2</sub> cathode, first the desired amount
+of ZnX<sub>2</sub> (anhydrous ZnCl<sub>2</sub>, ZnBr<sub>2</sub>,
+ZnI<sub>2</sub>, or mixture of two or more halides) was dissolved
+in 0.5 g of water followed by slow addition of natural graphite (&#x02212;325
+mesh, 99.8%, Sigma-Aldrich) or activated carbon (YEC-8B, Fuzhou Yihuan
+Carbon Co., Ltd) while mixing homogeneously with a mortar and pestle.
+The mass ratio between ZnX<sub>2</sub> and carbon was 1:3. PTFE suspension
+(5% with respect to the mass of carbon) was added to the thick slurry
+and mixed to uniformly coat the mixture with the polymer binder. The
+excess water was removed by heating the mixture on a hot plate. The
+resulting carbon&#x02013;ZnX<sub>2</sub> clay was quite flexible and
+could be made as a free-standing film or rolled onto a prepunched
+(15 mm diameter) titanium (99.99%, Alfa Aeser) foil current collector.
+The composite electrode was dried in a vacuum oven at 80 &#x000b0;C overnight.
+The typical mass loading of the carbon&#x02013;ZnX<sub>2</sub> composite
+electrode ranged from 2 to 5 mg cm<sup>&#x02013;2</sup>.</p></sec><sec id="sec4.4"><label>4.4</label><title>Battery Assembly and Electrochemical Measurements</title><p>The
+full cells were assembled in CR2032-type coin cells using carbon&#x02013;ZnX<sub>2</sub> as the cathode and Zn foil as the anode. The flexible gel
+electrolyte was spread onto the Zn foil with an approximate thickness
+of 0.5&#x02013;1.0 mm and acted as both the electrolyte and separator.
+The coin cell was sealed using a hydraulic crimping machine (MSK-160D)
+in an ambient atmosphere. Three-electrode cell electrochemical measurements
+were conducted using a WiTS gel electrolyte that was rolled onto a
+microscopy glass slide for electrode connection. A glassy carbon working
+electrode, Pt wire counter electrode, and Zn metal reference electrode
+were used. Electrochemical measurements were performed using an Autolab
+potentiostat (model PGSTAT302N, Metrohm Autolab, The Netherlands).
+The charge&#x02013;discharge battery tests were carried out using a
+Basytec Cell Test System (BaSyTecGmbH, Asselfingen, Germany) with
+32 independent test channels. The average capacity of three different
+coin cells was used to report capacity/capacitance.</p></sec><sec id="sec4.5"><label>4.5</label><title><italic>In Situ</italic> Raman Spectroscopy
+Measurement</title><p>Raman spectra were obtained using a Renishaw
+inVia microscope with a 532 nm excitation laser operated at a power
+of 0.274 mW with a grating of 1800 lines/mm and 50&#x000d7; objective.
+The <italic>in situ</italic> Raman cell was obtained from ECC-Opto-Std
+(EL-Cell GmbH, Hamburg, Germany) and the cell was comprised of a free-standing
+carbon&#x02013;ZnX<sub>2</sub> positive electrode and a Zn foil negative
+electrode with a WiTS gel electrolyte. A titanium foil that contained
+a small hole in its middle (diameter ca. 1 mm) was used as a current
+collector for the positive electrode. The exciting laser beam was
+shone through a thin glass window onto the rear of the free-standing
+carbon&#x02013;ZnX<sub>2</sub> film through the small hole in the center
+of the Ti foil. Spectral scans were collected in a backscattering
+configuration. The Raman measurements were collected at various voltages
+as the cell charged and discharged at 1 mV s<sup>&#x02013;1</sup>.</p></sec></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>The
+Supporting Information
+is available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsami.0c20622?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsami.0c20622</ext-link>.<list id="silist" list-type="simple"><list-item><p>Cyclic voltammograms and
+galvanostatic charge&#x02013;discharge
+curves of various electrodes, XPS, Raman spectroscopy and SEM of charged
+electrodes, and AC electrochemical impedance spectroscopy of water-in-salt
+gel electrolyte (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c20622/suppl_file/am0c20622_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am0c20622_si_001.pdf"><caption><p>am0c20622_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="NOTES-d7e1937-autogenerated"><p>The authors declare the
+following competing financial interest(s): A patent application on
+a Zn-halogen secondary battery has been filed by the University of
+Manchester.</p></notes><ack><title>Acknowledgments</title><p>The authors would like to thank EPSRC (Grant
+ref EP/R023034/1
+and EP/T01816X/1) for funding.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Pan</surname><given-names>H. L.</given-names></name>; <name><surname>Shao</surname><given-names>Y. Y.</given-names></name>; <name><surname>Yan</surname><given-names>P. F.</given-names></name>; <name><surname>Cheng</surname><given-names>Y. W.</given-names></name>; <name><surname>Han</surname><given-names>K. S.</given-names></name>; <name><surname>Nie</surname><given-names>Z. M.</given-names></name>; <name><surname>Wang</surname><given-names>C. M.</given-names></name>; <name><surname>Yang</surname><given-names>J. H.</given-names></name>; <name><surname>Li</surname><given-names>X. L.</given-names></name>; <name><surname>Bhattacharya</surname><given-names>P.</given-names></name>; <name><surname>Mueller</surname><given-names>K. T.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>
+<article-title>Reversible Aqueous
+Zinc/Manganese Oxide Energy Storage from Conversion Reactions</article-title>. <source>Nat. Energy</source>
+<year>2016</year>, <volume>1</volume>, <elocation-id>16039</elocation-id><pub-id pub-id-type="doi">10.1038/nenergy.2016.39</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Song</surname><given-names>M.</given-names></name>; <name><surname>Tan</surname><given-names>H.</given-names></name>; <name><surname>Chao</surname><given-names>D. L.</given-names></name>; <name><surname>Fan</surname><given-names>H. J.</given-names></name>
+<article-title>Recent Advances in Zn-Ion Batteries</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2018</year>, <volume>28</volume>, <elocation-id>1802564</elocation-id><pub-id pub-id-type="doi">10.1002/adfm.201802564</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Luo</surname><given-names>J. Y.</given-names></name>; <name><surname>Cui</surname><given-names>W. J.</given-names></name>; <name><surname>He</surname><given-names>P.</given-names></name>; <name><surname>Xia</surname><given-names>Y. Y.</given-names></name>
+<article-title>Raising the Cycling
+Stability of Aqueous Lithium-Ion Batteries by Eliminating Oxygen in
+the Electrolyte</article-title>. <source>Nat. Chem</source>
+<year>2010</year>, <volume>2</volume>, <fpage>760</fpage>&#x02013;<lpage>765</lpage>. <pub-id pub-id-type="doi">10.1038/nchem.763</pub-id>.<pub-id pub-id-type="pmid">20729897</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Yesibolati</surname><given-names>N.</given-names></name>; <name><surname>Umirov</surname><given-names>N.</given-names></name>; <name><surname>Koishybay</surname><given-names>A.</given-names></name>; <name><surname>Omarova</surname><given-names>M.</given-names></name>; <name><surname>Kurmanbayeva</surname><given-names>I.</given-names></name>; <name><surname>Zhang</surname><given-names>Y. G.</given-names></name>; <name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Bakenov</surname><given-names>Z.</given-names></name>
+<article-title>High Performance Zn/Lifepo4
+Aqueous Rechargeable Battery for Large Scale Applications</article-title>. <source>Electrochim. Acta</source>
+<year>2015</year>, <volume>152</volume>, <fpage>505</fpage>&#x02013;<lpage>511</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2014.11.168</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Suo</surname><given-names>L. M.</given-names></name>; <name><surname>Borodin</surname><given-names>O.</given-names></name>; <name><surname>Gao</surname><given-names>T.</given-names></name>; <name><surname>Olguin</surname><given-names>M.</given-names></name>; <name><surname>Ho</surname><given-names>J.</given-names></name>; <name><surname>Fan</surname><given-names>X. L.</given-names></name>; <name><surname>Luo</surname><given-names>C.</given-names></name>; <name><surname>Wang</surname><given-names>C. S.</given-names></name>; <name><surname>Xu</surname><given-names>K.</given-names></name>
+<article-title>&#x02033;Water-in-Salt&#x02033;
+Electrolyte Enables High-Voltage Aqueous Lithium-Ion Chemistries</article-title>. <source>Science</source>
+<year>2015</year>, <volume>350</volume>, <fpage>938</fpage>&#x02013;<lpage>943</lpage>. <pub-id pub-id-type="doi">10.1126/science.aab1595</pub-id>.<pub-id pub-id-type="pmid">26586759</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Yang</surname><given-names>C. Y.</given-names></name>; <name><surname>Chen</surname><given-names>J.</given-names></name>; <name><surname>Ji</surname><given-names>X.</given-names></name>; <name><surname>Pollard</surname><given-names>T. P.</given-names></name>; <name><surname>Lu</surname><given-names>X. J.</given-names></name>; <name><surname>Sun</surname><given-names>C. J.</given-names></name>; <name><surname>Hou</surname><given-names>S.</given-names></name>; <name><surname>Liu</surname><given-names>Q.</given-names></name>; <name><surname>Liu</surname><given-names>C. M.</given-names></name>; <name><surname>Qing</surname><given-names>T. T.</given-names></name>; <name><surname>Wang</surname><given-names>Y. Q.</given-names></name>; <name><surname>Borodin</surname><given-names>O.</given-names></name>; <name><surname>Ren</surname><given-names>Y.</given-names></name>; <name><surname>Xu</surname><given-names>K.</given-names></name>; <name><surname>Wang</surname><given-names>C. S.</given-names></name>
+<article-title>Aqueous Li-Ion Battery Enabled by
+Halogen Conversion-Intercalation
+Chemistry in Graphite</article-title>. <source>Nature</source>
+<year>2019</year>, <volume>569</volume>, <fpage>245</fpage>&#x02013;<lpage>250</lpage>. <pub-id pub-id-type="doi">10.1038/s41586-019-1175-6</pub-id>.<pub-id pub-id-type="pmid">31068723</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Wang</surname><given-names>F.</given-names></name>; <name><surname>Borodin</surname><given-names>O.</given-names></name>; <name><surname>Gao</surname><given-names>T.</given-names></name>; <name><surname>Fan</surname><given-names>X. L.</given-names></name>; <name><surname>Sun</surname><given-names>W.</given-names></name>; <name><surname>Han</surname><given-names>F. D.</given-names></name>; <name><surname>Faraone</surname><given-names>A.</given-names></name>; <name><surname>Dura</surname><given-names>J. A.</given-names></name>; <name><surname>Xu</surname><given-names>K.</given-names></name>; <name><surname>Wang</surname><given-names>C. S.</given-names></name>
+<article-title>Highly Reversible
+Zinc Metal Anode for Aqueous Batteries</article-title>. <source>Nat.
+Mater.</source>
+<year>2018</year>, <volume>17</volume>, <fpage>543</fpage>&#x02013;<lpage>549</lpage>. <pub-id pub-id-type="doi">10.1038/s41563-018-0063-z</pub-id>.<pub-id pub-id-type="pmid">29662160</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Parker</surname><given-names>J. F.</given-names></name>; <name><surname>Chervin</surname><given-names>C. N.</given-names></name>; <name><surname>Nelson</surname><given-names>E. S.</given-names></name>; <name><surname>Rolison</surname><given-names>D. R.</given-names></name>; <name><surname>Long</surname><given-names>J. W.</given-names></name>
+<article-title>Wiring
+Zinc in Three Dimensions Re-Writes Battery Performance-Dendrite-Free
+Cycling</article-title>. <source>Energy Environ. Sci.</source>
+<year>2014</year>, <volume>7</volume>, <fpage>1117</fpage>&#x02013;<lpage>1124</lpage>. <pub-id pub-id-type="doi">10.1039/C3EE43754J</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Deng</surname><given-names>Y. P.</given-names></name>; <name><surname>Liang</surname><given-names>R. L.</given-names></name>; <name><surname>Jiang</surname><given-names>G. P.</given-names></name>; <name><surname>Jiang</surname><given-names>Y.</given-names></name>; <name><surname>Yu</surname><given-names>A. P.</given-names></name>; <name><surname>Chen</surname><given-names>Z. W.</given-names></name>
+<article-title>The Current State of Aqueous Zn-Based Rechargeable
+Batteries</article-title>. <source>ACS Energy Lett</source>
+<year>2020</year>, <volume>5</volume>, <fpage>1665</fpage>&#x02013;<lpage>1675</lpage>. <pub-id pub-id-type="doi">10.1021/acsenergylett.0c00502</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Chen</surname><given-names>Z.</given-names></name>; <name><surname>Tang</surname><given-names>Y.</given-names></name>; <name><surname>Du</surname><given-names>X. F.</given-names></name>; <name><surname>Chen</surname><given-names>B. B.</given-names></name>; <name><surname>Lu</surname><given-names>G. L.</given-names></name>; <name><surname>Han</surname><given-names>X. Q.</given-names></name>; <name><surname>Zhang</surname><given-names>Y. J.</given-names></name>; <name><surname>Yang</surname><given-names>W. H.</given-names></name>; <name><surname>Han</surname><given-names>P. X.</given-names></name>; <name><surname>Zhao</surname><given-names>J. W.</given-names></name>; <name><surname>Cui</surname><given-names>G. L.</given-names></name>
+<article-title>Anion Solvation
+Reconfiguration Enables
+High-Voltage Carbonate Electrolytes for Stable Zn/Graphite Cells</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2020</year>, <volume>59</volume>, <fpage>21769</fpage>&#x02013;<lpage>21777</lpage>. <pub-id pub-id-type="doi">10.1002/anie.202010423</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Kundu</surname><given-names>D.</given-names></name>; <name><surname>Adams</surname><given-names>B. D.</given-names></name>; <name><surname>Duffort</surname><given-names>V.</given-names></name>; <name><surname>Vajargah</surname><given-names>S. H.</given-names></name>; <name><surname>Nazar</surname><given-names>L. F.</given-names></name>
+<article-title>A High-Capacity
+and Long-Life Aqueous Rechargeable Zinc Battery Using a Metal Oxide
+Intercalation Cathode</article-title>. <source>Nat. Energy</source>
+<year>2016</year>, <volume>1</volume>, <elocation-id>16119</elocation-id><pub-id pub-id-type="doi">10.1038/nenergy.2016.119</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Wang</surname><given-names>L. L.</given-names></name>; <name><surname>Huang</surname><given-names>K. W.</given-names></name>; <name><surname>Chen</surname><given-names>J. T.</given-names></name>; <name><surname>Zheng</surname><given-names>J. R.</given-names></name>
+<article-title>Ultralong
+Cycle
+Stability of Aqueous Zinc-Ion Batteries with Zinc Vanadium Oxide Cathodes</article-title>. <source>Sci. Adv.</source>
+<year>2019</year>, <volume>5</volume>, <elocation-id>eaax4279</elocation-id><pub-id pub-id-type="doi">10.1126/sciadv.aax4279</pub-id>.<pub-id pub-id-type="pmid">32047853</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Zhang</surname><given-names>L. Y.</given-names></name>; <name><surname>Chen</surname><given-names>L.</given-names></name>; <name><surname>Zhou</surname><given-names>X. F.</given-names></name>; <name><surname>Liu</surname><given-names>Z. P.</given-names></name>
+<article-title>Towards High-Voltage
+Aqueous Metal-Ion Batteries Beyond 1.5 V: The Zinc/Zinc Hexacyanoferrate
+System</article-title>. <source>Adv. Energy Mater.</source>
+<year>2015</year>, <volume>5</volume>, <elocation-id>1400930</elocation-id><pub-id pub-id-type="doi">10.1002/aenm.201400930</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Gupta</surname><given-names>T.</given-names></name>; <name><surname>Kim</surname><given-names>A.</given-names></name>; <name><surname>Phadke</surname><given-names>S.</given-names></name>; <name><surname>Biswas</surname><given-names>S.</given-names></name>; <name><surname>Luong</surname><given-names>T.</given-names></name>; <name><surname>Hertzberg</surname><given-names>B. J.</given-names></name>; <name><surname>Chamoun</surname><given-names>M.</given-names></name>; <name><surname>Evans-Lutterodt</surname><given-names>K.</given-names></name>; <name><surname>Steingart</surname><given-names>D. A.</given-names></name>
+<article-title>Improving
+the Cycle Life of a High-Rate, High-Potential Aqueous Dual Ion Battery
+Using Hyper-Dendritic Zinc and Copper Hexacyanoferrate</article-title>. <source>J. Power Sources</source>
+<year>2016</year>, <volume>305</volume>, <fpage>22</fpage>&#x02013;<lpage>29</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2015.11.065</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Yuan</surname><given-names>C. L.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Pan</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>X. W.</given-names></name>; <name><surname>Wang</surname><given-names>G. L.</given-names></name>; <name><surname>Cao</surname><given-names>D. X.</given-names></name>
+<article-title>Investigation of
+the Intercalation of Polyvalent Cations
+(Mg2+, Zn2+) into Lambda-Mno2 for Rechargeable Aqueous Battery</article-title>. <source>Electrochim. Acta</source>
+<year>2014</year>, <volume>116</volume>, <fpage>404</fpage>&#x02013;<lpage>412</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2013.11.090</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Lee</surname><given-names>B.</given-names></name>; <name><surname>Lee</surname><given-names>H. R.</given-names></name>; <name><surname>Kim</surname><given-names>H.</given-names></name>; <name><surname>Chung</surname><given-names>K. Y.</given-names></name>; <name><surname>Cho</surname><given-names>B. W.</given-names></name>; <name><surname>Oh</surname><given-names>S. H.</given-names></name>
+<article-title>Elucidating the
+Intercalation Mechanism of Zinc Ions into Alpha-Mno2
+for Rechargeable Zinc Batteries</article-title>. <source>Chem. Commun.</source>
+<year>2015</year>, <volume>51</volume>, <fpage>9265</fpage>&#x02013;<lpage>9268</lpage>. <pub-id pub-id-type="doi">10.1039/C5CC02585K</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Xu</surname><given-names>C. J.</given-names></name>; <name><surname>Li</surname><given-names>B. H.</given-names></name>; <name><surname>Du</surname><given-names>H. D.</given-names></name>; <name><surname>Kang</surname><given-names>F. Y.</given-names></name>
+<article-title>Energetic Zinc Ion
+Chemistry: The Rechargeable Zinc Ion Battery</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2012</year>, <volume>51</volume>, <fpage>933</fpage>&#x02013;<lpage>935</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201106307</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Alfaruqi</surname><given-names>M. H.</given-names></name>; <name><surname>Mathew</surname><given-names>V.</given-names></name>; <name><surname>Gim</surname><given-names>J.</given-names></name>; <name><surname>Kim</surname><given-names>S.</given-names></name>; <name><surname>Song</surname><given-names>J.</given-names></name>; <name><surname>Baboo</surname><given-names>J. P.</given-names></name>; <name><surname>Choi</surname><given-names>S. H.</given-names></name>; <name><surname>Kim</surname><given-names>J.</given-names></name>
+<article-title>Electrochemically
+Induced
+Structural Transformation in a Gamma-Mno2 Cathode of a High Capacity
+Zinc-Ion Battery System</article-title>. <source>Chem. Mater.</source>
+<year>2015</year>, <volume>27</volume>, <fpage>3609</fpage>&#x02013;<lpage>3620</lpage>. <pub-id pub-id-type="doi">10.1021/cm504717p</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Lai</surname><given-names>Q. Z.</given-names></name>; <name><surname>Zhang</surname><given-names>H. M.</given-names></name>; <name><surname>Li</surname><given-names>X. F.</given-names></name>; <name><surname>Zhang</surname><given-names>L. Q.</given-names></name>; <name><surname>Cheng</surname><given-names>Y. H.</given-names></name>
+<article-title>A Novel
+Single Flow Zinc-Bromine Battery with Improved Energy Density</article-title>. <source>J. Power Sources</source>
+<year>2013</year>, <volume>235</volume>, <fpage>1</fpage>&#x02013;<lpage>4</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2013.01.193</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="book" id="cit20"><person-group person-group-type="allauthors"><name><surname>Atkins</surname><given-names>P. W.</given-names></name>; <name><surname>Paula</surname><given-names>J. D.</given-names></name></person-group><source>Physical Chemistry</source>, <edition>9</edition>th ed.; <publisher-name>Oxford University Press</publisher-name>: <publisher-loc>New York</publisher-loc>, <year>2010</year>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Nguyen-Trung</surname><given-names>C.</given-names></name>; <name><surname>Bryan</surname><given-names>J. C.</given-names></name>; <name><surname>Palmer</surname><given-names>D. A.</given-names></name>
+<article-title>Crystal Structure and Thermogravimetric
+Analysis of Hexaaquazinc Triflate</article-title>. <source>Struct. Chem.</source>
+<year>2004</year>, <volume>15</volume>, <fpage>89</fpage>&#x02013;<lpage>94</lpage>. <pub-id pub-id-type="doi">10.1023/B:STUC.0000011243.10406.8b</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Moezzi</surname><given-names>A.</given-names></name>; <name><surname>Cortie</surname><given-names>M. B.</given-names></name>; <name><surname>McDonagh</surname><given-names>A. M.</given-names></name>
+<article-title>Zinc Hydroxide
+Sulphate and Its Transformation
+to Crystalline Zinc Oxide</article-title>. <source>Dalton Trans.</source>
+<year>2013</year>, <volume>42</volume>, <fpage>14432</fpage>&#x02013;<lpage>14437</lpage>. <pub-id pub-id-type="doi">10.1039/c3dt51638e</pub-id>.<pub-id pub-id-type="pmid">23963063</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Baek</surname><given-names>B.</given-names></name>; <name><surname>Lee</surname><given-names>S.</given-names></name>; <name><surname>Jung</surname><given-names>C.</given-names></name>
+<article-title>Pyrrolidinium Cation-Based Ionic Liquids with Different
+Functional Groups: Butyl, Butyronitrile, Pentenyl, and Methyl Butyrate</article-title>. <source>Int. J. Electrochem. Sci.</source>
+<year>2011</year>, <volume>6</volume>, <fpage>6220</fpage>&#x02013;<lpage>6234</lpage>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Guo</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>Z.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Luo</surname><given-names>N.</given-names></name>; <name><surname>Chai</surname><given-names>G.-L.</given-names></name>; <name><surname>Miller</surname><given-names>T. S.</given-names></name>; <name><surname>Lai</surname><given-names>F.</given-names></name>; <name><surname>Shearing</surname><given-names>P.</given-names></name>; <name><surname>Brett</surname><given-names>D. J. L.</given-names></name>; <name><surname>Han</surname><given-names>D.</given-names></name>; <name><surname>Weng</surname><given-names>Z.</given-names></name>; <name><surname>He</surname><given-names>G.</given-names></name>; <name><surname>Parkin</surname><given-names>I. P.</given-names></name>
+<article-title>Alleviation
+of Dendrite Formation on Zinc Anodes Via Electrolyte Additives</article-title>. <source>ACS Energy Lett.</source>
+<year>2021</year>, <fpage>395</fpage>&#x02013;<lpage>403</lpage>. <pub-id pub-id-type="doi">10.1021/acsenergylett.0c02371</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Zhao</surname><given-names>Z.</given-names></name>; <name><surname>Zhao</surname><given-names>J.</given-names></name>; <name><surname>Hu</surname><given-names>Z.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Cui</surname><given-names>G.</given-names></name>
+<article-title>Long-Life
+and Deeply
+Rechargeable Aqueous Zn Anodes Enabled by a Multifunctional Brightener-Inspired
+Interphase</article-title>. <source>Energy Environ. Sci.</source>
+<year>2019</year>, <volume>12</volume>, <fpage>1938</fpage>&#x02013;<lpage>1949</lpage>. <pub-id pub-id-type="doi">10.1039/C9EE00596J</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Qiu</surname><given-names>H. Y.</given-names></name>; <name><surname>Du</surname><given-names>X. F.</given-names></name>; <name><surname>Zhao</surname><given-names>J. W.</given-names></name>; <name><surname>Wang</surname><given-names>Y. T.</given-names></name>; <name><surname>Ju</surname><given-names>J. W.</given-names></name>; <name><surname>Chen</surname><given-names>Z.</given-names></name>; <name><surname>Hu</surname><given-names>Z. L.</given-names></name>; <name><surname>Yan</surname><given-names>D. P.</given-names></name>; <name><surname>Zhou</surname><given-names>X. H.</given-names></name>; <name><surname>Cui</surname><given-names>G. L.</given-names></name>
+<article-title>Zinc Anode-Compatible in situ Solid Electrolyte Interphase
+Via Cation Solvation Modulation</article-title>. <source>Nat. Commun.</source>
+<year>2019</year>, <volume>10</volume>, <elocation-id>5374</elocation-id><pub-id pub-id-type="doi">10.1038/s41467-019-13436-3</pub-id>.<pub-id pub-id-type="pmid">31772177</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Xu</surname><given-names>M.</given-names></name>; <name><surname>Ivey</surname><given-names>D. G.</given-names></name>; <name><surname>Qu</surname><given-names>W.</given-names></name>; <name><surname>Xie</surname><given-names>Z.</given-names></name>; <name><surname>Dy</surname><given-names>E.</given-names></name>; <name><surname>Yuan</surname><given-names>X. Z.</given-names></name>
+<article-title>Zn/Zn(Ii) Redox Kinetics and Zn Deposit
+Morphology
+in Water Added Ionic Liquids with Bis(Trifluoromethanesulfonyl)Imide
+Anions</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2014</year>, <volume>161</volume>, <fpage>A128</fpage>&#x02013;<lpage>A136</lpage>. <pub-id pub-id-type="doi">10.1149/2.058401jes</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Zhang</surname><given-names>Q.</given-names></name>; <name><surname>Luan</surname><given-names>J. Y.</given-names></name>; <name><surname>Fu</surname><given-names>L.</given-names></name>; <name><surname>Wu</surname><given-names>S. G.</given-names></name>; <name><surname>Tang</surname><given-names>Y. G.</given-names></name>; <name><surname>Ji</surname><given-names>X. B.</given-names></name>; <name><surname>Wang</surname><given-names>H. Y.</given-names></name>
+<article-title>The Three-Dimensional Dendrite-Free
+Zinc Anode on a Copper Mesh with a Zinc-Oriented Polyacrylamide Electrolyte
+Additive</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2019</year>, <volume>58</volume>, <fpage>15841</fpage>&#x02013;<lpage>15847</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201907830</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Gaier</surname><given-names>J. R.</given-names></name>; <name><surname>Ditmars</surname><given-names>N. F.</given-names></name>; <name><surname>Dillon</surname><given-names>A. R.</given-names></name>
+<article-title>Aqueous Electrochemical
+Intercalation
+of Bromine into Graphite Fibers</article-title>. <source>Carbon</source>
+<year>2005</year>, <volume>43</volume>, <fpage>189</fpage>&#x02013;<lpage>193</lpage>. <pub-id pub-id-type="doi">10.1016/j.carbon.2004.09.005</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Axdal</surname><given-names>S. H. A.</given-names></name>; <name><surname>Chung</surname><given-names>D. D. L.</given-names></name>
+<article-title>Kinetics and
+Thermodynamics of Intercalation of Bromine
+in Graphite. 1. Experimental</article-title>. <source>Carbon</source>
+<year>1987</year>, <volume>25</volume>, <fpage>191</fpage>&#x02013;<lpage>210</lpage>. <pub-id pub-id-type="doi">10.1016/0008-6223(87)90117-5</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Lowe</surname><given-names>E. R.</given-names></name>; <name><surname>Banks</surname><given-names>C. E.</given-names></name>; <name><surname>Compton</surname><given-names>R. G.</given-names></name>
+<article-title>Edge Plane
+Pyrolytic Graphite Electrodes
+for Halide Detection in Aqueous Solutions</article-title>. <source>Electroanalysis</source>
+<year>2005</year>, <volume>17</volume>, <fpage>1627</fpage>&#x02013;<lpage>1634</lpage>. <pub-id pub-id-type="doi">10.1002/elan.200503267</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Behrens</surname><given-names>P.</given-names></name>; <name><surname>Beuthien</surname><given-names>H.</given-names></name>; <name><surname>Eickhoff</surname><given-names>H. P.</given-names></name>; <name><surname>Metz</surname><given-names>W.</given-names></name>; <name><surname>Niemann</surname><given-names>W.</given-names></name>
+<article-title>Structural
+Investigations of the Graphite-Intercalation Compounds of the Dichlorides
+of the Ii<sub>b</sub>-Elements (Zn. Cd, Hg)</article-title>. <source>Synth. Met.</source>
+<year>1988</year>, <volume>23</volume>, <fpage>95</fpage>&#x02013;<lpage>100</lpage>. <pub-id pub-id-type="doi">10.1016/0379-6779(88)90467-5</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Beltran</surname><given-names>J. J.</given-names></name>; <name><surname>Barrero</surname><given-names>C. A.</given-names></name>; <name><surname>Punnoose</surname><given-names>A.</given-names></name>
+<article-title>Relationship
+between Ferromagnetism
+and Formation of Complex Carbon Bonds in Carbon Doped Zno Powders</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2019</year>, <volume>21</volume>, <fpage>8808</fpage>&#x02013;<lpage>8819</lpage>. <pub-id pub-id-type="doi">10.1039/C9CP01277J</pub-id>.<pub-id pub-id-type="pmid">30968907</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Rubim</surname><given-names>J. C.</given-names></name>; <name><surname>Sala</surname><given-names>O.</given-names></name>
+<article-title>Raman-Spectra of Chemisorbed
+Bromine and Iodine on Zeolites</article-title>. <source>J. Raman Spectrosc.</source>
+<year>1980</year>, <volume>9</volume>, <fpage>155</fpage>&#x02013;<lpage>156</lpage>. <pub-id pub-id-type="doi">10.1002/jrs.1250090305</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Jung</surname><given-names>N.</given-names></name>; <name><surname>Crowther</surname><given-names>A. C.</given-names></name>; <name><surname>Kim</surname><given-names>N.</given-names></name>; <name><surname>Kim</surname><given-names>P.</given-names></name>; <name><surname>Brus</surname><given-names>L.</given-names></name>
+<article-title>Raman Enhancement
+on Graphene: Adsorbed and Intercalated Molecular Species</article-title>. <source>ACS Nano</source>
+<year>2010</year>, <volume>4</volume>, <fpage>7005</fpage>&#x02013;<lpage>7013</lpage>. <pub-id pub-id-type="doi">10.1021/nn102227u</pub-id>.<pub-id pub-id-type="pmid">20945922</pub-id></mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Hung</surname><given-names>C. C.</given-names></name>; <name><surname>Kucera</surname><given-names>D.</given-names></name>
+<article-title>Graphite-Intercalation
+Compound with Iodine as the
+Major Intercalate.</article-title>. <source>Carbon</source>
+<year>1994</year>, <volume>32</volume>, <fpage>1441</fpage>&#x02013;<lpage>1448</lpage>. <pub-id pub-id-type="doi">10.1016/0008-6223(94)90138-4</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Lu</surname><given-names>K.</given-names></name>; <name><surname>Hu</surname><given-names>Z. Y.</given-names></name>; <name><surname>Ma</surname><given-names>J. Z.</given-names></name>; <name><surname>Ma</surname><given-names>H. Y.</given-names></name>; <name><surname>Dai</surname><given-names>L. M.</given-names></name>; <name><surname>Zhang</surname><given-names>J. T.</given-names></name>
+<article-title>A Rechargeable Iodine-Carbon Battery That Exploits
+Ion Intercalation and Iodine Redox Chemistry</article-title>. <source>Nat. Commun.</source>
+<year>2017</year>, <volume>8</volume>, <elocation-id>527</elocation-id><pub-id pub-id-type="doi">10.1038/s41467-017-00649-7</pub-id>.<pub-id pub-id-type="pmid">28904375</pub-id></mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Erbil</surname><given-names>A.</given-names></name>; <name><surname>Dresselhaus</surname><given-names>G.</given-names></name>; <name><surname>Dresselhaus</surname><given-names>M. S.</given-names></name>
+<article-title>Raman-Scattering as a Probe of Structural
+Phase-Transitions in the Intercalated Graphite-Bromine System</article-title>. <source>Phys. Rev. B</source>
+<year>1982</year>, <volume>25</volume>, <fpage>5451</fpage>&#x02013;<lpage>5460</lpage>. <pub-id pub-id-type="doi">10.1103/PhysRevB.25.5451</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Ejigu</surname><given-names>A.</given-names></name>; <name><surname>Le Fevre</surname><given-names>L. W.</given-names></name>; <name><surname>Fujisawa</surname><given-names>K.</given-names></name>; <name><surname>Terrones</surname><given-names>M.</given-names></name>; <name><surname>Forsyth</surname><given-names>A. J.</given-names></name>; <name><surname>Dryfe</surname><given-names>R. A. W.</given-names></name>
+<article-title>Electrochemically
+Exfoliated Graphene Electrode for
+High-Performance Rechargeable Chloroaluminate and Dual-Ion Batteries</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2019</year>, <volume>11</volume>, <fpage>23261</fpage>&#x02013;<lpage>23270</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.9b06528</pub-id>.<pub-id pub-id-type="pmid">31252480</pub-id></mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Ding</surname><given-names>J.</given-names></name>; <name><surname>Hu</surname><given-names>W. B.</given-names></name>; <name><surname>Paek</surname><given-names>E.</given-names></name>; <name><surname>Mitlin</surname><given-names>D.</given-names></name>
+<article-title>Review of Hybrid Ion
+Capacitors: From Aqueous to Lithium to Sodium</article-title>. <source>Chem. Rev.</source>
+<year>2018</year>, <volume>118</volume>, <fpage>6457</fpage>&#x02013;<lpage>6498</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemrev.8b00116</pub-id>.<pub-id pub-id-type="pmid">29953230</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Stammreich</surname><given-names>H.</given-names></name>; <name><surname>Forneris</surname><given-names>R.</given-names></name>; <name><surname>Tavares</surname><given-names>Y.</given-names></name>
+<article-title>High-Resolution
+Raman Spectroscopy
+in the Red and near Infrared. 2. Vibrational Frequencies and Molecular
+Interactions of Halogens and Diatomic Interhalogens</article-title>. <source>Spectrochim. Acta</source>
+<year>1961</year>, <volume>17</volume>, <fpage>1173</fpage>&#x02013;<lpage>1184</lpage>. <pub-id pub-id-type="doi">10.1016/0371-1951(61)80165-3</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Dong</surname><given-names>L. B.</given-names></name>; <name><surname>Ma</surname><given-names>X. P.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Zhao</surname><given-names>L.</given-names></name>; <name><surname>Liu</surname><given-names>W. B.</given-names></name>; <name><surname>Cheng</surname><given-names>J. Y.</given-names></name>; <name><surname>Xu</surname><given-names>C. J.</given-names></name>; <name><surname>Li</surname><given-names>B. H.</given-names></name>; <name><surname>Yang</surname><given-names>Q. H.</given-names></name>; <name><surname>Kang</surname><given-names>F. Y.</given-names></name>
+<article-title>Extremely Safe, High-Rate and Ultralong-Life Zinc-Ion
+Hybrid Supercapacitors</article-title>. <source>Energy Storage Mater</source>
+<year>2018</year>, <volume>13</volume>, <fpage>96</fpage>&#x02013;<lpage>102</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2018.01.003</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Chen</surname><given-names>S. M.</given-names></name>; <name><surname>Ma</surname><given-names>L. T.</given-names></name>; <name><surname>Zhang</surname><given-names>K.</given-names></name>; <name><surname>Kamruzzaman</surname><given-names>M.</given-names></name>; <name><surname>Zhi</surname><given-names>C. Y.</given-names></name>; <name><surname>Zapien</surname><given-names>J. A.</given-names></name>
+<article-title>A Flexible Solid-State
+Zinc Ion Hybrid
+Supercapacitor Based on Co-Polymer Derived Hollow Carbon Spheres</article-title>. <source>J. Mater. Chem. A.</source>
+<year>2019</year>, <volume>7</volume>, <fpage>7784</fpage>&#x02013;<lpage>7790</lpage>. <pub-id pub-id-type="doi">10.1039/C9TA00733D</pub-id>.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Liu</surname><given-names>A. H.</given-names></name>; <name><surname>Xu</surname><given-names>L. A.</given-names></name>; <name><surname>Li</surname><given-names>T.</given-names></name>; <name><surname>Dong</surname><given-names>S. J.</given-names></name>; <name><surname>Wang</surname><given-names>E. K.</given-names></name>
+<article-title>Electrocatalytic
+Oxidation and Ion-Chromatographic Detection of Br-, I-, So32-, S2o32-
+and Scn- at a Platinum Particle-Based Glassy-Carbon Modified Electrode</article-title>. <source>J. Chromatogr. A</source>
+<year>1995</year>, <volume>699</volume>, <fpage>39</fpage>&#x02013;<lpage>47</lpage>. <pub-id pub-id-type="doi">10.1016/0021-9673(95)00032-I</pub-id>.</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Wang</surname><given-names>M. K.</given-names></name>; <name><surname>Anghel</surname><given-names>A. M.</given-names></name>; <name><surname>Marsan</surname><given-names>B.</given-names></name>; <name><surname>Ha</surname><given-names>N. L. C.</given-names></name>; <name><surname>Pootrakulchote</surname><given-names>N.</given-names></name>; <name><surname>Zakeeruddin</surname><given-names>S. M.</given-names></name>; <name><surname>Gr&#x000e4;tzel</surname><given-names>M.</given-names></name>
+<article-title>Cos Supersedes Pt as Efficient Electrocatalyst
+for Triiodide Reduction in Dye-Sensitized Solar Cells</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2009</year>, <volume>131</volume>, <fpage>15976</fpage>&#x02013;<lpage>15977</lpage>. <pub-id pub-id-type="doi">10.1021/ja905970y</pub-id>.<pub-id pub-id-type="pmid">19845335</pub-id></mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Zhang</surname><given-names>N.</given-names></name>; <name><surname>Cheng</surname><given-names>F. Y.</given-names></name>; <name><surname>Liu</surname><given-names>Y. C.</given-names></name>; <name><surname>Zhao</surname><given-names>Q.</given-names></name>; <name><surname>Lei</surname><given-names>K. X.</given-names></name>; <name><surname>Chen</surname><given-names>C. C.</given-names></name>; <name><surname>Liu</surname><given-names>X. S.</given-names></name>; <name><surname>Chen</surname><given-names>J.</given-names></name>
+<article-title>Cation-Deficient Spinel
+Znmn2o4 Cathode in Zn(Cf3so3)(2) Electrolyte for Rechargeable Aqueous
+Zn-Ion Battery</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2016</year>, <volume>138</volume>, <fpage>12894</fpage>&#x02013;<lpage>12901</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.6b05958</pub-id>.<pub-id pub-id-type="pmid">27627103</pub-id></mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Zhang</surname><given-names>N.</given-names></name>; <name><surname>Cheng</surname><given-names>F. Y.</given-names></name>; <name><surname>Liu</surname><given-names>J. X.</given-names></name>; <name><surname>Wang</surname><given-names>L. B.</given-names></name>; <name><surname>Long</surname><given-names>X. H.</given-names></name>; <name><surname>Liu</surname><given-names>X. S.</given-names></name>; <name><surname>Li</surname><given-names>F. J.</given-names></name>; <name><surname>Chen</surname><given-names>J.</given-names></name>
+<article-title>Rechargeable
+Aqueous
+Zinc-Manganese Dioxide Batteries with High Energy and Power Densities</article-title>. <source>Nat. Commun.</source>
+<year>2017</year>, <volume>8</volume>, <elocation-id>405</elocation-id><pub-id pub-id-type="doi">10.1038/s41467-017-00467-x</pub-id>.<pub-id pub-id-type="pmid">28864823</pub-id></mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Yan</surname><given-names>M. Y.</given-names></name>; <name><surname>He</surname><given-names>P.</given-names></name>; <name><surname>Chen</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>S. Y.</given-names></name>; <name><surname>Wei</surname><given-names>Q. L.</given-names></name>; <name><surname>Zhao</surname><given-names>K. N.</given-names></name>; <name><surname>Xu</surname><given-names>X.</given-names></name>; <name><surname>An</surname><given-names>Q. Y.</given-names></name>; <name><surname>Shuang</surname><given-names>Y.</given-names></name>; <name><surname>Shao</surname><given-names>Y. Y.</given-names></name>; <name><surname>Mueller</surname><given-names>K. T.</given-names></name>; <name><surname>Mai</surname><given-names>L. Q.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Yang</surname><given-names>J. H.</given-names></name>
+<article-title>Water-Lubricated
+Intercalation in V2o5 Center Dot Nh(2)O for High-Capacity and High-Rate
+Aqueous Rechargeable Zinc Batteries.</article-title>. <source>Adv. Mater.</source>
+<year>2018</year>, <volume>30</volume>, <elocation-id>1703725</elocation-id><pub-id pub-id-type="doi">10.1002/adma.201703725</pub-id>.</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Xia</surname><given-names>C.</given-names></name>; <name><surname>Guo</surname><given-names>J.</given-names></name>; <name><surname>Lei</surname><given-names>Y. J.</given-names></name>; <name><surname>Liang</surname><given-names>H. F.</given-names></name>; <name><surname>Zhao</surname><given-names>C.</given-names></name>; <name><surname>Alshareef</surname><given-names>H. N.</given-names></name>
+<article-title>Rechargeable
+Aqueous Zinc-Ion Battery Based on Porous Framework Zinc Pyrovanadate
+Intercalation Cathode</article-title>. <source>Adv. Mater.</source>
+<year>2018</year>, <volume>30</volume>, <elocation-id>1705580</elocation-id><pub-id pub-id-type="doi">10.1002/adma.201705580</pub-id>.</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Tr&#x000f3;coli</surname><given-names>R.</given-names></name>; <name><surname>La Mantia</surname><given-names>F.</given-names></name>
+<article-title>An Aqueous Zinc-Ion Battery Based on Copper Hexacyanoferrate</article-title>. <source>ChemSusChem</source>
+<year>2015</year>, <volume>8</volume>, <fpage>481</fpage>&#x02013;<lpage>485</lpage>. <pub-id pub-id-type="doi">10.1002/cssc.201403143</pub-id>.<pub-id pub-id-type="pmid">25510850</pub-id></mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>He</surname><given-names>P.</given-names></name>; <name><surname>Yan</surname><given-names>M. Y.</given-names></name>; <name><surname>Zhang</surname><given-names>G. B.</given-names></name>; <name><surname>Sun</surname><given-names>R. M.</given-names></name>; <name><surname>Chen</surname><given-names>L. N.</given-names></name>; <name><surname>An</surname><given-names>Q. Y.</given-names></name>; <name><surname>Mai</surname><given-names>L. Q.</given-names></name>
+<article-title>Layered
+Vs2 Nanosheet-Based Aqueous
+Zn Ion Battery Cathode</article-title>. <source>Adv. Energy Mater.</source>
+<year>2017</year>, <volume>7</volume>, <elocation-id>1601920</elocation-id><pub-id pub-id-type="doi">10.1002/aenm.201601920</pub-id>.</mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Huang</surname><given-names>Q.</given-names></name>; <name><surname>Zheng</surname><given-names>Z.</given-names></name>; <name><surname>Hiralal</surname><given-names>P.</given-names></name>; <name><surname>Zheng</surname><given-names>F.</given-names></name>; <name><surname>Ozgit</surname><given-names>D.</given-names></name>; <name><surname>Su</surname><given-names>S.</given-names></name>; <name><surname>Chen</surname><given-names>S.</given-names></name>; <name><surname>Tan</surname><given-names>P.-H.</given-names></name>; <name><surname>Zhang</surname><given-names>S.</given-names></name>; <name><surname>Zhou</surname><given-names>H.</given-names></name>
+<article-title>Flexible High
+Energy Density Zinc-Ion
+Batteries Enabled by Binder-Free Mno2/Reduced Graphene Oxide Electrode</article-title>. <source>npj Flexible Electron.</source>
+<year>2018</year>, <volume>2</volume>, <elocation-id>21</elocation-id><pub-id pub-id-type="doi">10.1038/s41528-018-0034-0</pub-id>.</mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Wu</surname><given-names>S. L.</given-names></name>; <name><surname>Chen</surname><given-names>Y. T.</given-names></name>; <name><surname>Jiao</surname><given-names>T. P.</given-names></name>; <name><surname>Zhou</surname><given-names>J.</given-names></name>; <name><surname>Cheng</surname><given-names>J. Y.</given-names></name>; <name><surname>Liu</surname><given-names>B.</given-names></name>; <name><surname>Yang</surname><given-names>S. R.</given-names></name>; <name><surname>Zhang</surname><given-names>K. L.</given-names></name>; <name><surname>Zhang</surname><given-names>W. J.</given-names></name>
+<article-title>An Aqueous Zn-Ion
+Hybrid Supercapacitor with High Energy Density and Ultrastability
+up to 80 000 Cycles</article-title>. <source>Adv. Energy Mater.</source>
+<year>2019</year>, <volume>9</volume>, <elocation-id>1902915</elocation-id><pub-id pub-id-type="doi">10.1002/aenm.201902915</pub-id>.</mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Zhang</surname><given-names>H. Z.</given-names></name>; <name><surname>Liu</surname><given-names>Q. Y.</given-names></name>; <name><surname>Fang</surname><given-names>Y. B.</given-names></name>; <name><surname>Teng</surname><given-names>C. L.</given-names></name>; <name><surname>Liu</surname><given-names>X. Q.</given-names></name>; <name><surname>Fang</surname><given-names>P. P.</given-names></name>; <name><surname>Tong</surname><given-names>Y. X.</given-names></name>; <name><surname>Lu</surname><given-names>X. H.</given-names></name>
+<article-title>Boosting
+Zn-Ion
+Energy Storage Capability of Hierarchically Porous Carbon by Promoting
+Chemical Adsorption</article-title>. <source>Adv. Mater.</source>
+<year>2019</year>, <volume>31</volume>, <elocation-id>1904948</elocation-id><pub-id pub-id-type="doi">10.1002/adma.201904948</pub-id>.</mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name><surname>He</surname><given-names>L.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>C. Y.</given-names></name>; <name><surname>Yang</surname><given-names>D. Z.</given-names></name>; <name><surname>Wang</surname><given-names>W. G.</given-names></name>; <name><surname>Yan</surname><given-names>W. Q.</given-names></name>; <name><surname>Zhou</surname><given-names>W. B.</given-names></name>; <name><surname>Wu</surname><given-names>Z. X.</given-names></name>; <name><surname>Wang</surname><given-names>L. L.</given-names></name>; <name><surname>Huang</surname><given-names>Q. H.</given-names></name>; <name><surname>Zhu</surname><given-names>Y. S.</given-names></name>; <name><surname>Chen</surname><given-names>Y. H.</given-names></name>; <name><surname>Fu</surname><given-names>L. J.</given-names></name>; <name><surname>Hou</surname><given-names>X. H.</given-names></name>; <name><surname>Wu</surname><given-names>Y. P.</given-names></name>
+<article-title>A Low-Cost Zn-Based Aqueous Supercapacitor with High Energy Density</article-title>. <source>ACS Appl. Energy Mater.</source>
+<year>2019</year>, <volume>2</volume>, <fpage>5835</fpage>&#x02013;<lpage>5842</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.9b00981</pub-id>.</mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Wang</surname><given-names>M.</given-names></name>; <name><surname>Tang</surname><given-names>Y. B.</given-names></name>
+<article-title>A Novel Zinc-Ion Hybrid Supercapacitor
+for Long-Life and Low-Cost Energy Storage Applications</article-title>. <source>Energy Storage Mater.</source>
+<year>2018</year>, <volume>13</volume>, <fpage>1</fpage>&#x02013;<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2017.12.022</pub-id>.</mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name><surname>Wang</surname><given-names>X. J.</given-names></name>; <name><surname>Liu</surname><given-names>L. L.</given-names></name>; <name><surname>Niu</surname><given-names>Z. Q.</given-names></name>
+<article-title>Carbon-Based
+Materials for Lithium-Ion
+Capacitors</article-title>. <source>Mater. Chem. Front.</source>
+<year>2019</year>, <volume>3</volume>, <fpage>1265</fpage>&#x02013;<lpage>1279</lpage>. <pub-id pub-id-type="doi">10.1039/C9QM00062C</pub-id>.</mixed-citation></ref></ref-list></back></article>

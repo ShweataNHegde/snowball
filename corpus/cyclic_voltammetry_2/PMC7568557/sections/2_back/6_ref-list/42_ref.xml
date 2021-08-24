@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR42">
+ <label>42.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sun</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Chan</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Ceder</surname>
+    <given-names>G</given-names>
+   </name>
+  </person-group>
+  <article-title>First-principles electronic structure and relative stability of pyrite and marcasite: Implications for photovoltaic performance</article-title>
+  <source>Phy. Rev. B</source>
+  <year>2011</year>
+  <volume>83</volume>
+  <fpage>235311</fpage>
+  <pub-id pub-id-type="doi">10.1103/PhysRevB.83.235311</pub-id>
+ </element-citation>
+</ref>

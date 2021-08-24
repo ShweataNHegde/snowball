@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We also attempted to explore the effects of the second heat treatment in the catalyst preparation on the catalytic activity by comparing the ORR activities of the samples before and after the second heat treatment. As shown in 
+ <xref rid="fig6" ref-type="fig">Figure 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref>b, the sample subjected to the second heat treatment (M
+ <sup>+</sup>S
+ <sup>+</sup>C900-900) exhibited dramatically improved activity in both kinetic-controlled and mass transport-controlled potential regions. The onset potential shifted from +0.91 V for M
+ <sup>+</sup>S
+ <sup>+</sup>C900 to +0.98 V for M
+ <sup>+</sup>S
+ <sup>+</sup>C900-900, and the limiting current density also increased significantly. We would like to point out that the sample without the second heat treatment was acid-washed; therefore, the observed difference was from the second heat treatment alone. It has been shown by others that a second heat treatment could remove oxygen-containing functional groups and corrosive carbon species from the material surface and improve the degree of graphitization, thereby further enhancing the ORR activity.
+ <sup>
+  <xref ref-type="bibr" rid="ref72">72</xref>,
+  <xref ref-type="bibr" rid="ref73">73</xref>
+ </sup> The increased degree of graphitization can increase the electric conductivity of the catalyst and therefore improve the catalytic activity.
+ <sup>
+  <xref ref-type="bibr" rid="ref10">10</xref>,
+  <xref ref-type="bibr" rid="ref72">72</xref>,
+  <xref ref-type="bibr" rid="ref74">74</xref>
+ </sup> The electrochemical impedance spectroscopy (EIS) results in 
+ <xref rid="fig6" ref-type="fig">Figure 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref>c show that the serial resistance (
+ <italic>R</italic>
+ <sub>s</sub>) of M
+ <sup>+</sup>S
+ <sup>+</sup>C900-900 (47.6 Ω) is lower than that of M
+ <sup>+</sup>S
+ <sup>+</sup>C900 (62.9 Ω), indicating the conductivity of the catalysts improved after the second heat treatment. We also varied the temperature of the first heat treatment from 800 to 1000 °C but kept the second heat treatment at 900 °C (
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c02673/suppl_file/ao0c02673_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S6</ext-link>). Interestingly, the ORR onset potentials for these samples are largely the same, unlike those in 
+ <xref rid="fig6" ref-type="fig">Figure 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref>a where the onset potentials for the samples prepared at 800 and 1000 °C are significantly more negative than the one prepared at 900 °C, suggesting that the second heat treatment at 900 °C is critical for obtaining the high ORR activity. It has been postulated that the second heat treatment may repair the disrupted active sites.
+ <sup>
+  <xref ref-type="bibr" rid="ref71">71</xref>,
+  <xref ref-type="bibr" rid="ref73">73</xref>
+ </sup> We speculate that the lower temperature is unable to repair the disrupted active sites, and the higher temperature may destroy the Fe–N active sites. Detailed surface characterizations are needed to further digest these results.
+</p>

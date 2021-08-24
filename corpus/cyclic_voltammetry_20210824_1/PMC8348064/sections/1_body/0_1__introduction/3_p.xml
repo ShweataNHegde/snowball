@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Of particular interest, the most studied systems feature lithium-ion batteries [
+ <xref rid="B5-materials-14-04177" ref-type="bibr">5</xref>,
+ <xref rid="B6-materials-14-04177" ref-type="bibr">6</xref>]. Despite the high energy densities possible with these storage systems, safety remains an issue in security-critical applications as highlighted by incidents such as the Boeing 787 battery fires in 2013, Samsung Note 7 explosions in 2016, and Tesla Model S combustions in 2019 [
+ <xref rid="B7-materials-14-04177" ref-type="bibr">7</xref>]. Additionally, the low abundance of lithium has given rise to the development of alternative cations [
+ <xref rid="B8-materials-14-04177" ref-type="bibr">8</xref>]. Sodium-ion batteries are the closest technology to today’s lithium-ion batteries, but their low specific capacity creates an obstacle for their utilisation [
+ <xref rid="B9-materials-14-04177" ref-type="bibr">9</xref>]. Potassium-ion batteries are a good option, but they are still at the early stages of development [
+ <xref rid="B10-materials-14-04177" ref-type="bibr">10</xref>]. Potassium presents slow diffusion kinetics in solids and yields in lower gravimetric capacities than sodium [
+ <xref rid="B9-materials-14-04177" ref-type="bibr">9</xref>]. On the other hand, magnesium-ion batteries are reactive enough to become deactivated over time due to the strong tendency of magnesium anodes to form passivating surface films. This can be solved through the combination of magnesium with different cathodes to provide good specific capacities, but with a lower voltage compared with lithium-ion batteries (&lt;1.3 V, compared with 3.8 V for Li-ion batteries) [
+ <xref rid="B9-materials-14-04177" ref-type="bibr">9</xref>]. In terms of zinc metal anodes, their performance is hindered by the zinc dendrite formation and side reactions occurring on the anode including the corrosion [
+ <xref rid="B11-materials-14-04177" ref-type="bibr">11</xref>]. Finally, aluminium is the most promising alternative thanks to its three–electron redox reaction. Nevertheless, there are stability issues to consider when using Al [
+ <xref rid="B12-materials-14-04177" ref-type="bibr">12</xref>].
+</p>

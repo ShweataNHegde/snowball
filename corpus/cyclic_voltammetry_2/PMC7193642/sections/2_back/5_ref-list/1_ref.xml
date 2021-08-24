@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Muldoon</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Bucur</surname>
+    <given-names>CB</given-names>
+   </name>
+   <name>
+    <surname>Gregory</surname>
+    <given-names>T</given-names>
+   </name>
+  </person-group>
+  <article-title>Quest for Nonaqueous Multivalent Secondary Batteries: Magnesium and Beyond</article-title>
+  <source>Chem. Rev.</source>
+  <year>2014</year>
+  <volume>114</volume>
+  <fpage>11683</fpage>
+  <lpage>11720</lpage>
+  <pub-id pub-id-type="doi">10.1021/cr500049y</pub-id>
+  <?supplied-pmid 25343313?>
+  <pub-id pub-id-type="pmid">25343313</pub-id>
+ </element-citation>
+</ref>

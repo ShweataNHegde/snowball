@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B12">
+ <label>12</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ledezma-Yanez</surname>
+    <given-names>I.</given-names>
+   </name>
+   <name>
+    <surname>Koper</surname>
+    <given-names>M. T. M.</given-names>
+   </name>
+  </person-group>
+  <article-title>Influence of water on the hydrogen evolution reaction on a gold electrode in acetonitrile solution</article-title>
+  <source>
+   <italic toggle="yes">Journal of Electroanalytical Chemistry</italic>
+  </source>
+  <year>2017</year>
+  <volume>793</volume>
+  <fpage>18</fpage>
+  <lpage>24</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jelechem.2016.08.018</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84994259650</pub-id>
+ </element-citation>
+</ref>

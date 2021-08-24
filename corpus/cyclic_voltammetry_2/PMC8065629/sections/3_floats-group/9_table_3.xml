@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="nanomaterials-11-00907-t003" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">nanomaterials-11-00907-t003_Table 3</object-id>
+ <label>Table 3</label>
+ <caption>
+  <p>Chemical composition of NO, CO and NCO samples deposited on silicon supports based on X-ray photon electron spectra (XPS) data.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Sample</th>
+    <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Sputtering Time, s</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">C</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">O</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Ni</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Co</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Ni + Co-O</th>
+    <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Ni/Co</th>
+   </tr>
+   <tr>
+    <th colspan="5" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">at.%</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">NO</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">90</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.7</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">43.3</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">55.0</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">55.0</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">–</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">NCO-5/1</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">90</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.8</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">43.4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">35.1</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">17.6</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">9.3</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.99</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">NCO-3/1</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">90</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.2</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">42.9</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">23.1</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">30.8</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">10.9</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.75</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">NCO-1/1</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">90</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.5</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">47.1</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">7.5</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">41.9</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.18</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CO</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">45</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3.9</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">45.3</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">50.7</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.3</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">–</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

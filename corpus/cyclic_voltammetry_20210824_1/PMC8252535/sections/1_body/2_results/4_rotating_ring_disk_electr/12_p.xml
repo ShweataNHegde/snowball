@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>with the diffusion‐limited current density 
+ <math id="jats-math-25">
+  <msub>
+   <mi>i</mi>
+   <mi mathvariant="normal">D</mi>
+  </msub>
+ </math> and kinetic current density 
+ <math id="jats-math-26">
+  <msub>
+   <mi>i</mi>
+   <mi mathvariant="normal">K</mi>
+  </msub>
+ </math> . For a given current density 
+ <math id="jats-math-27">
+  <mrow>
+   <mi>i</mi>
+   <mspace width="4pt"/>
+  </mrow>
+ </math> being a fraction 1/
+ <math id="jats-math-28">
+  <mi>x</mi>
+ </math> of the diffusion‐limited current 
+ <math id="jats-math-29">
+  <msub>
+   <mi>i</mi>
+   <mi mathvariant="normal">D</mi>
+  </msub>
+ </math> such as 
+ <math id="jats-math-30">
+  <mi>i</mi>
+ </math> /2 at the half‐wave potential, Equation (1) gives Equation 
+ <xref rid="cssc202100364-disp-0002" ref-type="disp-formula">2</xref>:
+ <disp-formula id="cssc202100364-disp-0002">
+  <label>(2)</label>
+  <math id="jats-math-31">
+   <mstyle displaystyle="true">
+    <mrow>
+     <mfrac>
+      <mi>x</mi>
+      <msub>
+       <mi>i</mi>
+       <mi mathvariant="normal">D</mi>
+      </msub>
+     </mfrac>
+     <mo>=</mo>
+     <mfrac>
+      <mn>1</mn>
+      <msub>
+       <mi>i</mi>
+       <mi mathvariant="normal">D</mi>
+      </msub>
+     </mfrac>
+     <mo>+</mo>
+     <mfrac>
+      <mn>1</mn>
+      <msub>
+       <mi>i</mi>
+       <mi mathvariant="normal">K</mi>
+      </msub>
+     </mfrac>
+    </mrow>
+   </mstyle>
+  </math>
+ </disp-formula>
+</p>

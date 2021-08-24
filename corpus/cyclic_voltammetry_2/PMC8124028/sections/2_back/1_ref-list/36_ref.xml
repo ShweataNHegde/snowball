@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR36">
+ <label>36.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>H-F</given-names>
+   </name>
+   <name>
+    <surname>Tang</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>B-Q</given-names>
+   </name>
+   <name>
+    <surname>Cui</surname>
+    <given-names>X</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Defect-rich carbon fiber electrocatalysts with porous graphene skin for flexible solid-state Zinc-air batteries</article-title>
+  <source>Energy Storage Mater.</source>
+  <year>2018</year>
+  <volume>15</volume>
+  <fpage>124</fpage>
+  <lpage>130</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ensm.2018.03.022</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Figure 
+ <xref rid="cssc202100364-fig-0008" ref-type="fig">8</xref> shows a plot of inverse limited ORR current vs inverse square root of rotation frequency taken from Figure 
+ <xref rid="cssc202100364-fig-0007" ref-type="fig">7</xref>d. The plot shows that the ORR at electrodes with 
+ <italic>f</italic>
+ <sub>R</sub>≥53 really is diffusion limited, as the fit deviates very little from a fit going through the origin. Using the dynamic viscosity of DMSO
+ <xref rid="cssc202100364-bib-0037" ref-type="ref">
+  <sup>[37]</sup>
+ </xref> a diffusion coefficient of 2.48×10
+ <sup>−5</sup>cm
+ <sup>2</sup> s
+ <sup>−1</sup> is obtained from the slope. This value is close to those obtained by a non‐electrochemical method for 0.1 
+ <sc>m</sc> solutions of Li
+ <sup>+</sup>, Na
+ <sup>+</sup>, K
+ <sup>+</sup>, Rb
+ <sup>+</sup>, Cs
+ <sup>+</sup> and TBA
+ <sup>+</sup> in DMSO.[
+ <xref rid="cssc202100364-bib-0038" ref-type="ref">
+  <sup>38</sup>
+ </xref>, 
+ <xref rid="cssc202100364-bib-0039" ref-type="ref">
+  <sup>39</sup>
+ </xref>] Here, we used this method, in which the rate of diffusion of a volatile species through a thin, liquid layer between two membranes is determined by mass spectrometric detection for our 0.1 
+ <sc>m</sc> Ca
+ <sup>2+</sup>‐containing DMSO. We obtained 
+ <math id="jats-math-22">
+  <msub>
+   <mi>D</mi>
+   <msub>
+    <mi mathvariant="normal">O</mi>
+    <mn>2</mn>
+   </msub>
+  </msub>
+ </math> =2.18×10
+ <sup>−5</sup>cm
+ <sup>2</sup> s
+ <sup>−1</sup>, which is in good agreement with the value obtained from electrochemical RDE measurements. 
+</p>

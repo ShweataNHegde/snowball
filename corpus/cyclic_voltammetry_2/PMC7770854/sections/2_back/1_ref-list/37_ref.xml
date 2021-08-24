@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR37">
+ <label>37.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kundu</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Adams</surname>
+    <given-names>BD</given-names>
+   </name>
+   <name>
+    <surname>Duffort</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Vajargah</surname>
+    <given-names>SH</given-names>
+   </name>
+   <name>
+    <surname>Nazar</surname>
+    <given-names>LF</given-names>
+   </name>
+  </person-group>
+  <article-title>A high-capacity and long-life aqueous rechargeable zinc battery using a metal oxide intercalation cathode</article-title>
+  <source>Nat. Energy</source>
+  <year>2016</year>
+  <volume>1</volume>
+  <issue>10</issue>
+  <fpage>16119</fpage>
+  <pub-id pub-id-type="doi">10.1038/nenergy.2016.119</pub-id>
+ </element-citation>
+</ref>

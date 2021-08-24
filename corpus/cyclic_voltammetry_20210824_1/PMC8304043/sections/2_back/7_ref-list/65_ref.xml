@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B65-materials-14-03840">
+ <label>65.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cao</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Feng</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Peng</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>Z.</given-names>
+   </name>
+   <name>
+    <surname>Feng</surname>
+    <given-names>W.</given-names>
+   </name>
+  </person-group>
+  <article-title>A solid-state single-ion polymer electrolyte with ultrahigh ionic conductivity for dendrite-free lithium metal batteries</article-title>
+  <source>Energy Storage Mater.</source>
+  <year>2019</year>
+  <volume>19</volume>
+  <fpage>401</fpage>
+  <lpage>407</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ensm.2019.03.004</pub-id>
+ </element-citation>
+</ref>

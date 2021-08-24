@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par20">To evaluate the bifunctionality of the as-prepared materials, their ORR performance was also investigated by a series of electrochemical measurements. Figure 
+ <xref rid="Fig5" ref-type="fig">5</xref>a demonstrates the representative LSV curves recorded by a rotating disk electrode (RDE) at 1600 rpm. As expected, the Co/CoFe@NC displays an impressive onset potential (
+ <italic>E</italic>
+ <sub>onset</sub>) of 0.97 V and a half-wave potential (
+ <italic>E</italic>
+ <sub>1/2</sub>) of 0.84 V, superior to that of Fe-free Co@NC catalyst (
+ <italic>E</italic>
+ <sub>onset</sub> of 0.9 V and 
+ <italic>E</italic>
+ <sub>1/2</sub> of 0.75 V) and even comparable to that of Pt/C (
+ <italic>E</italic>
+ <sub>onset</sub> of 0.98 V and 
+ <italic>E</italic>
+ <sub>1/2</sub> of 0.85 V). In addition, the Co/CoFe@NC exhibits the largest diffusion-limited current density of 6.8 mA cm
+ <sup>−2</sup>, confirming further the beneficial effect of Fe-doping for ORR electrocatalysis. Figure 
+ <xref rid="Fig5" ref-type="fig">5</xref>b shows that the mass-transferred-corrected Tafel slope of Co/CoFe@NC (60 mV dec
+ <sup>−1</sup>) is lower than that of Pt/C (78 mV dec
+ <sup>−1</sup>), indicating its fast ORR kinetic process. Figures 
+ <xref rid="Fig5" ref-type="fig">5</xref>c and S7 reveal that the diffusion current densities increase with increasing the rotation speed from 400 to 2025 rpm, consistent with the accelerated diffusion of oxygen molecules from the electrolyte to the electrode surface [
+ <xref ref-type="bibr" rid="CR37">37</xref>]. Furthermore, the Koutecky–Levich (K-L) plots of Co/CoFe@NC with good linearity and the high coincidence at different potentials (inset of Fig. 
+ <xref rid="Fig5" ref-type="fig">5</xref>c) suggest the first-order reaction kinetics with respect to the concentration of dissolved oxygen [
+ <xref ref-type="bibr" rid="CR38">38</xref>]. The electron transfer number (
+ <italic>n</italic>) derived from K-L plots is 3.8, implying that ORR on the Co/CoFe@NC dominantly follows an efficient four-electron transfer pathway.
+</p>

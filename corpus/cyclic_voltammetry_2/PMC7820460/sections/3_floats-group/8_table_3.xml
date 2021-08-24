@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab3">
+ <label>Table 3</label>
+ <caption>
+  <p>Chemical composition analyzed using high-resolution XPS for series 1A-T.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="4">Sample</th>
+    <th align="left" colspan="10">Binding energy (eV)</th>
+   </tr>
+   <tr>
+    <th align="left">284.6</th>
+    <th align="left">285.0</th>
+    <th align="left">286.4</th>
+    <th align="left">287.7</th>
+    <th align="left">288.6</th>
+    <th align="left">531.6</th>
+    <th align="left">533.2</th>
+    <th align="left">536.0</th>
+    <th align="left">399.1</th>
+    <th align="left">400.8</th>
+   </tr>
+   <tr>
+    <th align="left" colspan="10">Elemental content (at.%)</th>
+   </tr>
+   <tr>
+    <th align="left" colspan="5">C</th>
+    <th align="left" colspan="3">O</th>
+    <th align="left" colspan="2">N</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">1A-10</td>
+    <td align="left">35.7</td>
+    <td align="left">41.3</td>
+    <td align="left">9.3</td>
+    <td align="left">3.0</td>
+    <td align="left">0.9</td>
+    <td align="left">2.7</td>
+    <td align="left">4.5</td>
+    <td align="left">0.2</td>
+    <td align="left">0.9</td>
+    <td align="left">0.8</td>
+   </tr>
+   <tr>
+    <td align="left">1A-30</td>
+    <td align="left">57.6</td>
+    <td align="left">24.0</td>
+    <td align="left">7.9</td>
+    <td align="left">2.9</td>
+    <td align="left">0.0</td>
+    <td align="left">2.5</td>
+    <td align="left">3.5</td>
+    <td align="left">0.1</td>
+    <td align="left">0.7</td>
+    <td align="left">0.2</td>
+   </tr>
+   <tr>
+    <td align="left">1A-60</td>
+    <td align="left">66.5</td>
+    <td align="left">16.0</td>
+    <td align="left">7.9</td>
+    <td align="left">2.6</td>
+    <td align="left">0.0</td>
+    <td align="left">2.4</td>
+    <td align="left">3.2</td>
+    <td align="left">0.1</td>
+    <td align="left">0.5</td>
+    <td align="left">0.3</td>
+   </tr>
+   <tr>
+    <td align="left">1A-90</td>
+    <td align="left">59.9</td>
+    <td align="left">23.5</td>
+    <td align="left">7.1</td>
+    <td align="left">2.7</td>
+    <td align="left">0.0</td>
+    <td align="left">2.4</td>
+    <td align="left">2.9</td>
+    <td align="left">0.3</td>
+    <td align="left">0.4</td>
+    <td align="left">0.2</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B27">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Larcher</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Tarascon</surname>
+    <given-names>J. M.</given-names>
+   </name>
+  </person-group> (
+  <year>2015</year>). 
+  <article-title>Towards greener and more sustainable batteries for electrical energy storage</article-title>. 
+  <source>Nat Chem</source>
+  <volume>7</volume>, 
+  <fpage>19</fpage>–
+  <lpage>29</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/nchem.2085</pub-id>
+  <?supplied-pmid 25515886?>
+  <pub-id pub-id-type="pmid">25515886</pub-id>
+ </mixed-citation>
+</ref>

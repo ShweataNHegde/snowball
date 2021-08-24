@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>It should be pointed out that the initial adatom distribution landscape is not necessarily the ultimate electrodeposition morphology, owing to the contribution from surface mobility of the metal atoms (
+ <xref rid="R75" ref-type="bibr">
+  <italic>75</italic>
+ </xref>). Self-diffusion of the metal is a flux that could alter the deposition landscape. The main driving force of self-diffusion is energy minimization (
+ <xref rid="F3" ref-type="fig">Fig. 3A</xref>). The origin of the energy release is manifold—(i) The possible binding between the metal deposit and a “metal-philic” substrate provides a chemical driving force (
+ <xref rid="R76" ref-type="bibr">
+  <italic>76</italic>
+ </xref>), and (ii) the possible difference between surface tensions acts as a physical driving force. It has been argued in many studies that Mg metal does not form dendrites because of its “vanishing small” surface diffusion barrier 
+ <italic>E</italic>
+ <sub>diff</sub> that gives rise to a very large surface diffusivity 
+ <italic>D</italic>
+ <sub>s</sub> (
+ <xref rid="R77" ref-type="bibr">
+  <italic>77</italic>
+ </xref>). Jäckle 
+ <italic>et al.</italic> (
+ <xref rid="R78" ref-type="bibr">
+  <italic>78</italic>
+ </xref>) performed an ab initio density function theory (DFT) simulation to calculate the diffusion energy barrier of the metals used as metal anodes. According to the DFT calculation, the 
+ <italic>E</italic>
+ <sub>diff</sub> of Zn is comparable with, in some situations smaller than, that of Mg. The authors, however, attributed the observations of Zn dendrites in the literature to the precipitation of a resistive ZnO layer onto the Zn surface. This argument connects to the role played by the SEI that will be discussed in the next section. The effect of self-diffusion can be deconvoluted from the complex electrodeposition process and be critically evaluated using annealing experiments. At an elevated temperature of 378 K, a 10-min annealing will fundamentally change the shape and crystallographic texture of the Zn—Horizontally aligned, (002)-textured Zn crystallites are formed (
+ <xref rid="R79" ref-type="bibr">
+  <italic>79</italic>
+ </xref>). The fast reorientation in annealing is consistent with the high 
+ <italic>D</italic>
+ <sub>s</sub> suggested by the DFT study by Jäckle 
+ <italic>et al.</italic> (
+ <xref rid="R78" ref-type="bibr">
+  <italic>78</italic>
+ </xref>). We note that Zn also has a relatively low melting point 
+ <italic>T</italic>
+ <sub>m</sub> is 693 K, meaning that its homologous temperature 
+ <italic>T</italic>
+ <sub>H</sub> is 0.5 at 347 K (74°C). As an empirical rule, above 0.5 
+ <italic>T</italic>
+ <sub>m</sub>, self-diffusion becomes prominent in metals, giving rise to phenomena such as plastic flow and creep (
+ <xref rid="R80" ref-type="bibr">
+  <italic>80</italic>
+ </xref>). While elevated operation temperatures are less practical for aqueous Zn batteries, strategies such as local self-heating induced by high current cycling (
+ <xref rid="R81" ref-type="bibr">
+  <italic>81</italic>
+ </xref>, 
+ <xref rid="R82" ref-type="bibr">
+  <italic>82</italic>
+ </xref>) might be of interest for Zn.
+</p>

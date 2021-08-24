@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>This behavior is in direct contrast to the electrochemical behavior observed on glassy carbon electrodes (
+ <xref rid="fig5" ref-type="fig">Figure 
+  <xref rid="fig5" ref-type="fig">5</xref>
+ </xref>a). For the glassy carbon, the charge found for zinc deposition (and stripping) 
+ <italic>directly</italic> correlates with the cathodic overpotential.
+ <sup>
+  <xref ref-type="bibr" rid="ref50">50</xref>−
+  <xref ref-type="bibr" rid="ref52">52</xref>
+ </sup> The more negative the switching potential on glassy carbon, the larger the extent of electrolyte decomposition, and thus the more zinc is deposited on the anodic return sweep. In contrast to graphene, glassy carbon electrodes are bulk electrodes in which the overall conductivity is not impeded by a possible defect-induced degradation of conductivity in the top-most atomic layer. The bulk of the electrode underneath can continue to transport sufficient charge for Zn deposition; that is, the overall conductivity of glassy carbon electrodes is hardly affected by defects in the first atomic layer. In contrast, for the truly two-dimensional graphene monolayers, defects in the top-most (and only) layer immediately decrease their overall conductivity. This shows that the two-dimensional nature of graphene has a key effect on its electrode properties in electrochemistry. While the general reaction pathway for zinc deposition upon variation of the cathodic switching potential for graphene and glassy carbon is found to be identical, the two-dimensional nature of graphene results in the two carbon materials showing opposite trends in terms of Zn deposition rate as a function of applied potential. This highlights that graphene can in principle be used to approximate the behavior of other graphitic carbon electrodes; however, graphene’s two-dimensional nature has to be kept in mind when doing so.
+</p>

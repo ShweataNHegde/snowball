@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Aside from mass and specific activities, the Levich plot, which explains the electron transfer mechanism of the reaction, is another essential parameter. The Levich plots computed the number of electrons required for ORR in an alkaline medium in two or four electrons. Data from varied rotation rates are shown in 
+ <xref ref-type="fig" rid="molecules-26-03440-f008">Figure 8</xref> (2500, 2025, 1600 and 1225 rpm). The limiting current (
+ <italic>i
+  <sub>L</sub>
+ </italic>) vs. square root of 
+ <italic>ω</italic> provides straight line with an intercept, which is related to the limiting current at zero rotation rate of the electrode in the Levich-plot. The ORR polarization curves at −0.076 V potential (vs. Hg/HgO/OH
+ <sup>−</sup>) were used to draw the Levich-plots (
+ <xref ref-type="fig" rid="molecules-26-03440-f008">Figure 8</xref>c). The Levich Equation (16) [
+ <xref rid="B37-molecules-26-03440" ref-type="bibr">37</xref>] was used to calculate the number of electrons involved per O
+ <sub>2</sub> molecule reduction. 
+ <disp-formula id="FD10-molecules-26-03440">
+  <label>(16)</label>
+  <math id="mm10">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>i</mi>
+      <mi>L</mi>
+     </msub>
+     <mo>=</mo>
+     <mn>0.62</mn>
+     <mi>n</mi>
+     <mi>F</mi>
+     <msup>
+      <mi>D</mi>
+      <mrow>
+       <mn>3</mn>
+       <mo>/</mo>
+       <mn>2</mn>
+      </mrow>
+     </msup>
+     <msup>
+      <mi>v</mi>
+      <mrow>
+       <mo>−</mo>
+       <mn>1</mn>
+       <mo>/</mo>
+       <mn>6</mn>
+      </mrow>
+     </msup>
+     <msup>
+      <mi>ω</mi>
+      <mrow>
+       <mn>1</mn>
+       <mo>/</mo>
+       <mn>2</mn>
+      </mrow>
+     </msup>
+     <msubsup>
+      <mi>C</mi>
+      <mrow>
+       <mi>O</mi>
+       <mn>2</mn>
+      </mrow>
+      <mn>0</mn>
+     </msubsup>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+ <disp-formula id="FD11-molecules-26-03440">
+  <math id="mm11">
+   <mrow>
+    <mrow>
+     <mo>∴</mo>
+     <mi>B</mi>
+     <mo>=</mo>
+     <mn>0.62</mn>
+     <mi>n</mi>
+     <mi>F</mi>
+     <msup>
+      <mi>D</mi>
+      <mrow>
+       <mn>3</mn>
+       <mo>/</mo>
+       <mn>2</mn>
+      </mrow>
+     </msup>
+     <msup>
+      <mi>v</mi>
+      <mrow>
+       <mo>−</mo>
+       <mn>1</mn>
+       <mo>/</mo>
+       <mn>6</mn>
+      </mrow>
+     </msup>
+     <msubsup>
+      <mi>C</mi>
+      <mrow>
+       <mi>O</mi>
+       <mn>2</mn>
+      </mrow>
+      <mn>0</mn>
+     </msubsup>
+     <mo>.</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+</p>

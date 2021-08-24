@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In contrast to the graphene electrode, glassy carbon in 
+ <xref rid="fig3" ref-type="fig">Figure 
+  <xref rid="fig3" ref-type="fig">3</xref>
+ </xref> (gray traces) shows pairs of peaks with peak potential differences, Δ
+ <italic>E</italic>
+ <sub>p</sub>, between 66 and 71 mV at sweep rates from 10 to 500 mV·s
+ <sup>–1</sup> (
+ <xref rid="tbl1" ref-type="other">Table 
+  <xref rid="tbl1" ref-type="other">1</xref>
+ </xref>). The much smaller Δ
+ <italic>E</italic>
+ <sub>p</sub> values, as compared to those at graphene, and their negligible dependence on the sweep rate ν indicate that the electron transfer on glassy carbon is fast, that is, the reaction is diffusion controlled (electrochemically reversible or Nernstian behavior) with some 
+ <italic>iR</italic> drop contributing to Δ
+ <italic>E</italic>
+ <sub>p</sub>. A series of cyclic voltammograms recorded at scan rates between 10 and 500 mV s
+ <sup>–1</sup> is shown in Supporting Information 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S3</ext-link>. A plot of the anodic peak current 
+ <italic>i</italic>
+ <sub>p</sub>
+ <sup>ox</sup> versus the square root of the scan rate has a linear regression with a correlation coefficient larger than 0.9999 and an intercept close to zero (Supporting Information 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S4</ext-link>). From the slope of this regression, a diffusion coefficient for ferrocene in 12CE of 1.9 × 10
+ <sup>–7</sup> cm
+ <sup>2</sup> s
+ <sup>–1</sup> is calculated with the Randles–Sevcik equation.
+ <sup>
+  <xref ref-type="bibr" rid="ref70">70</xref>
+ </sup> This value is almost one order of magnitude larger than that reported by Bahadori et al.,
+ <sup>
+  <xref ref-type="bibr" rid="ref67">67</xref>,
+  <xref ref-type="bibr" rid="ref71">71</xref>
+ </sup> who have however used the Randles–Sevcik equation without correction term for hemispherical diffusion
+ <sup>
+  <xref ref-type="bibr" rid="ref70">70</xref>
+ </sup> to analyze cyclic voltammetric currents at a Pt ultramicroelectrode.
+</p>

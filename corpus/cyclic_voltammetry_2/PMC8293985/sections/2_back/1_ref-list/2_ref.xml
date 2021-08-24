@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="cit2">
+ <element-citation publication-type="journal" id="cit2a">
+  <label> (a) </label>
+  <person-group person-group-type="author">
+   <name>
+    <surname>McEvoy</surname>
+    <given-names>J. P.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brudvig</surname>
+    <given-names>G. W.</given-names>
+   </name>
+  </person-group>
+  <source>Chem. Rev.</source>
+  <year>2006</year>
+  <volume>106</volume>
+  <fpage>4455</fpage>
+  <lpage>4483</lpage>
+  <pub-id pub-id-type="doi">10.1021/cr0204294</pub-id>
+  <?supplied-pmid 17091926?>
+  <pub-id pub-id-type="pmid">17091926</pub-id>
+ </element-citation>
+ <element-citation publication-type="journal" id="cit2b">
+  <label> (b) </label>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kok</surname>
+    <given-names>B.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Forbush</surname>
+    <given-names>B.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>McGloin</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group>
+  <source>Photochem. Photobiol.</source>
+  <year>1970</year>
+  <volume>11</volume>
+  <fpage>457</fpage>
+  <lpage>475</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1751-1097.1970.tb06017.x</pub-id>
+  <?supplied-pmid 5456273?>
+  <pub-id pub-id-type="pmid">5456273</pub-id>
+ </element-citation>
+</ref>

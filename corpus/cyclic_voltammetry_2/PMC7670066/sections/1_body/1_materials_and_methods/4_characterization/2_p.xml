@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Electrochemical studies were carried using a three-electrode cell thermostated at 25°C and controlled by a Metrohm Autolab AUT50324 potentiostat. A Hydroflex hydrogen electrode (Gaskatel) and an Ag/Ag
+ <sup>+</sup> electrode (IJCambria) were used as references in aqueous and organic electrolyte, respectively. The Ag/Ag
+ <sup>+</sup> reference electrode was prepared using 1.0 mM AgNO
+ <sub>3</sub> in MeCN, yielding a reference potential of 0.320 V vs. SHE, determined as described in previous work (Hoque et al., 
+ <xref rid="B30" ref-type="bibr">2019</xref>). The carbon disk electrodes were mounted in a Teflon disk holder (Pine Instruments) and used as working electrodes; all contacts were confirmed to be ohmic with &lt;8 Ω resistance. Graphite rods (Goodfellow) were used as counter electrodes. Cyclic voltammetry (CV) was carried out in 0.1 M TBAPF
+ <sub>6</sub> in MeCN, at 50 mV s
+ <sup>−1</sup> using iR compensation. Electrochemical impedance spectroscopy (EIS) was recorded in the range 0.1–10
+ <sup>4</sup> kHz using a 10 mV AC amplitude at open circuit potential (OCP). The equivalent series capacitance was obtained from Mott-Schottky plots (NOVA software) collected at the frequency indicated in each plot, with steps of 0.05 V; 300 s equilibration time was allowed between potential steps. The specific capacitance was obtained via normalization by the geometric area of the electrodes; this was determined in 0.1 M TBAPF
+ <sub>6</sub>/MeCN using a reference polished GC disk to account for capillary wetting within the Teflon shielding in MeCN (De Levie, 
+ <xref rid="B14" ref-type="bibr">1965</xref>) and a specific capacitance value of 30 μF cm
+ <sup>−2</sup> reported for GC in TBA
+ <sup>+</sup>/MeCN (Kim et al., 
+ <xref rid="B35" ref-type="bibr">2010</xref>). Studies of the oxygen reduction reaction were carried out using a rotating disk electrode (RDE) and a rotating ring-disk electrode (RRDE) tip (Pine Instruments). The electrochemical cell was cleaned using piranha solution; working electrodes were first cycled between 0.05 and 1.1 V
+ <sub>RHE</sub> (potential vs. RHE, i.e., reversible hydrogen electrode) in Ar-saturated 0.1 M KOH (20 cycles). Then, ORR polarization curves at 50 mV s
+ <sup>−1</sup> were obtained in O
+ <sub>2</sub>-saturated 0.1 M KOH electrolyte under rotation. CVs in Ar-saturated 0.1 M KOH were used to subtract the capacitive current contribution, while current densities were calculated by normalizing the current by the geometric area. All voltammograms were obtained with iR compensation using commercial software (NOVA); the uncompensated resistance was determined via EIS prior to each experiment. RRDE experiments were carried out by holding the Pt ring insert at a constant potential of 1.2 V
+ <sub>RHE</sub>; the peroxide yield was calculated as 
+ <inline-formula>
+  <math id="M2">
+   <msub>
+    <mrow>
+     <mi>H</mi>
+    </mrow>
+    <mrow>
+     <mn>2</mn>
+    </mrow>
+   </msub>
+   <msub>
+    <mrow>
+     <mi>O</mi>
+    </mrow>
+    <mrow>
+     <mn>2</mn>
+    </mrow>
+   </msub>
+   <mi>%</mi>
+   <mo>=</mo>
+   <mn>100</mn>
+   <mo>×</mo>
+   <mn>2</mn>
+   <mrow>
+    <mo stretchy="true">(</mo>
+    <mrow>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mrow>
+         <mi>I</mi>
+        </mrow>
+        <mrow>
+         <mi>R</mi>
+        </mrow>
+       </msub>
+       <mo>/</mo>
+       <mi>N</mi>
+      </mrow>
+      <mrow>
+       <msub>
+        <mrow>
+         <mi>I</mi>
+        </mrow>
+        <mrow>
+         <mi>D</mi>
+        </mrow>
+       </msub>
+       <mo>+</mo>
+       <msub>
+        <mrow>
+         <mi>I</mi>
+        </mrow>
+        <mrow>
+         <mi>R</mi>
+        </mrow>
+       </msub>
+       <mo>/</mo>
+       <mi>N</mi>
+      </mrow>
+     </mfrac>
+    </mrow>
+    <mo stretchy="true">)</mo>
+   </mrow>
+  </math>
+ </inline-formula>, where 
+ <italic>I</italic>
+ <sub>
+  <italic>R</italic>
+ </sub> and 
+ <italic>I</italic>
+ <sub>
+  <italic>D</italic>
+ </sub> denote the ring and disk currents, respectively, and 
+ <italic>N</italic> is the collection efficiency determined experimentally (
+ <italic>N</italic> = 0.26) (Behan et al., 
+ <xref rid="B4" ref-type="bibr">2019b</xref>). The number of electrons was calculated according to 
+ <italic>n</italic> = 4
+ <italic>I</italic>
+ <sub>
+  <italic>D</italic>
+ </sub>/(
+ <italic>I</italic>
+ <sub>
+  <italic>D</italic>
+ </sub> + 
+ <italic>I</italic>
+ <sub>
+  <italic>R</italic>
+ </sub>/
+ <italic>N</italic>).
+</p>

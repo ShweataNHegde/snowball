@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>As the metal covers the electrode surface, the front interface/phase between the metal and the electrolyte instead plays a pivotal role directing the growth mode. The second set of solutions aims at controllably creating an artificial SEI (ASEI) that exhibits desirable properties (see the green block). This ASEI can be of a variety of chemistries—polymers [
+ <xref rid="F6" ref-type="fig">Fig. 6D</xref>; e.g., polyamide (
+ <xref rid="R166" ref-type="bibr">
+  <italic>166</italic>
+ </xref>), polypyrrole (
+ <xref rid="R167" ref-type="bibr">
+  <italic>167</italic>
+ </xref>), and ionomers (
+ <xref rid="R168" ref-type="bibr">
+  <italic>168</italic>
+ </xref>))], carbons [
+ <xref rid="F6" ref-type="fig">Fig. 6E</xref>; e.g., amorphous carbon nano shell (
+ <xref rid="R169" ref-type="bibr">
+  <italic>169</italic>
+ </xref>) and graphene oxide (
+ <xref rid="R170" ref-type="bibr">
+  <italic>170</italic>
+ </xref>))], and ceramics [
+ <xref rid="F6" ref-type="fig">Fig. 6F</xref>; e.g., TiO
+ <sub>2</sub> (
+ <xref rid="R171" ref-type="bibr">
+  <italic>171</italic>
+ </xref>), CaCO
+ <sub>3</sub> (
+ <xref rid="R172" ref-type="bibr">
+  <italic>172</italic>
+ </xref>), ZrO
+ <sub>2</sub> (
+ <xref rid="R173" ref-type="bibr">
+  <italic>173</italic>
+ </xref>), aluminosilicate (
+ <xref rid="R174" ref-type="bibr">
+  <italic>174</italic>
+ </xref>)), etc.]. The common nature of these coatings is that they regulate the mass transport at the front electrodeposition interface. In the first place, they block the transport of H
+ <sub>2</sub>O and prevent the direct contact between the electrode surface and the aqueous electrolyte, which is the main origin of undesirable parasitic reactions including hydrogen evolution, salt precipitation, etc. (
+ <xref rid="R175" ref-type="bibr">
+  <italic>175</italic>
+ </xref>). Second, it is thought that the ASEI interphase, which should be uniform in terms of composition and thickness, can homogenize the transport of Zn
+ <sup>2+</sup> cations toward the electrode surface. In comparison, the cation transport flux could be dominated by a heterogeneous SEI formed without proper control before or during the electrodeposition (
+ <xref rid="R84" ref-type="bibr">
+  <italic>84</italic>
+ </xref>). Last, we also note that implementing this ASEI strategy at the nanoscale opens up unique opportunities. Wu and coauthors (
+ <xref rid="R169" ref-type="bibr">
+  <italic>169</italic>
+ </xref>) reported a type of nanostructured Zn electrode composed of ZnO nanoparticles coated by electrically conductive carbon nanoshell (
+ <xref rid="F6" ref-type="fig">Fig. 6E</xref>). The main uniqueness is that the active soluble Zn
+ <sup>2+</sup> species are confined within the carbon nanoshell. Upon electrodeposition, the locally confined Zn
+ <sup>2+</sup> species at the nanoscale are reduced inside the shell. The process does not involve the long-range mass transport near the electrode as described in 
+ <xref rid="F3" ref-type="fig">Fig. 3</xref>. This feature therefore substantively differentiates the scenario with the one described by classical theories. The original mass transport limit in the liquid electrolyte might be lifted since no such long-range diffusion process is activated in this scenario of nanoconfinement. These observations suggest that ample opportunities, both to explore fundamental science questions and to solve engineering problems, exist at the nanoscale.
+</p>

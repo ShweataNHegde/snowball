@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="ath1">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4722-8988</contrib-id>
+  <name>
+   <surname>Marangon</surname>
+   <given-names>Vittorio</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">†</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath2">
+  <name>
+   <surname>Minnetti</surname>
+   <given-names>Luca</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">‡</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath3">
+  <name>
+   <surname>Adami</surname>
+   <given-names>Matteo</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">†</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath4">
+  <name>
+   <surname>Barlini</surname>
+   <given-names>Alberto</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">†</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes" id="ath5">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-8218-5680</contrib-id>
+  <name>
+   <surname>Hassoun</surname>
+   <given-names>Jusef</given-names>
+  </name>
+  <xref rid="cor1" ref-type="other">*</xref>
+  <xref rid="aff1" ref-type="aff">†</xref>
+  <xref rid="aff2" ref-type="aff">‡</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>†</label>
+  <institution>University of Ferrara</institution>, Department of Chemical and Pharmaceutical Sciences, Via Fossato di Mortara 17, 44121 Ferrara, 
+  <country>Italy</country>
+ </aff>
+ <aff id="aff2">
+  <label>‡</label>Graphene Laboratories, 
+  <institution>Istituto Italiano di Tecnologia</institution>, Via Morego 30, 16163 Genova, 
+  <country>Italy</country>
+ </aff>
+</contrib-group>

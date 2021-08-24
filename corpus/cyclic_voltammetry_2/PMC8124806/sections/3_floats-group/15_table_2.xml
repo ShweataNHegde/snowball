@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="molecules-26-02646-t002" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">molecules-26-02646-t002_Table 2</object-id>
+ <label>Table 2</label>
+ <caption>
+  <p>Oxidation state of poly-[NiAmben] during voltammetric oxidation/reduction in 0.05 M Et
+   <sub>4</sub>NBF
+   <sub>4</sub>/DCE.
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Scan Rate, 
+     <italic>v
+      <sub>s</sub>
+     </italic> (V s
+     <sup>−1</sup>)
+    </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Electrons Exchanged Per Repeat Unit (Oxidation), 
+     <italic>n
+      <sub>ox</sub>
+     </italic>
+    </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Electrons Exchanged Per Repeat Unit (Reduction), 
+     <italic>n
+      <sub>red</sub>
+     </italic>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.005</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.35</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.63</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.010</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.09</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.62</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.025</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.85</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.62</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.050</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.78</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.59</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.100</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.68</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.57</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.200</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.53</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

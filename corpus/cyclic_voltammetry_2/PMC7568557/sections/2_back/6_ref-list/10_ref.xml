@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kim</surname>
+    <given-names>J-S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The short-term cycling properties of Na/PVdF/S battery at ambient temperature</article-title>
+  <source>J. Solid State Electrochem.</source>
+  <year>2008</year>
+  <volume>12</volume>
+  <fpage>861</fpage>
+  <lpage>865</lpage>
+  <pub-id pub-id-type="doi">10.1007/s10008-008-0504-8</pub-id>
+ </element-citation>
+</ref>

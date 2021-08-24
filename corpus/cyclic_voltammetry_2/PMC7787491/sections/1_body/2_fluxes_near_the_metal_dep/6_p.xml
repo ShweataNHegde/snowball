@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In relatively dilute electrolytes (
+ <italic>C</italic>
+ <sub>Zn</sub>
+ <sup>2+</sup> &lt; 0.5 M), which have greater diffusion layer thicknesses, a group of “diffusion-limited aggregate” (DLA) patterns form, including dendritic, ramified, densely branched, etc. (
+ <xref rid="F3" ref-type="fig">Fig. 3C</xref>) (
+ <xref rid="R48" ref-type="bibr">
+  <italic>48</italic>
+ </xref>–
+ <xref rid="R51" ref-type="bibr">
+  <italic>51</italic>
+ </xref>). The hexagonal crystal symmetry of Zn is reflected in the dendritic growth [see the scanning electron microscopy (SEM) image on the right of 
+ <xref rid="F3" ref-type="fig">Fig. 3C-1</xref>]. López and Choi (
+ <xref rid="R52" ref-type="bibr">
+  <italic>52</italic>
+ </xref>) interpret this as a result of the interaction between the hexagonal shape of the deposit and the “concentric” diffusion gradient (see the scheme on the left of 
+ <xref rid="F3" ref-type="fig">Fig. 3C-1</xref>). Growth therefore preferentially occurs at the protrusions. An early in situ interferometry study experimentally monitored the concentration field near the deposition front (
+ <xref rid="F3" ref-type="fig">Fig. 3C-2</xref>) (
+ <xref rid="R53" ref-type="bibr">
+  <italic>53</italic>
+ </xref>). The isocontours exhibit a strong propensity for stacking in the vicinity of the foremost dendrite tips. The physical significance of this observation can be discerned through the relationship, 
+ <italic>J</italic>
+ <sub>diff</sub> = − 
+ <italic>D</italic>∇
+ <italic>C</italic>, where 
+ <italic>J</italic>
+ <sub>diff</sub> is the diffusional flux. The initiation and the growth of DLA type of metal dendrites can thus be understood to arise inherently unstable solid/liquid interface, where electronically conductive heterogeneities are self-reinforcing; analogies can be found across many branches of physics, e.g., the formation of thermal dendrites in metallurgical processes (
+ <xref rid="R54" ref-type="bibr">
+  <italic>54</italic>
+ </xref>). There is a far richer body of literature discussing these DLA patterns owing to their broad implications in physics and some approaches exist for changing one DLA pattern to another. In the battery context, their formation is simply because of their large propensity for detaching from the electrode upon battery discharge and for penetrating the separator (
+ <xref rid="R55" ref-type="bibr">
+  <italic>55</italic>
+ </xref>). It means that the operation of Zn batteries should veer off such diffusion-limited regime. The cycle life of Zn batteries has been shown to be negatively correlated to the applied current density (
+ <xref rid="R56" ref-type="bibr">
+  <italic>56</italic>
+ </xref>). The instability arising at high current density is reportedly attributable to the initiation of dendritic growth.
+</p>

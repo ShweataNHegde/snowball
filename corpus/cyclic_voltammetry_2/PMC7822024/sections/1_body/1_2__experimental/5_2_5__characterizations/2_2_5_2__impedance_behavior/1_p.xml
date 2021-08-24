@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The electrical impedance behavior of hydrogel samples (width = 5 mm, height = 6 mm) was measured using a custom-built impedance setup, described elsewhere [
+ <xref rid="B58-nanomaterials-11-00003" ref-type="bibr">58</xref>]. In brief, an oscilloscope (Agilent U2701A) and waveform generator (Agilent U2761A) were used to apply a range of frequencies at a peak-to-peak ac voltage of 0.8 V, while measuring the voltage drop across a known resistor (10 kΩ) and the unknown hydrogel sample. The current was calculated across the known resistor and this was then used to calculate impedance behavior of the hydrogel samples as a function of frequency. Hydrogel samples tested varied in length (
+ <inline-formula>
+  <math id="mm2">
+   <mrow>
+    <mi>l</mi>
+   </mrow>
+  </math>
+ </inline-formula>) between 0.5 and 2.5 cm and were contacted at each end with reticulated vitreous carbon (RVC, ERG Aerospace, 20 pores per inch), as shown in 
+ <xref ref-type="fig" rid="nanomaterials-11-00003-f002">Figure 2</xref>.
+</p>

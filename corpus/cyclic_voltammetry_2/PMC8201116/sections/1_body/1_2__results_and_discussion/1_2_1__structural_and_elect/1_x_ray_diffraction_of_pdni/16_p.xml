@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The electrochemical active area was determined using the following Equation (6) based on the reduction oxide charges of each material vs. potential, assuming that 420 μC charges had completely covered the surface of the Pd/C based on the literature. 
+ <disp-formula id="FD6-molecules-26-03440">
+  <label>(6)</label>
+  <math id="mm6">
+   <mrow>
+    <mrow>
+     <mrow>
+      <mi>PdO</mi>
+      <mtext> </mtext>
+      <mi>Area</mi>
+     </mrow>
+     <mo>=</mo>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mi mathvariant="normal">Q</mi>
+       <mo>/</mo>
+       <mrow>
+        <mi mathvariant="sans-serif">μ</mi>
+        <mi mathvariant="normal">C</mi>
+       </mrow>
+       <mo>/</mo>
+       <mn>420</mn>
+       <msup>
+        <mrow>
+         <mrow>
+          <mi mathvariant="sans-serif">μ</mi>
+          <mi>Ccm</mi>
+         </mrow>
+        </mrow>
+        <mrow>
+         <mo>−</mo>
+         <mn>2</mn>
+        </mrow>
+       </msup>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mo>.</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+</p>

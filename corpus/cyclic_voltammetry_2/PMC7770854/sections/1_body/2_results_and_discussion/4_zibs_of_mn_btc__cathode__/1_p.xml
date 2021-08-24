@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par25">An aqueous zinc-ion battery using the above-studied Mn(BTC) cathode and ZIF-8@Zn anode was constructed, as illustrated in Fig. 
+ <xref rid="Fig7" ref-type="fig">7</xref>a. 2 M ZnSO
+ <sub>4</sub> aqueous solution was chosen as the electrolyte. CV curves at a scan rate of 0.5 mV s
+ <sup>−1</sup> are displayed in Fig. 
+ <xref rid="Fig7" ref-type="fig">7</xref>b. It can be seen that there emerge two reduction peaks at 1.22 and 1.37 V and one oxidation peak at 1.83 V in the initial cycle, and the oxidation peak is corresponding to the oxidation reaction from Mn(BTC) to MnO
+ <sub>2</sub> as discussed above. From the second cycles, two pairs of reversible redox peaks appear, indicating a reversible Zn
+ <sup>2+</sup> storage/release process. The rate performance is displayed in Fig. 
+ <xref rid="Fig7" ref-type="fig">7</xref>c. The battery delivers a discharge capacity of 112, 63, 40, and 14 mAh g
+ <sup>−1</sup>, respectively, at current densities of 50, 100, 200, and 500 mA g
+ <sup>−1</sup>. Figure 
+ <xref rid="Fig7" ref-type="fig">7</xref>d shows cycling performance of the battery. It can be observed that the Mn(BTC) exhibits a discharge capacity of about 55 mAh g
+ <sup>−1</sup> at a current density of 100 mA g
+ <sup>−1</sup> after activation process. However, the capacity rapidly fades to only 27 mAh g
+ <sup>−1</sup> after 50 charge/discharge cycles, indicating a poor cycling stability. As investigated above, such a poor cycling performance can be mainly ascribed to the dissolution of MnO
+ <sub>2</sub> from Mn(BTC) cathode. Therefore, to optimize cycling performance of the Mn(BTC) cathode and the assembled battery, MnSO
+ <sub>4</sub> was added to the ZnSO
+ <sub>4</sub> electrolyte, because Mn
+ <sup>2+</sup> in the electrolyte is able to suppress manganese dissolution [
+ <xref ref-type="bibr" rid="CR78">78</xref>, 
+ <xref ref-type="bibr" rid="CR79">79</xref>]. In 2 M ZnSO
+ <sub>4</sub> + 0.1 M MnSO
+ <sub>4</sub> electrolyte, their electrochemical performance is significantly improved. As shown in Fig. 
+ <xref rid="Fig7" ref-type="fig">7</xref>e, peak currents of CV curves with the addition of Mn
+ <sup>2+</sup> in the electrolyte are much higher than that without Mn
+ <sup>2+</sup> (Fig. 
+ <xref rid="Fig7" ref-type="fig">7</xref>b), which indicates a better Zn
+ <sup>2+</sup>-storage ability. A superior rate capability is also achieved in Fig. 
+ <xref rid="Fig7" ref-type="fig">7</xref>f, with the capacity of 170, 142, 80, and 46 mAh g
+ <sup>−1</sup> at current densities of 50, 100, 500, and 1000 mA g
+ <sup>−1</sup>, respectively. The high rate performance could be ascribed to the stabilization and excellent kinetics of the cathode under the case of Mn
+ <sup>2+</sup> addition in ZnSO
+ <sub>4</sub> electrolyte [
+ <xref ref-type="bibr" rid="CR15">15</xref>]. Cycling performance test (Fig. 
+ <xref rid="Fig7" ref-type="fig">7</xref>g) shows that the battery delivers a reversible capacity of 150 mAh g
+ <sup>−1</sup> after 50 cycles at 0.1 A g
+ <sup>−1</sup>. Furthermore, the battery exhibits 92% capacity retention after 900 cycles at 1000 mA g
+ <sup>−1</sup> in Fig. 
+ <xref rid="Fig7" ref-type="fig">7</xref>h, which indicates excellent long-cycling stability. It is worth noting that the cycle performance of Mn(BTC) cathode in ZnSO
+ <sub>4</sub> + MnSO
+ <sub>4</sub> electrolyte is superior to many previously reported manganese oxide cathodes shown in Table S2 at similar current densities, but the capacity and rate capability are not as good as widely studied MnO
+ <sub>2</sub> materials. Despite this, MOF cathode materials are still promising for Zn
+ <sup>2+</sup> storage because further research may find some Mn-MOF or other MOF materials with much better Zn
+ <sup>2+</sup>-storage ability, considering that MOF materials possess diverse structure, controllable chemical composition, very high specific surface area, and many other merits. CV curves (Fig. S11a) at various scan rates were also recorded and used to analyze Zn
+ <sup>2+</sup> storage kinetics of the cathode. When the scan rate increases from 0.5 to 5 mV s
+ <sup>−1</sup>, both anodic and cathodic peaks slightly shift, which is due to increased polarization at higher scan rates [
+ <xref ref-type="bibr" rid="CR80">80</xref>]. According to the previous literature, the relationship between peak current (
+ <italic>i</italic>) and the scan rate (
+ <italic>v</italic>) can be represented by Eqs. 
+ <xref rid="Equ1" ref-type="">1</xref> and 
+ <xref rid="Equ2" ref-type="">2</xref> [
+ <xref ref-type="bibr" rid="CR81">81</xref>]:
+ <disp-formula id="Equ1">
+  <label>1</label>
+  <alternatives>
+   <tex-math id="M1">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$i = av^{b}$$\end{document}</tex-math>
+   <math id="M2" display="block">
+    <mrow>
+     <mi>i</mi>
+     <mo>=</mo>
+     <mi>a</mi>
+     <msup>
+      <mi>v</mi>
+      <mi>b</mi>
+     </msup>
+    </mrow>
+   </math>
+   <graphic xlink:href="40820_2020_487_Article_Equ1.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+ <disp-formula id="Equ2">
+  <label>2</label>
+  <alternatives>
+   <tex-math id="M3">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\log \,i = b\,\log \,v + \log \,a$$\end{document}</tex-math>
+   <math id="M4" display="block">
+    <mrow>
+     <mo>log</mo>
+     <mspace width="0.166667em"/>
+     <mi>i</mi>
+     <mo>=</mo>
+     <mi>b</mi>
+     <mspace width="0.166667em"/>
+     <mo>log</mo>
+     <mspace width="0.166667em"/>
+     <mi>v</mi>
+     <mo>+</mo>
+     <mo>log</mo>
+     <mspace width="0.166667em"/>
+     <mi>a</mi>
+    </mrow>
+   </math>
+   <graphic xlink:href="40820_2020_487_Article_Equ2.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>where 
+ <italic>a</italic> and 
+ <italic>b</italic> are adjustable parameters. In general, 
+ <italic>b</italic> value ranges from 0.5 to 1.0. The coefficient 
+ <italic>b</italic> of 0.5 indicates a faradic reaction, and the coefficient 
+ <italic>b</italic> of 1.0 means a complete surface-controlled capacitive process [
+ <xref ref-type="bibr" rid="CR82">82</xref>]. The 
+ <italic>b</italic> values calculated by slope of the log(
+ <italic>v</italic>)-log(
+ <italic>i</italic>) plots (Fig. S11b) for redox peaks (Fig. S11a) are 0.54 and 0.67. This indicates that Zn
+ <sup>2+</sup> storage in the Mn(BTC) cathode is mainly through faradic reactions.
+</p>

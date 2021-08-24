@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The electrochemical tests were performed in 6 M KOH with a three-electrode cell, the working, the counter and the reference electrodes being, respectively, the Ni(OH)
+ <sub>2</sub> pasted electrodes, a nickel foil and a Hg/HgO (6 M KOH) reference electrode. The potential of the Hg/HgO reference electrode was estimated using: 
+ <italic>E</italic>(Hg/HgO) = 0.098 − (RT/
+ <italic>F</italic>)ln[OH
+ <sup>−</sup>] = 0.052 V/SHE. The pasted electrodes were soaked in the electrolyte (6 M KOH solution) for 10 hours before starting the electrochemical tests. The electrochemical performance including activation cycles, long-term cycling and high-rate acceptance tests were conducted using a Maccor 4000 battery cycling system. The theoretical capacity, for all samples, was calculated based on the theoretical specific capacity of pure α-Ni(OH)
+ <sub>2</sub> (490 mA h g
+ <sup>−1</sup>) corresponding to 1.7e
+ <sup>−</sup> per Ni (maximum number of electrons exchanged that has been reported in the literature for a nickel hydroxide sample
+ <sup>
+  <xref rid="cit24" ref-type="bibr">24</xref>
+ </sup>). Knowing that the NiFe-LDH materials discussed here are not pure nickel hydroxides (they contain doping, water and anions), the expected capacity is actually lower. For all charge cycling experiments the charge inserted was 1.5 times the theoretical capacity to simulate both full charging and electrolysis in each cycle, and the (dis)charge rate was 0.2C unless mentioned otherwise. The discharge capacity values were corrected using the blank electrode discharge capacity corresponding to the formation and reduction of nickel oxide formed on the nickel substrate when cycling. Electrochemical impedance spectroscopy (EIS) measurements were carried out using a Parstat MC Multichannel potentiostat, at OCP on discharged electrodes from 10
+ <sup>5</sup> to 0.001 Hz with an AC potential amplitude of 5 mV. Tafel plots were obtained on the already charged materials by chronopotentiometry with current densities from 2.5 mA cm
+ <sup>−2</sup> to 25 mA cm
+ <sup>−2</sup>. For this experiment, a rotating bar is placed below the working electrode to remove the generated bubbles. The 
+ <italic>V</italic>
+ <sub>OER</sub> potentials were corrected with IR compensation and the OER overpotential at 10 mA cm
+ <sup>−2</sup> is estimated using: 
+ <italic>η</italic>
+ <sub>OER</sub> = 
+ <italic>V</italic>
+ <sub>OER</sub> − 1.23 + 0.059.pH + 0.052.
+</p>

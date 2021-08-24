@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Su</surname>
+    <given-names>SH</given-names>
+   </name>
+   <name>
+    <surname>Miao</surname>
+    <given-names>JW</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>LP</given-names>
+   </name>
+   <name>
+    <surname>Gao</surname>
+    <given-names>JJ</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>HM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>An earth-abundant catalyst-based seawater photoelectrolysis system with 17.9% solar-to-hydrogen efficiency</article-title>
+  <source>Adv. Mater.</source>
+  <year>2018</year>
+  <volume>30</volume>
+  <fpage>1707261</fpage>
+  <pub-id pub-id-type="doi">10.1002/adma.201707261</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR37">
+ <label>37.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Yuan</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>YF</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>ZF</given-names>
+   </name>
+  </person-group>
+  <article-title>Two-dimensional iron-phthalocyanine (Fe–Pc) monolayer as a promising single-atom-catalyst for oxygen reduction reaction: a computational study</article-title>
+  <source>Nanoscale</source>
+  <year>2015</year>
+  <volume>7</volume>
+  <fpage>11633</fpage>
+  <lpage>11641</lpage>
+  <pub-id pub-id-type="doi">10.1039/C5NR00302D</pub-id>
+  <pub-id pub-id-type="pmid">26098266</pub-id>
+ </element-citation>
+</ref>

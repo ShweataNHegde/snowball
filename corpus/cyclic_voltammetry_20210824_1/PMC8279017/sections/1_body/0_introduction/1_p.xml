@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Li-ion batteries power a wide array of electronic devices, from portable systems such as laptops and smartphones to hybrid (HEVs) and fully electric vehicles (EVs).
+ <sup>
+  <xref ref-type="bibr" rid="ref1">1</xref>,
+  <xref ref-type="bibr" rid="ref2">2</xref>
+ </sup> The research on Li-ion batteries has led to the achievement of a remarkable energy density, i.e., 260 Wh kg
+ <sup>–1</sup>, and a long cycle life.
+ <sup>
+  <xref ref-type="bibr" rid="ref3">3</xref>,
+  <xref ref-type="bibr" rid="ref4">4</xref>
+ </sup> However, an increasing demand for energy with the purpose of extending the driving range of EVs has renewed interest in the metallic lithium, which offers a high theoretical capacity (3860 mAh g
+ <sup>–1</sup>) and the lowest redox potential (−3.04 V vs SHE) among the various electrodes proposed as the battery anode.
+ <sup>
+  <xref ref-type="bibr" rid="ref5">5</xref>
+ </sup> Despite the various advantages, the application of lithium in a rechargeable battery has so far been hindered by the formation of dendritic structures due to heterogeneous deposition of lithium at the metal surface during charge that can lead to short circuits and hazards.
+ <sup>
+  <xref ref-type="bibr" rid="ref6">6</xref>
+ </sup> The most relevant solutions proposed to overcome this challenging issue and ensure efficient and safe discharge–charge cycling of the battery are represented by the addition to the electrolyte of sacrificial agents such as lithium nitrate (LiNO
+ <sub>3</sub>), that can be reduced at the lithium surface to protect the metallic anode by the formation of a suitable solid electrolyte interphase (SEI) film.
+ <sup>
+  <xref ref-type="bibr" rid="ref7">7</xref>−
+  <xref ref-type="bibr" rid="ref9">9</xref>
+ </sup> A further relevant breakthrough was achieved by the replacement of carbonate-based solvents with more stable and less volatile poly(ethylene oxide)s or end-capped glymes (CH
+ <sub>3</sub>O(CH
+ <sub>2</sub>CH
+ <sub>2</sub>O)
+ <sub>
+  <italic>n</italic>
+ </sub>CH
+ <sub>3</sub>).
+ <sup>
+  <xref ref-type="bibr" rid="ref10">10</xref>−
+  <xref ref-type="bibr" rid="ref15">15</xref>
+ </sup> Remarkable improvement of the safety content of the cell was furthermore obtained by increasing the salt concentration, in particular using the glyme-based electrolytes, in order to decrease the flammability and the volatility, holding at the same time long cycle life and high Coulombic efficiency.
+ <sup>
+  <xref ref-type="bibr" rid="ref16">16</xref>−
+  <xref ref-type="bibr" rid="ref19">19</xref>
+ </sup> In this regard, in our previous study we have characterized the chemical and electrochemical properties of highly concentrated di- and triglyme-based electrolytes employing the conductive salt lithium bis(trifluoromethanesulfonyl)imide (LiTFSI) and LiNO
+ <sub>3</sub> in concentrations approaching the solvent saturation limit.
+ <sup>
+  <xref ref-type="bibr" rid="ref20">20</xref>
+ </sup> The study focused on the performance of the new electrolyte media in a Li/O
+ <sub>2</sub> battery, particularly in terms of electrode/electrolyte interphase effects on the cycling behavior of the cell. The data of the above research principally suggested the triglyme-based electrolyte as a promising candidate for application in Li/O
+ <sub>2</sub> cells due to its unique properties which include a remarkably low volatility and enhanced interphase stability,
+ <sup>
+  <xref ref-type="bibr" rid="ref20">20</xref>
+ </sup> thus in agreement with other literature papers.
+ <sup>
+  <xref ref-type="bibr" rid="ref21">21</xref>,
+  <xref ref-type="bibr" rid="ref22">22</xref>
+ </sup> Indeed, according to X-ray photoelectron spectroscopy (XPS) and electrochemical impedance spectroscopy (EIS), the enhanced characteristics of the triglyme-based electrolyte compared to the diglyme-based one in a Li/O
+ <sub>2</sub> cell have been principally attributed to the formation of a stable SEI, in particular on the Li metal.
+ <sup>
+  <xref ref-type="bibr" rid="ref20">20</xref>
+ </sup>
+</p>

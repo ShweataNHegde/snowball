@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par24">To further investigate and understand the intrinsically catalytic activity of Co/CoFe@NC, the adsorption Gibbs free energies (Δ
+ <italic>G</italic>) of oxygen-containing intermediates were analyzed by density functional theory plus U (DFT + U) calculations. Because ORR on the Co/CoFe@NC follows a four-electron transfer pathway, the ORR and OER can be considered as reversible reactions. In alkaline condition, the widely accepted pathway for OER involves the following four elementary steps Eqs. 
+ <xref rid="Equ1" ref-type="">1</xref>–
+ <xref rid="Equ4" ref-type="">4</xref>, where * represents the active sites on catalysts, *OH, *O, and *OOH stand for the intermediate species adsorbed on the active sites, and ∆
+ <italic>G</italic>
+ <sub>I</sub>, ∆
+ <italic>G</italic>
+ <sub>II</sub>, ∆
+ <italic>G</italic>
+ <sub>III</sub>, and ∆G
+ <sub>IV</sub> represent for Gibbs free energies in each reaction. The overpotential η of the whole process is defined in Eq. 
+ <xref rid="Equ5" ref-type="">5</xref> [
+ <xref ref-type="bibr" rid="CR18">18</xref>, 
+ <xref ref-type="bibr" rid="CR39">39</xref>, 
+ <xref ref-type="bibr" rid="CR40">40</xref>].
+ <disp-formula id="Equ1">
+  <label>1</label>
+  <alternatives>
+   <tex-math id="M3">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$ {\text{OH}}^{ - } + * \,\rightarrow\, *{\text{OH}} + {\text{e}}^{ - } \quad \Delta G_{I} $$\end{document}</tex-math>
+   <math id="M4" display="block">
+    <mrow>
+     <msup>
+      <mrow>
+       <mtext>OH</mtext>
+      </mrow>
+      <mo>-</mo>
+     </msup>
+     <mo>+</mo>
+     <mrow/>
+     <mo>∗</mo>
+     <mspace width="0.166667em"/>
+     <mo stretchy="false">→</mo>
+     <mspace width="0.166667em"/>
+     <mrow/>
+     <mo>∗</mo>
+     <mtext>OH</mtext>
+     <mo>+</mo>
+     <msup>
+      <mrow>
+       <mtext>e</mtext>
+      </mrow>
+      <mo>-</mo>
+     </msup>
+     <mspace width="1em"/>
+     <mi mathvariant="normal">Δ</mi>
+     <msub>
+      <mi>G</mi>
+      <mi>I</mi>
+     </msub>
+    </mrow>
+   </math>
+   <graphic xlink:href="40820_2021_650_Article_Equ1.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+ <disp-formula id="Equ2">
+  <label>2</label>
+  <alternatives>
+   <tex-math id="M5">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$ *{\text{OH}} + {\text{OH}}^{ - } \,\rightarrow\, *{\text{O}} + {\text{H}}_{2} {\text{O}} + {\text{e}}^{ - } \quad \Delta G_{II} $$\end{document}</tex-math>
+   <math id="M6" display="block">
+    <mrow>
+     <mrow/>
+     <mo>∗</mo>
+     <mtext>OH</mtext>
+     <mo>+</mo>
+     <msup>
+      <mrow>
+       <mtext>OH</mtext>
+      </mrow>
+      <mo>-</mo>
+     </msup>
+     <mspace width="0.166667em"/>
+     <mo stretchy="false">→</mo>
+     <mspace width="0.166667em"/>
+     <mrow/>
+     <mo>∗</mo>
+     <mtext>O</mtext>
+     <mo>+</mo>
+     <msub>
+      <mtext>H</mtext>
+      <mn>2</mn>
+     </msub>
+     <mtext>O</mtext>
+     <mo>+</mo>
+     <msup>
+      <mrow>
+       <mtext>e</mtext>
+      </mrow>
+      <mo>-</mo>
+     </msup>
+     <mspace width="1em"/>
+     <mi mathvariant="normal">Δ</mi>
+     <msub>
+      <mi>G</mi>
+      <mrow>
+       <mi mathvariant="italic">II</mi>
+      </mrow>
+     </msub>
+    </mrow>
+   </math>
+   <graphic xlink:href="40820_2021_650_Article_Equ2.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+ <disp-formula id="Equ3">
+  <label>3</label>
+  <alternatives>
+   <tex-math id="M7">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$ *{\text{O}} + {\text{OH}}^{ - } \,\rightarrow\, *{\text{OOH}} + {\text{e}}^{ - } \quad \Delta G_{III} $$\end{document}</tex-math>
+   <math id="M8" display="block">
+    <mrow>
+     <mrow/>
+     <mo>∗</mo>
+     <mtext>O</mtext>
+     <mo>+</mo>
+     <msup>
+      <mrow>
+       <mtext>OH</mtext>
+      </mrow>
+      <mo>-</mo>
+     </msup>
+     <mspace width="0.166667em"/>
+     <mo stretchy="false">→</mo>
+     <mspace width="0.166667em"/>
+     <mrow/>
+     <mo>∗</mo>
+     <mtext>OOH</mtext>
+     <mo>+</mo>
+     <msup>
+      <mrow>
+       <mtext>e</mtext>
+      </mrow>
+      <mo>-</mo>
+     </msup>
+     <mspace width="1em"/>
+     <mi mathvariant="normal">Δ</mi>
+     <msub>
+      <mi>G</mi>
+      <mrow>
+       <mi mathvariant="italic">III</mi>
+      </mrow>
+     </msub>
+    </mrow>
+   </math>
+   <graphic xlink:href="40820_2021_650_Article_Equ3.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+ <disp-formula id="Equ4">
+  <label>4</label>
+  <alternatives>
+   <tex-math id="M9">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$ *{\text{OOH}} + {\text{OH}}^{ - } \,\rightarrow\, * + {\text{O}}_{2} + {\text{H}}_{2} {\text{O}} + {\text{e}}^{ - } \quad \Delta G_{IV} $$\end{document}</tex-math>
+   <math id="M10" display="block">
+    <mrow>
+     <mrow/>
+     <mo>∗</mo>
+     <mtext>OOH</mtext>
+     <mo>+</mo>
+     <msup>
+      <mrow>
+       <mtext>OH</mtext>
+      </mrow>
+      <mo>-</mo>
+     </msup>
+     <mspace width="0.166667em"/>
+     <mo stretchy="false">→</mo>
+     <mspace width="0.166667em"/>
+     <mrow/>
+     <mo>∗</mo>
+     <mo>+</mo>
+     <msub>
+      <mtext>O</mtext>
+      <mn>2</mn>
+     </msub>
+     <mo>+</mo>
+     <msub>
+      <mtext>H</mtext>
+      <mn>2</mn>
+     </msub>
+     <mtext>O</mtext>
+     <mo>+</mo>
+     <msup>
+      <mrow>
+       <mtext>e</mtext>
+      </mrow>
+      <mo>-</mo>
+     </msup>
+     <mspace width="1em"/>
+     <mi mathvariant="normal">Δ</mi>
+     <msub>
+      <mi>G</mi>
+      <mrow>
+       <mi mathvariant="italic">IV</mi>
+      </mrow>
+     </msub>
+    </mrow>
+   </math>
+   <graphic xlink:href="40820_2021_650_Article_Equ4.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+ <disp-formula id="Equ5">
+  <label>5</label>
+  <alternatives>
+   <tex-math id="M11">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$ \eta = \max \,\left( {\Delta G_{I} , \, \Delta G_{II} ,\Delta G_{III} ,\Delta G_{IV} } \right)/{\text{e }} - \, 1.23\,{\text{V}} $$\end{document}</tex-math>
+   <math id="M12" display="block">
+    <mrow>
+     <mi>η</mi>
+     <mo>=</mo>
+     <mo movablelimits="true">max</mo>
+     <mspace width="0.166667em"/>
+     <mfenced close=")" open="(">
+      <mrow>
+       <mi mathvariant="normal">Δ</mi>
+       <msub>
+        <mi>G</mi>
+        <mi>I</mi>
+       </msub>
+       <mo>,</mo>
+       <mspace width="0.166667em"/>
+       <mi mathvariant="normal">Δ</mi>
+       <msub>
+        <mi>G</mi>
+        <mrow>
+         <mi mathvariant="italic">II</mi>
+        </mrow>
+       </msub>
+       <mo>,</mo>
+       <mi mathvariant="normal">Δ</mi>
+       <msub>
+        <mi>G</mi>
+        <mrow>
+         <mi mathvariant="italic">III</mi>
+        </mrow>
+       </msub>
+       <mo>,</mo>
+       <mi mathvariant="normal">Δ</mi>
+       <msub>
+        <mi>G</mi>
+        <mrow>
+         <mi mathvariant="italic">IV</mi>
+        </mrow>
+       </msub>
+      </mrow>
+     </mfenced>
+     <mo stretchy="false">/</mo>
+     <mrow>
+      <mtext>e</mtext>
+      <mspace width="0.333333em"/>
+     </mrow>
+     <mo>-</mo>
+     <mspace width="0.166667em"/>
+     <mn>1.23</mn>
+     <mspace width="0.166667em"/>
+     <mtext>V</mtext>
+    </mrow>
+   </math>
+   <graphic xlink:href="40820_2021_650_Article_Equ5.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+</p>

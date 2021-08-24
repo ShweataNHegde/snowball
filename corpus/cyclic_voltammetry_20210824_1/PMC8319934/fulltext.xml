@@ -1,0 +1,449 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-id journal-id-type="coden">acsodf</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">8319934</article-id><article-id pub-id-type="doi">10.1021/acsomega.1c01751</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Sodium/Lithium-Ion Transfer Reaction at the Interface
+between Low-Crystallized Carbon Nanosphere Electrodes and Organic
+Electrolytes</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes" id="ath1"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1103-3329</contrib-id><name><surname>Kondo</surname><given-names>Yasuyuki</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Fukutsuka</surname><given-names>Tomokazu</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Yokoyama</surname><given-names>Yuko</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath4"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4662-0996</contrib-id><name><surname>Miyahara</surname><given-names>Yuto</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath5"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-5177-3570</contrib-id><name><surname>Miyazaki</surname><given-names>Kohei</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Abe</surname><given-names>Takeshi</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Graduate
+School of Engineering, <institution>Kyoto University</institution>, Nishikyo-ku, 615-8510 Kyoto, <country>Japan</country></aff><aff id="aff2"><label>&#x02021;</label>Graduate
+School of Engineering, <institution>Nagoya University</institution>, Furo-cho, Chikusa-ku, 464-8603 Nagoya, <country>Japan</country></aff><aff id="aff3"><label>&#x000a7;</label>Office
+of Society-Academia Collaboration for Innovation, <institution>Kyoto University</institution>, Nishikyo-ku, 615-8510 Kyoto, <country>Japan</country></aff><aff id="aff4"><label>&#x02225;</label>Element
+Strategy Initiative for Catalysts &#x00026; Batteries, <institution>Kyoto University</institution>, Nishikyo-ku, 615-8246 Kyoto, <country>Japan</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>yasuyuki.kondo@elech.kuic.kyoto-u.ac.jp</email>.</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>07</month><year>2021</year></pub-date><pub-date pub-type="collection"><day>27</day><month>07</month><year>2021</year></pub-date><volume>6</volume><issue>29</issue><fpage>18737</fpage><lpage>18744</lpage><history><date date-type="received"><day>01</day><month>04</month><year>2021</year></date><date date-type="accepted"><day>05</day><month>07</month><year>2021</year></date></history><permissions><copyright-statement>&#x000a9; 2021 The Authors. Published
+by American
+Chemical Society</copyright-statement><copyright-year>2021</copyright-year><copyright-holder>The Authors</copyright-holder><license><license-p>Permits non-commercial access and re-use, provided that author attribution and integrity are maintained; but does not permit creation of adaptations or other derivative works (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">https://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao1c01751_0013" id="ab-tgr1"/></p><p>Carbon nanosphere
+(CNS) electrodes are the candidate of sodium-ion
+battery (SIB) negative electrodes with small internal resistances
+due to their small particle sizes. Electrochemical properties of low-crystallized
+CNS electrodes in dilute and concentrated sodium bis(trifluoromethanesulfonyl)
+amide/ethylene carbonate + dimethyl carbonate (NaTFSA/EC + DMC) were
+first investigated. From the cyclic voltammograms, both lithium ion
+and sodium ion can reversibly insert into/from CNSs in all of the
+electrolytes used here. The cycling stability of CNSs in concentrated
+electrolytes was better than that in dilute electrolytes for the SIB
+system. The interfacial charge-transfer resistances at the interface
+between CNSs and organic electrolytes were evaluated using electrochemical
+impedance spectroscopy. In the Nyquist plots, the semicircles at the
+middle-frequency region were assigned to the parallel circuits of
+charge-transfer resistances and capacitances. The interfacial sodium-ion
+transfer resistances in concentrated organic electrolytes were much
+smaller than those in dilute electrolytes, and the rate capability
+of CNS electrodes in sodium salt-concentrated electrolytes might be
+better than in dilute electrolytes, suggesting that CNSs with concentrated
+electrolytes are the candidate of SIB negative electrode materials
+with high rate capability. The calculated activation energies of interfacial
+sodium-ion transfer were dependent on electrolyte compositions and
+similar to those of interfacial lithium-ion transfer.</p></abstract><funding-group><award-group><funding-source><institution-wrap><institution>Element Starategy Initiative for Catalysts &#x00026; Batteries, Kyoto University</institution><institution-id institution-id-type="doi">NA</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao1c01751</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao1c01751</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Global energy consumption has continued to increase with the economic
+growth of emerging countries, and the emission of greenhouse gases
+has increased. To suppress greenhouse gas emissions without impeding
+the economic growth of emerging countries, it is essential to shift
+from the thermal power generation to the renewable energy generation.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> Because the power generation by renewable energies
+usually fluctuates drastically, the large-scale power energy storage
+is necessary. In addition, electric vehicles (EVs) are also paid much
+attention owing to decreased emission of carbon dioxide. Currently,
+the lithium-ion batteries (LIBs) are used for the electric motors
+of EVs,<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> and the next-generation LIBs with
+high energy densities are developed.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref4">4</xref></sup> At the same
+time, the increase of cost and the shortage of lithium sources are
+predicted after LIBs are widely applied to these large-scale applications.
+Then, sodium-ion batteries (SIBs) are attracting attention as substitutes
+for LIBs because of abundant sodium resources.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> The configuration of SIBs is originated from the concept that the
+lithium ion in the LIBs is replaced with the sodium ion. Sodium ion
+shuttles between positive electrodes and negative electrodes in SIBs
+in the same manner as in LIBs. The candidates of negative electrode
+materials of SIBs are carbonaceous materials, titanium-based materials,
+phosphorus, or tin.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> Among these materials,
+carbonaceous materials are the most attractive as they are commercialized
+for LIBs. The most famous candidate for carbon negative electrode
+material in SIBs is amorphous carbon because the reactivity of sodium
+ion and graphitic materials is anomalously small and sodium ion cannot
+insert into graphite but inserts deeply into amorphous carbon.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup></p><p>As for the batteries of EVs, high rate
+capability is also desired.
+Carbon nanosphere (CNS) is expected as the candidate for carbon negative
+electrode materials with high rate capability and good cycling stability
+because CNS has small particle sizes, short diffusion distances, and
+the basal planes covering the surface.<sup><xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref9">9</xref></sup> To enhance
+the rate capability of electrode materials, the resistance of electron
+transfer in composite electrodes, the resistance of ion diffusion
+in composite electrodes, the resistance of ion diffusion inside the
+electrode material, and the resistance of interfacial ion transfer
+should be considered.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> To analyze each
+resistance inside batteries, electrochemical alternating current impedance
+spectroscopy is the specific tool because processes with different
+relaxation times can be divided by impedance spectroscopy.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> In LIBs, the interfacial lithium-ion transfer
+reaction at the interface between electrodes and electrolytes has
+been studied using electrochemical impedance spectroscopy.<sup><xref ref-type="bibr" rid="ref12">12</xref>&#x02212;<xref ref-type="bibr" rid="ref15">15</xref></sup> Based on these results, the interfacial lithium-ion transfer is
+especially the significant rate-determining step. The interfacial
+sodium-ion transfer at the interface between electrodes and electrolytes
+is also expected to be the significant step. However, the kinetic
+properties of interfacial sodium-ion transfer at the interface between
+the CNS electrode and electrolyte are still not fully understood.</p><p>The kinetics of lithium-ion transfer at the interface between graphite
+negative electrodes and electrolyte solutions seemed to be influenced
+by the interaction between lithium ions and solvents, counteranions,
+or solid electrolyte interphase (SEI) in common organic electrolyte
+solutions, organic electrolyte solutions with SEI-forming additives
+like vinylene carbonate or fluoroethylene carbonate (FEC), and ionic
+liquid-based electrolyte solutions, respectively.<sup><xref ref-type="bibr" rid="ref12">12</xref>&#x02212;<xref ref-type="bibr" rid="ref14">14</xref></sup> As for ordinal
+ethylene carbonate (EC)-based electrolyte solutions, the rate-determining
+process in the interfacial lithium-ion transfer seemed to be the desolvation
+process of lithium ions.<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> On the other
+hand, the kinetics of sodium-ion transfer at the interface between
+CNS electrodes and electrolyte solutions is complicated. In the previous
+study, the interaction between sodium ions and organic solvents was
+expected to be weaker than the interaction between lithium ions and
+solvents.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> On the contrary, the activation
+energies of the interfacial sodium-ion transfer at the interface between
+graphitized CNS electrodes and electrolyte solutions were as large
+as those of interfacial lithium-ion transfer.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> In addition, the activation energies were dependent on the composition
+of electrolyte solutions.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> However, the
+interfacial sodium-ion transfer resistances of CNS electrodes measured
+in the previous study were much larger than the interfacial lithium-ion
+transfer resistances even if amorphous CNS electrodes, which seemed
+to have many reactive sites, were used with FEC-based electrolytes.
+Therefore, discovering the proper electrolytes to decrease the sodium-ion
+transfer resistances of amorphous CNS electrodes is still necessary.</p><p>In this study, the interfacial sodium-ion transfer resistances
+and the activation energies of sodium-ion transfer reaction at the
+interface between amorphous CNS electrodes and EC-based organic electrolyte
+solutions were measured by electrochemical impedance spectroscopy.
+The EC-based electrolyte with ordinal concentration was first used
+because it is the most common organic electrolyte. The EC-based electrolyte
+with high salt concentration was also used to make SEI more stable
+and prevent degradation, as reported in previous studies.<sup><xref ref-type="bibr" rid="ref4">4</xref>,<xref ref-type="bibr" rid="ref18">18</xref></sup> As a comparison, the interfacial lithium-ion transfer reaction at
+the interface between amorphous CNS electrodes and organic electrolyte
+solutions was also investigated.</p></sec><sec id="sec2"><label>2</label><title>Results
+and Discussion</title><sec id="sec2.1"><label>2.1</label><title>Structural Characterization
+of CNS-1100</title><p>First, the structure of CNS-1100 (CNS treated
+at 1100 &#x000b0;C)
+was investigated. <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref> shows the X-ray diffraction (XRD) pattern of CNS-1100. The
+XRD pattern of CNS-1100 did not show the (002) line derived from the
+graphitic structure.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup><xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref> shows the Raman spectrum of
+CNS-1100 electrodes. The Raman spectrum showed a large D-band<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> at around 1350 cm<sup>&#x02013;1</sup> and a G-band<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> at around 1585 cm<sup>&#x02013;1</sup>. These
+results indicated that CNS-1100 had an amorphous and low graphitized
+structure in both bulk and surface regions, as previously reported.<sup><xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref19">19</xref></sup><xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref> shows the
+scanning electron microscopy (SEM) image of CNS-1100 composite electrodes.
+CNS-1100 had a spherical shape indicating the coverage by bent basal
+planes derived from low graphitization degree, and the lithium ion
+or sodium ion intercalates into CNS-1100 from the surface of CNS.
+The solution structures of organic electrolytes were also investigated
+using Raman spectroscopy. <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref> shows the Raman spectra of 0.9 and 4 mol kg<sup>&#x02013;1</sup> lithium bis(trifluoromethanesulfonyl) amide/ethylene carbonate +
+dimethyl carbonate (LiTFSA/EC + DMC) and 0.9 and 4 mol kg<sup>&#x02013;1</sup> sodium bis(trifluoromethanesulfonyl) amide/EC + DMC (NaTFSA/EC +
+DMC). The peaks derived from C=O bending modes<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> of EC and CF<sub>3</sub> bending modes<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> of the TFSA anion appeared at around 720 and 745 cm<sup>&#x02013;1</sup>, respectively. These peaks shifted at a higher Raman
+shift in concentrated electrolytes by the interaction with lithium
+or sodium ion, indicating that most of the lithium or sodium ions
+were coordinated with solvents in dilute electrolytes or anions in
+concentrated electrolytes.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>XRD pattern of the CNS-1100 electrode.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao1c01751_0002" id="gr1" position="float"/></fig><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Raman spectrum of the CNS-1100 electrode.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao1c01751_0003" id="gr2" position="float"/></fig><fig id="fig3" position="float"><label>Figure 3</label><caption><p>SEM image of the CNS-1100 electrode.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao1c01751_0004" id="gr3" position="float"/></fig><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Raman
+spectra of (a) 0.9 and (b) 4 mol kg<sup>&#x02013;1</sup> LiTFSA/EC
++ DMC and (c) 0.9 and (d) 4 mol kg<sup>&#x02013;1</sup> NaTFSA/EC +
+DMC.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao1c01751_0005" id="gr4" position="float"/></fig></sec><sec id="sec2.2"><label>2.2</label><title>Lithium-Ion
+Transfer Reaction at the Interface
+between CNS Composite Electrodes/Organic Electrolyte Solutions</title><p>Electrochemical properties of CNS-1100 composite electrodes in electrolytes
+containing lithium ions were investigated. <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref> shows the CVs of 0.9 and 4 mol kg<sup>&#x02013;1</sup> CNS-1100 composite electrodes in LiTFSA/EC + DMC. The irreversible
+currents were observed only in the 1st cycle, suggesting the formation
+of SEI on CNS electrodes in all of the electrolytes. The redox peaks
+also appeared in all of the electrolytes and were assigned to the
+reversible lithium-ion insertion into/from CNS-1100.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Cyclic voltammograms
+of the CNS-1100 composite electrode in (a)
+0.9 and (b) 4 mol kg<sup>&#x02013;1</sup> LiTFSA/EC + DMC (1:1 by vol)
+at a scan rate of 0.1 mV s<sup>&#x02013;1</sup>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao1c01751_0006" id="gr5" position="float"/></fig><p><xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref> shows the
+Nyquist plots of the CNS-1100 composite electrode in 0.9 and 4 mol
+kg<sup>&#x02013;1</sup> LiTFSA/EC + DMC (1:1 by vol). Two semicircles
+appeared at the high-frequency and the middle-frequency regions in
+0.9 mol kg<sup>&#x02013;1</sup> LiTFSA/EC + DMC (1:1 by vol). The semicircles
+at the high-frequency region or at the middle-frequency region were
+assigned to the parallel circuits of capacitances and SEI resistances
+or charge-transfer resistances, respectively, because only the semicircle
+at the high frequency was observed at open-circuit potential (OCV)
+after cyclic voltammetry (CV). Only one semicircle was observed at
+the middle-frequency region in 4 mol kg<sup>&#x02013;1</sup> LiTFSA/EC
++ DMC (1:1 by vol). As for the concentrated electrolytes, this semicircle
+was assigned to the charge-transfer resistance. The SEI resistance
+seemed to be negligibly small in the concentrated electrolyte because
+the SEI on CNS electrodes in this concentrated electrolyte might have
+good passivation ability than in 0.9 mol kg<sup>&#x02013;1</sup> LiTFSA/EC
++ DMC (1:1 by vol), and the SEI formation reaction might finish earlier
+and the thickness of SEI in the concentrated electrolyte might be
+thinner than in the dilute electrolyte, as previously reported for
+concentrated carbonate-based electrolytes.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup></p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Nyquist
+plots of CNS-1100 composite electrodes in (a) 0.9 and (b)
+4 mol kg<sup>&#x02013;1</sup> LiTFSA/EC + DMC (1:1 by vol) and equivalent
+circuits used for fitting for CNS-1100 electrodes in (c) 0.9 and (d)
+4 mol kg<sup>&#x02013;1</sup> LiTFSA/EC + DMC (1:1 by vol).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao1c01751_0007" id="gr6" position="float"/></fig><p>The activation energies of the interfacial lithium-ion transfer
+at the interface between CNS and electrolyte solutions were measured.
+The logarithmic reciprocal of charge-transfer resistances was plotted
+against the reciprocal of temperature. <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref> shows the temperature dependence of charge-transfer
+reactions of CNS-1100 composite electrodes in 0.9 and 4 mol kg<sup>&#x02013;1</sup> LiTFSA/EC + DMC (1:1 by vol). The activation energy
+was calculated using the following Arrhenius equation<sup><xref ref-type="bibr" rid="ref13">13</xref></sup><disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao1c01751_m001" position="anchor"/><label>1</label></disp-formula>where <italic>R</italic><sub>ct</sub> is the
+charge-transfer resistance, <italic>A</italic> is the prefrequency
+factor, <italic>E</italic><sub>a</sub> is the activation energy, <italic>R</italic> is the gas constant, and <italic>T</italic> is the absolute
+temperature. The charge-transfer resistances were estimated basically
+by fitting with the equivalent circuit shown in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>c (<italic>R</italic><sub>Sol</sub> is the
+resistance of electrolyte conductivity and <italic>R</italic><sub>SEI</sub> is SEI resistance). When the SEI resistance was negligible,
+the charge-transfer resistances were estimated using the equivalent
+circuit shown in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>d. As a result, the activation energy in 0.9 mol kg<sup>&#x02013;1</sup> LiTFSA/EC + DMC (1:1 by vol) was 56 kJ mol<sup>&#x02013;1</sup>,
+which was near to the reported values for highly oriented pyrolytic
+graphite (HOPG) and glassy carbon electrodes.<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref24">24</xref></sup> In the previous reports regarding the lithium-ion transfer resistances
+of carbon negative electrodes, the differences in activation energies
+of charge-transfer resistances measured in different electrolytes
+corresponded to the differences of interaction between lithium ions
+and solvents by calculating the heats of solvating reaction, and the
+rate-determining step was considered to be the final desolvation process.<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> Based on the previous reports,<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> solvents seem to be difficult to cointercalate into the
+bulk of low-crystallized carbons and desolvation process should be
+necessary for lithium-ion insertion into CNS-1100. Hence, the rate-determining
+step in the lithium-ion transfer reaction between the CNS electrode
+and the dilute electrolyte seemed to be the final desolvation process
+of EC. The activation energy in 4 mol kg<sup>&#x02013;1</sup> LiTFSA/EC
++ DMC (1:1 by vol) was 75 kJ mol<sup>&#x02013;1</sup> and very large.
+We speculated that the kinetics of the interfacial lithium-ion transfer
+reaction in concentrated electrolytes is controlled by the interaction
+between the lithium ion and anion, which might be stronger than the
+interaction between lithium ions and neutral solvents. These results
+were consistent with the previous reports of graphitized CNS.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup></p><fig id="fig7" position="float"><label>Figure 7</label><caption><p>Temperature dependence of charge-transfer resistances
+of CNS-1100
+composite electrodes in (a) 0.9 and (b) 4 mol kg<sup>&#x02013;1</sup> LiTFSA/EC + DMC (1:1 by vol).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao1c01751_0008" id="gr7" position="float"/></fig></sec><sec id="sec2.3"><label>2.3</label><title>Sodium-Ion Transfer Reaction at the Interface
+between CNS Composite Electrodes/Organic Electrolyte Solutions</title><p><xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref> shows the
+CVs of CNS-1100 composite electrodes in 0.9 and 4 mol kg<sup>&#x02013;1</sup> NaTFSA/EC + DMC (1:1 by vol). The irreversible currents were observed
+in all of the electrolytes, and most of the irreversible currents
+disappeared from the 2nd cycle, indicating the formation of SEI on
+CNS electrodes in the same manner of the lithium-ion system. The redox
+peaks also appeared in all of the electrolytes and were assigned to
+the reversible sodium-ion insertion into/from CNS-1100. However, redox
+peaks in the dilute EC-based electrolyte decreased during cycling.
+This seemed to be because the SEI in the SIB system is easier to dissolve
+into electrolytes than that in the LIB system.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> CNS has a large surface area owing to the small particle
+size, and the dissolution of SEI and degradation due to continuous
+electrolyte decomposition might be much severe. On the other hand,
+the redox peaks in concentrated electrolytes did not decrease during
+cycling, suggesting that the stability of SEI in concentrated electrolytes
+is the best. These results might be because the dissolution of SEI
+and the continuous electrolyte decomposition were the most minimized
+by the saturation of the high-salt-concentration electrolyte.</p><fig id="fig8" position="float"><label>Figure 8</label><caption><p>Cyclic voltammograms
+of CNS-1100 composite electrodes in (a) 0.9
+and (b) 4 mol kg<sup>&#x02013;1</sup> NaTFSA/EC + DMC (1:1 by vol)
+at a scan rate of 0.1 mV s<sup>&#x02013;1</sup>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao1c01751_0009" id="gr8" position="float"/></fig><p><xref rid="fig9" ref-type="fig">Figure <xref rid="fig9" ref-type="fig">9</xref></xref> shows the
+Nyquist plots of the CNS-1100 composite electrode in 0.9 and 4 mol
+kg<sup>&#x02013;1</sup> NaTFSA/EC + DMC (1:1 by vol). At least one
+semicircle was observed at the middle-frequency region in all of the
+electrolytes. This semicircle at the middle-frequency region was assigned
+to the parallel circuits of charge-transfer resistances and capacitances
+like the cases of previous literatures.<sup><xref ref-type="bibr" rid="ref17">17</xref>,<xref ref-type="bibr" rid="ref27">27</xref></sup> The SEI resistance
+seemed to be negligible in the concentrated electrolytes because the
+amounts of SEI formation might also be minimized due to the best stability
+of SEI. In addition, only the interfacial sodium-ion transfer resistances
+in concentrated electrolytes were as small as the interfacial lithium-ion
+transfer resistances. The origin of the small interfacial resistance
+in the concentrated electrolyte might be derived from the high stability
+of SEI to prevent degradation of electrodes and large activity of
+sodium ion in concentrated electrolytes, which leads to large prefrequency
+factors. These results indicated that CNS-1100 negative electrodes
+in concentrated electrolytes can be the candidate of negative electrodes
+with high rate capability in SIBs.</p><fig id="fig9" position="float"><label>Figure 9</label><caption><p>Nyquist plots of CNS-1100 composite electrodes
+in (a) 0.9 and (b)
+4 mol kg<sup>&#x02013;1</sup> NaTFSA/EC + DMC (1:1 by vol).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao1c01751_0010" id="gr9" position="float"/></fig><p>The activation energies of the interfacial sodium-ion transfer
+at the interface between amorphous CNS and electrolyte solutions were
+evaluated in the same manner as that of the lithium system. <xref rid="fig10" ref-type="fig">Figure <xref rid="fig10" ref-type="fig">10</xref></xref> shows the temperature
+dependence of charge-transfer reactions of CNS-1100 composite electrodes
+in 0.9 and 4 mol kg<sup>&#x02013;1</sup> NaTFSA/EC + DMC (1:1 by vol).
+The activation energy in 0.9 mol kg<sup>&#x02013;1</sup> NaTFSA/EC
++ DMC (1:1 by vol) was 56&#x02013;64 kJ mol<sup>&#x02013;1</sup>. On
+the other hand, the activation energy in 4 mol kg<sup>&#x02013;1</sup> NaTFSA/EC + DMC (1:1 by vol) was 68&#x02013;69 kJ mol<sup>&#x02013;1</sup> and very large. These values of activation energies were close to
+those of graphitized CNS electrodes.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> Hence,
+the electrolyte dependency of activation energies of interfacial sodium-ion
+transfer seemed to be universal for carbonaceous electrodes independent
+of the graphitization degree. The activation energies of the interfacial
+sodium-ion transfer might be dependent on the interaction between
+sodium ions and solvents or anions. However, the rate-determining
+step of the interfacial sodium-ion transfer might not be the simple
+desolvation process but the multiple process because these values
+of activation energies of interfacial sodium-ion transfer were much
+larger than the expected values of activation energies decided by
+the simple desolvation process based on the weak Lewis acidity of
+sodium ion. Considering the large activation energies of sodium-ion
+transfer resistances in concentrated electrolytes, decreasing the
+activation energies is desired in the future to decrease the interfacial
+resistances due to changing the salt anions and so forth.</p><fig id="fig10" position="float"><label>Figure 10</label><caption><p>Temperature
+dependence of charge-transfer resistances of CNS-1100
+composite electrodes in (a) 0.9 and (b) 4 mol kg<sup>&#x02013;1</sup> NaTFSA/EC + DMC (1:1 by vol).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao1c01751_0011" id="gr10" position="float"/></fig><p>Finally, <xref rid="fig11" ref-type="fig">Figure <xref rid="fig11" ref-type="fig">11</xref></xref> shows the charge&#x02013;discharge curves of CNS-1100 and acetylene
+black (AB) composite electrodes in 0.9 and 4 mol kg<sup>&#x02013;1</sup> NaTFSA/EC + DMC (1:1 by vol). At the first cycle, the irreversible
+capacity of the CNS electrode in the dilute electrolyte was larger
+than that in the concentrated electrolyte, indicating that the passivation
+ability of SEI in the concentrated electrolyte was better than in
+the dilute electrolyte like the case of the cyclic voltammograms.
+The maximum reversible capacity of CNS-1100 electrodes was around
+145 mAh g<sup>&#x02013;1</sup>. To evaluate the rate capability of
+CNS-1100 electrodes in both electrolytes, the reversible capacities
+were plotted against the cycling number, as shown in <xref rid="fig11" ref-type="fig">Figure <xref rid="fig11" ref-type="fig">11</xref></xref>c. Based on the result in <xref rid="fig11" ref-type="fig">Figure <xref rid="fig11" ref-type="fig">11</xref></xref>c, the rate capability
+of CNS-1100 electrodes in the concentrated electrolyte under medium
+current densities was better than in the dilute electrolyte. These
+results also indicated that internal resistances of CNS-1100 electrodes
+in the concentrated electrolyte can be smaller than in the dilute
+electrolyte. Under the largest current densities, capacity loss in
+the concentrated electrolyte was almost the same as in the dilute
+electrolyte. This seemed to be because IR drops in the concentrated
+electrolyte were larger than in the dilute electrolyte due to the
+smaller electrolyte conductivity and so on. Hence, decreasing the
+activation energies of charge-transfer resistances and increasing
+electrolyte conductivities in concentrated electrolyte systems are
+desired to fabricate the high-rate sodium-ion battery in the future.</p><fig id="fig11" position="float"><label>Figure 11</label><caption><p>Charge&#x02013;discharge
+curves of CNS-1100 and AB composite electrodes
+in (a) 0.9 and (b) 4 mol kg<sup>&#x02013;1</sup> NaTFSA/EC + DMC (1:1
+by vol), and (c) reversible capacities plotted against the cycle number
+in both electrolytes.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao1c01751_0012" id="gr11" position="float"/></fig></sec></sec><sec id="sec3"><label>3</label><title>Conclusions</title><p>The interfacial sodium-ion transfer reaction at the interface between
+the CNS-1100 electrode and electrolyte solutions was investigated
+with comparison to the lithium-ion transfer reaction. From the cyclic
+voltammograms, both lithium ion and sodium ion can reversibly insert
+into/from CNS-1100 in all of the electrolytes. In the Nyquist plots,
+the semicircles at the high-frequency region and the middle-frequency
+region were assigned to the SEI resistance and the charge-transfer
+resistance, respectively. The activation energies of both interfacial
+lithium-ion and sodium-ion transfer resistances were also measured.
+The values of activation energies of both interfacial lithium-ion
+and sodium-ion transfer resistances were dependent on the composition
+of electrolytes. In addition, these values of the activation energies
+for amorphous CNS electrodes were close to those for graphitized CNS
+electrodes, suggesting that the activation energies of the interfacial
+sodium-ion transfer might be independent of the graphitization degree.
+The charge&#x02013;discharge curves indicated the better rate capability
+of CNS-1100 and AB electrodes in sodium salt-concentrated electrolytes
+than in dilute electrolytes. To fabricate the SIBs with high rate
+capability, applying nanocarbonaceous negative electrodes with concentrated
+organic electrolyte solutions is one of effective approaches.</p></sec><sec id="sec4"><label>4</label><title>Experimental Section</title><p>Electrochemical measurements were
+carried out using a three-electrode
+cell. A CNS-1100 composite electrode (CNS-1100 (700&#x02013;800 nm,<sup><xref ref-type="bibr" rid="ref16">16</xref>,<xref ref-type="bibr" rid="ref17">17</xref></sup> Tokai Carbon Co., Ltd.)/poly(vinylidene difluoride) (PVdF) = 80:20
+wt %) was used as a working electrode. CNS-1100 electrodes used in
+cyclic voltammetry and electrochemical impedance spectroscopy did
+not contain conductive carbons to exclude the interfacial reaction
+of conductive carbons. For charge&#x02013;discharge measurements, the
+CNS-1100 and AB composite electrodes (CNS-1100/AB (Denka)/PVdF = 78:2:20
+wt %) were used. The Ag/Ag<sup>+</sup> electrode (silver wire immersed
+into EC + DMC (1:1 by vol) (Kishida Chemical Co., Ltd.) mixture containing
+0.2 mol kg<sup>&#x02013;1</sup> of NaTFSA (Kishida Chemical Co., Ltd.)
+and 0.04 mol kg<sup>&#x02013;1</sup> of silver trifluoromethanesulfonate
+(Sigma-Aldrich)) was used as a reference electrode, and a natural
+graphite composite electrode (natural graphite/PVdF = 90:10 wt %)
+was used as a counter electrode. Electrolyte solutions were EC + DMC
+(1:1 by vol) (Kishida Chemical Co., Ltd.) mixture containing 0.9 and
+4 mol kg<sup>&#x02013;1</sup> LiTFSA (Kishida Chemical Co., Ltd.) or
+NaTFSA. In this study, TFSA salts with high solubility were used to
+avoid the evolution of HF. The potential of the silver reference electrode
+was calibrated by measuring the redox potential of ferrocene in each
+electrolyte containing 3 mmol kg<sup>&#x02013;1</sup> of ferrocene
+(Alfa Aesar). Hereafter, all potentials are referred to as Fc/Fc<sup>+</sup>; &#x02212;2.77 and &#x02212;2.74 V vs Fc/Fc<sup>+</sup> in
+0.9 and 4 mol kg<sup>&#x02013;1</sup> NaTFSA/EC + DMC, respectively,
+were near to 0.2 V vs Na/Na<sup>+</sup>. Cyclic voltammetry (CV) was
+conducted between open-circuit potential (OCV) and various potentials,
+and the scan rate was set at 0.1 mV s<sup>&#x02013;1</sup>. Electrochemical
+impedance spectroscopy was carried out with an ac amplitude of 10
+mV in a frequency range of 100 kHz to 10 mHz at temperatures ranging
+from 30 to 10 &#x000b0;C. Charge&#x02013;discharge measurements were conducted
+between OCV and &#x02212;2.98 or &#x02212;2.925 V vs Fc/Fc<sup>+</sup> in 0.9 or 4 mol kg<sup>&#x02013;1</sup> NaTFSA/EC + DMC, respectively,
+and the current densities were set between 25 and 200 mA g<sup>&#x02013;1</sup>. The cells were assembled in an Ar-filled glovebox. All electrochemical
+measurements were carried out using HSV-100 (HOKUTO-DENKO) and Solartron1470E+1400A
+(Solartron Analytical). SEM, XRD measurements, and Raman spectroscopy
+were used for structural characterization of CNS-1100 electrodes and
+electrolyte solutions using S-3000H (Hitachi High-Tech Fielding Corp.),
+RINT2200 (RIGAKU), and LabRAM HR (HORIBA).</p></sec></body><back><notes notes-type="COI-statement" id="NOTES-d7e746-autogenerated"><p>The authors declare
+no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This work was partially supported by the Element Strategy
+Initiative for Catalysts &#x00026; Batteries (ESICB), Kyoto University.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Doughty</surname><given-names>D.</given-names></name>; <name><surname>Butler</surname><given-names>P. C.</given-names></name>; <name><surname>Skhil</surname><given-names>A. A.</given-names></name>; <name><surname>Clark</surname><given-names>N. H.</given-names></name>; <name><surname>Boyes</surname><given-names>J. D.</given-names></name>
+<article-title>Batteries
+for large-scale stationary electrical energy storage</article-title>. <source>Electrochem. Soc. Interface</source>
+<year>2010</year>, <volume>19</volume>, <fpage>49</fpage>&#x02013;<lpage>53</lpage>. <pub-id pub-id-type="doi">10.1149/2.F05103if</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Lu</surname><given-names>L.</given-names></name>; <name><surname>Han</surname><given-names>X.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Hua</surname><given-names>J.</given-names></name>; <name><surname>Ouyand</surname><given-names>M.</given-names></name>
+<article-title>A review on the key
+issues for lithium-ion battery management in electric vehicles</article-title>. <source>J. Power Sources</source>
+<year>2013</year>, <volume>226</volume>, <fpage>272</fpage>&#x02013;<lpage>282</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2012.10.060</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>An</surname><given-names>Y.</given-names></name>; <name><surname>Fei</surname><given-names>H.</given-names></name>; <name><surname>Zeng</surname><given-names>G.</given-names></name>; <name><surname>Ci</surname><given-names>L.</given-names></name>; <name><surname>Xiong</surname><given-names>S.</given-names></name>; <name><surname>Feng</surname><given-names>J.</given-names></name>; <name><surname>Qian</surname><given-names>Y.</given-names></name>
+<article-title>Green, scalable, and
+controllable fabrication of nanoporous silicon
+from commercial alloy precursors for high-energy lithium-ion batteries</article-title>. <source>ACS Nano</source>
+<year>2018</year>, <volume>12</volume>, <fpage>4993</fpage>&#x02013;<lpage>5002</lpage>. <pub-id pub-id-type="doi">10.1021/acsnano.8b02219</pub-id>.<pub-id pub-id-type="pmid">29683640</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Zeng</surname><given-names>G.</given-names></name>; <name><surname>An</surname><given-names>Y.</given-names></name>; <name><surname>Xiong</surname><given-names>S.</given-names></name>; <name><surname>Feng</surname><given-names>J.</given-names></name>
+<article-title>Nonflammable fluorinated carbonate
+electrolyte with high salt-to-solvent ratios enables stable silicon-based
+anode for next-generation lithium-ion batteries</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2019</year>, <volume>11</volume>, <fpage>23229</fpage>&#x02013;<lpage>23235</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.9b05570</pub-id>.<pub-id pub-id-type="pmid">31252474</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Yabuuchi</surname><given-names>N.</given-names></name>; <name><surname>Kubota</surname><given-names>K.</given-names></name>; <name><surname>Dahbi</surname><given-names>M.</given-names></name>; <name><surname>Komaba</surname><given-names>S.</given-names></name>
+<article-title>Research development
+on sodium-ion batteries</article-title>. <source>Chem. Rev.</source>
+<year>2014</year>, <volume>114</volume>, <fpage>11636</fpage>&#x02013;<lpage>11682</lpage>. <pub-id pub-id-type="doi">10.1021/cr500192f</pub-id>.<pub-id pub-id-type="pmid">25390643</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Dahbi</surname><given-names>M.</given-names></name>; <name><surname>Yabuuchi</surname><given-names>N.</given-names></name>; <name><surname>Kubota</surname><given-names>K.</given-names></name>; <name><surname>Tokiwa</surname><given-names>K.</given-names></name>; <name><surname>Komaba</surname><given-names>S.</given-names></name>
+<article-title>Negative electrodes
+for Na-ion batteries</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2014</year>, <volume>16</volume>, <fpage>15007</fpage>&#x02013;<lpage>15028</lpage>. <pub-id pub-id-type="doi">10.1039/c4cp00826j</pub-id>.<pub-id pub-id-type="pmid">24894102</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Komaba</surname><given-names>S.</given-names></name>; <name><surname>Murata</surname><given-names>W.</given-names></name>; <name><surname>Ishikawa</surname><given-names>T.</given-names></name>; <name><surname>Yabuuchi</surname><given-names>N.</given-names></name>; <name><surname>Ozeki</surname><given-names>T.</given-names></name>; <name><surname>Nakayama</surname><given-names>T.</given-names></name>; <name><surname>Ogata</surname><given-names>A.</given-names></name>; <name><surname>Gotoh</surname><given-names>K.</given-names></name>; <name><surname>Fujiwara</surname><given-names>K.</given-names></name>
+<article-title>Electrochemical
+Na insertion and solid electrolyte interphase for hard-carbon electrodes
+and application to Na-ion batteries</article-title>. <source>Adv. Funct.
+Mater.</source>
+<year>2011</year>, <volume>21</volume>, <fpage>3859</fpage>&#x02013;<lpage>3867</lpage>. <pub-id pub-id-type="doi">10.1002/adfm.201100854</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Yoshizawa</surname><given-names>N.</given-names></name>; <name><surname>Tanaike</surname><given-names>O.</given-names></name>; <name><surname>Hatori</surname><given-names>H.</given-names></name>; <name><surname>Yoshikawa</surname><given-names>K.</given-names></name>; <name><surname>Kondo</surname><given-names>A.</given-names></name>; <name><surname>Abe</surname><given-names>T.</given-names></name>
+<article-title>TEM and electron tomography
+studies
+of carbon nanospheres for lithium secondary batteries</article-title>. <source>Carbon</source>
+<year>2006</year>, <volume>44</volume>, <fpage>2558</fpage>&#x02013;<lpage>2564</lpage>. <pub-id pub-id-type="doi">10.1016/j.carbon.2006.05.041</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Maruyama</surname><given-names>S.</given-names></name>; <name><surname>Fukutsuka</surname><given-names>T.</given-names></name>; <name><surname>Miyazaki</surname><given-names>K.</given-names></name>; <name><surname>Abe</surname><given-names>Y.</given-names></name>; <name><surname>Yoshizawa</surname><given-names>N.</given-names></name>; <name><surname>Abe</surname><given-names>T.</given-names></name>
+<article-title>Lithium-ion intercalation and deintercalation behavior of graphitized
+carbon nanospheres</article-title>. <source>J. Mater. Chem. A</source>
+<year>2018</year>, <volume>6</volume>, <fpage>1128</fpage>&#x02013;<lpage>1137</lpage>. <pub-id pub-id-type="doi">10.1039/C7TA07902H</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Ogihara</surname><given-names>N.</given-names></name>; <name><surname>Kawauchi</surname><given-names>S.</given-names></name>; <name><surname>Okuda</surname><given-names>C.</given-names></name>; <name><surname>Itou</surname><given-names>Y.</given-names></name>; <name><surname>Takeuchi</surname><given-names>Y.</given-names></name>; <name><surname>Ukyo</surname><given-names>Y.</given-names></name>
+<article-title>Theoretical and experimental analysis of porous electrodes for lithium-ion
+batteries by electrochemical impedance spectroscopy using a symmetric
+cell</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2012</year>, <volume>159</volume>, <fpage>A1034</fpage>&#x02013;<lpage>A1039</lpage>. <pub-id pub-id-type="doi">10.1149/2.057207jes</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Amemiya</surname><given-names>T.</given-names></name>; <name><surname>Fujishima</surname><given-names>A.</given-names></name>
+<article-title>Electrochemical impedance spectroscopy. Variety of
+transfer function analysis</article-title>. <source>Denki Kagaku</source>
+<year>1993</year>, <volume>61</volume>, <fpage>290</fpage>&#x02013;<lpage>294</lpage>. <pub-id pub-id-type="doi">10.5796/electrochemistry.61.290</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Fukutsuka</surname><given-names>T.</given-names></name>; <name><surname>Sagane</surname><given-names>F.</given-names></name>; <name><surname>Miyazaki</surname><given-names>K.</given-names></name>; <name><surname>Abe</surname><given-names>T.</given-names></name>; <name><surname>Toda</surname><given-names>T.</given-names></name>; <name><surname>Matsuo</surname><given-names>Y.</given-names></name>; <name><surname>Sugie</surname><given-names>Y.</given-names></name>; <name><surname>Ogumi</surname><given-names>Z.</given-names></name>
+<article-title>Ion-solvent
+interaction
+for lithium-ion transfer at the interface between carbonaceous thin-film
+electrode and electrolyte</article-title>. <source>TANSO</source>
+<year>2010</year>, <volume>2010</volume>, <fpage>188</fpage>&#x02013;<lpage>191</lpage>. <pub-id pub-id-type="doi">10.7209/tanso.2010.188</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Ishihara</surname><given-names>Y.</given-names></name>; <name><surname>Miyazaki</surname><given-names>K.</given-names></name>; <name><surname>Fukutsuka</surname><given-names>T.</given-names></name>; <name><surname>Abe</surname><given-names>T.</given-names></name>
+<article-title>Lithium-ion transfer
+at the interface between high potential negative electrodes and ionic
+liquids</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2014</year>, <volume>161</volume>, <fpage>A1939</fpage>&#x02013;<lpage>A1942</lpage>. <pub-id pub-id-type="doi">10.1149/2.1111412jes</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Yamada</surname><given-names>Y.</given-names></name>; <name><surname>Iriyama</surname><given-names>Y.</given-names></name>; <name><surname>Abe</surname><given-names>T.</given-names></name>; <name><surname>Ogumi</surname><given-names>Z.</given-names></name>
+<article-title>Kinetics of
+lithium
+ion transfer at the interface between graphite and liquid electrolytes:
+effects of solvent and surface film</article-title>. <source>Langmuir</source>
+<year>2009</year>, <volume>25</volume>, <fpage>12766</fpage>&#x02013;<lpage>12770</lpage>. <pub-id pub-id-type="doi">10.1021/la901829v</pub-id>.<pub-id pub-id-type="pmid">19856995</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Abe</surname><given-names>T.</given-names></name>; <name><surname>Sagane</surname><given-names>F.</given-names></name>; <name><surname>Ohtsuka</surname><given-names>F.</given-names></name>; <name><surname>Iriyama</surname><given-names>Y.</given-names></name>; <name><surname>Ogumi</surname><given-names>Z.</given-names></name>
+<article-title>Lithium-ion
+transfer at the interface between lithium-ion conductive ceramic electrolyte
+and liquid electrolyte-a key to enhancing the rate capability of lithium-ion
+batteries</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2005</year>, <volume>152</volume>, <fpage>A2151</fpage>&#x02013;<lpage>A2154</lpage>. <pub-id pub-id-type="doi">10.1149/1.2042907</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Sagane</surname><given-names>F.</given-names></name>; <name><surname>Abe</surname><given-names>T.</given-names></name>; <name><surname>Ogumi</surname><given-names>Z.</given-names></name>
+<article-title>Sodium-ion transfer at the interface between ceramic
+and organic electrolytes</article-title>. <source>J. Power Sources</source>
+<year>2010</year>, <volume>195</volume>, <fpage>7466</fpage>&#x02013;<lpage>7470</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2010.04.054</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Kondo</surname><given-names>Y.</given-names></name>; <name><surname>Fukutsuka</surname><given-names>T.</given-names></name>; <name><surname>Yokoyama</surname><given-names>Y.</given-names></name>; <name><surname>Miyahara</surname><given-names>Y.</given-names></name>; <name><surname>Miyazaki</surname><given-names>K.</given-names></name>; <name><surname>Abe</surname><given-names>T.</given-names></name>
+<article-title>Kinetic properties
+of sodium-ion transfer at the interface between
+graphitic materials and organic electrolyte solutions</article-title>. <source>J. Appl. Electrochem.</source>
+<year>2021</year>, <volume>51</volume>, <fpage>629</fpage>&#x02013;<lpage>638</lpage>. <pub-id pub-id-type="doi">10.1007/s10800-020-01523-z</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Takada</surname><given-names>K.</given-names></name>; <name><surname>Yamada</surname><given-names>Y.</given-names></name>; <name><surname>Watanabe</surname><given-names>E.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Sodeyama</surname><given-names>K.</given-names></name>; <name><surname>Tateyama</surname><given-names>Y.</given-names></name>; <name><surname>Hirata</surname><given-names>K.</given-names></name>; <name><surname>Kawase</surname><given-names>T.</given-names></name>; <name><surname>Yamada</surname><given-names>A.</given-names></name>
+<article-title>Unusual passivation
+ability of superconcentrated electrolytes toward hard carbon negative
+electrodes in sodium-ion batteries</article-title>. <source>ACS Appl.
+Mater. Interfaces</source>
+<year>2017</year>, <volume>9</volume>, <fpage>33802</fpage>&#x02013;<lpage>33809</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.7b08414</pub-id>.<pub-id pub-id-type="pmid">28766928</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Kondo</surname><given-names>Y.</given-names></name>; <name><surname>Fukutsuka</surname><given-names>T.</given-names></name>; <name><surname>Miyahara</surname><given-names>Y.</given-names></name>; <name><surname>Miyazaki</surname><given-names>K.</given-names></name>; <name><surname>Abe</surname><given-names>T.</given-names></name>
+<article-title>Sodium-ion
+intercalation behavior of graphitized carbon nanospheres covered with
+basal plane</article-title>. <source>Chem. Lett.</source>
+<year>2019</year>, <volume>48</volume>, <fpage>799</fpage>&#x02013;<lpage>801</lpage>. <pub-id pub-id-type="doi">10.1246/cl.190111</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Song</surname><given-names>H.-Y.</given-names></name>; <name><surname>Fukutsuka</surname><given-names>T.</given-names></name>; <name><surname>Miyazaki</surname><given-names>K.</given-names></name>; <name><surname>Abe</surname><given-names>T.</given-names></name>
+<article-title>In situ Raman investigation
+of electrolyte solutions in the vicinity of graphite negative electrodes</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2016</year>, <volume>18</volume>, <fpage>27486</fpage>&#x02013;<lpage>27492</lpage>. <pub-id pub-id-type="doi">10.1039/C6CP05489G</pub-id>.<pub-id pub-id-type="pmid">27711581</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Castriota</surname><given-names>M.</given-names></name>; <name><surname>Caruso</surname><given-names>T.</given-names></name>; <name><surname>Agostino</surname><given-names>R. G.</given-names></name>; <name><surname>Cazzanelli</surname><given-names>E.</given-names></name>; <name><surname>Henderson</surname><given-names>W. A.</given-names></name>; <name><surname>Passerini</surname><given-names>S.</given-names></name>
+<article-title>Raman investigation of the ionic
+liquid N-methyl-N-propylpyrrolidinium bis(trifluoromethanesulfonyl)imide
+and its mixture with LiN(SO<sub>2</sub>CF<sub>3</sub>)<sub>2</sub></article-title>. <source>J. Phys. Chem. A</source>
+<year>2005</year>, <volume>109</volume>, <fpage>92</fpage>&#x02013;<lpage>96</lpage>. <pub-id pub-id-type="doi">10.1021/jp046030w</pub-id>.<pub-id pub-id-type="pmid">16839092</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Jeong</surname><given-names>S.-K.</given-names></name>; <name><surname>Inaba</surname><given-names>M.</given-names></name>; <name><surname>Iriyama</surname><given-names>Y.</given-names></name>; <name><surname>Abe</surname><given-names>T.</given-names></name>; <name><surname>Ogumi</surname><given-names>Z.</given-names></name>
+<article-title>Interfacial
+reactions between graphite electrodes and propylene carbonate-based
+solutions: Electrolyte-concentration dependence of electrochemical
+lithium intercalation reaction</article-title>. <source>J. Power Sources</source>
+<year>2008</year>, <volume>175</volume>, <fpage>540</fpage>&#x02013;<lpage>546</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2007.08.065</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Abe</surname><given-names>T.</given-names></name>; <name><surname>Fukuda</surname><given-names>H.</given-names></name>; <name><surname>Iriyama</surname><given-names>Y.</given-names></name>; <name><surname>Ogumi</surname><given-names>Z.</given-names></name>
+<article-title>Solvated Li-ion transfer
+at interface between graphite and electrolyte</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2004</year>, <volume>151</volume>, <fpage>A1120</fpage>&#x02013;<lpage>A1123</lpage>. <pub-id pub-id-type="doi">10.1149/1.1763141</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Doi</surname><given-names>T.</given-names></name>; <name><surname>Iriyama</surname><given-names>Y.</given-names></name>; <name><surname>Abe</surname><given-names>T.</given-names></name>; <name><surname>Ogumi</surname><given-names>Z.</given-names></name>
+<article-title>Lithium-ion transfer
+at an electrolyte/heat-treated nongraphitizable carbon electrode interface</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2005</year>, <volume>152</volume>, <fpage>A1521</fpage>&#x02013;<lpage>A1525</lpage>. <pub-id pub-id-type="doi">10.1149/1.1943668</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Inagaki</surname><given-names>M.</given-names></name>; <name><surname>Tanaike</surname><given-names>O.</given-names></name>
+<article-title>Determining factors
+for the intercalation into carbon
+materials from organic solutions</article-title>. <source>Carbon</source>
+<year>2001</year>, <volume>39</volume>, <fpage>1083</fpage>&#x02013;<lpage>1090</lpage>. <pub-id pub-id-type="doi">10.1016/S0008-6223(00)00233-5</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Mogensen</surname><given-names>R.</given-names></name>; <name><surname>Brandell</surname><given-names>D.</given-names></name>; <name><surname>Younesi</surname><given-names>R.</given-names></name>
+<article-title>Solubility
+of the solid electrolyte
+interphase (SEI) in sodium ion batteries</article-title>. <source>ACS
+Energy Lett.</source>
+<year>2016</year>, <volume>1</volume>, <fpage>1173</fpage>&#x02013;<lpage>1178</lpage>. <pub-id pub-id-type="doi">10.1021/acsenergylett.6b00491</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Hasegawa</surname><given-names>G.</given-names></name>; <name><surname>Kanamori</surname><given-names>K.</given-names></name>; <name><surname>Kannari</surname><given-names>N.</given-names></name>; <name><surname>Ozaki</surname><given-names>J.</given-names></name>; <name><surname>Nakanishi</surname><given-names>K.</given-names></name>; <name><surname>Abe</surname><given-names>T.</given-names></name>
+<article-title>Studies on electrochemical
+sodium storage into hard carbons with
+binder-free monolithic electrodes</article-title>. <source>J. Power
+Sources</source>
+<year>2016</year>, <volume>318</volume>, <fpage>41</fpage>&#x02013;<lpage>48</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2016.04.013</pub-id>.</mixed-citation></ref></ref-list></back></article>

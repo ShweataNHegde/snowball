@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In general, the exchange current density of a catalyst for an electrochemical reaction determines its activity. Since determining this parameter for technical electrodes is difficult and uncertain, another method of measuring catalyst’s activity in fuel cells is the mass activity (A
+ <sub>m</sub>) according to Equation (15) [
+ <xref rid="B40-molecules-26-03440" ref-type="bibr">40</xref>]. 
+ <disp-formula id="FD9-molecules-26-03440">
+  <label>(15)</label>
+  <math id="mm9">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi mathvariant="normal">A</mi>
+      <mi mathvariant="normal">m</mi>
+     </msub>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mi mathvariant="normal">i</mi>
+        <mn>0.9</mn>
+       </msub>
+      </mrow>
+      <mi mathvariant="normal">W</mi>
+     </mfrac>
+     <mo>,</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where i
+ <sub>0.9</sub> is the current density in mA/cm
+ <sup>2</sup> at 0.9 V, and W is the loading metal (usually Pt) in mg/cm
+ <sup>2</sup>. The value of 0.9 V was chosen to prevent any concentration polarization from being used. The mass activity is provided for operation with reactants of 100%O
+ <sub>2</sub> and 100%H
+ <sub>2</sub> [
+ <xref rid="B40-molecules-26-03440" ref-type="bibr">40</xref>]. With a geometric area of 0.247 cm
+ <sup>2</sup> and a load of 30 μg of metal per cm
+ <sup>2</sup>, the mass of 7.43 μg of Pd and 5.71 μg of Pt on the Pd/C and Pt/C working electrodes were determined. Since the reaction on Pd catalyst is slower than on Pt catalyst, the current (i) value at 0.85 V was used in this study.
+</p>

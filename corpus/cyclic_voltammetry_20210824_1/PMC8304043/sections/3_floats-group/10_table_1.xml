@@ -1,0 +1,1604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="materials-14-03840-t001" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">materials-14-03840-t001_Table 1</object-id>
+ <label>Table 1</label>
+ <caption>
+  <p>Properties of various Solid Polymer-based electrolytes (PEO, other polymers and composites) from recent publications (2019–2020). The several reported properties are the ionic conductivity, the conductivity temperature evaluation, E
+   <sub>ox</sub> (oxidative stability of studied materials), the scanning rate for the E
+   <sub>ox</sub> evaluation, the temperature for ESW evaluation (RT = Room temperature) and the method used for the evaluation (cyclic voltammetry, CV; Linear sweep voltammetry, LSV).
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Solid Electrolyte/Sample</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Salt</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Ionic Conductivity (S/cm)</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Conductivity T (°C)</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">E
+     <sub>ox</sub> (V vs. Li
+     <sup>+</sup>/Li)
+    </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Scan Rate (mV/s)</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">ESW T (°C)</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Method</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">References</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PCL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.5 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.6</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">55</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B17-materials-14-03840" ref-type="bibr">17</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PIL-SN-PCE</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">6.54 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.4</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B18-materials-14-03840" ref-type="bibr">18</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DAVA + ETTMP 1300</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiPF
+     <sub>6</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">7.65 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">6</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">100</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B19-materials-14-03840" ref-type="bibr">19</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO8–LiPCSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiPCSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">7.33 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.53</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.2</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B20-materials-14-03840" ref-type="bibr">20</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3D ANF framework/PEO-LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">8.8 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&gt;4.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B21-materials-14-03840" ref-type="bibr">21</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO–LiClO
+     <sub>4</sub>–LLZTO
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiClO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4 to 4.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.3</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B22-materials-14-03840" ref-type="bibr">22</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO-LiTFSI-3%VSB-5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.83 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.13</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B23-materials-14-03840" ref-type="bibr">23</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PVA/GA with 24 wt% of LiClO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiClO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.6 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B24-materials-14-03840" ref-type="bibr">24</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">BCT (copolymer dblock)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">9.1 × 10
+     <sup>−6</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B25-materials-14-03840" ref-type="bibr">25</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5PEG-SSH</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">7.28 × 10
+     <sup>−6</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B26-materials-14-03840" ref-type="bibr">26</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Li(FSI-ethyl cellulose)/PEO</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.5 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">70</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">70</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B27-materials-14-03840" ref-type="bibr">27</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Li-HCFu-PH</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiPF
+     <sub>6</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">6.4 × 10
+     <sup>−3</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.7</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CV/ LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B28-materials-14-03840" ref-type="bibr">28</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CPEG (copo EC/EO)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.84 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.75</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B29-materials-14-03840" ref-type="bibr">29</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(PEO)-based NASICON−LiZr
+     <sub>2</sub>(PO
+     <sub>4</sub>)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.2 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B30-materials-14-03840" ref-type="bibr">30</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Dual-Li SPEs</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI + LiPVFM</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.7 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B31-materials-14-03840" ref-type="bibr">31</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">POSS-PEGDA/PEO/LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3.83 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.3</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B32-materials-14-03840" ref-type="bibr">32</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PVT-EMIMTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">EMIMTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.26 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B33-materials-14-03840" ref-type="bibr">33</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO(LiTFSI)-LLZO+PEGDME</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.7 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.2</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B34-materials-14-03840" ref-type="bibr">34</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO-SiO
+     <sub>2</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiClO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.1 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B35-materials-14-03840" ref-type="bibr">35</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO/MnO
+     <sub>2</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.95 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B36-materials-14-03840" ref-type="bibr">36</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">SIGPE</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiSTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.84 × 10
+     <sup>−3</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.2</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B37-materials-14-03840" ref-type="bibr">37</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">8-PEG-MALC, 8-PEG, PEGDA</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">6.2 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B38-materials-14-03840" ref-type="bibr">38</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO/Al-MOF 5%</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.09 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.7</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B39-materials-14-03840" ref-type="bibr">39</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO/MOF-UIO66</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.47 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.2</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B40-materials-14-03840" ref-type="bibr">40</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO/PVDF/LiClO
+     <sub>4</sub>/TiO
+     <sub>2</sub>/PC
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiClO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10.2 × 10
+     <sup>−6</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">27</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B41-materials-14-03840" ref-type="bibr">41</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">polycarbonates/polyethers with linear and cyclic carbonates linkages</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.6 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.6</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">70</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B42-materials-14-03840" ref-type="bibr">42</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFPFB/P(PO/EM)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFPFB</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.55 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">70</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.6</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">70</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B43-materials-14-03840" ref-type="bibr">43</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CPE-(SiO
+     <sub>2</sub>@PMMA)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">8.54 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.7</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B44-materials-14-03840" ref-type="bibr">44</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO/LDH (layer double hydroxide)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.1 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B45-materials-14-03840" ref-type="bibr">45</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CSE (PEO-LiClO
+     <sub>4</sub>-PVDF/Al-LLZO)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiClO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.73 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">70</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.25</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">70</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B46-materials-14-03840" ref-type="bibr">46</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PVDF-HFP-LLZO</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.12 × 10
+     <sup>−3</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.6 to 4.9</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B47-materials-14-03840" ref-type="bibr">47</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LAGP–PEO
+     <break/>LAGP-PEA
+     <break/>LAGP-epoxy
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI and LiCLO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.25 × 10
+     <sup>−4</sup>
+     <break/>7.4 × 10
+     <sup>−4</sup>
+     <break/>8.4 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25
+     <break/>25
+     <break/>25
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B48-materials-14-03840" ref-type="bibr">48</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CS(chitosan)-LiTFSI-PEO</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">6.8 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B49-materials-14-03840" ref-type="bibr">49</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LLTO-PAN-SN(succinonitrile)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.2 × 10
+     <sup>−3</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B50-materials-14-03840" ref-type="bibr">50</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSZP-PVDF</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.76 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.73</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.2</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B51-materials-14-03840" ref-type="bibr">51</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">P(EGDMA-DODT)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.7 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.3</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B52-materials-14-03840" ref-type="bibr">52</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PVDF/PEO/LiClO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiClO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.01 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">27</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">50</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B53-materials-14-03840" ref-type="bibr">53</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">poly(ethylene oxide carbonate)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.2 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">70</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.9</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">70</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B54-materials-14-03840" ref-type="bibr">54</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">HCPE (derived PEG SPE)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.62 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.28</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B55-materials-14-03840" ref-type="bibr">55</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">poly (PEGDA-PEMP-PDMS)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.08 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B56-materials-14-03840" ref-type="bibr">56</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Cross-linked nanoparticle-polymer composites (CNPCs) OH-PEO-SiO
+     <sub>2</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3 × 10
+     <sup>−3</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV/CV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B57-materials-14-03840" ref-type="bibr">57</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO-LATP</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.15 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CV/LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B58-materials-14-03840" ref-type="bibr">58</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PVAc in P(VdF-HFP)-LiTFSI-EC</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.1 × 10
+     <sup>−3</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.7</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B59-materials-14-03840" ref-type="bibr">59</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">poly(PEGDGE-PEMP-PDMS)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.5 × 10
+     <sup>−6</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.3</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B60-materials-14-03840" ref-type="bibr">60</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEG250-POSS-4PEG2k</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">90</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B61-materials-14-03840" ref-type="bibr">61</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO/LAGP</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.6 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">20</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B62-materials-14-03840" ref-type="bibr">62</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LLTO(NF)/PEO</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiClO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.01 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B63-materials-14-03840" ref-type="bibr">63</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO34-PC 10 wt% MA</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.3 × 10
+     <sup>−3</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">70</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.9</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">70</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B64-materials-14-03840" ref-type="bibr">64</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">P(SSPSILi-alt-MA)/PEO</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">SSPSILi</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3.08 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">80</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B65-materials-14-03840" ref-type="bibr">65</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">HSPE(polysiloxane/polyetherdiamine)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiClO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.8 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">80</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.8</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B66-materials-14-03840" ref-type="bibr">66</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Grafted polyrotaxane</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.7</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.05</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B67-materials-14-03840" ref-type="bibr">67</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">NOE/PEO and LSA/PEO</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.08 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.2</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B68-materials-14-03840" ref-type="bibr">68</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO-CuO fillers</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.8</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B69-materials-14-03840" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">bis(2-methoxyethyl) ether (diglyme)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiNO
+     <sub>3</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B70-materials-14-03840" ref-type="bibr">70</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO-BaTiO
+     <sub>3</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.8 × 10
+     <sup>−5</sup>
+     <break/>1.6 × 10
+     <sup>−3</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25
+     <break/>80
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.7</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">80</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B71-materials-14-03840" ref-type="bibr">71</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEGDGE</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI LiBF
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.11 × 10
+     <sup>−3</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV/CV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B72-materials-14-03840" ref-type="bibr">72</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO/TDI/PEG</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.17 × 10
+     <sup>−3</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV/CV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B73-materials-14-03840" ref-type="bibr">73</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PIL-LiTFSI-LATP</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">7.78 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B74-materials-14-03840" ref-type="bibr">74</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Anion-regulated PEGPEA-SiO
+     <sub>2</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.16 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.8</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">55</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B75-materials-14-03840" ref-type="bibr">75</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO@GF</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.9 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.9</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B76-materials-14-03840" ref-type="bibr">76</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">UV-PCCE</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.91 × 10
+     <sup>−3</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.78</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CV/LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B77-materials-14-03840" ref-type="bibr">77</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(PTHF)-based SPE</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiClO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.3 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B78-materials-14-03840" ref-type="bibr">78</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">HGO(holey graphene oxide)-PEO</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">6.05 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.2</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B79-materials-14-03840" ref-type="bibr">79</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO:LiTFSI:SN(15%):LAO(10%)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.36 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.2</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B80-materials-14-03840" ref-type="bibr">80</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO-LLZTO-MMT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.7 × 10
+     <sup>−3</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">70</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.6</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B81-materials-14-03840" ref-type="bibr">81</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">cross-linked-PEO-TEGDME-TEGDMA</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.7 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">24</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.38</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CV/LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B82-materials-14-03840" ref-type="bibr">82</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO-BaTiO
+     <sub>3</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.2 × 10
+     <sup>−5</sup>
+     <break/>1.9 × 10
+     <sup>−3</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25
+     <break/>80
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">80</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B83-materials-14-03840" ref-type="bibr">83</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PVA, PMP-TFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3 × 10
+     <sup>−3</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.6</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B84-materials-14-03840" ref-type="bibr">84</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">NH2-PEG-NH2</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiClO
+     <sub>4</sub>, LiTFSI, LiBF
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.9 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B85-materials-14-03840" ref-type="bibr">85</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO grafted polyimide (PI-g-PEO)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">40</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CV/LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B86-materials-14-03840" ref-type="bibr">86</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LLZN NWs filled PMMA-LiClO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiClO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.2 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.7</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B87-materials-14-03840" ref-type="bibr">87</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Halloysite nanotubes (HNTs)-PEO</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">9.23 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.14</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B88-materials-14-03840" ref-type="bibr">88</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PVDF-HFP/PEO/LAGP</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3.27 × 10
+     <sup>−3</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.9</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B89-materials-14-03840" ref-type="bibr">89</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">POSS−PEG−PIL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.86 × 10
+     <sup>−5</sup>
+     <break/>2.07 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25
+     <break/>60
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.7</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">90</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B90-materials-14-03840" ref-type="bibr">90</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">vertically aligned LAGP- PEO</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.67 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B91-materials-14-03840" ref-type="bibr">91</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PVDF-HFP/LiTFSI/LLZO</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">9.5 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.2</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B92-materials-14-03840" ref-type="bibr">92</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PIL-PEO</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">6.12 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">55</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.44</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">55</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B93-materials-14-03840" ref-type="bibr">93</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LLZO-PVDF</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiClO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.6 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.8</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B94-materials-14-03840" ref-type="bibr">94</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PVA-Upy-PEG750</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiClO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.51 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B95-materials-14-03840" ref-type="bibr">95</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PS-PEG-PS</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.1 × 10
+     <sup>−3</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">70</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">70</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CV/LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B96-materials-14-03840" ref-type="bibr">96</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(PEO) K-SPE750-Li</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiClO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.82 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">20</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.4
+     <break/>5.3
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60
+     <break/>25
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV
+     <break/>LSV
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B97-materials-14-03840" ref-type="bibr">97</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiFPFSI/PEO</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiFPFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">6.2 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">80</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.6</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">80</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B16-materials-14-03840" ref-type="bibr">16</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">sPS-LiTFSI/PEGDA/succinonitrile</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.43 × 10
+     <sup>−3</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5–5.3</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV/CV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B98-materials-14-03840" ref-type="bibr">98</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PGO</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiClO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.08 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">50</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.4</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B99-materials-14-03840" ref-type="bibr">99</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PPC-PEO 10 W [5:5]-1%wt LAGP</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">8.39 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B100-materials-14-03840" ref-type="bibr">100</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PVDF/PVAC-LLZTO</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiClO4</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.8 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.85</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B101-materials-14-03840" ref-type="bibr">101</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO-N1222FSI-LiFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.14 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">50</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">50</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B102-materials-14-03840" ref-type="bibr">102</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Li-Nafion/LLZAO</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.26 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.8</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CV/LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B103-materials-14-03840" ref-type="bibr">103</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PPO-PEO-PPO/HO-PEO-SiO
+     <sub>2</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiPF
+     <sub>6</sub>/LiTFSI
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.32 × 10
+     <sup>−3</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">20</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">6.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">20</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B104-materials-14-03840" ref-type="bibr">104</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sandwich-type PVDF-HFP-LLZTO</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.29 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.3</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">40</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B105-materials-14-03840" ref-type="bibr">105</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LLZTO/PEO-LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.61 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">6</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B106-materials-14-03840" ref-type="bibr">106</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO-ta-POSS</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.2 × 10
+     <sup>−3</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">90</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3.8</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.2</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B107-materials-14-03840" ref-type="bibr">107</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">g-C3N4/PEO (CSPE)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.7 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.7</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B108-materials-14-03840" ref-type="bibr">108</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N1222FSI-PIL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.08 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">40</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B109-materials-14-03840" ref-type="bibr">109</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">hbPPEGMAm-s-PSn</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">9.5 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.3</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.2</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B110-materials-14-03840" ref-type="bibr">110</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO-cPTFBC</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiDFOB</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.2 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">50</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.7</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B111-materials-14-03840" ref-type="bibr">111</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO@SiO
+     <sub>2</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiClO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.1 × 10
+     <sup>−4</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.8</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">90</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B112-materials-14-03840" ref-type="bibr">112</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LLZTO/PEO</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LiTFSI</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.31 × 10
+     <sup>−5</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.2</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LSV</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B113-materials-14-03840" ref-type="bibr">113</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

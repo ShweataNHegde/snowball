@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR74">
+ <label>74.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Parker</surname>
+    <given-names>JF</given-names>
+   </name>
+   <name>
+    <surname>Chervin</surname>
+    <given-names>CN</given-names>
+   </name>
+   <name>
+    <surname>Nelson</surname>
+    <given-names>ES</given-names>
+   </name>
+   <name>
+    <surname>Rolison</surname>
+    <given-names>DR</given-names>
+   </name>
+   <name>
+    <surname>Long</surname>
+    <given-names>JW</given-names>
+   </name>
+  </person-group>
+  <article-title>Wiring zinc in three dimensions re-writes battery performance-dendrite-free cycling</article-title>
+  <source>Energy Environ. Sci.</source>
+  <year>2014</year>
+  <volume>7</volume>
+  <issue>3</issue>
+  <fpage>1117</fpage>
+  <lpage>1124</lpage>
+  <pub-id pub-id-type="doi">10.1039/c3ee43754j</pub-id>
+ </element-citation>
+</ref>

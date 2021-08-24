@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="tbl1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <title>Specific Surface Area, Total Pore Volume, and EDX Results</title>
+ </caption>
+ <table frame="hsides" rules="groups" border="0">
+  <colgroup>
+   <col align="left"/>
+   <col align="left"/>
+   <col align="char" char="."/>
+   <col align="left"/>
+   <col align="left"/>
+   <col align="left"/>
+   <col align="left"/>
+  </colgroup>
+  <thead>
+   <tr>
+    <th style="border:none;" align="center"> </th>
+    <th style="border:none;" align="center"> </th>
+    <th style="border:none;" align="center" char="."> </th>
+    <th colspan="4" align="center">EDX
+     <hr/>
+    </th>
+   </tr>
+   <tr>
+    <th style="border:none;" align="center">sample</th>
+    <th style="border:none;" align="center">
+     <italic>S</italic>
+     <sub>BET</sub> (m
+     <sup>2</sup> g
+     <sup>–1</sup>)
+    </th>
+    <th style="border:none;" align="center" char=".">total pore volume (cm
+     <sup>3</sup> g
+     <sup>–1</sup>)
+    </th>
+    <th style="border:none;" align="center">C (wt %)</th>
+    <th style="border:none;" align="center">N (wt %)</th>
+    <th style="border:none;" align="center">O (wt %)</th>
+    <th style="border:none;" align="center">C/N (at)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td style="border:none;" align="left">CafNC</td>
+    <td style="border:none;" align="left">1496</td>
+    <td style="border:none;" align="char" char=".">0.654</td>
+    <td style="border:none;" align="left">70</td>
+    <td style="border:none;" align="left">22</td>
+    <td style="border:none;" align="left">5</td>
+    <td style="border:none;" align="left">4</td>
+   </tr>
+   <tr>
+    <td style="border:none;" align="left">KC</td>
+    <td style="border:none;" align="left">1672</td>
+    <td style="border:none;" align="char" char=".">0.763</td>
+    <td style="border:none;" align="left">80</td>
+    <td style="border:none;" align="left">5</td>
+    <td style="border:none;" align="left">5</td>
+    <td style="border:none;" align="left">18</td>
+   </tr>
+   <tr>
+    <td style="border:none;" align="left">N-KC</td>
+    <td style="border:none;" align="left">1422</td>
+    <td style="border:none;" align="char" char=".">0.635</td>
+    <td style="border:none;" align="left">86</td>
+    <td style="border:none;" align="left">10</td>
+    <td style="border:none;" align="left">4</td>
+    <td style="border:none;" align="left">10</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

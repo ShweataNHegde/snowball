@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>where 
+ <math id="jats-math-34">
+  <msub>
+   <mi>k</mi>
+   <mn>0</mn>
+  </msub>
+ </math> is the rate constant per unit true surface area, 
+ <math id="jats-math-35">
+  <msub>
+   <mi>f</mi>
+   <mi mathvariant="normal">R</mi>
+  </msub>
+ </math> is the roughness factor and 
+ <math id="jats-math-36">
+  <msub>
+   <mi>α</mi>
+   <mrow>
+    <mi mathvariant="normal">a</mi>
+    <mi mathvariant="normal">p</mi>
+    <mi mathvariant="normal">p</mi>
+   </mrow>
+  </msub>
+ </math> is the apparent cathodic transfer coefficient. Converting the expression leads to Equation 
+ <xref rid="cssc202100364-disp-0004" ref-type="disp-formula">4</xref>:
+ <disp-formula id="cssc202100364-disp-0004">
+  <label>(4)</label>
+  <math id="jats-math-37">
+   <mstyle displaystyle="true">
+    <mrow>
+     <mi>E</mi>
+     <mo>=</mo>
+     <mspace width="4pt"/>
+     <mfrac>
+      <mrow>
+       <mi>R</mi>
+       <mi>T</mi>
+       <mi mathvariant="normal">l</mi>
+       <mi mathvariant="normal">n</mi>
+       <mfenced separators="" open="(" close=")">
+        <msub>
+         <mi>f</mi>
+         <mi mathvariant="normal">R</mi>
+        </msub>
+       </mfenced>
+      </mrow>
+      <mrow>
+       <msub>
+        <mi>α</mi>
+        <mrow>
+         <mi mathvariant="normal">a</mi>
+         <mi mathvariant="normal">p</mi>
+         <mi mathvariant="normal">p</mi>
+        </mrow>
+       </msub>
+       <mi>F</mi>
+      </mrow>
+     </mfrac>
+     <mo>+</mo>
+     <mfrac>
+      <mrow>
+       <mi>R</mi>
+       <mi>T</mi>
+       <mi mathvariant="normal">l</mi>
+       <mi mathvariant="normal">n</mi>
+       <mfenced separators="" open="(" close=")">
+        <mfrac>
+         <mrow>
+          <mi>z</mi>
+          <mi>F</mi>
+          <msub>
+           <mi>k</mi>
+           <mn>0</mn>
+          </msub>
+         </mrow>
+         <mi>b</mi>
+        </mfrac>
+       </mfenced>
+      </mrow>
+      <mrow>
+       <msub>
+        <mi>α</mi>
+        <mrow>
+         <mi mathvariant="normal">a</mi>
+         <mi mathvariant="normal">p</mi>
+         <mi mathvariant="normal">p</mi>
+        </mrow>
+       </msub>
+       <mi>F</mi>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mstyle>
+  </math>
+ </disp-formula>
+</p>

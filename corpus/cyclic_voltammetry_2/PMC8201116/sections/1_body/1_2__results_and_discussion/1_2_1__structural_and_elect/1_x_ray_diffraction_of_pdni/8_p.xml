@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <xref ref-type="fig" rid="molecules-26-03440-f003">Figure 3</xref>, displays the Vegard’s law plot as given by Equations (4) and (5):
+ <disp-formula id="FD4-molecules-26-03440">
+  <label>(4)</label>
+  <math id="mm4">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi mathvariant="sans-serif">χ</mi>
+      <mi mathvariant="normal">M</mi>
+     </msub>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <mi>a</mi>
+       <mo>−</mo>
+       <msub>
+        <mi>a</mi>
+        <mn>0</mn>
+       </msub>
+      </mrow>
+      <mrow>
+       <msub>
+        <mi>a</mi>
+        <mi mathvariant="normal">M</mi>
+       </msub>
+       <mo>−</mo>
+       <msub>
+        <mi>a</mi>
+        <mn>0</mn>
+       </msub>
+      </mrow>
+     </mfrac>
+     <mo> </mo>
+     <mo>.</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+</p>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par59">Rechargeable ZABs are promising energy storage and conversion devices, featuring the advantages of high theoretical specific capacity, intrinsic reliability, and low cost. Therefore, the performance of Co-N
+ <sub>4</sub>/NC was further investigated in a practical ZAB, which comprised carbon paper loaded with Co-N
+ <sub>4</sub>/NC (1 mg cm
+ <sup>−2</sup>) as the air electrode and polished Zn foil as the anode (Fig. 
+ <xref rid="Fig8" ref-type="fig">8</xref>a). For comparison, a 1:1 (w/w) mixture of Pt/C-Ru/C was applied with the same catalyst loading. A solution containing 6.0 M KOH and 0.2 M zinc acetate was used as the electrolyte. Figure 
+ <xref rid="Fig8" ref-type="fig">8</xref>b shows a photograph of two in-house-made ZABs, revealing that the open-circuit voltage of Co-N
+ <sub>4</sub>/NC reaches 2.72 V. Figure 
+ <xref rid="Fig8" ref-type="fig">8</xref>c reveals that at a current density of 20 mA cm
+ <sup>−2</sup>, Co-N
+ <sub>4</sub>/NC demonstrated a superior specific capacity of 762.8 mAh g
+ <sup>−1</sup> (93.0% of the theoretical capacity of 820 mAh g
+ <sup>−1</sup>), which exceeded that of Pt/C-Ru/C (700.8 mAh g
+ <sup>−1</sup>). The remarkable specific capacity of Co-N
+ <sub>4</sub>/NC at a high current density mainly originated from the excellent conductivity and well-dispersed single-atom Co-N
+ <sub>4</sub> active sites which could significantly enhance electron transfer and ion diffusion. Figure 
+ <xref rid="Fig8" ref-type="fig">8</xref>d compares the discharge polarization and power density curves of Co-N
+ <sub>4</sub>/NC and Pt/C-Ru/C. The discharge voltages of Co-N
+ <sub>4</sub>/NC at current densities of 20, 75, and 140 mA cm
+ <sup>−2</sup> were determined to be 1.17, 0.95, and 0.71 V, respectively. At the same time, the benchmark Pt/C-Ru/C electrocatalyst exhibited discharge voltages of 1.19, 0.95, and 0.64 V at 20, 75, and 140 mA cm
+ <sup>−2</sup>, respectively. Although Co-N
+ <sub>4</sub>/NC showed a slightly inferior discharge voltage at lower current densities of 0–20 mA cm
+ <sup>−2</sup>, its performance significantly improved and exceeded that of Pt/C-Ru/C at current densities above 80 mA cm
+ <sup>−2</sup>. Besides, the maximum power density of Co-N
+ <sub>4</sub>/NC (101.62 mW cm
+ <sup>−2</sup>) was significantly higher than that of Pt/C-Ru/C (89.16 mW cm
+ <sup>−2</sup>). These results indicate that Co-N
+ <sub>4</sub>/NC is a better choice than Pt/C-Ru/C for the air electrode of practical ZABs [
+ <xref ref-type="bibr" rid="CR70">70</xref>]. The galvanostatic cycling performance of the fabricated ZAB was investigated at 10 mA cm
+ <sup>−2</sup> (Fig. 
+ <xref rid="Fig8" ref-type="fig">8</xref>e). Although the potential difference for the charge–discharge of Pt/C-Ru/C (0.95 V) was lower during the first 10 cycles, the overpotential rapidly increased to 2.5 V after 100 charge–discharge cycles (60,000 s) because of the insufficient stability of noble metal nanoparticles on the carbon matrix. In contrast, the potential difference of Co-N
+ <sub>4</sub>/NC increased only from 1.16 to 1.47 V under the same condition of 100 cycles (Fig. S13). The open-circuit voltage of the Co-N
+ <sub>4</sub>/NC electrode remained at 1.24 V after 100 cycles, which implies that the single-atom Co-N
+ <sub>4</sub> active sites were highly stable and stayed electrochemically active (Figs. S14 and S15). Figure 
+ <xref rid="Fig8" ref-type="fig">8</xref>f shows that two in-house-made ZABs with Co-N
+ <sub>4</sub>/NC as the air electrode could light up a light-emitting diode when connected in series. Table S4 compares our ZAB to previously reported systems and indicates that the performance of Co-N
+ <sub>4</sub>/NC was on par with that of other electrocatalysts.
+</p>

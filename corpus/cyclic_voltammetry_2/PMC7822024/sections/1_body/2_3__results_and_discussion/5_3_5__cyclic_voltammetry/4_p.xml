@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The specific capacitances calculated from the CV curves in 
+ <xref ref-type="fig" rid="nanomaterials-11-00003-f007">Figure 7</xref>a shows a value of 2.6 F g
+ <sup>−1</sup> and 25.1 F g
+ <sup>−1</sup> of PEDOT:PSS and CNT electrode, respectively. On the basis of the calculation, the optimal mass ratio between the two electrodes should be:
+ <disp-formula id="FD3-nanomaterials-11-00003">
+  <math id="mm11">
+   <mrow>
+    <mrow>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mi>m</mi>
+        <mi>p</mi>
+       </msub>
+      </mrow>
+      <mrow>
+       <msub>
+        <mi>m</mi>
+        <mi>c</mi>
+       </msub>
+      </mrow>
+     </mfrac>
+     <mo> </mo>
+     <mo>=</mo>
+     <mo> </mo>
+     <mn>19.9</mn>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+</p>

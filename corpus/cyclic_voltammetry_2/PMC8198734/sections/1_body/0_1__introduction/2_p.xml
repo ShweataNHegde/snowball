@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Silicon as an anode material for LIBs presents a more attractive set of attributes that make it the best alternative to graphite. Aside from being the second most abundant element in the Earth’s crust, silicon is considered to be environment-friendly and cost-efficient [
+ <xref rid="B8-materials-14-02824" ref-type="bibr">8</xref>,
+ <xref rid="B9-materials-14-02824" ref-type="bibr">9</xref>], as opposed to lithium. Furthermore, Si offers a high specific capacity of about 4200 mAh/g based on the formation of Li
+ <sub>22</sub>Si
+ <sub>4</sub> at high temperatures [
+ <xref rid="B8-materials-14-02824" ref-type="bibr">8</xref>,
+ <xref rid="B10-materials-14-02824" ref-type="bibr">10</xref>,
+ <xref rid="B11-materials-14-02824" ref-type="bibr">11</xref>], which is over 10 times greater than that of graphite. This is due to the ability of silicon to form Li-rich alloys (i.e., Li
+ <sub>15</sub>Si
+ <sub>4</sub>, Li
+ <sub>21</sub>Si
+ <sub>5</sub>) with lithium, as opposite to graphite where six carbon atoms bond with only one Li
+ <sup>+</sup> ion (LiC
+ <sub>6</sub>) [
+ <xref rid="B6-materials-14-02824" ref-type="bibr">6</xref>,
+ <xref rid="B12-materials-14-02824" ref-type="bibr">12</xref>]. In addition, silicon has a moderate working potential at 0.4 V vs. Li
+ <sup>+</sup>/Li, making it a more viable candidate as an anode for LIBs with regards to energy density and safety aspects [
+ <xref rid="B13-materials-14-02824" ref-type="bibr">13</xref>,
+ <xref rid="B14-materials-14-02824" ref-type="bibr">14</xref>]. Despite these advantages, the use of silicon in commercial LIBs still proves to be unfeasible. The main obstacle to overcome with Si-based anodes is the large volume change of about 400% [
+ <xref rid="B8-materials-14-02824" ref-type="bibr">8</xref>,
+ <xref rid="B15-materials-14-02824" ref-type="bibr">15</xref>] that occurs with lithiation/delithiation processes. The constant expansion (lithiation) and contraction (delithiation) induce stress on the Si surface, resulting in cracks and active material pulverization [
+ <xref rid="B16-materials-14-02824" ref-type="bibr">16</xref>]. The separation of the active material caused by the cracks results in a low electrical conductivity and prevents the transport of Li
+ <sup>+</sup> ions [
+ <xref rid="B17-materials-14-02824" ref-type="bibr">17</xref>], which was initially provided by the addition of conductive carbon materials. Eventually, this leads to capacity fading and anode failure due to loss of electrical contact over long-term cycling [
+ <xref rid="B8-materials-14-02824" ref-type="bibr">8</xref>]. At the same time, the alloying/dealloying of Li with Si leads to the formation of an unstable solid–electrolyte interface (SEI) on the anodic surface due to volume expansion/contraction [
+ <xref rid="B18-materials-14-02824" ref-type="bibr">18</xref>]. In the first lithiation of a Si anode, SEI is formed and acts as a barrier between the anode and electrolyte, preventing further electrolyte decomposition. However, the SEI layer can breakdown after delithiation due to a reduced volume and reforms after repeated cycling, resulting in a thick layer and reduced anode performance [
+ <xref rid="B7-materials-14-02824" ref-type="bibr">7</xref>].
+</p>

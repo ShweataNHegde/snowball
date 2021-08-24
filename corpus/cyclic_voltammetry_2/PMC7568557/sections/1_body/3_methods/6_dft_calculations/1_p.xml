@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par36">DFT calculations were performed to understand the interactions of NaPSs with CoX
+ <sub>2</sub> cathode hosts. Spin-unrestricted DFT calculations were performed in the VASP code using projector augmented wave pseudopotentials
+ <sup>
+  <xref ref-type="bibr" rid="CR46">46</xref>,
+  <xref ref-type="bibr" rid="CR47">47</xref>
+ </sup>. The SCAN meta-GGA functional has been shown to give accurate structures and energetics for a range of diversely bonded solid and molecular systems
+ <sup>
+  <xref ref-type="bibr" rid="CR48">48</xref>,
+  <xref ref-type="bibr" rid="CR49">49</xref>
+ </sup>. In this study, we used the recently developed SCAN + rvv10
+ <sup>
+  <xref ref-type="bibr" rid="CR50">50</xref>,
+  <xref ref-type="bibr" rid="CR51">51</xref>
+ </sup> extension to the original SCAN functional, which provides an accurate description of short, intermediate and long-range van der Waals interactions which are known to play an important role in binding in transition metal sulfide materials
+ <sup>
+  <xref ref-type="bibr" rid="CR45">45</xref>
+ </sup>. Bulk phases of CoS
+ <sub>2</sub> and CoTe
+ <sub>2</sub> were modeled with the pyrite (
+ <italic>Pa</italic>-3) and marcasite (
+ <italic>Pnnm</italic>) structures, respectively, and will subsequently be referred to as p-CoS
+ <sub>2</sub> and m-CoTe
+ <sub>2</sub>. In this study, the CoSe
+ <sub>2</sub> bipyramidal host primarily adopted the marcasite structure (m-CoSe
+ <sub>2</sub>). However, previous studies have shown that the energies of the pyrite and marcasite structures of CoSe
+ <sub>2</sub> are similar and so both the pyrite (p-CoSe
+ <sub>2</sub>) and m-CoSe
+ <sub>2</sub> phases were considered in this study for comparison. Additional details of the DFT calculations are presented in Supplementary Note 
+ <xref rid="MOESM1" ref-type="media">1</xref>.
+</p>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bhuyan</surname>
+    <given-names>MSA</given-names>
+   </name>
+   <name>
+    <surname>Uddin</surname>
+    <given-names>MN</given-names>
+   </name>
+   <name>
+    <surname>Islam</surname>
+    <given-names>MM</given-names>
+   </name>
+   <name>
+    <surname>Bipasha</surname>
+    <given-names>FA</given-names>
+   </name>
+   <name>
+    <surname>Hossain</surname>
+    <given-names>SS</given-names>
+   </name>
+  </person-group>
+  <article-title>Synthesis of graphene</article-title>
+  <source>Int. Nano Lett.</source>
+  <year>2016</year>
+  <volume>6</volume>
+  <fpage>65</fpage>
+  <lpage>83</lpage>
+  <pub-id pub-id-type="doi">10.1007/s40089-015-0176-1</pub-id>
+ </element-citation>
+</ref>

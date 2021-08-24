@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR36">
+ <label>36.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chen</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <name>
+    <surname>He</surname>
+    <given-names>YH</given-names>
+   </name>
+   <name>
+    <surname>Spendelow</surname>
+    <given-names>JS</given-names>
+   </name>
+   <name>
+    <surname>Wu</surname>
+    <given-names>G</given-names>
+   </name>
+  </person-group>
+  <article-title>Atomically dispersed metal catalysts for oxygen reduction</article-title>
+  <source>ACS Energy Lett.</source>
+  <year>2019</year>
+  <volume>4</volume>
+  <issue>7</issue>
+  <fpage>1619</fpage>
+  <lpage>1633</lpage>
+  <pub-id pub-id-type="doi">10.1021/acsenergylett.9b00804</pub-id>
+ </element-citation>
+</ref>

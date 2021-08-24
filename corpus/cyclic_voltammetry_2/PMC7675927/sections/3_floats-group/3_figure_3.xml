@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig3" position="float">
+ <label>Figure 3</label>
+ <caption>
+  <p>ORR performances of CMOs. (a) LSV curves at an electrode rotating rate of 1600 rpm in O
+   <sub>2</sub>-saturated 0.1 M KOH. (b) Complemental Tafel plots, which were extracted from the LSV curves in (a). X-axis indicates ORR currents per BET specific surface areas of loaded CMOs on the RDE. (c) Ring currents and electron transfer numbers (
+   <italic>n</italic>) of reactions that were recorded using the RRDE. (d) ORR mass activities of the three types of oxides at 0.75 V, which were obtained by normalizing the current densities of LSV curves in (a) using loading metal amounts on the RDE. (e) ORR specific activities of the three kinds of the oxides at 0.75 V, which were obtained by normalizing the current densities of LSV curves in (a) using BET specific surface areas of the oxides on the RDE.
+  </p>
+ </caption>
+ <graphic xlink:href="ao0c04254_0004" id="gr3" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

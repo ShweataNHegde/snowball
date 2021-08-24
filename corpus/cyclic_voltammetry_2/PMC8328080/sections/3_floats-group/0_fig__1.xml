@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1" orientation="portrait" position="float">
+ <label>Fig. 1</label>
+ <caption>
+  <title>Performance radar charts of batteries conventionally used for grid-stabilisation application: (a) lead acid battery, (b) lithium ion battery, compared to (c) an ideal GSESS and to (d) the Ni/Fe battery used as conventional battery (light green), as battolyser (middle green), as modified battolyser with Ni–Fe layered double hydroxide as the positive electrode material (dark green). For each criterion the external line of the charts represents the best performance reached by rechargeable batteries. From Ni/Fe battery to Ni/Fe battolyser the energy efficiency is increased because of the hydrogen utilisation and the energy density is increased because of higher utilisation of the electrode material.
+   <sup>
+    <xref rid="cit11" ref-type="bibr">11</xref>
+   </sup> The integration of α-Ni
+   <sub>1−
+    <italic>x</italic>
+   </sub>Fe
+   <sub>
+    <italic>x</italic>
+   </sub>(OH)
+   <sub>2</sub> material, in dark green, will induce an increased performance on materials cost, high rates and energy efficiency. If the electrolysis is included the energy handled, at the same infrastructure footprint, increases. Depending on the operational hours as battery or electrolyser and the way H
+   <sub>2</sub> is stored (gaseous, liquid, or as 
+   <italic>e.g.</italic> liquid ammonia) higher energy densities can be realised indicated by the arrow.
+  </title>
+ </caption>
+ <graphic xlink:href="d1ma00024a-f1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

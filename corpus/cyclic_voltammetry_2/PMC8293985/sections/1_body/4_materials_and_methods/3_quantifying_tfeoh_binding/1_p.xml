@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To determine the average number of TFEOH equivalents involved in the overall two-electron BQ redox response from the CV titration data (
+ <xref ref-type="fig" rid="fig2">Fig. 2</xref> and S4
+ <xref ref-type="fn" rid="fn1">†</xref>), the slope of the −
+ <italic>E</italic>
+ <sub>1/2</sub> (V 
+ <italic>vs.</italic> Fc
+ <sup>+</sup>/Fc) 
+ <italic>versus</italic> log[TFEOH (M)] was used in the concentration region where the feature remained reversible (−0.85 V to −0.70 V). The slope of this plot can be used to determine the number of TFEOH molecules 
+ <italic>x</italic> which associate to the [BQ]
+ <sup>2−</sup> dianion, where 
+ <italic>n</italic> is the number of electrons involved (2), 
+ <italic>F</italic> is Faradays' constant (96 485 C mol
+ <sup>−1</sup>), 
+ <italic>R</italic> is the ideal gas constant (J K
+ <sup>−1</sup> mol
+ <sup>−1</sup>), 
+ <italic>T</italic> is temperature (K), 
+ <xref ref-type="disp-formula" rid="eqn8">eqn (8)</xref>.
+ <disp-formula id="eqn8">
+  <label>8</label>
+  <graphic xlink:href="d1sc01271a-t5.jpg" id="ugt5" position="float" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </disp-formula>
+</p>

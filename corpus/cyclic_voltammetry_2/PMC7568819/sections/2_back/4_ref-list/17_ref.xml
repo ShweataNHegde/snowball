@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B18">
+ <label>18</label>
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mengoli</surname>
+    <given-names>G.</given-names>
+   </name>
+  </person-group>
+  <article-title> 
+   <italic>Feasibility of polymer film coatings through electroinitiated polymerization in aqueous medium</italic>
+  </article-title>
+  <source>
+   <italic toggle="yes">Electric Phenomena in Polymer Science</italic>
+  </source>
+  <year>1979</year>
+  <publisher-loc>Berlin Heidelberg</publisher-loc>
+  <publisher-name>Springer</publisher-name>
+  <fpage>1</fpage>
+  <lpage>31</lpage>
+  <series>Advances in Polymer Science</series>
+  <pub-id pub-id-type="doi">10.1007/3-540-09456-3_1</pub-id>
+ </element-citation>
+</ref>

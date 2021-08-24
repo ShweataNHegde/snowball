@@ -1,0 +1,733 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Appl Energy Mater</journal-id><journal-id journal-id-type="iso-abbrev">ACS Appl Energy Mater</journal-id><journal-id journal-id-type="publisher-id">ae</journal-id><journal-id journal-id-type="coden">aaemcq</journal-id><journal-title-group><journal-title>ACS Applied Energy Materials</journal-title></journal-title-group><issn pub-type="epub">2574-0962</issn><publisher><publisher-name>American
+Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7903705</article-id><article-id pub-id-type="doi">10.1021/acsaem.0c02525</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Room-Temperature
+Solid-State Lithium-Ion Battery Using
+a LiBH<sub>4</sub>&#x02013;MgO Composite Electrolyte</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Gulino</surname><given-names>Valerio</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Brighi</surname><given-names>Matteo</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Murgia</surname><given-names>Fabrizio</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Ngene</surname><given-names>Peter</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>de Jongh</surname><given-names>Petra</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>&#x0010c;ern&#x000fd;</surname><given-names>Radovan</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath7"><name><surname>Baricco</surname><given-names>Marcello</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Department
+of Chemistry and Inter-departmental Center Nanostructured Interfaces
+and Surfaces (NIS), <institution>University of Turin</institution>, Via Pietro Giuria 7, 10125 Torino, <country>Italy</country></aff><aff id="aff2"><label>&#x02021;</label>Laboratoire
+de Cristallographie, DQMP, <institution>Universit&#x000e9;
+de Gen&#x000e8;ve</institution>, quai Ernest-Ansermet 24, CH-1211 Geneva 4, <country>Switzerland</country></aff><aff id="aff3"><label>&#x000a7;</label>Inorganic
+Chemistry and Catalysis, Debye Institute for Nanomaterials Science, <institution>Utrecht University</institution>, Universiteitsweg 99, 3584 CG Utrecht, <country>The Netherlands</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>marcello.baricco@unito.it</email>. Phone: <phone>+39
+011 6707569</phone>. Fax: <fax>+39 0116707856</fax>.</corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>01</month><year>2021</year></pub-date><pub-date pub-type="ppub"><day>22</day><month>02</month><year>2021</year></pub-date><volume>4</volume><issue>2</issue><fpage>1228</fpage><lpage>1236</lpage><history><date date-type="received"><day>13</day><month>10</month><year>2020</year></date><date date-type="accepted"><day>15</day><month>01</month><year>2021</year></date></history><permissions><copyright-statement>&#x000a9; 2021 The Authors. Published
+by American
+Chemical Society</copyright-statement><copyright-year>2021</copyright-year><copyright-holder>The Authors</copyright-holder><license><license-p>This is an open access article published under a Creative Commons Attribution (CC-BY) <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_ccby_termsofuse.html">License</ext-link>, which permits unrestricted use, distribution and reproduction in any medium, provided the author and source are cited.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae0c02525_0008" id="ab-tgr1"/></p><p>LiBH<sub>4</sub> has
+been widely studied as a solid-state electrolyte
+in Li-ion batteries working at 120 &#x000b0;C due to the low ionic conductivity
+at room temperature. In this work, by mixing with MgO, the Li-ion
+conductivity of LiBH<sub>4</sub> has been improved. The optimum composition
+of the mixture is 53 v/v % of MgO, showing a Li-ion conductivity of
+2.86 &#x000d7; 10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup> at 20
+&#x000b0;C. The formation of the composite does not affect the electrochemical
+stability window, which is similar to that of pure LiBH<sub>4</sub> (about 2.2 V <italic>vs</italic> Li<sup>+</sup>/Li). The mixture
+has been incorporated as the electrolyte in a TiS<sub>2</sub>/Li all-solid-state
+Li-ion battery. A test at room temperature showed that only five cycles
+already resulted in cell failure. On the other hand, it was possible
+to form a stable solid electrolyte interphase by applying several
+charge/discharge cycles at 60 &#x000b0;C. Afterward, the battery worked
+at room temperature for up to 30 cycles with a capacity retention
+of about 80%.</p></abstract><kwd-group><kwd>complex hydride</kwd><kwd>solid-state electrolyte</kwd><kwd>all-solid-state
+Li-ion battery</kwd><kwd>lithium borohydride</kwd><kwd>solid electrolyte
+interface</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ae0c02525</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ae0c02525</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Li-ion
+batteries (LIBs) are widely used in portable devices and
+play a major role in the fast-growing electro-mobility market. Solid-state
+electrolytes (SSEs) are promising candidates for resolving the intrinsic
+limitations of the organic liquid electrolyte currently employed in
+LIBs, such as the low cation transference number, the incompatibility
+(due to the uneven Li plating resulting in shortcuts) and reactivity
+with lithium metal anodes, and flammability.<sup><xref ref-type="bibr" rid="ref1">1</xref>&#x02212;<xref ref-type="bibr" rid="ref3">3</xref></sup> Such drawbacks
+limit the cell energy density and require major safety precautions.
+SSEs can overcome these hindrances or bottleneck limitations, thanks
+to their intrinsic stiffness, which makes them less prone to dendrite
+penetration.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> Moreover, superior chemical
+stability allows the use of metallic lithium as a negative electrode.<sup><xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref6">6</xref></sup> The improved safety naturally comes from the solid nature of the
+electrolyte. An SSE must fulfill several requirements to be employed
+in an all-solid-state battery (SSB), such as a Li-ion conductivity
+higher than 10<sup>&#x02013;3</sup> S cm<sup>&#x02013;1</sup> at room
+temperature (RT), a negligible electronic conductivity, and a wide
+electrochemical stability window.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup></p><p>Different classes of materials have been proposed as SSEs, among
+which are complex hydrides.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref7">7</xref></sup> Lithium borohydride
+(LiBH<sub>4</sub>) has been extensively studied as an SSE, thanks
+to a remarkable ionic conductivity (&#x003c3;) above 120 &#x000b0;C, combined
+with a low density (0.666 g/cm<sup>3</sup>). In fact, the LiBH<sub>4</sub> RT-polymorph has an orthorhombic unit cell, space group (s.g.) <italic>Pnma</italic>, showing low Li-ion conductivity (10<sup>&#x02013;8</sup> S cm<sup>&#x02013;1</sup>), while around 110 &#x000b0;C,<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> it shows a polymorphic orthorhombic-to-hexagonal (s.g. <italic>P</italic>6<sub>3</sub><italic>mc</italic>) transition, rising the
+ionic conductivity of several orders of magnitude (&#x0223c;10<sup>&#x02013;3</sup> S cm<sup>&#x02013;1</sup> at 120 &#x000b0;C).<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> Recently, LiBH<sub>4</sub> has been reported
+to be electrochemically stable up to about 2 V <italic>versus</italic> Li<sup>+</sup>/Li,<sup><xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref11">11</xref></sup> reducing the value of 5 V <italic>versus</italic> Li<sup>+</sup>/Li previously overestimated.<sup><xref ref-type="bibr" rid="ref12">12</xref></sup></p><p>Halide substitution was adopted to enhance
+the RT Li<sup>+</sup> conductivity in LiBH<sub>4</sub>. A solid solution
+is formed by
+substituting BH<sub>4</sub><sup>&#x02013;</sup> with I<sup>&#x02013;</sup>, Br<sup>&#x02013;</sup>, and Cl<sup>&#x02013;</sup>, stabilizing the
+hexagonal polymorph at RT.<sup><xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref14">14</xref></sup> Mixing other complex anions with LiBH<sub>4</sub> (<italic>e.g.</italic>, NH<sub>2</sub><sup>&#x02013;</sup> and NH<sup>2&#x02013;</sup>) leads
+to the formation of compounds with different structures, with enhanced
+ionic conductivity at RT.<sup><xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref16">16</xref></sup> Recently, it was reported
+that partial dehydrogenation of LiBH<sub>4</sub> leads to different
+Li&#x02013;B&#x02013;H complexes with significantly higher Li-ion conductivity
+(&#x0223c;2.7 &#x000d7; 10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup> at 35 &#x000b0;C).<sup><xref ref-type="bibr" rid="ref17">17</xref></sup></p><p>An alternative
+method to improve the Li-ion conductivity of the
+orthorhombic LiBH<sub>4</sub> (<italic>o</italic>-LiBH<sub>4</sub>) is by nanoconfinement in suitable scaffolds or mixing it with oxides,
+forming oxide-based composites.<sup><xref ref-type="bibr" rid="ref18">18</xref>&#x02212;<xref ref-type="bibr" rid="ref22">22</xref></sup> In this case, the improved Li-ion conductivity relies on the formation
+of a conductive interface, described by a core&#x02013;shell model.<sup><xref ref-type="bibr" rid="ref20">20</xref>,<xref ref-type="bibr" rid="ref23">23</xref></sup> The fraction of LiBH<sub>4</sub> (the core) in direct contact with
+the oxide (the shell) forms an interfacial layer, featuring a Li-ion
+conductivity enhancement. The presence of different dynamics, due
+to the occurrence of slow and fast diffusivity of Li ions, has been
+detected for binary composites by <sup>7</sup>Li solid-state NMR spectroscopy.<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref24">24</xref>,<xref ref-type="bibr" rid="ref25">25</xref></sup> The effective thickness of such
+an interfacial layer has been calculated by Suwarno <italic>et al.</italic>,<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> amounting to 1.94 &#x000b1; 0.13 nm for
+a SiO<sub>2</sub> nanoscaffold. In the LiBH<sub>4</sub>&#x02013;SiO<sub>2</sub> system,<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> Li conductivity is optimized
+when LiBH<sub>4</sub> completely fills the silica pores with a thickness
+of the interfacial layer of about 2 nm, which is in good agreement
+with the results obtained by Suwarno.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> Recently, Gulino <italic>et al.</italic>(<xref ref-type="bibr" rid="ref26">26</xref>) reported two composite systems (LiBH<sub>4</sub>&#x02013;ZrO<sub>2</sub> and LiBH<sub>4</sub>&#x02013;MgO) that have shown improved
+RT conductivity (&#x0223c;10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup>) compared to <italic>o</italic>-LiBH<sub>4</sub>. Liu <italic>et
+al.</italic>(<xref ref-type="bibr" rid="ref27">27</xref>) reported that two-dimensional
+MoS<sub>2</sub> and LiBH<sub>4</sub> composites yielded an RT ionic
+conductivity of (&#x0223c;10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup>).</p><p>LiBH<sub>4</sub> was studied as an SSE in several SSBs<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> using TiS<sub>2</sub><sup><xref ref-type="bibr" rid="ref29">29</xref></sup> or sulfur<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> as cathode materials. These
+SSBs operate at a temperature of about 120 &#x000b0;C, allowing a sufficiently
+high Li-ion conductivity due to the presence of the hexagonal polymorph
+of LiBH<sub>4</sub>. The working potential of both TiS<sub>2</sub> and S is about 2 V <italic>versus</italic> Li<sup>+</sup>/Li,<sup><xref ref-type="bibr" rid="ref29">29</xref>,<xref ref-type="bibr" rid="ref30">30</xref></sup> close to the electrochemical stability window of LiBH<sub>4</sub>, which is one of the factors explaining the progressive capacity
+fading. In order to decrease the SSB-operating temperature, Unemoto <italic>et al.</italic>(<xref ref-type="bibr" rid="ref31">31</xref>) used a LiBH<sub>4</sub>&#x02013;P<sub>2</sub>S<sub>5</sub> mixture as the SSE, while Das <italic>et al.</italic>(<xref ref-type="bibr" rid="ref32">32</xref>) reported an SSB working
+at 55 &#x000b0;C using LiBH<sub>4</sub> nanoconfined in silica (MCM-41)
+as the SSE.</p><p>Optimization of the composition of LiBH<sub>4</sub>-based composites
+as an SSE can reduce the working temperature of the LiBH<sub>4</sub>-based SSBs. Therefore, the aim of this work is to design a LiBH<sub>4</sub>-based system as an improved SSE for RT SSBs. The LiBH<sub>4</sub>&#x02013;MgO system was selected, and the effect of the composition
+on the Li-ion conductivity was first established. The electrochemical
+stability window, measured by cyclic voltammetry (CV), was then determined
+in order to investigate the effect of the oxide matrix on the electrochemical
+stability of LiBH<sub>4</sub>. A solid-state cell configuration, that
+is, TiS<sub>2</sub>|SSE|Li, was selected as the electrochemical system,
+focusing on the characterization of the composite LiBH<sub>4</sub>&#x02013;MgO as the SSE for SSBs. These composites allowed to decrease
+the operating temperature of the LiBH<sub>4</sub>-based SSB down to
+60 &#x000b0;C and even down to RT, compared to the 120 &#x000b0;C of pure
+LiBH<sub>4</sub>. Several cycles at 60 &#x000b0;C, and probably the concomitant
+formation of a stable solid electrolyte interphase, allowed us to
+successfully operate the SSB at RT for more than 30 cycles, with a
+discharge capacity retention of 80%.</p></sec><sec id="sec2"><label>2</label><title>Experimental Section</title><sec id="sec2.1"><label>2.1</label><title>Synthesis</title><p>The Li-ion conductivity
+in the LiBH<sub>4</sub>&#x02013;MgO system has been evaluated for different
+compositions following the procedure suggested in ref (<xref ref-type="bibr" rid="ref26">26</xref>). Three samples were synthetized,
+with a v/v % of MgO corresponding to a fraction of pore filling equal
+to 1/3, 1, and 3 (CE26, CE53, and CE74, respectively) assuming that
+LiBH<sub>4</sub> fills the pores of MgO after ball milling. LiBH<sub>4</sub> (purity &#x0003e; 95%, Alfa Aesar) was mixed with MgO (Steam Chemicals)
+in different ratios (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>).</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Composition, Fraction of the Pore
+Filled, and Thickness of LiBH<sub>4</sub> of Investigated Samples</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/></colgroup><thead><tr><th style="border:none;" align="center">sample name</th><th style="border:none;" align="center" char=".">oxide fraction (wt&#x000a0;%)</th><th style="border:none;" align="center" char=".">oxide fraction (v/v&#x000a0;%)</th><th style="border:none;" align="center" char=".">fraction of
+pore filled<xref rid="t1fn1" ref-type="table-fn">a</xref> (%)</th><th style="border:none;" align="center" char=".">thickness of LiBH<sub>4</sub><xref rid="t1fn2" ref-type="table-fn">b</xref> (nm)</th></tr></thead><tbody><tr><td style="border:none;" align="left">26CE</td><td style="border:none;" align="char" char=".">65.0</td><td style="border:none;" align="char" char=".">26</td><td style="border:none;" align="char" char=".">323</td><td style="border:none;" align="char" char=".">3.8</td></tr><tr><td style="border:none;" align="left">53CE</td><td style="border:none;" align="char" char=".">85.7</td><td style="border:none;" align="char" char=".">53</td><td style="border:none;" align="char" char=".">100</td><td style="border:none;" align="char" char=".">1.2</td></tr><tr><td style="border:none;" align="left">74CE</td><td style="border:none;" align="char" char=".">94.0</td><td style="border:none;" align="char" char=".">74</td><td style="border:none;" align="char" char=".">38</td><td style="border:none;" align="char" char=".">0.4</td></tr></tbody></table><table-wrap-foot><fn id="t1fn1"><label>a</label><p>Data obtained from
+the ratio between
+the LiBH<sub>4</sub> volume per gram of MgO and the pore volume (<italic>V</italic><sub>p</sub>).</p></fn><fn id="t1fn2"><label>b</label><p>Thickness of the LiBH<sub>4</sub> layer covering the surface of the
+oxide (BET), assuming a uniform
+layer of LiBH<sub>4</sub> on the oxide surface.</p></fn></table-wrap-foot></table-wrap><p>In order to remove the physisorbed/chemisorbed
+water, MgO pellets
+were dried in a furnace for 6 h, under dynamic vacuum (by rotary pump),
+at 300 &#x000b0;C. Before the mechanochemical treatment for the preparation
+of the different compositions, the as-received LiBH<sub>4</sub> was
+ball-milled for 2 h at 500 rpm in a Fritsch Pulverisette 7 planetary
+mill and was used as the starting material for the LiBH<sub>4</sub>&#x02013;oxide composite. All samples were ball-milled for three periods
+of 10 min at 300 rpm, separated by 1 min breaks, in 80 mL stainless-steel
+vials, with stainless-steel spheres (10 mm diameter). The ball-to-sample
+mass ratio used was equal to 30:1. The mechanochemical treatment was
+performed under an argon atmosphere for all samples. Due to the air
+sensitivity of the samples, they have been manipulated in a glovebox
+(MBraun Lab Star Glove Box) filled with argon, with residual impurities
+(&#x0003c;1 ppm O<sub>2</sub> and &#x0003c;1 ppm H<sub>2</sub>O).</p></sec><sec id="sec2.2"><label>2.2</label><title>Characterization</title><sec id="sec2.2.1"><label>2.2.1</label><title>Structural Characterization</title><p>The
+density of MgO has been taken as 3.58 g/cm<sup>3</sup> from the literature.<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> The surface properties of MgO were analyzed
+by N<sub>2</sub> adsorption at 77 K in a TriStar Plus II gas-volumetric
+apparatus (Micromeritics, Norcross, GA, USA). The specific surface
+area (<italic>S</italic><sub>BET</sub>) was calculated by fitting
+the experimental data points with a Brunauer&#x02013;Emmett&#x02013;Teller
+isotherm<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> and was 215 m<sup>2</sup>/g.
+The pore volume (<italic>V</italic><sub>p</sub>) was derived from
+the volume of absorbed nitrogen at <italic>p</italic>/<italic>p</italic><sub>0</sub> = 0.95 and was 0.25 cm<sup>3</sup>/g. Powder X-ray diffraction
+(PXRD) analysis has been performed on the as-prepared composites,
+see the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsaem.0c02525/suppl_file/ae0c02525_si_001.pdf">Supporting Information</ext-link>.</p></sec><sec id="sec2.2.2"><label>2.2.2</label><title>Electrochemical Impedance Spectroscopy</title><p>Li-ion conductivity
+data for the samples were obtained by collecting
+the electrochemical impedance spectroscopy (EIS) spectra following
+the procedure reported in ref (<xref ref-type="bibr" rid="ref10">10</xref>). The EIS measurements were performed using an HP4192A LF
+impedance analyzer and a Novocontrol (BDS 1200) sample cell in the
+temperature range of 20 &#x0003c; <italic>T</italic> &#x0003c; 130 &#x000b0;C (every
+10 &#x000b0;C). By using an axial hydraulic press (60 MPa), the mixtures
+were pelletized, with a diameter of 10 mm and a thickness of about
+0.2&#x02013;0.6 mm. Impedance data were analyzed via the EqC software<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> following the data validation described in ref (<xref ref-type="bibr" rid="ref36">36</xref>). All fits performed resulted
+in a &#x003c7;-squared test (&#x003c7;<sup>2</sup> test) &#x0003c; 10<sup>&#x02013;3</sup>.</p></sec><sec id="sec2.2.3"><label>2.2.3</label><title>Cyclic Voltammetry</title><p>CV was used
+to analyze the oxidative limit of the electrochemical stability window.
+The desired LiBH<sub>4</sub>&#x02013;MgO composite was mixed with carbon
+black (CB, Ketjenblack EC600JD, Akzo Nobel Chemicals) in a weight
+ratio of 95:5 using an agate mortar.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> A
+two-layered pellet was obtained by pressing the 8 mg CE-composite
+mixture and about 25 mg of the composite at 240 MPa using a uniaxial
+hydraulic press (diameter 6 mm). The pellet thus prepared was tested
+in a two-electrode 3/4&#x02033; PTFE Swagelok-type cell, with a lithium
+disk (99.9%, Sigma-Aldrich) as the counter and reference electrode
+(SSE side) and a stainless-steel disk as the working electrode (SSE
++ CB side). The cells were tested with a potentiostat/galvanostat
+Biologic MPG-2 after a 4 h rest at 60 &#x000b0;C. CV measurements have
+been performed into a 1.3 &#x0003c; <italic>V</italic> &#x0003c; 5 V <italic>versus</italic> Li<sup>+</sup>/Li voltage region at a scanning rate
+of 20 &#x003bc;V s<sup>&#x02013;1</sup>.</p></sec><sec id="sec2.2.4"><label>2.2.4</label><title>Battery
+Assembly and the Electrochemical
+Test</title><p>TiS<sub>2</sub> (99.9%, Sigma-Aldrich) was selected
+as the active material for the cathode. The TiS<sub>2</sub> and LiBH<sub>4</sub> powders were mixed in an agate mortar using a 1:1 weight
+ratio. The resulting mixture was used as the positive electrode. A
+two-layered pellet was prepared with 2 mg of the positive electrode
+mixture and 25 mg of the SSE by cold pressing at 240 MPa using a uniaxial
+hydraulic press (diameter 6 mm). A pure lithium disk was used as the
+negative electrode. The assembled bulk-type TiS<sub>2</sub>/SSE/Li
+SSB was placed in a 3/4&#x02033; PTFE Swagelok-type cell. The galvanostatic
+cycling was performed in the voltage range of 1.7&#x02013;2.5 V at
+60 &#x000b0;C and at RT. EIS measurements were also performed in the
+symmetric configuration Li/SSE/Li and on the TiS<sub>2</sub>/SSE/Li
+SSB during the rest time, before the battery cycling, and after each
+discharge and charge.</p></sec></sec></sec><sec id="sec3"><label>3</label><title>Results
+and Discussion</title><sec id="sec3.1"><label>3.1</label><title>Tailoring of the LiBH<sub>4</sub>&#x02013;MgO
+Composition</title><p>The AC conductivity of the composites as a function
+of the inverse temperature is shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a. The 20 &#x000b0;C impedance spectra (composed
+by a single arc and a low-frequency linear dispersion) are plotted
+together in the Nyquist plot in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsaem.0c02525/suppl_file/ae0c02525_si_001.pdf">Figure S1</ext-link>, and the EIS-fitted values are reported in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsaem.0c02525/suppl_file/ae0c02525_si_001.pdf">Table S1</ext-link>.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(a) Li-ion conductivity, obtained from a temperature-dependent
+EIS cycle during the second heating, for LiBH<sub>4</sub>&#x02013;MgO
+composites with different oxide fractions. The gray line corresponds
+to the Li-ion conductivity of pure LiBH<sub>4</sub>.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> (b) Li-ion conductivity at 20, 60, and 120 &#x000b0;C as a
+function of the pore filling. Dashed lines are a guide for the eyes.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae0c02525_0002" id="gr1" position="float"/></fig><p><xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a shows
+that at RT, sample CE53 shows the highest Li-ion conductivity (2.86
+&#x000d7; 10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup> at 20 &#x000b0;C),
+about 4 orders of magnitude higher than that of pure LiBH<sub>4</sub>. The 20 &#x000b0;C Li-ion conductivities of CE26 and CE74 were 1.07
+&#x000d7; 10<sup>&#x02013;4</sup> and 5.94 &#x000d7; 10<sup>&#x02013;6</sup> S cm<sup>&#x02013;1</sup>, respectively. The Li-ion conductivity
+of sample CE26 at 40 &#x000b0;C (2.57 &#x000d7; 10<sup>&#x02013;4</sup> S
+cm<sup>&#x02013;1</sup>) is in agreement with the data already reported
+for the same composition and at the same temperature (1.80 &#x000d7;
+10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup>).<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> The improved Li-ion conductivity likely relies on the formation
+of a conductive interface, described by a core&#x02013;shell model.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> It was demonstrated, by solid-state NMR, that
+the interface layer between LiBH<sub>4</sub> and silica is characterized
+by a high ion dynamics, for both BH<sub>4</sub><sup>&#x02013;</sup> and Li<sup>+</sup>, and cannot be defined with a clear crystal structure.<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> The exact relation between the interface layer
+structure and the dynamics of ions needs further investigation.</p><p>The dependence on the pore filling of the Li conductivity at various
+temperatures is shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b, assuming that LiBH<sub>4</sub> completely fills
+the pore of the oxide during the mechanochemical treatment. The maximum
+&#x003c3; value is observed for a 100% pore volume filling (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b), confirming the
+trend previously reported by Gulino <italic>et al.</italic>(<xref ref-type="bibr" rid="ref26">26</xref>)</p><p>In order to explore the phase composition
+of the different composite,
+after synthesis, the PXRD patterns were collected (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsaem.0c02525/suppl_file/ae0c02525_si_001.pdf">Figure S2</ext-link>). Orthorhombic LiBH<sub>4</sub> was detected only
+for sample CE26, that is, for a pore filling higher than 100%, indicating
+that the excess of hydride contained in this composite is partially
+present as the RT polymorph.</p><p>From the trend of data reported
+in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a, it is
+worth noting that different conductive
+regimes are likely present, indicating a complex temperature-dependent
+Li-ion conduction mechanism in the investigated temperature range.
+This type of behavior has been previously reported for complex hydrides,<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> as well as for different classes of materials
+studied as SSEs,<sup><xref ref-type="bibr" rid="ref39">39</xref></sup> and can be assigned
+to different ion&#x02013;ion interaction regimes. Further investigation,
+that is, combining solid-state NMR and large frequency and temperature-range
+EIS measurements,<sup><xref ref-type="bibr" rid="ref38">38</xref>,<xref ref-type="bibr" rid="ref40">40</xref></sup> is needed in order to clarify
+this aspect.</p><p>The activation energy for the CE53 sample was obtained
+by fitting
+linearly (<italic>R</italic><sup>2</sup> &#x0003e; 0.999) the ln(&#x003c3;<italic>T</italic>) <italic>versus</italic> 1/<italic>T</italic> data shown
+in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a below
+60 &#x000b0;C, where data suggest an Arrhenius-type temperature dependence.
+The so-obtained <italic>E</italic><sub>a</sub> is equal to 0.29 &#x000b1;
+0.03 eV below 60 &#x000b0;C. The obtained <italic>E</italic><sub>a</sub> is considerably lower than the average value reported in the literature
+for pure LiBH<sub>4</sub> (0.75 &#x000b1; 0.07 eV),<sup><xref ref-type="bibr" rid="ref41">41</xref></sup> but it is similar to values observed for other SSEs.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup></p><p>For sample CE74, the pore-filling fraction
+is lower than 100%;
+therefore, the highly conductive phase does not percolate throughout
+the sample and the conductive pathway is interrupted by the oxide.
+A similar effect occurs in sample CE26, where the excess of the low
+conductive orthorhombic LiBH<sub>4</sub> interrupts the conductive
+pathway.</p><p>For the CE53 sample, the Li-ion conductivity is about
+1 order of
+magnitude higher than the values previously reported for LiBH<sub>4</sub>&#x02013;SiO<sub>2</sub>-based composite SSEs: at 40 &#x000b0;C
+Blanchard <italic>et al.</italic> obtained 1.0 &#x000d7; 10<sup>&#x02013;5</sup> S cm<sup>&#x02013;1</sup> for 28 v/v % of MCM-41,<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> Choi <italic>et al.</italic> obtained 1.5 &#x000d7; 10<sup>&#x02013;5</sup> S cm<sup>&#x02013;1</sup> for 55 v/v % of fumed silica,<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> and Gulino <italic>et al.</italic> obtained
+4.1 &#x000d7; 10<sup>&#x02013;5</sup> S cm<sup>&#x02013;1</sup> for 20
+v/v % of SiO<sub>2</sub>.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup></p><p>The Li-ion
+conductivity of CE74 and CE53 composites does not show,
+at 110 &#x000b0;C, the typical step due to the phase transition of LiBH<sub>4</sub>, which is slightly visible for the CE26 sample (see also <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsaem.0c02525/suppl_file/ae0c02525_si_001.pdf">Figure S3</ext-link>). This suggests that the contribution
+of the hexagonal phase of LiBH<sub>4</sub> is negligible in the CE74
+and CE53 samples at high temperatures, whereas it is relevant for
+the CE26 sample.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> This behavior can be
+explained by assuming a homogeneous distribution of the LiBH<sub>4</sub> layer on MgO, as reported in our previous work,<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> providing estimated values for the interface layer thickness
+(see <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>), which
+are similar to that obtained by Suwarno <italic>et al.</italic>(<xref ref-type="bibr" rid="ref21">21</xref>)</p><p>The highly conductive layer of LiBH<sub>4</sub> in direct contact
+with the oxide, whose thickness has been estimated to be about 2 nm,
+does not undergo a structural phase transition.<sup><xref ref-type="bibr" rid="ref21">21</xref>,<xref ref-type="bibr" rid="ref26">26</xref></sup> Indeed, for samples CE74 and CE53, the calculated thicknesses of
+LiBH<sub>4</sub> are 0.4 and 1.2 nm, respectively (see <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>), which are close to the values
+estimated in the literature.<sup><xref ref-type="bibr" rid="ref21">21</xref>,<xref ref-type="bibr" rid="ref26">26</xref></sup> On the other hand,
+the calculated thickness of LiBH<sub>4</sub> for composite CE26 amounts
+to 3.8 nm, explaining the slight increase of the Li-ion conductivity
+above 110 &#x000b0;C (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a) and confirming that the bulk LiBH<sub>4</sub> contributes
+to the Li-ion conductivity after the phase transition.</p></sec><sec id="sec3.2"><label>3.2</label><title>Electrochemical Stability</title><p>Next to
+a high Li-ion conductivity, a suitable SSE should have a wide electrochemical
+stability window and a good chemical compatibility with electrodes.
+The electrochemical stability of the CE53 sample has been evaluated
+by CV at 60 &#x000b0;C (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a). The interface between a solid electrolyte pellet and a
+flat metallic Au working electrode can result in a low contact surface
+area and thus a high interface resistance, which can cause difficulty
+in the signal detection, for example, overestimating the electrochemical
+stability window. Therefore, in order to increase the probed surface,
+a carbon material was added, as described elsewhere.<sup><xref ref-type="bibr" rid="ref43">43</xref>,<xref ref-type="bibr" rid="ref44">44</xref></sup></p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(a)
+Linear sweep voltammograms of Li|CE53|CE53-C|stainless-steel
+cells at a scan rate of 20 &#x003bc;V s<sup>&#x02013;1</sup> from 1.3
+to 4.0 V <italic>vs</italic> Li<sup>+</sup>/Li at 60 &#x000b0;C. (b) <italic>E</italic><sub>onset</sub> estimation from two linear regression
+lines of the nonfaradaic background current and faradaic anodic current.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae0c02525_0003" id="gr2" position="float"/></fig><p>The oxidative limit (<italic>E</italic><sub>onset</sub>) was determined
+from the intersection of two linear regression lines (<italic>R</italic><sup>2</sup> &#x0003e; 0.99) of the background current and the faradaic
+oxidative
+current at a positive potential <italic>versus</italic> Li<sup>+</sup>/Li (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b) following
+the approach suggested by Asakura <italic>et al.</italic>(<xref ref-type="bibr" rid="ref11">11</xref>) It falls at about 2.3 V <italic>versus</italic> Li<sup>+</sup>/Li, which is in agreement with the values reported
+for LiBH<sub>4</sub> by Asakura <italic>et al.</italic>(<xref ref-type="bibr" rid="ref11">11</xref>) and Gulino <italic>et al.</italic>(<xref ref-type="bibr" rid="ref10">10</xref>) This result suggests that the addition of the
+MgO matrix only affects the ionic conductivity, leaving the electrochemical
+stability of LiBH<sub>4</sub> unchanged.</p><p>The chemical compatibility
+toward metallic lithium was evaluated
+with galvanostatic cycling in a Li|CE53|Li symmetrical cell at 60
+&#x000b0;C, allowing to also determine the extent of the reversible lithium
+plating/stripping at the SSE surface and, at the same time, its reductive
+stability. The results, shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>, demonstrate that lithium is plated and
+stripped reversibly for over 90 h.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Galvanostatic cycling profiles of the
+symmetrical Li|CE53|Li cell
+at 60 &#x000b0;C with a current density of 25 &#x003bc;A cm<sup>&#x02013;2</sup> for 30 min sweeps.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae0c02525_0004" id="gr3" position="float"/></fig><p>The cell polarization
+is rather steady at 20 mV for the whole period,
+indicating a long-term stability and that no parasitic reactions between
+the SSE and lithium occur in this low potential region. Indeed, a
+well-performing electrochemical material should show a stable polarization,
+reflecting the electrolyte resistivity and interfacial effects, in
+case they are present. LiBH<sub>4</sub> has been already reported
+to be able to plat/strip lithium for a longer time and at higher current
+densities.<sup><xref ref-type="bibr" rid="ref17">17</xref>,<xref ref-type="bibr" rid="ref45">45</xref></sup></p><p>The contact resistance
+of the cell was calculated by multiplying
+the cell resistance (after having subtracted the SSE contribution),
+divided by a factor of 2 (since the two interfaces are considered
+equivalent), by the contact surface. It turns out to be about 565
+&#x003a9; cm<sup>2</sup>, a much higher value than that reported by
+Kim <italic>et al.</italic>(<xref ref-type="bibr" rid="ref46">46</xref>) on carborane
+SSEs (&#x0003c;1 &#x003a9; cm<sup>2</sup>). In the absence of a proper cell
+stack pressure, which would guarantee an intimate contact between
+lithium and the SSE surfaces, a high contact resistance, increasing
+during cycling, is expected,<sup><xref ref-type="bibr" rid="ref47">47</xref>,<xref ref-type="bibr" rid="ref48">48</xref></sup> explaining the observed
+value.</p></sec><sec id="sec3.3"><label>3.3</label><title>Battery Test</title><p>The electrochemical
+properties of the CE53 composite SSE were tested in an SSB, selecting
+TiS<sub>2</sub> and Li as positive and negative electrodes, respectively.
+Lithium increases the energy density with respect to the commercial
+graphitic anodes,<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> while TiS<sub>2</sub> is widely used for LiBH<sub>4</sub>-based SSBs.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> In the current study, TiS<sub>2</sub> has also been selected
+to obtain a valid comparison with the system reported by Unemoto <italic>et al.</italic>(<xref ref-type="bibr" rid="ref29">29</xref>)</p><p>The Li-ion conductivity
+of CE53 at 20 &#x000b0;C amounts to 2.86 &#x000d7; 10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup> and it is sufficient to operate the battery
+at RT at low current regimes.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> Therefore,
+a freshly prepared cell was built and cycled at RT, without any conditioning. <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref> depicts the galvanostatic
+cycling with a potential limitation (GCPL) profile of the Li|CE53|TiS<sub>2</sub> cell, operating with a current density of 24 mA g<sup>&#x02013;1</sup> (C/10).</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Voltage profiles of the Li|CE53|TiS cell for a rate of C/10 (<italic>i.e.</italic>, 24 mA/g) at RT.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae0c02525_0005" id="gr4" position="float"/></fig><p><xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref> shows that
+it was possible to collect data for only five cycles before the cell
+failure and several spikes are visible in the charge profiles, but
+they are completely missing during discharges. These results suggest
+an inhomogeneous Li plating and it may be induced by the imposition
+of a current density exceeding the so-called critical current density,<sup><xref ref-type="bibr" rid="ref49">49</xref>,<xref ref-type="bibr" rid="ref50">50</xref></sup> which is also a function of the cell stack pressure.<sup><xref ref-type="bibr" rid="ref48">48</xref></sup></p><p>A significant difference between the discharge
+capacity at the
+first and the second cycle (52 and 173 mA h g<sup>&#x02013;1</sup>,
+respectively) has been observed. Unemoto <italic>et al.</italic>(<xref ref-type="bibr" rid="ref29">29</xref>) observed a similar behavior for the Li|LiBH<sub>4</sub>|TiS<sub>2</sub> battery, operating at 120 &#x000b0;C. By probing
+the evolution of LiBH<sub>4</sub> into Li<sub>2</sub>B<sub>12</sub>H<sub>12</sub>, it has been related to a partial instability of the
+TiS<sub>2</sub>/LiBH<sub>4</sub> interface, forming H<sub>2</sub> and
+additional Li, that self-diffuses into TiS<sub>2</sub>, self-discharging
+the battery.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> The recently reported value
+of 2.2/2.3 V <italic>versus</italic> Li<sup>+</sup>/Li for the electrochemical
+window of LiBH<sub>4</sub> clarifies that the TiS<sub>2</sub>/LiBH<sub>4</sub> interfacial instability arises when the LiBH<sub>4</sub> oxidation
+potential is exceeded.<sup><xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref11">11</xref></sup> In the present case, the self-discharging
+reaction to form a solid electrolyte interface (SEI), as evidenced
+by the capacity difference between the first and the second cycle,
+is much less extended than that reported by Unemoto <italic>et al.</italic>(<xref ref-type="bibr" rid="ref29">29</xref>) (<italic>i.e.</italic>, discharge capacities
+of 80 and 205 mA h g<sup>&#x02013;1</sup> for the first and second
+cycles, respectively). This is probably due to a kinetic limitation
+in the reaction of LiBH<sub>4</sub> to form likely Li<sub>2</sub>B<sub>12</sub>H<sub>12</sub> as a consequence of the lower temperature.</p><p>In order to gain further insights into the effect of the temperature
+on the formation of the SEI, a freshly prepared cell was built and
+cycled at 60 &#x000b0;C. <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a shows the GCPL profile of the Li|CE53|TiS<sub>2</sub> cell
+operating at 60 &#x000b0;C and with a current density of 11.8 mA g<sup>&#x02013;1</sup> (corresponding to C/20).</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>(a) Voltage profiles
+of the Li|CE53|TiS<sub>2</sub> cell for a
+rate of C/20 (11.8 mA g<sup>&#x02013;1</sup>) at 60 &#x000b0;C. (b) Discharge/charge
+specific capacity, Coulombic efficiency (discharge capacity over charge
+capacity), and discharge capacity retention ratio as a function of
+cycle number for the same cell. The capacity of the battery is expressed
+per gram of TiS<sub>2</sub>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae0c02525_0006" id="gr5" position="float"/></fig><p>For the sake of clarity, only selected galvanostatic profiles are
+shown. A high capacity retention was observed over 65 cycles when
+the battery operated at 60 &#x000b0;C. A rather low discharge capacity
+has been observed at the first cycle (101 mA h g<sup>&#x02013;1</sup>). On the other hand, its value at the second cycle amounts to 175
+mA h g<sup>&#x02013;1</sup> that corresponds to about 73% of the theoretical
+capacity of TiS<sub>2</sub> (239 mA h g<sup>&#x02013;1</sup>).<sup><xref ref-type="bibr" rid="ref51">51</xref>,<xref ref-type="bibr" rid="ref52">52</xref></sup></p><p>The self-discharge due to the formation of the Li<sub>2</sub>B<sub>12</sub>H<sub>12</sub> SEI is also observed in this case but
+with
+a higher extent with respect to the test performed at RT (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>). The higher self-discharge
+observed is consistent with a faster kinetics of the reaction of LiBH<sub>4</sub> to form Li<sub>2</sub>B<sub>12</sub>H<sub>12</sub>, which
+is favored by the higher temperature.</p><p><xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b shows
+the discharge/charge capacity, Coulombic efficiency, and discharge
+capacity retention ratio to the second discharge as a function of
+cycle number. The capacity retention has been calculated with respect
+to the second discharge capacity since in the first run the capacity
+is overestimated due to the self-discharge reaction occurring at the
+TiS<sub>2</sub>/LiBH<sub>4</sub> interface. The discharge capacity
+retention is more than 80% after 65 cycles, which is promising for
+a stable battery operation at this temperature.</p><p>It is worth
+noting that after the 30th cycle (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>a), a pronounced decrease of
+the capacity is observed (<italic>i.e.</italic>, discharge capacities
+of 174, 147, and 139 mA h g<sup>&#x02013;1</sup> for the 2nd, the 30th,
+and the 65th cycle, respectively). On the other hand, the Coulombic
+efficiency is always close to 99.9% up to the 10th cycle (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>b), indicating that
+the capacity fading occurs during the charge, namely, at a voltage
+higher than the oxidative stability of LiBH<sub>4</sub>.</p><p>To
+clarify the cause of this effect, the cell impedance was monitored
+after each charge/discharge cycle and results are reported in Figure
+S4 in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsaem.0c02525/suppl_file/ae0c02525_si_001.pdf">Supporting Information</ext-link>. The contact
+resistance (<italic>R</italic><sub>1</sub>), at the very first discharge,
+is &#x0003c;1 &#x003a9; (similar to that obtained by Kim <italic>et al.</italic>),<sup><xref ref-type="bibr" rid="ref46">46</xref></sup> and afterward, it quickly increases
+in the first 10 cycles and then reaches a steady exponential increase.
+This behavior can be understood considering the sum of two contributions.
+The first one is the formation of the Li<sub>2</sub>B<sub>12</sub>H<sub>12</sub>-based SEI layer, that is, poor conductivity at 60
+&#x000b0;C (lower than 10<sup>&#x02013;6</sup> S cm<sup>&#x02013;1</sup>).<sup><xref ref-type="bibr" rid="ref53">53</xref></sup> The decrease of the capacity fading
+at the 30th cycle could correspond to the achievement of the maximal
+SEI thickness. The second contribution, being the cell not supported
+by an appropriate stack pressure, is likely due to a continuous loss
+of contact at the electrode interfaces. In fact, during the delithiation
+of TiS<sub>2</sub>, a volume contraction of &#x00394;<italic>V</italic>/<italic>V</italic> = &#x02212;9.7% is experienced, which also explains
+the rather high contact resistance after each charge cycle (Figure
+S4 in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsaem.0c02525/suppl_file/ae0c02525_si_001.pdf">Supporting Information</ext-link>), that
+is, after Li plating at the negative electrode. The Li<sub><italic>x</italic></sub>TiS<sub>2</sub> &#x00394;<italic>V</italic>/<italic>V</italic> value was estimated assuming a complete deintercalation;
+so, considering the unit cell volume at the two intercalation extremes, <italic>x</italic> = 0 and at <italic>x</italic> = 1. In addition, when considering
+the negative side of the cell, a similar trend of the contact resistance
+has been reported by Krauskopf <italic>et al.</italic>,<sup><xref ref-type="bibr" rid="ref54">54</xref></sup> when the current density is higher than a critical
+value (<italic>i.e.</italic>, 200 &#x003bc;A cm<sup>&#x02013;1</sup> at
+RT) without a suitable external applied pressure. Therefore, we assume
+that the contact degradation happens at both the cathode and anode
+and that it is the main reason of the capacity fading after the 30th
+cycle.</p><p>In order to investigate a possible dependence of SEI
+formation
+from the amount of LiBH<sub>4</sub> in the SSE, that is, from the
+LiBH<sub>4</sub>/MgO volume ratio, a similar cell was built using
+the CE26 composite as the electrolyte. Figure S5 in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsaem.0c02525/suppl_file/ae0c02525_si_001.pdf">Supporting Information</ext-link> shows the GCPL profile
+of Li|CE26|TiS<sub>2</sub> at 60 &#x000b0;C, with a current density of
+4.8 mA g<sup>&#x02013;1</sup> (corresponding to C/50). Also, in this
+case, the capacity obtained on the second cycle (176 mA h g<sup>&#x02013;1</sup>) is higher compared to that observed for the first one (82 mA h
+g<sup>&#x02013;1</sup>), confirming the occurrence of a self-discharge
+reaction, as described above. Interestingly, when comparing the properties
+of cells with CE26 and CE53 as SSEs, the same behavior is observed,
+that is, a stabilization of the capacity fading after a certain number
+of cycles. In this case, the change is observed at the 58th cycle,
+a time-shift that can likely be due to the slower kinetics imposed
+by lower current rates (C/50 instead of C/20).</p><p>The high Li-ion
+conductivity of the CE53 composite and the formation
+of an SEI at a high temperature allow the battery to operate at RT.
+Therefore, after 65 cycles performed at 60 &#x000b0;C, the temperature
+of the test for the Li|CE53|TiS<sub>2</sub> cell decreased to RT.
+A 4 h rest has been applied in order to equilibrate the temperature. <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a shows the galvanostatic
+profiles using the same current density of 11.8 mA g<sup>&#x02013;1</sup> (C/20). For the sake of clarity, only selected galvanostatic profiles
+are shown.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>(a) Voltage profiles of the Li|CE53|TiS<sub>2</sub> cell for a
+rate of C/20 at RT after 65 cycles at 60 &#x000b0;C at the C/20 rate.
+(b) Discharge/charge specific capacity, Coulombic efficiency (discharge
+capacity over charge capacity), and discharge capacity retention ratio
+(to the second discharge capacity) as a function of cycle number for
+the same cell.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae0c02525_0007" id="gr6" position="float"/></fig><p><xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>b shows
+the discharge/charge capacity, Coulombic efficiency, and capacity
+retention ratio to the second discharge as a function of cycle number.
+It is worth noting that the battery successfully operates at RT for
+more than 30 cycles, with a discharge capacity retention of 80%.</p><p>The capacity of the Li|CE26|TiS<sub>2</sub> cell at RT for the
+first cycle is 51 mA h g<sup>&#x02013;1</sup> (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>), compared with the value of 139 mA h g<sup>&#x02013;1</sup> obtained for the 65th cycle at 60 &#x000b0;C. In order
+to clarify this difference, Figure S6 in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsaem.0c02525/suppl_file/ae0c02525_si_001.pdf">Supporting Information</ext-link> shows the voltage profiles of the 65th charge and
+discharge cycles shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref> compared with those corresponding to the 1st cycle
+at RT (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>). It
+is clear that the decrease of the working temperature causes an increase
+of the cell polarization, indicating that the capacity drop (<italic>i.e.</italic>, between the last cycle at 60 &#x000b0;C and the first
+cycle at RT) can be assigned to kinetic limitations due to the low
+temperature. During the 4 h rest, the evolution of the cell resistance
+was monitored by means of <italic>in situ</italic> EIS (Figure S7a
+in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsaem.0c02525/suppl_file/ae0c02525_si_001.pdf">Supporting Information</ext-link>). The increase
+of the cell resistance during the 4 h rest at RT is mainly related
+to the decrease of the ionic conductivity of the SSE. Figure S7b in
+the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsaem.0c02525/suppl_file/ae0c02525_si_001.pdf">Supporting Information</ext-link> shows the contact
+resistance (<italic>R</italic><sub>1</sub>) after each charge discharge
+cycle at RT. Assuming that the formation of the SEI was completed
+during the first cycles at 60 &#x000b0;C, the steady increase of <italic>R</italic><sub>1</sub> can be assigned to just a continuous contact
+loss, as also observed after the 30th cycle at 60 &#x000b0;C (Figure
+S4b in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsaem.0c02525/suppl_file/ae0c02525_si_001.pdf">Supporting Information</ext-link>). Despite
+this, CE53 allowed to operate the Li|CE53|TiS<sub>2</sub> system at
+RT, once the SEI was formed.</p><p>Comparing the behavior of the battery
+previously conditioned at
+60 &#x000b0;C with respect to that operating directly at RT (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>), it is evident
+that the high-temperature treatment stabilizes the interface by forming
+a stable interface compound such as the Li<sub>2</sub>B<sub>12</sub>H<sub>12</sub>-based SEI, as suggested by Unemoto <italic>et al.</italic>,<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> allowing the cell to operate at RT.
+The longer life cycle suggests the prevention of electrolyte decomposition.</p><p>As mentioned above, Unemoto <italic>et al.</italic>(<xref ref-type="bibr" rid="ref29">29</xref>) reported results on an SSB very similar to that
+investigated in the present study but using pure LiBH<sub>4</sub> instead
+of a composite as the SSE and operating at 120 &#x000b0;C since h-LiBH<sub>4</sub> was necessary to achieve the high Li-ion conductivity. The
+obtained capacity retention was 88% after 300 cycles at a C/5 rate.
+It has been reported that the higher working temperature increases
+the Li diffusion,<sup><xref ref-type="bibr" rid="ref54">54</xref>,<xref ref-type="bibr" rid="ref55">55</xref></sup> strongly limiting the void formation
+at the electrode interface during the stripping process. This effect
+limits the contact resistance evolution, significantly reducing the
+capacity fading, as observed by Unemoto <italic>et al.</italic>(<xref ref-type="bibr" rid="ref29">29</xref>) even in the absence of an appropriate stack
+pressure, unlike the reported case at 60 &#x000b0;C. In contrast, the
+results reported here show that a drastical decrease of the operating
+temperature (<italic>i.e.</italic>, from 120 &#x000b0;C to RT) is possible,
+thanks to a LiBH<sub>4</sub>&#x02013;MgO nanocomposite as the solid
+electrolyte and the formation, at 60 &#x000b0;C, of a stable SEI. It
+is the first time that the formation of a stable SEI at a temperature
+(60 &#x000b0;C) higher than the operating one (RT) is applied to a hydride
+solid electrolyte and it is probably also relevant for other SSEs
+working in full solid-state LIBs, as already reported by Rodrigues <italic>et al.</italic>(<xref ref-type="bibr" rid="ref56">56</xref>)</p><p>Clearly, optimization
+of the battery, to realize a long cycle-life
+SSB, would lead to a different electrode choice. For instance, elemental
+sulfur, which has a high theoretical capacity (1672 mA h g<sup>&#x02013;1</sup>)<sup><xref ref-type="bibr" rid="ref57">57</xref></sup> and a redox potential of &#x0223c;2.2
+V, similar to the oxidative limit of the LiBH<sub>4</sub> electrochemical
+window (<italic>i.e.</italic>, 2.2 V <italic>vs</italic> Li<sup>+</sup>/Li), would be a suitable electrode, possibly adopting an infiltration
+procedure for the electrode preparation, that is, dissolving the SSE
+in an opportune solvent and crystallizing it directly on the cathode
+material.<sup><xref ref-type="bibr" rid="ref58">58</xref>,<xref ref-type="bibr" rid="ref59">59</xref></sup> In addition, the optimization of the external
+cell stack pressure, recently suggested to be rather small (<italic>i.e.</italic>, 5 MPa),<sup><xref ref-type="bibr" rid="ref60">60</xref></sup> would reduce
+the contact resistance, leading to a lower capacity fading.<sup><xref ref-type="bibr" rid="ref47">47</xref>,<xref ref-type="bibr" rid="ref54">54</xref></sup></p><p>Finally, the cost of solid electrolyte materials is important,
+as well as effective large-scale production. The U.S. Department of
+Energy&#x02019;s Advanced Research Projects Agency-Energy (ARPA-E)
+has adopted an ambitious target of 10 $/m<sup>2</sup> for the cost
+area of solid electrolyte materials,<sup><xref ref-type="bibr" rid="ref61">61</xref>,<xref ref-type="bibr" rid="ref62">62</xref></sup> considering
+a 10 &#x003bc;m thickness. The SSE synthetized in this work is composed
+by easily available raw materials making the cost less than 2 $/g,
+corresponding to about 80 $/m<sup>2</sup>. Considering that the up-scaling
+might decrease the cost, LiBH<sub>4</sub>-based composites could be
+considered as competitive candidates to be used in Li-ion SSBs.</p></sec></sec><sec id="sec4"><label>4</label><title>Conclusions</title><p>In this work, fast ionic conductors
+in the solid state, based on
+the LiBH<sub>4</sub>&#x02013;MgO system, were investigated. The samples
+were mechanochemically synthetized. The Li-ion conductivity of LiBH<sub>4</sub> was improved in all cases, and the samples containing 53
+v/v % of MgO showed the best enhancement (2.86 &#x000d7; 10<sup>&#x02013;4</sup> S cm<sup>&#x02013;1</sup> at 20 &#x000b0;C), since the volume fraction
+of LiBH<sub>4</sub> allowed to completely fill the pore volume of
+MgO. The formation of a highly conductive layer does not affect the
+electrochemical stability window, which is similar to that of pure
+LiBH<sub>4</sub> (<italic>i.e.</italic>, about 2.2 V <italic>vs</italic> Li<sup>+</sup>/Li).</p><p>A test at RT in a TiS<sub>2</sub>/Li SSB
+allowed only five cycles
+before the cell failure. From a battery test at 60 &#x000b0;C, the incorporation
+of the solid electrolyte in the battery showed that a stable SEI is
+formed during the first charge/discharge cycles, causing an initial
+increase in contact resistance but limiting a further decomposition
+of the composite electrolyte. Afterward, the battery worked at RT
+for up to 30 cycles, with a specific capacity of about 50 mA h g<sup>&#x02013;1</sup>.</p><p>In conclusion, it has been demonstrated that
+the SEI, formed at
+60 &#x000b0;C, allowed to reduce the operating temperature of the SSB
+down to RT. Therefore, a possible novel strategy to obtain an SSB
+working at RT, using complex hydrides as electrolytes, can be established
+by the formation of a stable SEI at higher temperatures. Despite this
+proof-of-concept, further optimization is mandatory to obtain an efficient
+battery (<italic>e.g.</italic>, electrode choice and casting and cell
+stack pressure).</p></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsaem.0c02525?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsaem.0c02525</ext-link>.<list id="silist" list-type="simple"><list-item><p>PXRD patterns, Nyquist
+plot with the fitting values, <italic>in situ</italic> EIS measurements
+of Li|CE53|TiS<sub>2</sub> working
+at 60 &#x000b0;C and RT, and GCPL profile of the Li|CE26|TiS<sub>2</sub> cell working at 60 &#x000b0;C (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsaem.0c02525/suppl_file/ae0c02525_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ae0c02525_si_001.pdf"><caption><p>ae0c02525_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="NOTES-d7e1903-autogenerated"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>Financial
+support from the Netherlands Organisation
+for Scientific Research (NWO-ECHO) is gratefully acknowledged.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Bachman</surname><given-names>J. C.</given-names></name>; <name><surname>Muy</surname><given-names>S.</given-names></name>; <name><surname>Grimaud</surname><given-names>A.</given-names></name>; <name><surname>Chang</surname><given-names>H.-H.</given-names></name>; <name><surname>Pour</surname><given-names>N.</given-names></name>; <name><surname>Lux</surname><given-names>S. F.</given-names></name>; <name><surname>Paschos</surname><given-names>O.</given-names></name>; <name><surname>Maglia</surname><given-names>F.</given-names></name>; <name><surname>Lupart</surname><given-names>S.</given-names></name>; <name><surname>Lamp</surname><given-names>P.</given-names></name>; <name><surname>Giordano</surname><given-names>L.</given-names></name>; <name><surname>Shao-Horn</surname><given-names>Y.</given-names></name>
+<article-title>Inorganic Solid-State Electrolytes
+for Lithium Batteries: Mechanisms and Properties Governing Ion Conduction</article-title>. <source>Chem. Rev.</source>
+<year>2016</year>, <volume>116</volume>, <fpage>140</fpage>&#x02013;<lpage>162</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemrev.5b00563</pub-id>.<pub-id pub-id-type="pmid">26713396</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Manthiram</surname><given-names>A.</given-names></name>; <name><surname>Yu</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>S.</given-names></name>
+<article-title>Lithium Battery
+Chemistries Enabled by Solid-State
+Electrolytes</article-title>. <source>Nat. Rev. Mater.</source>
+<year>2017</year>, <volume>2</volume>, <fpage>16103</fpage><pub-id pub-id-type="doi">10.1038/natrevmats.2016.103</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Goodenough</surname><given-names>J. B.</given-names></name>; <name><surname>Kim</surname><given-names>Y.</given-names></name>
+<article-title>Challenges for Rechargeable Li Batteries</article-title>. <source>Chem.
+Mater.</source>
+<year>2010</year>, <volume>22</volume>, <fpage>587</fpage>&#x02013;<lpage>603</lpage>. <pub-id pub-id-type="doi">10.1021/cm901452z</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Goodenough</surname><given-names>J. B.</given-names></name>; <name><surname>Singh</surname><given-names>P.</given-names></name>
+<article-title>Review-Solid Electrolytes
+in Rechargeable Electrochemical Cells</article-title>. <source>J. Electrochem.
+Soc.</source>
+<year>2015</year>, <volume>162</volume>, <fpage>A2387</fpage>&#x02013;<lpage>A2392</lpage>. <pub-id pub-id-type="doi">10.1149/2.0021514jes</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Culver</surname><given-names>S. P.</given-names></name>; <name><surname>Koerver</surname><given-names>R.</given-names></name>; <name><surname>Krauskopf</surname><given-names>T.</given-names></name>; <name><surname>Zeier</surname><given-names>W. G.</given-names></name>
+<article-title>Designing Ionic
+Conductors: The Interplay between Structural Phenomena and Interfaces
+in Thiophosphate-Based Solid-State Batteries</article-title>. <source>Chem. Mater.</source>
+<year>2018</year>, <volume>30</volume>, <fpage>4179</fpage>&#x02013;<lpage>4192</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemmater.8b01293</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Muldoon</surname><given-names>J.</given-names></name>; <name><surname>Bucur</surname><given-names>C. B.</given-names></name>; <name><surname>Gregory</surname><given-names>T.</given-names></name>
+<article-title>Quest for
+Nonaqueous Multivalent
+Secondary Batteries: Magnesium and Beyond</article-title>. <source>Chem.
+Rev.</source>
+<year>2014</year>, <volume>114</volume>, <fpage>11683</fpage>&#x02013;<lpage>11720</lpage>. <pub-id pub-id-type="doi">10.1021/cr500049y</pub-id>.<pub-id pub-id-type="pmid">25343313</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Duch&#x000ea;ne</surname><given-names>L.</given-names></name>; <name><surname>Remhof</surname><given-names>A.</given-names></name>; <name><surname>Hagemann</surname><given-names>H.</given-names></name>; <name><surname>Battaglia</surname><given-names>C.</given-names></name>
+<article-title>Status and
+Prospects of Hydroborate Electrolytes for All-Solid-State Batteries</article-title>. <source>Energy Storage Mater.</source>
+<year>2020</year>, <volume>25</volume>, <fpage>782</fpage>&#x02013;<lpage>794</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2019.08.032</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>El
+Kharbachi</surname><given-names>A.</given-names></name>; <name><surname>Pinatel</surname><given-names>E.</given-names></name>; <name><surname>Nuta</surname><given-names>I.</given-names></name>; <name><surname>Baricco</surname><given-names>M.</given-names></name>
+<article-title>A Thermodynamic
+Assessment of LiBH<sub>4</sub></article-title>. <source>Calphad</source>
+<year>2012</year>, <volume>39</volume>, <fpage>80</fpage>&#x02013;<lpage>90</lpage>. <pub-id pub-id-type="doi">10.1016/j.calphad.2012.08.005</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Matsuo</surname><given-names>M.</given-names></name>; <name><surname>Nakamori</surname><given-names>Y.</given-names></name>; <name><surname>Orimo</surname><given-names>S.-i.</given-names></name>; <name><surname>Maekawa</surname><given-names>H.</given-names></name>; <name><surname>Takamura</surname><given-names>H.</given-names></name>
+<article-title>Lithium Superionic
+Conduction in Lithium Borohydride Accompanied by Structural Transition</article-title>. <source>Appl. Phys. Lett.</source>
+<year>2007</year>, <volume>91</volume>, <fpage>224103</fpage><pub-id pub-id-type="doi">10.1063/1.2817934</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Gulino</surname><given-names>V.</given-names></name>; <name><surname>Brighi</surname><given-names>M.</given-names></name>; <name><surname>Dematteis</surname><given-names>E. M.</given-names></name>; <name><surname>Murgia</surname><given-names>F.</given-names></name>; <name><surname>Nervi</surname><given-names>C.</given-names></name>; <name><surname>&#x0010c;ern&#x000fd;</surname><given-names>R.</given-names></name>; <name><surname>Baricco</surname><given-names>M.</given-names></name>
+<article-title>Phase Stability and Fast Ion Conductivity
+in the Hexagonal LiBH<sub>4</sub>-LiBr-LiCl Solid Solution</article-title>. <source>Chem. Mater.</source>
+<year>2019</year>, <volume>31</volume>, <fpage>5133</fpage>&#x02013;<lpage>5144</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemmater.9b01035</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Asakura</surname><given-names>R.</given-names></name>; <name><surname>Duch&#x000ea;ne</surname><given-names>L.</given-names></name>; <name><surname>K&#x000fc;hnel</surname><given-names>R.-S.</given-names></name>; <name><surname>Remhof</surname><given-names>A.</given-names></name>; <name><surname>Hagemann</surname><given-names>H.</given-names></name>; <name><surname>Battaglia</surname><given-names>C.</given-names></name>
+<article-title>Electrochemical
+Oxidative Stability of Hydroborate-Based
+Solid-State Electrolytes</article-title>. <source>ACS Appl. Energy Mater.</source>
+<year>2019</year>, <volume>2</volume>, <fpage>6924</fpage>&#x02013;<lpage>6930</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.9b01487</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Matsuo</surname><given-names>M.</given-names></name>; <name><surname>Oguchi</surname><given-names>H.</given-names></name>; <name><surname>Maekawa</surname><given-names>H.</given-names></name>; <name><surname>Takamura</surname><given-names>H.</given-names></name>; <name><surname>Orimo</surname><given-names>S.</given-names></name>; <name><surname>Volume</surname><given-names>M. M.</given-names></name>
+<article-title>Complex Hydrides: A New Category
+of Solid-State Lithium
+Fast-Ion Conductors</article-title>. <source>Mater. Matters</source>
+<year>2011</year>, <volume>5</volume>, <fpage>5</fpage>&#x02013;<lpage>13</lpage>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Sveinbj&#x000f6;rnsson</surname><given-names>D.</given-names></name>; <name><surname>Myrdal</surname><given-names>J. S. G.</given-names></name>; <name><surname>Blanchard</surname><given-names>D.</given-names></name>; <name><surname>Bentzen</surname><given-names>J. J.</given-names></name>; <name><surname>Hirata</surname><given-names>T.</given-names></name>; <name><surname>Mogensen</surname><given-names>M. B.</given-names></name>; <name><surname>Norby</surname><given-names>P.</given-names></name>; <name><surname>Orimo</surname><given-names>S.</given-names></name>; <name><surname>Vegge</surname><given-names>T.</given-names></name>
+<article-title>Effect of
+Heat Treatment on the Lithium Ion Conduction of the LiBH<sub>4</sub>&#x02212;LiI Solid Solution</article-title>. <source>J. Phys. Chem.
+C</source>
+<year>2013</year>, <volume>117</volume>, <fpage>3249</fpage>&#x02013;<lpage>3257</lpage>. <pub-id pub-id-type="doi">10.1021/jp310050g</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Unemoto</surname><given-names>A.</given-names></name>; <name><surname>Chen</surname><given-names>C.</given-names></name>; <name><surname>Wang</surname><given-names>Z.</given-names></name>; <name><surname>Matsuo</surname><given-names>M.</given-names></name>; <name><surname>Ikeshoji</surname><given-names>T.</given-names></name>; <name><surname>Orimo</surname><given-names>S.-i.</given-names></name>
+<article-title>Pseudo-Binary Electrolyte,
+LiBH<sub>4</sub>-LiCl, for
+Bulk-Type All-Solid-State Lithium-Sulfur Battery</article-title>. <source>Nanotechnology</source>
+<year>2015</year>, <volume>26</volume>, <fpage>254001</fpage><pub-id pub-id-type="doi">10.1088/0957-4484/26/25/254001</pub-id>.<pub-id pub-id-type="pmid">26041380</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Matsuo</surname><given-names>M.</given-names></name>; <name><surname>Remhof</surname><given-names>A.</given-names></name>; <name><surname>Martelli</surname><given-names>P.</given-names></name>; <name><surname>Caputo</surname><given-names>R.</given-names></name>; <name><surname>Ernst</surname><given-names>M.</given-names></name>; <name><surname>Miura</surname><given-names>Y.</given-names></name>; <name><surname>Sato</surname><given-names>T.</given-names></name>; <name><surname>Oguchi</surname><given-names>H.</given-names></name>; <name><surname>Maekawa</surname><given-names>H.</given-names></name>; <name><surname>Takamura</surname><given-names>H.</given-names></name>; <name><surname>Borgschulte</surname><given-names>A.</given-names></name>; <name><surname>Z&#x000fc;ttel</surname><given-names>A.</given-names></name>; <name><surname>Orimo</surname><given-names>S.-i.</given-names></name>
+<article-title>Complex Hydrides with (BH<sub>4</sub>)<sup>&#x02013;</sup>and (NH<sub>2</sub>)<sup>&#x02013;</sup>Anions
+as New Lithium Fast-Ion
+Conductors</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2009</year>, <volume>131</volume>, <fpage>16389</fpage>&#x02013;<lpage>16391</lpage>. <pub-id pub-id-type="doi">10.1021/ja907249p</pub-id>.<pub-id pub-id-type="pmid">19856969</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Wolczyk</surname><given-names>A.</given-names></name>; <name><surname>Paik</surname><given-names>B.</given-names></name>; <name><surname>Sato</surname><given-names>T.</given-names></name>; <name><surname>Nervi</surname><given-names>C.</given-names></name>; <name><surname>Brighi</surname><given-names>M.</given-names></name>; <name><surname>GharibDoust</surname><given-names>S. P.</given-names></name>; <name><surname>Chierotti</surname><given-names>M.</given-names></name>; <name><surname>Matsuo</surname><given-names>M.</given-names></name>; <name><surname>Li</surname><given-names>G.</given-names></name>; <name><surname>Gobetto</surname><given-names>R.</given-names></name>; <name><surname>Jensen</surname><given-names>T. R.</given-names></name>; <name><surname>&#x0010c;ern&#x000fd;</surname><given-names>R.</given-names></name>; <name><surname>Orimo</surname><given-names>S.-i.</given-names></name>; <name><surname>Baricco</surname><given-names>M.</given-names></name>
+<article-title>Li<sub>5</sub>(BH<sub>4</sub>)<sub>3</sub>NH: Lithium-Rich Mixed Anion Complex Hydride</article-title>. <source>J. Phys. Chem. C</source>
+<year>2017</year>, <volume>121</volume>, <fpage>11069</fpage>&#x02013;<lpage>11075</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.7b00821</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Zhu</surname><given-names>M.</given-names></name>; <name><surname>Pang</surname><given-names>Y.</given-names></name>; <name><surname>Lu</surname><given-names>F.</given-names></name>; <name><surname>Shi</surname><given-names>X.</given-names></name>; <name><surname>Yang</surname><given-names>J.</given-names></name>; <name><surname>Zheng</surname><given-names>S.</given-names></name>
+<article-title>In Situ Formed Li-B-H
+Complex with High Li-Ion Conductivity as a
+Potential Solid Electrolyte for Li Batteries</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2019</year>, <volume>11</volume>, <fpage>14136</fpage>&#x02013;<lpage>14141</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.9b01326</pub-id>.<pub-id pub-id-type="pmid">30907580</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Fichtner</surname><given-names>M.</given-names></name>
+<article-title>Nanoconfinement
+Effects in Energy Storage Materials</article-title>. <source>Phys. Chem.
+Chem. Phys.</source>
+<year>2011</year>, <volume>13</volume>, <fpage>21186</fpage><pub-id pub-id-type="doi">10.1039/c1cp22547b</pub-id>.<pub-id pub-id-type="pmid">22048667</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Choi</surname><given-names>Y. S.</given-names></name>; <name><surname>Lee</surname><given-names>Y.-S.</given-names></name>; <name><surname>Oh</surname><given-names>K. H.</given-names></name>; <name><surname>Cho</surname><given-names>Y. W.</given-names></name>
+<article-title>Interface-Enhanced
+Li Ion Conduction in a LiBH<sub>4</sub>&#x02212;SiO<sub>2</sub> Solid
+Electrolyte</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2016</year>, <volume>18</volume>, <fpage>22540</fpage>&#x02013;<lpage>22547</lpage>. <pub-id pub-id-type="doi">10.1039/C6CP03563A</pub-id>.<pub-id pub-id-type="pmid">27468702</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Blanchard</surname><given-names>D.</given-names></name>; <name><surname>Nale</surname><given-names>A.</given-names></name>; <name><surname>Sveinbj&#x000f6;rnsson</surname><given-names>D.</given-names></name>; <name><surname>Eggenhuisen</surname><given-names>T. M.</given-names></name>; <name><surname>Verkuijlen</surname><given-names>M. H. W.</given-names></name>; <name><surname>Suwarno</surname></name>; <name><surname>Vegge</surname><given-names>T.</given-names></name>; <name><surname>Kentgens</surname><given-names>A. P. M.</given-names></name>; <name><surname>de
+Jongh</surname><given-names>P. E.</given-names></name>
+<article-title>Nanoconfined LiBH<sub>4</sub> as a Fast Lithium Ion
+Conductor</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2015</year>, <volume>25</volume>, <fpage>184</fpage>&#x02013;<lpage>192</lpage>. <pub-id pub-id-type="doi">10.1002/adfm.201402538</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Suwarno</surname></name>; <name><surname>Ngene</surname><given-names>P.</given-names></name>; <name><surname>Nale</surname><given-names>A.</given-names></name>; <name><surname>Eggenhuisen</surname><given-names>T. M.</given-names></name>; <name><surname>Oschatz</surname><given-names>M.</given-names></name>; <name><surname>Embs</surname><given-names>J. P.</given-names></name>; <name><surname>Remhof</surname><given-names>A.</given-names></name>; <name><surname>De Jongh</surname><given-names>P. E.</given-names></name>
+<article-title>Confinement Effects for Lithium Borohydride: Comparing
+Silica and Carbon Scaffolds</article-title>. <source>J. Phys. Chem.
+C</source>
+<year>2017</year>, <volume>121</volume>, <fpage>4197</fpage>&#x02013;<lpage>4205</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.6b13094</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Lefevr</surname><given-names>J.</given-names></name>; <name><surname>Cervini</surname><given-names>L.</given-names></name>; <name><surname>Griffin</surname><given-names>J. M.</given-names></name>; <name><surname>Blanchard</surname><given-names>D.</given-names></name>
+<article-title>Lithium Conductivity
+and Ions Dynamics in LiBH<sub>4</sub>/SiO<sub>2</sub> Solid Electrolytes
+Studied by Solid-State NMR and Quasi-Elastic Neutron Scattering and
+Applied in Lithium-Sulfur Batteries</article-title>. <source>J. Phys.
+Chem. C</source>
+<year>2018</year>, <volume>122</volume>, <fpage>15264</fpage>&#x02013;<lpage>15275</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.8b01507</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Lambregts</surname><given-names>S. F. H.</given-names></name>; <name><surname>van Eck</surname><given-names>E. R. H.</given-names></name>; <name><surname>Suwarno</surname></name>; <name><surname>Ngene</surname><given-names>P.</given-names></name>; <name><surname>de Jongh</surname><given-names>P. E.</given-names></name>; <name><surname>Kentgens</surname><given-names>A. P. M.</given-names></name>
+<article-title>Phase Behavior and Ion Dynamics of Nanoconfined LiBH<sub>4</sub> in Silica</article-title>. <source>J. Phys. Chem. C</source>
+<year>2019</year>, <volume>123</volume>, <fpage>25559</fpage>&#x02013;<lpage>25569</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.9b06477</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Breuer</surname><given-names>S.</given-names></name>; <name><surname>Pregartner</surname><given-names>V.</given-names></name>; <name><surname>Lunghammer</surname><given-names>S.</given-names></name>; <name><surname>Wilkening</surname><given-names>H. M. R.</given-names></name>
+<article-title>Dispersed
+Solid Conductors: Fast Interfacial Li-Ion Dynamics in Nanostructured
+LiF and LiF:&#x003b3;-Al<sub>2</sub>O<sub>3</sub> Composites</article-title>. <source>J. Phys. Chem. C</source>
+<year>2019</year>, <volume>123</volume>, <fpage>5222</fpage>&#x02013;<lpage>5230</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.8b10978</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Epp</surname><given-names>V.</given-names></name>; <name><surname>Wilkening</surname><given-names>M.</given-names></name>
+<article-title>Motion of
+Li<sup>+</sup> in Nanoengineered LiBH<sub>4</sub> and LiBH<sub>4</sub>:Al<sub>2</sub>O<sub>3</sub> Comparison
+with the Microcrystalline Form</article-title>. <source>ChemPhysChem</source>
+<year>2013</year>, <volume>14</volume>, <fpage>3706</fpage>&#x02013;<lpage>3713</lpage>. <pub-id pub-id-type="doi">10.1002/cphc.201300743</pub-id>.<pub-id pub-id-type="pmid">24166917</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Gulino</surname><given-names>V.</given-names></name>; <name><surname>Barberis</surname><given-names>L.</given-names></name>; <name><surname>Ngene</surname><given-names>P.</given-names></name>; <name><surname>Baricco</surname><given-names>M.</given-names></name>; <name><surname>de Jongh</surname><given-names>P. E.</given-names></name>
+<article-title>Enhancing
+Li-Ion Conductivity in LiBH<sub>4</sub>-Based Solid Electrolytes by
+Adding Various Nanosized Oxides</article-title>. <source>ACS Appl. Energy
+Mater.</source>
+<year>2020</year>, <volume>3</volume>, <fpage>4941</fpage>&#x02013;<lpage>4948</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.9b02268</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Liu</surname><given-names>Z.</given-names></name>; <name><surname>Xiang</surname><given-names>M.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Shao</surname><given-names>H.</given-names></name>; <name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>Guo</surname><given-names>X.</given-names></name>; <name><surname>Li</surname><given-names>L.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Liu</surname><given-names>W.</given-names></name>
+<article-title>Lithium migration pathways
+at the composite interface of LiBH<sub>4</sub> and two-dimensional
+MoS<sub>2</sub> enabling superior ionic conductivity at room temperature</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2020</year>, <volume>22</volume>, <fpage>4096</fpage>&#x02013;<lpage>4105</lpage>. <pub-id pub-id-type="doi">10.1039/C9CP06090A</pub-id>.<pub-id pub-id-type="pmid">32031546</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Latroche</surname><given-names>M.</given-names></name>; <name><surname>Blanchard</surname><given-names>D.</given-names></name>; <name><surname>Cuevas</surname><given-names>F.</given-names></name>; <name><surname>El Kharbachi</surname><given-names>A.</given-names></name>; <name><surname>Hauback</surname><given-names>B. C.</given-names></name>; <name><surname>Jensen</surname><given-names>T. R.</given-names></name>; <name><surname>de Jongh</surname><given-names>P. E.</given-names></name>; <name><surname>Kim</surname><given-names>S.</given-names></name>; <name><surname>Nazer</surname><given-names>N. S.</given-names></name>; <name><surname>Ngene</surname><given-names>P.</given-names></name>; <name><surname>Orimo</surname><given-names>S.-i.</given-names></name>; <name><surname>Ravnsb&#x000e6;k</surname><given-names>D. B.</given-names></name>; <name><surname>Yartys</surname><given-names>V. A.</given-names></name>
+<article-title>Full-Cell Hydride-Based
+Solid-State Li Batteries for
+Energy Storage</article-title>. <source>Int. J. Hydrogen Energy</source>
+<year>2019</year>, <volume>44</volume>, <fpage>7875</fpage>&#x02013;<lpage>7887</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijhydene.2018.12.200</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Unemoto</surname><given-names>A.</given-names></name>; <name><surname>Ikeshoji</surname><given-names>T.</given-names></name>; <name><surname>Yasaku</surname><given-names>S.</given-names></name>; <name><surname>Matsuo</surname><given-names>M.</given-names></name>; <name><surname>Stavila</surname><given-names>V.</given-names></name>; <name><surname>Udovic</surname><given-names>T. J.</given-names></name>; <name><surname>Orimo</surname><given-names>S.-i.</given-names></name>
+<article-title>Stable
+Interface Formation between
+TiS<sub>2</sub> and LiBH<sub>4</sub> in Bulk-Type All-Solid-State
+Lithium Batteries</article-title>. <source>Chem. Mater.</source>
+<year>2015</year>, <volume>27</volume>, <fpage>5407</fpage>&#x02013;<lpage>5416</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemmater.5b02110</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Unemoto</surname><given-names>A.</given-names></name>; <name><surname>Yasaku</surname><given-names>S.</given-names></name>; <name><surname>Nogami</surname><given-names>G.</given-names></name>; <name><surname>Tazawa</surname><given-names>M.</given-names></name>; <name><surname>Taniguchi</surname><given-names>M.</given-names></name>; <name><surname>Matsuo</surname><given-names>M.</given-names></name>; <name><surname>Ikeshoji</surname><given-names>T.</given-names></name>; <name><surname>Orimo</surname><given-names>S.-i.</given-names></name>
+<article-title>Development of bulk-type
+all-solid-state lithium-sulfur battery using LiBH<sub>4</sub> electrolyte</article-title>. <source>Appl. Phys. Lett.</source>
+<year>2014</year>, <volume>105</volume>, <fpage>083901</fpage><pub-id pub-id-type="doi">10.1063/1.4893666</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Unemoto</surname><given-names>A.</given-names></name>; <name><surname>Wu</surname><given-names>H.</given-names></name>; <name><surname>Udovic</surname><given-names>T. J.</given-names></name>; <name><surname>Matsuo</surname><given-names>M.</given-names></name>; <name><surname>Ikeshoji</surname><given-names>T.</given-names></name>; <name><surname>Orimo</surname><given-names>S.-i.</given-names></name>
+<article-title>Fast Lithium-Ionic
+Conduction in a New Complex Hydride&#x02013;Sulphide Crystalline Phase</article-title>. <source>Chem. Commun.</source>
+<year>2016</year>, <volume>52</volume>, <fpage>564</fpage>&#x02013;<lpage>566</lpage>. <pub-id pub-id-type="doi">10.1039/C5CC07793A</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Das</surname><given-names>S.</given-names></name>; <name><surname>Ngene</surname><given-names>P.</given-names></name>; <name><surname>Norby</surname><given-names>P.</given-names></name>; <name><surname>Vegge</surname><given-names>T.</given-names></name>; <name><surname>de Jongh</surname><given-names>P. E.</given-names></name>; <name><surname>Blanchard</surname><given-names>D.</given-names></name>
+<article-title>All-Solid-State
+Lithium-Sulfur Battery Based on a Nanoconfined
+LiBH<sub>4</sub> Electrolyte</article-title>. <source>J. Electrochem.
+Soc.</source>
+<year>2016</year>, <volume>163</volume>, <fpage>A2029</fpage>&#x02013;<lpage>A2034</lpage>. <pub-id pub-id-type="doi">10.1149/2.0771609jes</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Dimitrov</surname><given-names>V.</given-names></name>; <name><surname>Sakka</surname><given-names>S.</given-names></name>
+<article-title>Electronic Oxide Polarizability
+and Optical Basicity of Simple OxidesElectronic
+oxide polarizability and optical basicity of simple oxides. I</article-title>. <source>J. Appl. Physiol.</source>
+<year>1996</year>, <volume>79</volume>, <fpage>1736</fpage>&#x02013;<lpage>1740</lpage>. <pub-id pub-id-type="doi">10.1063/1.360962</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Brunauer</surname><given-names>S.</given-names></name>; <name><surname>Emmett</surname><given-names>P. H.</given-names></name>; <name><surname>Teller</surname><given-names>E.</given-names></name>
+<article-title>Adsorption
+of Gases in Multimolecular
+Layers</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>1938</year>, <volume>60</volume>, <fpage>309</fpage>&#x02013;<lpage>319</lpage>. <pub-id pub-id-type="doi">10.1021/ja01269a023</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Boukamp</surname><given-names>B.</given-names></name>
+<article-title>Electrochemical
+Impedance Spectroscopy in Solid State Ionics: Recent Advances</article-title>. <source>Solid State Ionics</source>
+<year>2004</year>, <volume>169</volume>, <fpage>65</fpage>&#x02013;<lpage>73</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssi.2003.07.002</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Boukamp</surname><given-names>B.</given-names></name>
+<article-title>A Package
+for Impedance/Admittance Data Analysis</article-title>. <source>Solid
+State Ionics</source>
+<year>1986</year>, <volume>18&#x02013;19</volume>, <fpage>136</fpage>&#x02013;<lpage>140</lpage>. <pub-id pub-id-type="doi">10.1016/0167-2738(86)90100-1</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Verkuijlen</surname><given-names>M. H. W.</given-names></name>; <name><surname>Ngene</surname><given-names>P.</given-names></name>; <name><surname>de Kort</surname><given-names>D. W.</given-names></name>; <name><surname>Barr&#x000e9;</surname><given-names>C.</given-names></name>; <name><surname>Nale</surname><given-names>A.</given-names></name>; <name><surname>van Eck</surname><given-names>E. R. H.</given-names></name>; <name><surname>van
+Bentum</surname><given-names>P. J. M.</given-names></name>; <name><surname>de Jongh</surname><given-names>P. E.</given-names></name>; <name><surname>Kentgens</surname><given-names>A. P. M.</given-names></name>
+<article-title>Nanoconfined
+LiBH<sub>4</sub> and
+Enhanced Mobility of Li<sup>+</sup> and BH<sub>4</sub><sup>&#x02212;</sup> Studied by Solid-State NMR</article-title>. <source>J. Phys. Chem.
+C</source>
+<year>2012</year>, <volume>116</volume>, <fpage>22169</fpage>&#x02013;<lpage>22178</lpage>. <pub-id pub-id-type="doi">10.1021/jp306175b</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Duch&#x000ea;ne</surname><given-names>L.</given-names></name>; <name><surname>Lunghammer</surname><given-names>S.</given-names></name>; <name><surname>Burankova</surname><given-names>T.</given-names></name>; <name><surname>Liao</surname><given-names>W.-C.</given-names></name>; <name><surname>Embs</surname><given-names>J. P.</given-names></name>; <name><surname>Cop&#x000e9;ret</surname><given-names>C.</given-names></name>; <name><surname>Wilkening</surname><given-names>H. M. R.</given-names></name>; <name><surname>Remhof</surname><given-names>A.</given-names></name>; <name><surname>Hagemann</surname><given-names>H.</given-names></name>; <name><surname>Battaglia</surname><given-names>C.</given-names></name>
+<article-title>Ionic Conduction
+Mechanism in the Na<sub>2</sub>(B<sub>12</sub>H<sub>12</sub>)<sub>0.5</sub>(B<sub>10</sub>H<sub>10</sub>)<sub>0.5</sub> closo-Borate
+Solid-State Electrolyte: Interplay of
+Disorder and Ion-Ion Interactions</article-title>. <source>Chem. Mater.</source>
+<year>2019</year>, <volume>31</volume>, <fpage>3449</fpage>&#x02013;<lpage>3460</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemmater.9b00610</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Okada</surname><given-names>Y.</given-names></name>; <name><surname>Ikeda</surname><given-names>M.</given-names></name>; <name><surname>Aniya</surname><given-names>M.</given-names></name>
+<article-title>Non-Arrhenius
+Ionic Conductivity
+in Solid Electrolytes: A Theoretical Model and Its Relation with the
+Bonding Nature</article-title>. <source>Solid State Ionics</source>
+<year>2015</year>, <volume>281</volume>, <fpage>43</fpage>&#x02013;<lpage>48</lpage>. <pub-id pub-id-type="doi">10.1016/j.ssi.2015.08.020</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Zettl</surname><given-names>R.</given-names></name>; <name><surname>Gombotz</surname><given-names>M.</given-names></name>; <name><surname>Clarkson</surname><given-names>D.</given-names></name>; <name><surname>Greenbaum</surname><given-names>S. G.</given-names></name>; <name><surname>Ngene</surname><given-names>P.</given-names></name>; <name><surname>de Jongh</surname><given-names>P. E.</given-names></name>; <name><surname>Wilkening</surname><given-names>H. M. R.</given-names></name>
+<article-title>Li-Ion
+Diffusion in Nanoconfined LiBH<sub>4</sub>-LiI/Al<sub>2</sub>O<sub>3</sub>: From 2D Bulk Transport to 3D Long-Range Interfacial Dynamics</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2020</year>, <volume>12</volume>, <fpage>38570</fpage>&#x02013;<lpage>38583</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.0c10361</pub-id>.<pub-id pub-id-type="pmid">32786241</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Gulino</surname><given-names>V.</given-names></name>; <name><surname>Wolczyk</surname><given-names>A.</given-names></name>; <name><surname>Golov</surname><given-names>A. A.</given-names></name>; <name><surname>Eremin</surname><given-names>R. A.</given-names></name>; <name><surname>Palumbo</surname><given-names>M.</given-names></name>; <name><surname>Nervi</surname><given-names>C.</given-names></name>; <name><surname>Blatov</surname><given-names>V. A.</given-names></name>; <name><surname>Proserpio</surname><given-names>D. M.</given-names></name>; <name><surname>Baricco</surname><given-names>M.</given-names></name>
+<article-title>Combined DFT and Geometrical&#x02013;Topological Analysis
+of Li-Ion Conductivity in Complex Hydrides</article-title>. <source>Inorg. Chem. Front.</source>
+<year>2020</year>, <volume>7</volume>, <fpage>3115</fpage>&#x02013;<lpage>3125</lpage>. <pub-id pub-id-type="doi">10.1039/D0QI00577K</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Zhao</surname><given-names>W.</given-names></name>; <name><surname>Yi</surname><given-names>J.</given-names></name>; <name><surname>He</surname><given-names>P.</given-names></name>; <name><surname>Zhou</surname><given-names>H.</given-names></name>
+<article-title>Solid-State Electrolytes for Lithium-Ion
+Batteries: Fundamentals, Challenges and Perspectives</article-title>. <source>Electrochem. Energy Rev.</source>
+<year>2019</year>, <volume>2</volume>, <fpage>574</fpage>&#x02013;<lpage>605</lpage>. <pub-id pub-id-type="doi">10.1007/s41918-019-00048-0</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><person-group person-group-type="allauthors"><name><surname>Han</surname><given-names>F.</given-names></name>; <name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>He</surname><given-names>X.</given-names></name>; <name><surname>Mo</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name></person-group><article-title>Electrochemical Stability of Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> and Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> Solid Electrolytes</article-title>. <year>2016</year>, <volume>6</volume>, <fpage>1501590</fpage>. DOI: <pub-id pub-id-type="doi">10.1002/aenm.201501590</pub-id>.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Brighi</surname><given-names>M.</given-names></name>; <name><surname>Murgia</surname><given-names>F.</given-names></name>; <name><surname>&#x00141;odziana</surname><given-names>Z.</given-names></name>; <name><surname>Schouwink</surname><given-names>P.</given-names></name>; <name><surname>Wo&#x00142;czyk</surname><given-names>A.</given-names></name>; <name><surname>Cerny</surname><given-names>R.</given-names></name>
+<article-title>Carba-Hydroborate as
+a Room Temperature
+Na-Ion Solid Electrolyte</article-title>. <source>J. Power Sources</source>
+<year>2018</year>, <volume>404</volume>, <fpage>7</fpage>&#x02013;<lpage>12</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2018.09.085</pub-id>.</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Kisu</surname><given-names>K.</given-names></name>; <name><surname>Kim</surname><given-names>S.</given-names></name>; <name><surname>Oguchi</surname><given-names>H.</given-names></name>; <name><surname>Toyama</surname><given-names>N.</given-names></name>; <name><surname>Orimo</surname><given-names>S.-i.</given-names></name>
+<article-title>Interfacial Stability
+between LiBH<sub>4</sub>-Based Complex Hydride Solid Electrolytes
+and Li Metal Anode for All-Solid-State Li Batteries</article-title>. <source>J. Power Sources</source>
+<year>2019</year>, <volume>436</volume>, <fpage>226821</fpage><pub-id pub-id-type="doi">10.1016/j.jpowsour.2019.226821</pub-id>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Kim</surname><given-names>S.</given-names></name>; <name><surname>Oguchi</surname><given-names>H.</given-names></name>; <name><surname>Toyama</surname><given-names>N.</given-names></name>; <name><surname>Sato</surname><given-names>T.</given-names></name>; <name><surname>Takagi</surname><given-names>S.</given-names></name>; <name><surname>Otomo</surname><given-names>T.</given-names></name>; <name><surname>Arunkumar</surname><given-names>D.</given-names></name>; <name><surname>Kuwata</surname><given-names>N.</given-names></name>; <name><surname>Kawamura</surname><given-names>J.</given-names></name>; <name><surname>Orimo</surname><given-names>S.-i.</given-names></name>
+<article-title>A Complex Hydride
+Lithium Superionic Conductor for
+High-Energy-Density All-Solid-State Lithium Metal Batteries</article-title>. <source>Nat. Commun.</source>
+<year>2019</year>, <volume>10</volume>, <fpage>1081</fpage><pub-id pub-id-type="doi">10.1038/s41467-019-09061-9</pub-id>.<pub-id pub-id-type="pmid">30842419</pub-id></mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Sakamoto</surname><given-names>J.</given-names></name>
+<article-title>More Pressure
+Needed</article-title>. <source>Nat. Energy</source>
+<year>2019</year>, <volume>4</volume>, <fpage>827</fpage>&#x02013;<lpage>828</lpage>. <pub-id pub-id-type="doi">10.1038/s41560-019-0478-z</pub-id>.</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Wang</surname><given-names>M. J.</given-names></name>; <name><surname>Choudhury</surname><given-names>R.</given-names></name>; <name><surname>Sakamoto</surname><given-names>J.</given-names></name>
+<article-title>Characterizing the
+Li-Solid-Electrolyte
+Interface Dynamics as a Function of Stack Pressure and Current Density</article-title>. <source>Joule</source>
+<year>2019</year>, <volume>3</volume>, <fpage>2165</fpage>&#x02013;<lpage>2178</lpage>. <pub-id pub-id-type="doi">10.1016/j.joule.2019.06.017</pub-id>.</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Sharafi</surname><given-names>A.</given-names></name>; <name><surname>Meyer</surname><given-names>H. M.</given-names></name>; <name><surname>Nanda</surname><given-names>J.</given-names></name>; <name><surname>Wolfenstine</surname><given-names>J.</given-names></name>; <name><surname>Sakamoto</surname><given-names>J.</given-names></name>
+<article-title>Characterizing the Li&#x02013;Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> Interface Stability
+and Kinetics as
+a Function of Temperature and Current Density</article-title>. <source>J. Power Sources</source>
+<year>2016</year>, <volume>302</volume>, <fpage>135</fpage>&#x02013;<lpage>139</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2015.10.053</pub-id>.</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Kasemchainan</surname><given-names>J.</given-names></name>; <name><surname>Zekoll</surname><given-names>S.</given-names></name>; <name><surname>Spencer
+Jolly</surname><given-names>D.</given-names></name>; <name><surname>Ning</surname><given-names>Z.</given-names></name>; <name><surname>Hartley</surname><given-names>G. O.</given-names></name>; <name><surname>Marrow</surname><given-names>J.</given-names></name>; <name><surname>Bruce</surname><given-names>P. G.</given-names></name>
+<article-title>Critical Stripping Current Leads
+to Dendrite Formation on Plating in Lithium Anode Solid Electrolyte
+Cells</article-title>. <source>Nat. Mater.</source>
+<year>2019</year>, <volume>18</volume>, <fpage>1105</fpage>&#x02013;<lpage>1111</lpage>. <pub-id pub-id-type="doi">10.1038/s41563-019-0438-9</pub-id>.<pub-id pub-id-type="pmid">31358941</pub-id></mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Dahn</surname><given-names>J.</given-names></name>; <name><surname>Haering</surname><given-names>R. R.</given-names></name>
+<article-title>Lithium Intercalation in TiS<sub>2</sub></article-title>. <source>Mater. Res. Bull.</source>
+<year>1979</year>, <volume>14</volume>, <fpage>1259</fpage>&#x02013;<lpage>1262</lpage>. <pub-id pub-id-type="doi">10.1016/0025-5408(79)90002-3</pub-id>.</mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Dahn</surname><given-names>J. R.</given-names></name>; <name><surname>McKinnon</surname><given-names>W. R.</given-names></name>; <name><surname>Haering</surname><given-names>R. R.</given-names></name>; <name><surname>Buyers</surname><given-names>W. J. L.</given-names></name>; <name><surname>Powell</surname><given-names>B. M.</given-names></name>
+<article-title>Structure
+determination of Li<sub>x</sub>TiS<sub>2</sub> by neutron diffraction</article-title>. <source>Can. J. Phys.</source>
+<year>1980</year>, <volume>58</volume>, <fpage>207</fpage>&#x02013;<lpage>213</lpage>. <pub-id pub-id-type="doi">10.1139/p80-033</pub-id>.</mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Yan</surname><given-names>Y.</given-names></name>; <name><surname>Rentsch</surname><given-names>D.</given-names></name>; <name><surname>Battaglia</surname><given-names>C.</given-names></name>; <name><surname>Remhof</surname><given-names>A.</given-names></name>
+<article-title>Synthesis, Stability
+and Li-Ion Mobility of Nanoconfined Li<sub>2</sub>B<sub>12</sub>H<sub>12</sub></article-title>. <source>Dalton Trans.</source>
+<year>2017</year>, <volume>46</volume>, <fpage>12434</fpage>&#x02013;<lpage>12437</lpage>. <pub-id pub-id-type="doi">10.1039/c7dt02946b</pub-id>.<pub-id pub-id-type="pmid">28891563</pub-id></mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Krauskopf</surname><given-names>T.</given-names></name>; <name><surname>Hartmann</surname><given-names>H.</given-names></name>; <name><surname>Zeier</surname><given-names>W. G.</given-names></name>; <name><surname>Janek</surname><given-names>J.</given-names></name>
+<article-title>Toward a Fundamental
+Understanding of the Lithium Metal Anode in Solid-State Batteries-An
+Electrochemo-Mechanical Study on the Garnet-Type Solid Electrolyte
+Li<sub>6.25</sub>Al<sub>0.25</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub></article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2019</year>, <volume>11</volume>, <fpage>14463</fpage>&#x02013;<lpage>14477</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.9b02537</pub-id>.<pub-id pub-id-type="pmid">30892861</pub-id></mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name><surname>Krauskopf</surname><given-names>T.</given-names></name>; <name><surname>Mogwitz</surname><given-names>B.</given-names></name>; <name><surname>Rosenbach</surname><given-names>C.</given-names></name>; <name><surname>Zeier</surname><given-names>W. G.</given-names></name>; <name><surname>Janek</surname><given-names>J.</given-names></name>
+<article-title>Diffusion
+Limitation of Lithium Metal and Li-Mg Alloy Anodes on LLZO Type Solid
+Electrolytes as a Function of Temperature and Pressure</article-title>. <source>Adv. Energy Mater.</source>
+<year>2019</year>, <volume>9</volume>, <fpage>1902568</fpage><pub-id pub-id-type="doi">10.1002/aenm.201902568</pub-id>.</mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name><surname>Rodrigues</surname><given-names>M.-T. F.</given-names></name>; <name><surname>Sayed</surname><given-names>F. N.</given-names></name>; <name><surname>Gullapalli</surname><given-names>H.</given-names></name>; <name><surname>Ajayan</surname><given-names>P. M.</given-names></name>
+<article-title>High-Temperature
+Solid Electrolyte Interphases (SEI) in Graphite Electrodes</article-title>. <source>J. Power Sources</source>
+<year>2018</year>, <volume>381</volume>, <fpage>107</fpage>&#x02013;<lpage>115</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2018.01.070</pub-id>.</mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name><surname>Bruce</surname><given-names>P. G.</given-names></name>; <name><surname>Freunberger</surname><given-names>S. A.</given-names></name>; <name><surname>Hardwick</surname><given-names>L. J.</given-names></name>; <name><surname>Tarascon</surname><given-names>J.-M.</given-names></name>
+<article-title>Li-O<sub>2</sub> and Li-S batteries
+with high energy storage</article-title>. <source>Nat. Mater.</source>
+<year>2012</year>, <volume>11</volume>, <fpage>19</fpage>&#x02013;<lpage>29</lpage>. <pub-id pub-id-type="doi">10.1038/nmat3191</pub-id>.</mixed-citation></ref><ref id="ref58"><mixed-citation publication-type="journal" id="cit58"><name><surname>Murgia</surname><given-names>F.</given-names></name>; <name><surname>Brighi</surname><given-names>M.</given-names></name>; <name><surname>&#x0010c;ern&#x000fd;</surname><given-names>R.</given-names></name>
+<article-title>Room-Temperature-Operating Na Solid-State
+Battery with Complex Hydride as Electrolyte</article-title>. <source>Electrochem. Commun.</source>
+<year>2019</year>, <volume>106</volume>, <fpage>106534</fpage><pub-id pub-id-type="doi">10.1016/j.elecom.2019.106534</pub-id>.</mixed-citation></ref><ref id="ref59"><mixed-citation publication-type="journal" id="cit59"><name><surname>Duch&#x000ea;ne</surname><given-names>L.</given-names></name>; <name><surname>Kim</surname><given-names>D. H.</given-names></name>; <name><surname>Song</surname><given-names>Y. B.</given-names></name>; <name><surname>Jun</surname><given-names>S.</given-names></name>; <name><surname>Moury</surname><given-names>R.</given-names></name>; <name><surname>Remhof</surname><given-names>A.</given-names></name>; <name><surname>Hagemann</surname><given-names>H.</given-names></name>; <name><surname>Jung</surname><given-names>Y. S.</given-names></name>; <name><surname>Battaglia</surname><given-names>C.</given-names></name>
+<article-title>Crystallization
+of Closo-Borate Electrolytes from Solution Enabling Infiltration into
+Slurry-Casted Porous Electrodes for All-Solid-State Batteries</article-title>. <source>Energy Storage Mater.</source>
+<year>2020</year>, <volume>26</volume>, <fpage>543</fpage>&#x02013;<lpage>549</lpage>. <pub-id pub-id-type="doi">10.1016/j.ensm.2019.11.027</pub-id>.</mixed-citation></ref><ref id="ref60"><mixed-citation publication-type="journal" id="cit60"><name><surname>Doux</surname><given-names>J. M.</given-names></name>; <name><surname>Nguyen</surname><given-names>H.</given-names></name>; <name><surname>Tan</surname><given-names>D. H. S.</given-names></name>; <name><surname>Banerjee</surname><given-names>A.</given-names></name>; <name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Wu</surname><given-names>E. A.</given-names></name>; <name><surname>Jo</surname><given-names>C.</given-names></name>; <name><surname>Yang</surname><given-names>H.</given-names></name>; <name><surname>Meng</surname><given-names>Y. S.</given-names></name>
+<article-title>Stack Pressure
+Considerations for Room-Temperature All-Solid-State Lithium Metal
+Batteries</article-title>. <source>Adv. Energy Mater.</source>
+<year>2020</year>, <volume>10</volume>, <fpage>1903253</fpage><pub-id pub-id-type="doi">10.1002/aenm.201903253</pub-id>.</mixed-citation></ref><ref id="ref61"><mixed-citation publication-type="journal" id="cit61"><name><surname>Sendek</surname><given-names>A. D.</given-names></name>; <name><surname>Cheon</surname><given-names>G.</given-names></name>; <name><surname>Pasta</surname><given-names>M.</given-names></name>; <name><surname>Reed</surname><given-names>E. J.</given-names></name>
+<article-title>Quantifying the
+Search for Solid Li-Ion Electrolyte Materials by Anion: A Data-Driven
+Perspective</article-title>. <source>J. Phys. Chem. C</source>
+<year>2020</year>, <volume>124</volume>, <fpage>8067</fpage>&#x02013;<lpage>8079</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.9b10650</pub-id>.</mixed-citation></ref><ref id="ref62"><mixed-citation publication-type="journal" id="cit62"><name><surname>McCloskey</surname><given-names>B. D.</given-names></name>
+<article-title>Attainable
+Gravimetric and Volumetric Energy Density of Li-S and Li Ion Battery
+Cells with Solid Separator-Protected Li Metal Anodes</article-title>. <source>J. Phys. Chem. Lett.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>4581</fpage>&#x02013;<lpage>4588</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpclett.5b01814</pub-id>.<pub-id pub-id-type="pmid">26722800</pub-id></mixed-citation></ref></ref-list></back></article>

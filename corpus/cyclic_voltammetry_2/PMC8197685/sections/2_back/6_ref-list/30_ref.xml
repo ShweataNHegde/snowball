@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chen</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Jiang</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Ren</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Lou</surname>
+    <given-names>Y</given-names>
+   </name>
+  </person-group>
+  <article-title>MOF-derived bimetal oxides NiO/NiCo
+   <sub>2</sub>O
+   <sub>4</sub> with different morphologies as anodes for high-performance lithium-ion battery
+  </article-title>
+  <source>Ionics</source>
+  <year>2019</year>
+  <volume>25</volume>
+  <fpage>5787</fpage>
+  <lpage>5797</lpage>
+  <pub-id pub-id-type="doi">10.1007/s11581-019-03152-9</pub-id>
+ </element-citation>
+</ref>

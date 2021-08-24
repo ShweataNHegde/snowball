@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR41">
+ <label>41.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Friebel</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Louie</surname>
+    <given-names>MW</given-names>
+   </name>
+   <name>
+    <surname>Bajdich</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Sanwald</surname>
+    <given-names>KE</given-names>
+   </name>
+   <name>
+    <surname>Cai</surname>
+    <given-names>Y</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Identification of highly active Fe sites in (Ni, Fe)OOH for electrocatalytic water splitting</article-title>
+  <source>J. Am. Chem. Soc.</source>
+  <year>2015</year>
+  <volume>137</volume>
+  <fpage>1305</fpage>
+  <lpage>1313</lpage>
+  <pub-id pub-id-type="doi">10.1021/ja511559d</pub-id>
+  <pub-id pub-id-type="pmid">25562406</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Anastasijevic</surname>
+    <given-names>NA</given-names>
+   </name>
+   <name>
+    <surname>Vesovic</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Adiic</surname>
+    <given-names>RR</given-names>
+   </name>
+  </person-group>
+  <article-title>Determination of the kin-etic parame ters of the oxygen reduction reaction using the rotating ring-disk electrode</article-title>
+  <source>J. Electroanal. Chem.</source>
+  <year>1987</year>
+  <volume>229</volume>
+  <fpage>305</fpage>
+  <lpage>316</lpage>
+  <pub-id pub-id-type="doi">10.1016/0022-0728(87)85148-3</pub-id>
+ </element-citation>
+</ref>

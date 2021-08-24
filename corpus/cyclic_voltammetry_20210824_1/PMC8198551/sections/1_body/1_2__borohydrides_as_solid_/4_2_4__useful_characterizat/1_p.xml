@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The experimental data are determined by the most widely used approach for measuring ionic conductivity: impedance spectroscopy. Impedance spectroscopy is able to distinguish localized, non-localized, and space charge effects [
+ <xref rid="B46-molecules-26-03239" ref-type="bibr">46</xref>,
+ <xref rid="B47-molecules-26-03239" ref-type="bibr">47</xref>,
+ <xref rid="B48-molecules-26-03239" ref-type="bibr">48</xref>]. More useful insights are gained when additionally using characterization techniques that measure structure and dynamics. Lithium ion conductivity LiBH
+ <sub>4</sub> is 10
+ <sup>−3</sup> S/cm in the high temperature hexagonal phase [
+ <xref rid="B15-molecules-26-03239" ref-type="bibr">15</xref>]. To examine the stability of the hexagonal phase at temperatures lower than 130 °C, we used Raman spectroscopy to track the structural changes in the BH
+ <sub>4</sub>
+ <sup>−</sup> unit with temperature on ramp up and ramp down at a slow heating and cooling rate of 5 °C/min (
+ <xref ref-type="fig" rid="molecules-26-03239-f006">Figure 6</xref>). Gomes, Hagemann, et al. [
+ <xref rid="B49-molecules-26-03239" ref-type="bibr">49</xref>] reported that Raman spectroscopy tracks structural changes occurring to the BH
+ <sub>4</sub>
+ <sup>−</sup> molecular unit upon phase transition from the orthorhombic to the hexagonal phase. 
+ <xref ref-type="fig" rid="molecules-26-03239-f006">Figure 6</xref> shows Raman data collected at Rowan University. Heating LiBH
+ <sub>4</sub> to elevated temperatures shows that the B-H stretching modes (at ~2300 cm
+ <sup>−1</sup>) transition from a ν
+ <sub>3</sub> splitting to a single broad peak at elevated temperature, which is consistent with a phase transition to the hexagonal phase (which occurs at 130 °C) [
+ <xref rid="B49-molecules-26-03239" ref-type="bibr">49</xref>]. Upon cooling, the single broad peak persists down to 113 °C, suggesting the possibility to extend the structural features associated with the elevated temperature hexagonal phase down below the phase transition [
+ <xref rid="B15-molecules-26-03239" ref-type="bibr">15</xref>]. Additional research could explore whether the stability of this single broad peak associated with the high temperature hexagonal phase could be further decreased towards room temperature by using additives or processing conditions to stabilize it. As well, Maekawa et al. explored lithium halides for the purpose of stabilizing the elevated temperature phase [
+ <xref rid="B40-molecules-26-03239" ref-type="bibr">40</xref>]. Additions of LiCl were also demonstrated to increase ionic conduction in LiBH
+ <sub>4</sub>
+ <sup>−</sup> (although not by the mechanism of stabilizing the hexagonal phase) [
+ <xref rid="B6-molecules-26-03239" ref-type="bibr">6</xref>]. Nanostructuring LiBH
+ <sub>4</sub> has a marked effect on room temperature ionic conduction, measured at 10
+ <sup>−3</sup> S/cm [
+ <xref rid="B18-molecules-26-03239" ref-type="bibr">18</xref>]. The relationship between the crystallographic phase, state of the BH
+ <sub>4</sub>
+ <sup>−</sup> unit (determined by techniques such as Raman spectroscopy), and ionic conductivity (using impedance spectroscopy) should be explored for both nanostructured LiBH
+ <sub>4</sub> and the LiBH
+ <sub>4</sub> having additives such as lithium halides incorporated in the materials processing. Vibrational spectroscopy and other crystallographic and structural measurement techniques should be, ideally, partnered with ionic conductivity measurements in order to gain “fine-structure” insights that could lead to novel approaches to improved properties.
+</p>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR19">
+ <label>19.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chen</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Xu</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Ma</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Ren</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Cheng</surname>
+    <given-names>HM</given-names>
+   </name>
+  </person-group>
+  <article-title>Lightweight and flexible graphene foam composites for high-performance electromagnetic interference shielding</article-title>
+  <source>Adv. Mater.</source>
+  <year>2013</year>
+  <volume>25</volume>
+  <fpage>1296</fpage>
+  <lpage>1300</lpage>
+  <pub-id pub-id-type="doi">10.1002/adma.201204196</pub-id>
+  <?supplied-pmid 23300002?>
+  <pub-id pub-id-type="pmid">23300002</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>(a) Li-ion conductivity, obtained from a temperature-dependent EIS cycle during the second heating, for LiBH
+   <sub>4</sub>–MgO composites with different oxide fractions. The gray line corresponds to the Li-ion conductivity of pure LiBH
+   <sub>4</sub>.
+   <sup>
+    <xref ref-type="bibr" rid="ref10">10</xref>
+   </sup> (b) Li-ion conductivity at 20, 60, and 120 °C as a function of the pore filling. Dashed lines are a guide for the eyes.
+  </p>
+ </caption>
+ <graphic xlink:href="ae0c02525_0002" id="gr1" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

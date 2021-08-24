@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disp-formula id="FD3">
+ <label>(3)</label>
+ <math id="mm3">
+  <mrow>
+   <mrow>
+    <mi mathvariant="normal">neff</mi>
+    <mo>=</mo>
+    <mn>2</mn>
+    <mo>(</mo>
+    <mi mathvariant="normal">C</mi>
+    <mi mathvariant="normal">monomer</mi>
+    <mo>+</mo>
+    <mi mathvariant="normal">C</mi>
+    <mi mathvariant="normal">dimer</mi>
+    <mo>)</mo>
+    <mo>/</mo>
+    <mi mathvariant="normal">C</mi>
+    <mi mathvariant="normal">total</mi>
+   </mrow>
+  </mrow>
+ </math>
+</disp-formula>

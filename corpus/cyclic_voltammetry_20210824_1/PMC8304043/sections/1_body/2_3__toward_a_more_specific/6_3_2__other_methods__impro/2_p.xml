@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Hallinan et al. [
+ <xref rid="B123-materials-14-03840" ref-type="bibr">123</xref>] proposed an electrochemical approach based on a series of adjusted LSV measurements from different, large over potentials to open circuit voltage, which the authors name “variable reverse linear sweep voltammetry” for evaluating the ESW of solid polymer electrolytes. By applying relaxation times to the cell between each polarization, the first data points of each voltammogram are not limited by mass transfer. This allows the current vs overpotential data to be analyzed by a kinetic model such as the Butler–Volmer one.
+</p>

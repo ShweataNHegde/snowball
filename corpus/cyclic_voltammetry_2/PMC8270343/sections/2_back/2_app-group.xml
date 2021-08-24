@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app-group>
+ <app id="app1-molecules-26-03858">
+  <title>Supplementary Materials</title>
+  <p>
+   <xref ref-type="app" rid="app1-molecules-26-03858">Figure S1</xref>: (a) TEM and (b) SEM images for graphite, 
+   <xref ref-type="app" rid="app1-molecules-26-03858">Figure S2</xref>: TGA data of (a) 1:3 and (b) 1:10 graphite–melamine mixtures obtained under the argon atmosphere, 
+   <xref ref-type="app" rid="app1-molecules-26-03858">Figure S3</xref>: (a) elemental (wt.%) and (b) N-functional groups’ distribution in the four types of N-doped graphene hybrid materials, 
+   <xref ref-type="app" rid="app1-molecules-26-03858">Table S1</xref>: carbon types distribution (at%) obtained from XPS, 
+   <xref ref-type="app" rid="app1-molecules-26-03858">Table S2</xref>: XD parameters obtained for the graphite and N-doped graphene materials, 
+   <xref ref-type="app" rid="app1-molecules-26-03858">Figure S4</xref>: Raman spectra (excitation 785 nm) of the graphite, melamine, 1:3 and 1:10 graphite–melamine mixtures and N-doped graphene materials obtained by ball milling procedure, 
+   <xref ref-type="app" rid="app1-molecules-26-03858">Table S3</xref>: Raman parameters obtained for the N-doped graphene materials, 
+   <xref ref-type="app" rid="app1-molecules-26-03858">Figure S5</xref>: evaluation of the catalytic activity retention (%) over 400 cycles of the (a–d) N-doped graphene/GC electrodes, respectively (e) Pt/C/GC electrode in O2-saturated 1M NaOH solutions at a scan rate of 50 mV/s, 
+   <xref ref-type="app" rid="app1-molecules-26-03858">Figure S6</xref>: CO stripping voltammograms of (a–d) N-doped graphene/GC electrodes, respectively (e) Pt/C/GC electrode in 1M NaOH, 
+   <xref ref-type="app" rid="app1-molecules-26-03858">Table S4</xref>: Input and output variables used for ML investigations and the obtained prediction for a number of 4 electrons transferred during the ORR process.
+  </p>
+ </app>
+</app-group>

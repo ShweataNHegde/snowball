@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The loss of discharged capacity induced by the current increase is represented in 
+ <xref ref-type="fig" rid="fig4">Fig. 4a</xref> with the NEE normalised by the value of NEE at 0.1C 
+ <italic>versus</italic> the C-rate. This reveals that iron doping has a significant impact on the response of the material to a current increase. Indeed, the discharge capacity reduction induced by the current increase is less for the doped samples and is gradually reduced with the increase of Fe concentration in the material. While the Ni-B material loses 19% of its discharged capacity with the C-rate increasing from 0.1 to 4C, only 7% is lost by NiFe20. This can be explained by the better ionic conduction of the protons through the material allowed by the high interlayer distance and water content of the alpha phase, and also by an improvement of the electronic conductivity induced by iron doping. When compared to the literature, it appears that some alpha-Ni(OH)
+ <sub>2</sub> materials showing higher specific capacity at 0.2C than NiFe20 do not resist as well to an increase of the charge rate. For instance, the Ca
+ <sup>2+</sup>/PO
+ <sub>4</sub>
+ <sup>3−</sup> doped alpha/beta Ni(OH)
+ <sub>2</sub> studied by C. Miao 
+ <italic>et al.</italic>
+ <sup>
+  <xref rid="cit56" ref-type="bibr">56</xref>
+ </sup> shows a specific capacity of 271 mA h g
+ <sup>−1</sup> at 0.2C but 238 mA h g
+ <sup>−1</sup> at only 0.5C, which constitute a decrease of 12.5%. Similarly, the Al-doped alpha nickel hydroxide proposed by X. Wu 
+ <italic>et al.</italic>
+ <sup>
+  <xref rid="cit23" ref-type="bibr">23</xref>
+ </sup> gives a high specific capacity of 301 at 0.2C but only 185 mA h g
+ <sup>−1</sup> at 5C, a loss of 39%. In comparison, the capacity loss observed for the NiFe20 material are surprisingly small. The charge rate of 1C desired for the integrated battery–electrolyser operation is then perfectly realistic since, for the sample NiFe20, it implies only 1% loss compared to its low current discharged capacity (at 0.2C).
+</p>

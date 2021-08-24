@@ -1,0 +1,465 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-id journal-id-type="coden">acsodf</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7807758</article-id><article-id pub-id-type="doi">10.1021/acsomega.0c04702</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Analysis of the Charging Current in Cyclic Voltammetry
+and Supercapacitor&#x02019;s Galvanostatic Charging Profile Based on
+a Constant-Phase Element</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Yun</surname><given-names>Changsuk</given-names></name></contrib><contrib contrib-type="author" corresp="yes" id="ath2"><name><surname>Hwang</surname><given-names>Seongpil</given-names></name><xref rid="cor1" ref-type="other">*</xref></contrib><aff id="aff1">Department of Advanced Materials
+Chemistry, <institution>Korea University</institution>, Sejong 30019, <country>Korea</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>sphwang@korea.ac.kr</email>.</corresp></author-notes><pub-date pub-type="epub"><day>28</day><month>12</month><year>2020</year></pub-date><pub-date pub-type="collection"><day>12</day><month>01</month><year>2021</year></pub-date><volume>6</volume><issue>1</issue><fpage>367</fpage><lpage>373</lpage><history><date date-type="received"><day>24</day><month>09</month><year>2020</year></date><date date-type="accepted"><day>14</day><month>12</month><year>2020</year></date></history><permissions><copyright-statement>&#x000a9; 2020 American
+Chemical Society</copyright-statement><copyright-year>2020</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under a Creative Commons Non-Commercial No Derivative Works (CC-BY-NC-ND) Attribution <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_ccbyncnd_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article, and creation of adaptations, all for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04702_0007" id="ab-tgr1"/></p><p>We
+investigated the charging current in cyclic voltammetry and
+the galvanostatic charging/discharging behavior of a controversial
+constant-phase element (CPE) to describe an electrical double layer
+used only in electrochemical impedance spectroscopy. The linear potential
+sweep in the time domain was transformed into the frequency domain
+using a Fourier transform. The current phasor was estimated by Ohm&#x02019;s
+law with the voltage phasor and a frequency-dependent CPE, followed by an inverse Fourier transform to
+determine the current in the time domain. For galvanostatic charging/discharging,
+the same procedure, apart from swapping the voltage signal with the
+current signal, was applied. The obtained cyclic voltammetry (CV)
+shows (1) a gradual increase in the charging current, (2) a higher
+charging current at a low scan rate, and (3) a deviation from the
+linear relationship between the charging current and the scan rate.
+For galvanostatic charging/discharging, the results demonstrate (1)
+curved charging/discharging behavior, (2) a higher voltage in the
+early stage, and (3) a lower voltage during longer charging periods.
+In contrast to a previous approach based on solving a differential
+equation with a simple RC circuit, our Fourier transform-based approach
+enables an analysis of electrochemical data with an arbitrary and
+complex circuit model such as a Randles equivalent circuit. The CPE
+model is more consistent with previous experimental results than a
+simple ideal capacitor, indicating a ubiquitous CPE in electrochemistry
+and a fair figure of merit for supercapacitors.</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao0c04702</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao0c04702</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Cyclic
+voltammetry (CV), a powerful technique used to investigate
+electrochemical processes, has been attracting much attention in relation
+to renewable energy.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> CV studies provide information
+about (1) the formal potential and its close link to the standard
+reduction potential of redox couples, (2) the charge-transfer kinetics
+of electrodics, (3) the concentration of redox couples, (4) chemical
+reaction mechanisms, and (5) the diffusion coefficient of redox couples,
+among others.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> In spite of the popularity
+of CV, there are several difficulties with this process, such as a
+voltage drop by uncompensated solution resistance (iR drop) and background
+signals. At a high electrolyte concentration and in conventional three-electrode
+systems, the iR drop is negligible in most experiments. The latter
+case, however, has been a practical issue in interpretations of CVs
+because the precise estimation of the faradic current is essential
+either for the determination of concentrations in analytical chemistry
+or for the figure of merit of electrocatalysts or supercapacitors.
+The dominant portion of the background current in CV originates from
+the electrical double layer (EDL), which is modeled as a Gouy&#x02013;Chapman&#x02013;Stern
+(GCS) double layer consisting of a serial connection between two capacitances
+corresponding to the outer Helmholtz layer (OHP) and the capacitance,
+which originates from the diffuse layer.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> At a high electrolyte concentration, the capacitance of the diffuse
+layer increases and the total capacitance therefore converges to the
+capacitance of the OHP. Assuming that the capacitance is independent
+of the applied potential, the background current in CV for the applied
+potential (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A) is explained by assessing the constant charging current with the
+transient current at the vertex point of the potential sweep, as shown
+in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>C. In reality,
+this behavior of ideal polarized electrodes is rare, meaning that
+this system has been verified based on the simple capacitance model.
+Thus, CV in the absence of a redox couple is often used as a background,
+which is not suitable for quantitative analysis and not practical
+for several processes in electrochemistry such as a hydrogen evolution
+reaction (HER).</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(A) Time versus the applied potential of CV with scan
+rate = 100
+mV/s and (B) corresponding power spectrum of the potential in the
+frequency domain. CVs obtained by an inverse Fourier transform at
+different scan rates with CPE of (C) <italic>n</italic> = 1.0 (pure
+capacitor), (D) <italic>n</italic> = 0.9, (E) <italic>n</italic> =
+0.8, and (F) <italic>n</italic> = 0.7. (G) Dependence of the charging
+current upon <italic>n</italic> of CPE. Equivalent circuits are composed
+of 100 &#x003a9; as a solution resistance and <italic>Q</italic><sub>0</sub> = 10<sup>&#x02013;3</sup> F/s<sup><italic>n</italic>&#x02013;1</sup> as a CPE.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04702_0002" id="gr2" position="float"/></fig><p>Electrochemical impedance spectroscopy
+(EIS) is another electrochemical
+technique concomitant with CV.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> EIS is
+based on a small-amplitude AC signal at a constant DC bias. EIS data
+have been analyzed based on equivalent circuits composed of passive
+elements such as resistance, capacitance, and Warburg impedance. A
+physical meaning is assigned to each element, including the charge-transfer
+resistance, double-layer capacitance, and diffusion impedance. Experimental
+data have shown a systematic deviation from a simple model, especially
+for double-layer capacitance as a nonfaradic process. While the GCS
+model predicts the response of an ideal capacitor for a small AC signal
+whose phase shift is &#x003c0;/2, the experimental current compared
+to the applied AC voltage is shifted by <italic>n</italic> &#x000d7;
+&#x003c0;/2, where <italic>n</italic> is a value between 0 and 1. This
+new passive element, called a constant-phase element (CPE) in EIS,
+has been widely used in equivalent circuits for EIS. The CPE can be
+written as<disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04702_m001" position="anchor"/><label>1</label></disp-formula>where <italic>i</italic> is an imaginary unit
+(<italic>i</italic><sup>2</sup> = &#x02212;1), &#x003c9; is an angular
+frequency, and <italic>Q</italic><sub>0</sub> and <italic>n</italic> (0&#x02013;1) are the characteristic values corresponding to the
+double layer.<sup><xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref6">6</xref></sup> The <italic>Q</italic><sub>0</sub> parameter represents ideal capacitor behavior when <italic>n</italic> = 1 or intermediate characteristics between a capacitor and a resistor
+when <italic>n</italic> &#x0003c; 1.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> Although
+the origin of the CPE is still not clear,<sup><xref ref-type="bibr" rid="ref8">8</xref>&#x02212;<xref ref-type="bibr" rid="ref12">12</xref></sup> it remains a viable empirical element for use in
+EIS techniques.</p><p>Galvanostatic charging/discharging has also
+been used to characterize
+supercapacitors and secondary batteries due to its relatively direct
+physical relationship to the capacitive charge. For an ideal capacitor,
+the triangular response upon a constant current with a small deviation
+at the vertex caused by the solution resistance can be predicted.
+However, the empirical results deviate severely from the theoretical
+model, thus raising issues with regard to the validity of the simple
+capacitor model for interpretation of results.</p><p>Questions remain
+on how the charging current will flow in CV and
+galvanostatic charge&#x02013;discharge for the CPE instead of the simple
+capacitance. On the other hand, the ideal capacitor explains the charging
+current, which is inconsistent with the empirical charging current
+in both CV and galvanostatic charging/discharging. On the other hand,
+the CPE instead of a capacitor has been successfully adopted to interpret
+EIS data for small perturbations. This raises the question: why do
+we not apply the CPE model to other electrochemical techniques to
+predict the charging current for larger perturbations? The bottleneck
+is that the CPE is described by a function of a complex variable depicted
+in a phasor diagram due to the AC characteristic, while CV is expressed
+as a function of a real variable. Specifically, the charging current
+of CPE shown in <xref rid="eq1" ref-type="disp-formula">eq <xref rid="eq1" ref-type="disp-formula">1</xref></xref> upon
+linear sweep voltage or galvanostatic charging/discharging is not
+straightforward. <italic>Q</italic><sub>0</sub> of the CPE is in units
+of F/s<sup><italic>n</italic>&#x02013;1</sup> instead of F from the
+real capacitance. Sadkowski published the first effort to address
+this question based on a Laplace transform with a simple CPE.<sup><xref ref-type="bibr" rid="ref13">13</xref>&#x02212;<xref ref-type="bibr" rid="ref15">15</xref></sup> A similar approach was also applied to estimations of galvanostatic
+charge&#x02013;discharge.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> Previous reports
+investigated the electrochemical response of a simple equivalent circuit
+consisting of a serial connection of the resistance and the CPE because
+solving a general equation for a more general model, such as the Randles
+equivalent circuit, is difficult. To circumvent the mathematics involved
+in solving a differential equation for a complex model, our group
+recently investigated the relationships between voltammetry, chronoamperometry,
+and EIS using the Fourier transform (FT), in which the frequency domain
+was used to predict the electrochemical response in the time domain.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> In the present paper, we applied the Fourier
+transform to determine a bundle of harmonic waves for CV and the corresponding
+current signal to observe the charging current of the CPE in CV. A
+similar process was also applied to galvanostatic charging/discharging,
+where our model returns the voltage signal corresponding to the harmonic
+current signal at each frequency with the effective capacitance to
+estimate the ability of a capacitor. The results show that the charging
+behavior is more consistent with the experiments and with previous
+reports on the CPE, demonstrating the validity of the CPE model for
+use in various electrochemical techniques based on our FT-based approach.</p></sec><sec id="sec2"><label>2</label><title>Theory and Experiments</title><p>All results were obtained using
+a house-built MATLAB code to perform
+the discrete Fourier transform of triangular potential sweep and the
+corresponding current signal. A simple equivalent circuit for an electrochemical
+cell consisted of a serial connection of solution resistance (<italic>R</italic><sub>s</sub>) and CPE. The current signal at the frequency
+domain was calculated based on simple Ohm&#x02019;s law<disp-formula id="eq2"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04702_m002" position="anchor"/><label>2</label></disp-formula>where <italic>V</italic> and <italic>I</italic> are complex numbers at a specific frequency, <italic>Z</italic> is
+the total impedance, and other parameters are the same as in <xref rid="eq1" ref-type="disp-formula">eq <xref rid="eq1" ref-type="disp-formula">1</xref></xref>. For all calculations,
+solution resistance and <italic>Q</italic><sub>0</sub> were 100 &#x003a9;
+and 10<sup>&#x02013;3</sup> F/s<sup>(1&#x02013;<italic>n</italic>)</sup>, respectively. Then, the data array of <italic>I</italic> (complex
+number of current) at each frequency was transformed into the time
+domain by the inverse Fourier transform to obtain the current signal
+at the time domain.</p><p>Cyclic voltammetry was measured in a three-electrode
+system cell
+using a CHI 900B potentiostat (scan rate = 50 mV/s). A Au disk electrode
+(BASi, 1.6 mm diameter), a mercury&#x02013;mercurous sulfate electrode
+(MSE, sat. K<sub>2</sub>SO<sub>4</sub>), and a Pt wire served as the
+working electrode, reference electrode, and counter electrode, respectively.
+A 0.105 M KClO<sub>4</sub> electrolyte was purged with argon gas for
+15 min before the experiment. Both the voltage signal and the current
+signal were transformed into the frequency domain based on a previously
+reported method,<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> followed by impedance
+data. It should be mentioned that this impedance from large perturbations
+is not the same as the conventional electrochemical impedance from
+small perturbations. Then, the low-frequency region of impedance was
+fitted with Randles equivalent circuits shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>A whose impedance is written
+as follows<disp-formula id="eq3"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04702_m003" position="anchor"/><label>3</label></disp-formula>where <italic>Z</italic> is the total impedance, <italic>R</italic><sub>s</sub> is the solution resistance, <italic>R</italic><sub>ct</sub> is the charge-transfer resistance, <italic>Q</italic><sub>1</sub> and <italic>n</italic>1 (0&#x02013;1) are the characteristic
+values corresponding to CPE, <italic>Q</italic><sub>2</sub> and <italic>n</italic>2 (near 0.5) are the characteristic values corresponding
+to Warburg impedance, and other parameters are the same as in <xref rid="eq1" ref-type="disp-formula">eq <xref rid="eq1" ref-type="disp-formula">1</xref></xref>. The house-built MATLAB
+code was used to find optimized parameters for <xref rid="eq3" ref-type="disp-formula">eq <xref rid="eq3" ref-type="disp-formula">3</xref></xref> based on nonlinear curve-fitting in least-squares
+sense from split real parts and imaginary parts from experimental
+CV.</p></sec><sec id="sec3"><label>3</label><title>Results and Discussion</title><p><xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref> illustrates
+the method used to estimate the charging current in a cyclic voltammogram
+(CV) with two different equivalent circuits. The first circuit, shown
+in <xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>A, was composed
+of the solution resistance and the conventional double-layer capacitance
+(<italic>C</italic><sub>dl</sub>). Instead of <italic>C</italic><sub>dl</sub>, the empirical CPE was adopted. It is expressed here as <xref rid="eq1" ref-type="disp-formula">eq <xref rid="eq1" ref-type="disp-formula">1</xref></xref> (<xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>B). The total impedance in both cases was
+the vector sum of <italic>R</italic><sub>s</sub> and the capacitive
+element depicted in the corresponding phasor plot. Note that the phase
+of the CPE differs from that of <italic>C</italic><sub>dl</sub>. Owing
+to the nature of the capacitive element being dependent on the frequency,
+expressed here as <xref rid="eq1" ref-type="disp-formula">eq <xref rid="eq1" ref-type="disp-formula">1</xref></xref>, the prediction of the current in the time domain is not straightforward.
+To circumvent this problem, the frequency domain was adopted, as illustrated
+in <xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>C. First,
+the triangular waveform of the CV was transformed into the frequency
+domain, resulting in complex numbers of the voltage phasor for each
+frequency. The complex numbers for the current phasor were then calculated
+simply with Ohm&#x02019;s law, i.e., by dividing the complex number
+of the total impedance into the complex number of the voltage, as
+described in <xref rid="eq2" ref-type="disp-formula">eq <xref rid="eq2" ref-type="disp-formula">2</xref></xref>. Then,
+the inverse Fourier transform was applied to determine the current
+in the time domain. Finally, the CV was plotted as the voltage versus
+the current in the time domain. To assess the galvanostatic charge&#x02013;discharge,
+voltage as a stimulus for an electrochemical cell was swapped with
+the current as a response, while other procedures were identical to
+those used with the CV.</p><fig id="sch1" position="float"><label>Scheme 1</label><caption><title>Illustration of Estimation of the Charging
+Current for Cyclic Voltammetry</title><p id="s1fn1">Equivalent circuits
+composed
+of solution resistance and either (A) conventional double-layer capacitance
+or (B) constant-phase element (CPE) with corresponding phasor diagrams.
+(C) Procedures for predicting cyclic voltammogram by the Fourier transform.
+Details are described in the main article.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04702_0006" id="gr1" position="float"/></fig><p>CVs were studied using the equivalent circuits shown in either <xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>A or <xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>B with <italic>R</italic><sub>s</sub> = 100 &#x003a9; and <italic>Q</italic><sub>0</sub> = 10<sup>&#x02013;3</sup> F/s<sup>(1&#x02013;<italic>n</italic>)</sup> and with
+various <italic>n</italic> values. <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A,B shows the representative linear potential
+program at 100 mV/s in the time domain and the corresponding power
+spectrum in the frequency domain after the Fourier transform operation,
+respectively, demonstrating the contribution of the relatively low-frequency
+harmonic wave during the conventional electrochemical measurement.
+For an ideal capacitor with <italic>n</italic> = 1.0, the CV shown
+in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>C is in
+good agreement with the previous theoretical result. Specifically,
+transient currents at both vertices dependent on the RC time with
+the steady-state charging current are clearly observed, indicating
+the validity of our procedure based on the Fourier transform. <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>D&#x02013;F shows
+the CVs of CPE with <italic>n</italic> = 0.9, 0.8, and 0.7, respectively.
+Compared to <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>C, showing the ideal capacitor, first, the CVs of the CPE demonstrate
+a gradual increase in the current in the charging region, whereas
+transient behavior is still shown at both vertices. The smaller <italic>n</italic> is, the more CV tilts apparently. Empirically, the charging
+current in the majority of electrochemical cells follows the CVs of
+the CPE, as shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>D,E as compared to an ideal CV for a capacitor. Therefore,
+the CPE is a better model than a conventional capacitor to explain
+the electrical double-layer in CVs. Second, the charging currents
+for the CPE are much larger than that for a conventional capacitor
+at a slow scan rate, while the charging currents of both systems converge
+to similar values at a high scan rate. To clarify this point, the
+current at 0 V was used as an estimator of the charging current and
+was plotted depending on the scan rates, as shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>G. At a slow scan rate of 10
+mV/s, a charging current of 43 &#x003bc;A for <italic>n</italic> = 0.7
+is double that of 20 &#x003bc;A for <italic>n</italic> = 1.0. In contrast,
+a charging current of 206.6 &#x003bc;A for <italic>n</italic> = 0.7
+is nearly identical to that of 200.2 &#x003bc;A for <italic>n</italic> = 1.0 at a higher scan rate of 100 mV/s. The smaller the <italic>n</italic> is, the larger the charging current is when observed at
+a slow scan rate. Third, the linear relationship between the charging
+current and the scan rate is no longer valid for the CPE. The charging
+current of the ideal capacitor (black dashed line in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>G) increases linearly depending
+on the scan rate. For the CPE, however, there is a deviation from
+the linear line indicated by the green dashed line for <italic>n</italic> = 0.7. This tendency has been widely observed in electrochemical
+experiments and in previous reports,<sup><xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref16">16</xref></sup> indicating the validity of our FT-based approach
+for CV with the CPE model. In summary, the CPE model strongly affects
+the charging behavior in CV compared with an ideal simple capacitor
+model, coinciding with empirical experiments for CVs well.</p><p>The
+CPE model is superior to the conventional capacitor model used
+in the CV; hence, we assume that this model will also be useful in
+characterization of supercapacitors. To investigate the effect of
+the CPE model on a supercapacitor, the galvanostatic charge&#x02013;discharge
+was applied. Charging is the core operation in a supercapacitor. <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>A shows a time versus
+current curve applied to an electrochemical cell as a means of excitation.
+Here, constant currents of 10 &#x003bc;A were applied to the equivalent
+circuit shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref> as the charging current and discharging current. This current in
+the time (<italic>i</italic>) domain was transformed into the frequency
+domain (<italic>I</italic>), similar to that in <xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>C, after which the voltage phasor (<italic>V</italic>) was calculated by the multiplication of a complex number
+to the current (<italic>I</italic>) and the total impedance (<italic>Z</italic>) at each frequency. The voltage in the time domain was
+then generated by the inverse Fourier transform. <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>B shows the galvanostatic charge&#x02013;discharge
+curves for both the ideal capacitor and the CPE. The triangular response
+with the small iR drop was in good agreement with the predicted behavior
+of the ideal capacitor with a constant current, demonstrating the
+validity of our method in the galvanostatic mode. For the CPE, the
+response is not linear but instead appears to be curved. As distortion
+in CV depends on the <italic>n</italic> value of the CPE, the smaller
+the <italic>n</italic> is, the larger the curvature becomes. The initial
+region of CPEs shows a higher voltage than the ideal capacitor, demonstrating
+that the apparent capacitance of the CPE in this region is smaller
+than in the ideal case. In the extended charging region, however,
+the magnitude of apparent capacitance is reversed from the low values
+at the early stage, indicating lower efficiency as an energy storage
+device. These results are in good agreement with a previous report
+on the CPE based on the Laplace transform.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> Interestingly, the majority of papers on supercapacitors demonstrate
+CPE-like behavior in experiments, but the characterization of supercapacitors
+has been conducted based on an ideal capacitor model. Thus, both <italic>Q</italic><sub>0</sub> and <italic>n</italic> are more reliable indicators
+than the traditional capacitance value when characterizing a supercapacitor.
+These two values do not represent the capacitance, but one can estimate
+the apparent capacitance, also referred to as the effective capacitance.
+Several models have been used to estimate the effective capacitance
+from the CPE in EIS corresponding to small perturbations.<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref18">18</xref></sup> For large perturbations such as galvanostatic charging/discharging
+and cyclic voltammetry, the electrochemical response is much more
+complex. The following equation describes the effective capacitance
+(<italic>C</italic><sub>eff</sub>) for a simple equivalent circuit
+consisted of the solution resistance and the CPE<sup><xref ref-type="bibr" rid="ref16">16</xref></sup><disp-formula id="eq4"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04702_m004" position="anchor"/><label>4</label></disp-formula>where &#x00393; is the &#x003b3;
+function and <italic>t</italic> is the time. One can estimate this
+time-dependent <italic>C</italic><sub>eff</sub> after the estimation
+of <italic>Q</italic><sub>0</sub> and <italic>n</italic>. For instance, <italic>C</italic><sub>eff</sub> is 2.23 &#x000d7; 10<sup>&#x02013;3</sup> F
+in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>B with <italic>Q</italic><sub>0</sub> = 1.0 &#x000d7; 10<sup>&#x02013;3</sup> F/s<sup>&#x02013;0.3</sup>, <italic>n</italic> = 0.7, and <italic>t</italic> = 20 s. The effective
+capacitance of the CPE at a short time is lower than that of an ideal
+capacitor (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04702/suppl_file/ao0c04702_si_001.pdf">Supporting Information</ext-link>) such
+that the larger potential in the initial region of the CPE in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>B is reasonable.
+It is also important to note that similar behaviors for the charging&#x02013;discharging
+of hybrid supercapacitors have been reported.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> Unfortunately, we do not have any ideal method to identify the two
+different processes of either a hybrid supercapacitor or the CPE.
+Nonetheless, the suggested CPE model with our FT-based approach is
+a very promising model applicable to estimations and for explaining
+the behaviors of supercapacitors.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(A) Time versus the applied current in
+galvanostatic charging&#x02013;discharging.
+(B) Galvanostatic charge and discharge profiles of the equivalent
+circuit consisted of CPE with various <italic>n</italic> values.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04702_0003" id="gr3" position="float"/></fig><p>Both CV and galvanostatic charging/discharging
+show the unique
+features from the CPE model compared to the behaviors of a conventional
+capacitor. Although the origin of the CPE has not yet been clearly
+revealed, the CPE model represents the empirical experimental results
+from electrochemistry well. To understand the physical meaning of
+the CPE in an electrochemical system, Bode plots of equivalent circuits
+were devised, as shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>. Respectively, <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>A,B shows the amplitude and phase of equivalent circuits
+depending on the frequency, respectively. At a high frequency, the
+amplitude and phase of the total impedance approach the solution resistance,
+as expected. The phase, however, still shows a difference between
+the simple capacitor and the CPE. The phase of the simple capacitor
+passed the inflection point approaching 0 of the resistor, while that
+of the CPE with <italic>n</italic> = 0.7 does not reach the inflection
+point. This implies that the CPE with a smaller <italic>n</italic> possesses capacitive characteristics even at a high frequency. The
+effect of the CPE is more dramatic in the low-frequency region. Both
+the amplitude and phase of the total impedance are smaller than those
+of the simple capacitor. For the CV, larger charging current levels
+were observed, as shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>, an outcome consistent with the smaller amplitude
+of the total impedance because the lower frequency contributes more
+to the slower potential scan. In addition, the remaining resistive
+characteristics of the CPE at a low frequency from the phase cause
+a gradual increase in the charging current. For galvanostatic charging/discharging,
+the phase of the total impedance from the CPE shows more capacitive
+behavior at a high frequency and more resistive behavior at a low
+frequency. Therefore, the initial response of the galvanostatic measurement
+depending on the high frequency tends to increase the potential, while
+the longer charging causes the dissipation of the energy due to the
+nature of the resistor.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Bode plot of equivalent circuits in <xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>B for the amplitude
+(A) and the phase (B).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04702_0004" id="gr4" position="float"/></fig><p>Our FT-based approach
+can be applied not only to a simple serial
+RC circuit model but also to a general equivalent circuit model, which
+cannot easily be solved by the Laplace transform. The CV was obtained
+from a Au working electrode, as indicated by the black solid line
+in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>C, to get the practical charging current. Its impedance
+was analyzed by our FT-based approach, as shown in <xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>C. The black dots in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>B represent the impedance
+data for this large-amplitude perturbation, which is symmetric most
+likely due to the symmetry of the current in the CV. Half of the experimental
+data for the low-frequency region appear to consist of a hemisphere
+and a linear line with ca. 45&#x000b0;, similar to the Randles equivalent
+circuit shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>A in spite of the considerable difference in the amplitude of the
+perturbation. It should be noted that both charge-transfer resistance
+(<italic>R</italic><sub>ct</sub>) and the Warburg impedance are not
+expected for an ideal polarized electrode in an electrolyte without
+redox species, whereas they were observed experimentally.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> The simple RC circuit models previously reported
+do not represent the practical CV; thus, we assumed a Randles equivalent
+circuit based on the trend shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>B. Although the physical meaning and the
+origin of <italic>R</italic><sub>ct</sub> and the Warburg impedance
+are not obvious, we speculate that the heterogeneity of the electrode/electrolyte
+interface,<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> liquid bulk phenomena,<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> or the variance in the capacitance depending
+on the electrode potential<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> may evoke
+these components. In contrast to solving a complex differential equation,
+we applied the lsqcurvefit function for nonlinear fitting in MATLAB
+based on the Randles equivalent circuit. The red dots in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>B show the fitting
+result from the FT-based approach. Even this equivalent circuit shows
+some deviation from the experimental data in both the impedance and
+CV because the Au/electrolyte interface is not a perfectly ideal polarized
+electrode. Although the charging current for the electric double layer
+is dominant, experimental background current can come from various
+sources, though this is out of the scope of this manuscript. Note
+that the experimental impedance can be fitted with any equivalent
+circuit by our method. Then, the inverse Fourier transform results
+in the CV are expressed by the red line in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>C. These results demonstrate that the experimental
+electrochemical data in the time domain, such as the CV and galvanostatic
+charging/discharging data, can be modeled with an arbitrary circuit
+model to find the physical phenomena.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>(A) Schematic model of the Randles equivalent
+circuit. (B) Nyquist
+plots of impedance data from cyclic voltammetry (black dot) and from
+fitting with the Randles circuit (red dot). (C) Cyclic voltammogram
+of the bare Au disk electrode in 0.105 M KClO<sub>4</sub> with a scan
+rate of 50 mV/s (black solid line) and the fitted voltammogram from
+the equivalent circuit after the inverse Fourier transform to the
+time domain (red solid line).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04702_0005" id="gr5" position="float"/></fig></sec><sec id="sec4"><label>4</label><title>Conclusions</title><p>We investigated the charging current in
+the CV and galvanostatic
+charging/discharging behavior of the CPE, which has been used in only
+electrochemical impedance spectroscopy. To circumvent the frequency-dependent
+reactance of the CPE, the response for specific excitation is analyzed
+based on the harmonic wave at each frequency using the Fourier transform
+combined with Ohm&#x02019;s law. The response in the time domain is
+acquired by the inverse Fourier transform. Compared with CV based
+on a conventional simple capacitor model, the equivalent circuit with
+CPE shows (1) a gradual increase in the charging current, (2) a higher
+charging current at a low scan rate, and (3) a deviation from the
+linear relationship between the charging current and the scan rate.
+For galvanostatic charging/discharging, the results demonstrate (1)
+the curved charging/discharging behavior, (2) the larger voltage in
+the early stage, and (3) the lower voltage in longer charging. From
+empirical experimental results, CPE seems to model the real system
+better than the simple capacitor, indicating the ubiquitous CPE in
+electrochemistry. The CPE model may also apply to the characterization
+of various electrochemical systems with an arbitrary circuit model,
+especially the effective capacitance of supercapacitors with <italic>Q</italic><sub>0</sub> and <italic>n</italic>.</p></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsomega.0c04702?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsomega.0c04702</ext-link>.<list id="silist" list-type="simple"><list-item><p>Plot of time versus the
+effective capacitance of CPE
+(Figure S1) and the galvanostatic charging profile calculated by the
+FT method and a previous mathematical model (Figure S2) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04702/suppl_file/ao0c04702_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04702_si_001.pdf"><caption><p>ao0c04702_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="NOTES-d7e1019-autogenerated"><p>The authors declare
+no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>S.H. acknowledges the support from the Basic Science Research
+Program through the National Research Foundation of Korea (NRF) grant
+funded by the Korea Government (MSIP) (No. NRF-2019R1A2C1089951).</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="book" id="cit1"><person-group person-group-type="allauthors"><name><surname>Allen</surname><given-names>J.</given-names></name>; <name><surname>Bard</surname><given-names>L.
+R. F.</given-names></name></person-group><source>Electrochemical Methods:
+Fundamentals and Applications</source>, <edition>2</edition>nd ed.; <publisher-name>John Wiely &#x00026; Sons</publisher-name>: <publisher-loc>New York</publisher-loc>, <year>2001</year>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Elgrishi</surname><given-names>N.</given-names></name>; <name><surname>Rountree</surname><given-names>K. J.</given-names></name>; <name><surname>McCarthy</surname><given-names>B. D.</given-names></name>; <name><surname>Rountree</surname><given-names>E. S.</given-names></name>; <name><surname>Eisenhart</surname><given-names>T. T.</given-names></name>; <name><surname>Dempsey</surname><given-names>J. L.</given-names></name>
+<article-title>A Practical Beginner&#x02019;s
+Guide to Cyclic Voltammetry</article-title>. <source>J. Chem. Educ.</source>
+<year>2018</year>, <volume>95</volume>, <fpage>197</fpage>&#x02013;<lpage>206</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jchemed.7b00361</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Stern</surname><given-names>O.</given-names></name>
+<article-title>The theory
+of the electrolytic double layer</article-title>. <source>Z. Elektrochem.
+Angew. Phys. Chem.</source>
+<year>1924</year>, <volume>30</volume>, <fpage>508</fpage>&#x02013;<lpage>516</lpage>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Choi</surname><given-names>W.</given-names></name>; <name><surname>Shin</surname><given-names>H.-C.</given-names></name>; <name><surname>Kim</surname><given-names>J. M.</given-names></name>; <name><surname>Choi</surname><given-names>J.-Y.</given-names></name>; <name><surname>Yoon</surname><given-names>W.-S.</given-names></name>
+<article-title>Modeling
+and Applications of Electrochemical Impedance Spectroscopy (EIS) for
+Lithium-ion Batteries</article-title>. <source>J. Electrochem. Sci.
+Technol.</source>
+<year>2020</year>, <volume>11</volume>, <fpage>1</fpage>&#x02013;<lpage>13</lpage>. <pub-id pub-id-type="doi">10.33961/jecst.2019.00528</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Zoltowski</surname><given-names>P.</given-names></name>
+<article-title>On the electrical
+capacitance of interfaces exhibiting constant phase element behaviour</article-title>. <source>J. Electroanal. Chem.</source>
+<year>1998</year>, <volume>443</volume>, <fpage>149</fpage>&#x02013;<lpage>154</lpage>. <pub-id pub-id-type="doi">10.1016/S0022-0728(97)00490-7</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Chang</surname><given-names>B.-Y.</given-names></name>
+<article-title>Conversion
+of a Constant Phase Element to an Equivalent Capacitor</article-title>. <source>J. Electrochem. Sci. Technol.</source>
+<year>2020</year>, <volume>11</volume>, <fpage>318</fpage>&#x02013;<lpage>321</lpage>. <pub-id pub-id-type="doi">10.33961/jecst.2020.00815</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Hirschorn</surname><given-names>B.</given-names></name>; <name><surname>Orazem</surname><given-names>M. E.</given-names></name>; <name><surname>Tribollet</surname><given-names>B.</given-names></name>; <name><surname>Vivier</surname><given-names>V.</given-names></name>; <name><surname>Frateur</surname><given-names>I.</given-names></name>; <name><surname>Musiani</surname><given-names>M.</given-names></name>
+<article-title>Determination of effective
+capacitance and film thickness
+from constant-phase-element parameters</article-title>. <source>Electrochim.
+Acta</source>
+<year>2010</year>, <volume>55</volume>, <fpage>6218</fpage>&#x02013;<lpage>6227</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2009.10.065</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Kerner</surname><given-names>Z.</given-names></name>; <name><surname>Pajkossy</surname><given-names>T.</given-names></name>
+<article-title>On the origin of capacitance
+dispersion of rough electrodes</article-title>. <source>Electrochim.
+Acta</source>
+<year>2000</year>, <volume>46</volume>, <fpage>207</fpage>&#x02013;<lpage>211</lpage>. <pub-id pub-id-type="doi">10.1016/S0013-4686(00)00574-0</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Martin</surname><given-names>M. H.</given-names></name>; <name><surname>Lasia</surname><given-names>A.</given-names></name>
+<article-title>Influence of experimental
+factors on the constant phase element behavior
+of Pt electrodes</article-title>. <source>Electrochim. Acta</source>
+<year>2011</year>, <volume>56</volume>, <fpage>8058</fpage>&#x02013;<lpage>8068</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2011.02.068</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Alexander</surname><given-names>C. L.</given-names></name>; <name><surname>Tribollet</surname><given-names>B.</given-names></name>; <name><surname>Orazem</surname><given-names>M. E.</given-names></name>
+<article-title>Contribution of Surface Distributions
+to Constant-Phase-Element (CPE) Behavior: 1. Influence of Roughness</article-title>. <source>Electrochim. Acta</source>
+<year>2015</year>, <volume>173</volume>, <fpage>416</fpage>&#x02013;<lpage>424</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2015.05.010</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>C&#x000f3;rdoba-Torres</surname><given-names>P.</given-names></name>; <name><surname>Mesquita</surname><given-names>T. J.</given-names></name>; <name><surname>Nogueira</surname><given-names>R. P.</given-names></name>
+<article-title>Relationship between the Origin of
+Constant-Phase Element Behavior in Electrochemical Impedance Spectroscopy
+and Electrode Surface Structure</article-title>. <source>J. Phys. Chem.
+C</source>
+<year>2015</year>, <volume>119</volume>, <fpage>4136</fpage>&#x02013;<lpage>4147</lpage>. <pub-id pub-id-type="doi">10.1021/jp512063f</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>C&#x000f3;rdoba-Torres</surname><given-names>P.</given-names></name>; <name><surname>Mesquita</surname><given-names>T. J.</given-names></name>; <name><surname>Nogueira</surname><given-names>R. P.</given-names></name>
+<article-title>Toward a better characterization
+of constant-phase element behavior on disk electrodes from direct
+impedance analysis: Methodological considerations and mass transport
+effects</article-title>. <source>Electrochim. Acta</source>
+<year>2013</year>, <volume>92</volume>, <fpage>323</fpage>&#x02013;<lpage>334</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2013.01.036</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Sadkowski</surname><given-names>A.</given-names></name>
+<article-title>Time domain
+responses of constant phase electrodes</article-title>. <source>Electrochim.
+Acta</source>
+<year>1993</year>, <volume>38</volume>, <fpage>2051</fpage>&#x02013;<lpage>2054</lpage>. <pub-id pub-id-type="doi">10.1016/0013-4686(93)80339-2</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Sadkowski</surname><given-names>A.</given-names></name>
+<article-title>On the ideal
+polarisability of electrodes displaying cpe-type capacitance dispersion</article-title>. <source>J. Electroanal. Chem.</source>
+<year>2000</year>, <volume>481</volume>, <fpage>222</fpage>&#x02013;<lpage>226</lpage>. <pub-id pub-id-type="doi">10.1016/S0022-0728(99)00480-5</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Gharbi</surname><given-names>O.</given-names></name>; <name><surname>Tran</surname><given-names>M. T. T.</given-names></name>; <name><surname>Tribollet</surname><given-names>B.</given-names></name>; <name><surname>Turmine</surname><given-names>M.</given-names></name>; <name><surname>Vivier</surname><given-names>V.</given-names></name>
+<article-title>Revisiting
+cyclic voltammetry and electrochemical impedance spectroscopy analysis
+for capacitance measurements</article-title>. <source>Electrochim. Acta</source>
+<year>2020</year>, <volume>343</volume>, <elocation-id>136109</elocation-id><pub-id pub-id-type="doi">10.1016/j.electacta.2020.136109</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Allagui</surname><given-names>A.</given-names></name>; <name><surname>Freeborn</surname><given-names>T. J.</given-names></name>; <name><surname>Elwakil</surname><given-names>A. S.</given-names></name>; <name><surname>Maundy</surname><given-names>B. J.</given-names></name>
+<article-title>Reevaluation of
+Performance of Electric Double-layer Capacitors from Constant-current
+Charge/Discharge and Cyclic Voltammetry</article-title>. <source>Sci.
+Rep.</source>
+<year>2016</year>, <volume>6</volume>, <elocation-id>38568</elocation-id><pub-id pub-id-type="doi">10.1038/srep38568</pub-id>.<pub-id pub-id-type="pmid">27934904</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Park</surname><given-names>K.</given-names></name>; <name><surname>Chang</surname><given-names>B.-Y.</given-names></name>; <name><surname>Hwang</surname><given-names>S.</given-names></name>
+<article-title>Correlation between Tafel Analysis
+and Electrochemical Impedance Spectroscopy by Prediction of Amperometric
+Response from EIS</article-title>. <source>ACS Omega</source>
+<year>2019</year>, <volume>4</volume>, <fpage>19307</fpage>&#x02013;<lpage>19313</lpage>. <pub-id pub-id-type="doi">10.1021/acsomega.9b02672</pub-id>.<pub-id pub-id-type="pmid">31763554</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Orazem</surname><given-names>M. E.</given-names></name>; <name><surname>Frateur</surname><given-names>I.</given-names></name>; <name><surname>Tribollet</surname><given-names>B.</given-names></name>; <name><surname>Vivier</surname><given-names>V.</given-names></name>; <name><surname>Marcelin</surname><given-names>S.</given-names></name>; <name><surname>P&#x000e9;b&#x000e8;re</surname><given-names>N.</given-names></name>; <name><surname>Bunge</surname><given-names>A. L.</given-names></name>; <name><surname>White</surname><given-names>E. A.</given-names></name>; <name><surname>Riemer</surname><given-names>D. P.</given-names></name>; <name><surname>Musiani</surname><given-names>M.</given-names></name>
+<article-title>Dielectric
+Properties of Materials Showing Constant-Phase-Element
+(CPE) Impedance Response</article-title>. <source>J. Electrochem. Soc.</source>
+<year>2013</year>, <volume>160</volume>, <fpage>C215</fpage>&#x02013;<lpage>C225</lpage>. <pub-id pub-id-type="doi">10.1149/2.033306jes</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Zhang</surname><given-names>S.</given-names></name>; <name><surname>Pan</surname><given-names>N.</given-names></name>
+<article-title>Supercapacitors Performance Evaluation</article-title>. <source>Adv.
+Energy Mater.</source>
+<year>2015</year>, <volume>5</volume>, <elocation-id>1401401</elocation-id><pub-id pub-id-type="doi">10.1002/aenm.201401401</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Khademi</surname><given-names>M.</given-names></name>; <name><surname>Barz</surname><given-names>D. P. J.</given-names></name>
+<article-title>Structure of
+the Electrical Double Layer Revisited:
+Electrode Capacitance in Aqueous Solutions</article-title>. <source>Langmuir</source>
+<year>2020</year>, <volume>36</volume>, <fpage>4250</fpage>&#x02013;<lpage>4260</lpage>. <pub-id pub-id-type="doi">10.1021/acs.langmuir.0c00024</pub-id>.<pub-id pub-id-type="pmid">32227968</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Grahame</surname><given-names>D. C.</given-names></name>
+<article-title>The Electrical
+Double Layer and the Theory of Electrocapillarity</article-title>. <source>Chem. Rev.</source>
+<year>1947</year>, <volume>41</volume>, <fpage>441</fpage>&#x02013;<lpage>501</lpage>. <pub-id pub-id-type="doi">10.1021/cr60130a002</pub-id>.<pub-id pub-id-type="pmid">18895519</pub-id></mixed-citation></ref></ref-list></back></article>

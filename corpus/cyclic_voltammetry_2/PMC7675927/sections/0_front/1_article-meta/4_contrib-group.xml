@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes" id="ath1">
+  <name>
+   <surname>Sugawara</surname>
+   <given-names>Yuuki</given-names>
+  </name>
+  <xref rid="cor1" ref-type="other">*</xref>
+  <xref rid="aff1" ref-type="aff">†</xref>
+  <xref rid="notes2" ref-type="notes">§</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes" id="ath2">
+  <name>
+   <surname>Kobayashi</surname>
+   <given-names>Hiroaki</given-names>
+  </name>
+  <xref rid="cor2" ref-type="other">*</xref>
+  <xref rid="aff2" ref-type="aff">‡</xref>
+  <xref rid="notes2" ref-type="notes">§</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath3">
+  <name>
+   <surname>Honma</surname>
+   <given-names>Itaru</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">‡</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes" id="ath4">
+  <name>
+   <surname>Yamaguchi</surname>
+   <given-names>Takeo</given-names>
+  </name>
+  <xref rid="cor3" ref-type="other">*</xref>
+  <xref rid="aff1" ref-type="aff">†</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>†</label>Laboratory for Chemistry and Life Science, Institute of Innovative Research, 
+  <institution>Tokyo Institute of Technology</institution>, R1-17, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa 226-8503, 
+  <country>Japan</country>
+ </aff>
+ <aff id="aff2">
+  <label>‡</label>Institute of Multidisciplinary Research for Advanced Materials, 
+  <institution>Tohoku University</institution>, 2-1-1 Katahira, Aoba-ku, Sendai, Miyagi 980-8577, 
+  <country>Japan</country>
+ </aff>
+</contrib-group>

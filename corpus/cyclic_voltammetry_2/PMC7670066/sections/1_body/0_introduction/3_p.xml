@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In this work we have used nitrogen-free amorphous carbon thin films as precursor materials for the creation of carbon electrodes with constant N/C composition that possess varying degrees of amorphization. Incorporation of N-sites was achieved via low-energy reactive plasma; plasma/
+ <inline-formula>
+  <math id="M1">
+   <msub>
+    <mrow>
+     <mtext>N</mtext>
+    </mrow>
+    <mrow>
+     <msup>
+      <mrow>
+       <mn>2</mn>
+      </mrow>
+      <mrow>
+       <mo>+</mo>
+      </mrow>
+     </msup>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> bombardment methods have previously been used to introduce isolated defects in highly ordered pyrolytic graphite (Kondo et al., 
+ <xref rid="B36" ref-type="bibr">2012</xref>), however their effect on amorphous or partially graphitized systems remains unexplored. Our results show that plasma methods enable a fast, self-limiting chemical modification of the disordered carbon surface in parallel with an increase in amorphization degree that occurs at a lower rate. By leveraging the difference in the rate of these two processes it was possible to decouple the effects of chemical N-sites and C-defect sites on the electrochemical response of these materials and understand the role of the two contributions on their capacitive and faradaic response. X-ray photoelectron spectroscopy (XPS) and Raman spectroscopy were used to monitor composition and carbon organization. Electrochemical impedance spectroscopy (EIS) was used to characterize their capacitive response. Finally, the materials were tested as metal-free electrocatalysts in the oxygen reduction reaction (ORR) under alkaline conditions to identify correlations between composition and ORR activity descriptors. We find that the introduction of predominantly pyrrolic-N sites via plasma modification results in improvements in activity and selectivity in the ORR, relative to the nitrogen-free precursor material. Introduction of defects through prolonged plasma exposure has a more pronounced and beneficial effect on ORR activity descriptors than introduction of N-sites alone, that cannot be justified on the basis of changes in N-site composition or microroughness. We propose that increased structural disorder/heterogeneity results in the introduction of carbon sites that could serve as the main sites or enhance the activating effects of N-functionalities in the ORR.
+</p>

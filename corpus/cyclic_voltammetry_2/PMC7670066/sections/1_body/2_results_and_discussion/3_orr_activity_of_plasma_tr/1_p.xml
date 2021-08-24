@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The electrocatalytic activity of plasma-treated carbon materials was investigated in O
+ <sub>2</sub>-saturated 0.1 M KOH via RDE methods. 
+ <xref ref-type="fig" rid="F6">Figure 6A</xref> shows linear sweep voltammograms (LSV) at 50 mV s
+ <sup>−1</sup> of anC, anC:Np5, anC:Np10 and anC:Np20; all curves are shown after subtraction of the capacitive current background. The nitrogen-free material shows a clear onset in the cathodic current, associated with the reduction of O
+ <sub>2</sub> and a well-defined plateau indicating a mass-transport limited current (Behan et al., 
+ <xref rid="B4" ref-type="bibr">2019b</xref>). The onset potential (E
+ <sub>on</sub>), defined as the potential at which the current density reaches a value of 0.1 mA cm
+ <sup>−2</sup>, is a useful descriptor to compare electrocatalyst performance (Behan et al., 
+ <xref rid="B3" ref-type="bibr">2019a</xref>); values observed for all electrode materials are summarized in 
+ <xref rid="T3" ref-type="table">Table 3</xref>. The nitrogen-free anC electrode yields an E
+ <sub>on</sub> comparable to that of glassy carbon or undoped carbon nanofiber electrodes (Stamatin et al., 
+ <xref rid="B59" ref-type="bibr">2016</xref>). Exposure to nitrogen plasma results, first, in a slight negative shift of E
+ <sub>on</sub>, as shown in greater detail in 
+ <xref ref-type="fig" rid="F6">Figure 6B</xref>; however, longer exposures result in a progressive improvement reaching 0.72 V
+ <sub>RHE</sub> after 20 min of exposure. This indicates that, despite anC:Np5 and anC:Np20 having similar surface N/C concentrations, the greater structural disorder in the carbon matrix observed in anC:Np20 leads to significant improvements in E
+ <sub>on</sub>. Plasma exposure also yields a general increase in the limiting current density, although the mass-transport limited regions of anC:N electrodes show poorly defined plateaus. A non-zero slope in this region is typically observed for electrocatalysts with a distribution of different active sites; its presence in 
+ <xref ref-type="fig" rid="F6">Figure 6A</xref> is therefore consistent with an increase in structural disorder upon plasma exposure, also evidenced by Raman and EIS results.
+</p>

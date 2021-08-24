@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par37">Testing was performed with the as-prepared electrocatalysts loaded on the gas diffusion layer of the air electrode of an in-house-made ZAB at room temperature. The catalyst ink was prepared as described above and drop-cast onto carbon paper at a mass loading of 1 mg cm
+ <sup>−2</sup>. The air cathode was coated with a 1:1 (w/w) mixture of 20 wt % Pt/C and 5 wt % Ru/C at the same total catalyst loading. Zn foil was used as the metal anode, and a solution containing 6 M KOH (Guaranteed Reagent, Junsei Co., Ltd.) and 0.2 M zinc acetate (Sigma-Aldrich Co., Ltd.) was used as the electrolyte. Polarization curves were constructed by performing LSV measurements at a sweep rate of 10 mV s
+ <sup>−1</sup> using an electrochemical workstation (Biologic, VSP, France). Specific capacity and energy density were calculated as [
+ <xref ref-type="bibr" rid="CR47">47</xref>] 
+ <disp-formula id="Equ4">
+  <label>4</label>
+  <alternatives>
+   <tex-math id="M7">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\text{Energy}}\,{\text{density}}\,({\text{mW}}\,{\text{cm}}^{ - 2} ) = {\text{IV}}\Delta t/\omega_{\text{Zn}}$$\end{document}</tex-math>
+   <math id="M8" display="block">
+    <mrow>
+     <mtext>Energy</mtext>
+     <mspace width="0.166667em"/>
+     <mtext>density</mtext>
+     <mspace width="0.166667em"/>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mtext>mW</mtext>
+      <mspace width="0.166667em"/>
+      <msup>
+       <mrow>
+        <mtext>cm</mtext>
+       </mrow>
+       <mrow>
+        <mo>-</mo>
+        <mn>2</mn>
+       </mrow>
+      </msup>
+      <mo stretchy="false">)</mo>
+     </mrow>
+     <mo>=</mo>
+     <mtext>IV</mtext>
+     <mi mathvariant="normal">Δ</mi>
+     <mi>t</mi>
+     <mo stretchy="false">/</mo>
+     <msub>
+      <mi>ω</mi>
+      <mtext>Zn</mtext>
+     </msub>
+    </mrow>
+   </math>
+   <graphic xlink:href="40820_2020_581_Article_Equ4.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+ <disp-formula id="Equ5">
+  <label>5</label>
+  <alternatives>
+   <tex-math id="M9">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\text{Specific}}\,{\text{capacity}}\,({\text{mA}}\,{\text{h}}\,{\text{g}}^{ - 1} ) = I\Delta t/\omega_{\text{Zn}}$$\end{document}</tex-math>
+   <math id="M10" display="block">
+    <mrow>
+     <mtext>Specific</mtext>
+     <mspace width="0.166667em"/>
+     <mtext>capacity</mtext>
+     <mspace width="0.166667em"/>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mtext>mA</mtext>
+      <mspace width="0.166667em"/>
+      <mtext>h</mtext>
+      <mspace width="0.166667em"/>
+      <msup>
+       <mrow>
+        <mtext>g</mtext>
+       </mrow>
+       <mrow>
+        <mo>-</mo>
+        <mn>1</mn>
+       </mrow>
+      </msup>
+      <mo stretchy="false">)</mo>
+     </mrow>
+     <mo>=</mo>
+     <mi>I</mi>
+     <mi mathvariant="normal">Δ</mi>
+     <mi>t</mi>
+     <mo stretchy="false">/</mo>
+     <msub>
+      <mi>ω</mi>
+      <mtext>Zn</mtext>
+     </msub>
+    </mrow>
+   </math>
+   <graphic xlink:href="40820_2020_581_Article_Equ5.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>where 
+ <italic>I</italic>, 
+ <italic>V</italic>, Δ
+ <italic>t</italic>, and 
+ <italic>ω</italic>
+ <sub>Zn</sub> represent the current, average discharge voltage, testing time, and amount of consumed Zn, respectively.
+</p>

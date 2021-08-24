@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="cit1">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mulder</surname>
+    <given-names>F. M.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Weninger</surname>
+    <given-names>B. M. H.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Middelkoop</surname>
+    <given-names>J.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ooms</surname>
+    <given-names>F. G. B.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schreuders</surname>
+    <given-names>H.</given-names>
+   </name>
+  </person-group>
+  <source>Energy Environ. Sci.</source>
+  <year>2017</year>
+  <volume>10</volume>
+  <fpage>756</fpage>
+  <lpage>764</lpage>
+ </element-citation>
+</ref>

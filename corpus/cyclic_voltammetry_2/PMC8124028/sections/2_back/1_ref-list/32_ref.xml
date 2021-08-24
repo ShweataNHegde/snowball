@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR32">
+ <label>32.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Diao</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Qiu</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>K</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Interfacial engineering of W
+   <sub>2</sub>N/WC heterostructures derived from solid-state synthesis: a highly efficient trifunctional electrocatalyst for ORR, OER, and HER
+  </article-title>
+  <source>Adv. Mater.</source>
+  <year>2020</year>
+  <volume>32</volume>
+  <fpage>1905679</fpage>
+  <pub-id pub-id-type="doi">10.1002/adma.201905679</pub-id>
+ </element-citation>
+</ref>

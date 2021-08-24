@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR31">
+ <label>31.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chen</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Kim</surname>
+    <given-names>SH</given-names>
+   </name>
+   <name>
+    <surname>Rajendiran</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Prabakar</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>GZ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Enhancing ORR/OER active sites through lattice distortion of Fe-enriched FeNi
+   <sub>3</sub> intermetallic nanoparticles doped N-doped carbon for high-performance rechargeable Zn-air battery
+  </article-title>
+  <source>J. Colloid Interface Sci.</source>
+  <year>2021</year>
+  <volume>582</volume>
+  <issue>15</issue>
+  <fpage>977</fpage>
+  <lpage>990</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jcis.2020.08.101</pub-id>
+  <pub-id pub-id-type="pmid">32927178</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Given that the conversion–adsorption process is the dominant reversible process in Zn halide–carbon composites, the working hypothesis was that variation of the surface area of carbon would determine the extent of cell performance. To this end, various Zn halides were mixed with high surface area-activated carbon (AC) and their performance was tested in full-cell coin cells. 
+ <xref rid="fig4" ref-type="fig">Figures 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>A and 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c20622/suppl_file/am0c20622_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">S5</ext-link> show the representative charge–discharge curves of Zn|AC–ZnX
+ <sub>2</sub> batteries using the WiTS gel electrolyte at various current densities between 0.1 and 2.0 V. Significantly, the charge–discharge curves possess a near-triangular shape with little deviation from an ideal capacitor response. This implies that the kinetics of the halogen conversion–adsorption reaction at the activated carbon electrode is extremely facile in the WiTS gel electrolyte. However, the CV response at each electrode was not strictly pseudocapacitive due to the presence of redox peaks (see 
+ <xref rid="fig4" ref-type="fig">Figures 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>D and 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c20622/suppl_file/am0c20622_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">S6A</ext-link>). The specific capacities for Zn|AC–ZnCl
+ <sub>2</sub>, Zn|AC–ZnBr
+ <sub>2</sub>, and Zn|AC–ZnI
+ <sub>2</sub> cells are approximately 281, 232, and 196 mAh g
+ <sup>–1</sup>, respectively, at a current density of 0.05 A g
+ <sup>–1</sup> (compared to &lt;100 mAh g
+ <sup>–1</sup> for bare AC in the same electrolyte). These capacities decreased to 102, 90, and 65 mAh g
+ <sup>–1</sup> when the current density was increased to 1.0 A g
+ <sup>–1</sup>, and the corresponding capacity fade is over 60% for each cell (
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>B). The capacity loss is most likely due to the low conductivity of the activated carbon and future work will focus on the use of conducting additives, such as carbon black, to further optimize the performance. The capacities obtained at these electrodes are nonetheless higher than Zn-ion capacitors using an activated carbon cathode and Zn anode.
+ <sup>
+  <xref ref-type="bibr" rid="ref42">42</xref>,
+  <xref ref-type="bibr" rid="ref43">43</xref>
+ </sup>
+</p>

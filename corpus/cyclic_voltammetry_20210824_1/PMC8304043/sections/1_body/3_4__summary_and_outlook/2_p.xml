@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>First, the traditional use of LSV in a Li/electrolyte/SS cell seems to be acceptable for a qualitative approach but not accurate enough for a precise ESW evaluation. The limiting reduction and oxidation potentials are detected where the de-composition current reaches a predefined value. However, the choice of these cutoff criteria has no theoretical significance and is therefore completely arbitrary. Indeed, it can be tricky to discriminate the capacitive current from the faradic current which will depend of the studied material/electrolyte, the architecture of the working electrode (flat vs. 3D) and its type (carbon vs. Pt, Au…). Thus, depending on the authors, arbitrary cutoff currents of 10 µA/cm
+ <sup>2</sup>, 50 µA/cm
+ <sup>2</sup>, 0.5, or 1 mA/cm
+ <sup>2</sup> are regularly chosen. Moreover, a large range of scanning rates (0.1 to 10–50 mV/s) is used during testing. The difference in stability data is too significant to ignore and can lead to conflicting conclusions (often an overestimated value) when evaluating ESW data.
+</p>

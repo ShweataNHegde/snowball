@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref1">
+ <mixed-citation publication-type="journal" id="cit1">
+  <name>
+   <surname>Doughty</surname>
+   <given-names>D.</given-names>
+  </name>; 
+  <name>
+   <surname>Butler</surname>
+   <given-names>P. C.</given-names>
+  </name>; 
+  <name>
+   <surname>Skhil</surname>
+   <given-names>A. A.</given-names>
+  </name>; 
+  <name>
+   <surname>Clark</surname>
+   <given-names>N. H.</given-names>
+  </name>; 
+  <name>
+   <surname>Boyes</surname>
+   <given-names>J. D.</given-names>
+  </name>
+  <article-title>Batteries for large-scale stationary electrical energy storage</article-title>. 
+  <source>Electrochem. Soc. Interface</source>
+  <year>2010</year>, 
+  <volume>19</volume>, 
+  <fpage>49</fpage>–
+  <lpage>53</lpage>. 
+  <pub-id pub-id-type="doi">10.1149/2.F05103if</pub-id>.
+ </mixed-citation>
+</ref>

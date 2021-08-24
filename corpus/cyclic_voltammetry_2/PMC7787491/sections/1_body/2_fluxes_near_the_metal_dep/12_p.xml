@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Davidson 
+ <italic>et al.</italic> (
+ <xref rid="R38" ref-type="bibr">
+  <italic>38</italic>
+ </xref>) introduced another Damköhler number 
+ <inline-formula>
+  <math id="m13">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>D</mi>
+      <mi mathvariant="normal">a</mi>
+     </msub>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mi>k</mi>
+        <mi mathvariant="normal">e</mi>
+       </msub>
+      </mrow>
+      <mrow>
+       <msub>
+        <mi>k</mi>
+        <mi mathvariant="normal">d</mi>
+       </msub>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>, where 
+ <italic>k</italic>
+ <sub>e</sub> is the electrochemical reaction rate and 
+ <italic>k</italic>
+ <sub>d</sub> is the surface diffusion rate. As shown in 
+ <xref rid="F3" ref-type="fig">Fig. 3E-2</xref>, a large 
+ <italic>k</italic>
+ <sub>d</sub> value results in a small 
+ <italic>D</italic>
+ <sub>a</sub> ≪ 1 and predicts planar, film-like metal deposition. In contrast, a small 
+ <italic>k</italic>
+ <sub>d</sub> value leads to 
+ <italic>D</italic>
+ <sub>a</sub> ≫ 1 and rough/dendritic electrodeposition. Together, it is generally agreed that a moderately small exchange current (slow reaction kinetics), large diffusion-limited current density (high electrolyte ion diffusivity), and high adatom self-diffusivity are favorable for achieving smooth electrodeposition morphology. We, however, point out that the real scenario in metal deposition is more complicated than what have been assumed in the modeling studies; the main additional degree of complication stems from the presence of a SEI formed in between the metal deposits and the electrolyte. The role played by such SEI layer is treated in the next section.
+</p>

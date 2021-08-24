@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR13">
+ <label>13.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Borodin</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Gao</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Fan</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Sun</surname>
+    <given-names>W</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Highly reversible zinc metal anode for aqueous batteries</article-title>
+  <source>Nat. Mater.</source>
+  <year>2018</year>
+  <volume>17</volume>
+  <issue>6</issue>
+  <fpage>543</fpage>
+  <lpage>549</lpage>
+  <pub-id pub-id-type="doi">10.1038/s41563-018-0063-z</pub-id>
+  <pub-id pub-id-type="pmid">29662160</pub-id>
+ </element-citation>
+</ref>

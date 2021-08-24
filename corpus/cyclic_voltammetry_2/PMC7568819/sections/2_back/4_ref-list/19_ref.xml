@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B20">
+ <label>20</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Komaba</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Shimomura</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Yabuuchi</surname>
+    <given-names>N.</given-names>
+   </name>
+   <name>
+    <surname>Ozeki</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Yui</surname>
+    <given-names>H.</given-names>
+   </name>
+   <name>
+    <surname>Konno</surname>
+    <given-names>K.</given-names>
+   </name>
+  </person-group>
+  <article-title>Study on polymer binders for high-capacity SiO negative electrode of Li-ion batteries</article-title>
+  <source>
+   <italic toggle="yes">Journal of Physical Chemistry C</italic>
+  </source>
+  <year>2011</year>
+  <volume>115</volume>
+  <issue>27</issue>
+  <fpage>13487</fpage>
+  <lpage>13495</lpage>
+  <pub-id pub-id-type="doi">10.1021/jp201691g</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-80053911440</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kim</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Yoon</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Park</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Shin</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Ryu</surname>
+    <given-names>JH</given-names>
+   </name>
+   <name>
+    <surname>Oh</surname>
+    <given-names>SM</given-names>
+   </name>
+  </person-group>
+  <source>J. Electrochem. Soc.</source>
+  <year>2014</year>
+  <volume>161</volume>
+  <fpage>A2020</fpage>
+  <pub-id pub-id-type="doi">10.1149/2.0231414jes</pub-id>
+ </element-citation>
+</ref>

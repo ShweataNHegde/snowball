@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The ionic conductivity of the chitosan gel was studied, and the effect of salt addition was investigated using an impedance testing protocol reported previously [
+ <xref rid="B58-nanomaterials-11-00003" ref-type="bibr">58</xref>]. 
+ <xref ref-type="fig" rid="nanomaterials-11-00003-f004">Figure 4</xref>a shows a typical series of Bode plots for chitosan 3% w v
+ <sup>−1</sup> aqueous hydrogel measured at different lengths (0.5, 1, 1.5, 2 and 2.5 cm). In all cases, the impedance magnitude (|
+ <italic>Z</italic>|) decreases with increasing frequency and becomes independent of frequency above 1 kHz. This observation infers that the system is dominated by ionic, rather than electronic, charge carriers, as is expected. 
+ <xref ref-type="fig" rid="nanomaterials-11-00003-f004">Figure 4</xref>b shows a linear relationship between the frequency-independent impedance (
+ <inline-formula>
+  <math id="mm7">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>Z</mi>
+      <mi>I</mi>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>) and sample length; the slope of this plot was used to calculate conductivity according to Equation (1).
+</p>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>As 
+ <math id="jats-math-38">
+  <msub>
+   <mi>i</mi>
+   <mi mathvariant="normal">D</mi>
+  </msub>
+ </math> is independent of 
+ <math id="jats-math-39">
+  <mi>E</mi>
+ </math> and 
+ <math id="jats-math-40">
+  <msub>
+   <mi>f</mi>
+   <mi mathvariant="normal">R</mi>
+  </msub>
+ </math> , this gives the proportionality between the roughness factor and the potential for a constant current density 
+ <math id="jats-math-41">
+  <mi>i</mi>
+ </math> , such as the current at the half‐wave potential [
+ <math id="jats-math-42">
+  <mrow>
+   <mi>x</mi>
+   <mo>=</mo>
+   <mn>2</mn>
+  </mrow>
+ </math> ; Eq. 
+ <xref rid="cssc202100364-disp-0005" ref-type="disp-formula">5</xref>]:
+ <disp-formula id="cssc202100364-disp-0005">
+  <label>(5)</label>
+  <math id="jats-math-43">
+   <mstyle displaystyle="true">
+    <mrow>
+     <msub>
+      <mi>E</mi>
+      <mfrac>
+       <mn>1</mn>
+       <mn>2</mn>
+      </mfrac>
+     </msub>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <mi>R</mi>
+       <mi>T</mi>
+      </mrow>
+      <mrow>
+       <msub>
+        <mi>α</mi>
+        <mrow>
+         <mi mathvariant="normal">a</mi>
+         <mi mathvariant="normal">p</mi>
+         <mi mathvariant="normal">p</mi>
+        </mrow>
+       </msub>
+       <mi>F</mi>
+      </mrow>
+     </mfrac>
+     <mi mathvariant="bold">l</mi>
+     <mi mathvariant="bold">n</mi>
+     <mfenced separators="" open="(" close=")">
+      <msub>
+       <mi>f</mi>
+       <mi mathvariant="normal">R</mi>
+      </msub>
+     </mfenced>
+     <mo>+</mo>
+     <mi mathvariant="normal">c</mi>
+     <mi mathvariant="normal">o</mi>
+     <mi mathvariant="normal">n</mi>
+     <mi mathvariant="normal">s</mi>
+     <mi mathvariant="normal">t</mi>
+     <mi mathvariant="normal">a</mi>
+     <mi mathvariant="normal">n</mi>
+     <mi mathvariant="normal">t</mi>
+     <mi mathvariant="normal">s</mi>
+    </mrow>
+   </mstyle>
+  </math>
+ </disp-formula>
+</p>

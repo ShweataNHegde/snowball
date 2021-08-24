@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0050">The use of Butler-Volmer-type kinetic models is commonplace when analyzing electrode current-voltage behavior and the performance of energy conversion and storage devices. The common assumptions in these models, including a surface concentration, coverage, and transfer coefficient that do not vary with potential, are not likely to be the case for many electrodes and reactions. A misunderstanding or misrepresentation of these equations, particularly with regards to the so-called symmetry factor and its relation to the empirical transfer coefficient (
+ <xref rid="bib20" ref-type="bibr">Guidelli et al., 2014</xref>), is further related to unsolved problems in the field of electrochemical kinetics (
+ <xref rid="bib18" ref-type="bibr">Gileadi, 2011</xref>). Much can be done to clarify these assumptions and their resulting relationship to the empirical “Tafel slope” for different reactions. Research in electrocatalysis, from energy conversion to organic electrosynthesis, will be facilitated by improving our understanding of the relationship between homogeneous and heterogeneous redox reactions (
+ <xref rid="bib22" ref-type="bibr">Jackson and Surendranath, 2019</xref>). Students would benefit from an education that emphasizes the appropriate and inappropriate use of Butler-Volmer and Tafel relationships and includes a clear discussion of the underlying assumptions in connecting polarization data to microscopic mechanisms (
+ <xref rid="bib4" ref-type="bibr">Boettcher and Surendranath, 2021</xref>).
+</p>

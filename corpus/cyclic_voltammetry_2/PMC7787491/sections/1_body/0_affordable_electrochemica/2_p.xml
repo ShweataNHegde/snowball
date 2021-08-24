@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Energy can, of course, be stored via multiple mechanisms, e.g., mechanical, thermal, and electrochemical. Among the various options, electrochemical energy storage (EES) stands out for its potential to achieve high efficiency, modularity, relatively low environmental footprint, and versatility/low reliance on ancillary infrastructure (
+ <xref rid="R5" ref-type="bibr">
+  <italic>5</italic>
+ </xref>, 
+ <xref rid="R6" ref-type="bibr">
+  <italic>6</italic>
+ </xref>). Despite these advantages, the relatively high cost of EES systems limits market penetration, particularly in situations where long-term storage is required to address variability in the energy supply. EES technology based on the intrinsically low-cost element, zinc (Zn), are among the “oldest” batteries; Alessandro Volta’s letter (
+ <xref rid="R7" ref-type="bibr">
+  <italic>7</italic>
+ </xref>) in 1800 described a pile of Cu-Zn couples to generate stable electricity. Primary Zn-MnO
+ <sub>2</sub> batteries have been available commercially since the early 20th century (
+ <xref rid="R8" ref-type="bibr">
+  <italic>8</italic>
+ </xref>), but despite a very large body of work, efforts to create rechargeable Zn batteries have been less fruitful. The low cycle life (&lt;100 cycles) (
+ <xref rid="R9" ref-type="bibr">
+  <italic>9</italic>
+ </xref>) typical for these batteries have been attributed to fundamental issues at both electrodes: The metal oxide cathodes exhibit large electrochemical irreversibility above a certain depth of discharge (DOD) (
+ <xref rid="R10" ref-type="bibr">
+  <italic>10</italic>
+ </xref>); the Zn metal anode undergoes a so-called “shape change” process irreversibly depleting the anode metal (
+ <xref rid="R11" ref-type="bibr">
+  <italic>11</italic>
+ </xref>). In recent decades, the cycle life of Zn batteries has been extended by approximately one order of magnitude (i.e., ~1000 cycles). In addition, very recently, fundamental advances in electrolyte, interface, and electrode design suggest that additional substantial increases in reversibility of the Zn electrode may be possible.
+</p>

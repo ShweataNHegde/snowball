@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B13">
+ <label>13</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Michaelides</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Alavi</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>King</surname>
+    <given-names>D. A.</given-names>
+   </name>
+  </person-group>
+  <article-title>Different surface chemistries of water on Ru[0001]: from monomer adsorption to partially dissociated bilayers</article-title>
+  <source>
+   <italic toggle="yes">Journal of the American Chemical Society</italic>
+  </source>
+  <year>2003</year>
+  <volume>125</volume>
+  <issue>9</issue>
+  <fpage>2746</fpage>
+  <lpage>2755</lpage>
+  <pub-id pub-id-type="doi">10.1021/ja028855u</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0037420363</pub-id>
+  <?supplied-pmid 12603164?>
+  <pub-id pub-id-type="pmid">12603164</pub-id>
+ </element-citation>
+</ref>

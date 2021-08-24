@@ -1,0 +1,867 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ChemSusChem</journal-id><journal-id journal-id-type="iso-abbrev">ChemSusChem</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1864-564X</journal-id><journal-id journal-id-type="publisher-id">CSSC</journal-id><journal-title-group><journal-title>Chemsuschem</journal-title></journal-title-group><issn pub-type="ppub">1864-5631</issn><issn pub-type="epub">1864-564X</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">8252535</article-id><article-id pub-id-type="pmid">33881219</article-id><article-id pub-id-type="doi">10.1002/cssc.202100364</article-id><article-id pub-id-type="publisher-id">CSSC202100364</article-id><article-categories><subj-group subj-group-type="overline"><subject>Full Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Full Papers</subject></subj-group></article-categories><title-group><article-title>Electrochemical Reduction of O<sub>2</sub> in Ca<sup>2+</sup>&#x02010;Containing DMSO: Role of Roughness and Single Crystal Structure</article-title></title-group><contrib-group><contrib id="cssc202100364-cr-0001" contrib-type="author"><name><surname>K&#x000f6;llisch&#x02010;Mirbach</surname><given-names>Andreas</given-names></name><xref ref-type="aff" rid="cssc202100364-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cssc202100364-cr-0002" contrib-type="author"><name><surname>Park</surname><given-names>Inhee</given-names></name><xref ref-type="aff" rid="cssc202100364-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cssc202100364-cr-0003" contrib-type="author"><name><surname>Hegemann</surname><given-names>Martina</given-names></name><xref ref-type="aff" rid="cssc202100364-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cssc202100364-cr-0004" contrib-type="author"><name><surname>Thome</surname><given-names>Elke</given-names></name><xref ref-type="aff" rid="cssc202100364-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cssc202100364-cr-0005" contrib-type="author" corresp="yes"><name><surname>Baltruschat</surname><given-names>Helmut</given-names><prefix>Prof.&#x02005;Dr.</prefix></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-3111-1427</contrib-id><xref ref-type="aff" rid="cssc202100364-aff-0001">
+<sup>1</sup>
+</xref><address><email>baltruschat@uni-bonn.de</email></address></contrib></contrib-group><aff id="cssc202100364-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Institut f&#x000fc;r Physikalische und Theoretische Chemie</named-content>
+<institution>Universit&#x000e4;t Bonn</institution>
+<named-content content-type="street">R&#x000f6;merstra&#x000df;e 164</named-content>
+<postal-code>53117</postal-code>
+<city>Bonn</city>
+<country country="DE">Germany</country>
+</aff><pub-date pub-type="epub"><day>13</day><month>5</month><year>2021</year></pub-date><pub-date pub-type="ppub"><day>21</day><month>6</month><year>2021</year></pub-date><volume>14</volume><issue>12</issue><issue-id pub-id-type="doi">10.1002/cssc.v14.12</issue-id><fpage>2564</fpage><lpage>2575</lpage><history><date date-type="rev-recd"><day>16</day><month>4</month><year>2021</year></date><date date-type="received"><day>19</day><month>2</month><year>2021</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright">&#x000a9; 2021 Wiley&#x02010;VCH GmbH<copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2021 The Authors. ChemSusChem published by Wiley-VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:CSSC-14-2564.pdf"/><abstract><title>Abstract</title><p>In this study, the oxygen reduction reaction (ORR) in Ca<sup>2+</sup>&#x02010;containing dimethyl sulfoxide (DMSO) at well&#x02010;ordered and rough electrode surfaces is compared by using cyclic voltammetry, differential electrochemical mass spectrometry, rotating ring disk electrode, and atomic force microscopy measurements. Slightly soluble CaO<sub>2</sub> is the main product during early ORR on gold electrodes; after completion of a monolayer of CaO and/or CaO<sub>2</sub>, which is formed in parallel and in competition to the peroxide, only superoxide is formed. When the monolayer is completely closed on smooth annealed Au, no further reduction occurs, whereas on rough Au a defect&#x02010;rich layer allows for continuous formation of superoxide. CaO<sub>2</sub> formed either via two subsequent 1&#x02005;<mml:math id="jats-math-1"><mml:msup><mml:mrow><mml:mi mathvariant="normal">e</mml:mi></mml:mrow><mml:mo>-</mml:mo></mml:msup></mml:math>
+transfer steps or by disproportionation of superoxide may be deposited on top of the CaO/CaO<sub>2</sub> adsorbate layer. The slow dissolution of the peroxide particles is demonstrated by AFM. Whereas a smooth CaO/CaO<sub>2</sub>&#x02010;covered electrode shows severe deactivation and a CaO/CaO<sub>2</sub>&#x02010;covered rough electrode allows for diffusion&#x02010;limited superoxide formation, on single crystals peroxide formation is more pronounced. The reason is most likely the lack of nucleation sites for the blocking CaO/CaO<sub>2</sub> layer. RRDE investigations showed sluggish reoxidation kinetics of the dissolved peroxide, which are most likely due to ion pairing with Ca<sup>2+</sup>. The apparent transfer coefficient is estimated by using variation of the electrode roughness, confirming the result of the usual Tafel analysis and indicating an equilibrated first 1&#x02005;<mml:math id="jats-math-2"><mml:msup><mml:mrow><mml:mi mathvariant="normal">e</mml:mi></mml:mrow><mml:mo>-</mml:mo></mml:msup></mml:math>
+transfer.</p></abstract><abstract abstract-type="graphical"><p>
+<bold>Rough with the smooth</bold>: This work highlights the role of adsorbate formation and of deposited CaO<sub>2</sub> during oxygen reduction in Ca<sup>2+</sup>&#x02010;containing dimethyl sulfoxide. By systematically varying the electrode roughness, the reaction mechanism and product distribution and the crucial influence of electrode structure thereupon are elucidated.<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xlink:href="CSSC-14-2564-g002.jpg" position="anchor" id="jats-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="cssc202100364-kwd-0001">batteries</kwd><kwd id="cssc202100364-kwd-0002">calcium</kwd><kwd id="cssc202100364-kwd-0003">crystal structures</kwd><kwd id="cssc202100364-kwd-0004">electrochemistry</kwd><kwd id="cssc202100364-kwd-0005">oxygen reduction</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Federal Ministry of Education and Research </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100002347</institution-id></institution-wrap></funding-source><award-id>03XP0110D</award-id><award-id>03EK3051A</award-id></award-group></funding-group><counts><fig-count count="13"/><table-count count="0"/><ref-count count="40"/><page-count count="12"/><word-count count="0"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 21, 2021</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.0.4 mode:remove_FC converted:02.07.2021</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="self-citation" id="cssc202100364-self">A. K&#x000f6;llisch-Mirbach, I. Park, M. Hegemann, E. Thome, H. Baltruschat, <italic>ChemSusChem</italic>
+<bold>2021</bold>, <italic>14</italic>, 2564.</mixed-citation>
+</p></notes></front><body><sec id="cssc202100364-sec-0001"><title>Introduction</title><p>Increasing necessity for renewable energy sources requires means to store the energy, as it cannot be easily generated on demand. Not only pumped&#x02010;storage power plants and energy storage by electrochemical generation of hydrogen, but also the storage in large scale batteries is a possibility one could think of looking towards the future. As next&#x02010;generation batteries, metal&#x02010;air batteries might be the way to go in the future. Their big advantage is not only the high energy density, which is primarily important for electromotive applications, but also &#x02013; and probably more importantly &#x02013; the fact that less abundant elements like Co are not needed in stoichiometric amounts for insertion materials at the cathode. Though metal&#x02010;air battery research is a common research topic nowadays, the performance of this type of battery still remains insufficient and a lot of work still needs to be done. Li&#x02010;O<sub>2</sub>,[<xref rid="cssc202100364-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref>, <xref rid="cssc202100364-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="cssc202100364-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref>, <xref rid="cssc202100364-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>, <xref rid="cssc202100364-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>, <xref rid="cssc202100364-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>, <xref rid="cssc202100364-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="cssc202100364-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>] Na&#x02010;O<sub>2</sub>,[<xref rid="cssc202100364-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="cssc202100364-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="cssc202100364-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref>, <xref rid="cssc202100364-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>] and Mg&#x02010;O<sub>2</sub>[<xref rid="cssc202100364-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="cssc202100364-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>, <xref rid="cssc202100364-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>] systems already were topic of research and looking towards further cations like potassium[<xref rid="cssc202100364-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref>, <xref rid="cssc202100364-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref>, <xref rid="cssc202100364-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref>] and calcium seems reasonable, as the ORR product distribution depends on the cation.[<xref rid="cssc202100364-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>, <xref rid="cssc202100364-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref>, <xref rid="cssc202100364-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref>, <xref rid="cssc202100364-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref>, <xref rid="cssc202100364-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref>] The use of more abundant active materials than lithium for the anode may also be necessary for a wider application. Calcium was already proposed as interesting candidate, as it is one of the most abundant elements in the earth's crust and still has a sufficiently high theoretical energy density (Ca&#x02010;air) to replace Li&#x02010;ion batteries. Both ORR/OER[<xref rid="cssc202100364-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref>, <xref rid="cssc202100364-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref>] and metal deposition[<xref rid="cssc202100364-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref>, <xref rid="cssc202100364-bib-0024" ref-type="ref">
+<sup>24</sup>
+</xref>] were investigated in Ca&#x02010;ion containing aprotic electrolytes.</p><p>The ORR and OER were investigated on several cathode materials. For the ORR in Ca(ClO<sub>4</sub>)<sub>2</sub> containing DMSO on Pt, Rh, Glassy Carbon and Ru a one electron process was observed, while for Au a two electron process is found.<xref rid="cssc202100364-bib-0021" ref-type="ref">
+<sup>[21]</sup>
+</xref> It was shown, that Au plays a special role in the mechanism, as on gold in Mg<sup>2+</sup>, Ca<sup>2+</sup>, Sr<sup>2+</sup> and Ba<sup>2+</sup> containing DMSO, the two electron process is dominating the ORR, which is not the case for Glassy Carbon and platinum electrodes.<xref rid="cssc202100364-bib-0022" ref-type="ref">
+<sup>[22]</sup>
+</xref> This is of special interest, as the formation of <mml:math id="jats-math-3"><mml:msubsup><mml:mi mathvariant="normal">O</mml:mi><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mo>-</mml:mo></mml:msubsup></mml:math>
+and further solution mediated disproportionation to <mml:math id="jats-math-4"><mml:msubsup><mml:mi mathvariant="normal">O</mml:mi><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>2</mml:mn><mml:mo>-</mml:mo></mml:mrow></mml:msubsup></mml:math>
+and <mml:math id="jats-math-5"><mml:msub><mml:mi mathvariant="normal">O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:math>
+might lead to significant amounts of highly reactive singlet oxygen, which will decompose the electrolyte.[<xref rid="cssc202100364-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref>, <xref rid="cssc202100364-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref>, <xref rid="cssc202100364-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref>] Upon reducing the relative amount of generated <mml:math id="jats-math-6"><mml:msubsup><mml:mi mathvariant="normal">O</mml:mi><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mo>-</mml:mo></mml:msubsup></mml:math>
+, one might increase the reversibility and thus the cycle life of the battery. At this point, the current work starts with further investigation on the ORR and OER in Ca(ClO<sub>4</sub>)<sub>2</sub> containing DMSO using techniques like DEMS to identify oxygen consumption/evolution and RRDE to further investigate the nature of the generated oxygen species during the ORR. The influence of the electrode surface structure was taken into account by using single crystalline electrodes on the one hand and rough electrodes on the other. A similar approach was also used to investigate the ORR/OER in case of Li<sup>+</sup> containing DMSO in our earlier work.<xref rid="cssc202100364-bib-0028" ref-type="ref">
+<sup>[28]</sup>
+</xref> We found that mostly Li<sub>2</sub>O<sub>2</sub> is formed on rough electrodes during the ORR and thus showed once again, that the surface structure strongly affects the electrochemical reactions. This work strongly focuses on the ORR/OER mechanism in Ca<sup>2+</sup>&#x02010;containing DMSO and the influence of the surface structure (single crystal orientation on the one hand and high roughness factors on the other). It supplements a previous study in which already a transition from mixed <mml:math id="jats-math-7"><mml:msubsup><mml:mi mathvariant="normal">O</mml:mi><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mo>-</mml:mo></mml:msubsup></mml:math>
+and <mml:math id="jats-math-8"><mml:msubsup><mml:mi mathvariant="normal">O</mml:mi><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>2</mml:mn><mml:mo>-</mml:mo></mml:mrow></mml:msubsup></mml:math>
+formation to exclusively <mml:math id="jats-math-9"><mml:msubsup><mml:mi mathvariant="normal">O</mml:mi><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mo>-</mml:mo></mml:msubsup></mml:math>
+formation was observed on smooth electrodes.<xref rid="cssc202100364-bib-0029" ref-type="ref">
+<sup>[29]</sup>
+</xref> The study further showed that the blocking thin film mainly consist of Ca(O<sub>2</sub>)<sub>2</sub>, CaO<sub>2</sub> and CaO (identified by XPS) and is formed on Au and Pt electrodes. In other previous studies we have shown that reliable and clean double layer studies can be performed on Au(111) in aprotic solvents (e.&#x02009;g., pzc measurements).<xref rid="cssc202100364-bib-0030" ref-type="ref">
+<sup>[30]</sup>
+</xref>
+</p></sec><sec id="cssc202100364-sec-0002"><title>Experimental Section</title><sec id="cssc202100364-sec-0003"><title>Electrodes</title><p>The gold electrodes used in this study had a diameter of 1&#x02005;cm resulting in a geometrical surface area of 0.785&#x02005;cm<sup>2</sup>, while RRDE disk electrodes had a diameter of 0.5&#x02005;cm and 0.457&#x02005;cm and thus a geometrical surface area of 0.196&#x02005;cm<sup>2</sup> (exchange disk electrode) or 0.164&#x02005;cm<sup>2</sup> (thin gap disk electrode) respectively. Ring electrodes were also made of gold, while the theoretical collection efficiency (<mml:math id="jats-math-10"><mml:msub><mml:mi>N</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:math>
+) was 0.25 for the exchange disk electrode and 0.22 for the thin gap disk electrode.</p></sec><sec id="cssc202100364-sec-0004"><title>RRDE setup</title><p>The RRDE experiments were conducted in a usual H&#x02010;Cell under argon atmosphere. The Au working electrode (WE), Au counter electrode (CE) and Ag reference electrode (RE) were connected to a bipotentiostat (TACUSSEL BIPAD B1), while electrode rotator was connected to a PINE rotation control. Counter electrode was a gold sheet and the reference electrode was a silver wire immersed into 0.1&#x02005;<sc>m</sc> AgNO<sub>3</sub> containing DMSO. Disc currents were normalized to the geometrical surface area of the disk electrode (<mml:math id="jats-math-11"><mml:msubsup><mml:mi>A</mml:mi><mml:mrow><mml:mi mathvariant="normal">g</mml:mi><mml:mi mathvariant="normal">e</mml:mi><mml:mi mathvariant="normal">o</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">d</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mi mathvariant="normal">s</mml:mi><mml:mi mathvariant="normal">k</mml:mi></mml:mrow></mml:msubsup></mml:math>
+); ring currents were normalized not only to the collection efficiency<mml:math id="jats-math-12"><mml:mrow><mml:mspace width="4pt"/><mml:msub><mml:mi>N</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:math>
+but also to the geometrical surface area of the disk electrode (<mml:math id="jats-math-13"><mml:msubsup><mml:mi>A</mml:mi><mml:mrow><mml:mi mathvariant="normal">g</mml:mi><mml:mi mathvariant="normal">e</mml:mi><mml:mi mathvariant="normal">o</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">d</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mi mathvariant="normal">s</mml:mi><mml:mi mathvariant="normal">k</mml:mi></mml:mrow></mml:msubsup></mml:math>
+) for 1 to 1 comparability.</p></sec><sec id="cssc202100364-sec-0005"><title>DEMS setup</title><p>DEMS measurements were conducted using a dual thin&#x02010;layer flow&#x02010;through cell, where WE, CE and RE were connected to a homebuilt bipotentiostat. The electrolyte outlet was connected to a peristaltic pump (SPETEL Perimax). The CEs were gold wires and the RE was a silver wire immersed into 0.1&#x02005;<sc>m</sc> AgNO<sub>3</sub> in DMSO. The RE was contacted to the working electrolyte via a Teflon tube (sealed with a rough glass bead) filled with the silver containing solution. The end of the glass bead was immersed into the working electrolyte, while the open end was immersed into the RE electrolyte. The size of the thin&#x02010;layer compartment of the WE and of the compartment of the porous Teflon membrane (serving as the interface to the vacuum) were defined by a Teflon spacer of 200&#x02005;&#x003bc;m and 100&#x02005;&#x003bc;m thickness and a diameter of 6&#x02005;mm (electrode area of 0.283&#x02005;cm<sup>2</sup>), as in our previous study.<xref rid="cssc202100364-bib-0028" ref-type="ref">
+<sup>[28]</sup>
+</xref> More detailed information about the DEMS setup and the dual thin&#x02010;layer cell can be found elsewhere.[<xref rid="cssc202100364-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref>, <xref rid="cssc202100364-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref>, <xref rid="cssc202100364-bib-0032" ref-type="ref">
+<sup>32</sup>
+</xref>, <xref rid="cssc202100364-bib-0033" ref-type="ref">
+<sup>33</sup>
+</xref>, <xref rid="cssc202100364-bib-0034" ref-type="ref">
+<sup>34</sup>
+</xref>] The faradaic current in DEMS measurements was smoothed using the Savitzky&#x02010;Golay method (100&#x02005;mV window) to account for the periodic signal caused by the peristaltic pump.</p></sec><sec id="cssc202100364-sec-0006"><title>AFM setup</title><p>A disc&#x02010;type Au(111) single crystal (diameter: 10&#x02005;mm; thickness: 3&#x02005;mm) purchased from MaTecK GmbH was used as working electrode. Gold and platinum wires were used as counter and quasi&#x02010;reference (Pt/PtO) electrodes, respectively. The standard sealed chamber (Agilent 5500) was purged with Ar before transferring the AFM cell. After the AFM&#x02010;cell filled with electrolyte was loaded on the AFM, Ar was purged for around 10&#x02005;min because the AFM&#x02010;cell was exposed to the atmosphere during assembling and transfer. O<sub>2</sub> was purged during the experiment to maintain the concentration of oxygen in the electrolyte (100&#x02009;% oxygen saturation). Sharp silicon tips (PPP&#x02010;CONTSC, tip radius &#x0003c;10&#x02005;nm) were used with normal spring constants of 0.1&#x000b1;0.05&#x02005;N/m. For AFM measurements the single crystals were prepared by flame annealing.</p></sec><sec id="cssc202100364-sec-0007"><title>Electrode cleaning</title><p>Prior to any experiment, the electrodes were cycled in 0.5&#x02005;<sc>m</sc> H<sub>2</sub>SO<sub>4</sub> until the well&#x02010;known shape of the cyclic voltammogram (CV) could be observed. In case of contaminations, the electrodes were cleaned further. The gold electrodes were oxidized in 0.5&#x02005;M H<sub>2</sub>SO<sub>4</sub> until the surface was covered by gold oxide. Then the formed gold oxide was removed in concentrated hydrochloric acid. After the cleaning procedure, the voltammetry was checked again to exclude remained contamination.[<xref rid="cssc202100364-bib-0035" ref-type="ref">
+<sup>35</sup>
+</xref>, <xref rid="cssc202100364-bib-0036" ref-type="ref">
+<sup>36</sup>
+</xref>]</p></sec><sec id="cssc202100364-sec-0008"><title>Preparation of single crystals</title><p>The single crystals were cleaned as described above and annealed in a N<sub>2</sub>&#x02010;purged induction heat cell afterwards. After the annealing, the crystals cooled down in the same cell above N<sub>2</sub>&#x02010;saturated Milli&#x02010;Q water.[<xref rid="cssc202100364-bib-0035" ref-type="ref">
+<sup>35</sup>
+</xref>, <xref rid="cssc202100364-bib-0036" ref-type="ref">
+<sup>36</sup>
+</xref>] Upon reaching room temperature, the electrodes were characterized in H<sub>2</sub>SO<sub>4</sub> once every day prior to an experiment to proof the setup. When the setup showed good performance, the electrodes were again prepared and transferred to the experimental setup.</p><p>The electrode roughening and the single crystal preparation procedures were the same as in an earlier publication.<xref rid="cssc202100364-bib-0028" ref-type="ref">
+<sup>[28]</sup>
+</xref> The electrode roughness of polycrystalline electrodes equals one unless stated otherwise. The single crystals used for AFM experiments were prepared by flame annealing.</p></sec><sec id="cssc202100364-sec-0009"><title>Chemicals</title><p>Calcium perchlorate tetrahydrate (99&#x02009;%, Sigma Aldrich) was dried (8&#x02005;h) under reduced pressure to obtain a white powder of anhydrous Ca(ClO<sub>4</sub>)<sub>2</sub>. Tetrabutylammonium perchlorate (&#x02265;99&#x02009;%, Sigma Aldrich), silver nitrate (99&#x02009;%, CHEMPUR), and Dimethyl sulfoxide (99.7&#x02009;%, extra dry, over molecular sieve) were used as received. DMSO, CaClO<sub>4</sub> and TBAClO<sub>4</sub> were stored inside an <italic>MBraun</italic> glovebox under argon atmosphere. For purging and electrolyte saturation argon (99.999&#x02009;%, Air liquide), nitrogen (99.999&#x02009;%, Air liquide), oxygen (99.9995&#x02009;%, Air liquide) and argon oxygen mixture (80&#x02009;%/20&#x02009;%, Air liquide) were used.</p></sec></sec><sec id="cssc202100364-sec-0010"><title>Results</title><sec id="cssc202100364-sec-0011"><title>Investigations in resting/quiescent solution</title><p>We already reported that the oxygen reduction reaction (ORR) in Ca<sup>2+</sup>&#x02010;containing DMSO on Pt, Rh, Glassy Carbon and Ru leads to a large extend to the formation of soluble Ca(O<sub>2</sub>)<sub>2</sub> whereas on gold electrodes, the oxygen reduction reaction leads to the formation of soluble CaO<sub>2</sub>.<xref rid="cssc202100364-bib-0021" ref-type="ref">
+<sup>[21]</sup>
+</xref> To further understand the effect of the electrode and the electrode surface structure concerning the ORR, experiments on gold single and poly crystals were conducted.</p><p>Figure&#x02005;<xref rid="cssc202100364-fig-0001" ref-type="fig">1</xref> shows the first cyclic voltammogram of single crystalline and polycrystalline gold electrodes in (20&#x02009;% O<sub>2</sub>+80&#x02009;% Ar)&#x02010;saturated 0.1&#x02005;<sc>m</sc> Ca(ClO<sub>4</sub>)<sub>2</sub> containing DMSO vs Ag/Ag<sup>+</sup> at 10&#x02005;mV&#x02009;s<sup>&#x02212;1</sup> after immersion at &#x02212;0.5&#x02005;V. Starting in cathodic direction, the absolute value of the current density increases to a maximum close to &#x02212;1.0&#x02005;V for the polycrystalline gold electrode. In case of Au(111) the feature at &#x02212;1.0&#x02005;V appears as a shoulder prior to a peak close to &#x02212;1.25&#x02005;V. In case of Au(100) no such feature close to &#x02212;1.0&#x02005;V is visible as the current increases to a maximum close to &#x02212;1.15&#x02005;V. After the maxima the current decreases, while in case of Au(111) and Au(100) a shoulder is visible in the decreasing current. Furthermore, the ORR onset in case of Au(111) is slightly shifted positive compared to Au(100) and Au(pc), which almost overlap during the ORR onset. After going to zero in anodic direction, the oxidation starts with a shoulder at &#x02212;0.14&#x02005;V, followed by a broad peak of low current in case of Au(100), a sharp peak of slightly larger current in case of Au(111) and a broad peak with a much larger current in case of Au(pc). After the change in sweep direction at 0.5&#x02005;V, the current decays monotonously to zero in case of Au(111) and Au(100). In case of Au(pc) the current increases again to a maximum close to 0.25&#x02005;V before it decreases to zero.
+</p><fig fig-type="Figure" xml:lang="en" id="cssc202100364-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>The first recorded cyclic voltammogram for single crystalline and polycrystalline gold electrodes at 10&#x02005;mV&#x02009;s<sup>&#x02212;1</sup> in (20&#x02009;% O<sub>2</sub>+80&#x02009;% Ar)&#x02010;saturated 0.1&#x02005;<sc>m</sc> Ca(ClO<sub>4</sub>)<sub>2</sub> containing DMSO after immersion at &#x02212;0.5&#x02005;V vs Ag/Ag<sup>+</sup>. The current is normalized to the geometrical surface area. Inset shows OER region more detailed. The polycrystalline electrode was prepared/annealed like the single crystals. Only the 1<sup>st</sup> sweep is shown because of probable changes in the surface structure in subsequent scans (see the Supporting Information).</p></caption><graphic id="jats-graphic-3" xlink:href="CSSC-14-2564-g003"/></fig><p>Calculating the theoretical ORR peak current density for this system with the Randles&#x02013;Sevcik equation for reversible (or totally irreversible) processes (See the Supporting Information) leads to 153.5&#x02005;&#x003bc;A&#x02009;cm<sup>&#x02212;2</sup> (or 85.5&#x02005;&#x003bc;A&#x02009;cm<sup>&#x02212;2</sup> for <mml:math id="jats-math-14"><mml:msub><mml:mi>z</mml:mi><mml:mi>&#x003b1;</mml:mi></mml:msub></mml:math>
+=1, 120.9&#x02005;&#x003bc;A&#x02009;cm<sup>&#x02212;2</sup> for <mml:math id="jats-math-15"><mml:msub><mml:mi>z</mml:mi><mml:mi>&#x003b1;</mml:mi></mml:msub></mml:math>
+=2) for a two electron process and for a one electron process 54.5&#x02005;&#x003bc;A&#x02009;cm<sup>&#x02212;2</sup> (or 42.7&#x02005;&#x003bc;A&#x02009;cm<sup>&#x02212;2</sup> for <mml:math id="jats-math-16"><mml:msub><mml:mi>z</mml:mi><mml:mi>&#x003b1;</mml:mi></mml:msub></mml:math>
+=1), where <mml:math id="jats-math-17"><mml:msub><mml:mi>z</mml:mi><mml:mi>&#x003b1;</mml:mi></mml:msub></mml:math>
+is the number of electrons transferred in the rds. The comparison with the experimental values which are larger than 100&#x02005;&#x003bc;A&#x02009;cm<sup>&#x02212;2</sup> indicates peroxide as main product. Combining this fact with the lower number of defects in single crystalline surfaces compared to poly crystalline surfaces, explains the observed differences in ORR and OER current: Thus, the nucleation of CaO<sub>2</sub> (or possibly CaO) is hindered at both Au(111) and Au(100) surfaces but facile at Au(pc) surfaces. This leads to a faster decay in ORR current at Au(pc) electrodes and a larger OER current, owing to increased deposition of CaO<sub>2</sub> on the electrode surface as compared to Au(111) and Au(100). This also explains the much higher oxidation charge of ca. 1860&#x02005;&#x003bc;C&#x02009;cm<sup>&#x02212;2</sup> at the polycrystalline surface as compared to the single crystal surfaces.</p></sec><sec id="cssc202100364-sec-0012"><title>Atomic force microscopy (AFM) investigations</title><p>To further investigate the adsorbate/deposit an in&#x02005;situ AFM measurement was conducted in 0.1&#x02005;<sc>m</sc> Ca(ClO<sub>4</sub>)<sub>2</sub> containing DMSO on Au(111). Figure&#x02005;<xref rid="cssc202100364-fig-0002" ref-type="fig">2</xref>a shows the CV in the AFM cell.
+</p><fig fig-type="Figure" xml:lang="en" id="cssc202100364-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>a)&#x02005;Voltammetry of Au(111) in an AFM&#x02010;cell at 5&#x02005;mV&#x02009;s<sup>&#x02212;1</sup> in 0.1&#x02005;<sc>m</sc> Ca(ClO<sub>4</sub>)<sub>2</sub> containing DMSO (100&#x02009;% oxygen saturated). b&#x02013;i)&#x02005;In situ AFM images show the topography on Au(111) in the indicated potential ranges upon discharge (b&#x02013;e) and on charging (f&#x02013;i); all potentials refer to Ag/Ag<sup>+</sup>. The inset in (i) shows the height profile. The color code (AFM&#x02010;frame and CV&#x02010;line) denotes the actual potential region. The arrow in the AFM images indicate the scan direction. Integral and proportional gains were 6 and 7, respectively. Scan size was 2&#x000d7;2&#x02005;&#x003bc;m<sup>2</sup> and the scan rate was 19&#x02005;nm&#x02009;s<sup>&#x02212;1</sup>.</p></caption><graphic id="jats-graphic-5" xlink:href="CSSC-14-2564-g005"/></fig><p>Figure&#x02005;<xref rid="cssc202100364-fig-0002" ref-type="fig">2</xref>b shows that prior to ORR large and clean terraces can be observed between 0.0&#x02005;V and &#x02212;0.15&#x02005;V vs. Ag/Ag<sup>+</sup>. When the potential passed the onset of ORR, some particles are deposited on the surface appearing as noise in the Figure&#x02005;<xref rid="cssc202100364-fig-0002" ref-type="fig">2</xref>c and these particles grow to a dense layer upon sweeping more negative than &#x02212;0.8&#x02005;V vs. Ag/Ag<sup>+</sup> (Figure&#x02005;<xref rid="cssc202100364-fig-0002" ref-type="fig">2</xref>d,e). Then continuing in anodic direction after the negative potential limit of &#x02212;1.27&#x02005;V vs. Ag/Ag<sup>+</sup>, the particles seem to grow continuously until a potential of &#x02212;0.5&#x02005;V vs. Ag/Ag<sup>+</sup> is attained. The apparent growth of the particles during the anodic scan indicates a further deposition of solid CaO<sub>2</sub> (that this is really CaO<sub>2</sub> will be shown below) from <mml:math id="jats-math-18"><mml:msubsup><mml:mi mathvariant="normal">O</mml:mi><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>2</mml:mn><mml:mo>-</mml:mo></mml:mrow></mml:msubsup></mml:math>
+directly formed at the electrode or formed via disproportionation of the dissolved superoxide (formed at the most negative potentials). Ostwald ripening might also play a role. While sweeping the potential from &#x02212;0.5&#x02005;V to &#x02212;0.1&#x02005;V vs. Ag/Ag<sup>+</sup>, the interaction between the AFM tip and the electrode surface became unstable and the tip was retracted. The subsequent images therefore were recorded at a different position. Figure&#x02005;<xref rid="cssc202100364-fig-0002" ref-type="fig">2</xref>h was recorded after re&#x02010;approaching the tip. It is remarkable that the size of the particles is reduced at a more positive potential than &#x02212;0.5&#x02005;V vs. Ag/Ag<sup>+</sup>. We assume that the dissolution of peroxide leads to the reduced size, but this may also be caused by the shift in the scanned area. Figure&#x02005;<xref rid="cssc202100364-fig-0002" ref-type="fig">2</xref>i shows that the deposited particles seem to quickly dissolve at the potential of OER without any appreciable charge flow and the inset shows that the height of the deposited layer is around 30&#x02005;nm. Furthermore, in a similar experiment (Figure&#x02005;S1), the potential was stopped at &#x02212;0.65&#x02005;V vs. Ag/Ag<sup>+</sup> (ca. &#x02212;0.55&#x02005;V vs. Pt/PtO) (after ORR) and images were taken every 3&#x02005;min. After 6&#x02005;min, the particles formed during ORR were gone during the scan. This observation further demonstrates the slow dissolution of the formed particles without oxidation and also explains that hardly any charge is flowing during the dissolution in Figure&#x02005;<xref rid="cssc202100364-fig-0002" ref-type="fig">2</xref>i. Note that the dissolution of the particles might have been accelerated by the scanning tip (e.&#x02009;g., by induced convection by moving AFM tip). This measurement clarified that a bulk layer of CaO<sub>2</sub> forms at the electrode in the absence of convection, but slowly dissolves without oxidation. However, at this point it is not yet clear whether the thick layer is the reason for the blockade of the electrode.</p></sec><sec id="cssc202100364-sec-0013"><title>Investigations under flow&#x02010;through conditions using differential electrochemical mass spectrometry</title><p>Differential electrochemical mass spectrometry (DEMS) provides information about the product distribution, the consumption and generation of volatile species and furthermore the number of transferred electrons during ORR and OER after a calibration measurement.</p><p>Figure&#x02005;<xref rid="cssc202100364-fig-0003" ref-type="fig">3</xref>a shows the cyclic voltammetry (second cycle) of polycrystalline and single crystalline Au electrodes in 0.4&#x02005;<sc>m</sc> Ca(ClO<sub>4</sub>)<sub>2</sub> containing DMSO saturated with (20&#x02009;% O<sub>2</sub>+80&#x02009;% Ar), together with the ion current for mass 32 (O<sub>2</sub>; Figure&#x02005;<xref rid="cssc202100364-fig-0003" ref-type="fig">3</xref>b).
+</p><fig fig-type="Figure" xml:lang="en" id="cssc202100364-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>a)&#x02005;Cyclic voltammetry of single&#x02010; and polycrystalline gold electrodes in (20&#x02009;% O<sub>2</sub>+80&#x02009;% Ar)&#x02010;saturated 0.4&#x02005;<sc>m</sc> Ca(ClO<sub>4</sub>)<sub>2</sub> containing DMSO at 10&#x02005;mV&#x02009;s<sup>&#x02212;1</sup>) and 5&#x02005;&#x003bc;l&#x02009;s<sup>&#x02212;1</sup> flow rate using a thin&#x02010;layer flow&#x02010;through cell. b)&#x02005;Potential&#x02010;dependent ion current for mass 32 (O<sub>2</sub>) for single&#x02010; and polycrystalline gold electrodes.</p></caption><graphic id="jats-graphic-7" xlink:href="CSSC-14-2564-g006"/></fig><p>The absolute faradaic current increases to a plateau for the diffusion&#x02010;limited formation of predominantly CaO<sub>2</sub>, indicated by the number of transferred electrons (Figure&#x02005;<xref rid="cssc202100364-fig-0004" ref-type="fig">4</xref>). The number of transferred electrons starts from <italic>Z</italic>&#x02248;2 (in case of Au(111) <italic>Z</italic>&#x02248;1.7) at &#x02212;1.1&#x02005;V and stays constant during the remaining cathodic sweep. This in combination with the fact, that almost no reoxidation current is observed, leads to the assumption, that predominantly soluble CaO<sub>2</sub> is formed during the ORR on all gold electrodes, as already suggested in Ref.&#x02005;[21]. No strong effect of the single crystal surface structure is observed (only in case of Au(111), the number of transferred electrons during ORR is slightly lower compared to Au(100)/Au(pc); this effect might be due to a slight change in calibration constant of the spectrometer).
+</p><fig fig-type="Figure" xml:lang="en" id="cssc202100364-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Potential&#x02010;dependent number of transferred electrons per O<sub>2</sub> during the ORR in cathodic direction for single&#x02010; and polycrystalline gold electrodes in (20&#x02009;% O<sub>2</sub>+80&#x02009;% Ar)&#x02010;saturated 0.4&#x02005;<sc>m</sc> Ca(ClO<sub>4</sub>)<sub>2</sub> containing DMSO at 10&#x02005;mV&#x02009;s<sup>&#x02212;1</sup> and 5&#x02005;&#x003bc;l&#x02009;s<sup>&#x02212;1</sup> flow rate using a thin&#x02010;layer flow&#x02010;through cell.</p></caption><graphic id="jats-graphic-9" xlink:href="CSSC-14-2564-g011"/></fig><p>Comparing the ORR during cathodic and anodic sweep one observes a hysteresis, indicating a change in electrode activity, whereas for polycrystalline gold electrodes the hysteresis is smaller. This is plausible, as we assume the formation of an insoluble (adsorbed) CaO<sub>2</sub>/CaO layer on the electrode surface (this will be discussed in detail in the RRDE chapter below). This hysteresis was already found when comparing gold with Glassy Carbon in Ca<sup>2+</sup>&#x02010;containing DMSO.<xref rid="cssc202100364-bib-0021" ref-type="ref">
+<sup>[21]</sup>
+</xref> As already observed in Figure&#x02005;<xref rid="cssc202100364-fig-0001" ref-type="fig">1</xref>, also under the conditions of Figure&#x02005;<xref rid="cssc202100364-fig-0003" ref-type="fig">3</xref> the peroxide reoxidation is not finished at the end of the anodic scan, but continues after potential reversal.</p><p>The effect of electrode roughness is shown in Figure&#x02005;<xref rid="cssc202100364-fig-0005" ref-type="fig">5</xref>. Overall, the cyclic voltammetry for Au does not change much with increasing roughness. The hysteresis is reduced, indicating less blocking for rougher electrodes. In the OER region, an oxidation peak only is clearly visible for the highest roughness factor. For all electrode roughness factors, the maximum absolute (limiting) current during the ORR remains the same, indicating that the CaO<sub>2</sub> formation really is diffusion limited. The half&#x02010;wave potential of the ORR shifts positively with increasing electrode roughness, owing to the increasing effective rate constant; this will be further analyzed below.
+</p><fig fig-type="Figure" xml:lang="en" id="cssc202100364-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>a)&#x02005;Cyclic voltammetry of roughened polycrystalline gold electrodes in (20&#x02009;% O<sub>2</sub>+80&#x02009;% Ar)&#x02010;saturated 0.4&#x02005;<sc>m</sc> Ca(ClO<sub>4</sub>)<sub>2</sub> containing DMSO at 10&#x02005;mV&#x02009;s<sup>&#x02212;1</sup> and 5&#x02005;&#x003bc;l&#x02009;s<sup>&#x02212;1</sup> flow rate vs Ag/Ag<sup>+</sup> using a thin&#x02010;layer flow&#x02010;through cell. b)&#x02005;Potential&#x02010;dependent ion current for mass 32 (O<sub>2</sub>).</p></caption><graphic id="jats-graphic-11" xlink:href="CSSC-14-2564-g007"/></fig><p>Figure&#x02005;<xref rid="cssc202100364-fig-0006" ref-type="fig">6</xref> shows the potential&#x02010;dependent number of transferred electrons for the roughened gold electrodes. The number of transferred electrons constantly stays above a value of 1.7, indicating that the two&#x02010;electron process is predominant during the whole ORR on gold surfaces.
+</p><fig fig-type="Figure" xml:lang="en" id="cssc202100364-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Potential&#x02010;dependent number of transferred electrons per O<sub>2</sub> during the ORR in cathodic direction for roughened gold electrodes in (20&#x02009;% O<sub>2</sub>+80&#x02009;% Ar)&#x02010;saturated 0.4&#x02005;<sc>m</sc> Ca(ClO<sub>4</sub>)<sub>2</sub> containing DMSO at 10&#x02005;mV&#x02009;s<sup>&#x02212;1</sup> and 5&#x02005;&#x003bc;L&#x02009;s<sup>&#x02212;1</sup> flow rate using a thin&#x02010;layer flow&#x02010;through cell.</p></caption><graphic id="jats-graphic-13" xlink:href="CSSC-14-2564-g009"/></fig></sec><sec id="cssc202100364-sec-0014"><title>Rotating ring disk electrode (RRDE) investigations</title><p>To demonstrate the effect of higher convection and different roughness factors, Figure&#x02005;<xref rid="cssc202100364-fig-0007" ref-type="fig">7</xref> shows RRDE experiments for polycrystalline gold electrodes in (20&#x02009;% O<sub>2</sub>+80&#x02009;% Ar)&#x02010;saturated 0.1&#x02005;<sc>m</sc> Ca(ClO<sub>4</sub>)<sub>2</sub> containing DMSO. For higher roughness factors, the CV shape is similar to the DEMS case in the previous chapter; the ORR starts around &#x02212;0.8&#x02005;V in cathodic direction with peroxide formation. However, in case of the lowest electrode roughness (Figure&#x02005;<xref rid="cssc202100364-fig-0007" ref-type="fig">7</xref>a), the decreasing reduction current indicates a transition from peroxide to superoxide formation. This transition from the 2&#x02005;e<sup>&#x02212;</sup> reduction to a 1&#x02005;e<sup>&#x02212;</sup> reduction had been found before and explained by the formation of a CaO/CaO<sub>2</sub> adsorbate layer, which had also been characterized by XPS.<xref rid="cssc202100364-bib-0029" ref-type="ref">
+<sup>[29]</sup>
+</xref> The ORR is accompanied by an increase in ring current, which is astonishingly low as long as peroxide is the main product. This is visible in Figure&#x02005;<xref rid="cssc202100364-fig-0007" ref-type="fig">7</xref>b as shoulder (ca. &#x02212;1.2&#x02005;V) in the ring current and in Figure&#x02005;<xref rid="cssc202100364-fig-0007" ref-type="fig">7</xref>e,h as plateau during ORR.
+</p><fig fig-type="Figure" xml:lang="en" id="cssc202100364-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Cyclic voltammetry of roughened gold electrodes (exchange disk electrodes) in (20&#x02009;% O<sub>2</sub>+80&#x02009;% Ar)&#x02010;saturated 0.1&#x02005;<sc>m</sc> Ca(ClO<sub>4</sub>)<sub>2</sub> containing DMSO at 20&#x02005;mV&#x02009;s<sup>&#x02212;1</sup>, E<sub>ring</sub>=0.4&#x02005;V and 4&#x02013;16&#x02005;Hz rotation frequency vs Ag/Ag<sup>+</sup> using a usual H&#x02010;cell. Disk current density is shown in (a), (d), and (g). The ring current (b,e,h) is normalized to the collection efficiency <mml:math id="jats-math-19"><mml:msub><mml:mi>N</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:math>
+and <mml:math id="jats-math-20"><mml:msubsup><mml:mi>A</mml:mi><mml:mrow><mml:mi mathvariant="normal">g</mml:mi><mml:mi mathvariant="normal">e</mml:mi><mml:mi mathvariant="normal">o</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">d</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mi mathvariant="normal">s</mml:mi><mml:mi mathvariant="normal">k</mml:mi></mml:mrow></mml:msubsup></mml:math>
+. The anodic signal is magnified in (c), (f), and (i), and the dashed grey line denotes 0&#x02005;V.</p></caption><graphic id="jats-graphic-15" xlink:href="CSSC-14-2564-g013"/></fig><p>The ring current due to <mml:math id="jats-math-21"><mml:msubsup><mml:mi mathvariant="normal">O</mml:mi><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mo>-</mml:mo></mml:msubsup></mml:math>
+reoxidation at the lower potential limit corresponds to that expected from the disc current. The ring current caused by re&#x02010;oxidation of the generated peroxide does not increase with rotation frequency but decreases with time. This will be addressed further below. During the anodic scan only a small current for the OER is observed at the disk electrode visible in Figure&#x02005;<xref rid="cssc202100364-fig-0007" ref-type="fig">7</xref>c,f,i. With increasing electrode roughness, the overall current during the anodic scan increases, especially below 0&#x02005;V. In Figure&#x02005;<xref rid="cssc202100364-fig-0007" ref-type="fig">7</xref>c,f,I, the anodic peak above 0&#x02005;V increases with increasing rotation frequency, whereas in Figure&#x02005;<xref rid="cssc202100364-fig-0007" ref-type="fig">7</xref>i the current below 0&#x02005;V decreases with increasing rotation frequency (cf. remark B in the Supporting Information).</p><p>Figure&#x02005;<xref rid="cssc202100364-fig-0008" ref-type="fig">8</xref> shows a plot of inverse limited ORR current vs inverse square root of rotation frequency taken from Figure&#x02005;<xref rid="cssc202100364-fig-0007" ref-type="fig">7</xref>d. The plot shows that the ORR at electrodes with <italic>f</italic>
+<sub>R</sub>&#x02265;53 really is diffusion limited, as the fit deviates very little from a fit going through the origin. Using the dynamic viscosity of DMSO<xref rid="cssc202100364-bib-0037" ref-type="ref">
+<sup>[37]</sup>
+</xref> a diffusion coefficient of 2.48&#x000d7;10<sup>&#x02212;5</sup>cm<sup>2</sup>&#x02005;s<sup>&#x02212;1</sup> is obtained from the slope. This value is close to those obtained by a non&#x02010;electrochemical method for 0.1&#x02005;<sc>m</sc> solutions of Li<sup>+</sup>, Na<sup>+</sup>, K<sup>+</sup>, Rb<sup>+</sup>, Cs<sup>+</sup> and TBA<sup>+</sup> in DMSO.[<xref rid="cssc202100364-bib-0038" ref-type="ref">
+<sup>38</sup>
+</xref>, <xref rid="cssc202100364-bib-0039" ref-type="ref">
+<sup>39</sup>
+</xref>] Here, we used this method, in which the rate of diffusion of a volatile species through a thin, liquid layer between two membranes is determined by mass spectrometric detection for our 0.1&#x02005;<sc>m</sc> Ca<sup>2+</sup>&#x02010;containing DMSO. We obtained <mml:math id="jats-math-22"><mml:msub><mml:mi>D</mml:mi><mml:msub><mml:mi mathvariant="normal">O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:msub></mml:math>
+=2.18&#x000d7;10<sup>&#x02212;5</sup>cm<sup>2</sup>&#x02005;s<sup>&#x02212;1</sup>, which is in good agreement with the value obtained from electrochemical RDE measurements.
+</p><fig fig-type="Figure" xml:lang="en" id="cssc202100364-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>Plot of the inverse diffusion&#x02010;limited current (at &#x02212;1.25&#x02005;V for f<sub>R</sub>=53; Figure&#x02005;<xref rid="cssc202100364-fig-0007" ref-type="fig">7</xref>d) vs the inverse square root of the rotation frequency (dots), linear fit forced through (0/0) (red line) and best linear fit (blue line) confirming diffusion limitation.</p></caption><graphic id="jats-graphic-17" xlink:href="CSSC-14-2564-g001"/></fig><p>Concerning the decrease of peroxide formation rate during ORR at smooth electrodes and transition to the 1 electron superoxide formation, we had suggested that the electrode is slowly covered by an adsorbate (CaO<sub>2</sub> or CaO), which not only completely blocks peroxide formation, but also inhibits superoxide formation to some extent as it becomes a thin, closed layer.<xref rid="cssc202100364-bib-0029" ref-type="ref">
+<sup>[29]</sup>
+</xref> To confirm this we conducted an RRDE experiment, where the Au electrode was first saturated with this CaO<sub>2</sub>/CaO adsorbate by holding the potential at &#x02212;1.6&#x02005;V during the scan for 5&#x02005;min at 9&#x02005;Hz rotation frequency. As the CaO<sub>2</sub>/CaO layer forms at this potential, superoxide formation becomes predominant as visual by the current decreasing to a constant value of &#x02212;265&#x02005;&#x003bc;A&#x02009;cm<sup>&#x02212;2</sup> (i.&#x02009;e., 50&#x02009;% of the initial current). To exclude a thick layer of CaO<sub>2</sub> deposit as being the reason for the inhibiting effects, the disk potential was then stepped to &#x02212;0.75&#x02005;V (just before ORR region) to dissolve possibly formed multilayers for 10&#x02005;min (still at 9&#x02005;Hz rotation frequency). After this procedure the Au surface is only covered with a CaO<sub>2</sub>/CaO adsorbate layer (as the thick deposit is dissolved) and CVs were recorded starting in cathodic direction, consecutively opening the anodic limit from &#x02212;0.75&#x02005;V to +0.7&#x02005;V (see Figure&#x02005;S2).</p><p>Figure&#x02005;<xref rid="cssc202100364-fig-0009" ref-type="fig">9</xref> is an extract of Figure&#x02005;S2, showing the CV after the Au electrode is covered with this thin, but closed CaO<sub>2</sub>/CaO film starting from the hold potential of &#x02212;0.75&#x02005;V in cathodic direction (dashed line) and a CV (solid line) after the electrode is regenerated during the consecutively opening of the upper potential limit to +0.7&#x02005;V. (Simply cycling to positive potentials (above 0.3&#x02005;V) to desorb the adsorbate layer also would have been sufficient). But the approach used here (Figure&#x02005;S2) further shows that the electrode begins to slowly reactivate as the upper limit reaches 0.3&#x02005;V, which indicates 0.3&#x02005;V as the potential required for CaO<sub>2</sub>/CaO adsorbate oxidation. Note that in the first sweeps up to 0.4&#x02005;V oxidation of this adsorbate is slow and remains incomplete, whereas in subsequent sweeps the maximum current is at 0.25&#x02005;V (peak potential). This indicates a nucleation and growth behavior for the free sites, as observed earlier for Ca<sup>2+</sup> electrolytes on smooth Au electrodes<xref rid="cssc202100364-bib-0029" ref-type="ref">
+<sup>[29]</sup>
+</xref> and for Na<sup>+</sup> electrolytes on smooth Pt (but not on Au).<xref rid="cssc202100364-bib-0040" ref-type="ref">
+<sup>[40]</sup>
+</xref>
+</p><fig fig-type="Figure" xml:lang="en" id="cssc202100364-fig-0009" orientation="portrait" position="float"><label>Figure 9</label><caption><p>Voltammetry of a CaO<sub>2</sub>/O covered (dashed line) and regenerated (solid line) Au (exchange disk) electrode in (20&#x02009;% O<sub>2</sub>+80&#x02009;% Ar)&#x02010;saturated 0.1&#x02005;<sc>m</sc> Ca(ClO<sub>4</sub>)<sub>2</sub> containing DMSO at 20&#x02005;mV&#x02009;s<sup>&#x02212;1</sup> and 9&#x02005;Hz rotation frequency vs Ag/Ag<sup>+</sup> using a usual H&#x02010;cell. The disk current is normalized o the geometrical disk surface area. The disk electrode roughness was f<sub>R</sub>&#x02248;13.</p></caption><graphic id="jats-graphic-19" xlink:href="CSSC-14-2564-g004"/></fig><p>As shown schematically in Figure&#x02005;<xref rid="cssc202100364-fig-0009" ref-type="fig">9</xref>, on top of the CaO<sub>2</sub>/CaO film oxygen is exclusively reduced to superoxide. The continuous reduction is astonishing, as a layer of Li<sub>2</sub>O<sub>2</sub> almost completely inhibits further ORR on Au and Pt electrodes.<xref rid="cssc202100364-bib-0028" ref-type="ref">
+<sup>[28]</sup>
+</xref> As the electrode is regenerated by oxidative stripping, so that oxygen has access to the gold surface, peroxide is formed as predominant product, thus confirming our suggestion. The ring current shown in Figure&#x02005;S2 confirms superoxide (being completely re&#x02010;oxidized) or peroxide (being re&#x02010;oxidized to a small extent) as the main product. A very similar approach for smooth gold electrodes showed a stronger suppression of superoxide formation (Figure&#x02005;S2 and Ref.&#x02005;[29]). This is explained by the influence of the rough surface leading to a more defective CaO<sub>2</sub>/CaO adsorbate.</p><p>The decrease of peroxide formation and transition to superoxide formation is not observed in the DEMS measurements (Figure&#x02005;<xref rid="cssc202100364-fig-0003" ref-type="fig">3</xref>[<xref rid="cssc202100364-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref>, <xref rid="cssc202100364-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref>]). This is due to lower mass transport in the DEMS cell, while the large hysteresis concerning ORR for smooth electrodes in the DEMS cell already is an indication for the formation of the CaO<sub>2</sub>/CaO film, as it is caused by the decrease in electrode activity. Therefore, we assume that the adsorbate layer formation is a slow reaction competitive to the formation of soluble peroxide. This experiment and the corresponding experiment on smooth gold<xref rid="cssc202100364-bib-0029" ref-type="ref">
+<sup>[29]</sup>
+</xref> identify the adsorbate as reason for inhibition of peroxide formation, which persists after slow dissolution of the thicker CaO<sub>2</sub> bulk layer formed during ORR.</p><p>The normalized ring current during peroxide oxidation at the disk electrode (Figure&#x02005;<xref rid="cssc202100364-fig-0007" ref-type="fig">7</xref>b,e,h) is much smaller than expected: it should be larger (oxidation of peroxide to oxygen) or at least as large (oxidation of peroxide to superoxide) as the ring current during superoxide formation. In the following we will show that this is due to sluggish oxidation kinetics by increasing the effective rate of peroxide oxidation at the ring electrode.</p><p>In the first experiment (Figure&#x02005;<xref rid="cssc202100364-fig-0010" ref-type="fig">10</xref>a,b) the ring potential was increased from &#x02212;0.3&#x02005;V to +0.7&#x02005;V. All ring currents increase with increasing ring potential, which indicates kinetic limitations. As already shown in Ref.&#x02005;[21] a minimum potential of 0.3&#x02005;V is required to achieve oxidation of the superoxide at low potentials; higher ring potentials only lead to slightly more efficient re&#x02010;oxidation. The necessity for such a high ring potential to achieve oxidation of superoxide which should be oxidized around &#x02212;0.3&#x02005;V was explained by the formation of a contact ion pair between Ca<sup>2+</sup> and <mml:math id="jats-math-23"><mml:msubsup><mml:mi mathvariant="normal">O</mml:mi><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mo>-</mml:mo></mml:msubsup></mml:math>
+. Anyway, superoxide oxidation is sufficiently fast at a ring potential of 0.3&#x02005;V (or 0.4&#x02005;V as used in the other RRDE measurements). However, oxidation of peroxide is not complete even at 0.7&#x02005;V (note that the normalized ring current should ideally be the same as the disk current). This indicates a very sluggish peroxide oxidation kinetics; increasing the ring potential further would lead to stronger DMSO decomposition/gold dissolution and therefore is not an option. We used another approach in the second experiment (Figure&#x02005;<xref rid="cssc202100364-fig-0010" ref-type="fig">10</xref>c,d). Here the ring electrode was roughened using the same method as for polycrystalline gold disk electrodes leading to a ring electrode roughness of <italic>f</italic>
+<sub>R</sub>&#x02248;32. (The dependence on rotation rate is shown in Figure&#x02005;S3). Thus, the amount of detected peroxide is strongly increased: In Figure&#x02005;<xref rid="cssc202100364-fig-0010" ref-type="fig">10</xref> the ring current now even resembles the shape of the ORR at the disk. This effect of kinetic limitation also explains the independence of the ring current on the rotation frequency (Figure&#x02005;<xref rid="cssc202100364-fig-0007" ref-type="fig">7</xref>e,h), while the deactivation of the ring electrode with time can be explained by slow accumulation of decomposition products (e.&#x02009;g., from DMSO decomposition by singlet&#x02010;oxygen).[<xref rid="cssc202100364-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref>, <xref rid="cssc202100364-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref>, <xref rid="cssc202100364-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref>]
+</p><fig fig-type="Figure" xml:lang="en" id="cssc202100364-fig-0010" orientation="portrait" position="float"><label>Figure 10</label><caption><p>a,b)&#x02005;Cyclic voltammetry of gold (thin gap disk electrode) in (20&#x02009;% O<sub>2</sub>+80&#x02009;% Ar)&#x02010;saturated 0.1&#x02005;<sc>m</sc> Ca(ClO<sub>4</sub>)<sub>2</sub> containing DMSO at 20&#x02005;mV&#x02009;s<sup>&#x02212;1</sup> and 4&#x02005;Hz rotation frequency vs Ag/Ag<sup>+</sup> in a usual H&#x02010;Cell. The disk current (a) is normalized to the geometrical electrode surface area and the ring current (b) is normalized to the theoretical collection efficiency (<italic>N</italic>
+<sub>0</sub>) and the geometrical WE surface area. The ring potential was varied as indicated by the color code. c,d) Cyclic voltammetry of gold (exchange disk electrode) in (20&#x02009;% O<sub>2</sub>+80&#x02009;% Ar)&#x02010;saturated 0.1&#x02005;<sc>m</sc> Ca(ClO<sub>4</sub>)<sub>2</sub> containing DMSO at 20&#x02005;mV&#x02009;s<sup>&#x02212;1</sup> and 4&#x02005;Hz rotation frequency vs Ag/Ag<sup>+</sup> in a usual H&#x02010;Cell. The disk current (c) is normalized to the geometrical electrode surface area and the ring current (d) is normalized to the theoretical collection efficiency (<italic>N</italic>
+<sub>0</sub>) and the geometrical WE surface area. The ring potential was 0.4&#x02005;V. The electrode roughness of the disk electrodes in (c) were <italic>f</italic>
+<sub>R</sub>&#x02248;3 for both, while the ring electrode was polished (dashed line) or roughened (solid line). The arrows (b,d) indicate the sweep direction. Data is smoothed by using the Savitzky&#x02010;Golay method with 25 points of window.</p></caption><graphic id="jats-graphic-21" xlink:href="CSSC-14-2564-g012"/></fig><p>Qualitatively it is already obvious from the size of the peroxide formation current, which is much larger than the oxidation peak at the disc at 0.3&#x02005;V that peroxide does not accumulate at the disc electrode (at least under convection) but rather dissolves. To confirm this more quantitatively, and to separate the superoxide and peroxide contributions, we use Figure&#x02005;<xref rid="cssc202100364-fig-0007" ref-type="fig">7</xref> for <italic>f</italic>
+<sub>R</sub>=3 and introduce the superoxide share <italic>&#x003c7;</italic>. Using the approach shown in the supporting information for the experiment in Figure&#x02005;<xref rid="cssc202100364-fig-0007" ref-type="fig">7</xref>a&#x02013;c, the obtained charge densities (referring to the geometrical surface area) are 6987&#x02005;&#x003bc;C&#x02009;cm<sup>&#x02212;2</sup> (4&#x02005;Hz), 7998&#x02005;&#x003bc;C&#x02009;cm<sup>&#x02212;2</sup> (9&#x02005;Hz) and 8332&#x02005;&#x003bc;C&#x02009;cm<sup>&#x02212;2</sup> (16&#x02005;Hz; this only provides a rough estimate of the peroxide contribution). Comparing these values with the peroxide oxidation charge densities at the disk (evaluated from the anodic and cathodic scan prior to the steep increase in disk current close to the upper potential limit) &#x02013; 1045&#x02005;&#x003bc;C&#x02009;cm<sup>&#x02212;2</sup> (4&#x02005;Hz), 1215&#x02005;&#x003bc;C&#x02009;cm<sup>&#x02212;2</sup> (9&#x02005;Hz) and 1338&#x02005;&#x003bc;C&#x02009;cm<sup>&#x02212;2</sup> (16&#x02005;Hz) &#x02013; it is evident that most of the peroxide that is formed while the adsorbate layer is incomplete is dissolving. The discrepancy between peroxide formation and oxidation charge is even much larger as exclusively peroxide is formed on roughened electrodes. The OER charge on smooth polycrystalline Au electrodes without convection is larger than the values under convection, owing to the contribution of undissolved bulk CaO<sub>2</sub> to OER, which is mostly dissolved under convection.</p><p>In Figure&#x02005;<xref rid="cssc202100364-fig-0005" ref-type="fig">5</xref> and Figure&#x02005;<xref rid="cssc202100364-fig-0007" ref-type="fig">7</xref> one observes a positive shift of ORR half&#x02010;wave potential with increasing electrode roughness. In the DEMS measurement, the shift in half&#x02010;wave potential will not be quantified, as the whole electrode was roughened in a hanging meniscus setup, while only the inner part of the electrode surface has contact to the electrolyte in the DEMS cell. Therefore, only the RRDE experiment is used for further evaluation to avoid uncertainties in electrode roughness. To quantify the half&#x02010;wave potential shift, we start with the current density, which is given by the Kouteck&#x000fd;&#x02010;Levich equation [Equation&#x02005;<xref rid="cssc202100364-disp-0001" ref-type="disp-formula">1</xref>]:<disp-formula id="cssc202100364-disp-0001"><label>(1)</label><mml:math id="jats-math-24"><mml:mstyle displaystyle="true"><mml:mrow><mml:mfrac><mml:mn>1</mml:mn><mml:mi>i</mml:mi></mml:mfrac><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:msub><mml:mi>i</mml:mi><mml:mi mathvariant="normal">D</mml:mi></mml:msub></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:msub><mml:mi>i</mml:mi><mml:mi mathvariant="normal">K</mml:mi></mml:msub></mml:mfrac></mml:mrow></mml:mstyle></mml:math></disp-formula>
+</p><p>with the diffusion&#x02010;limited current density <mml:math id="jats-math-25"><mml:msub><mml:mi>i</mml:mi><mml:mi mathvariant="normal">D</mml:mi></mml:msub></mml:math>
+and kinetic current density <mml:math id="jats-math-26"><mml:msub><mml:mi>i</mml:mi><mml:mi mathvariant="normal">K</mml:mi></mml:msub></mml:math>
+. For a given current density <mml:math id="jats-math-27"><mml:mrow><mml:mi>i</mml:mi><mml:mspace width="4pt"/></mml:mrow></mml:math>
+being a fraction 1/<mml:math id="jats-math-28"><mml:mi>x</mml:mi></mml:math>
+of the diffusion&#x02010;limited current <mml:math id="jats-math-29"><mml:msub><mml:mi>i</mml:mi><mml:mi mathvariant="normal">D</mml:mi></mml:msub></mml:math>
+such as <mml:math id="jats-math-30"><mml:mi>i</mml:mi></mml:math>
+/2 at the half&#x02010;wave potential, Equation&#x02005;(1) gives Equation&#x02005;<xref rid="cssc202100364-disp-0002" ref-type="disp-formula">2</xref>:<disp-formula id="cssc202100364-disp-0002"><label>(2)</label><mml:math id="jats-math-31"><mml:mstyle displaystyle="true"><mml:mrow><mml:mfrac><mml:mi>x</mml:mi><mml:msub><mml:mi>i</mml:mi><mml:mi mathvariant="normal">D</mml:mi></mml:msub></mml:mfrac><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:msub><mml:mi>i</mml:mi><mml:mi mathvariant="normal">D</mml:mi></mml:msub></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:msub><mml:mi>i</mml:mi><mml:mi mathvariant="normal">K</mml:mi></mml:msub></mml:mfrac></mml:mrow></mml:mstyle></mml:math></disp-formula>
+</p><p>After rearranging Equation&#x02005;(2) and inserting the expression for <mml:math id="jats-math-32"><mml:msub><mml:mi>i</mml:mi><mml:mi mathvariant="normal">K</mml:mi></mml:msub></mml:math>
+, this leads to Equation&#x02005;<xref rid="cssc202100364-disp-0003" ref-type="disp-formula">3</xref>:<disp-formula id="cssc202100364-disp-0003"><label>(3)</label><mml:math id="jats-math-33"><mml:mstyle displaystyle="true"><mml:mrow><mml:mi>z</mml:mi><mml:mi>F</mml:mi><mml:mfenced separators="" open="[" close="]"><mml:msub><mml:mi>k</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:msub><mml:mi>f</mml:mi><mml:mi mathvariant="normal">R</mml:mi></mml:msub></mml:mfenced><mml:msup><mml:mrow><mml:mi>e</mml:mi></mml:mrow><mml:mrow><mml:mo>-</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>&#x003b1;</mml:mi><mml:mrow><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">p</mml:mi><mml:mi mathvariant="normal">p</mml:mi></mml:mrow></mml:msub><mml:mi>F</mml:mi><mml:mi>E</mml:mi></mml:mrow><mml:mrow><mml:mi>R</mml:mi><mml:mi>T</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:msup><mml:mo>=</mml:mo><mml:mspace width="4pt"/><mml:mfrac><mml:msub><mml:mi>i</mml:mi><mml:mi mathvariant="normal">D</mml:mi></mml:msub><mml:mrow><mml:mi>x</mml:mi><mml:mo>-</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mi>b</mml:mi></mml:mrow></mml:mstyle></mml:math></disp-formula>
+</p><p>where <mml:math id="jats-math-34"><mml:msub><mml:mi>k</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:math>
+is the rate constant per unit true surface area, <mml:math id="jats-math-35"><mml:msub><mml:mi>f</mml:mi><mml:mi mathvariant="normal">R</mml:mi></mml:msub></mml:math>
+is the roughness factor and <mml:math id="jats-math-36"><mml:msub><mml:mi>&#x003b1;</mml:mi><mml:mrow><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">p</mml:mi><mml:mi mathvariant="normal">p</mml:mi></mml:mrow></mml:msub></mml:math>
+is the apparent cathodic transfer coefficient. Converting the expression leads to Equation&#x02005;<xref rid="cssc202100364-disp-0004" ref-type="disp-formula">4</xref>:<disp-formula id="cssc202100364-disp-0004"><label>(4)</label><mml:math id="jats-math-37"><mml:mstyle displaystyle="true"><mml:mrow><mml:mi>E</mml:mi><mml:mo>=</mml:mo><mml:mspace width="4pt"/><mml:mfrac><mml:mrow><mml:mi>R</mml:mi><mml:mi>T</mml:mi><mml:mi mathvariant="normal">l</mml:mi><mml:mi mathvariant="normal">n</mml:mi><mml:mfenced separators="" open="(" close=")"><mml:msub><mml:mi>f</mml:mi><mml:mi mathvariant="normal">R</mml:mi></mml:msub></mml:mfenced></mml:mrow><mml:mrow><mml:msub><mml:mi>&#x003b1;</mml:mi><mml:mrow><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">p</mml:mi><mml:mi mathvariant="normal">p</mml:mi></mml:mrow></mml:msub><mml:mi>F</mml:mi></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:mi>R</mml:mi><mml:mi>T</mml:mi><mml:mi mathvariant="normal">l</mml:mi><mml:mi mathvariant="normal">n</mml:mi><mml:mfenced separators="" open="(" close=")"><mml:mfrac><mml:mrow><mml:mi>z</mml:mi><mml:mi>F</mml:mi><mml:msub><mml:mi>k</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow><mml:mi>b</mml:mi></mml:mfrac></mml:mfenced></mml:mrow><mml:mrow><mml:msub><mml:mi>&#x003b1;</mml:mi><mml:mrow><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">p</mml:mi><mml:mi mathvariant="normal">p</mml:mi></mml:mrow></mml:msub><mml:mi>F</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:mstyle></mml:math></disp-formula>
+</p><p>As <mml:math id="jats-math-38"><mml:msub><mml:mi>i</mml:mi><mml:mi mathvariant="normal">D</mml:mi></mml:msub></mml:math>
+is independent of <mml:math id="jats-math-39"><mml:mi>E</mml:mi></mml:math>
+and <mml:math id="jats-math-40"><mml:msub><mml:mi>f</mml:mi><mml:mi mathvariant="normal">R</mml:mi></mml:msub></mml:math>
+, this gives the proportionality between the roughness factor and the potential for a constant current density <mml:math id="jats-math-41"><mml:mi>i</mml:mi></mml:math>
+, such as the current at the half&#x02010;wave potential [<mml:math id="jats-math-42"><mml:mrow><mml:mi>x</mml:mi><mml:mo>=</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:math>
+; Eq.&#x02005;<xref rid="cssc202100364-disp-0005" ref-type="disp-formula">5</xref>]:<disp-formula id="cssc202100364-disp-0005"><label>(5)</label><mml:math id="jats-math-43"><mml:mstyle displaystyle="true"><mml:mrow><mml:msub><mml:mi>E</mml:mi><mml:mfrac><mml:mn>1</mml:mn><mml:mn>2</mml:mn></mml:mfrac></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi>R</mml:mi><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:msub><mml:mi>&#x003b1;</mml:mi><mml:mrow><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">p</mml:mi><mml:mi mathvariant="normal">p</mml:mi></mml:mrow></mml:msub><mml:mi>F</mml:mi></mml:mrow></mml:mfrac><mml:mi mathvariant="bold">l</mml:mi><mml:mi mathvariant="bold">n</mml:mi><mml:mfenced separators="" open="(" close=")"><mml:msub><mml:mi>f</mml:mi><mml:mi mathvariant="normal">R</mml:mi></mml:msub></mml:mfenced><mml:mo>+</mml:mo><mml:mi mathvariant="normal">c</mml:mi><mml:mi mathvariant="normal">o</mml:mi><mml:mi mathvariant="normal">n</mml:mi><mml:mi mathvariant="normal">s</mml:mi><mml:mi mathvariant="normal">t</mml:mi><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">n</mml:mi><mml:mi mathvariant="normal">t</mml:mi><mml:mi mathvariant="normal">s</mml:mi></mml:mrow></mml:mstyle></mml:math></disp-formula>
+</p><p>The apparent transfer coefficient (<mml:math id="jats-math-44"><mml:msub><mml:mi>&#x003b1;</mml:mi><mml:mrow><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">p</mml:mi><mml:mi mathvariant="normal">p</mml:mi></mml:mrow></mml:msub></mml:math>
+) can thus be obtained from the slope of <mml:math id="jats-math-45"><mml:msub><mml:mi>E</mml:mi><mml:mfrac><mml:mn>1</mml:mn><mml:mi>x</mml:mi></mml:mfrac></mml:msub></mml:math>
+vs. <mml:math id="jats-math-46"><mml:mrow><mml:mi mathvariant="bold">l</mml:mi><mml:mi mathvariant="bold">n</mml:mi><mml:mfenced separators="" open="(" close=")"><mml:msub><mml:mi>f</mml:mi><mml:mi mathvariant="normal">R</mml:mi></mml:msub></mml:mfenced><mml:mo>.</mml:mo></mml:mrow></mml:math>
+</p><p>Figure&#x02005;<xref rid="cssc202100364-fig-0011" ref-type="fig">11</xref>a shows the plot of the logarithm of the roughness factor vs the ORR potential for <mml:math id="jats-math-47"><mml:mi>i</mml:mi></mml:math>
+being a fraction 1/<mml:math id="jats-math-48"><mml:mi>x</mml:mi></mml:math>
+of <mml:math id="jats-math-49"><mml:msub><mml:mi>i</mml:mi><mml:mi mathvariant="normal">D</mml:mi></mml:msub></mml:math>
+. From the slopes, one obtains reasonable values for the apparent transfer coefficient <mml:math id="jats-math-50"><mml:msub><mml:mi>&#x003b1;</mml:mi><mml:mrow><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">p</mml:mi><mml:mi mathvariant="normal">p</mml:mi></mml:mrow></mml:msub></mml:math>
+(Figure&#x02005;<xref rid="cssc202100364-fig-0011" ref-type="fig">11</xref>b). Figure&#x02005;<xref rid="cssc202100364-fig-0011" ref-type="fig">11</xref>b further shows that approaching the ORR onset, <mml:math id="jats-math-51"><mml:msub><mml:mi>&#x003b1;</mml:mi><mml:mrow><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">p</mml:mi><mml:mi mathvariant="normal">p</mml:mi></mml:mrow></mml:msub></mml:math>
+approaches the value of 0.9, which indicates an initial, equilibrated 1&#x02005;<mml:math id="jats-math-52"><mml:msup><mml:mrow><mml:mi>e</mml:mi></mml:mrow><mml:mo>-</mml:mo></mml:msup></mml:math>
+step, followed by a slow process (e.&#x02009;g., slow formation of the <mml:math id="jats-math-53"><mml:msubsup><mml:mrow><mml:mi mathvariant="normal">C</mml:mi><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">O</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mo>+</mml:mo></mml:msubsup></mml:math>
+ion&#x02010;pair). This is in agreement with the observed Tafel slope of close to 60&#x02005;mV&#x02009;dec<sup>&#x02212;1</sup> for rough electrodes (<italic>f</italic>
+<sub>R</sub>=53 and 81; see Figure&#x02005;S4. At larger overpotentials (or <italic>X</italic>=2) <mml:math id="jats-math-54"><mml:msub><mml:mi>&#x003b1;</mml:mi><mml:mrow><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">p</mml:mi><mml:mi mathvariant="normal">p</mml:mi></mml:mrow></mml:msub></mml:math>
+approaches 0.5 in agreement with the Tafel plot yielding a slope of 120&#x02005;mV Figure&#x02005;S4. This could indicate a transition to a slow 1<sup>st</sup> electron transfer caused by partial blocking of the surface, in particular of active sites, in the course of the potential sweep. Moreover, chemical dissolution of the peroxide formed after the 2<sup>nd</sup> e&#x02010;transfer might be too slow at large overall rates, causing such a blocking only at larger rates and thus higher overpotentials. A preliminary Tafel analysis for electrodes with low <italic>f</italic>
+<sub>R</sub> yields Tafel slopes of 90&#x02005;mV already during the ORR onset caused by the same reason.
+</p><fig fig-type="Figure" xml:lang="en" id="cssc202100364-fig-0011" orientation="portrait" position="float"><label>Figure 11</label><caption><p>a)&#x02005;Plot of <italic>E</italic>
+<sub>1/<italic>x</italic></sub> vs. ln(<italic>f</italic>
+<sub>R</sub>) where squares show <italic>E</italic>
+<sub>1/<italic>x</italic></sub> for <italic>i</italic>=<italic>i</italic>
+<sub>D</sub>/x and dashed lines show linear fit. b)&#x02005;Plot of <mml:math id="jats-math-55"><mml:msub><mml:mi>&#x003b1;</mml:mi><mml:mrow><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">p</mml:mi><mml:mi mathvariant="normal">p</mml:mi></mml:mrow></mml:msub></mml:math>
+vs. <italic>x</italic> (black dots). The arrow indicates approaching the ORR onset and thus the more kinetically controlled region. Measurements were conducted in 0.1&#x02005;<sc>m</sc> Ca(ClO<sub>4</sub>)<sub>2</sub> containing DMSO in an RRDE setup at 9&#x02005;Hz rotation frequency and 20&#x02005;mV&#x02009;s<sup>&#x02212;1</sup> sweep rate.</p></caption><graphic id="jats-graphic-23" xlink:href="CSSC-14-2564-g010"/></fig></sec></sec><sec id="cssc202100364-sec-0015"><title>Discussion</title><p>Collecting the results in this study, we are now able to suggest a consistent mechanism for the ORR mechanism in Ca<sup>2+</sup>&#x02010;containing DMSO on gold and how it changes with electrode roughness (Figure&#x02005;<xref rid="cssc202100364-fig-0012" ref-type="fig">12</xref>).
+</p><fig fig-type="Figure" xml:lang="en" id="cssc202100364-fig-0012" orientation="portrait" position="float"><label>Figure 12</label><caption><p>ORR/OER mechanism in Ca<sup>2+</sup>&#x02010;containing DMSO on Au electrodes.</p></caption><graphic id="jats-graphic-25" xlink:href="CSSC-14-2564-g008"/></fig><p>Regarding the voltammetry we will have a closer look at the ORR and OER separately and define the ORR region from &#x02212;0.8&#x02005;V to &#x02212;1.6&#x02005;V and the OER region from &#x02212;0.5&#x02005;V to 1.0&#x02005;V vs Ag/Ag<sup>+</sup> respectively.</p><sec id="cssc202100364-sec-0016"><title>ORR</title><p>The predominant product during ORR is slightly soluble peroxide formed via an initial 1&#x02005;<mml:math id="jats-math-56"><mml:msup><mml:mrow><mml:mi mathvariant="normal">e</mml:mi></mml:mrow><mml:mo>-</mml:mo></mml:msup></mml:math>
+reduction in equilibrium followed at least by a further 1&#x02005;<mml:math id="jats-math-57"><mml:msup><mml:mrow><mml:mi mathvariant="normal">e</mml:mi></mml:mrow><mml:mo>-</mml:mo></mml:msup></mml:math>
+reduction step, until a complete adsorbate layer of CaO<sub>2</sub>/CaO is formed. Thereafter, superoxide is formed.</p><p>
+<list list-type="bullet" id="cssc202100364-list-0001"><list-item><p>It was already shown in earlier studies and confirmed in this study, that a two electron process accompanied with oxygen consumption is observed below &#x02212;0.8&#x02005;V in the investigated system.[<xref rid="cssc202100364-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref>, <xref rid="cssc202100364-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref>]</p></list-item><list-item><p>The formed peroxide is only slightly soluble: In the absence of convection, it precipitates in a nucleation and growth mechanism at the surface, predominantly at defects; it can slowly dissolve as demonstrated in the AFM experiments, for example. Under convection (which is more severe in the RRDE experiments than in the DEMS experiments) it is completely dissolved and transported to the ring electrode. There, its oxidation is slow and requires high potentials even at rough ring electrodes.</p></list-item><list-item><p>Peroxide formation is initiated by a one electron process (most likely superoxide formation) as indicated by the Tafel slope obtained from the current voltage curves and &#x02013; indirectly &#x02013; from the shift of the half&#x02010;wave potential of ORR with electrode roughness.</p></list-item><list-item><p>In immediate contact with the Au surface is an adsorbed layer of CaO<sub>2</sub> or CaO,<xref rid="cssc202100364-bib-0029" ref-type="ref">
+<sup>[29]</sup>
+</xref> which is also stable after dissolution of bulk CaO<sub>2</sub> and which inhibits further reduction of O<sub>2</sub> to peroxide and therefore leads to the observed change in electrode activity (hysteresis) and transition from peroxide formation to superoxide formation. This assumption of an adsorbate blocking further peroxide formation stems from the small oxidation charge (typically below the charge of 390&#x02005;&#x003bc;C&#x02009;cm<sup>&#x02212;2</sup> (real surface area) corresponding to a monolayer) observed for oxidative stripping of the adsorbate in subsequent anodic sweeps at the RRDE and AFM after waiting for complete dissolution.</p></list-item><list-item><p>After completion of the adsorbate layer soluble superoxide is the predominant product during ORR. At smooth Au, also superoxide formation is blocked 300&#x02005;s after potential stop at &#x02212;1.6&#x02005;V vs Ag/Ag<sup>+</sup>, while on rough electrodes, the current for superoxide formation is larger and limited by diffusion without notable decay within 150&#x02005;s of observation after completion of the adsorbate layer.</p></list-item><list-item><p>The transition of peroxide to superoxide formation is indicated by an increasing ring current in RRDE generator collector experiments because peroxide oxidation at the ring electrode is limited by kinetics and not by diffusion (superoxide has faster oxidation kinetics).</p></list-item><list-item><p>On smooth disk electrodes in RRDE experiments, the superoxide formation is also partially hindered by the CaO<sub>2</sub>/CaO&#x02010;adsorbate layer,<xref rid="cssc202100364-bib-0029" ref-type="ref">
+<sup>[29]</sup>
+</xref> while on rough electrodes this is not the case, indicating a more defective adsorbate and thus more facile conduction.</p></list-item><list-item><p>The electrochemically formed, soluble peroxide and the peroxide possibly formed via disproportionation deposits on the electrode surface as particles, if no convection is present. The particle formation is clearly visible in AFM measurements without convection. So far it is unclear, if the deposit originates from soluble peroxide formed prior completion of the adsorbate layer, from peroxide formed via superoxide disproportionation or both.</p></list-item></list>
+</p></sec><sec id="cssc202100364-sec-0017"><title>OER</title><p>The CaO<sub>2</sub>/CaO&#x02010;adsorbate oxidation starts at potentials from &#x02212;0.5&#x02005;V to 0.3&#x02005;V depending on the degree of adsorbate layer completion.</p><p>
+<list list-type="bullet" id="cssc202100364-list-0002"><list-item><p>At smooth electrodes the adsorbate layer is formed during one cycle under the RRDE measurement conditions in this study, while the anodic peak associated with adsorbate layer oxidation is located around 0.3&#x02005;V. Moreover, for <italic>f</italic>
+<sub>R</sub>=13, after completion of the adsorbate layer, regeneration of the electrode by oxidative stripping of the adsorbate, starts at 0.3&#x02005;V. For very rough electrodes, an anodic current can be observed starting from &#x02212;0.5&#x02005;V, which indicates easier oxidation of the incomplete adsorbate layer, as the layer is not finished during one cycle (indicated by diffusion&#x02010;limited peroxide formation during the ORR on rough electrodes).</p></list-item><list-item><p>Oxidation of the adsorbate layer and of thicker peroxide layers occur at similar potentials.</p></list-item><list-item><p>We had shown before, that oxidation of the superoxide CaO<sub>2</sub>
+<sup>+</sup> (at the ring electrode after formation at the disc) requires overpotentials of more than 0.5&#x02005;V. This had been ascribed to the stabilization of the superoxide by forming a contact ion pair with Ca<sup>2+</sup>. This effect is much more drastic for peroxide oxidation, which requires overpotentials of 1.5&#x02005;V at a smooth ring electrode. This is not really astonishing because the reversible thermodynamic potential of CaO<sub>2</sub>/O<sub>2</sub> is about 1.5&#x02005;V more positive than that of the superoxide Ca(O<sub>2</sub>)<sub>2</sub>/O<sub>2</sub>.<xref rid="cssc202100364-bib-0029" ref-type="ref">
+<sup>[29]</sup>
+</xref> Since superoxide formation can occur only around &#x02212;1&#x02005;V (vs. Ag/Ag<sup>+</sup>), and since peroxide formation involves superoxide as an intermediate, it is the reduction to peroxide which requires a large (negative) overpotential, whereas its reoxidation occurs close to the thermodynamic potential. The question remains whether a catalyst or another solvent could be found for a possible calcium/oxygen battery allowing the direct 2&#x02010;electron reduction to peroxide at a more positive potential than to superoxide in Ca containing electrolytes.</p></list-item></list>
+</p></sec></sec><sec id="cssc202100364-sec-0018"><title>Conclusions</title><p>In this work, we investigated the influence of atomic surface structure and electrode roughness on the ORR in Ca<sup>2+</sup>&#x02010;containing DMSO and thus shed some light on the mechanism of oxygen reduction on gold surfaces. As we have shown, the atomic surface structure has a minor influence on the ORR in presence of convection. We found peroxide as main product during ORR both on single crystalline and polycrystalline gold surfaces as indicated by the number of transferred electrons in DEMS measurements under convection. Concerning the influence of electrode roughness, we found that a rough gold surface allows for continuous peroxide generation under the typical measurement conditions, whereas at smooth electrodes it is soon replaced by superoxide formation. However, under longer ORR without intermediate OER (i.&#x02009;e., oxidative stripping of the blocking adsorbate) peroxide formation is not maintained neither on the rough electrodes; instead, diffusion&#x02010;limited superoxide formation is observed, whereas at the smooth electrode the OER is completely suppressed after some time.</p><p>The reason for this behavior is the formation of a CaO<sub>2</sub> or CaO adsorbate on gold electrodes that inhibits further peroxide formation during ORR as soon as it forms a closed layer; instead, superoxide is formed at defects of this layer. Its formation requires more time at rough electrodes because it competes with peroxide formation and is diffusion limited. (For a roughness of 50, its formation would thus take 50&#x02005;times as long as for a roughness of 1.) At Au single crystal electrodes, on the other hand, its formation is much slower probably because nucleation sites are missing. At smooth electrodes, this adsorbate layer ultimately is sufficiently defect &#x02013; free to also inhibit superoxide formation, whereas at rough electrodes such a poisoning could not be observed. On Pt electrodes, the behavior is somewhat different, as already shown in Ref.&#x02005;[21,&#x02009;22]. This will be examined in more detail in a forthcoming paper.</p><p>The soluble peroxide and superoxide can be oxidized at a collector electrode in a generator collector arrangement (e.&#x02009;g., RRDE), but the kinetics of the reoxidation is slow for superoxide (due to stabilization in an ion pair with Ca<sup>2+</sup>) and even slower for the peroxide. In the absence of convection, the formed peroxide (either via the 2<sup>nd</sup> electron transfer at the electrode surface or possibly via disproportionation of the superoxide in solution) further deposits as CaO<sub>2</sub> particles on top of the CaO<sub>2</sub>/CaO adsorbate layer as indicated by AFM measurements in this study; these experiments also demonstrated that this peroxide can be dissolved.</p><p>Furthermore, we found in DEMS and RRDE measurements a dependency of the half&#x02010;wave potential on electrode roughness as predicted by theory and showed a further RRDE approach to obtain reasonable values for the apparent transfer coefficient (<mml:math id="jats-math-58"><mml:msub><mml:mi>&#x003b1;</mml:mi><mml:mrow><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">p</mml:mi><mml:mi mathvariant="normal">p</mml:mi></mml:mrow></mml:msub></mml:math>
+). Using this approach combined with the Tafel slopes we conclude an initial, equilibrated one electron process followed by a slow process (e.&#x02009;g., slow formation of the <mml:math id="jats-math-59"><mml:msubsup><mml:mrow><mml:mi mathvariant="normal">C</mml:mi><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">O</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mo>+</mml:mo></mml:msubsup></mml:math>
+ion pair). This proves the electrode roughness to be a valuable tool for investigations on kinetics.</p></sec><sec sec-type="COI-statement" id="cssc202100364-sec-0020"><title>Conflict of interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><p>As a service to our authors and readers, this journal provides supporting information supplied by the authors. Such materials are peer reviewed and may be re&#x02010;organized for online delivery, but are not copy&#x02010;edited or typeset. Technical support issues arising from supporting information (other than missing files) should be addressed to the authors.</p></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="CSSC-14-2564-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="cssc202100364-sec-0019"><title>Acknowledgements</title><p>The authors gratefully acknowledge the Federal Ministry of Education and Research (BMBF) for funding this work. This work was part of the MeLuBat project (03XP0110D) and the LuCaMag project (03EK3051A) in the framework of the &#x0201c;Vom Material zur Innovation&#x0201d; initiative. Open access funding enabled and organized by Projekt DEAL.</p></ack><ref-list><ref id="cssc202100364-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0001">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Peng</surname>
+</string-name>, <source xml:lang="en">Angew. Chem. Int. Ed.</source>
+<year>2018</year>, <volume>57</volume>, <fpage>3874</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="cssc202100364-cit-0002">
+<source xml:lang="en">Angew. Chem.</source>
+<year>2018</year>, <volume>130</volume>, <fpage>3963</fpage>&#x02013;<lpage>3949</lpage>.</mixed-citation></ref><ref id="cssc202100364-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0003">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>N.-C.</given-names>
+<surname>Lai</surname>
+</string-name>, <string-name>
+<given-names>Y.-R.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>C.-L.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>Y.-C.</given-names>
+<surname>Lu</surname>
+</string-name>, <source xml:lang="en">Joule</source>
+<year>2018</year>, <volume>2</volume>, <fpage>2364</fpage>.</mixed-citation></ref><ref id="cssc202100364-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0004">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>A. A.</given-names>
+<surname>Franco</surname>
+</string-name>, <source xml:lang="en">J. Phys. Chem. Lett.</source>
+<year>2017</year>, <fpage>599</fpage>.<pub-id pub-id-type="pmid">28076952</pub-id></mixed-citation></ref><ref id="cssc202100364-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0005">
+<string-name>
+<given-names>C. O.</given-names>
+<surname>Laoire</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Mukerjee</surname>
+</string-name>, <string-name>
+<given-names>K. M.</given-names>
+<surname>Abraham</surname>
+</string-name>, <string-name>
+<given-names>E. J.</given-names>
+<surname>Plichta</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Hendrickson</surname>
+</string-name>, <source xml:lang="en">J. Phys. Chem. C</source>
+<year>2010</year>, <volume>114</volume>, <fpage>9178</fpage>.</mixed-citation></ref><ref id="cssc202100364-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0006">
+<string-name>
+<given-names>C.</given-names>
+<surname>Bondue</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Reinsberg</surname>
+</string-name>, <string-name>
+<given-names>A. A.</given-names>
+<surname>Abd-El-Latif</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Baltruschat</surname>
+</string-name>, <source xml:lang="en">Phys. Chem. Chem. Phys.</source>
+<year>2015</year>, <volume>17</volume>, <fpage>25593</fpage>.<pub-id pub-id-type="pmid">26371703</pub-id></mixed-citation></ref><ref id="cssc202100364-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0007">
+<string-name>
+<given-names>C. J.</given-names>
+<surname>Bondue</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Reinsberg</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Baltruschat</surname>
+</string-name>, <source xml:lang="en">Electrochim. Acta</source>
+<year>2017</year>, <volume>245</volume>, <fpage>1035</fpage>.</mixed-citation></ref><ref id="cssc202100364-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0008">
+<string-name>
+<given-names>W.</given-names>
+<surname>Torres</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Mozhzhukhina</surname>
+</string-name>, <string-name>
+<given-names>A. Y.</given-names>
+<surname>Tesio</surname>
+</string-name>, <string-name>
+<given-names>E. J.</given-names>
+<surname>Calvo</surname>
+</string-name>, <source xml:lang="en">J. Electrochem. Soc.</source>
+<year>2014</year>, <volume>161</volume>, <fpage>A2204</fpage>.</mixed-citation></ref><ref id="cssc202100364-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0009">
+<string-name>
+<given-names>C. J.</given-names>
+<surname>Bondue</surname>
+</string-name>, <string-name>
+<given-names>P. P.</given-names>
+<surname>Bawol</surname>
+</string-name>, <string-name>
+<given-names>A. A.</given-names>
+<surname>Abd-El-Latif</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Reinsberg</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Baltruschat</surname>
+</string-name>, <source xml:lang="en">J. Phys. Chem. C</source>
+<year>2017</year>, <volume>121</volume>, <fpage>8864</fpage>.</mixed-citation></ref><ref id="cssc202100364-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0010">
+<string-name>
+<given-names>P.</given-names>
+<surname>Hartmann</surname>
+</string-name>, <string-name>
+<given-names>C. L.</given-names>
+<surname>Bender</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Vracar</surname>
+</string-name>, <string-name>
+<given-names>A. K.</given-names>
+<surname>D&#x000fc;rr</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Garsuch</surname>
+</string-name>, <string-name>
+<given-names>J. r.</given-names>
+<surname>Janek</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Adelhelm</surname>
+</string-name>, <source xml:lang="en">Nat. Mater.</source>
+<year>2013</year>, <volume>12</volume>, <fpage>228</fpage>.<pub-id pub-id-type="pmid">23202372</pub-id></mixed-citation></ref><ref id="cssc202100364-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0011">
+<string-name>
+<given-names>D.</given-names>
+<surname>Schr&#x000f6;der</surname>
+</string-name>, <string-name>
+<given-names>C. L.</given-names>
+<surname>Bender</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Osenberg</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Hilger</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Manke</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janek</surname>
+</string-name>, <source xml:lang="en">Sci. Rep.</source>
+<year>2016</year>, <volume>6</volume>, <fpage>24288</fpage>.<pub-id pub-id-type="pmid">27068448</pub-id></mixed-citation></ref><ref id="cssc202100364-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0012">
+<string-name>
+<given-names>Z. W.</given-names>
+<surname>Seh</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cui</surname>
+</string-name>, <source xml:lang="en">ACS Cent. Sci.</source>
+<year>2015</year>, <volume>1</volume>, <fpage>449</fpage>.<pub-id pub-id-type="pmid">27163006</pub-id></mixed-citation></ref><ref id="cssc202100364-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0013">
+<string-name>
+<given-names>C.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Black</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Fernandes</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Adams</surname>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Nazar</surname>
+</string-name>, <source xml:lang="en">Nat. Chem.</source>
+<year>2015</year>, <volume>7</volume>, <fpage>496</fpage>.<pub-id pub-id-type="pmid">25991528</pub-id></mixed-citation></ref><ref id="cssc202100364-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0014">
+<string-name>
+<given-names>T.</given-names>
+<surname>Shiga</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Hase</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Kato</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Inoue</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Takechi</surname>
+</string-name>, <source xml:lang="en">Chem. Commun.</source>
+<year>2013</year>, <volume>49</volume>, <fpage>9152</fpage>.</mixed-citation></ref><ref id="cssc202100364-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0015">
+<string-name>
+<given-names>G.</given-names>
+<surname>Vardar</surname>
+</string-name>, <string-name>
+<given-names>E. G.</given-names>
+<surname>Nelson</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Naruse</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Hiramatsu</surname>
+</string-name>, <string-name>
+<given-names>B. M.</given-names>
+<surname>Bartlett</surname>
+</string-name>, <string-name>
+<given-names>A. E. S.</given-names>
+<surname>Sleightholme</surname>
+</string-name>, <string-name>
+<given-names>D. J.</given-names>
+<surname>Siegel</surname>
+</string-name>, <string-name>
+<given-names>C. W.</given-names>
+<surname>Monroe</surname>
+</string-name>, <source xml:lang="en">Chem. Mater.</source>
+<year>2015</year>, <volume>27</volume>, <fpage>7564</fpage>.</mixed-citation></ref><ref id="cssc202100364-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0016">
+<string-name>
+<given-names>P.</given-names>
+<surname>Reinsberg</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Bondue</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Baltruschat</surname>
+</string-name>, <source xml:lang="en">Electrochim. Acta</source>
+<year>2016</year>, <volume>200</volume>, <fpage>214</fpage>.</mixed-citation></ref><ref id="cssc202100364-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0017">
+<string-name>
+<given-names>P. H.</given-names>
+<surname>Reinsberg</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Koellisch</surname>
+</string-name>, <string-name>
+<given-names>P. P.</given-names>
+<surname>Bawol</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Baltruschat</surname>
+</string-name>, <source xml:lang="en">Phys. Chem. Chem. Phys.</source>
+<year>2019</year>, <volume>21</volume>, <fpage>4286</fpage>.<pub-id pub-id-type="pmid">30724276</pub-id></mixed-citation></ref><ref id="cssc202100364-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0018">
+<string-name>
+<given-names>W.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>N.-C.</given-names>
+<surname>Lai</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.-C.</given-names>
+<surname>Lu</surname>
+</string-name>, <source xml:lang="en">Angew. Chem. Int. Ed.</source>
+<year>2018</year>, <volume>57</volume>, <fpage>5042</fpage>&#x02013;<lpage>5046</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="cssc202100364-cit-0019">
+<source xml:lang="en">Angew. Chem.</source>
+<year>2018</year>, <volume>130</volume>, <fpage>5136</fpage>.</mixed-citation></ref><ref id="cssc202100364-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0020">
+<string-name>
+<given-names>S.</given-names>
+<surname>Sankarasubramanian</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Ramani</surname>
+</string-name>, <source xml:lang="en">J. Phys. Chem. C</source>
+<year>2018</year>, <volume>122</volume>, <fpage>19319</fpage>.</mixed-citation></ref><ref id="cssc202100364-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0021">
+<string-name>
+<given-names>M.</given-names>
+<surname>Moshkovich</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Gofer</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Aurbach</surname>
+</string-name>, <source xml:lang="en">J. Electrochem. Soc.</source>
+<year>2001</year>, <volume>148</volume>, <fpage>E155</fpage>.</mixed-citation></ref><ref id="cssc202100364-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0022">
+<string-name>
+<given-names>X.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <source xml:lang="en">J. Am. Chem. Soc.</source>
+<year>2013</year>, <volume>135</volume>, <fpage>2923</fpage>.<pub-id pub-id-type="pmid">23402300</pub-id></mixed-citation></ref><ref id="cssc202100364-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0023">
+<string-name>
+<given-names>P.</given-names>
+<surname>Reinsberg</surname>
+</string-name>, <string-name>
+<given-names>C. J.</given-names>
+<surname>Bondue</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Baltruschat</surname>
+</string-name>, <source xml:lang="en">J. Phys. Chem. C</source>
+<year>2016</year>, <volume>120</volume>, <fpage>22179</fpage>.</mixed-citation></ref><ref id="cssc202100364-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0024">
+<string-name>
+<given-names>P.</given-names>
+<surname>Reinsberg</surname>
+</string-name>, <string-name>
+<given-names>A. A.</given-names>
+<surname>Abd-El-Latif</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Baltruschat</surname>
+</string-name>, <source xml:lang="en">Electrochim. Acta</source>
+<year>2018</year>, <volume>273</volume>, <fpage>424</fpage>.</mixed-citation></ref><ref id="cssc202100364-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0025">
+<string-name>
+<given-names>A.</given-names>
+<surname>Ponrouch</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Frontera</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Barde</surname>
+</string-name>, <string-name>
+<given-names>M. R.</given-names>
+<surname>Palacin</surname>
+</string-name>, <source xml:lang="en">Nat. Mater.</source>
+<year>2016</year>, <volume>15</volume>, <fpage>169</fpage>.<pub-id pub-id-type="pmid">26501412</pub-id></mixed-citation></ref><ref id="cssc202100364-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0026">
+<string-name>
+<given-names>D.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Kuss</surname>
+</string-name>, <string-name>
+<given-names>P. G.</given-names>
+<surname>Bruce</surname>
+</string-name>, <source xml:lang="en">Nat. Mater.</source>
+<year>2017</year>, <volume>17</volume>, <fpage>16</fpage>.<pub-id pub-id-type="pmid">29180779</pub-id></mixed-citation></ref><ref id="cssc202100364-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0027">
+<string-name>
+<given-names>N.</given-names>
+<surname>Mahne</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Schafzahl</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Leypold</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Leypold</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Grumm</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Leitgeb</surname>
+</string-name>, <string-name>
+<given-names>G. A.</given-names>
+<surname>Strohmeier</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wilkening</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Fontaine</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Kramer</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Slugovc</surname>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Borisov</surname>
+</string-name>, <string-name>
+<given-names>S. A.</given-names>
+<surname>Freunberger</surname>
+</string-name>, <source xml:lang="en">Nat. Energy</source>
+<year>2017</year>, <volume>2</volume>, <fpage>17036</fpage>.</mixed-citation></ref><ref id="cssc202100364-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0028">
+<string-name>
+<given-names>E.</given-names>
+<surname>Mourad</surname>
+</string-name>, <string-name>
+<given-names>Y. K.</given-names>
+<surname>Petit</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Spezia</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Samojlov</surname>
+</string-name>, <string-name>
+<given-names>F. F.</given-names>
+<surname>Summa</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Prehal</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Leypold</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Mahne</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Slugovc</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Fontaine</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Brutti</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Freunberger Stefan</surname>
+</string-name>, <source xml:lang="en">Energy Environ. Sci.</source>
+<year>2019</year>, <volume>12</volume>, <fpage>2559</fpage>.</mixed-citation></ref><ref id="cssc202100364-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0029">
+<string-name>
+<given-names>D.</given-names>
+<surname>C&#x000f3;rdoba</surname>
+</string-name>, <string-name>
+<given-names>H. n. B.</given-names>
+<surname>Rodr&#x000ed;guez</surname>
+</string-name>, <string-name>
+<given-names>E. J.</given-names>
+<surname>Calvo</surname>
+</string-name>, <source xml:lang="en">ChemistrySelect</source>
+<year>2019</year>, <volume>4</volume>, <fpage>12304</fpage>.</mixed-citation></ref><ref id="cssc202100364-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0030">
+<string-name>
+<given-names>A.</given-names>
+<surname>Koellisch-Mirbach</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Lohrmann</surname>
+</string-name>, <string-name>
+<given-names>P. H.</given-names>
+<surname>Reinsberg</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Baltruschat</surname>
+</string-name>, <source xml:lang="en">J. Electroanal. Chem.</source>
+<year>2020</year>, <volume>875</volume>, <elocation-id>114560</elocation-id>.</mixed-citation></ref><ref id="cssc202100364-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0031">
+<string-name>
+<given-names>P. P.</given-names>
+<surname>Bawol</surname>
+</string-name>, <string-name>
+<given-names>P. H.</given-names>
+<surname>Reinsberg</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Koellisch-Mirbach</surname>
+</string-name>, <string-name>
+<given-names>C. J.</given-names>
+<surname>Bondue</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Baltruschat</surname>
+</string-name>, <source xml:lang="en">Chem. Eur. J.</source>
+<year>2021</year>, <volume>14</volume>, <fpage>428</fpage>.</mixed-citation></ref><ref id="cssc202100364-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0032">
+<string-name>
+<given-names>A. S.</given-names>
+<surname>Shatla</surname>
+</string-name>, <string-name>
+<given-names>A. A.</given-names>
+<surname>Abd-El-Latif</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Ayata</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Demir</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Baltruschat</surname>
+</string-name>, <source xml:lang="en">Electrochim. Acta</source>
+<year>2020</year>, <volume>334</volume>, <elocation-id>135556</elocation-id>.</mixed-citation></ref><ref id="cssc202100364-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0033">
+<string-name>
+<given-names>H.</given-names>
+<surname>Baltruschat</surname>
+</string-name>, <source xml:lang="en">J. Am. Soc. Mass Spectrom.</source>
+<year>2004</year>, <volume>15</volume>, <fpage>1693</fpage>.<pub-id pub-id-type="pmid">15589747</pub-id></mixed-citation></ref><ref id="cssc202100364-bib-0032"><label>32</label><mixed-citation publication-type="book" id="cssc202100364-cit-0034">
+<string-name>
+<given-names>A. A.</given-names>
+<surname>Abd-El-Latif</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Baltruschat</surname>
+</string-name> in <source xml:lang="en">Encyclopedia of Applied Electrochemistry</source> (Eds.: <person-group person-group-type="editor"><string-name>
+<given-names>G.</given-names>
+<surname>Kreysa</surname>
+</string-name></person-group>, <person-group person-group-type="editor"><string-name>
+<given-names>K.-i.</given-names>
+<surname>Ota</surname>
+</string-name></person-group>, <person-group person-group-type="editor"><string-name>
+<given-names>R.</given-names>
+<surname>Savinell</surname>
+</string-name></person-group>), <publisher-name>Springer New York</publisher-name>, <year>2014</year>, pp. <fpage>507</fpage>.</mixed-citation></ref><ref id="cssc202100364-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0035">
+<string-name>
+<given-names>A. A.</given-names>
+<surname>Abd-El-Latif</surname>
+</string-name>, <string-name>
+<given-names>C. J.</given-names>
+<surname>Bondue</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Ernst</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Hegemann</surname>
+</string-name>, <string-name>
+<given-names>J. K.</given-names>
+<surname>Kaul</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Khodayari</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Mostafa</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Stefanova</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Baltruschat</surname>
+</string-name>, <source xml:lang="en">TrAC Trends Anal. Chem.</source>
+<year>2015</year>, <volume>70</volume>, <fpage>4</fpage>.</mixed-citation></ref><ref id="cssc202100364-bib-0034"><label>34</label><mixed-citation publication-type="book" id="cssc202100364-cit-0036">
+<string-name>
+<given-names>H.</given-names>
+<surname>Baltruschat</surname>
+</string-name> in <source xml:lang="en">Interfacial Electrochemistry</source> (Ed.: <person-group person-group-type="editor"><string-name>
+<given-names>A.</given-names>
+<surname>Wieckowski</surname>
+</string-name></person-group>), <publisher-name>Marcel Dekker, Inc.</publisher-name>, <publisher-loc>New York, Basel</publisher-loc>, <year>1999</year>, pp. <fpage>577</fpage>.</mixed-citation></ref><ref id="cssc202100364-bib-0035"><label>35</label><mixed-citation publication-type="miscellaneous" id="cssc202100364-cit-0037">L.&#x02005;A. Kibler, Preparation and Characterization of Noble Metals Single Crystal Electrodes, University of Ulm, <bold>2003</bold>.</mixed-citation></ref><ref id="cssc202100364-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0038">
+<string-name>
+<given-names>A.</given-names>
+<surname>Cuesta</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Kibler</surname>
+</string-name>, <string-name>
+<given-names>D. M.</given-names>
+<surname>Kolb</surname>
+</string-name>, <source xml:lang="en">J. Electroanal. Chem.</source>
+<year>1999</year>, <volume>466</volume>, <fpage>165</fpage>.</mixed-citation></ref><ref id="cssc202100364-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0039">
+<string-name>
+<given-names>J.</given-names>
+<surname>Lindberg</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Endr&#x00151;di</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>&#x000c5;vall</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Johansson</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Cornell</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Lindbergh</surname>
+</string-name>, <source xml:lang="en">J. Phys. Chem. C</source>
+<year>2018</year>, <volume>122</volume>, <fpage>1913</fpage>.</mixed-citation></ref><ref id="cssc202100364-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0040">
+<string-name>
+<given-names>P. H.</given-names>
+<surname>Reinsberg</surname>
+</string-name>, <string-name>
+<given-names>P. P.</given-names>
+<surname>Bawol</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Thome</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Baltruschat</surname>
+</string-name>, <source xml:lang="en">Anal. Chem.</source>
+<year>2018</year>, <volume>90</volume>, <fpage>14150</fpage>.<pub-id pub-id-type="pmid">30408952</pub-id></mixed-citation></ref><ref id="cssc202100364-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cssc202100364-cit-0041">
+<string-name>
+<given-names>P. P.</given-names>
+<surname>Bawol</surname>
+</string-name>, <string-name>
+<given-names>P. H.</given-names>
+<surname>Reinsberg</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Baltruschat</surname>
+</string-name>, <source xml:lang="en">Anal. Chem.</source>
+<year>2018</year>, <volume>90</volume>, <fpage>14145</fpage>.<pub-id pub-id-type="pmid">30408955</pub-id></mixed-citation></ref><ref id="cssc202100364-bib-0040"><label>40</label><mixed-citation publication-type="miscellaneous" id="cssc202100364-cit-0042">M. Hegemann, H. Baltruschat, unpublished results.</mixed-citation></ref></ref-list></back></article>

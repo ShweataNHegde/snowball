@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR48">
+ <label>48.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wei</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Gui</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Kang</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Tang</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <article-title>A DFT study on the adsorption of H
+   <sub>2</sub>S and SO
+   <sub>2</sub> on Ni doped MoS
+   <sub>2</sub> monolayer
+  </article-title>
+  <source>Nanomaterials</source>
+  <year>2018</year>
+  <volume>8</volume>
+  <fpage>646</fpage>
+  <pub-id pub-id-type="doi">10.3390/nano8090646</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The blue lines in 
+ <xref ref-type="fig" rid="molecules-26-02227-f009">Figure 9</xref> depict the first two cycles of the cyclic voltammetry of QUI 
+ <bold>6</bold> at pH = 4.5. Depicted in orange is the voltammogram of DSMeQUI 
+ <bold>20</bold> at pH = 2.5. Already in the second scan of the QUI 
+ <bold>6</bold> solution, a reduction of the peak current was observed, indicating significant degradation of QUI 
+ <bold>6</bold> to the electro-inactive compound 
+ <bold>9a</bold>. Despite the pH being lower in the DSMeQUI 
+ <bold>20</bold> solution, no second oxidation peak was observed, and the peak current was unchanged over several scans. This indicates that the degradation reaction was not taking place in this molecule, at least not on the experimental time-scale employed here. The increased stability of DSMeQUI 
+ <bold>20</bold> in comparison to QUI 
+ <bold>6</bold> was also evident in their charge–discharge curves (
+ <xref ref-type="app" rid="app1-molecules-26-02227">Supplementary Materials, Figures S8 and S9</xref>). QUI 
+ <bold>6</bold> could be cycled five times at pH 13 before most of the capacity was lost. In contrast, DSMeQUI 
+ <bold>20</bold> could be cycled at least 110 times before most of the capacity was lost at the same pH. The solution of QUI 
+ <bold>6</bold> after five cycles was analyzed by LC–MS (
+ <xref ref-type="app" rid="app1-molecules-26-02227">Supporting Info., Figure S10</xref>). It revealed the formation of two new compounds with masses of 146.86 gmol
+ <sup>−1</sup> and 134.84 gmol
+ <sup>−1</sup>, corresponding to the oxidized form of 
+ <bold>8a</bold> and 
+ <bold>10b</bold>, respectively, supporting the two hypothesized degradation pathways. However, detection of 
+ <bold>8a</bold> contradicts the idea that it is immediately converted to its non-redox active tautomer (
+ <bold>9a</bold>). QUI 
+ <bold>6</bold> was still present as a major component in the solution based on LC–MS analysis. This indicates that chemical degradation of QUI 
+ <bold>6</bold> was not the main reason for the observed capacity fade. No leakage was detected, and no volumetric imbalance in the two tanks was observed. The fast capacity fade may related to other factors, such as crossover and/or gas evolution. A quantitative 
+ <sup>1</sup>H-NMR of pristine and post-test QUI 
+ <bold>6</bold> electrolyte confirms that QUI 
+ <bold>6</bold> is the main component in the post test electrolyte, but also that approximately half of the QUI 
+ <bold>6</bold> was lost during testing, indicating that cross-over constitutes a large part of the capacity fade for this molecule. Detailed information on the flow cell battery test conditions are given in 
+ <xref ref-type="sec" rid="sec2dot4-molecules-26-02227">Section 2.4</xref>.
+</p>

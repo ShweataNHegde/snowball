@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The interfacial capacitance of the electrode materials was investigated as a function of potential in the same electrolyte. 
+ <xref ref-type="fig" rid="F5">Figures 5A,B</xref> show Mott-Schottky plots of the equivalent series capacitance obtained at 0.1 Hz and 10 Hz, respectively, at potentials in the range −0.8 to +0.8 V vs. Ag/Ag
+ <sup>+</sup> (Hoque et al., 
+ <xref rid="B30" ref-type="bibr">2019</xref>). The plot of the nitrogen-free anC material shows the characteristic response of a p-type semiconductor under conditions in which the capacitance is dominated by the space charge layer (Memming, 
+ <xref rid="B45" ref-type="bibr">2001</xref>). This is in agreement with previous reports of p-type behavior for nitrogen-free amorphous carbon electrodes obtained in either organic or aqueous electrolytes (Colavita et al., 
+ <xref rid="B10" ref-type="bibr">2007</xref>; Hoque et al., 
+ <xref rid="B30" ref-type="bibr">2019</xref>). Plasma treatment results in a change in capacitance values at 0.1 and 10 Hz, however the p-type character of the material is preserved, indicating that the introduction of N-sites via this surface treatment does not significantly change the semiconducting character. This is in stark contrast to the effect of bulk nitrogen incorporation which instead was shown by our group to result in a capacitive response with greater n-type character (Hoque et al., 
+ <xref rid="B30" ref-type="bibr">2019</xref>) in amorphous carbons. The minimum of the interfacial capacitance at 0.1 Hz (see 
+ <xref ref-type="supplementary-material" rid="SM1">Supporting Information</xref>) was found to increase by 
+ <italic>ca</italic>. 60% after 5 min exposure, while leveling off at approximately twice the value of the nitrogen-free material after 10 min. This is consistent with the introduction of both N-sites and defects; these are known to result in (i) an increased density of mid-gap localized/surface states (Van Tuan et al., 
+ <xref rid="B63" ref-type="bibr">2012</xref>; Zhong et al., 
+ <xref rid="B77" ref-type="bibr">2014</xref>; Velický et al., 
+ <xref rid="B65" ref-type="bibr">2019</xref>; Toh et al., 
+ <xref rid="B62" ref-type="bibr">2020</xref>) which lead to increased interfacial capacitance (Wiggins-Camacho and Stevenson, 
+ <xref rid="B69" ref-type="bibr">2009</xref>; Tian et al., 
+ <xref rid="B61" ref-type="bibr">2015</xref>; Velický et al., 
+ <xref rid="B65" ref-type="bibr">2019</xref>), albeit at the expense of delocalization; and (ii) an increase in electrode roughness and consequently its electrochemical specific surface area (ECSA). A similar increase of the capacitance by a factor of 2 is observed at 10 Hz; notably, a comparison of values obtained at 0.1 vs. 10 Hz indicates dispersion in the capacitive response. This is generally observed in disordered/heterogeneous electrodes (Pajkossy, 
+ <xref rid="B47" ref-type="bibr">1994</xref>; Kerner and Pajkossy, 
+ <xref rid="B34" ref-type="bibr">2000</xref>), and had been previously reported also in the case of bulk-doped nitrogenated amorphous carbons (Hoque et al., 
+ <xref rid="B30" ref-type="bibr">2019</xref>). The absence of a further increase in capacitance when increasing the exposure time from 10 to 20 min, suggests that additional amorphization negatively affects long-range properties and metallic character of the carbon material, in agreement with observed trends following ion bombardment of graphene (Van Tuan et al., 
+ <xref rid="B63" ref-type="bibr">2012</xref>; Zhong et al., 
+ <xref rid="B77" ref-type="bibr">2014</xref>) and after progressive bulk nitrogenation in amorphous carbons (Behan et al., 
+ <xref rid="B5" ref-type="bibr">2017</xref>; Hoque et al., 
+ <xref rid="B30" ref-type="bibr">2019</xref>).
+</p>

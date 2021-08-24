@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The rechargeable Ni/Fe alkaline battery constitutes an interesting alternative for meeting the demands of grid scale electrical energy storage systems. Although the Ni/Fe battery shows a lower energy density than the lithium-ion battery, its specific energy (50 W h g
+ <sup>−1</sup> 
+ <sup>
+  <xref rid="cit12" ref-type="bibr">12</xref>
+ </sup>) is still 1 to 1.5 higher than for the lead-acid battery. In addition, the Edison battery is well known for its extraordinary robustness (2000–5000 Cycles),
+ <sup>
+  <xref rid="cit13" ref-type="bibr">13</xref>
+ </sup> and its tolerance to overcharge and deep discharges (performance radar chart is shown in 
+ <xref ref-type="fig" rid="fig1">Fig. 1d</xref>). The low cost and abundance of the raw materials required to produce Ni/Fe cells are also two important advantages of this technology. The Ni/Fe battery presents also some drawbacks such as the use of relatively expensive Ni(OH)
+ <sub>2</sub> used for the positive electrode but more importantly, the relatively low full cell energy efficiency (65–70%). This last point explains the low interest received by the Ni/Fe technology recently. The reason in part being that, when charging, the Ni/Fe forms NiOOH and metallic Fe which are known to be good catalysts for OER (oxygen evolution reaction) and HER (hydrogen evolution reaction), respectively, inducing a competitive water splitting reaction during battery charge. To overcome this efficiency issue, Mulder 
+ <italic>et al.</italic>
+ <sup>
+  <xref rid="cit1" ref-type="bibr">1</xref>
+ </sup> proposed to use the Ni/Fe battery in an hybrid alkaline battery-electrolyser device named battolyser in which the hydrogen production is no longer seen as a side product but instead as a main electrolysis fuel product for long term storage next to battery function. Thus, the total energy efficiency is increased up to 80–90% for both applications combined, allowing Ni/Fe to compete with the Li-ion battery (90–94%) and typical electrolysers (60–80%).
+ <sup>
+  <xref rid="cit14" ref-type="bibr">14,15</xref>
+ </sup> Most remarkably, as revealed by the radar representation of Ni/Fe performance in 
+ <xref ref-type="fig" rid="fig1">Fig. 1d</xref>, when used as a battolyser the Ni/Fe performances are getting close to the ideal grid-stabilisation energy storage. A schematic diagram of the operation principle of the Ni–Fe hybrid battery-electrolyser is provided in the ESI,
+ <xref ref-type="fn" rid="fn1">†</xref> (Fig. S-1).
+</p>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ack id="ack0010">
+ <title>Acknowledgments</title>
+ <p id="p0125">We thank Prof. Mark Lonergan for his essential contributions to developing courses, teaching, and mentoring students within the Oregon Center for Electrochemistry. S.W.B. acknowledges support from the 
+  <funding-source id="gs1">
+   <institution-wrap>
+    <institution-id institution-id-type="doi">10.13039/100000001</institution-id>
+    <institution>National Science Foundation</institution>
+   </institution-wrap>
+  </funding-source> Chemical Catalysis Program, Award # 1955106. S.A. acknowledges support from the 
+  <funding-source id="gs2">
+   <institution-wrap>
+    <institution-id institution-id-type="doi">10.13039/100001309</institution-id>
+    <institution>Research Corporation for Science Advancement</institution>
+   </institution-wrap>
+  </funding-source> under a Cottrell Scholar Award (Award #24169).
+ </p>
+</ack>

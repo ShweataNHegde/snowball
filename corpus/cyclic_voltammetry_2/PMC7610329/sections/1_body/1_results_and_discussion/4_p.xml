@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Prior to electrochemical measurements on the P2‐Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub> nano‐necklaces cathode, CV and galvanostatic charge/discharge tests were first performed on the P2‐Na
+ <sub>2/3</sub>Fe
+ <sub>1/2</sub>Mn
+ <sub>1/2</sub>O
+ <sub>2</sub> sample, which was prepared using the similar method without the addition of Cu source. Figure S8a (Supporting Information) shows the CV curves of the P2‐Na
+ <sub>2/3</sub>Fe
+ <sub>1/2</sub>Mn
+ <sub>1/2</sub>O
+ <sub>2</sub> cathode cycled at a scan rate of 0.1 mV s
+ <sup>−1</sup> between 2.0 and 4.0 V. The anodic peaks at potentials of 3.45 and 3.9 V, as well as the cathodic peak at around 3.8 V, correspond to the redox reactions of the Fe
+ <sup>3+</sup>/Fe
+ <sup>4+</sup> couple;
+ <sup>[</sup>
+ <xref rid="advs2021-bib-0034" ref-type="ref">
+  <sup>34</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0038" ref-type="ref">
+  <sup>38</sup>
+ </xref>
+ <sup>]</sup> while the peaks below 2.5 V should be attributed to the redox reactions of the Mn
+ <sup>3+</sup>/Mn
+ <sup>4+</sup> couple.
+ <sup>[</sup>
+ <xref rid="advs2021-bib-0046" ref-type="ref">
+  <sup>46</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0047" ref-type="ref">
+  <sup>47</sup>
+ </xref>
+ <sup>]</sup> Compared with the CV profiles of the Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub> nano‐necklaces cathode in 
+ <bold>Figure</bold> 
+ <xref rid="advs2021-fig-0002" ref-type="fig">
+  <bold>2</bold>a
+ </xref>, the main difference is that the oxidation peak at 3.45 V related to the abovementioned Fe
+ <sup>3+</sup>/Fe
+ <sup>4+</sup> redox process disappears and the curves become more sloping and flat. This phenomenon can be interpreted as the Fe
+ <sup>3+</sup>/Fe
+ <sup>4+</sup> redox peaks are able to merge with the oxidation/reduction peaks of Cu
+ <sup>2+</sup>/Cu
+ <sup>3+</sup> (4.0/3.9 V).
+ <sup>[</sup>
+ <xref rid="advs2021-bib-0038" ref-type="ref">
+  <sup>38</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0040" ref-type="ref">
+  <sup>40</sup>
+ </xref>
+ <sup>]</sup> Similar results are also observed in the charge/discharge profiles of the two electrodes. As elucidated in Figure S8b (Supporting Information), several voltage plateaus of the P2‐Na
+ <sub>2/3</sub>Fe
+ <sub>1/2</sub>Mn
+ <sub>1/2</sub>O
+ <sub>2</sub> electrode are in great coincidence with the CV study and there is a distinct plateau located at ≈3.45 V on the charge curve, which is related to the Na
+ <sup>+</sup>/vacancy ordering due to the gliding of oxygen planes, resulting in the formation of some unfavorable intermediate phases.
+ <sup>[</sup>
+ <xref rid="advs2021-bib-0034" ref-type="ref">
+  <sup>34</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0048" ref-type="ref">
+  <sup>48</sup>
+ </xref>
+ <sup>]</sup> Note that although the P2‐Na
+ <sub>2/3</sub>Fe
+ <sub>1/2</sub>Mn
+ <sub>1/2</sub>O
+ <sub>2</sub> electrode delivers a high initial discharge capacity of 129.9 mA h g
+ <sup>−1</sup>, it suffers from fast capacity decay with a capacity retention of only 35.5% after 100 cycles (Figure S8c, Supporting Information). Figure 
+ <xref rid="advs2021-fig-0002" ref-type="fig">2b</xref> plots the charge/discharge profiles of the Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub> nano‐necklaces at a current density of 0.1 C (1 C = 120 mA g
+ <sup>−1</sup>), the electrode delivers an initial discharge capacity of 125.5 mA h g
+ <sup>−1</sup>, corresponding to ≈0.50 e
+ <sup>−</sup> transfer per formula unit. The profiles become smoother and possess better overlapping and smaller voltage hysteresis compared to those of the Na
+ <sub>2/3</sub>Fe
+ <sub>1/2</sub>Mn
+ <sub>1/2</sub>O
+ <sub>2</sub> sample, indicating an improved reversibility and enhanced reaction kinetics. More importantly, no obvious voltage plateau is found at around 3.45 V on the charge curves, suggesting that the Cu substitution of Fe can efficaciously mitigate the Na
+ <sup>+</sup>/vacancy ordering. It is believed that Cu
+ <sup>2+</sup> can serve as a stabilizer blocking the rearrangement of Na
+ <sup>+</sup>/vacancy, alleviating the Jahn–Teller effect of Mn
+ <sup>3+</sup> center upon sodiation/desodiation (diluting the Mn
+ <sup>3+</sup> concentration), and suppressing the irreversible Fe migration into the Na sites upon charging to high voltage.
+ <sup>[</sup>
+ <xref rid="advs2021-bib-0035" ref-type="ref">
+  <sup>35</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0038" ref-type="ref">
+  <sup>38</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0040" ref-type="ref">
+  <sup>40</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0041" ref-type="ref">
+  <sup>41</sup>
+ </xref>, 
+ <xref rid="advs2021-bib-0049" ref-type="ref">
+  <sup>49</sup>
+ </xref>
+ <sup>]</sup> Hence, the structural stability is significantly improved through an approximate solid‐solution process during cycling. This point is further evidenced by the HRTEM images of the Na
+ <sub>2/3</sub>Fe
+ <sub>1/2</sub>Mn
+ <sub>1/2</sub>O
+ <sub>2</sub> and Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub> electrode materials after ten charge/discharge cycles (Figure S9 in the Supporting Information). The un‐doped sample shows obvious lattice distortions, while the layered structure of the Cu‐doped sample is well reserved. Figure 
+ <xref rid="advs2021-fig-0002" ref-type="fig">2c</xref> illustrates the cycling performance of the Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub> samples thermally treated at 850 °C for 2, 6, and 10 h, respectively. Benefiting from the special morphology, the Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub> nano‐necklaces cathode could deliver a reversible capacity of 103.6 mA h g
+ <sup>−1</sup> at 0.1 C after 100 cycles with a promising capacity retention of 82.7%. Post‐mortem examination in SEM image (Figure S10a, Supporting Information) shows a well‐maintained architecture of the P2‐Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub> nano‐necklaces after cycling. The not well‐formed hierarchical nanostructures exposing less active sites lead to an obviously lower capacity for the sample calcinated for 2 h, yet the sample calcinated for 10 h displays a disappointing cyclability with a capacity retention of only 43.8% after 100 cycles, mainly caused by the serious agglomeration of the not well‐aligned nanograins upon repeated sodiation/desodiation (Figure S10b in the Supporting Information). The electrochemical performance of the bulk Na
+ <sub>0.76</sub>Cu
+ <sub>0.22</sub>Fe
+ <sub>0.30</sub>Mn
+ <sub>0.48</sub>O
+ <sub>2</sub> sample prepared by a sol–gel method (SEM image in Figure S11a, Supporting Information) is also given, exhibiting inferior reversible capacity and cycling performance compared to those of the nano‐necklaces electrode (Figure S11b, Supporting Information). In addition, the content of the doped Cu has been optimized by evaluating the sodium‐storage behaviors of the P2‐type cathode materials with different stoichiometries. As presented in Figure S12 (Supporting Information), the contrast P2‐material containing less Cu shows an inferior cycling stability (≈74.1% capacity retention after 100 cycles) due to the poor inhibiting effects on the Na
+ <sup>+</sup>/vacancy orderings and the Jahn–Teller distortions; while the sample containing excess Cu delivers a relatively low initial discharge capacity of 120.1 mA h g
+ <sup>−1</sup> at 0.1 C caused by the decreased content of the active Fe
+ <sup>3+</sup>/Fe
+ <sup>4+</sup> redox couple. These results definitely validate that the present dual‐strategy of Cu doping and hierarchical nanoengineering plays crucial roles in improving the cycling performance of the layered Na‐Fe‐Mn‐O system.
+</p>

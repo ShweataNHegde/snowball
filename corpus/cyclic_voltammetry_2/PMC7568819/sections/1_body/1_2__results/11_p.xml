@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Lastly, since coating thickness is accurately and easily controlled by the number of cycles, it is an obvious parameter to optimize. Naturally, a thicker coating raises the serial resistance as evident from the potential discontinuity in galvanostatic charging/discharging curves (Figures 
+ <xref ref-type="fig" rid="fig5">5(b)</xref>, 
+ <xref ref-type="fig" rid="fig5">5(e)</xref>, 
+ <xref ref-type="supplementary-material" rid="supplementary-material-1">S14B</xref>, and 
+ <xref ref-type="supplementary-material" rid="supplementary-material-1">S21A-B</xref>) and the more battery-like and less capacitor-like impedance spectroscopy (Fig. 
+ <xref ref-type="supplementary-material" rid="supplementary-material-1">S21C-E</xref>). But the increased resistance is still not enough to cause load sharing, hence shearing of the CV loops in three-electrode configurations (Fig. 
+ <xref ref-type="supplementary-material" rid="supplementary-material-1">S22A</xref>) and symmetric cells (Fig. 
+ <xref ref-type="supplementary-material" rid="supplementary-material-1">S22B-C</xref>) at 2 mV s
+ <sup>−1</sup>. Without such complication, the CV test provides a straightforward tool to identify the optimal thickness to reap the benefit of ECW expansion without sacrificing current, capacity, and rate capability, which happens when thickness exceeds 15 nm (Fig. 
+ <xref ref-type="supplementary-material" rid="supplementary-material-1">S21E</xref>, 
+ <xref ref-type="supplementary-material" rid="supplementary-material-1">S22B-C</xref>, 
+ <xref ref-type="supplementary-material" rid="supplementary-material-1">S23</xref>). But since the same high capacitance is still maintained at low current densities (e.g., 0.1 A g
+ <sup>−1</sup>), the capacitance loss at high rates (Fig. 
+ <xref ref-type="supplementary-material" rid="supplementary-material-1">S23</xref>) is not intrinsic and must be kinetic in origin, caused by sluggish diffusion/redox reaction.
+</p>

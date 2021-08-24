@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The electrochemical stability window is the electric potential range over which the material is electrochemically stable. One drawback of borohydrides is their narrow electrochemical windows [
+ <xref rid="B10-molecules-26-03239" ref-type="bibr">10</xref>,
+ <xref rid="B44-molecules-26-03239" ref-type="bibr">44</xref>]. 
+ <xref ref-type="fig" rid="molecules-26-03239-f005">Figure 5</xref> shows the calculated electrochemical stability ranges for common electrolytes and electrodes (relative to lithium metal at 0 V). The Cuan et al. [
+ <xref rid="B8-molecules-26-03239" ref-type="bibr">8</xref>] R article provides example of electrochemical stability window for a limited selection of borohydrides. A more comprehensive list relative to these materials is provided by Ceder et al. [
+ <xref rid="B45-molecules-26-03239" ref-type="bibr">45</xref>] and Lu et al. [
+ <xref rid="B10-molecules-26-03239" ref-type="bibr">10</xref>]. Most electrochemical stability window data reported in the literature has been computationally predicted. Although focused on high ionic conduction oxides, nitrides, and sulfides, Ceders et al. [
+ <xref rid="B44-molecules-26-03239" ref-type="bibr">44</xref>] include LiH and LiBH
+ <sub>4</sub> in electrochemical stability window calculations (
+ <xref ref-type="fig" rid="molecules-26-03239-f005">Figure 5</xref>). Lu et al. [
+ <xref rid="B10-molecules-26-03239" ref-type="bibr">10</xref>] provide electrochemical stability window calculations for a variety of borohydrides shown in 
+ <xref ref-type="fig" rid="molecules-26-03239-f005">Figure 5</xref>. With the exception of CaB
+ <sub>12</sub>H
+ <sub>12</sub>, the electrochemical stability ranges are all below 3V. Lu et al. [
+ <xref rid="B10-molecules-26-03239" ref-type="bibr">10</xref>] also provide comparison to experiments in the cases of LiBH
+ <sub>4</sub> and NaBH
+ <sub>4</sub> (not shown in 
+ <xref ref-type="fig" rid="molecules-26-03239-f005">Figure 5</xref>). For all materials examined in that work, the measured stability window is larger than the computationally predicted electrochemical window. This is reportedly due to slow kinetics of the decomposition reaction (and product phase formation) at the cathode [
+ <xref rid="B10-molecules-26-03239" ref-type="bibr">10</xref>]. Furthermore, Lu et al. [
+ <xref rid="B10-molecules-26-03239" ref-type="bibr">10</xref>] show electrochemical windows computational predictions assuming removal (i.e., not inclusive) of B
+ <sub>x</sub>H
+ <sub>y</sub> product species. Higher cathodic potentials are demonstrated in computations performed without the B
+ <sub>x</sub>H
+ <sub>y</sub> species [
+ <xref rid="B10-molecules-26-03239" ref-type="bibr">10</xref>]. The electrochemical window of the borohydride LiBH
+ <sub>4</sub> is predicted to be low, ranging from 0.5 V to 1.9 V (vs. Li metal) [
+ <xref rid="B44-molecules-26-03239" ref-type="bibr">44</xref>]. Other compounds, such as Li
+ <sub>2</sub>S and Li
+ <sub>3</sub>PS
+ <sub>4,</sub> are stable up to 2.3 V to 2.5 V vs. Li metal, while LiH is stable down to 0 V [
+ <xref rid="B44-molecules-26-03239" ref-type="bibr">44</xref>]. The stability window for other borohydrides has been reported in theoretical work to be as high as 5.5 V (for CaB
+ <sub>12</sub>H
+ <sub>12</sub>) [
+ <xref rid="B10-molecules-26-03239" ref-type="bibr">10</xref>]. It will be important to establish reliable approaches to measure the electrochemical window. In practice, B
+ <sub>x</sub>H
+ <sub>y</sub> product species cannot be easily removed and must be considered. In practical applications, the electrochemical windows could be far from those predicted computationally. This is an important avenue of experimental research that should be undertaken. Moreover, research which considers interlayered compounds comprised of several borohydrides as the solid electrolyte could serve the objective of increasing electrochemical window of the entire layer while isolating product phases into close proximity to one another for overcoming diffusion barriers to forming starting compounds upon reverse cycling.
+</p>

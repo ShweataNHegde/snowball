@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The consequence of this large anisotropy can be visualized by plotting the Wulff shape for each crystal (
+ <xref rid="F5" ref-type="fig">Fig. 5C</xref>). Wulff shape predicts the equilibrium faceted morphology of a crystal by minimizing the overall surface energy 
+ <inline-formula>
+  <math id="m22">
+   <mrow>
+    <mrow>
+     <munder>
+      <mo>Σ</mo>
+      <mrow>
+       <mo stretchy="false">(</mo>
+       <mi mathvariant="normal">hkl</mi>
+       <mo stretchy="false">)</mo>
+      </mrow>
+     </munder>
+     <msub>
+      <mi mathvariant="normal">γ</mi>
+      <mi mathvariant="normal">hkl</mi>
+     </msub>
+     <msub>
+      <mi>A</mi>
+      <mi mathvariant="normal">hkl</mi>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> (
+ <xref rid="R127" ref-type="bibr">
+  <italic>127</italic>
+ </xref>, 
+ <xref rid="R128" ref-type="bibr">
+  <italic>128</italic>
+ </xref>). While it is apparent that a crystal tends to expose the lowest-energy facet as much as possible, the crystal symmetry imposes nontrivial constraints—For example, the lowest-energy (002) basal planes of Zn are parallel to each other, meaning that the crystal needs to be bounded by vertical (101) facets on the sides. The calculated Wulff construction of Zn is in good accord with the experimentally observed morphology of vapor grown (
+ <xref rid="R129" ref-type="bibr">
+  <italic>129</italic>
+ </xref>) and chemically grown (
+ <xref rid="R130" ref-type="bibr">
+  <italic>130</italic>
+ </xref>) Zn nanocrystals. This also explains the numerous observations of the 2D, plate-like Zn building blocks reported in 
+ <xref rid="F2" ref-type="fig">Fig. 2</xref> (regardless of the alignment with respect to the electrode surface); they preferentially expose the close-packed (002) basal plane owing to an surface energy optimization.
+</p>

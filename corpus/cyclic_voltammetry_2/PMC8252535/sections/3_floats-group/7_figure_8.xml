@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig fig-type="Figure" xml:lang="en" id="cssc202100364-fig-0008" orientation="portrait" position="float">
+ <label>Figure 8</label>
+ <caption>
+  <p>Plot of the inverse diffusion‐limited current (at −1.25 V for f
+   <sub>R</sub>=53; Figure 
+   <xref rid="cssc202100364-fig-0007" ref-type="fig">7</xref>d) vs the inverse square root of the rotation frequency (dots), linear fit forced through (0/0) (red line) and best linear fit (blue line) confirming diffusion limitation.
+  </p>
+ </caption>
+ <graphic id="jats-graphic-17" xlink:href="CSSC-14-2564-g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

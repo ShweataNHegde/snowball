@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>A 0.1 M DSMeQUI 
+ <bold>20</bold> (or QUI 
+ <bold>6</bold>) solution in 0.1 M KOH/2 M KCl (anolyte) was inserted in a flow battery single cell and paired with 0.2 M of ferrocyanide and 0.2 M ferricyanide (posolyte). Excess capacity of the posolyte was used to make the negolyte the capacity limiting side, as we were interested in the behavior of the negolyte [
+ <xref rid="B22-molecules-26-02227" ref-type="bibr">22</xref>]. Carbon cloth (ELAT-H) was used as electrodes and mPBI (10 μm thickness) as a membrane to separate the cathode from the anode. The electrodes were heated for 24 h at 400 °C in air prior to test. A loss of approximately 20% capacity was observed immediately from the first cycle (
+ <xref ref-type="app" rid="app1-molecules-26-02227">Supporting Info., Figure S8</xref>). The negolyte solution was examined by 
+ <sup>1</sup>H-NMR and compared with the pristine solution of DSMeQUI 
+ <bold>20</bold> (
+ <xref ref-type="app" rid="app1-molecules-26-02227">Supporting Info., Figure S1</xref>). A new set of peaks arose in the aromatic region, showing the presence of an additional molecule, which could be a degradation product or DSMeQUI 
+ <bold>20</bold> in a different protonation state. The integration of the detected new peaks in the NMR spectrum did not completely match a 20% loss in capacity but indicated that the new product corresponds to about 16% and the remainder (84%) was DSMeQUI 
+ <bold>20</bold>. A study of dimerization of anthraquinonedisulfonate (2,7-AQDS) presented by Carney et al. [
+ <xref rid="B23-molecules-26-02227" ref-type="bibr">23</xref>] showed that aggregation (dimerization) could reduce the effective number electrons of the redox reaction. A non-integer effective number of electrons involved in the QUI 
+ <bold>6</bold> redox reaction was reported in a voltammetric investigation by Milshtein et al. [
+ <xref rid="B8-molecules-26-02227" ref-type="bibr">8</xref>]. In order to obtain an indication of whether the discrepancy between the theoretical and the observed initial cycle capacity may be related to molecular aggregation, we examined the concentration dependence of the peak currents observed in cyclic voltammetry of DSMeQUI 
+ <bold>20</bold>. The peak current density observed in cyclic voltammetry depends on the number of electrons involved, the concentration, and on the diffusion coefficient of the species [
+ <xref rid="B24-molecules-26-02227" ref-type="bibr">24</xref>]. A series of cyclic voltammetry measurements were therefore conducted at concentrations of DSMeQUI 
+ <bold>20</bold> from 1 to 250 mM (
+ <xref ref-type="app" rid="app1-molecules-26-02227">Supporting Info., Figure S7</xref>). A drop of the concentration (C) and the scan rate (ν) normalized cathodic peak current (I
+ <sub>p</sub>/(ν
+ <sup>1/2</sup>C)) with increasing concentration was observed and indicated that the effective number of electrons decreased with increasing concentration. The same experiments conducted on QUI 
+ <bold>6</bold> indicated that the number of electrons involved in the redox reaction also decreased with increasing concentration. Owing to this complication, we were not able to determine the diffusion coefficient and the effective number of electrons via cyclic voltammetry, as we had one unknown too many. Instead, we utilized low-field NMR spectroscopy to investigate the possible aggregation of QUI 
+ <bold>6</bold> (
+ <xref ref-type="app" rid="app1-molecules-26-02227">Supporting Info., Figure S2</xref>) and DSMeQUI 
+ <bold>20</bold> (
+ <xref ref-type="fig" rid="molecules-26-02227-f010">Figure 10</xref>). 
+</p>

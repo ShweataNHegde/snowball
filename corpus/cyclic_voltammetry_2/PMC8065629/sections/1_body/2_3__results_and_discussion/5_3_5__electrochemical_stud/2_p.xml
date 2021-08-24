@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>According to XPS and XRD measurements, CoO, NiO, and NiCoO
+ <sub>2</sub> (Fm-3m) phases were present in the deposited films, while spinel crystal phases of Co
+ <sub>3</sub>O
+ <sub>4</sub> and Ni
+ <sub>x</sub>Co
+ <sub>(1−x)3</sub>O
+ <sub>4</sub> were not. We calculated the specific capacities per unit mass and volume based on the assumed electrochemical processes occurring with detected phases (Equations (2)–(4)) and experimental data [
+ <xref rid="B7-nanomaterials-11-00907" ref-type="bibr">7</xref>,
+ <xref rid="B71-nanomaterials-11-00907" ref-type="bibr">71</xref>,
+ <xref rid="B72-nanomaterials-11-00907" ref-type="bibr">72</xref>,
+ <xref rid="B73-nanomaterials-11-00907" ref-type="bibr">73</xref>]. The results are summarized in 
+ <xref rid="nanomaterials-11-00907-t006" ref-type="table">Table 6</xref>. 
+ <disp-formula>NiCoO
+  <sub>2</sub> + 4Li
+  <sup>+</sup> + 4e
+  <sup>−</sup> → Ni + Co + 2Li
+  <sub>2</sub>O,
+  <label>(2)</label>
+ </disp-formula>
+ <disp-formula>NiO + 2Li
+  <sup>+</sup> + 2e
+  <sup>−</sup> → Ni + Li
+  <sub>2</sub>O,
+  <label>(3)</label>
+ </disp-formula>
+ <disp-formula>CoO + 2Li
+  <sup>+</sup> + 2e
+  <sup>−</sup> → Co + Li
+  <sub>2</sub>O,
+  <label>(4)</label>
+ </disp-formula>
+</p>

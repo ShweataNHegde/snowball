@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <xref rid="F6" ref-type="fig">Figure 6H</xref> reports the second subcategory, quasi-solid electrolytes—mostly gel polymer electrolytes (GPE)—for Zn batteries. The main advantage of a quasi-solid GPE over an all-solid-state electrolyte is that the fast electrode kinetics of Zn in aqueous electrolyte is preserved, both at the interface(i.e., wetting) and in the bulk (i.e., ionic conductivity). In comparison with conventional aqueous electrolyte, the rationale for using GPE is manifold: (i) It stabilizes water molecules by abundant hydrogen bonds that can form on the polymer matrix; (ii) it expands the temperature window of the electrolyte; and (iii) it reportedly suppresses dendritic growth of Zn. A recent Review provides a comprehensive overview of the existing literature about the materials designs of the quasi-solid electrolytes for Zn (
+ <xref rid="R181" ref-type="bibr">
+  <italic>181</italic>
+ </xref>). An aspect that does not receive as much attention is the mechanoelectrochemical interaction associated with the creation of the solid metal phase at the interface between the electrode and the (quasi-)solid-state electrolyte (
+ <xref rid="F6" ref-type="fig">Fig. 6H</xref>, top). This interaction can be captured by a modified Butler-Volmer equation 
+ <inline-formula>
+  <math id="m24">
+   <mrow>
+    <mrow>
+     <mi>J</mi>
+     <mo>=</mo>
+     <msub>
+      <mi>J</mi>
+      <mn>0</mn>
+     </msub>
+     <mtext>exp</mtext>
+     <mo stretchy="true">[</mo>
+     <mfrac>
+      <mrow>
+       <mo stretchy="false">(</mo>
+       <msub>
+        <mi mathvariant="normal">β</mi>
+        <mi>m</mi>
+       </msub>
+       <mo>−</mo>
+       <mi mathvariant="normal">β</mi>
+       <mo stretchy="false">)</mo>
+       <mi mathvariant="normal">Ω</mi>
+       <msub>
+        <mi mathvariant="normal">σ</mi>
+        <mrow>
+         <mi mathvariant="normal">h</mi>
+         <mo>,</mo>
+         <mtext>surf</mtext>
+        </mrow>
+       </msub>
+      </mrow>
+      <mi mathvariant="normal">RT</mi>
+     </mfrac>
+     <mo stretchy="true">]</mo>
+     <mo stretchy="true">[</mo>
+     <mtext>exp</mtext>
+     <mo stretchy="true">(</mo>
+     <mfrac>
+      <mrow>
+       <mo stretchy="false">(</mo>
+       <mn>1</mn>
+       <mo>−</mo>
+       <mi mathvariant="normal">β</mi>
+       <mo stretchy="false">)</mo>
+       <mi>F</mi>
+       <mi mathvariant="normal">η</mi>
+      </mrow>
+      <mi mathvariant="normal">RT</mi>
+     </mfrac>
+     <mo stretchy="true">)</mo>
+     <mo>−</mo>
+     <mtext>exp</mtext>
+     <mo stretchy="true">(</mo>
+     <mfrac>
+      <mrow>
+       <mo>−</mo>
+       <mi mathvariant="normal">β</mi>
+       <mi>F</mi>
+       <mi mathvariant="normal">η</mi>
+      </mrow>
+      <mi mathvariant="normal">RT</mi>
+     </mfrac>
+     <mo stretchy="true">)</mo>
+     <mo stretchy="true">]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>, where β
+ <italic>
+  <sub>m</sub>
+ </italic> is the mechanical cathodic symmetry factor, σ
+ <sub>h, surf</sub> is the hydrostatic pressure on the surface, and Ω is the partial molar volume (
+ <xref rid="R182" ref-type="bibr">
+  <italic>182</italic>
+ </xref>, 
+ <xref rid="R183" ref-type="bibr">
+  <italic>183</italic>
+ </xref>). Phase-field modeling result shows that even in a ZnSO
+ <sub>4</sub>(aq) liquid electrolyte, nontrivial compressive stress develops at the deposition interface and initiates mossy growth of Zn (
+ <xref rid="R183" ref-type="bibr">
+  <italic>183</italic>
+ </xref>). In viscoelastic liquids and polymers, hydrostatic stresses at the interface stabilize the deposition; a critical shear modulus of the electrolyte exists 
+ <inline-formula>
+  <math id="m25">
+   <mrow>
+    <mrow>
+     <msup>
+      <mi>G</mi>
+      <mi mathvariant="normal">S</mi>
+     </msup>
+     <mo>≈</mo>
+     <mi mathvariant="normal">RT</mi>
+     <mo stretchy="true">[</mo>
+     <mo stretchy="true">(</mo>
+     <mn>1</mn>
+     <mo>−</mo>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mi>v</mi>
+        <mi mathvariant="normal">c</mi>
+       </msub>
+      </mrow>
+      <mrow>
+       <msub>
+        <mi>v</mi>
+        <mi mathvariant="normal">m</mi>
+       </msub>
+      </mrow>
+     </mfrac>
+     <mo stretchy="true">)</mo>
+     <mo stretchy="false">(</mo>
+     <msub>
+      <mi>v</mi>
+      <mi mathvariant="normal">c</mi>
+     </msub>
+     <mo>+</mo>
+     <msub>
+      <mi>v</mi>
+      <mrow>
+       <mi mathvariant="normal">a</mi>
+       <mo>,</mo>
+       <mi mathvariant="normal">m</mi>
+      </mrow>
+     </msub>
+     <mo stretchy="false">)</mo>
+     <mo stretchy="true">]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>, where 
+ <italic>v</italic>
+ <sub>c</sub>, 
+ <italic>v</italic>
+ <sub>m</sub>, and 
+ <italic>v</italic>
+ <sub>a,m</sub> are the partial molar volumes of the cation, the metal, and the mobile anion in the separator), above which dendritic growth is suppressed (
+ <xref rid="R66" ref-type="bibr">
+  <italic>66</italic>
+ </xref>, 
+ <xref rid="R184" ref-type="bibr">
+  <italic>184</italic>
+ </xref>). Stability analysis shows that unstable transport can be mechanically stopped when the deposit size is smaller than a critical value 
+ <inline-formula>
+  <math id="m26">
+   <mrow>
+    <mrow>
+     <msup>
+      <mi mathvariant="normal">λ</mi>
+      <mo>*</mo>
+     </msup>
+     <mo>≈</mo>
+     <mfrac>
+      <mrow>
+       <mi>v</mi>
+       <mi mathvariant="normal">σ</mi>
+       <msub>
+        <mi>t</mi>
+        <mtext>Li</mtext>
+       </msub>
+       <msup>
+        <mi>G</mi>
+        <mi mathvariant="normal">S</mi>
+       </msup>
+      </mrow>
+      <mi mathvariant="normal">JFL</mi>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>, meaning that the stable regime expands as 
+ <italic>G</italic>
+ <sup>S</sup> becomes larger (
+ <xref rid="F6" ref-type="fig">Fig. 6H</xref>, bottom). Recently, a previously unexplored regime was assessed in recent studies by Ahmad and Viswanathan (
+ <xref rid="R185" ref-type="bibr">
+  <italic>185</italic>
+ </xref>, 
+ <xref rid="R186" ref-type="bibr">
+  <italic>186</italic>
+ </xref>); in this regime, 
+ <italic>v</italic>
+ <sub>c</sub> is smaller than 
+ <italic>v</italic>
+ <sub>m</sub>, which is usually the case for inorganic solid electrolyte. Under these conditions, hydrostatic stresses destabilize the interface, and stable deposition is achieved at low electrolyte modulus (i.e., 
+ <italic>G</italic>
+ <sup>S</sup>/
+ <italic>G</italic>
+ <sup>M</sup> &lt; 0.7, where 
+ <italic>G</italic>
+ <sup>M</sup> is the shear modulus of the metal). These modeling and theoretical analyses provide roadmaps in designing (quasi-)solid-state electrolytes for Zn that stabilize the electrodeposition process. The third subcategory of electrolyte innovation centers on the concept of water-in-salt electrolytes (
+ <xref rid="F6" ref-type="fig">Fig. 6I</xref>), which has been discussed in detail in previous section. As is shown in 
+ <xref rid="F6" ref-type="fig">Fig. 6I</xref>, the Zn deposition undergoes a transition from a moss-like porous morphology to a more compact morphology as the #H
+ <sub>2</sub>O/#ZnCl
+ <sub>2</sub> ratio decreases (
+ <xref rid="R103" ref-type="bibr">
+  <italic>103</italic>
+ </xref>).
+</p>

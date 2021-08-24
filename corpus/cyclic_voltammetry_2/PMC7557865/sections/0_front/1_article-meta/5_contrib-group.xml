@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4362-7324</contrib-id>
+  <name>
+   <surname>Mladenović</surname>
+   <given-names>Dušan</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-nanomaterials-10-01805">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Vujković</surname>
+   <given-names>Milica</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-nanomaterials-10-01805">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-8155-8003</contrib-id>
+  <name>
+   <surname>Mentus</surname>
+   <given-names>Slavko</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-nanomaterials-10-01805">1</xref>
+  <xref ref-type="aff" rid="af2-nanomaterials-10-01805">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7920-2638</contrib-id>
+  <name>
+   <surname>Santos</surname>
+   <given-names>Diogo M. F.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-nanomaterials-10-01805">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-3161-9642</contrib-id>
+  <name>
+   <surname>Rocha</surname>
+   <given-names>Raquel P.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af4-nanomaterials-10-01805">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-7556-2858</contrib-id>
+  <name>
+   <surname>C. Sequeira</surname>
+   <given-names>Cesar A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-nanomaterials-10-01805">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-0395-8199</contrib-id>
+  <name>
+   <surname>Figueiredo</surname>
+   <given-names>Jose Luis</given-names>
+  </name>
+  <xref ref-type="aff" rid="af4-nanomaterials-10-01805">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Šljukić</surname>
+   <given-names>Biljana</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-nanomaterials-10-01805">1</xref>
+  <xref ref-type="aff" rid="af3-nanomaterials-10-01805">3</xref>
+  <xref rid="c1-nanomaterials-10-01805" ref-type="corresp">*</xref>
+ </contrib>
+</contrib-group>

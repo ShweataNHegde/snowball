@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par31">Herein, single-atom Fe-N
+ <sub>4</sub>/NC and Co-N
+ <sub>4</sub>/NC catalysts were prepared via ultrasonication-assisted plasma engineering. High-purity aniline was used as a solvent and NC matrix precursor, while the metal phthalocyanine (M = Fe, Co) acted as a coupling agent and precursor to form the M-N
+ <sub>4</sub> matrix. As the thermal decomposition of these phthalocyanines normally occurs at 570–750 °C [
+ <xref ref-type="bibr" rid="CR40">40</xref>], a mild annealing temperature of 550 °C was chosen for the single-atom catalyst synthesis to enhance the graphitization of NC and preserve the M-N
+ <sub>4</sub> molecular structure. The very low solubility of metal phthalocyanines in pure aniline results in easy agglomeration under typical plasma synthesis conditions, if there are no external forces to keep these large molecules separated. Thus, an ultrasonic homogenizer was additionally employed to ensure the atomic-level dispersion of M-N
+ <sub>4</sub> within the nitrogen–carbon matrix during plasma engineering. To verify the importance of homogenization, Co-N
+ <sub>4</sub>/NC was synthesized in the absence of the above homogenizer under otherwise identical conditions, and Co nanoparticles were detected in the resulting NC matrix (Fig. S1a–e). The corresponding X-ray diffraction (XRD) pattern featured peaks at 2θ = 44°, 52°, and 76° that were ascribed to the [110], [200], and [220] planes of Co metal, respectively (Fig. S1f). Notably, our novel strategy allowed the facile synthesis of atomically dispersed M-N
+ <sub>4</sub>/NC (M = Fe, Co) electrocatalysts with ORR/OER activities and stabilities superior to those of commercial noble-metal-based catalysts. Specifically, Co-N
+ <sub>4</sub>/NC exhibited a bifunctional potential drop (Δ
+ <italic>E</italic> = 
+ <italic>E</italic>
+ <sub>
+  <italic>j</italic>=10
+ </sub> − 
+ <italic>E</italic>
+ <sub>1/2</sub> = 0.79 V) superior to that of the benchmark Pt/C-Ru/C (Δ
+ <italic>E</italic>
+ <sub>Pt/C-Ru/C</sub> = 0.88 V) at the same loading. Free energy changes determined by density functional theory (DFT) calculations suggested that the O
+ <sub>2</sub> adsorption–desorption performance of Co-N
+ <sub>4</sub>/NC is superior to that of the well-studied Fe-N
+ <sub>4</sub>/NC, in line with experimental results. Finally, in rechargeable ZABs, the Co-N
+ <sub>4</sub>/NC-based air electrode achieved higher power density, higher specific capability, and better durability than that constructed using a commercial Pt/C-Ru/C catalyst.
+</p>

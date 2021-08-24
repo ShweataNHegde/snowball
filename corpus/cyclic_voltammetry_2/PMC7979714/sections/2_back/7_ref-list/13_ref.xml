@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR13">
+ <label>13.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mu</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Rational design of spinel cobalt vanadate oxide Co2VO4 for superior electrocatalysis</article-title>
+  <source>Adv. Mater.</source>
+  <year>2020</year>
+  <volume>32</volume>
+  <fpage>e1907168</fpage>
+  <pub-id pub-id-type="doi">10.1002/adma.201907168</pub-id>
+  <?supplied-pmid 31999016?>
+  <pub-id pub-id-type="pmid">31999016</pub-id>
+ </element-citation>
+</ref>

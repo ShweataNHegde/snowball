@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par19">In order to understand the nature of binding between NaPSs and the cathode hosts, the enthalpy of Na
+ <sub>2</sub>S
+ <sub>
+  <italic>y</italic>
+ </sub> polysulfide molecules of different chain lengths (
+ <italic>y</italic> = 1, 2, 4, 5, and 6) bound to both the p-CoS
+ <sub>2</sub> (100) surface and a graphene sheet were calculated. The formation energy of the NaPSs molecules was taken as the difference in the energy between a slab of the cathode host with (
+ <italic>E</italic>
+ <sub>slab+NaxS</sub>) and without the NaPSs (
+ <italic>E</italic>
+ <sub>slab</sub>), referenced to the solid S and Na
+ <sub>2</sub>S phases via 
+ <italic>E</italic>
+ <sub>form</sub> = 
+ <italic>E</italic>
+ <sub>slab+NaxS</sub> − 
+ <italic>E</italic>
+ <sub>slab</sub> − 
+ <italic>x</italic>/2 × 
+ <italic>E</italic>
+ <sub>Na2S</sub> − (1 − 
+ <italic>x</italic>/2) × 
+ <italic>E</italic>
+ <sub>s</sub>. The effects of solvation on the slabs with and without the bound NaPSs were taken into account via the inclusion of an implicit solvation model in VASPsol
+ <sup>
+  <xref ref-type="bibr" rid="CR43">43</xref>
+ </sup>. The lowest energy binding geometries for each NaPS are shown in (Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">25</xref>). The formation energies (
+ <italic>E</italic>
+ <sub>form</sub>) of solid phases of Na
+ <sub>2</sub>S, Na
+ <sub>2</sub>S
+ <sub>2</sub>, Na
+ <sub>2</sub>S
+ <sub>4</sub>, Na
+ <sub>2</sub>S
+ <sub>5</sub>, Na
+ <sub>2</sub>S
+ <sub>6</sub>, and S were calculated using the SCAN + rvv10 functional as shown in Fig. 
+ <xref rid="Fig7" ref-type="fig">7</xref> (black symbols). The formation energies of intermediate Na
+ <sub>2</sub>S
+ <sub>
+  <italic>y</italic>
+ </sub> phases (
+ <italic>E</italic>
+ <sub>Na
+  <italic>x</italic>S
+ </sub>) normalised to one mol of S (
+ <italic>x</italic> = 2/
+ <italic>y</italic>) are reported relative to the end member configurations of Na
+ <sub>2</sub>S (
+ <italic>E</italic>
+ <sub>Na2S</sub>) and S (
+ <italic>E</italic>
+ <sub>s</sub>) by the formula 
+ <italic>E</italic>
+ <sub>form</sub> = E
+ <sub>Na
+  <italic>x</italic>S
+ </sub> − 
+ <italic>x</italic>/2 × 
+ <italic>E</italic>
+ <sub>Na2S</sub> − (1 − 
+ <italic>x</italic>/2) × 
+ <italic>E</italic>
+ <sub>s</sub>. With respect to Na metal, the sequence of reactions from S → Na
+ <sub>2</sub>S
+ <sub>5</sub> → Na
+ <sub>2</sub>S
+ <sub>4</sub> → Na
+ <sub>2</sub>S
+ <sub>2</sub> → Na
+ <sub>2</sub>S are predicted to occur at voltages of 2.28 V → 2.08 V → 1.91 V → 1.82 V, which are in good agreement with previous computational studies
+ <sup>
+  <xref ref-type="bibr" rid="CR44">44</xref>
+ </sup> and the experimental cycling data in Fig. 
+ <xref rid="Fig6" ref-type="fig">6a</xref>, particularly for the reactions from S to Na
+ <sub>2</sub>S
+ <sub>4</sub>, where a significant overpotential does not occur. The formation energy of the free Na
+ <sub>2</sub>S
+ <sub>
+  <italic>y</italic>
+ </sub> molecules in the presence of the implicit solvent, but without the presence of the catalyst host, is also shown in Fig. 
+ <xref rid="Fig7" ref-type="fig">7</xref> to approximate the energy of the “liquid” state. From Fig. 
+ <xref rid="Fig7" ref-type="fig">7</xref>, it can be seen that the formation energy of the NaPSs bound to the graphene cathode host is very similar to the free NaPSs in the “liquid”, indicating a very weak binding between the nonpolar graphene surface and the NaPSs as observed in previous studies
+ <sup>
+  <xref ref-type="bibr" rid="CR45">45</xref>
+ </sup>.
+</p>

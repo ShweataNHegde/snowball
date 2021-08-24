@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR9">
+ <label>9.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Melemed</surname>
+    <given-names>AM</given-names>
+   </name>
+   <name>
+    <surname>Khurram</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Gallant</surname>
+    <given-names>BM</given-names>
+   </name>
+  </person-group>
+  <article-title>Current understanding of nonaqueous electrolytes for calcium-based batteries</article-title>
+  <source>Batter. Supercaps</source>
+  <year>2020</year>
+  <volume>3</volume>
+  <fpage>570</fpage>
+  <lpage>580</lpage>
+  <pub-id pub-id-type="doi">10.1002/batt.201900219</pub-id>
+  <?supplied-pmid 33688622?>
+  <pub-id pub-id-type="pmid">33688622</pub-id>
+ </element-citation>
+</ref>

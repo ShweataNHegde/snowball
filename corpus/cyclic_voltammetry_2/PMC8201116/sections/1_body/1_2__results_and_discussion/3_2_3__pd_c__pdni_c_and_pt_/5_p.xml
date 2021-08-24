@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The amount of hydrogen peroxide generated during the ORR could potentially be measured using the rotating ring-disk electrode (RRDE) approach. The ORR can be determined by two electrons or four electrons based on the amount of H
+ <sub>2</sub>O
+ <sub>2</sub> relative to the amount of O
+ <sub>2</sub> reduced (
+ <xref ref-type="fig" rid="molecules-26-03440-f006">Figure 6</xref>, inset: Comparison of the production of %H
+ <sub>2</sub>O
+ <sub>2</sub>). Equation (13) [
+ <xref rid="B35-molecules-26-03440" ref-type="bibr">35</xref>] can be used to compute the proportion of H
+ <sub>2</sub>O
+ <sub>2</sub> in percent. 
+ <disp-formula id="FD8-molecules-26-03440">
+  <label>(13)</label>
+  <math id="mm8">
+   <mrow>
+    <mrow>
+     <msub>
+      <mrow>
+       <mrow>
+        <mo>%</mo>
+        <mi mathvariant="normal">H</mi>
+       </mrow>
+      </mrow>
+      <mn>2</mn>
+     </msub>
+     <msub>
+      <mi mathvariant="normal">O</mi>
+      <mn>2</mn>
+     </msub>
+     <mo>=</mo>
+     <mn>100</mn>
+     <mo>·</mo>
+     <mo>(</mo>
+     <mn>2</mn>
+     <mo>·</mo>
+     <mfrac>
+      <mrow>
+       <mfrac bevelled="true">
+        <mrow>
+         <msub>
+          <mi mathvariant="normal">i</mi>
+          <mi mathvariant="normal">r</mi>
+         </msub>
+        </mrow>
+        <mi mathvariant="normal">N</mi>
+       </mfrac>
+      </mrow>
+      <mrow>
+       <msub>
+        <mi mathvariant="normal">i</mi>
+        <mi mathvariant="normal">d</mi>
+       </msub>
+       <mo>+</mo>
+       <mfrac bevelled="true">
+        <mrow>
+         <msub>
+          <mi mathvariant="normal">i</mi>
+          <mi mathvariant="normal">r</mi>
+         </msub>
+        </mrow>
+        <mi mathvariant="normal">N</mi>
+       </mfrac>
+      </mrow>
+     </mfrac>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where i
+ <sub>r</sub> is the current measured in the ring, i
+ <sub>d</sub> is the current measured on the disk and N is the collection efficiency of the ring-disk electrode, which depends on the dimensions of the gap between the disk and the ring [
+ <xref rid="B36-molecules-26-03440" ref-type="bibr">36</xref>]. 
+ <xref ref-type="fig" rid="molecules-26-03440-f006">Figure 6</xref> and 
+ <xref rid="molecules-26-03440-t003" ref-type="table">Table 3</xref> show that the production of H
+ <sub>2</sub>O
+ <sub>2</sub> is higher in the case of Pd/C and Pt/C but reduces as the amount of Ni in the catalyst increases, implying that the addition of Ni favors the ORR via near 4 electrons. 
+ <xref ref-type="fig" rid="molecules-26-03440-f006">Figure 6</xref> depicts the production of hydrogen peroxide in the given potential profile. In comparison to Pd/C and Pt/C, 
+ <xref ref-type="fig" rid="molecules-26-03440-f006">Figure 6</xref> and 
+ <xref rid="molecules-26-03440-t003" ref-type="table">Table 3</xref> show that ORR catalytic activity of all proportions of PdNi/C, specifically PdNi/C 70:30, PdNi/C 60:40, and PdNi/C 50:50, is around 90.74%, 93.82%, and 94.60% conversion of O
+ <sub>2</sub> molecules to OH
+ <sup>−</sup>, respectively, reflecting almost 4 electrons reaction mechanism. It can be seen that Ni enhances ORR in alkaline solutions as well, and that the 4-electron path is strongly favored. The H
+ <sub>2</sub>O
+ <sub>2</sub> percentages are summarized in 
+ <xref ref-type="fig" rid="molecules-26-03440-f006">Figure 6</xref> and 
+ <xref rid="molecules-26-03440-t003" ref-type="table">Table 3</xref>. For all atomic ratios of PdNi/C, the percent of H
+ <sub>2</sub>O
+ <sub>2</sub> decreases, especially for PdNi/C 50:50 (5.40%) compared to Pd/C (25.03%) and Pt/C (43.35%). In comparison to PdNi/C, the significant production of H
+ <sub>2</sub>O
+ <sub>2</sub> in Pd/C and Pt/C might be attributed to maximum adsorption on the surface of Pd/C and Pt/C, where all active sites are finished for readsorption [
+ <xref rid="B37-molecules-26-03440" ref-type="bibr">37</xref>].
+</p>

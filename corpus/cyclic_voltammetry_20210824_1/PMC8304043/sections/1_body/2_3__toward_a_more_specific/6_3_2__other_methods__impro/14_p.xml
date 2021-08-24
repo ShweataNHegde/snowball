@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Finally, other studies use computational methods (as DFT calculations) to determine the electrochemical stability of liquid and solid electrolytes [
+ <xref rid="B131-materials-14-03840" ref-type="bibr">131</xref>,
+ <xref rid="B132-materials-14-03840" ref-type="bibr">132</xref>] or a complementary study involving both experimental and computational methods [
+ <xref rid="B126-materials-14-03840" ref-type="bibr">126</xref>,
+ <xref rid="B127-materials-14-03840" ref-type="bibr">127</xref>,
+ <xref rid="B133-materials-14-03840" ref-type="bibr">133</xref>,
+ <xref rid="B134-materials-14-03840" ref-type="bibr">134</xref>,
+ <xref rid="B135-materials-14-03840" ref-type="bibr">135</xref>]. In their work, Thompson et al. [
+ <xref rid="B134-materials-14-03840" ref-type="bibr">134</xref>] proposed a complementary computational/experimental work by using alternating current electrochemical impedance spectroscopy, direct current chronoamperometry, and optical absorption band gap measurements combined with first-principles calculations to characterize the electrochemical window of the Li
+ <sub>7</sub>La
+ <sub>3</sub>Zr
+ <sub>2</sub>O
+ <sub>12</sub> (LLZO) solid electrolyte. These first-principles calculations were used to predict the density of states (DOS), band gap, and absolute positions of the band edges for LLZO. Authors employed three different levels of theory: (1) the semi-local generalized gradient approximation (DFT-GGA) of Perdew, Burke, and Ernzerhof (PBE); (2) the hybrid functional of Heyd, Scuseria, and Ernzerhof (HSE06); and (3) quasi-particle (QP) calculations based on many-body perturbation theory (G0W0 method). These methods were already used to predict the ESW of liquid electrolytes at electrode interfaces. This work is one of the good examples of the complementarity between experimental and computational methods that can improve the accuracy of the ESW evaluation of electrolytes including SPEs and SCEs.
+</p>

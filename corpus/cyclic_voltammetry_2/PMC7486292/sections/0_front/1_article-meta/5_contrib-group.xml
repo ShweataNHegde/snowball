@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nam</surname>
+   <given-names>Jaebin</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kim</surname>
+   <given-names>Eunsoo</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>K.K.</surname>
+   <given-names>Rajeev</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kim</surname>
+   <given-names>Yeonho</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Kim</surname>
+   <given-names>Tae-Hyun</given-names>
+  </name>
+  <address>
+   <email>tkim@inu.ac.kr</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.412977.e</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0532 7395</institution-id>
+   <institution>Organic Material Synthesis Laboratory, Department of Chemistry, </institution>
+   <institution>Incheon National University, </institution>
+  </institution-wrap>Incheon, South Korea 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.412977.e</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0532 7395</institution-id>
+   <institution>Research Institute of Basic Sciences, Incheon National University, </institution>
+  </institution-wrap>119 Academy-ro, Songdo-dong, Yeonsu-gu, Incheon, 22012 South Korea 
+ </aff>
+</contrib-group>

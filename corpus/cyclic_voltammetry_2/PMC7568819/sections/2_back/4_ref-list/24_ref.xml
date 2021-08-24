@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B25">
+ <label>25</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Arslan</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Kiralp</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Toppare</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Bozkurt</surname>
+    <given-names>A.</given-names>
+   </name>
+  </person-group>
+  <article-title>Novel conducting polymer electrolyte biosensor based on poly(1-vinyl imidazole) and poly(acrylic acid) networks</article-title>
+  <source>
+   <italic toggle="yes">Langmuir</italic>
+  </source>
+  <year>2006</year>
+  <volume>22</volume>
+  <issue>6</issue>
+  <fpage>2912</fpage>
+  <lpage>2915</lpage>
+  <pub-id pub-id-type="doi">10.1021/la0530539</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-33645535595</pub-id>
+  <?supplied-pmid 16519503?>
+  <pub-id pub-id-type="pmid">16519503</pub-id>
+ </element-citation>
+</ref>

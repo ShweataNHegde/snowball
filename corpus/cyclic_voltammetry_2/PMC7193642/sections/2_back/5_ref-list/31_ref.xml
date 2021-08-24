@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR31">
+ <label>31.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nakanishi</surname>
+    <given-names>K</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Novel spectro-electrochemical cell for 
+   <italic>in situ</italic>/operando observation of common composite electrode with liquid electrolyte by X-ray absorption spectroscopy in the tender X-ray region
+  </article-title>
+  <source>Rev. Sci. Instrum.</source>
+  <year>2014</year>
+  <volume>85</volume>
+  <fpage>084103</fpage>
+  <pub-id pub-id-type="doi">10.1063/1.4891036</pub-id>
+  <?supplied-pmid 25173283?>
+  <pub-id pub-id-type="pmid">25173283</pub-id>
+ </element-citation>
+</ref>

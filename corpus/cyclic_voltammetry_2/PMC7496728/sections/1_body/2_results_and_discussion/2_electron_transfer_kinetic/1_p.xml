@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Well-characterized redox couples are often used to study the electrochemical behavior of electrode materials in combination with a certain electrolyte.
+ <sup>
+  <xref ref-type="bibr" rid="ref2">2</xref>
+ </sup> Here, we use the ferrocene/ferrocenium couple
+ <sup>
+  <xref ref-type="bibr" rid="ref54">54</xref>
+ </sup> to compare the electrochemical behavior of the CVD graphene electrodes with that of glassy carbon in the DES.
+ <sup>
+  <xref ref-type="bibr" rid="ref67">67</xref>
+ </sup> This couple is known to undergo an outer-sphere one-electron transfer, that is, without strong interaction (bond formation) with the electrode material and is thus well suited for comparing the heterogeneous charge transfer rate at different electrode materials. Typical features of the cyclic voltammograms of this redox couple, such as the peak potentials and peak currents and their variation with the scan rate, can be used as diagnostic criteria to estimate the rate of heterogeneous charge transfer. If the charge transfer is fast on the timescale of the experiment (reversible or Nernstian system), the peak potentials should be independent of scan rate, and a peak potential difference, Δ
+ <italic>E</italic>
+ <sub>p</sub>, of 59 mV is expected for the one-electron transfer of ferrocene. In this case, the reaction is diffusion controlled and the forward peak currents should be proportional to the square root of the scan rate. The linear regression of the corresponding plot should pass through the origin, and the diffusion coefficient can be calculated from the slope with the Randles–Sevcik equation (
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">eq S1</ext-link> in the Supporting Information). The cyclic voltammograms of 3.2 mM ferrocene between 0 and + 2 V on the graphene electrodes in 
+ <xref rid="fig3" ref-type="fig">Figure 
+  <xref rid="fig3" ref-type="fig">3</xref>
+ </xref> (blue traces) show peak potential differences, Δ
+ <italic>E</italic>
+ <sub>p</sub>, to vary between 145 and 446 mV at sweep rates ν from 10 to 500 mV s
+ <sup>–1</sup> (
+ <xref rid="tbl1" ref-type="other">Table 
+  <xref rid="tbl1" ref-type="other">1</xref>
+ </xref>). Such large values for Δ
+ <italic>E</italic>
+ <sub>p</sub> and their strong dependence on the sweep rate indicate slow charge transfer at the monolayer graphene electrodes in 12 CE (quasi-reversible behavior), although some contribution to Δ
+ <italic>E</italic>
+ <sub>p</sub> of the uncompensated ohmic resistance of the electrolyte and across the macroscopically large CVD graphene layer cannot be ruled out (
+ <italic>iR</italic> drop). A minimum value of 1.0 × 10
+ <sup>–4</sup> cm s
+ <sup>–1</sup> for the apparent heterogeneous rate constant of ferrocene at the CVD graphene electrode is estimated from the data in 
+ <xref rid="tbl1" ref-type="other">Table 
+  <xref rid="tbl1" ref-type="other">1</xref>
+ </xref> via the work function by Nicholson.
+ <sup>
+  <xref ref-type="bibr" rid="ref68">68</xref>
+ </sup> Prior literature
+ <sup>
+  <xref ref-type="bibr" rid="ref62">62</xref>
+ </sup> has argued that the contribution at edges and defects to the heterogeneous electron transfer rate is much higher than that at the basal plane for graphene. We note, however, that our measurement provides a mean value for which contributions from graphene’s basal plane, edges, and point defects cannot be differentiated. In agreement with the background experiments above, the graphene electrodes are not degraded by cyclic voltammetry of ferrocene up to anodic potentials of 2 V vs Zn/Zn
+ <sup>2+</sup> as evidenced by the Raman spectrum in Supporting Information 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S2</ext-link>, which does not show any indications for induced defects. The observation of slow charge transfer and the magnitude of the measured apparent heterogeneous rate constant are in line with prior reports in the literature for similar outer-sphere redox couples at monolayer graphene in other electrolytes.
+ <sup>
+  <xref ref-type="bibr" rid="ref2">2</xref>
+ </sup> This behavior for outer-sphere redox probes such as ferrocene has been suggested to be linked to the low density of electronic states at the Fermi level of graphene and of the basal plane of highly ordered pyrolytic graphite (HOPG).
+ <sup>
+  <xref ref-type="bibr" rid="ref69">69</xref>
+ </sup>
+</p>

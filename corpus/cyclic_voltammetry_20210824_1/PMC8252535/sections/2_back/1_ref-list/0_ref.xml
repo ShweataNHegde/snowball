@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="cssc202100364-bib-0001">
+ <label>1</label>
+ <mixed-citation publication-type="journal" id="cssc202100364-cit-0001">
+  <string-name>
+   <given-names>Z.</given-names>
+   <surname>Zhao</surname>
+  </string-name>, 
+  <string-name>
+   <given-names>J.</given-names>
+   <surname>Huang</surname>
+  </string-name>, 
+  <string-name>
+   <given-names>Z.</given-names>
+   <surname>Peng</surname>
+  </string-name>, 
+  <source xml:lang="en">Angew. Chem. Int. Ed.</source>
+  <year>2018</year>, 
+  <volume>57</volume>, 
+  <fpage>3874</fpage>;
+ </mixed-citation>
+ <mixed-citation publication-type="journal" id="cssc202100364-cit-0002">
+  <source xml:lang="en">Angew. Chem.</source>
+  <year>2018</year>, 
+  <volume>130</volume>, 
+  <fpage>3963</fpage>–
+  <lpage>3949</lpage>.
+ </mixed-citation>
+</ref>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par16">XRD pattern shows a diffraction peak at 19.93° indexed to the (112) plane that was strongly attributed to Na
+ <sub>2</sub>S
+ <sub>4</sub> (JCPDF# 25-1112) and it was robustly confirmed with HRTEM/SAED (Fig. 
+ <xref rid="Fig5" ref-type="fig">5c, d</xref>) and a Raman vibrational band at 472 cm
+ <sup>−1</sup>
+ <sup>
+  <xref ref-type="bibr" rid="CR25">25</xref>
+ </sup>. Furthermore, for discharge at 1.2 V, a new XRD diffraction peak was generated at 11.84° which is indexed to the (101) plane of Na
+ <sub>2</sub>S
+ <sub>2</sub> (JCPDF#81-1764) and was subsequently confirmed with HRTEM/SAED (Fig. 
+ <xref rid="Fig5" ref-type="fig">5e, f</xref>) and a Raman vibrational band at 474 cm
+ <sup>−1</sup> for Na
+ <sub>2</sub>S
+ <sub>2</sub>
+ <sup>
+  <xref ref-type="bibr" rid="CR25">25</xref>
+ </sup>. Subsequently, when the cell was deeply discharged at 0.8 V, a new peak at 16.5° was generated which indexed to the (122) plane of JCPDF#47-0178 and is ascribed to Na
+ <sub>2</sub>S
+ <sup>
+  <xref ref-type="bibr" rid="CR41">41</xref>
+ </sup>. Figure 
+ <xref rid="Fig5" ref-type="fig">5i</xref> shows the CV curve labeled with polysulfide formed at different voltage during discharge process. Figure 
+ <xref rid="Fig5" ref-type="fig">5g, h</xref> showing HRTEM/SAED and a Raman vibrational band (Fig. 
+ <xref rid="Fig6" ref-type="fig">6b</xref>) at 473 cm
+ <sup>−1</sup> which is attributed to Na
+ <sub>2</sub>S, supporting the XRD result. The first discharge process could, therefore, be labeled with corresponding polysulfides as described in Fig. 
+ <xref rid="Fig6" ref-type="fig">6a</xref>, and the entire reduction process can be written as follows:
+ <disp-formula id="Equa">
+  <alternatives>
+   <tex-math id="M1">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\rm{S}} \to {\rm{Na}}_2{\rm{S}}_{\rm{X}} \to {\rm{Na}}_2{\rm{S}}_{6,5} \to {\rm{Na}}_2{\rm{S}}_{4,3} \to {\rm{Na}}_2{\rm{S}}_2 \to {\rm{Na}}_2{\rm{S}}$$\end{document}</tex-math>
+   <math id="M2">
+    <mi mathvariant="normal">S</mi>
+    <mo>→</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="normal">Na</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msub>
+    <msub>
+     <mrow>
+      <mi mathvariant="normal">S</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="normal">X</mi>
+     </mrow>
+    </msub>
+    <mo>→</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="normal">Na</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msub>
+    <msub>
+     <mrow>
+      <mi mathvariant="normal">S</mi>
+     </mrow>
+     <mrow>
+      <mn>6</mn>
+      <mo>,</mo>
+      <mn>5</mn>
+     </mrow>
+    </msub>
+    <mo>→</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="normal">Na</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msub>
+    <msub>
+     <mrow>
+      <mi mathvariant="normal">S</mi>
+     </mrow>
+     <mrow>
+      <mn>4</mn>
+      <mo>,</mo>
+      <mn>3</mn>
+     </mrow>
+    </msub>
+    <mo>→</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="normal">Na</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msub>
+    <msub>
+     <mrow>
+      <mi mathvariant="normal">S</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msub>
+    <mo>→</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="normal">Na</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msub>
+    <mi mathvariant="normal">S</mi>
+   </math>
+   <graphic xlink:href="41467_2020_19078_Article_Equa.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>When the cell was charged to 2.8 V, Na
+ <sub>2</sub>S and Na
+ <sub>2</sub>S
+ <sub>5</sub> are not detected in the XRD pattern. This means that the conversion rate of short-chain polysulfides to long-chain polysulfides is fast, and that could be a reason why Na
+ <sub>2</sub>S and Na
+ <sub>2</sub>S
+ <sub>5</sub> are not detected with in situ XRD. In addition, the intensity of the XRD peaks decreases, which indicates a fast transformation of S to long-chain Na-polysulfides and to Na
+ <sub>2</sub>S. This study elucidates the reduction reactions of S to Na
+ <sub>2</sub>S and presents a new mechanism to explore the significance of polar and catalytic BPCS. The polar and catalytic BPCS diminishes the dissolution of polysulfides, facilitates the fast transformation of long-chain polysulfides to Na
+ <sub>2</sub>S, alleviates the shuttle effect, and delivers excellent electrochemical performance. Furthermore, to check for dissolution of polysulfides in the electrolyte, the fiberglass disk that was used as a separator was removed from the cell after cycling for ex situ XPS of S. Figure 
+ <xref rid="Fig6" ref-type="fig">6c</xref> (c
+ <sub>1</sub>–c
+ <sub>3</sub>) shows high-resolution XPS spectra of S for the S@BPCTE, S@BPCSE, and S@BPCS batteries separators, respectively. The peaks in the range of binding energies of 160–165 eV are due to dissolved polysulfides
+ <sup>
+  <xref ref-type="bibr" rid="CR27">27</xref>
+ </sup> and the peaks in the range of 165–170 eV are due to the formation of SO
+ <sub>
+  <italic>X</italic>
+ </sub>. Figure 
+ <xref rid="Fig6" ref-type="fig">6c</xref> (c
+ <sub>3</sub>) shows that there are no Na-polysulfide peaks in S@BPCS separator and the rest have dissolved polysulfide peaks. These findings clearly demonstrate that the polar and catalytic BPCS can efficiently capture the Na-polysulfides.
+</p>

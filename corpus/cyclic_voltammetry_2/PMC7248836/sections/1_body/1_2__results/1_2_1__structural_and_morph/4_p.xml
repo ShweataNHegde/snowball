@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>As reported in the literature [
+ <xref rid="B33-molecules-25-02121" ref-type="bibr">33</xref>,
+ <xref rid="B34-molecules-25-02121" ref-type="bibr">34</xref>], the growth reactions of the TiO
+ <sub>2</sub> NTs involve the field-assisted oxidation reaction of metal, field-assisted dissolution, and the chemical dissolution of the anodic layers. In this work, once a high potential of 60 V is applied to Ti alloys, an oxidation reaction occurs at the metal/metal oxide interface to generate Ti
+ <sup>4+</sup>. The interaction of Ti
+ <sup>4+</sup> with O
+ <sup>2-</sup> and OH
+ <sup>-</sup> ions supplied by water molecules in the electrolyte produces a barrier layer of TiO
+ <sub>2</sub> and Ti(OH)
+ <sub>4</sub>. Eventually, the Ti(OH)
+ <sub>4</sub> creates TiO
+ <sub>2</sub> and releases water via a condensation reaction. Meanwhile, the hydrogen evolution takes place to form hydrogen ions and electrons at the Pt counter electrode surfaces [
+ <xref rid="B35-molecules-25-02121" ref-type="bibr">35</xref>]. The chemical reactions involved during this process are represented in the following Equations (1)–(5):
+ <disp-formula>Ti → Ti
+  <sup>4+</sup> + 4e
+  <sup>−</sup>
+  <label>(1)</label>
+ </disp-formula>
+ <disp-formula>Ti
+  <sup>4+</sup> + 2O
+  <sup>2−</sup> → TiO
+  <sub>2</sub>
+  <label>(2)</label>
+ </disp-formula>
+ <disp-formula>Ti
+  <sup>4+</sup> + 4OH
+  <sup>−</sup> → Ti(OH)
+  <sub>4</sub>
+  <label>(3)</label>
+ </disp-formula>
+ <disp-formula>Ti(OH)
+  <sub>4</sub> → TiO
+  <sub>2</sub> + 2H
+  <sub>2</sub>O
+  <label>(4)</label>
+ </disp-formula>
+ <disp-formula>4H
+  <sup>+</sup> + 4e
+  <sup>−</sup> → 2H
+  <sub>2</sub>.
+  <label>(5)</label>
+ </disp-formula>
+</p>

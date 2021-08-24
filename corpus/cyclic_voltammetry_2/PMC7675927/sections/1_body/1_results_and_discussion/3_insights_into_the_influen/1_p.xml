@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Generally, the electrocatalytic ORR and OER activities are affected by the valence state of transition metals.
+ <sup>
+  <xref ref-type="bibr" rid="ref55">55</xref>−
+  <xref ref-type="bibr" rid="ref57">57</xref>
+ </sup> However, only slight differences among CMOs were observed in the Co and Mn K-edge XANES spectra (
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S1</ext-link>). This indicates that valence states do not differ among CMOs. To explain the exceptional ORR and OER activities of CMO_L, the local metal configurations in the structures were analyzed by the EXAFS spectra. 
+ <xref rid="fig6" ref-type="fig">Figure 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref> displays the EXAFS spectra of CMOs. The coordination states of Co and Mn cations were determined by a fitting analysis, and the results are shown in 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Table S3</ext-link> of the 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Supporting Information</ext-link>. The second coordination numbers of Co and the neighbor metal (M) were significantly larger for CMO_L when compared to CMO_T and S. The larger metal–metal coordination number on CMO_L can be a result of the drying step performed after the formation of the template structures in the synthesis process. The structures of CMOs were selectively formed by controlling the Co cation hydration. When hydrated water was eliminated by drying, the structures of CMO_T and S remained unchanged owing to the rigid frames of the tunnel and spinel structures, respectively.
+ <sup>
+  <xref ref-type="bibr" rid="ref46">46</xref>
+ </sup> In contrast, the layered structure in CMO_L is flexible on the 
+ <italic>c</italic>-axis, which led to the interlayer spaces shrinking when dried.
+ <sup>
+  <xref ref-type="bibr" rid="ref46">46</xref>
+ </sup> Therefore, the compression of the interlayer can induce a more-packed layered structure, leading to a larger number of Co–metal and Mn–metal coordination. It is well-known that metal–metal coordination plays a crucial role in ORR and OER activities
+ <sup>
+  <xref ref-type="bibr" rid="ref38">38</xref>,
+  <xref ref-type="bibr" rid="ref58">58</xref>
+ </sup> owing to its effect on the binding sites and strength of intermediates on the catalyst surfaces. For instance, metal coordination significantly affected the OER activities on Mn and Co-based oxides,
+ <sup>
+  <xref ref-type="bibr" rid="ref59">59</xref>
+ </sup> and the ORR and OER activities of Co-based electrocatalysts were improved when increasing the Co–Co coordination numbers.
+ <sup>
+  <xref ref-type="bibr" rid="ref60">60</xref>,
+  <xref ref-type="bibr" rid="ref61">61</xref>
+ </sup>Additionally, reports have shown that a larger number of Mn–Mn coordination induced a higher intrinsic OER activity of metal oxide polymorphs.
+ <sup>
+  <xref ref-type="bibr" rid="ref38">38</xref>
+ </sup> These higher activities with larger metal–metal coordination numbers are consistent with the enzymatic oxygen reduction and water oxidation in nature using polynuclear metal complexes, which are required for four-electron ORR and OER in heme-copper oxidases
+ <sup>
+  <xref ref-type="bibr" rid="ref62">62</xref>
+ </sup> and photosystem II,
+ <sup>
+  <xref ref-type="bibr" rid="ref63">63</xref>
+ </sup> respectively. Therefore, the high intrinsic ORR and OER activities in CMO_L can be ascribed to the different conditions in Co cation coordination.
+</p>

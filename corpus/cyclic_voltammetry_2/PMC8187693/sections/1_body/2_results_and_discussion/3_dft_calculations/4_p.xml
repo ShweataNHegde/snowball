@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par58">The 
+ <italic>η</italic>
+ <sub>OER</sub>
+ <italic>/η</italic>
+ <sub>ORR</sub> of Co-N
+ <sub>4</sub> and Fe-N
+ <sub>4</sub> is calculated based on the highest energy barrier at the rate-determining step (RDS). In the case of Co-N
+ <sub>4</sub>/NC, the RDS of OER is found to be the conversion of OOH* to O
+ <sub>2</sub> (OOH
+ <sup>*</sup> → O
+ <sub>2</sub>(g) + H
+ <sup>+</sup> + e
+ <sup>−</sup>), while the last step in ORR (OH* + H
+ <sup>+</sup> + e
+ <sup>−</sup> → H
+ <sub>2</sub>O(l) + 
+ <sup>*</sup>) requires the highest energy uphill. In case of Fe-N
+ <sub>4</sub>/NC, the RDS of OER belongs to step III (O
+ <sup>*</sup> → OOH
+ <sup>*</sup> + H
+ <sup>+</sup> + e
+ <sup>−</sup>), where step IV (OH
+ <sup>*</sup> + H
+ <sup>+</sup> + e
+ <sup>−</sup> → H
+ <sub>2</sub>O(l) + 
+ <sup>*</sup>) presents the greatest energy barrier in ORR. Based on their corresponding free energy, the 
+ <italic>η</italic>
+ <sub>OER</sub> of Co-N
+ <sub>4</sub> and Fe-N
+ <sub>4</sub> calculated from DFT calculations is 0.19 and 0.82 V, respectively. Meanwhile, the corresponding 
+ <italic>η</italic>
+ <sub>ORR</sub> of Co-N
+ <sub>4</sub> and Fe-N
+ <sub>4</sub> is reported as 0.40 and 0.85 V. The trends of theoretically OER and ORR overpotential from DFT calculations are well consistent with experimental results, as both overpotentials of Co-N
+ <sub>4</sub>/NC obtained from electrochemical are lower than that of Fe-N
+ <sub>4</sub>/NC. The theoretical and experimental overpotentials are summarized in Table S5. The detailed pathways of reversible OER/ORR reactions promoted by M-N
+ <sub>4</sub> active sites are summarized in Fig. 
+ <xref rid="Fig7" ref-type="fig">7</xref>c. Overall, both DFT calculations and electrochemical evaluations confirmed that single-atom Co-N
+ <sub>4</sub>/NC is the most promising bifunctional OER/ORR electrocatalyst.
+</p>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B122-materials-14-03840">
+ <label>122.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kasnatscheew</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Streipert</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Röser</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Wagner</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Laskovic</surname>
+    <given-names>I.C.</given-names>
+   </name>
+   <name>
+    <surname>Winter</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group>
+  <article-title>Determining oxidative stability of battery electrolytes: Validity of common electrochemical stability window (ESW) data and alternative strategies</article-title>
+  <source>Phys. Chem. Chem. Phys.</source>
+  <year>2017</year>
+  <volume>19</volume>
+  <fpage>16078</fpage>
+  <lpage>16086</lpage>
+  <pub-id pub-id-type="doi">10.1039/C7CP03072J</pub-id>
+  <pub-id pub-id-type="pmid">28597888</pub-id>
+ </element-citation>
+</ref>

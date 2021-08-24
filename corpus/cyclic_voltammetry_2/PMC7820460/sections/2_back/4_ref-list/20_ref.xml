@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>He</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Manthiram</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>MOF-derived cobalt sulfide grown on 3D graphene foam as an efficient sulfur host for long-life lithium-sulfur batteries</article-title>
+  <source>IScience</source>
+  <year>2018</year>
+  <volume>4</volume>
+  <fpage>36</fpage>
+  <lpage>43</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.isci.2018.05.005</pub-id>
+  <?supplied-pmid 30240751?>
+  <pub-id pub-id-type="pmid">30240751</pub-id>
+ </element-citation>
+</ref>

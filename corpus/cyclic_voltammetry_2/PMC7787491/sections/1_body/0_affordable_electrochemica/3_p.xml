@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To more concretely establish the benefits of these advances in Zn electrode reversibility, we first look at their potential impact on the system (electric power generation and storage) levelized cost (LCOE
+ <sub>system</sub>). On this basis, we will establish basic performance requirements for achieving practically relevant storage. The LCOE
+ <sub>system</sub> is computed using the following formula 
+ <disp-formula id="E1">
+  <math id="m2">
+   <mrow>
+    <mrow>
+     <msub>
+      <mtext>LCOE</mtext>
+      <mtext>system</mtext>
+     </msub>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mi>C</mi>
+        <mtext>PV</mtext>
+       </msub>
+       <mo>+</mo>
+       <msub>
+        <mi>C</mi>
+        <mtext>ESS</mtext>
+       </msub>
+      </mrow>
+      <mrow>
+       <msub>
+        <mi>E</mi>
+        <mtext>ESS</mtext>
+       </msub>
+       <mo>+</mo>
+       <msub>
+        <mi>E</mi>
+        <mrow>
+         <mtext>PV</mtext>
+         <mo>,</mo>
+         <mtext>direct</mtext>
+        </mrow>
+       </msub>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+  <label>(1)</label>
+ </disp-formula>
+</p>

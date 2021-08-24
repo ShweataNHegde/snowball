@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The simplified equation for determining the concentration of intercalated cation in CuHCFe is defined below:
+ <disp-formula id="FD1-nanomaterials-11-01860">
+  <math id="mm1">
+   <mrow>
+    <mrow>
+     <mi mathvariant="normal">C</mi>
+     <mrow>
+      <mo>(</mo>
+      <mi mathvariant="normal">E</mi>
+      <mo>)</mo>
+     </mrow>
+     <mo>=</mo>
+     <msub>
+      <mi mathvariant="normal">C</mi>
+      <mn>0</mn>
+     </msub>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mfrac>
+        <mn>1</mn>
+        <mrow>
+         <mn>1</mn>
+         <mo>+</mo>
+         <msup>
+          <mi mathvariant="normal">e</mi>
+          <mrow>
+           <mi mathvariant="normal">f</mi>
+           <mrow>
+            <mo>(</mo>
+            <mi mathvariant="normal">V</mi>
+            <mo>)</mo>
+           </mrow>
+          </mrow>
+         </msup>
+        </mrow>
+       </mfrac>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where C
+ <sub>0</sub> is the maximum concentration of cation in CuHCFe, and f(V) is a quintic function. In this study, f(V) was obtained by fitting the galvanostatic charge of the CuHCFe film, and C
+ <sub>0</sub> was calculated based on the dimensions and capacity of CuHCFe (
+ <xref ref-type="app" rid="app1-nanomaterials-11-01860">Figure S3, Supporting Information</xref>). Cation transportation in the CuHCFe thin film was driven by Fick’s second law of diffusion. The cation concentration inside the CuHCFe thin film at the fast scan rate was higher than that at a steady state. The excess cation was diffused. Fick’s second law of diffusion for cation is described below:
+ <disp-formula id="FD2-nanomaterials-11-01860">
+  <math id="mm2">
+   <mrow>
+    <mrow>
+     <mfrac>
+      <mrow>
+       <mo>∂</mo>
+       <mi mathvariant="normal">C</mi>
+      </mrow>
+      <mrow>
+       <mo>∂</mo>
+       <mi mathvariant="normal">t</mi>
+      </mrow>
+     </mfrac>
+     <mo>=</mo>
+     <mi mathvariant="normal">D</mi>
+     <mfrac>
+      <mrow>
+       <msup>
+        <mo>∂</mo>
+        <mn>2</mn>
+       </msup>
+       <mrow>
+        <mo>(</mo>
+        <mrow>
+         <mi mathvariant="normal">C</mi>
+         <mo>−</mo>
+         <mi mathvariant="normal">C</mi>
+         <mrow>
+          <mo>(</mo>
+          <mi mathvariant="normal">E</mi>
+          <mo>)</mo>
+         </mrow>
+        </mrow>
+        <mo>)</mo>
+       </mrow>
+      </mrow>
+      <mrow>
+       <mo>∂</mo>
+       <msup>
+        <mi mathvariant="normal">x</mi>
+        <mn>2</mn>
+       </msup>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where D is the diffusion constant of cation in CuHCFe, C is the cation concentration in CuHCFe, and x is the length from WE1. The difference between the cation concentration (C) and the intercalated cation concentration (C(E)) can be built while sweeping WE2 potential. We assume that the electrical conductivity (σ) of CuHCFe is proportional to the absolute of the gradient of cation concentration [
+ <xref rid="B29-nanomaterials-11-01860" ref-type="bibr">29</xref>]. The electrical current density of CuHCFe is described as follows:
+ <disp-formula id="FD3-nanomaterials-11-01860">
+  <math id="mm3">
+   <mrow>
+    <mrow>
+     <mi mathvariant="normal">J</mi>
+     <mrow>
+      <mo>(</mo>
+      <mi mathvariant="normal">x</mi>
+      <mo>)</mo>
+     </mrow>
+     <mo>=</mo>
+     <mi mathvariant="sans-serif">σ</mi>
+     <mfrac>
+      <mrow>
+       <mo>∂</mo>
+       <mi mathvariant="normal">E</mi>
+      </mrow>
+      <mrow>
+       <mo>∂</mo>
+       <mi mathvariant="normal">x</mi>
+      </mrow>
+     </mfrac>
+     <mo>=</mo>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <msub>
+        <mi mathvariant="sans-serif">σ</mi>
+        <mn>0</mn>
+       </msub>
+       <mrow>
+        <mo>|</mo>
+        <mrow>
+         <mfrac>
+          <mrow>
+           <mo>∂</mo>
+           <mi mathvariant="normal">C</mi>
+          </mrow>
+          <mrow>
+           <mo>∂</mo>
+           <mi mathvariant="normal">x</mi>
+          </mrow>
+         </mfrac>
+        </mrow>
+        <mo>|</mo>
+       </mrow>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mfrac>
+        <mrow>
+         <mo>∂</mo>
+         <mi mathvariant="normal">E</mi>
+        </mrow>
+        <mrow>
+         <mo>∂</mo>
+         <mi mathvariant="normal">x</mi>
+        </mrow>
+       </mfrac>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where σ
+ <sub>0</sub> is a constant for conductivity. The electrical potential at x = 0 μm (E
+ <sub>x=0</sub>) is 0.4 V, and the electrical potential at x = 10 μm (E
+ <sub>x=10</sub>) is swept from 0.4 to 0.8 V at the rate of 0.01 and 10 mV/s. We assume that the cation diffusion between the CuHCFe thin film and electrolyte is faster than that inside the CuHCFe thin film. Thus, the cation concentrations at x = 0 and x = 10 μm are C(E
+ <sub>x=0</sub>) and C(E
+ <sub>x=10</sub>), respectively. At the scan rate of 0.01 mV/s, the electrical current curves of forward scanning and backward scanning were identical, which means that the cation concentration had reached a steady state (C=C(E)). Thus, σ
+ <sub>0</sub> was calculated by curve fitting with the current at 0.01 mV/s, and D was calculated by curve fitting with the current at 10 mV/s. As shown in 
+ <xref ref-type="fig" rid="nanomaterials-11-01860-f007">Figure 7</xref>, the electrical current fit well with σ
+ <sub>0</sub> × C
+ <sub>0</sub> of 5.77 × 10
+ <sup>−7</sup> S and D of 8.8 × 10
+ <sup>−9</sup> cm
+ <sup>2</sup>/s (
+ <xref ref-type="app" rid="app1-nanomaterials-11-01860">Supporting Information, Figure S4</xref>, σ along the 
+ <italic>x</italic>-axis) The calculated diffusivity was comparable with that of the previously reported values measured by the galvanostatic intermittent titration technique and electrochemical impedance spectroscopy [
+ <xref rid="B31-nanomaterials-11-01860" ref-type="bibr">31</xref>,
+ <xref rid="B32-nanomaterials-11-01860" ref-type="bibr">32</xref>]. We believe that the microelectrochemical system can be utilized as an alternative method to measure the diffusivity of cation in intercalation materials using the above approach.
+</p>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par12">To further unravel the electron spin configuration of Fe,Mn/N–C, the zero-field cooling (ZFC) temperature-dependent magnetic susceptibility was measured
+ <sup>
+  <xref ref-type="bibr" rid="CR24">24</xref>
+ </sup>. The calculated effective magnetic moment of Fe,Mn/N–C and Fe/N–C is 3.75 
+ <italic>μ</italic>
+ <sub>eff</sub> and 2.16 
+ <italic>μ</italic>
+ <sub>eff</sub>, respectively (Fig. 
+ <xref rid="Fig2" ref-type="fig">2g, h</xref>). Besides, we further obtained the number of unpaired 
+ <italic>d</italic> electron (
+ <italic>n</italic>) of Fe
+ <sup>III</sup> ion via the following equation:
+ <sup>
+  <xref ref-type="bibr" rid="CR22">22</xref>
+ </sup>
+ <disp-formula id="Equ1">
+  <label>1</label>
+  <alternatives>
+   <tex-math id="M1">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\mu _{{\mathrm{eff}}} = \sqrt {n(n + 2)} $$\end{document}</tex-math>
+   <math id="M2">
+    <msub>
+     <mrow>
+      <mi>μ</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="normal">eff</mi>
+     </mrow>
+    </msub>
+    <mo>=</mo>
+    <msqrt>
+     <mrow>
+      <mi>n</mi>
+      <mrow>
+       <mo>(</mo>
+       <mrow>
+        <mi>n</mi>
+        <mo>+</mo>
+        <mn>2</mn>
+       </mrow>
+       <mo>)</mo>
+      </mrow>
+     </mrow>
+    </msqrt>
+   </math>
+   <graphic xlink:href="41467_2021_21919_Article_Equ1.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>whereby the number of unpaired d electron (
+ <italic>n</italic>) of Fe/N–C is about 1.3, which means Fe
+ <sup>III</sup> ions have a low-spin state without e
+ <sub>g</sub> filling, so that no electron occupied in the σ* antibonding orbital of FeN
+ <sub>4</sub> leads to a very strong Fe
+ <sup>III</sup>/O
+ <sub>2</sub> interaction and a quite stable Fe
+ <sup>4+</sup>-O
+ <sub>2</sub>
+ <sup>2−</sup> bond
+ <sup>
+  <xref ref-type="bibr" rid="CR18">18</xref>
+ </sup>. While the number of unpaired 
+ <italic>d</italic> electron (
+ <italic>n</italic>) of Fe,Mn/N–C is about 3, which has single e
+ <sub>g</sub> filling
+ <sup>
+  <xref ref-type="bibr" rid="CR21">21</xref>
+ </sup>. Certainly, the unusual low-spin state of neighboring Mn
+ <sup>III</sup> moieties permits Fe
+ <sup>III</sup> in FeN
+ <sub>4</sub> to achieve the ideal e
+ <sub>g</sub> filling. It is reckoned that this intrinsically optimal electronic configuration would endow the as-designed Fe,Mn/N–C with a high catalytic activity. For verification, we measure the temperature-programmed desorption of O
+ <sub>2</sub> (O
+ <sub>2</sub>-TPD) as shown in Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">14</xref>. Owing to the electron affinity of oxygen, the electron can be transferred from catalyst to chemisorbed oxygen, so that it requires high temperature for desorption
+ <sup>
+  <xref ref-type="bibr" rid="CR24">24</xref>
+ </sup>. The amount and the O
+ <sub>2</sub> desorption temperature obviously increase from Fe,Mn/N–C (O
+ <sub>2</sub> desorption temperature is 385.4 °C) to Fe/N–C (O
+ <sub>2</sub> desorption temperature is 407.6 °C), indicative of stronger bonding between the O
+ <sub>2</sub> and the Fe/N–C than that of Fe,Mn/N–C, which is consistent with the ZFC results.
+</p>

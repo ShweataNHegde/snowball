@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In Equation (4), 
+ <italic>a</italic> represents the proportion-dependent experimental value of the lattice parameter for PdNi/C electrocatalysts, 
+ <italic>a</italic>
+ <sub>M</sub> is the lattice parameter for a PdNi solid phase, and 
+ <italic>a</italic>
+ <sub>0</sub> is the lattice parameter of pure metal, Pd. 
+ <xref rid="molecules-26-03440-t002" ref-type="table">Table 2</xref> shows the computed lattice parameters for the PdNi/C theoretical composition. According to Equation (4), alloy and pure elements must have the same crystal network as of Pt, however this is rarely the case. As a result, using the Pt
+ <sub>M</sub> solid phase as a reference alloy will be more accurate. Consequently, in Equation (4), the atomic ratio of the new element (α) should be supplied as a correction factor, and the updated equation can now be stated as Equation (5), which is used to estimate the atomic fraction of the second metal Ni in this situation [
+ <xref rid="B18-molecules-26-03440" ref-type="bibr">18</xref>]. 
+ <disp-formula id="FD5-molecules-26-03440">
+  <label>(5)</label>
+  <math id="mm5">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi mathvariant="sans-serif">χ</mi>
+      <mi mathvariant="normal">M</mi>
+     </msub>
+     <mo>=</mo>
+     <mi mathvariant="sans-serif">α</mi>
+     <mfrac>
+      <mrow>
+       <mi>a</mi>
+       <mo>−</mo>
+       <msub>
+        <mi>a</mi>
+        <mn>0</mn>
+       </msub>
+      </mrow>
+      <mrow>
+       <msub>
+        <mi>a</mi>
+        <mrow>
+         <mrow>
+          <mi mathvariant="normal">M</mi>
+          <mtext> </mtext>
+         </mrow>
+        </mrow>
+       </msub>
+       <mo>−</mo>
+       <msub>
+        <mi>a</mi>
+        <mn>0</mn>
+       </msub>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+</p>

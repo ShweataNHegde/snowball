@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B17">
+ <label>17</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Huggins</surname>
+    <given-names>R. A.</given-names>
+   </name>
+  </person-group>
+  <article-title>Do you really want an unsafe battery?</article-title>
+  <source>
+   <italic toggle="yes">Journal of the Electrochemical Society</italic>
+  </source>
+  <year>2013</year>
+  <volume>160</volume>
+  <issue>5</issue>
+  <fpage>A3001</fpage>
+  <lpage>A3005</lpage>
+  <pub-id pub-id-type="doi">10.1149/2.001305jes</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84875718454</pub-id>
+ </element-citation>
+</ref>

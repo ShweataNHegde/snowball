@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>A further application of the electrolytes is exploited by lithium–metal cells using an olivine-structured, (de)insertion LiFePO
+ <sub>4</sub> (LFP) cathode
+ <sup>
+  <xref ref-type="bibr" rid="ref3">3</xref>
+ </sup> which is identified by literature works as a promising candidate for lithium batteries using concentrated solutions.
+ <sup>
+  <xref ref-type="bibr" rid="ref34">34</xref>,
+  <xref ref-type="bibr" rid="ref35">35</xref>
+ </sup> A combined study using CV and EIS is therefore performed and reported in 
+ <xref rid="fig3" ref-type="fig">Figure 
+  <xref rid="fig3" ref-type="fig">3</xref>
+ </xref>, analogously to the investigation provided for the sulfur-based electrode (compare with 
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>). The voltammograms of the cells using DEGDME_HCE and TREGDME_HCE (
+ <xref rid="fig3" ref-type="fig">Figure 
+  <xref rid="fig3" ref-type="fig">3</xref>
+ </xref>a and c, respectively) show the characteristic profile centered at about 3.45 V vs Li
+ <sup>+</sup>/Li associated with the deinsertion of Li from the LiFePO
+ <sub>4</sub> during the anodic scan and its insertion back into the olivine structure during the cathodic scan.
+ <sup>
+  <xref ref-type="bibr" rid="ref3">3</xref>,
+  <xref ref-type="bibr" rid="ref25">25</xref>
+ </sup> The first CV cycle shows a charge/discharge polarization of about 0.3 V vs Li
+ <sup>+</sup>/Li for DEGDME_HCE (
+ <xref rid="fig3" ref-type="fig">Figure 
+  <xref rid="fig3" ref-type="fig">3</xref>
+ </xref>a, black curve) and of about 0.4 V vs Li
+ <sup>+</sup>/Li for TREGDME_HCE (
+ <xref rid="fig3" ref-type="fig">Figure 
+  <xref rid="fig3" ref-type="fig">3</xref>
+ </xref>c, black curve). This relatively high polarization may be ascribed to a not yet completely optimized electrode/electrolyte interphase between the LFP electrode and the highly concentrated electrolytes.
+ <sup>
+  <xref ref-type="bibr" rid="ref10">10</xref>
+ </sup> Furthermore, the subsequent cycles reveal for the two electrolytes a certain improvement with favorable decrease of the above-mentioned polarization, leading to a shift of about 0.1 V vs Li
+ <sup>+</sup>/Li of the cathodic and anodic peaks. This enhancement is likely justified by the EIS Nyquist plots reported in 
+ <xref rid="fig3" ref-type="fig">Figure 
+  <xref rid="fig3" ref-type="fig">3</xref>
+ </xref>b for DEGDME_HCE and in 
+ <xref rid="fig3" ref-type="fig">Figure 
+  <xref rid="fig3" ref-type="fig">3</xref>
+ </xref>d for TREGDME_HCE and by the results of the corresponding NLLS analyses listed in 
+ <xref rid="tbl2" ref-type="other">Table 
+  <xref rid="tbl2" ref-type="other">2</xref>
+ </xref>.
+ <sup>
+  <xref ref-type="bibr" rid="ref28">28</xref>,
+  <xref ref-type="bibr" rid="ref29">29</xref>
+ </sup> Indeed, the data indicate for the two electrolytes a series of semicircles and lines ascribed to SEI layers, charge transfer processes, and diffusion phenomena occurring in the lithium cells at the various frequencies, with an overall initial resistance of about 300 Ω for DEGDME_HCE and 150 Ω for TREGDME_HCE decreasing to about 90 Ω and 80 Ω, respectively, upon the 10 CV cycles taken under consideration. This likely indicates a partial dissolution or a modification of the pristine SEI layer formed at the electrodes surface by the ongoing nature of the cycling, which can initially favor the kinetics of the electrochemical processes.
+ <sup>
+  <xref ref-type="bibr" rid="ref7">7</xref>,
+  <xref ref-type="bibr" rid="ref36">36</xref>
+ </sup>
+</p>

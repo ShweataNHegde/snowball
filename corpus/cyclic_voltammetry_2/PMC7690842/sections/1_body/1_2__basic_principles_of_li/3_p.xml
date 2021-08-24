@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Because the positive electrode (i.e., cathode) provides a reaction site for the electrochemically active O
+ <sub>2</sub> and Li
+ <sup>+</sup> and stores Li
+ <sub>2</sub>O
+ <sub>2</sub>, it plays pivotal role in the storage capability of LOBs and the reversibility of Li-ions [
+ <xref rid="B37-nanomaterials-10-02106" ref-type="bibr">37</xref>,
+ <xref rid="B38-nanomaterials-10-02106" ref-type="bibr">38</xref>]. A significant volume of research activity has thus been devoted to the optimization of cathode electrodes in LOBs. The specific surface area, electrical conductivity, pore size, and volume of the cathode active material are considered the most influential properties for enhancing the storage capability and reversibility of LOBs. The electrochemistry of cathode electrodes needs to be well-understood in order to identify optimum active cathode materials for use in LOBs. At the cathode electrode, Li
+ <sub>2</sub>O
+ <sub>2</sub> is formed via the ORR in two steps: (1) O
+ <sub>2</sub> binds with unoccupied O-positions to produce O
+ <sub>2</sub>
+ <sup>−</sup> (superoxide) and (2) O
+ <sub>2</sub>
+ <sup>−</sup> reacts with Li through the dismutase process to produce Li
+ <sub>2</sub>O
+ <sub>2</sub>. A schematic illustration of the ORR in a LOB is presented in 
+ <xref ref-type="fig" rid="nanomaterials-10-02106-f002">Figure 2</xref>c [
+ <xref rid="B39-nanomaterials-10-02106" ref-type="bibr">39</xref>]. Because the decomposition voltage of Li
+ <sub>2</sub>O
+ <sub>2</sub> is much higher (3.75 V vs. Li/Li
+ <sup>+</sup>) than the plateau potential of 3.4 V, it is unstable. As illustrated in 
+ <xref ref-type="fig" rid="nanomaterials-10-02106-f002">Figure 2</xref>d, the decomposition of Li
+ <sub>2</sub>O
+ <sub>2</sub> occurs via the OER in another two-step process [
+ <xref rid="B40-nanomaterials-10-02106" ref-type="bibr">40</xref>]: (1) Li
+ <sub>2</sub>O
+ <sub>2</sub> releases one electron and decomposes to LiO
+ <sub>2</sub> and (2) LiO
+ <sub>2</sub> interacts with oxygen vacancies to release the second electron and lithium ions. As a result, LOB operation completely relies on the OER and ORR during the electrochemical charge–discharge process [
+ <xref rid="B41-nanomaterials-10-02106" ref-type="bibr">41</xref>,
+ <xref rid="B42-nanomaterials-10-02106" ref-type="bibr">42</xref>,
+ <xref rid="B43-nanomaterials-10-02106" ref-type="bibr">43</xref>]. 
+</p>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The crystallinity of the metal deposits appears as an oftentimes overlooked aspect in the conventional discussion, but it turns out to be central in understanding the deposition morphologies of Zn as we will see soon in this section. This is, in part, because of the extraordinarily high anisotropy associated with Zn’s crystal structure. As shown in 
+ <xref rid="F5" ref-type="fig">Fig. 5A</xref>, Zn metal adopts a HCP lattice (i.e., space group: 
+ <italic>P</italic>6
+ <sub>3</sub>
+ <italic>/mmc</italic>) that is less symmetric than the cubic lattice. This can be easily understood by considering the fact that there is only one 
+ <italic>c</italic> axis perpendicular to the (002) close-packed plane in HCP, while there are by symmetry multiple such axes perpendicular to the {111} closed-packed planes in a face-centered cubic crystal. Note that the Zn crystal shows an additional elongation along the 
+ <italic>c</italic> axis because of the hybridization between s and p valence bands (
+ <xref rid="R124" ref-type="bibr">
+  <italic>124</italic>
+ </xref>). That is, although the close-packed nature within a basal plane is maintained, the interplanar distance along 
+ <italic>c</italic> is greater than expected for an ideal HCP crystal (as characterized by the 
+ <italic>c</italic>/
+ <italic>a</italic> ratio of Zn ≈ 1.85 &gt; 1.63), further elevating Zn metal’s crystallographic anisotropy. These qualitative statements can be quantitatively validated by evaluating the surface energy anisotropy factor α
+ <sub>γ</sub> of each crystal as tabulated in 
+ <xref rid="F5" ref-type="fig">Fig. 5B</xref> (
+ <xref rid="R125" ref-type="bibr">
+  <italic>125</italic>
+ </xref>, 
+ <xref rid="R126" ref-type="bibr">
+  <italic>126</italic>
+ </xref>). While the weighted surface energy 
+ <inline-formula>
+  <math id="m17">
+   <mrow>
+    <mrow>
+     <mover accent="true">
+      <mi mathvariant="normal">γ</mi>
+      <mo stretchy="true">¯</mo>
+     </mover>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> of Zn is comparable to other metals, the anisotropy α
+ <sub>γ</sub> of Zn is, by far, the greatest. Specifically, it is two times larger than Mg, an ideal HCP crystal, and approximately four times greater than that of cubic metals.
+</p>

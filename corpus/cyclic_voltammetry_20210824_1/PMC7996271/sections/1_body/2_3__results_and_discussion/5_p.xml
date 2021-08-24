@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Electrochemical impedance spectroscopy (EIS) measurements were performed on the SVO electrodes to find out the reasons for the performance difference. 
+ <xref ref-type="fig" rid="nanomaterials-11-00569-f004">Figure 4</xref>a–d shows that all the impedance spectra of these electrodes have a semicircle in the high-frequency region and a straight line in the low-frequency region. The semicircle can be associated with the passivating film formed on the material and the charge transfer process, while the straight line is related to the lithium-ion diffusion in the electrode material [
+ <xref rid="B35-nanomaterials-11-00569" ref-type="bibr">35</xref>]. The equivalent circuit model (inset in 
+ <xref ref-type="fig" rid="nanomaterials-11-00569-f004">Figure 4</xref>b) is used to fit the impedance spectra of the electrodes. 
+ <xref ref-type="app" rid="app1-nanomaterials-11-00569">Table S1</xref> shows the values of resistance calculated from fitting the impedance graphs. In this circuit, R
+ <sub>s</sub> represents the solution resistance, R
+ <sub>CEI</sub> stands for the CEI resistance, and R
+ <sub>ct</sub> represents the charge transfer resistance; CPE1, CPE2, and W are CEI capacitance, double-layer capacitance, and the Warburg impedance, respectively [
+ <xref rid="B36-nanomaterials-11-00569" ref-type="bibr">36</xref>,
+ <xref rid="B37-nanomaterials-11-00569" ref-type="bibr">37</xref>,
+ <xref rid="B38-nanomaterials-11-00569" ref-type="bibr">38</xref>,
+ <xref rid="B39-nanomaterials-11-00569" ref-type="bibr">39</xref>]. The values of R
+ <sub>s</sub>, R
+ <sub>CEI</sub>, and R
+ <sub>ct</sub> are obtained from the simulation. 
+ <xref ref-type="fig" rid="nanomaterials-11-00569-f004">Figure 4</xref>e shows that the ALD Al
+ <sub>2</sub>O
+ <sub>3</sub> coating has little influence on the solution resistance (R
+ <sub>s</sub>) of all the samples, and most of R
+ <sub>s</sub> is below 10 Ω. For R
+ <sub>CEI</sub> in 
+ <xref ref-type="fig" rid="nanomaterials-11-00569-f004">Figure 4</xref>f, the fresh cell for SVO-0, SVO-10, SVO-50, SVO-100 has value of 73.39, 40.91, 36.91 and 63.42 Ω respectively, implying that the Al
+ <sub>2</sub>O
+ <sub>3</sub> coating can reduce the CEI resistance of the electrode surface and improve the ion transmission. At the same time, it also shows that too thick Al
+ <sub>2</sub>O
+ <sub>3</sub> coating is not conducive to the transfer of ions on the electrode surface. However, after 50 battery cycles, the R
+ <sub>CEI</sub> values drop to 21.67, 29.69, 33.01, and 13.06 Ω for SVO-0, SVO-10, SVO-50, and SVO-100, respectively, implying that the inert Al
+ <sub>2</sub>O
+ <sub>3</sub> coating greatly increases the CEI resistance with the thickest Al
+ <sub>2</sub>O
+ <sub>3</sub> coating and makes the battery more conducive to long cycles. Similar trends are observed for R
+ <sub>ct</sub> in 
+ <xref ref-type="fig" rid="nanomaterials-11-00569-f004">Figure 4</xref>g. The SVO-0, SVO-10, SVO-50, SVO-100 for 0 cycle has the largest value. There is a large drop in R
+ <sub>ct</sub> between cycles 0 to 10, which is perhaps due to the phase transition observed in the precycle electrode [
+ <xref rid="B30-nanomaterials-11-00569" ref-type="bibr">30</xref>]. Comparatively, R
+ <sub>ct</sub> are increased from the 10th to 20th cycles for all samples. After 50 battery cycles, the R
+ <sub>ct</sub> values drop to 53.51, 109, 161.7, and 12.65 Ω for SVO-0, SVO-10, SVO-50, and SVO-100, respectively. R
+ <sub>CEI</sub> and R
+ <sub>ct</sub> of other samples SVO-10 and SVO-50 do not show the strong trends as the SVO-100. It might be due to that thinner Al
+ <sub>2</sub>O
+ <sub>3</sub> coatings did not yield enough creation of Li-ion conductive Li-Al-O on the surface of the electrode [
+ <xref rid="B28-nanomaterials-11-00569" ref-type="bibr">28</xref>]. The Bode plots for the fresh cell of the SVO electrodes are also shown in 
+ <xref ref-type="app" rid="app1-nanomaterials-11-00569">Figure S4</xref>, where |Z| is impedance modulus, and 
+ <italic>θ</italic> is phase angle. SVO-100 shows the lowest impedance Bode plots after discharging process. The phase-angle Bode plots of SVO-100 shows, while the other samples shows at least two peaks, indicating that multi capacitive features with side reaction about dissolution of V (Vanadium) into the electrolyte [
+ <xref rid="B40-nanomaterials-11-00569" ref-type="bibr">40</xref>,
+ <xref rid="B41-nanomaterials-11-00569" ref-type="bibr">41</xref>].
+</p>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The activation energies of the interfacial lithium-ion transfer at the interface between CNS and electrolyte solutions were measured. The logarithmic reciprocal of charge-transfer resistances was plotted against the reciprocal of temperature. 
+ <xref rid="fig7" ref-type="fig">Figure 
+  <xref rid="fig7" ref-type="fig">7</xref>
+ </xref> shows the temperature dependence of charge-transfer reactions of CNS-1100 composite electrodes in 0.9 and 4 mol kg
+ <sup>–1</sup> LiTFSA/EC + DMC (1:1 by vol). The activation energy was calculated using the following Arrhenius equation
+ <sup>
+  <xref ref-type="bibr" rid="ref13">13</xref>
+ </sup>
+ <disp-formula id="eq1">
+  <graphic xlink:href="ao1c01751_m001" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <label>1</label>
+ </disp-formula>where 
+ <italic>R</italic>
+ <sub>ct</sub> is the charge-transfer resistance, 
+ <italic>A</italic> is the prefrequency factor, 
+ <italic>E</italic>
+ <sub>a</sub> is the activation energy, 
+ <italic>R</italic> is the gas constant, and 
+ <italic>T</italic> is the absolute temperature. The charge-transfer resistances were estimated basically by fitting with the equivalent circuit shown in 
+ <xref rid="fig6" ref-type="fig">Figure 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref>c (
+ <italic>R</italic>
+ <sub>Sol</sub> is the resistance of electrolyte conductivity and 
+ <italic>R</italic>
+ <sub>SEI</sub> is SEI resistance). When the SEI resistance was negligible, the charge-transfer resistances were estimated using the equivalent circuit shown in 
+ <xref rid="fig6" ref-type="fig">Figure 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref>d. As a result, the activation energy in 0.9 mol kg
+ <sup>–1</sup> LiTFSA/EC + DMC (1:1 by vol) was 56 kJ mol
+ <sup>–1</sup>, which was near to the reported values for highly oriented pyrolytic graphite (HOPG) and glassy carbon electrodes.
+ <sup>
+  <xref ref-type="bibr" rid="ref23">23</xref>,
+  <xref ref-type="bibr" rid="ref24">24</xref>
+ </sup> In the previous reports regarding the lithium-ion transfer resistances of carbon negative electrodes, the differences in activation energies of charge-transfer resistances measured in different electrolytes corresponded to the differences of interaction between lithium ions and solvents by calculating the heats of solvating reaction, and the rate-determining step was considered to be the final desolvation process.
+ <sup>
+  <xref ref-type="bibr" rid="ref12">12</xref>
+ </sup> Based on the previous reports,
+ <sup>
+  <xref ref-type="bibr" rid="ref25">25</xref>
+ </sup> solvents seem to be difficult to cointercalate into the bulk of low-crystallized carbons and desolvation process should be necessary for lithium-ion insertion into CNS-1100. Hence, the rate-determining step in the lithium-ion transfer reaction between the CNS electrode and the dilute electrolyte seemed to be the final desolvation process of EC. The activation energy in 4 mol kg
+ <sup>–1</sup> LiTFSA/EC + DMC (1:1 by vol) was 75 kJ mol
+ <sup>–1</sup> and very large. We speculated that the kinetics of the interfacial lithium-ion transfer reaction in concentrated electrolytes is controlled by the interaction between the lithium ion and anion, which might be stronger than the interaction between lithium ions and neutral solvents. These results were consistent with the previous reports of graphitized CNS.
+ <sup>
+  <xref ref-type="bibr" rid="ref17">17</xref>
+ </sup>
+</p>

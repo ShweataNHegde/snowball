@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="molecules-26-03858-t002" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">molecules-26-03858-t002_Table 2</object-id>
+ <label>Table 2</label>
+ <caption>
+  <p>Electrochemical performance of different N-doped graphene towards ORR in alkaline media.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Samples</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Catalyst Loading
+     <break/> (mg/cm
+     <sup>2</sup>)
+    </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Onset Potential</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Current at 1600 rpm/
+     <break/>Potential (mA/cm
+     <sup>2</sup>)
+    </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Electron Transfer
+     <break/> Number
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">N-Gr-3-24 (this work)</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.14</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">−0.16 V vs. Ag/AgCl</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4.7/−1 V vs. Ag/AgCl</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.96</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">N-aGS-800 [
+     <xref rid="B33-molecules-26-03858" ref-type="bibr">33</xref>]
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.18</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.03 V vs. Ag/AgCl</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.2/−1 V vs. Ag/AgCl</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.99</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">N-doped graphene (NG/Fe
+     <sub>5.0</sub>) [
+     <xref rid="B11-molecules-26-03858" ref-type="bibr">11</xref>]
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.05</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">−0.04 V vs. Ag/AgCl</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.8/−1 V vs. Ag/AgCl</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.91</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">N-doped graphene [
+     <xref rid="B34-molecules-26-03858" ref-type="bibr">34</xref>]
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.152</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.82 V vs. RHE</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4.4/0 V vs. RHE</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.9</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">N-doped graphene [
+     <xref rid="B35-molecules-26-03858" ref-type="bibr">35</xref>]
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.107</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.98 V vs. RHE</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.9 at 1500 rpm/
+     <break/>−0.2 V vs. RHE
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.9</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">N-doped reduced graphene oxide (n-RGO-850 °C)[
+     <xref rid="B36-molecules-26-03858" ref-type="bibr">36</xref>]
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.02</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">−0.15 V vs. Ag/AgCl</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.6/−1 V vs. Ag/AgCl</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.35</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3D-NB-doped graphene [
+     <xref rid="B37-molecules-26-03858" ref-type="bibr">37</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.082</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">−0.06 V vs. Ag/agCl</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">6/−0.9 V vs. Ag/AgCl</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3.8</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

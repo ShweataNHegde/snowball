@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR34">
+ <label>34.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ma</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Yang</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Yuan</surname>
+    <given-names>Z</given-names>
+   </name>
+  </person-group>
+  <article-title>Nickel cobalt phosphide with three-dimensional nanostructure as a highly efficient electrocatalyst for hydrogen evolution reaction in both acidic and alkaline electrolytes</article-title>
+  <source>Nano Res</source>
+  <year>2018</year>
+  <volume>12</volume>
+  <fpage>375</fpage>
+  <lpage>380</lpage>
+  <pub-id pub-id-type="doi">10.1007/s12274-018-2226-2</pub-id>
+ </element-citation>
+</ref>

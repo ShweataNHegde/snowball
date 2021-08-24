@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au1">
+  <name>
+   <surname>Kempler</surname>
+   <given-names>Paul A.</given-names>
+  </name>
+  <email>pkempler@uoregon.edu</email>
+  <xref rid="aff1" ref-type="aff">1</xref>
+  <xref rid="aff3" ref-type="aff">3</xref>
+  <xref rid="cor1" ref-type="corresp">∗</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au2">
+  <name>
+   <surname>Boettcher</surname>
+   <given-names>Shannon W.</given-names>
+  </name>
+  <email>swb@uoregon.edu</email>
+  <xref rid="aff1" ref-type="aff">1</xref>
+  <xref rid="aff3" ref-type="aff">3</xref>
+  <xref rid="cor2" ref-type="corresp">∗∗</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au3">
+  <name>
+   <surname>Ardo</surname>
+   <given-names>Shane</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">2</xref>
+  <xref rid="aff3" ref-type="aff">3</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>1</label>The Department of Chemistry and Biochemistry and the Oregon Center for Electrochemistry, University of Oregon, Eugene, OR 97403, USA
+ </aff>
+ <aff id="aff2">
+  <label>2</label>Departments of Chemistry, Chemical &amp; Biomolecular Engineering, and Materials Science &amp; Engineering, University of California Irvine, Irvine, CA 92697, USA
+ </aff>
+ <aff id="aff3">
+  <label>3</label>Center for Interfacial Ionics, Eugene, OR 97403, USA
+ </aff>
+</contrib-group>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par16">The overall oxygen electrode activity can be evaluated by the difference of OER and ORR metrics
+ <sup>
+  <xref ref-type="bibr" rid="CR51">51</xref>
+ </sup>.
+ <disp-formula id="Equ2">
+  <label>2</label>
+  <alternatives>
+   <tex-math id="M3">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\Delta E = E_{{\mathrm{j}} = 10} - E_{1/2}$$\end{document}</tex-math>
+   <math id="M4">
+    <mi mathvariant="normal">Δ</mi>
+    <mi>E</mi>
+    <mo>=</mo>
+    <msub>
+     <mrow>
+      <mi>E</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="normal">j</mi>
+      <mo>=</mo>
+      <mn>10</mn>
+     </mrow>
+    </msub>
+    <mo>−</mo>
+    <msub>
+     <mrow>
+      <mi>E</mi>
+     </mrow>
+     <mrow>
+      <mn>1</mn>
+      <mo>/</mo>
+      <mn>2</mn>
+     </mrow>
+    </msub>
+   </math>
+   <graphic xlink:href="41467_2021_21919_Article_Equ2.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>Fe,Mn/N–C exhibits a ΔE value of 0.692 V, lower than RuO
+ <sub>2</sub> and Pt/C (Fig. 
+ <xref rid="Fig4" ref-type="fig">4b</xref>). Inspired by the excellent OER and ORR performance, we assembled liquid and flexible all-solid-state rechargeable ZABs for practical applications of Fe,Mn/N–C (Fig. 
+ <xref rid="Fig4" ref-type="fig">4c</xref>)
+ <sup>
+  <xref ref-type="bibr" rid="CR52">52</xref>
+ </sup>. As anticipated, it displays a high open-circuit voltage of up to 1.4 V and a peak-power density as high as 160.8 mW cm
+ <sup>−2</sup> (Fig. 
+ <xref rid="Fig4" ref-type="fig">4d</xref>), superior to commercial Pt/C (≈64 mW cm
+ <sup>−2</sup>)
+ <sup>
+  <xref ref-type="bibr" rid="CR53">53</xref>
+ </sup>. Surprisingly, Fe,Mn/N–C has a specific capacity of 902 mAh g zn
+ <sup>−1</sup> at the discharge current density of 5 mA cm
+ <sup>−2</sup> with a corresponding energy density of 1136.5 Wh kgzn
+ <sup>−1</sup> (Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">25</xref>). Its excellent stability is further illustrated by over 81 h at 5.0 mA cm
+ <sup>−2</sup> (Fig. 
+ <xref rid="Fig4" ref-type="fig">4e</xref>), where the voltage barely changes. A high OVC of 1.33 V is obtained in Fig. 
+ <xref rid="Fig4" ref-type="fig">4f</xref>. The all-solid-state battery exhibited stable charge (1.94 V) and discharge (1.04 V) potentials at the current density of 1 mA cm
+ <sup>−2</sup> for 6 h even when the device was bended to a large angle or folded back to front (Fig. 
+ <xref rid="Fig4" ref-type="fig">4g</xref>)
+ <sup>
+  <xref ref-type="bibr" rid="CR54">54</xref>
+ </sup>.
+</p>

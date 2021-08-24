@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR38">
+ <label>38.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kumar</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Eng</surname>
+    <given-names>AYS</given-names>
+   </name>
+   <name>
+    <surname>Ng</surname>
+    <given-names>M-F</given-names>
+   </name>
+   <name>
+    <surname>Seh</surname>
+    <given-names>ZW</given-names>
+   </name>
+  </person-group>
+  <article-title>A biphasic interphase design enabling high performance in room temperature sodium-sulfur batteries</article-title>
+  <source>Cell Rep. Phys. Sci.</source>
+  <year>2020</year>
+  <volume>1</volume>
+  <fpage>100044</fpage>
+  <pub-id pub-id-type="doi">10.1016/j.xcrp.2020.100044</pub-id>
+ </element-citation>
+</ref>

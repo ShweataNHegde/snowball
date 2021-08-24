@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chu</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Xu</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Yao</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Xu</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Niu</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Zheng</surname>
+    <given-names>F</given-names>
+   </name>
+  </person-group>
+  <article-title>MOF-derived hollow NiCo
+   <sub>2</sub>O
+   <sub>4</sub> nanowires as stable Li-ion battery anodes
+  </article-title>
+  <source>Dalton T</source>
+  <year>2020</year>
+  <volume>49</volume>
+  <fpage>10808</fpage>
+  <lpage>10815</lpage>
+  <pub-id pub-id-type="doi">10.1039/D0DT00553C</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>As noted earlier, the Damköhler number is a dimensionless group that allows the absolute values of fluxes and electroreduction reaction rates to be compared. Because mass transport fluxes take many forms at a metal electrode, there are multiple Damköhler numbers. The second Damköhler number, 
+ <inline-formula>
+  <math id="m12">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>D</mi>
+      <mrow>
+       <mi mathvariant="normal">a</mi>
+       <mo>,</mo>
+       <mtext>II</mtext>
+      </mrow>
+     </msub>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mi>J</mi>
+        <mn>0</mn>
+       </msub>
+      </mrow>
+      <mrow>
+       <mi mathvariant="normal">nFD</mi>
+       <mo>/</mo>
+       <mi>L</mi>
+       <msub>
+        <mi>V</mi>
+        <mi mathvariant="normal">m</mi>
+       </msub>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> ≈ 
+ <italic>J</italic>
+ <sub>0</sub>/
+ <italic>J</italic>
+ <sub>lim</sub>, is among the most useful because it quantifies the relative rates of the electrode reaction and diffusion . Here, 
+ <italic>L</italic> is the interelectrode distance, 
+ <italic>D</italic> is the electrolyte diffusivity, and 
+ <italic>V</italic>
+ <sub>m</sub> is the molar volume (
+ <xref rid="R37" ref-type="bibr">
+  <italic>37</italic>
+ </xref>). Phase-field analysis shows that 
+ <italic>D</italic>
+ <sub>a, II</sub> plays a key role in determining the electrodeposition morphology of Zn metal; smooth deposition is favored at small 
+ <italic>D</italic>
+ <sub>a, II</sub> ≪ 1, while obvious dendritic deposition occurs at 
+ <italic>D</italic>
+ <sub>a, II</sub> ≫ 1 (
+ <xref rid="F3" ref-type="fig">Fig. 3E-1</xref>) (
+ <xref rid="R37" ref-type="bibr">
+  <italic>37</italic>
+ </xref>). The physical significance is that the deposition is kept within a reaction-limited regime owing to the sluggish chemical reaction kinetics, and the propagation of the dendrite growth front is therefore slowed. Consistent with this finding, the phase-field modeling study by Enrique 
+ <italic>et al.</italic> (
+ <xref rid="R83" ref-type="bibr">
+  <italic>83</italic>
+ </xref>) revealed that the current distribution on the surface of a columnar dendrite is homogenized at a low 
+ <italic>D</italic>
+ <sub>a, II</sub> ≈ 0.5, while the current concentrates on the dendrite tip (roughly one order of magnitude higher than on the side) at a high 
+ <italic>D</italic>
+ <sub>a, II</sub> ≈ 50. These simulation results provide a theoretical explanation of the finding by Banik and Akolkar (
+ <xref rid="R39" ref-type="bibr">
+  <italic>39</italic>
+ </xref>) that lowering 
+ <italic>J</italic>
+ <sub>0</sub> by adding low–molecular weight polymer to a liquid electrolyte stabilizes Zn deposition. The diffusivity 
+ <italic>D</italic> and conductivity κ of a dilute electrolyte are related through the Nernst-Einstein equation. 
+ <italic>D</italic>
+ <sub>a, II</sub> can therefore be written as 
+ <italic>J</italic>
+ <sub>0</sub>/κ, which can explain the widely reported effect of high ionic conductivity electrolyte in stabilizing electrodeposition of metals (
+ <xref rid="R84" ref-type="bibr">
+  <italic>84</italic>
+ </xref>).
+</p>

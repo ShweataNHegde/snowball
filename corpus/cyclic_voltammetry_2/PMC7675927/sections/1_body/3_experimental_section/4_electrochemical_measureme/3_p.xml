@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The sample electrodes were pretreated by 10 cyclic voltammetry (CV) scans between 0.1 and 1.2 V vs. RHE at a scan rate of 50 mV s
+ <sup>–1</sup>. The Ohmic losses were corrected using 
+ <xref rid="eq3" ref-type="disp-formula">eq 
+  <xref rid="eq3" ref-type="disp-formula">3</xref>
+ </xref>, the measured current (
+ <italic>i</italic>), and an electrolyte resistance (
+ <italic>R</italic>), which was measured by ac impedance
+ <disp-formula id="eq3">
+  <graphic xlink:href="ao0c04254_m003" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <label>3</label>
+ </disp-formula>
+</p>

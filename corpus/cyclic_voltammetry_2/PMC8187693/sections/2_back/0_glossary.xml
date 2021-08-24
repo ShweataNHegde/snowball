@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>NC</term>
+   <def>
+    <p id="Par2">Nitrogen-doped carbon</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DFT</term>
+   <def>
+    <p id="Par3">Density functional theory</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ORR</term>
+   <def>
+    <p id="Par4">Oxygen reduction reaction</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>OER</term>
+   <def>
+    <p id="Par5">Oxygen evolution reaction</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ZAB</term>
+   <def>
+    <p id="Par6">Zinc–air battery</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MOF</term>
+   <def>
+    <p id="Par7">Metal–organic framework</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>XRD</term>
+   <def>
+    <p id="Par8">X-ray diffraction</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FE-STEM</term>
+   <def>
+    <p id="Par9">Field-emission scanning transmission electron microscopy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EELS</term>
+   <def>
+    <p id="Par10">Electron energy loss spectroscopy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>XPS</term>
+   <def>
+    <p id="Par11">X-ray photoelectron spectroscopy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EXAFS</term>
+   <def>
+    <p id="Par12">X-ray absorption fine structure</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>XANES</term>
+   <def>
+    <p id="Par13">X-ray absorption near-edge structure</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RHE</term>
+   <def>
+    <p id="Par14">Reversible hydrogen electrode</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LSV</term>
+   <def>
+    <p id="Par15">Linear sweep voltammetry</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CA</term>
+   <def>
+    <p id="Par16">Chronoamperometry</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CV</term>
+   <def>
+    <p id="Par17">Cyclic voltammetry</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TEM</term>
+   <def>
+    <p id="Par18">Transmission electron microscopy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SAED</term>
+   <def>
+    <p id="Par19">Selected area electron diffraction</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HR-TEM</term>
+   <def>
+    <p id="Par20">High-resolution transmission electron microscopy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HAADF-STEM</term>
+   <def>
+    <p id="Par21">High-angle annular dark-field scanning transmission electron microscopy</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

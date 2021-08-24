@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Aurbach</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Skaletsky</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Gofer</surname>
+    <given-names>Y</given-names>
+   </name>
+  </person-group>
+  <article-title>The electrochemical behavior of calcium electrodes in a few organic electrolytes</article-title>
+  <source>J. Electrochem. Soc.</source>
+  <year>1991</year>
+  <volume>138</volume>
+  <fpage>3536</fpage>
+  <lpage>3545</lpage>
+  <pub-id pub-id-type="doi">10.1149/1.2085455</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR50">
+ <label>50.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Li</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Wu</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>Yang</surname>
+    <given-names>XY</given-names>
+   </name>
+   <name>
+    <surname>Hu</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Peng</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Highly efficient single atom cobalt catalyst for selective oxidation of alcohols</article-title>
+  <source>Appl. Catal. A Gen.</source>
+  <year>2017</year>
+  <volume>543</volume>
+  <issue>5</issue>
+  <fpage>61</fpage>
+  <lpage>66</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.apcata.2017.06.018</pub-id>
+ </element-citation>
+</ref>

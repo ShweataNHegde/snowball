@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR5">
+ <label>5.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhang</surname>
+    <given-names>B-W</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Atomic cobalt as an efficient electrocatalyst in sulfur cathodes for superior room-temperature sodium-sulfur batteries</article-title>
+  <source>Nat. Commun.</source>
+  <year>2018</year>
+  <volume>9</volume>
+  <fpage>4082</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41467-018-06144-x</pub-id>
+  <?supplied-pmid 30287817?>
+  <pub-id pub-id-type="pmid">30287817</pub-id>
+ </element-citation>
+</ref>

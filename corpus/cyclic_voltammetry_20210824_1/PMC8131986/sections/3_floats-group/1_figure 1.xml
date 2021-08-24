@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1">
+ <label>Figure 1</label>
+ <caption>
+  <p>A “three-pronged approach” to teaching electrochemistry, grounded in fundamentals.</p>
+  <p>Concurrent laboratory and simulation courses connect to traditional lecture material, reinforce fundamentals, and provide useful skills for academic and industry research and development.</p>
+ </caption>
+ <graphic xlink:href="gr1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

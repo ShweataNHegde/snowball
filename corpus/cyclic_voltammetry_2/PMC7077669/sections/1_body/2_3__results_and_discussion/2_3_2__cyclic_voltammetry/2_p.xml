@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>After a pre-lithiation of 1 min, the OCV drops to 2.4 V vs. Li/Li
+ <sup>+</sup>, suggesting that a partial insertion of lithium ions into the CNT electrodes already occurred. We also observed the noticeable cathodic peak at ~0.6 V vs. Li/Li
+ <sup>+</sup> being still present (with a lower absolute current density compared to pristine CNT), suggesting an incomplete SEI film formation on the CNT surfaces. Nonetheless, the direct pre-lithiation on the CNT surface provides beneficial effects, as the cathodic peak intensity of the SEI film formation has been successfully diminished. The observation is continued by examination of the CV curve after pre-lithiation for a period of 3 min and indeed, the OCV value decreased from 2.4 to 1.1 V vs. Li/Li
+ <sup>+</sup>. At this stage, the electrode still exhibits similarity to previous samples; namely, the cathodic peak at ~0.6 V vs. Li/Li
+ <sup>+</sup> is visible but its intensity obviously weakens. We assume that the contact time of 3 min is insufficient to fully form a stable SEI film. Therefore, it was suggested that OCV should be below the cathodic peak potential of the SEI film (approximately 0.6 V vs. Li/Li
+ <sup>+</sup>). Thus, the contact time during pre-lithiation process should be longer than 3 min. To further investigate the different stages of OCV value, the CNT electrode was directly contacted with Li metal for 15 min. As seen, the OCV shifted to much lower voltage of 0.45 V vs. Li/Li
+ <sup>+</sup> and the cathodic peak at ~0.6 V disappeared. After 30 min of pre-lithiation, CV curves show a slight decrease in the OCV, down to ~0.25 V vs. Li/Li
+ <sup>+</sup> without any large cathodic peak. These results reveal that the SEI film has been successfully pre-formed on the CNT surfaces for a pre-lithiation time longer than 15 min. Compared to electrochemical pre-lithiation in which the lithiation reaction requires a slow rate (usually in 10 or 20 h), the direct pre-lithiation approach is much faster [
+ <xref rid="B20-polymers-12-00406" ref-type="bibr">20</xref>].
+</p>

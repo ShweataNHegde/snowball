@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Most publications mainly focus on the ionic conductivities and transport properties of electrolytes before implementing them in full systems (usually using LiFePO
+ <sub>4</sub> (LFP), LiMn
+ <sub>2</sub>O
+ <sub>4</sub> (LMO) or LiNi
+ <sub>x</sub>Mn
+ <sub>y</sub>Co
+ <sub>z</sub>O
+ <sub>2</sub> (NMC) as a positive electrode and Li, Li-In or Li
+ <sub>4</sub>Ti
+ <sub>5</sub>O
+ <sub>12</sub> as a negative electrode). One of the current objectives for ASSLBs, and consequently the aim of the solid electrolyte, is to be able to operate at a high potential with high voltage cathode materials (NMC, NCA) working above 4.2/4.3 V vs. Li
+ <sup>+</sup>/Li while being compatible with metallic lithium at the negative electrode. It is worth noting that there is a significant difference between being stable over one cycle (for example linear sweep voltammetry experiments), being stable for a few hundred cycles (what most of the publications report) and for thousands of cycles (industrial requirement). One way to predict the stability of the system during cycling is by analyzing the coulombic efficiency (CE). However, the fading of CE during cycling is rarely well understood and can be attributed to many factors such as the formation of dead Li, a bad cell assembly, and also to the degradation of the electrolyte. Thus, accurately assessing the stability of the electrolyte is one of the significant parameters that must be addressed due to the critical role of the ESW in the energy density and durability of the entire ASSLB. However, if the standardization of ionic conductivity measurements starts to appear [
+ <xref rid="B7-materials-14-03840" ref-type="bibr">7</xref>], ESW, while recognized as a parameter of importance, comes almost secondary when compared to ionic conductivity. Thus, it is often inconsistently reported, determined, or evaluated.
+</p>

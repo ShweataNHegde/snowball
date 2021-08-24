@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR53">
+ <label>53.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhang</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Coordination of atomic Co-Pt coupling species at carbon defects as active sites for oxygen reduction reaction</article-title>
+  <source>J. Am. Chem. Soc.</source>
+  <year>2018</year>
+  <volume>140</volume>
+  <fpage>10757</fpage>
+  <lpage>10763</lpage>
+  <pub-id pub-id-type="doi">10.1021/jacs.8b04647</pub-id>
+  <?supplied-pmid 30081632?>
+  <pub-id pub-id-type="pmid">30081632</pub-id>
+ </element-citation>
+</ref>

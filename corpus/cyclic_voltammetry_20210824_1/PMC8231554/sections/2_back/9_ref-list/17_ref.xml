@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B17-materials-14-03259">
+ <label>17.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Winsberg</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Hagemann</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Janoschka</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Hager</surname>
+    <given-names>M.D.</given-names>
+   </name>
+   <name>
+    <surname>Schubert</surname>
+    <given-names>U.S.</given-names>
+   </name>
+  </person-group>
+  <article-title>Redox-flow batteries: From metals to organic redox-active materials</article-title>
+  <source>Angew. Chem. Int. Ed.</source>
+  <year>2017</year>
+  <volume>56</volume>
+  <fpage>686</fpage>
+  <lpage>711</lpage>
+  <pub-id pub-id-type="doi">10.1002/anie.201604925</pub-id>
+  <?supplied-pmid 28070964?>
+  <pub-id pub-id-type="pmid">28070964</pub-id>
+ </element-citation>
+</ref>

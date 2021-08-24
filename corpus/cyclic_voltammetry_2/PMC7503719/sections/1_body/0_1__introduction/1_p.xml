@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Because of the rapid development of human society, energy demand is increasing [
+ <xref rid="B1-materials-13-03797" ref-type="bibr">1</xref>,
+ <xref rid="B2-materials-13-03797" ref-type="bibr">2</xref>,
+ <xref rid="B3-materials-13-03797" ref-type="bibr">3</xref>,
+ <xref rid="B4-materials-13-03797" ref-type="bibr">4</xref>,
+ <xref rid="B5-materials-13-03797" ref-type="bibr">5</xref>,
+ <xref rid="B6-materials-13-03797" ref-type="bibr">6</xref>,
+ <xref rid="B7-materials-13-03797" ref-type="bibr">7</xref>]. Fossil fuels have gradually dried up and caused severe environmental pollution. Clean and efficient energy devices play a vital role in coping with global warming and energy crisis, such as lithium-ion batteries [
+ <xref rid="B8-materials-13-03797" ref-type="bibr">8</xref>,
+ <xref rid="B9-materials-13-03797" ref-type="bibr">9</xref>,
+ <xref rid="B10-materials-13-03797" ref-type="bibr">10</xref>,
+ <xref rid="B11-materials-13-03797" ref-type="bibr">11</xref>,
+ <xref rid="B12-materials-13-03797" ref-type="bibr">12</xref>,
+ <xref rid="B13-materials-13-03797" ref-type="bibr">13</xref>,
+ <xref rid="B14-materials-13-03797" ref-type="bibr">14</xref>,
+ <xref rid="B15-materials-13-03797" ref-type="bibr">15</xref>,
+ <xref rid="B16-materials-13-03797" ref-type="bibr">16</xref>,
+ <xref rid="B17-materials-13-03797" ref-type="bibr">17</xref>,
+ <xref rid="B18-materials-13-03797" ref-type="bibr">18</xref>,
+ <xref rid="B19-materials-13-03797" ref-type="bibr">19</xref>], supercapacitors [
+ <xref rid="B20-materials-13-03797" ref-type="bibr">20</xref>,
+ <xref rid="B21-materials-13-03797" ref-type="bibr">21</xref>,
+ <xref rid="B22-materials-13-03797" ref-type="bibr">22</xref>,
+ <xref rid="B23-materials-13-03797" ref-type="bibr">23</xref>], nanogenerators [
+ <xref rid="B24-materials-13-03797" ref-type="bibr">24</xref>,
+ <xref rid="B25-materials-13-03797" ref-type="bibr">25</xref>,
+ <xref rid="B26-materials-13-03797" ref-type="bibr">26</xref>]. Rechargeable lithium-ion batteries have received lots of attention because of the rapid development of rechargeable electrical vehicles and portable electric devices [
+ <xref rid="B27-materials-13-03797" ref-type="bibr">27</xref>,
+ <xref rid="B28-materials-13-03797" ref-type="bibr">28</xref>,
+ <xref rid="B29-materials-13-03797" ref-type="bibr">29</xref>,
+ <xref rid="B30-materials-13-03797" ref-type="bibr">30</xref>]. The rechargeable lithium-ion batteries with excellent performance should have a high energy density, long discharge-charge cycle life, perfect rate capability, and no environmental pollution. Traditional graphitic carbon materials are widely used as anodes because of its good electrochemical stability, and abundant reserves. However, the relatively low theoretical capacity of only 372 mAh g
+ <sup>−1</sup> is impeding the further applications [
+ <xref rid="B31-materials-13-03797" ref-type="bibr">31</xref>,
+ <xref rid="B32-materials-13-03797" ref-type="bibr">32</xref>,
+ <xref rid="B33-materials-13-03797" ref-type="bibr">33</xref>,
+ <xref rid="B34-materials-13-03797" ref-type="bibr">34</xref>]. Transition-metal chalcogenides are a promising choice for developing new anodes of lithium-ion batteries for their much higher theoretical capacity [
+ <xref rid="B27-materials-13-03797" ref-type="bibr">27</xref>,
+ <xref rid="B28-materials-13-03797" ref-type="bibr">28</xref>,
+ <xref rid="B29-materials-13-03797" ref-type="bibr">29</xref>,
+ <xref rid="B32-materials-13-03797" ref-type="bibr">32</xref>,
+ <xref rid="B33-materials-13-03797" ref-type="bibr">33</xref>,
+ <xref rid="B34-materials-13-03797" ref-type="bibr">34</xref>,
+ <xref rid="B35-materials-13-03797" ref-type="bibr">35</xref>]. A series of transition-metal oxides and transition-metal sulfides have been investigated and exhibited many exciting properties [
+ <xref rid="B27-materials-13-03797" ref-type="bibr">27</xref>,
+ <xref rid="B28-materials-13-03797" ref-type="bibr">28</xref>,
+ <xref rid="B29-materials-13-03797" ref-type="bibr">29</xref>,
+ <xref rid="B30-materials-13-03797" ref-type="bibr">30</xref>,
+ <xref rid="B31-materials-13-03797" ref-type="bibr">31</xref>,
+ <xref rid="B32-materials-13-03797" ref-type="bibr">32</xref>,
+ <xref rid="B33-materials-13-03797" ref-type="bibr">33</xref>,
+ <xref rid="B34-materials-13-03797" ref-type="bibr">34</xref>]. Among these anode materials, transition-metal sulfides have attracted more and more attention because of the excellent electronic conductivity, high specific capacity, and environment friendly [
+ <xref rid="B27-materials-13-03797" ref-type="bibr">27</xref>,
+ <xref rid="B28-materials-13-03797" ref-type="bibr">28</xref>,
+ <xref rid="B29-materials-13-03797" ref-type="bibr">29</xref>,
+ <xref rid="B30-materials-13-03797" ref-type="bibr">30</xref>,
+ <xref rid="B31-materials-13-03797" ref-type="bibr">31</xref>,
+ <xref rid="B32-materials-13-03797" ref-type="bibr">32</xref>]. Copper and cuprous sulfides have received extensive attention and research because of their abundant resources, no environment pollution, a flat and long discharge voltage plateau, high theoretical capacity, and high electrical conductivity (10
+ <sup>−3</sup> S cm
+ <sup>−1</sup>) [
+ <xref rid="B28-materials-13-03797" ref-type="bibr">28</xref>,
+ <xref rid="B29-materials-13-03797" ref-type="bibr">29</xref>,
+ <xref rid="B30-materials-13-03797" ref-type="bibr">30</xref>,
+ <xref rid="B31-materials-13-03797" ref-type="bibr">31</xref>,
+ <xref rid="B32-materials-13-03797" ref-type="bibr">32</xref>,
+ <xref rid="B36-materials-13-03797" ref-type="bibr">36</xref>,
+ <xref rid="B37-materials-13-03797" ref-type="bibr">37</xref>,
+ <xref rid="B38-materials-13-03797" ref-type="bibr">38</xref>,
+ <xref rid="B39-materials-13-03797" ref-type="bibr">39</xref>,
+ <xref rid="B40-materials-13-03797" ref-type="bibr">40</xref>,
+ <xref rid="B41-materials-13-03797" ref-type="bibr">41</xref>,
+ <xref rid="B42-materials-13-03797" ref-type="bibr">42</xref>,
+ <xref rid="B43-materials-13-03797" ref-type="bibr">43</xref>].
+</p>

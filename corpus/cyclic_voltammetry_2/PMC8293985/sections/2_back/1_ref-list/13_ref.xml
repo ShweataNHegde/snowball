@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="cit13">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shi</surname>
+    <given-names>R. R. S.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tessensohn</surname>
+    <given-names>M. E.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lauw</surname>
+    <given-names>S. J. L.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Foo</surname>
+    <given-names>N. A. B. Y.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Webster</surname>
+    <given-names>R. D.</given-names>
+   </name>
+  </person-group>
+  <source>Chem. Commun.</source>
+  <year>2019</year>
+  <volume>55</volume>
+  <fpage>2277</fpage>
+  <lpage>2280</lpage>
+  <pub-id pub-id-type="doi">10.1039/C8CC09188A</pub-id>
+  <?supplied-pmid 30720024?>
+  <pub-id pub-id-type="pmid">30720024</pub-id>
+ </element-citation>
+</ref>

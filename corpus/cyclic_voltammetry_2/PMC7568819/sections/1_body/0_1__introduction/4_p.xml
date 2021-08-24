@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To implement this strategy, we selected a polymer coating based on the following considerations.
+ <list list-type="order">
+  <list-item>
+   <p>The coating should be electron-insulating but proton-conducting to allow redox reactions but not water electrolysis. Polymer coatings, already on corrosion-protected metals to suppress electron transport and in enzymatic biosensors to allow proton transport, can meet this requirement</p>
+  </list-item>
+  <list-item>
+   <p>To sustain high-voltage, high-rate, and high-cycle electrochemical operation, the coating should be thin yet strong enough to resist dielectric, mechanical, and chemical failure. Compared to crystalline or polycrystalline inorganics, amorphous organic polymers are dielectrically, mechanically, and chemically more robust. Moreover, as voltage increases, a relatively compliant soft-material capacitative layer will contract in thickness and expand laterally to a greater extent, thus shutting close pinholes and gaps, becoming self-healing (see supporting information)</p>
+  </list-item>
+  <list-item>
+   <p>Polymer coatings can be provided to any electrode-electrolyte combination thus offering a generic solution</p>
+  </list-item>
+ </list>
+</p>

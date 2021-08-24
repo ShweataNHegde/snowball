@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par34">Figure 
+ <xref rid="Fig4" ref-type="fig">4</xref> shows the OCV values with the oxidation current from the Fc
+ <sup>+</sup> on the Pt mesh and the analyzed results. Figure 
+ <xref rid="Fig4" ref-type="fig">4</xref>a shows a summarized diagram of the electrochemical reaction occurring in the four-electrode cell. The four-electrode cell possesses advantage in the individual control and measurement of electrochemical reaction of LMO and Pt mesh electrodes. From the simultaneous measurement of diffusion current from the generated Fc
+ <sup>+</sup> on LMO surface at Pt electrode and OCV drop of LMO electrode, the precise analysis of self-discharge reaction of LMO electrode can be determined; because the OCV drop only indicates the self-discharge of LMO electrode, which is not identical meaning with generation of Fc
+ <sup>+</sup> species. The redox potential of Fc is in the middle of the working voltage of LMO and the applied voltage of the Pt mesh electrode; hence, the redox couple is oxidized on the LMO near the surface and regenerated at the Pt mesh surface. Thus, the self-discharge of LMO electrode originates from the charge transfer reaction that occurs on the LMO surface, and regeneration of Fc
+ <sup>+</sup> to Fc occurs at the Pt mesh surface. This redox shuttle behavior defines the penetration of Fc on the deposited film on the LMO surface. Figure 
+ <xref rid="Fig4" ref-type="fig">4</xref>b shows the time 
+ <italic>vs</italic>. OCV curve of LMO and the collected Fc
+ <sup>+</sup> current plot. The time 
+ <italic>vs</italic>. OCV
+ <sub>LMO</sub> plot demonstrates the facile self-discharge of the LMO electrode within 1 h of Fc exposure; hence, the possibility of Fc penetration into the surface film on the LMO active material is described. Because the OCV
+ <sub>LMO</sub> returns to the initial discharged OCV values, the complete self-discharge of the LMO active material is predicted. To define LMO self-discharge from Fc
+ <sup>+</sup> generation by a charge transfer reaction on the LMO surface to Fc, the diffusion current from the as-generated Fc
+ <sup>+</sup> is recorded on the Pt mesh surface. The self-discharge of LMO was observed from the penetration of Fc into the LMO surface, since the potential of Pt electrode was 3.0 V (
+ <italic>vs</italic>. Li/Li
+ <sup>+</sup>), the reduction of Fc
+ <sup>+</sup> is readily conducted on the Pt surface because of the high overpotential. The chronoamperogram shows the Cottrell-like current behavior at the Pt mesh surface; hence, the diffusion of Fc
+ <sup>+</sup> is explained. Furthermore, the diffusion current syncs with the OCV decay profile; thus, the poor passivation ability of the surface film deposited on the LMO electrode is the main cause of the self-discharge. A schematic of the carbonate-derived surface film is shown in Fig. 
+ <xref rid="Fig4" ref-type="fig">4</xref>c. During the initial pre-cycling, the LMO surface was passivated from the carbonate-decomposed products. While the surface film deposited on the LMO surface further suppresses the electrolyte decomposition on the LMO surface, the penetration of charge-neutral molecules cannot be prevented. Hence, the self-discharge of the LMO electrode readily occurs due to the charge transfer reaction to the redox indicator molecule. The molecule used in this study had ideal size approximately 3.31 Å [
+ <xref ref-type="bibr" rid="CR27">27</xref>]; therefore, the penetration of HF molecules into the surface film is readily possible in conventional carbonate-derived films. In conclusion, the blocking ability of the HF molecule in the deposited surface film is crucial for the enhancement of LMO-comprised LIBs.
+</p>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To elucidate the electrochemical process taking place on the NC-S/MgB
+ <sub>2</sub> cathode during the charging and discharging processes distinctly, the dynamic electrochemical impedance spectroscopy (DEIS) technique has been studied. The DEIS technique is beneficial over EIS, where the AC signal is superimposed by the DC signal during the charging/discharging process, and the measurements are recorded in the quasi-stationary state.
+ <sup>
+  <xref ref-type="bibr" rid="ref38">38</xref>,
+  <xref ref-type="bibr" rid="ref39">39</xref>
+ </sup> This technique is helpful in studying the electrochemical reaction kinetics of the electrode materials in both charge and discharge states separately. 
+ <xref rid="fig7" ref-type="fig">Figure 
+  <xref rid="fig7" ref-type="fig">7</xref>
+ </xref>a,b depicts the DEIS profiles of the NC-S/MgB
+ <sub>2</sub> cathode during the discharging and charging processes, respectively. Similar to EIS, the Nyquist plots of DEIS also comprise depressed semicircles in high- and mid-frequency regions, followed by a slopping line in the low-frequency region. It is clearly visible from the DEIS profile of the NC-S/MgB
+ <sub>2</sub> cathode during the discharging process that with increasing depth of discharge (DOD), the length of the diffusion tail decreases until the voltage reaches 2.36 V. This is because as the voltage reaches from 2.8 to 2.36 V, S
+ <sub>8</sub> reduces for the formation of higher-order LPS (Li
+ <sub>2</sub>S
+ <sub>8</sub>); during this stage, Li
+ <sup>+</sup> ions have faster diffusion kinetics and the diffusion tail decreases. Above 2.36 V, the higher-order LPS reduces for the formation of lower-order LPS, which increases the viscosity of the electrolyte, and therefore, diffusion tails increase.
+ <sup>
+  <xref ref-type="bibr" rid="ref23">23</xref>
+ </sup> During the charging process, a similar trend in the DEIS profile has been observed. The length of the diffusion is minimum around 2.36 V due to the formation of higher-order LPS.
+ <sup>
+  <xref ref-type="bibr" rid="ref40">40</xref>,
+  <xref ref-type="bibr" rid="ref41">41</xref>
+ </sup>
+</p>

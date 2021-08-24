@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>OER</term>
+   <def>
+    <p id="Par2">Oxygen evolution reaction</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ORR</term>
+   <def>
+    <p id="Par3">Oxygen reduction reaction</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TMPs</term>
+   <def>
+    <p id="Par4">Transition metal phosphides</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CoP</term>
+   <def>
+    <p id="Par5">Cobalt phosphide</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MOFs</term>
+   <def>
+    <p id="Par6">Metal-organic frameworks</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CNTs</term>
+   <def>
+    <p id="Par7">Carbon nanotubes</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NPM</term>
+   <def>
+    <p id="Par8">N-doped porous MOFs nanosheets</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PE-ALD</term>
+   <def>
+    <p id="Par9">Plasma-enhanced atomic layer deposition</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>XRD</term>
+   <def>
+    <p id="Par10">X-ray diffraction</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FESEM</term>
+   <def>
+    <p id="Par11">Field emission scanning electron microscope</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TEM</term>
+   <def>
+    <p id="Par12">Transmission electron microscope</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>EDS</term>
+   <def>
+    <p id="Par13">Energy dispersive X-ray spectroscopy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>XPS</term>
+   <def>
+    <p id="Par14">X-ray photoelectron spectroscopy</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RRDE</term>
+   <def>
+    <p id="Par15">Rotating ring-disk electrode</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LSV</term>
+   <def>
+    <p id="Par16">Linear sweep voltammogram</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RHE</term>
+   <def>
+    <p id="Par17">Reversible hydrogen electrode</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>K-L</term>
+   <def>
+    <p id="Par18">Koutecky-Levich</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ECSA</term>
+   <def>
+    <p id="Par19">Electrochemical active surface area</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CV</term>
+   <def>
+    <p id="Par20">Cyclic voltammetry</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>C
+    <sub>dl</sub>
+   </term>
+   <def>
+    <p id="Par21">Double-layer capacitance</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

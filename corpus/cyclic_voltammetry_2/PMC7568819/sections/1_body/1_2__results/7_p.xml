@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The PAA coating enables redox reactions at higher pH: in 
+ <xref ref-type="fig" rid="fig4">Figure 4(b)</xref> in 2 M Li
+ <sub>2</sub>SO
+ <sub>4</sub> testing under several pH, the CV curves of coated YP-50 are insensitive to the pH value, from 2 to 10, with the reactions suppressed only at pH ~12. The suppression was due to the exhaustion of protons in the PAA reservoir instead of structural damage to PAA, for the coated electrode after pH ~12 testing still reproduced the same CV curves in 
+ <xref ref-type="fig" rid="fig4">Figure 4(b)</xref> when tested again at lower pH (data not shown). Consistent with this result, the Tafel slope for the coated M-YP-50 electrode in 
+ <xref ref-type="fig" rid="fig4">Figure 4(c)</xref> over pH 4-10 is relatively flat, which is like the Tafel plot of a redox-inactive EDLC electrode—an uncoated YP-50 electrode. In fact, for an uncoated M-YP-50 electrode that is redox active but lacks proton buffering, the Tafel slope is ~58 mV/pH, exactly what one would expect for a one-electron redox reaction, 59 mV/pH. These results are supportive of our design: a self-buffered PAA coating acts like a proton reservoir, so its electrode redox reactions can proceed regardless of the pH of the surrounding electrolyte. Importantly, this self-buffering ability does not affect the ECW, which remains enlarged from pH 3 to pH 10 (
+ <xref ref-type="fig" rid="fig4">Figure 4(d)</xref>). Also importantly, the self-buffered PAA coating makes it possible to support high charging/discharging rates in not only proton-rich 0.5 M H
+ <sub>2</sub>SO
+ <sub>4</sub> but also proton-lean neutral 2 M Li
+ <sub>2</sub>SO
+ <sub>4</sub> (Figures 
+ <xref ref-type="fig" rid="fig4">4(e)</xref>–
+ <xref ref-type="fig" rid="fig4">4(f)</xref>). This holds for a wide range of charging/discharging times and current densities in 
+ <xref ref-type="fig" rid="fig4">Figure 4(f)</xref>, where the extrapolated dashed line to zero time indicates the instantaneous charge to be expected of a fully loaded PAA-coated electrode.
+</p>

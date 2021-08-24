@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="ath1">
+  <name>
+   <surname>Fuchs</surname>
+   <given-names>David</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">†</xref>
+  <xref rid="notes2" ref-type="notes">$</xref>
+  <xref rid="notes1" ref-type="notes">#</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes" id="ath2">
+  <name>
+   <surname>Bayer</surname>
+   <given-names>Bernhard C.</given-names>
+  </name>
+  <xref rid="cor1" ref-type="other">*</xref>
+  <xref rid="aff2" ref-type="aff">‡</xref>
+  <xref rid="aff3" ref-type="aff">∥</xref>
+  <xref rid="notes1" ref-type="notes">#</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath3">
+  <name>
+   <surname>Gupta</surname>
+   <given-names>Tushar</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">‡</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath4">
+  <name>
+   <surname>Szabo</surname>
+   <given-names>Gabriel L.</given-names>
+  </name>
+  <xref rid="aff4" ref-type="aff">⊥</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath5">
+  <name>
+   <surname>Wilhelm</surname>
+   <given-names>Richard A.</given-names>
+  </name>
+  <xref rid="aff4" ref-type="aff">⊥</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath6">
+  <name>
+   <surname>Eder</surname>
+   <given-names>Dominik</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">‡</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath7">
+  <name>
+   <surname>Meyer</surname>
+   <given-names>Jannik C.</given-names>
+  </name>
+  <xref rid="aff3" ref-type="aff">∥</xref>
+  <xref rid="notes3" ref-type="notes">§</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath8">
+  <name>
+   <surname>Steiner</surname>
+   <given-names>Sandra</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">†</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes" id="ath9">
+  <name>
+   <surname>Gollas</surname>
+   <given-names>Bernhard</given-names>
+  </name>
+  <xref rid="cor2" ref-type="other">*</xref>
+  <xref rid="aff1" ref-type="aff">†</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>†</label>Institute for Chemistry and Technology of Materials, 
+  <institution>Graz University of Technology</institution>, Stremayrgasse 9, Graz A-8010, 
+  <country>Austria</country>
+ </aff>
+ <aff id="aff2">
+  <label>‡</label>Institute of Materials Chemistry, 
+  <institution>Vienna University of Technology (TU Wien)</institution>, Getreidemarkt 9, Vienna A-1060, 
+  <country>Austria</country>
+ </aff>
+ <aff id="aff3">
+  <label>∥</label>Faculty of Physics, 
+  <institution>University of Vienna</institution>, Boltzmanngasse 5, Vienna A-1090, 
+  <country>Austria</country>
+ </aff>
+ <aff id="aff4">
+  <label>⊥</label>Institute of Applied Physics, 
+  <institution>Vienna University of Technology (TU Wien)</institution>, Wiedner Hauptstraße 8-10, Vienna A-1040, 
+  <country>Austria</country>
+ </aff>
+</contrib-group>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>SEI prevents the direct contact between Zn metal and electrolyte. It, on the one hand, suppresses the gassing reactions and, on the other, introduces heterogeneity into the transport pathways as discussed. For Li metal, which has a stronger propensity for SEI formation owing to the low electrochemical potential, it is generally thought that the persisting moss-like deposition morphology in multiple electrolytes (
+ <xref rid="R24" ref-type="bibr">
+  <italic>24</italic>
+ </xref>) is caused by heterogeneous SEI (
+ <xref rid="R84" ref-type="bibr">
+  <italic>84</italic>
+ </xref>, 
+ <xref rid="R87" ref-type="bibr">
+  <italic>87</italic>
+ </xref>). We note that the moss-like Li deposition morphology is highly analogous to the moss-like Zn morphology (
+ <xref rid="F2" ref-type="fig">Fig. 2B</xref>), in terms of dimension and geometry. The moss-like Zn deposition from alkaline electrolyte are observed at small overpotential (~20 mV) (
+ <xref rid="R94" ref-type="bibr">
+  <italic>94</italic>
+ </xref>) or low current densities 
+ <inline-formula>
+  <math id="m14">
+   <mrow>
+    <mrow>
+     <mfrac bevelled="true">
+      <mi>i</mi>
+      <mrow>
+       <msub>
+        <mi>i</mi>
+        <mtext>lim</mtext>
+       </msub>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> of &lt;0.4 (
+ <xref rid="R95" ref-type="bibr">
+  <italic>95</italic>
+ </xref>). This indicates that SEI is playing a more dominant role at low current density/overpotential than it does at large overpotential or high current densities. We hypothesize that this is because of the ratio between SEI-forming reaction rate and the Zn deposition rate; at a small deposition current, the parasitic reaction can proceed steadily and form the SEI layer, which results in the moss-like deposition morphology. Initial experimental evidence for this hypothesis was provided by a high-resolution TEM study of the Zn electrodeposits formed in alkaline electrolytes at a low overpotential (50 mV) and at a moderate overpotential (150 mV) (
+ <xref rid="R92" ref-type="bibr">
+  <italic>92</italic>
+ </xref>). Existence of ZnO crystallites is consistently detected under these two conditions but in different geometries and quantities. At higher overpotentials, the ZnO forms a uniform, thin layer of a ~𝒪(10 nm) thickness and exhibits an epitaxial growth relation with the Zn metal; at low overpotential, the ZnO has a substantially higher content and a heterogeneous spatial distribution. The Zn metal deposits under these two conditions show morphologies in stark contrast: (002)-textured single-crystalline Zn plates at large overpotential and tortuous, polycrystalline nanoaggregates without specific orientational order. These direct TEM observations of SEI suggest that the excessive formation of heterogeneous ZnO crystallites is playing a crucial role in the deposition at low overpotential/current density. An analogous in-depth TEM study of the Zn electrodeposits formed in ZnSO
+ <sub>4</sub>-based electrolytes will be of immediate interest in understanding the structure and composition of the SEI in mild-pH environment and its influence on Zn deposition morphology.
+</p>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We suggest that the mechanism behind the cathodic degradation of the graphene in 12CE is linked to highly reactive radical electrolysis products of 12CE. Haerens et al. have studied the cathodic decomposition of 12CE and identified several products of the preparative electrolysers of 12CE.
+ <sup>
+  <xref ref-type="bibr" rid="ref61">61</xref>
+ </sup> On this basis, they suggested possible reaction pathways for choline, whereby the initially formed choline radical decomposes into trimethylamine and an ethanol radical (
+ <xref rid="sch1" ref-type="scheme">Scheme 
+  <xref rid="sch1" ref-type="scheme">1</xref>
+ </xref>A) or into dimethylamino-ethanol and a methyl radical (
+ <xref rid="sch1" ref-type="scheme">Scheme 
+  <xref rid="sch1" ref-type="scheme">1</xref>
+ </xref>B). In both paths, radicals are generated that can easily bind covalently to graphene as known from electrografting.
+ <sup>
+  <xref ref-type="bibr" rid="ref64">64</xref>
+ </sup> Covalent bonding of these radicals to graphene converts sp
+ <sup>2</sup> into sp
+ <sup>3</sup>-hybridized carbons and disrupts the delocalized π-electron system. Such types of defects result in a decrease of electronic conductivity and also lead to characteristic changes in the Raman spectrum of graphene.
+ <sup>
+  <xref ref-type="bibr" rid="ref65">65</xref>
+ </sup> Corroborating this is also our observation during cyclic voltammetry that gas bubbles emanated on the graphene electrodes around the cathodic switching potential. This can be explained by the decomposition of choline to trimethylamine (
+ <xref rid="sch1" ref-type="scheme">Scheme 
+  <xref rid="sch1" ref-type="scheme">1</xref>
+ </xref>A), although the formation of gaseous products, such as methane or ethane in reaction path B, cannot be ruled out. Bubble formation may also exacerbate the graphene film destruction via bubble-induced delamination
+ <sup>
+  <xref ref-type="bibr" rid="ref66">66</xref>
+ </sup> from the substrate, which may account for the extensive void formation observed by optical microscopy for the fully cathodically cycled film (Supporting Information 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S1</ext-link>). With respect to the proposed reaction scheme, the anodic peak around +2.2 V, which is observed only after the cathodic decomposition, points to the grafting of an oxidizable functional group such as the hydroxyl group in the ethanol radical generated also in path A.
+</p>

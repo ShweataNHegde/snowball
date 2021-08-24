@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Kai</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kim</surname>
+   <given-names>Seonghee</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Je</surname>
+   <given-names>Minyeong</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8782-9326</contrib-id>
+  <name>
+   <surname>Choi</surname>
+   <given-names>Heechae</given-names>
+  </name>
+  <address>
+   <email>h.choi@uni-koeln.de</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Shi</surname>
+   <given-names>Zhicong</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Vladimir</surname>
+   <given-names>Nikola</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Kim</surname>
+   <given-names>Kwang Ho</given-names>
+  </name>
+  <address>
+   <email>kwhokim@pusan.ac.kr</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Li</surname>
+   <given-names>Oi Lun</given-names>
+  </name>
+  <address>
+   <email>helenali@pusan.ac.kr</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.262229.f</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0719 8572</institution-id>
+   <institution>Department of Materials Science and Engineering, </institution>
+   <institution>Pusan National University, </institution>
+  </institution-wrap>30 Jangjeon-dong, Geumjeong-gu, Busan, 609-735 Republic of Korea 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.6190.e</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 8580 3777</institution-id>
+   <institution>Theoretical Materials and Chemistry Group, Institute of Inorganic Chemistry, </institution>
+   <institution>University of Cologne, </institution>
+  </institution-wrap>Greinstr. 6, 50939 Cologne, Germany 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.411851.8</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0040 0205</institution-id>
+   <institution>School of Materials and Energy, </institution>
+   <institution>Guangdong University of Technology, </institution>
+  </institution-wrap>Guangzhou, 510006 People’s Republic of China 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.4808.4</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0657 4636</institution-id>
+   <institution>Faculty of Mechanical Engineering and Naval Architecture, </institution>
+   <institution>University of Zagreb, </institution>
+  </institution-wrap>Ivana Lucica 5, 10002 Zagreb, Croatia 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>Global Frontier R&amp;D Center for Hybrid Interface Materials, 30 Jangjeon-dong, Geumjeong-gu, Busan, 46241 Republic of Korea 
+ </aff>
+</contrib-group>

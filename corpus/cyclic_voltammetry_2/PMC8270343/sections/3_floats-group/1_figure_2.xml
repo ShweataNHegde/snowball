@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="molecules-26-03858-f002" orientation="portrait" position="float">
+ <label>Figure 2</label>
+ <caption>
+  <p>(
+   <bold>a</bold>) Thermogravimetric (TG) and (
+   <bold>b</bold>) derivative thermogravimetric (DTG) curves of the N-doped graphene materials carried out under the argon (Ar) atmosphere; the graphite was also added in the TG analysis to highlight the differences between it and the hybrid materials’ thermal stabilities.
+  </p>
+ </caption>
+ <graphic xlink:href="molecules-26-03858-g002a" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ <graphic xlink:href="molecules-26-03858-g002b" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The charge/discharge mechanism for NiCo/Ag-CX may involve: (a) ionic transport through the electrolyte, (b) adsorption/desorption of ions at the surface active sites of the electrode, and (c) ions insertion and extrication into/from bulk, according to the following redox reactions [
+ <xref rid="B23-materials-13-04906" ref-type="bibr">23</xref>,
+ <xref rid="B43-materials-13-04906" ref-type="bibr">43</xref>]:
+ <disp-formula id="FD3-materials-13-04906">
+  <label>(3)</label>
+  <math id="mm12">
+   <mrow>
+    <mrow>
+     <mo stretchy="false">(</mo>
+     <msub>
+      <mrow>
+       <mrow>
+        <mo>(</mo>
+        <mrow>
+         <msub>
+          <mrow>
+           <mi>NiCo</mi>
+          </mrow>
+          <mn>2</mn>
+         </msub>
+         <msub>
+          <mi mathvariant="normal">O</mi>
+          <mn>4</mn>
+         </msub>
+        </mrow>
+        <mo>)</mo>
+       </mrow>
+      </mrow>
+      <mrow>
+       <mi>surface</mi>
+      </mrow>
+     </msub>
+     <mo> </mo>
+     <mo>+</mo>
+     <msup>
+      <mrow>
+       <mrow>
+        <mo> </mo>
+        <mi>OH</mi>
+       </mrow>
+      </mrow>
+      <mo>−</mo>
+     </msup>
+     <mo> </mo>
+     <mo>+</mo>
+     <msub>
+      <mrow>
+       <mrow>
+        <mo> </mo>
+        <mi mathvariant="normal">H</mi>
+       </mrow>
+      </mrow>
+      <mn>2</mn>
+     </msub>
+     <mrow>
+      <mi mathvariant="normal">O</mi>
+      <mo> </mo>
+     </mrow>
+     <mo>↔</mo>
+     <mrow>
+      <mo> </mo>
+      <mi>NiOOH</mi>
+      <mo> </mo>
+     </mrow>
+     <mo>+</mo>
+     <mo> </mo>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mn>2</mn>
+       <mi>CoOOH</mi>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <msub>
+      <mo> </mo>
+      <mrow>
+       <mi>surface</mi>
+      </mrow>
+     </msub>
+     <mo> </mo>
+     <mo>+</mo>
+     <mo> </mo>
+     <mn>2</mn>
+     <msup>
+      <mi mathvariant="normal">e</mi>
+      <mo>−</mo>
+     </msup>
+     <mo stretchy="false">)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+ <disp-formula id="FD4-materials-13-04906">
+  <label>(4)</label>
+  <math id="mm13">
+   <mrow>
+    <mrow>
+     <mo stretchy="false">(</mo>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mi>CoOOH</mi>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <msub>
+      <mo> </mo>
+      <mrow>
+       <mi>surface</mi>
+      </mrow>
+     </msub>
+     <mo> </mo>
+     <mo>+</mo>
+     <msup>
+      <mrow>
+       <mrow>
+        <mo> </mo>
+        <mi>OH</mi>
+       </mrow>
+      </mrow>
+      <mo>−</mo>
+     </msup>
+     <mo> </mo>
+     <mo>↔</mo>
+     <msub>
+      <mrow>
+       <mrow>
+        <mo> </mo>
+        <mi>CoO</mi>
+       </mrow>
+      </mrow>
+      <mn>2</mn>
+     </msub>
+     <mo> </mo>
+     <mo>+</mo>
+     <msub>
+      <mrow>
+       <mrow>
+        <mo> </mo>
+        <mi mathvariant="normal">H</mi>
+       </mrow>
+      </mrow>
+      <mn>2</mn>
+     </msub>
+     <mrow>
+      <mi mathvariant="normal">O</mi>
+      <mo> </mo>
+     </mrow>
+     <mo>+</mo>
+     <msup>
+      <mi mathvariant="normal">e</mi>
+      <mo>−</mo>
+     </msup>
+     <mo stretchy="false">)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+ <disp-formula id="FD5-materials-13-04906">
+  <label>(5)</label>
+  <math id="mm14">
+   <mrow>
+    <mrow>
+     <mo stretchy="false">(</mo>
+     <msub>
+      <mrow>
+       <mrow>
+        <mo>(</mo>
+        <mrow>
+         <msub>
+          <mrow>
+           <mi>NiCo</mi>
+          </mrow>
+          <mn>2</mn>
+         </msub>
+         <msub>
+          <mi mathvariant="normal">O</mi>
+          <mn>4</mn>
+         </msub>
+        </mrow>
+        <mo>)</mo>
+       </mrow>
+      </mrow>
+      <mrow>
+       <mi>bulk</mi>
+      </mrow>
+     </msub>
+     <mo> </mo>
+     <mo>+</mo>
+     <msup>
+      <mrow>
+       <mrow>
+        <mo> </mo>
+        <mi>OH</mi>
+       </mrow>
+      </mrow>
+      <mo>−</mo>
+     </msup>
+     <mo>+</mo>
+     <msub>
+      <mrow>
+       <mrow>
+        <mo> </mo>
+        <mi mathvariant="normal">H</mi>
+       </mrow>
+      </mrow>
+      <mn>2</mn>
+     </msub>
+     <mi mathvariant="normal">O</mi>
+     <mo>↔</mo>
+     <mrow>
+      <mo> </mo>
+      <mi>NiOOH</mi>
+      <mo> </mo>
+     </mrow>
+     <mo>+</mo>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mn>2</mn>
+       <mi>CoOOH</mi>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <msub>
+      <mo> </mo>
+      <mrow>
+       <mi>bulk</mi>
+      </mrow>
+     </msub>
+     <mo> </mo>
+     <mo>+</mo>
+     <mo> </mo>
+     <mn>2</mn>
+     <msup>
+      <mi mathvariant="normal">e</mi>
+      <mo>−</mo>
+     </msup>
+     <mo stretchy="false">)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+ <disp-formula id="FD6-materials-13-04906">
+  <label>(6)</label>
+  <math id="mm15">
+   <mrow>
+    <mrow>
+     <mo stretchy="false">(</mo>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mi>CoOOH</mi>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <msub>
+      <mo> </mo>
+      <mrow>
+       <mi>bulk</mi>
+      </mrow>
+     </msub>
+     <mo> </mo>
+     <mo>+</mo>
+     <msup>
+      <mrow>
+       <mrow>
+        <mo> </mo>
+        <mi>OH</mi>
+       </mrow>
+      </mrow>
+      <mo>−</mo>
+     </msup>
+     <mo> </mo>
+     <mo>↔</mo>
+     <msub>
+      <mrow>
+       <mrow>
+        <mo> </mo>
+        <mi>CoO</mi>
+       </mrow>
+      </mrow>
+      <mn>2</mn>
+     </msub>
+     <mo> </mo>
+     <mo>+</mo>
+     <msub>
+      <mrow>
+       <mrow>
+        <mo> </mo>
+        <mi mathvariant="normal">H</mi>
+       </mrow>
+      </mrow>
+      <mn>2</mn>
+     </msub>
+     <mrow>
+      <mi mathvariant="normal">O</mi>
+      <mo> </mo>
+     </mrow>
+     <mo>+</mo>
+     <msup>
+      <mi mathvariant="normal">e</mi>
+      <mo>−</mo>
+     </msup>
+     <mo stretchy="false">)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+</p>

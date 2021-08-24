@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B11">
+ <label>11</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Staszak-Jirkovsky</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Subbaraman</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Strmcnik</surname>
+    <given-names>D.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Water as a promoter and catalyst for dioxygen electrochemistry in aqueous and organic media</article-title>
+  <source>
+   <italic toggle="yes">ACS Catalysis</italic>
+  </source>
+  <year>2015</year>
+  <volume>5</volume>
+  <issue>11</issue>
+  <fpage>6600</fpage>
+  <lpage>6607</lpage>
+  <pub-id pub-id-type="doi">10.1021/acscatal.5b01779</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84946866632</pub-id>
+ </element-citation>
+</ref>

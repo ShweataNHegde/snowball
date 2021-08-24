@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="ath1">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-6974-2753</contrib-id>
+  <name>
+   <surname>Ilic</surname>
+   <given-names>Ivan K.</given-names>
+  </name>
+  <xref rid="notes1" ref-type="notes">¥</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath2">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4252-3056</contrib-id>
+  <name>
+   <surname>Lepre</surname>
+   <given-names>Enrico</given-names>
+  </name>
+  <xref rid="notes1" ref-type="notes">¥</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes" id="ath3">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-8438-9548</contrib-id>
+  <name>
+   <surname>López-Salas</surname>
+   <given-names>Nieves</given-names>
+  </name>
+  <xref rid="cor1" ref-type="other">*</xref>
+ </contrib>
+ <aff id="aff1">Colloid Chemistry Department, 
+  <institution>Max Planck Institute of Colloids and Interfaces</institution>, Am Mühlenberg 1, Potsdam 14476, 
+  <country>Germany</country>
+ </aff>
+</contrib-group>

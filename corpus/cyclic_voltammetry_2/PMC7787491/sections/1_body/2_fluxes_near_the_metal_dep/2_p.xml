@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The electrodeposition reaction flux can be quantified in terms of the faradaic current density 
+ <italic>J</italic>, as described by the Butler-Volmer equation: 
+ <italic>J</italic> = 
+ <italic>J</italic>
+ <sub>0</sub>[
+ <italic>e</italic>
+ <sup>−α
+  <italic>nf</italic>η
+ </sup> − 
+ <italic>e</italic>
+ <sup>(1 − α)
+  <italic>nf</italic>η
+ </sup>]. Here, 
+ <italic>J</italic>
+ <sub>0</sub> is the exchange current density, α is the transfer coefficient, 
+ <italic>n</italic> is the number of electrons transferred, 
+ <italic>f</italic> is the inverse of thermal voltage, and η is the overpotential (
+ <xref rid="R23" ref-type="bibr">
+  <italic>23</italic>
+ </xref>). 
+ <italic>J</italic>
+ <sub>0</sub> is related to the intrinsic reaction rate: 
+ <italic>J</italic>
+ <sub>0</sub> = 
+ <italic>nFCk</italic>
+ <sup>0</sup>, where 
+ <italic>F</italic> is the Faradaic constant, 
+ <italic>C</italic> is the concentration of the reactant, and 
+ <italic>k</italic>
+ <sup>0</sup> is the standard chemical reaction rate constant. It is then possible to connect the observed reaction flux 
+ <italic>J</italic> to the applied overpotential η and the intrinsic chemical kinetics of the reaction 
+ <italic>k</italic>
+ <sup>0</sup>. In turn, this relation allows one to experimentally interrogate the reaction kinetics by measuring the 
+ <italic>J</italic> and η. For example, Tafel plot (η versus log 
+ <italic>J</italic>) is used to obtain 
+ <italic>J</italic>
+ <sub>0</sub> by extrapolating the measured 
+ <italic>J</italic> to the equilibrium state (η ➔ 0) and thereby calculate 
+ <italic>k</italic>
+ <sup>0</sup>. The experimentally measured 
+ <italic>k</italic>
+ <sup>0</sup> is an apparent parameter that reflects the overall reaction process, which, in most cases, is multistep in nature. For example, it includes the desolvation (also called dissociation) of the complex ions in the vicinity of the electrode and the charge transfer on the electrode surface (
+ <xref rid="R31" ref-type="bibr">
+  <italic>31</italic>
+ </xref>). The measured apparent 
+ <italic>k</italic>
+ <sup>0</sup> values can be used to infer detailed mechanistic information about the reaction and in favorable cases, allowing the details such as the reaction order, 
+ <inline-formula>
+  <math id="m5">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>p</mi>
+      <mi>i</mi>
+     </msub>
+     <mo>=</mo>
+     <msub>
+      <mrow>
+       <mo stretchy="true">(</mo>
+       <mfrac>
+        <mrow>
+         <mi mathvariant="normal">∂</mi>
+         <mtext>log</mtext>
+         <mi>J</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="normal">∂</mi>
+         <mtext>log</mtext>
+         <msub>
+          <mi>a</mi>
+          <mi>i</mi>
+         </msub>
+        </mrow>
+       </mfrac>
+       <mo stretchy="true">)</mo>
+      </mrow>
+      <mi mathvariant="normal">η</mi>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>, to be determined from knowledge of the activity 
+ <italic>a
+  <sub>i</sub>
+ </italic> of cationic species 
+ <italic>i</italic> in the electrolyte. Ready access to this sort of information is considered a hallmark of the Zn electrochemical deposition; it has spawned a rich body of literature on the reaction mechanisms that govern electrodeposition of Zn in multiple types of electrolyte, e.g., sulfate (
+ <xref rid="R32" ref-type="bibr">
+  <italic>32</italic>
+ </xref>, 
+ <xref rid="R33" ref-type="bibr">
+  <italic>33</italic>
+ </xref>), chloride (
+ <xref rid="R34" ref-type="bibr">
+  <italic>34</italic>
+ </xref>, 
+ <xref rid="R35" ref-type="bibr">
+  <italic>35</italic>
+ </xref>), and alkaline baths (
+ <xref rid="R31" ref-type="bibr">
+  <italic>31</italic>
+ </xref>, 
+ <xref rid="R36" ref-type="bibr">
+  <italic>36</italic>
+ </xref>).
+</p>

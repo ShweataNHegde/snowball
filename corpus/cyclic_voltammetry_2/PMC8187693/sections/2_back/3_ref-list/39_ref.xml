@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR39">
+ <label>39.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fei</surname>
+    <given-names>HL</given-names>
+   </name>
+   <name>
+    <surname>Dong</surname>
+    <given-names>JC</given-names>
+   </name>
+   <name>
+    <surname>Feng</surname>
+    <given-names>YX</given-names>
+   </name>
+   <name>
+    <surname>Allen</surname>
+    <given-names>CS</given-names>
+   </name>
+   <name>
+    <surname>Wan</surname>
+    <given-names>CZ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>General synthesis and definitive structural identification of MN
+   <sub>4</sub>C
+   <sub>4</sub> single-atom catalysts with tunable electrocatalytic activities
+  </article-title>
+  <source>Nat. Catal.</source>
+  <year>2018</year>
+  <volume>1</volume>
+  <fpage>63</fpage>
+  <lpage>72</lpage>
+  <pub-id pub-id-type="doi">10.1038/s41929-017-0008-y</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Coulometry at −1.1 V 
+ <italic>versus</italic> Fc
+ <sup>+</sup>/Fc with 2.5 mM BQ and 1.37 M TFEOH suggests that with an added proton donor this single redox feature corresponds to a two-electron reduction (Fig. S6
+ <xref ref-type="fn" rid="fn1">†</xref>). NMR analysis of the product of this reduction shows excellent agreement with authentic samples of H
+ <sub>2</sub>Q under analogous conditions (Fig. S7–S11
+ <xref ref-type="fn" rid="fn1">†</xref>). Indeed, replicating these coulometry and control experiments with acetic acid (AcOH; p
+ <italic>K</italic>
+ <sub>a</sub> in MeCN = 23.5),
+ <sup>
+  <xref rid="cit6" ref-type="bibr">6</xref>
+ </sup> which is expected to be sufficiently acidic to directly generate H
+ <sub>2</sub>Q produced identical results (Fig. S12–S14
+ <xref ref-type="fn" rid="fn1">†</xref>). This observation is inconsistent with the reported p
+ <italic>K</italic>
+ <sub>a</sub> of TFEOH in MeCN (35.4), which should thermodynamically preclude it from protonating [HQ]
+ <sup>−</sup> (p
+ <italic>K</italic>
+ <sub>a</sub> H
+ <sub>2</sub>Q in MeCN = 26.20) and suggests that additional thermal reactions are occurring. Previous studies have shown that the disproportionation of [HQ]
+ <sup>−</sup> to a dianionic quinhydrone species [H
+ <sub>2</sub>Q·BQ]
+ <sup>2−</sup> occurs following mono-deprotonation (
+ <xref ref-type="disp-formula" rid="eqn3">eqn (3)</xref>).
+ <sup>
+  <xref rid="cit10h" ref-type="bibr">10
+   <italic>h</italic>
+  </xref>
+ </sup> This assignment was based on a distinct NMR spectrum obtained for the quinhydrone dimer observed experimentally relative to H
+ <sub>2</sub>Q, which we do not observe. However, the previously reported conditions
+ <sup>
+  <xref rid="cit10h" ref-type="bibr">10
+   <italic>h</italic>
+  </xref>
+ </sup> were aprotic, conducted with stoichiometric amounts of added base. Therefore, under our electrolysis conditions where 1.37 M TFEOH is present, we propose that the non-ideality of the solvation shell facilitates the transfer of a second proton, producing the anion-stabilized H
+ <sub>2</sub>Q molecule observed in the coulometric studies, 
+ <italic>vide infra</italic>.
+ <disp-formula id="eqn3">
+  <label>3</label>2[HQ]
+  <sup>−</sup> ⇌ [H
+  <sub>2</sub>Q·BQ]
+  <sup>2−</sup>
+ </disp-formula>
+</p>

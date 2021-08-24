@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B8">
+ <label>8</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Merte</surname>
+    <given-names>L. R.</given-names>
+   </name>
+   <name>
+    <surname>Peng</surname>
+    <given-names>G. W.</given-names>
+   </name>
+   <name>
+    <surname>Bechstein</surname>
+    <given-names>R.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Water-mediated proton hopping on an iron oxide surface</article-title>
+  <source>
+   <italic toggle="yes">Science</italic>
+  </source>
+  <year>2012</year>
+  <volume>336</volume>
+  <issue>6083</issue>
+  <fpage>889</fpage>
+  <lpage>893</lpage>
+  <pub-id pub-id-type="doi">10.1126/science.1219468</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84861207397</pub-id>
+  <?supplied-pmid 22605771?>
+  <pub-id pub-id-type="pmid">22605771</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The DEGDME_HCE and TREGDME_HCE are initially exploited in lithium cell using the S:Sn 80:20 cathode by means of CV coupled with EIS as reported in 
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>. The corresponding voltammograms (
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>a, c) show the typical profiles expected for the reversible multiple-step Li/S electrochemical process consisting of a first cycle with a different shape compared to the subsequent ones, which are well overlapped into various peaks centered at about 2.4 and below 2.0 V vs Li
+ <sup>+</sup>/Li during cathodic scan and merged between 2.3 and 2.5 V vs Li
+ <sup>+</sup>/Li during the anodic one.
+ <sup>
+  <xref ref-type="bibr" rid="ref23">23</xref>
+ </sup> The above peaks correspond to the reduction of sulfur with formation of soluble polysulfides (Li
+ <sub>2</sub>S
+ <sub>
+  <italic>x</italic>
+ </sub> with 
+ <italic>x</italic> ≥ 6 at 2.4 V, and Li
+ <sub>2</sub>S
+ <sub>
+  <italic>x</italic>
+ </sub> with 6 &gt; 
+ <italic>x</italic> &gt; 2 below 2.0 V) during discharge, and to the oxidation back to sulfur during the charge process.
+ <sup>
+  <xref ref-type="bibr" rid="ref24">24</xref>
+ </sup> Furthermore, the difference between the first and subsequent cycles is well justified by the EIS performed at the OCV and after 1, 5, and 10 voltammetry cycles for the cells using DEGDME_HCE (
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>b) and TREGDME_HCE (
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>d). The corresponding Nyquist plots suggest the activation process typical of Li/S cells using a suitable electrolyte associated with the consolidation of a favorable electrode/electrolyte interphase by the ongoing electrochemical process.
+ <sup>
+  <xref ref-type="bibr" rid="ref26">26</xref>
+ </sup> This Li/S activation process has been attributed in a previous paper to microstructural modifications of the electrode that allow an enhanced electric contact between sulfur and the conductive carbon support, and lead to an improved conductivity of the electrode/electrolyte interphase.
+ <sup>
+  <xref ref-type="bibr" rid="ref30">30</xref>
+ </sup> Indeed, the EIS data evidence a remarkable decrease of the cell impedance from values between 100 and 200 Ω at the OCV (see insets of 
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>b and d) to values of the order of 10 Ω for DEGDME_HCE (
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>b) and 20 Ω for TREGDME_HCE (
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>d). An exhaustive summary of the results of the NLLS analyses performed on the Nyquist plots of 
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>b and 
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>d is reported in 
+ <xref rid="tbl1" ref-type="other">Table 
+  <xref rid="tbl1" ref-type="other">1</xref>
+ </xref>.
+ <sup>
+  <xref ref-type="bibr" rid="ref28">28</xref>,
+  <xref ref-type="bibr" rid="ref29">29</xref>
+ </sup> Notably, both CV and EIS results indicate differences between the Li/S cells using DEGDME_HCE and TREGDME_HCE; the former shows smoother less-polarized peaks and a slightly lower steady-state impedance with respect to the latter (compare 
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>a and the inset of 
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>b with 
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>c and the inset of 
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>d, respectively). These differences may be likely associated with favorable effects on the Li/S electrochemical process promoted by the lower solvent viscosity (0.94 g mL
+ <sup>–1</sup>)
+ <sup>
+  <xref ref-type="bibr" rid="ref31">31</xref>
+ </sup> and higher conductivity (3.3 × 10
+ <sup>–3</sup> S cm
+ <sup>–1</sup>) of DEGDME_HCE compared to the TREGDME_HCE (0.98 g mL
+ <sup>–1</sup> and 8.9 × 10
+ <sup>–4</sup> S cm
+ <sup>–1</sup>, respectively)
+ <sup>
+  <xref ref-type="bibr" rid="ref31">31</xref>
+ </sup> at room temperature, as reported in our previous study.
+ <sup>
+  <xref ref-type="bibr" rid="ref20">20</xref>
+ </sup>
+</p>

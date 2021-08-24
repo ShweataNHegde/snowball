@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <xref ref-type="fig" rid="materials-13-03797-f002">Figure 2</xref>a shows the XRD patterns of our samples, which is in good agreement with the standard cards of PDF No. 06-0464 (CuS) and No. 24-0061 (Cu
+ <sub>1.8</sub>S), demonstrating that the as-prepared samples were composed of CuS and Cu
+ <sub>1.8</sub>S. No other characteristic peaks for impurities were observed. The sharp diffraction peaks in the patterns indicated the good crystallinity of our samples. Different peaks at 27.8°, 29.4°, 31.9°, 33.0°, 48.1°, 52.9°, and 59.4° corresponded to the (101), (102), (103), (006), (110), (108), and (116) crystal plane of CuS [
+ <xref rid="B30-materials-13-03797" ref-type="bibr">30</xref>,
+ <xref rid="B31-materials-13-03797" ref-type="bibr">31</xref>,
+ <xref rid="B32-materials-13-03797" ref-type="bibr">32</xref>,
+ <xref rid="B46-materials-13-03797" ref-type="bibr">46</xref>,
+ <xref rid="B47-materials-13-03797" ref-type="bibr">47</xref>,
+ <xref rid="B48-materials-13-03797" ref-type="bibr">48</xref>,
+ <xref rid="B49-materials-13-03797" ref-type="bibr">49</xref>,
+ <xref rid="B50-materials-13-03797" ref-type="bibr">50</xref>,
+ <xref rid="B51-materials-13-03797" ref-type="bibr">51</xref>,
+ <xref rid="B52-materials-13-03797" ref-type="bibr">52</xref>,
+ <xref rid="B53-materials-13-03797" ref-type="bibr">53</xref>]. Furthermore, peaks at 27.8°, 32.3°, 46.2°, and 54.8° corresponded to (111), (200), (220), and (311) crystal plane of Cu
+ <sub>1.8</sub>S [
+ <xref rid="B30-materials-13-03797" ref-type="bibr">30</xref>,
+ <xref rid="B51-materials-13-03797" ref-type="bibr">51</xref>,
+ <xref rid="B52-materials-13-03797" ref-type="bibr">52</xref>]. The peak of the (101) crystal plane of CuS and the (111) crystal plane of Cu
+ <sub>1.8</sub>S could overlap to 27.8°. The average sizes of crystal particles can be obtained by the Scherrer Equation [
+ <xref rid="B32-materials-13-03797" ref-type="bibr">32</xref>,
+ <xref rid="B54-materials-13-03797" ref-type="bibr">54</xref>]:
+ <disp-formula id="FD1-materials-13-03797">
+  <label>(1)</label>
+  <math id="mm1">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>D</mi>
+      <mrow>
+       <mo stretchy="false">(</mo>
+       <mrow>
+        <mi>hkl</mi>
+        <mo>)</mo>
+       </mrow>
+      </mrow>
+     </msub>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <mi>k</mi>
+       <mi>λ</mi>
+      </mrow>
+      <mrow>
+       <msub>
+        <mi>b</mi>
+        <mrow>
+         <mo stretchy="false">(</mo>
+         <mrow>
+          <mi>hkl</mi>
+          <mo>)</mo>
+         </mrow>
+        </mrow>
+       </msub>
+       <mi>cos</mi>
+       <mi>θ</mi>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where 
+ <italic>λ</italic> is the wavelength of the X-ray applied in the measurement, 
+ <italic>k</italic> is a constant fact 0.9, 
+ <italic>θ</italic> is the diffraction angle, and 
+ <italic>b</italic> is the full width at half maximum (FWHM). The sizes of CuS/Cu
+ <sub>1.8</sub>S particles were estimated to be 23 nm (
+ <italic>D</italic>
+ <sub>(110)</sub>) and 22 nm (
+ <italic>D</italic>
+ <sub>(220)</sub>), which are nearly equal to each other.
+</p>

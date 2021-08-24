@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="molecules-26-03440-t004" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">molecules-26-03440-t004_Table 4</object-id>
+ <label>Table 4</label>
+ <caption>
+  <p>Data derived from the Levich slopes (B), number of electrons per O
+   <sub>2</sub> molecule, and Tafel slopes of the ORR for the different catalysts in 0.1 M NaOH.
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Catalyst</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">B Slope (mA)</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Number of Electrons</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Tafel Slope Lower Region (mA/dec)</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Tafel Slope at Higher Region (mA/dec)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Pd/C</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.098</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.65</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">57</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">120</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">PdNi/C 90:10</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.093</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.49</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">59</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">120</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">PdNi/C 80:20</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.096</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.58</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">120</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">PdNi/C 70:30</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.101</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.76</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">62</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">120</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">PdNi/C 60:40</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.101</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.79</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">59</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">120</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">PdNi/C 50:50</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.103</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.86</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">120</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pt/C</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.067</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.49</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">58</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">119</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

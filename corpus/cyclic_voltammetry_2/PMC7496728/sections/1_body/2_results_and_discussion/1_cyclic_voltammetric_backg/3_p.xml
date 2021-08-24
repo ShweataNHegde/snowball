@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In stark contrast to the anodic background sweep, the first sweep of a fresh graphene electrode to negative potentials shows a large cathodic peak with an onset at already −0.4 V (
+ <xref rid="fig2" ref-type="fig">Figure 
+  <xref rid="fig2" ref-type="fig">2</xref>
+ </xref>a, red). After reaching its maximum at −1.25 V, a rather steep drop of the current is observed, which is in most cases discontinuous toward the cathodic switching potential. We find that the cathodic peak shape is typical for the behavior of the monolayer graphene in 12CE, as in comparison glassy carbon electrodes show only a small increasing cathodic background current in the same potential range (
+ <xref rid="fig2" ref-type="fig">Figure 
+  <xref rid="fig2" ref-type="fig">2</xref>
+ </xref>, gray dashed). Raman measurements in 
+ <xref rid="fig2" ref-type="fig">Figure 
+  <xref rid="fig2" ref-type="fig">2</xref>
+ </xref>b of the once negatively swept electrode (top red) reveal that the large cathodic peak is related to severe defect formation in the graphene as evidenced by a significant increase of D band intensity.
+ <sup>
+  <xref ref-type="bibr" rid="ref56">56</xref>
+ </sup> The emergence of the D’ and the D + D’ bands in the spectrum is also indicative of this effect.
+ <sup>
+  <xref ref-type="bibr" rid="ref56">56</xref>
+ </sup> The formation of defects in the graphene upon negative sweeps is also corroborated by further electrochemical observations in 
+ <xref rid="fig2" ref-type="fig">Figure 
+  <xref rid="fig2" ref-type="fig">2</xref>
+ </xref>c, where we study the effects of repeated cycling. First, when sweeping to the positive regime after initial cathodic sweeps, an anodic peak around +2.2 V is observed (
+ <xref rid="fig2" ref-type="fig">Figure 
+  <xref rid="fig2" ref-type="fig">2</xref>
+ </xref>c, blue) which was absent in the first anodic sweep of as-fabricated, noncycled graphene (
+ <xref rid="fig2" ref-type="fig">Figure 
+  <xref rid="fig2" ref-type="fig">2</xref>
+ </xref>a, blue). This suggests that the initial cathodic sweep has electrochemically activated the graphene toward anodic reactions. Electrochemical activity of graphene is known to be linked to defects,
+ <sup>
+  <xref ref-type="bibr" rid="ref62">62</xref>
+ </sup> consistent with the defects observed in the Raman spectrum that formed during cathodic sweeps of graphene (
+ <xref rid="fig2" ref-type="fig">Figure 
+  <xref rid="fig2" ref-type="fig">2</xref>
+ </xref>b, red). Second, repeated cycling to the negative switching potential consistently shows that the current drastically decreases from sweep to sweep (
+ <xref rid="fig2" ref-type="fig">Figure 
+  <xref rid="fig2" ref-type="fig">2</xref>
+ </xref>c). This suggests that the graphene electrode is deactivated upon sweeping to negative potentials, which can be ascribed to diminishing electrical conductivity of the graphene layer. Because defects in graphene are known to drastically decrease the intrinsically high electrical conductivity of graphene,
+ <sup>
+  <xref ref-type="bibr" rid="ref63">63</xref>
+ </sup> this observed electrode degradation can also be linked to the defect formation observed in the Raman spectrum. Finally, for graphene cycled to large cathodic potentials we also find strong signs of graphene film degradation and even delamination in optical microscopy by formation of voids and ruptured areas (Supporting Information 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S1</ext-link>). This indicates that the detrimental impact of the cathodic sweep is not only microscopic, but also adversely affects the macroscopic homogeneity of the graphene film.
+</p>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Our selection of the specific polymer and process was further guided by the following.
+ <list list-type="roman-lower">
+  <list-item>
+   <p>Promoting proton transport needs a sufficiently hydrophilic and anionic polymer. (Nafion, the common choice for proton exchange membrane (PEM) fuel cells, is anionic.) Moreover, the polymer coating should be dense and solid-like to allow diffusion of H
+    <sup>+</sup> but not bulkier H
+    <sub>2</sub>O, H
+    <sub>3</sub>O
+    <sup>+</sup>, and Li
+    <sup>+</sup>-solvated H
+    <sub>2</sub>O
+   </p>
+  </list-item>
+  <list-item>
+   <p>Covering very large specific areas on advanced electrodes needs a conformal coating polymer. Because the electric field is naturally concentrated at geometric asperities (the lightening-rod effect), electrically triggered 
+    <italic>in situ</italic> polymerization of monomers can best form a uniform, pinhole-free electrode coating [
+    <xref rid="B18" ref-type="bibr">18</xref>]
+   </p>
+  </list-item>
+  <list-item>
+   <p>A self-buffered polymer coating with an intermediate p
+    <italic>K</italic>
+    <sub>a</sub> will allow full advantage of proton-mediated redox reactions to be taken while avoiding extreme pH of the expanded ECW where water stability is relatively poor
+   </p>
+  </list-item>
+ </list>
+</p>

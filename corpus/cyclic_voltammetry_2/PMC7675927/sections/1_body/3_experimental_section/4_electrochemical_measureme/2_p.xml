@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S3</ext-link> shows the setup of the electrochemical measurements. Hg/HgO (1 M KOH) and Pt were used as the reference and counter electrodes, respectively. The glass electrolysis cell includes a gas inlet, and electrolytes were saturated by N
+ <sub>2</sub> (30 min) or O
+ <sub>2</sub> (1 h) bubbling prior to measurements. The potential was converted to RHE. The calibration of Hg/HgO was conducted using Li et al.’s method.
+ <sup>
+  <xref ref-type="bibr" rid="ref66">66</xref>
+ </sup> For calibration, electrolyte solutions (i.e., 0.1 and 1 M KOH) were saturated with pure hydrogen by bubbling for 60 min. Hg/HgO and Pt were used as the reference and counter electrodes, respectively. A Pt disk was used as the working electrode. Linear sweep voltammetry (LSV) curves were recorded at a scan rate of 1 mV s
+ <sup>–1</sup>. The recorded LSV curves are shown in 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S9</ext-link>. The potential of the LSV curve that crossed zero current was used to calibrate Hg/HgO to the RHE using 
+ <xref rid="eq1" ref-type="disp-formula">eqs 
+  <xref rid="eq1" ref-type="disp-formula">1</xref>
+ </xref> and 
+ <xref rid="eq2" ref-type="disp-formula">2</xref>
+ <disp-formula id="eq1">
+  <graphic xlink:href="ao0c04254_m001" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <label>1</label>
+ </disp-formula>
+ <disp-formula id="eq2">
+  <graphic xlink:href="ao0c04254_m002" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <label>2</label>
+ </disp-formula>
+</p>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Electrochemical impedance spectroscopy (EIS) coupled with impedance fitting [
+ <xref rid="B39-molecules-26-04531" ref-type="bibr">39</xref>] was performed (
+ <xref ref-type="fig" rid="molecules-26-04531-f013">Figure 13</xref>). The EIS spectra, represented in the form of Nyquist plots after 200 cycles (
+ <xref ref-type="fig" rid="molecules-26-04531-f013">Figure 13</xref>a–d) for both uncalendered and calendered electrodes, displays smaller semicircles for both high and medium frequency, while the charge transfer resistance decreased. According to the literature, the Nyquist plots were fitted based on the equivalent circuit shown in 
+ <xref ref-type="fig" rid="molecules-26-04531-f013">Figure 13</xref>e, where R1 represents the bulk resistance of the electrolyte, R2 is associated with the contact resistance of the solid electrolyte interface (SEI) film, R3 is related to the resistance of the charge transfer, CPE1 is the charge capacitance 1, CPE2 is the charge capacitance 2, and W1 represent the Warburg diffusion element [
+ <xref rid="B9-molecules-26-04531" ref-type="bibr">9</xref>,
+ <xref rid="B10-molecules-26-04531" ref-type="bibr">10</xref>,
+ <xref rid="B28-molecules-26-04531" ref-type="bibr">28</xref>]. As presented in 
+ <xref ref-type="fig" rid="molecules-26-04531-f013">Figure 13</xref>, the charge transfer resistances for the uncalendered electrodes before cycling were 43.44 Ω for C/SiO
+ <sub>2</sub>-0.04 M, 35.81 Ω for C/SiO
+ <sub>2</sub>-0.055 M, and 34.96 Ω for C/SiO
+ <sub>2</sub>-0.085 M, and after 200 cycles, they decreased to 30.10 Ω, 26.29 Ω, and 23.09, respectively. Regarding the calendered electrodes, lower values of the charge transfer resistances were obtained: before cycling 34.89.76 Ω for C/SiO
+ <sub>2</sub>-0.04 M, 25.76 Ω for C/SiO
+ <sub>2</sub>-0.055 M, and 24.24 Ω for C/SiO
+ <sub>2</sub>-0.085 M, while after 200 cycles, 28.74 Ω, 19.15 Ω, and 17.10 Ω, respectively. Calendered electrodes exhibit lower values of the charge transfer resistance than the uncalendered ones. This may be due to the good contact of all electrode particles and good immersion of the electrolyte into the electrode [
+ <xref rid="B11-molecules-26-04531" ref-type="bibr">11</xref>]. The C/SiO
+ <sub>2</sub>-0.085 M calendered electrode exhibits the lowest charge transfer resistance among all samples, suggesting that it could display better Li-ion transfer conductivity, which is in accordance with the results of the cycling performance.
+</p>

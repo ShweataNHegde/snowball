@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For further investigation of the ORR pathway and kinetics, LSVs of FeS/CNT–GR at different rotation speeds were measured and the corresponding Koutecky–Levich (K–L) plots were obtained at the potential range of 0.2–0.7 V. 
+ <xref ref-type="fig" rid="materials-14-02146-f004">Figure 4</xref>b shows that the current density of FeS/N,S:CNT–GR increases with increasing rotation speed at the same potential due to enhanced oxygen diffusion on the electrode. 
+ <xref ref-type="app" rid="app1-materials-14-02146">Figure S5a</xref> shows Koutecky–Levich (K–L) plots for FeS/N,S:CNT–GR described as 
+ <disp-formula id="FD1-materials-14-02146">
+  <label>(1)</label>
+  <math id="mm1">
+   <mrow>
+    <mrow>
+     <mfrac>
+      <mn>1</mn>
+      <mi mathvariant="normal">J</mi>
+     </mfrac>
+     <mo>=</mo>
+     <mfrac>
+      <mn>1</mn>
+      <mrow>
+       <msub>
+        <mi mathvariant="normal">J</mi>
+        <mi mathvariant="normal">D</mi>
+       </msub>
+      </mrow>
+     </mfrac>
+     <mo>+</mo>
+     <mfrac>
+      <mn>1</mn>
+      <mrow>
+       <msub>
+        <mi mathvariant="normal">J</mi>
+        <mi mathvariant="normal">K</mi>
+       </msub>
+      </mrow>
+     </mfrac>
+     <mo>=</mo>
+     <mfrac>
+      <mn>1</mn>
+      <mrow>
+       <msup>
+        <mrow>
+         <mrow>
+          <mi mathvariant="normal">B</mi>
+          <mi mathvariant="sans-serif">ω</mi>
+         </mrow>
+        </mrow>
+        <mrow>
+         <mn>1</mn>
+         <mo>/</mo>
+         <mn>2</mn>
+        </mrow>
+       </msup>
+      </mrow>
+     </mfrac>
+     <mo>+</mo>
+     <mfrac>
+      <mn>1</mn>
+      <mrow>
+       <msub>
+        <mi mathvariant="normal">J</mi>
+        <mi mathvariant="normal">K</mi>
+       </msub>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where J is measured current density; J
+ <sub>D</sub> is diffusion-limited current density; J
+ <sub>K</sub> is kinetic current density; ω is electrode rotation speed; 
+ <disp-formula>B = 0.2nFC
+  <sub>0</sub>D
+  <sup>2/3</sup>υ
+  <sup>−1/6</sup>
+  <label>(2)</label>
+ </disp-formula> is the K–L plot slope, where n is electron transfer number, F is Faraday’s constant (96,486 C mol
+ <sup>−1</sup>), C
+ <sub>0</sub> is bulk concentration of oxygen in 0.1M KOH solution (1.2 × 10
+ <sup>−6</sup> mol cm
+ <sup>−3</sup>), D is diffusion coefficient of oxygen in 0.1M KOH (1.9 × 10
+ <sup>−5</sup> cm
+ <sup>2</sup>·s
+ <sup>−1</sup>), and υ is kinetic viscosity of oxygen in 0.1M KOH (1.0 × 10
+ <sup>−2</sup> cm
+ <sup>2</sup> s
+ <sup>−1</sup>) [
+ <xref rid="B45-materials-14-02146" ref-type="bibr">45</xref>]. The obtained electron transfer numbers are close to 4.0 (
+ <xref ref-type="app" rid="app1-materials-14-02146">Figure S5b</xref>), indicating the dominant four electron ORR catalytic pathway proceeds for the FeS/N,S:CNT–GR catalyst.
+</p>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The higher operating voltage can not only enhance the energy density but also reduce the number of capacitors in series to achieve expected output voltage [
+ <xref rid="B30-nanomaterials-11-00003" ref-type="bibr">30</xref>]. To be further investigated, the CV curves in the extended potential window of 1.4 V is demonstrated in 
+ <xref ref-type="fig" rid="nanomaterials-11-00003-f007">Figure 7</xref>d, exhibiting an almost rectangular shape even at a high scan rate of 500 mV s
+ <sup>−1</sup>. The specific capacitance of the prepared asymmetric supercapacitor was calculated to be 21.4 F g
+ <sup>−1</sup> from galvanostatic charge-discharge curves using Equation (3); 
+ <disp-formula id="FD4-nanomaterials-11-00003">
+  <label>(3)</label>
+  <math id="mm16">
+   <mrow>
+    <mrow>
+     <mi>C</mi>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <mn>4</mn>
+       <mi>I</mi>
+       <mi mathvariant="sans-serif">Δ</mi>
+       <mi>t</mi>
+      </mrow>
+      <mrow>
+       <mi>m</mi>
+       <mi mathvariant="sans-serif">Δ</mi>
+       <mi>V</mi>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where ∆
+ <italic>t</italic> is the discharge time, 
+ <italic>I</italic> is the current applied to one electrode, 
+ <inline-formula>
+  <math id="mm17">
+   <mrow>
+    <mi>m</mi>
+   </mrow>
+  </math>
+ </inline-formula> is the mass of two electrodes in the asymmetric supercapacitor, 
+ <inline-formula>
+  <math id="mm18">
+   <mrow>
+    <mrow>
+     <mi mathvariant="sans-serif">Δ</mi>
+     <mi>V</mi>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> is the potential window of the discharging process. Moreover, the energy density (
+ <italic>E</italic> = 
+ <italic>CV</italic>
+ <sup>2</sup>/2; 
+ <italic>E</italic>, energy density; 
+ <inline-formula>
+  <math id="mm19">
+   <mrow>
+    <mi>C</mi>
+   </mrow>
+  </math>
+ </inline-formula>, capacitance and 
+ <inline-formula>
+  <math id="mm20">
+   <mrow>
+    <mi>V</mi>
+   </mrow>
+  </math>
+ </inline-formula>, operating voltage) and power density (
+ <italic>P = E/</italic>Δ
+ <italic>t</italic>; 
+ <italic>E</italic>, energy density; ∆
+ <italic>t</italic>, the discharge time) of the assembled SC were determined to be 5.83 Wh kg
+ <sup>−1</sup> and 1399 W kg
+ <sup>−1</sup>, respectively.
+</p>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR35">
+ <label>35.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jache</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Binder</surname>
+    <given-names>JO</given-names>
+   </name>
+   <name>
+    <surname>Abe</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Adelhelm</surname>
+    <given-names>P</given-names>
+   </name>
+  </person-group>
+  <article-title>A comparative study on the impact of different glymes and their derivatives as electrolyte solvents for graphite co-intercalation electrodes in lithium-ion and sodium-ion batteries</article-title>
+  <source>Phys. Chem. Chem. Phys.</source>
+  <year>2016</year>
+  <volume>18</volume>
+  <fpage>14299</fpage>
+  <lpage>14316</lpage>
+  <pub-id pub-id-type="doi">10.1039/C6CP00651E</pub-id>
+  <?supplied-pmid 27165175?>
+  <pub-id pub-id-type="pmid">27165175</pub-id>
+ </element-citation>
+</ref>

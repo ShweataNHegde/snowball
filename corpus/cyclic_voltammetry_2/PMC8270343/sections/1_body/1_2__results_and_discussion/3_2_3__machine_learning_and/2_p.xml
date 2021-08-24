@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>K. Min et al. [
+ <xref rid="B38-molecules-26-03858" ref-type="bibr">38</xref>] have already proved the efficiency of machine learning (ML) techniques to assist the optimization of electrochemical properties of the cathode materials. Thus, by applying the ML algorithms and reverse engineering, ideal synthesis parameters are successfully proposed for the Ni-rich cathode materials optimization process. In these conditions, we decided to test the ML algorithms implemented in Matlab R2017b to construct a prediction model for the number of electrons transferred during the ORR process (output variable) by considering the experimental and measured parameters (input variables) presented in 
+ <xref ref-type="app" rid="app1-molecules-26-03858">Table S4</xref>. The regression learner app was employed to obtain the predicted model and all 19 types of ML regression algorithm were trained for the prediction. After the training, the best model was identified and exported in the workspace. Among the regression models, the best RMSE (0.31449) and R
+ <sup>2</sup> (0.67) values were found for the Stepwise Linear Regression model. 
+ <xref ref-type="fig" rid="molecules-26-03858-f008">Figure 8</xref> contains the Stepwise Linear Regression model results when the 4 fold cross-validation was used for training. The true and predicted responses regarding the number of electrons transferred during the ORR process and the appropriate errors for the four investigated materials are presented in 
+ <xref ref-type="fig" rid="molecules-26-03858-f008">Figure 8</xref>a, while the predicted response of the model is plotted against the perfect prediction in 
+ <xref ref-type="fig" rid="molecules-26-03858-f008">Figure 8</xref>b. From the figure, it is evident that the best predicted number of electrons transferred in the ORR process is obtained for the N-Gr-3-24 material (almost the same number, 
+ <xref ref-type="fig" rid="molecules-26-03858-f008">Figure 8</xref>a; point lies on the diagonal line which represents the perfect prediction line, 
+ <xref ref-type="fig" rid="molecules-26-03858-f008">Figure 8</xref>b) and the worst prediction is found for the N-Gr-10-24 composite (predicted number of electrons is much lower than the experimental value and the prediction error line is very large, 
+ <xref ref-type="fig" rid="molecules-26-03858-f008">Figure 8</xref>a; the experimental point corresponding to the 4.1 electrons is scattered at a significant distance from the prediction line, 
+ <xref ref-type="fig" rid="molecules-26-03858-f008">Figure 8</xref>b). These results explain the R
+ <sup>2</sup> value obtained for the model.
+</p>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Porcher</surname>
+    <given-names>W</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Understanding polyacrylic acid and lithium polyacrylate binder behavior in silicon based electrodes for Li-ion batteries</article-title>
+  <source>J. Electrochem. Soc.</source>
+  <year>2017</year>
+  <volume>164</volume>
+  <fpage>A3633</fpage>
+  <lpage>A3640</lpage>
+  <pub-id pub-id-type="doi">10.1149/2.0821714jes</pub-id>
+ </element-citation>
+</ref>

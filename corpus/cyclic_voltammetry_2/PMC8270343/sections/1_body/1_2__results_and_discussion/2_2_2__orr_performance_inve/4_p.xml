@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>A comparative study was also conducted using the rotating disc electrode (RDE) at different rotating rates from 400 to 2500 rpm on the appropriate N-doped graphene/glassy carbon (GC) (
+ <xref ref-type="fig" rid="molecules-26-03858-f007">Figure 7</xref>). These experiments were performed to determine the number of electrons transferred in the electrocatalytic process. The insets from 
+ <xref ref-type="fig" rid="molecules-26-03858-f007">Figure 7</xref>a–d represent the Koutecky–Levich plots (j
+ <sup>−1</sup> vs. ω
+ <sup>−1/2</sup>) at different potentials and show clear linearity. From the Koutecky–Levich (K–L) equation, presented below, the number of electrons (n) transferred in the ORR process is evaluated and presented in 
+ <xref ref-type="fig" rid="molecules-26-03858-f007">Figure 7</xref>f. 
+ <disp-formula id="FD1-molecules-26-03858">
+  <math id="mm1">
+   <mrow>
+    <mrow>
+     <mtable>
+      <mtr>
+       <mtd columnalign="left">
+        <mfrac>
+         <mn>1</mn>
+         <mi>j</mi>
+        </mfrac>
+        <mo>=</mo>
+        <mfrac>
+         <mn>1</mn>
+         <mrow>
+          <msub>
+           <mi>j</mi>
+           <mi>l</mi>
+          </msub>
+         </mrow>
+        </mfrac>
+        <mo>+</mo>
+        <mfrac>
+         <mn>1</mn>
+         <mrow>
+          <msub>
+           <mi>j</mi>
+           <mi>k</mi>
+          </msub>
+         </mrow>
+        </mfrac>
+        <mo>=</mo>
+        <mfrac>
+         <mn>1</mn>
+         <mrow>
+          <mi>B</mi>
+          <msup>
+           <mi>ω</mi>
+           <mrow>
+            <mn>1</mn>
+            <mo>/</mo>
+            <mn>2</mn>
+           </mrow>
+          </msup>
+         </mrow>
+        </mfrac>
+        <mo>+</mo>
+        <mfrac>
+         <mn>1</mn>
+         <mrow>
+          <msub>
+           <mi>j</mi>
+           <mi>k</mi>
+          </msub>
+         </mrow>
+        </mfrac>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd columnalign="left">
+        <mi>B</mi>
+        <mo>=</mo>
+        <mn>0.2</mn>
+        <mi>n</mi>
+        <mi>F</mi>
+        <msub>
+         <mi>C</mi>
+         <mrow>
+          <msub>
+           <mi>O</mi>
+           <mn>2</mn>
+          </msub>
+         </mrow>
+        </msub>
+        <msubsup>
+         <mi>D</mi>
+         <mrow>
+          <msub>
+           <mi>O</mi>
+           <mn>2</mn>
+          </msub>
+         </mrow>
+         <mrow>
+          <mn>2</mn>
+          <mo>/</mo>
+          <mn>3</mn>
+         </mrow>
+        </msubsup>
+        <msup>
+         <mi>ν</mi>
+         <mrow>
+          <mo>−</mo>
+          <mn>1</mn>
+          <mo>/</mo>
+          <mn>6</mn>
+         </mrow>
+        </msup>
+       </mtd>
+      </mtr>
+     </mtable>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+ <italic>j</italic>—measured current density; 
+ <italic>j
+  <sub>l</sub>
+ </italic>—diffusion-limiting current density; 
+ <italic>j
+  <sub>k</sub>
+ </italic>—kinetic-limiting current; 
+ <italic>ω</italic>—electrode rotation rate (rpm); 
+ <italic>F</italic>—Faradaic constant (96,485 C/mol); 
+ <italic>C
+  <sub>O2</sub>
+ </italic>—O
+ <sub>2</sub> concentration in 1M NaOH solution (0.843 × 10
+ <sup>−6</sup> mol/cm
+ <sup>3</sup>); 
+ <italic>D
+  <sub>O2</sub>
+ </italic>—O
+ <sub>2</sub> diffusion in 1M NaOH solution (1.43 × 10
+ <sup>−5</sup> cm
+ <sup>2</sup>/s); 
+ <italic>n</italic>—number of electrons transferred in the ORR process; 
+ <italic>ν</italic>—kinematic viscosity of the electrolyte (1.13 × 10
+ <sup>−2</sup> cm
+ <sup>2</sup>/s) [
+ <xref rid="B30-molecules-26-03858" ref-type="bibr">30</xref>,
+ <xref rid="B31-molecules-26-03858" ref-type="bibr">31</xref>,
+ <xref rid="B32-molecules-26-03858" ref-type="bibr">32</xref>].
+</p>

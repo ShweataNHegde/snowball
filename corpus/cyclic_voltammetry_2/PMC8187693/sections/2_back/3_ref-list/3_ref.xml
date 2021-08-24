@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zheng</surname>
+    <given-names>XJ</given-names>
+   </name>
+   <name>
+    <surname>Wu</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Cao</surname>
+    <given-names>XC</given-names>
+   </name>
+   <name>
+    <surname>Abbott</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Jin</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>N-, P-, and S-doped graphene-like carbon catalysts derived from onium salts with enhanced oxygen chemisorption for Zn-air battery cathodes</article-title>
+  <source>Appl. Catal. B: Environ.</source>
+  <year>2019</year>
+  <volume>241</volume>
+  <fpage>442</fpage>
+  <lpage>451</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.apcatb.2018.09.054</pub-id>
+ </element-citation>
+</ref>

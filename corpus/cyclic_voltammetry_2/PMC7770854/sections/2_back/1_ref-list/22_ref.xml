@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhu</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Fang</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Liang</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>Z</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Electrochemically induced cationic defect in MnO intercalation cathode for aqueous zinc-ion battery</article-title>
+  <source>Energy Storage Mater.</source>
+  <year>2020</year>
+  <volume>24</volume>
+  <fpage>394</fpage>
+  <lpage>401</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.ensm.2019.07.030</pub-id>
+ </element-citation>
+</ref>

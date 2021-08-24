@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We then would like to draw the readers’ attention to a group of external factors (see the purple block) that can, under some conditions, dominate the electrodeposition morphology but are sometimes overlooked. Although batteries are usually closed electrochemical cells, multiple influences can still be exerted in a dynamic manner, e.g., by imposing a magnetic field (
+ <xref rid="F6" ref-type="fig">Fig. 6J</xref>) or by adopting a pulsed charging protocol (
+ <xref rid="F6" ref-type="fig">Fig. 6K</xref>). The influence of a magnetic field on deposition landscape can be decisive; for example, the deposition is precisely patterned by the magnetic field under mass transport–limited conditions (
+ <xref rid="F6" ref-type="fig">Fig. 6J</xref>) (
+ <xref rid="R187" ref-type="bibr">
+  <italic>187</italic>
+ </xref>). In the generic context of electrodeposition, it is believed that a magnetic field augments the mass transport by a magnetohydrodynamic effect—A convection in the liquid electrolyte is induced because of the Lorentz force, 
+ <bold>F</bold>
+ <sub>
+  <bold>L</bold>
+ </sub> = 
+ <bold>j</bold> × 
+ <bold>B</bold> (
+ <xref rid="R188" ref-type="bibr">
+  <italic>188</italic>
+ </xref>). This concept has been recently explored in rechargeable Li metal anodes (
+ <xref rid="R189" ref-type="bibr">
+  <italic>189</italic>
+ </xref>, 
+ <xref rid="R190" ref-type="bibr">
+  <italic>190</italic>
+ </xref>). Of particular interest for Zn is that the crystallographic orientation can be controlled under a high magnetic field (12 T). Taniguchi and co-workers (
+ <xref rid="R191" ref-type="bibr">
+  <italic>191</italic>
+ </xref>) observed that the Zn deposits are strongly (002) textured with a magnetic field perpendicular to the substrate. The authors argue that this is a result of the large anisotropic magnetic susceptibility of HCP Zn. Upon the application of an external field, a magnetization energy is generated: 
+ <inline-formula>
+  <math id="m27">
+   <mrow>
+    <mrow>
+     <mi>U</mi>
+     <mo>=</mo>
+     <mo>−</mo>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mi mathvariant="normal">μ</mi>
+        <mn>0</mn>
+       </msub>
+       <mi mathvariant="normal">χ</mi>
+      </mrow>
+      <mrow>
+       <mn>2</mn>
+       <msup>
+        <mrow>
+         <mo stretchy="false">(</mo>
+         <mn>1</mn>
+         <mo>+</mo>
+         <mi>N</mi>
+         <mi mathvariant="normal">χ</mi>
+         <mo stretchy="false">)</mo>
+        </mrow>
+        <mn>2</mn>
+       </msup>
+      </mrow>
+     </mfrac>
+     <msup>
+      <mi>H</mi>
+      <mn>2</mn>
+     </msup>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>, where μ
+ <sub>0</sub> is the vacuum permeability, 
+ <italic>N</italic> is the diamagnetic coefficient, χ is the magnetic susceptibility, and 
+ <italic>H</italic> is the external magnetic field. Magnetic susceptibility χ is a second rank tensor: 
+ <italic>M
+  <sub>i</sub>
+ </italic> = 
+ <bold>χ</bold>
+ <italic>
+  <sub>ij</sub>H
+  <sub>j</sub>
+ </italic>, which has different values along 
+ <italic>c</italic> and the basal directions as dictated by the HCP lattice symmetry. Specifically for Zn, along the 
+ <italic>c</italic> axis, χ
+ <italic>
+  <sub>c</sub>
+ </italic> = −1.33×10
+ <sup>−5</sup>, and along the 
+ <italic>a</italic> and 
+ <italic>b</italic> axes, χ
+ <sub>
+  <italic>a</italic>, 
+  <italic>b</italic>
+ </sub>= −1.81×10
+ <sup>−5</sup>. Aligning the 
+ <italic>c</italic> axis parallel to the magnetic field therefore minimizes the magnetization energy. We note that the deposition was performed at current densities close to the diffusion limit, meaning that the magnetohydrodynamic convection induced by the high magnetic field may also play a role in determining the texture, as shown in the RDE study as discussed previously (
+ <xref rid="R28" ref-type="bibr">
+  <italic>28</italic>
+ </xref>). Future studies could focus on further exploring the Zn plating/stripping efficiency achieved under a high magnetic field and the possible effect of such magnetic field on the overall operation of a battery.
+</p>

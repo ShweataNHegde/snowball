@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B24-molecules-26-03858">
+ <label>24.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ma</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Lin</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Zhou</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>Q.</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Shan</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Yang</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>J.</given-names>
+   </name>
+  </person-group>
+  <article-title>A review of oxygen reduction mechanisms for metal-free carbon-based electrocatalysts</article-title>
+  <source>NPJ Comput. Mater.</source>
+  <year>2019</year>
+  <volume>5</volume>
+  <fpage>78</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41524-019-0210-3</pub-id>
+ </element-citation>
+</ref>

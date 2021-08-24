@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yin</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Lv</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Fan</surname>
+    <given-names>Q</given-names>
+   </name>
+   <name>
+    <surname>Zhao</surname>
+    <given-names>YQ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>NiO/CoN porous nanowires as efficient bifunctional catalysts for Zn–air batteries</article-title>
+  <source>ACS Nano</source>
+  <year>2017</year>
+  <volume>11</volume>
+  <fpage>2275</fpage>
+  <lpage>2283</lpage>
+  <pub-id pub-id-type="doi">10.1021/acsnano.7b00417</pub-id>
+  <pub-id pub-id-type="pmid">28195696</pub-id>
+ </element-citation>
+</ref>

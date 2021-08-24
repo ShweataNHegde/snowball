@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>(a, c) Cyclic voltammetry (CV) and (b, d) electrochemical impedance spectroscopy (EIS) measurements performed on Li/electrolyte/S:Sn 80:20 cells employing either (a, b) DEGDME_HCE or (c, d) TREGDME_HCE. CV potential range, 1.8–2.8 V vs Li
+   <sup>+</sup>/Li; scan rate, 0.1 mV s
+   <sup>–1</sup>. EIS carried out at the OCV of the cells and after 1, 5, and 10 voltammetry cycles (inset reports magnification); frequency range, 500 kHz–100 mHz; alternate voltage signal amplitude, 10 mV.
+  </p>
+ </caption>
+ <graphic xlink:href="ef1c00927_0001" id="gr1" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

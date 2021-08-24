@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Here, 
+ <italic>I</italic>
+ <sub>0</sub> is the one-time installment cost, 
+ <italic>r</italic> is the discount rate that relates future value to present value (usually 5 to 8%), 
+ <italic>C</italic>
+ <sub>ESS,
+  <italic>t</italic>
+ </sub> and 
+ <italic>E</italic>
+ <sub>ESS,
+  <italic>t</italic>
+ </sub> are the maintenance cost and the energy production in year 
+ <italic>t</italic> after installation of the EES system (
+ <xref rid="R13" ref-type="bibr">
+  <italic>13</italic>
+ </xref>). We note that for the EES systems of interest in this review, the annual maintenance cost 
+ <italic>C</italic>
+ <sub>ESS</sub> is minimal, e.g., 1 to 2% of the initial investment, 
+ <italic>I</italic>
+ <sub>0</sub> (
+ <xref rid="R14" ref-type="bibr">
+  <italic>14</italic>
+ </xref>), which means that the 
+ <italic>C</italic>
+ <sub>ESS,
+  <italic>t</italic>
+ </sub> term in 
+ <xref ref-type="disp-formula" rid="E2">Eq. 2</xref> is generally small and we may approximate it as 
+ <disp-formula id="E3">
+  <math id="m4">
+   <mrow>
+    <mrow>
+     <mtext>LCOS</mtext>
+     <mo>≈</mo>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mi>I</mi>
+        <mn>0</mn>
+       </msub>
+      </mrow>
+      <mrow>
+       <mstyle displaystyle="true">
+        <msubsup>
+         <mo stretchy="true">Σ</mo>
+         <mrow>
+          <mi>t</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+         </mrow>
+         <mi>n</mi>
+        </msubsup>
+       </mstyle>
+       <mfrac>
+        <mrow>
+         <msub>
+          <mi>E</mi>
+          <mrow>
+           <mtext>ESS</mtext>
+           <mo>,</mo>
+           <mi>t</mi>
+          </mrow>
+         </msub>
+        </mrow>
+        <mrow>
+         <msup>
+          <mrow>
+           <mo stretchy="false">(</mo>
+           <mn>1</mn>
+           <mo>+</mo>
+           <mi>r</mi>
+           <mo stretchy="false">)</mo>
+          </mrow>
+          <mi>t</mi>
+         </msup>
+        </mrow>
+       </mfrac>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+  <label>(3)</label>
+ </disp-formula>
+</p>

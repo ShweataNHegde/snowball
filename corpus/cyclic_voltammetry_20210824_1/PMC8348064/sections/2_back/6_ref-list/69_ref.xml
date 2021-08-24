@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B69-materials-14-04177">
+ <label>69.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kim</surname>
+    <given-names>C.-C.</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>H.-H.</given-names>
+   </name>
+   <name>
+    <surname>Oh</surname>
+    <given-names>K.H.</given-names>
+   </name>
+   <name>
+    <surname>Sun</surname>
+    <given-names>J.-Y.</given-names>
+   </name>
+  </person-group>
+  <article-title>Highly stretchable, transparent ionic touch panel</article-title>
+  <source>Science</source>
+  <year>2016</year>
+  <volume>353</volume>
+  <fpage>682</fpage>
+  <lpage>687</lpage>
+  <pub-id pub-id-type="doi">10.1126/science.aaf8810</pub-id>
+  <?supplied-pmid 27516597?>
+  <pub-id pub-id-type="pmid">27516597</pub-id>
+ </element-citation>
+</ref>

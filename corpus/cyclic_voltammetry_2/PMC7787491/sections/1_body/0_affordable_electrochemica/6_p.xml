@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <xref rid="F1" ref-type="fig">Figure 1B</xref> reports LCOS values for a number of EES technologies of contemporary interest. These values are evidently 6 to 20 times larger than those typically reported for pumped-storage hydroelectricity and compressed air energy storage (
+ <xref rid="R15" ref-type="bibr">
+  <italic>15</italic>
+ </xref>), explaining the traditional dominance of these ESS options. They are also substantially higher than reported LCOE for renewable electric power generation using solar PV [$0.05 to $0.07/kilowatt-hour (kWh)] or wind ($0.04 to $0.08/kWh) installations (
+ <xref rid="R2" ref-type="bibr">
+  <italic>2</italic>
+ </xref>, 
+ <xref rid="R16" ref-type="bibr">
+  <italic>16</italic>
+ </xref>). At this level of comparison, even Zn batteries, which have the lowest LCOS ranging from $0.245 to $0.345/kWh, will introduce nontrivial additional cost when integrated with solar PV or wind generation technology. Considering that comparable cost of electric power generation from fossil fuels range from $0.03 to $0.15/kWh (
+ <xref rid="R17" ref-type="bibr">
+  <italic>17</italic>
+ </xref>, 
+ <xref rid="R18" ref-type="bibr">
+  <italic>18</italic>
+ </xref>), we predict that meaningful market penetration of PV-EES integrated system will require substantial reduction in the cost of EES, at least to levels comparable with the LCOE of solar-PV technology, i.e., &lt;$0.1/kWh, preferably &lt;$0.05/kWh. An examination of 
+ <xref ref-type="disp-formula" rid="E3">Eq. 3</xref> suggests two approaches for achieving LCOS reductions of this scale: (i) substantially lower 
+ <italic>I</italic>
+ <sub>0</sub> and/or (ii) increase E
+ <sub>ESS</sub>. The former is mainly dictated by materials chemistry and the latter by the cycle life of the EES system. That is, a truly complementary EES technology for enabling penetration of renewable power generation on the grid must have at least three traits: inherently low materials cost, scalability for long-term storage, and long cycle life. Secondary Zn batteries easily achieve the first two of these requirements but require a cycle life of 30 to 50 years and one 100% DOD cycle per day, corresponding to 10,000 to 20,000, 100% DOD cycles to be of practical interest for addressing intermittency and variability of the power supply from renewable sources. For example, a Zn-based storage system able to achieve a cycle life of 10,000 is required to achieve a LCOS ≈ $0.1/kWh, and one able to achieve a cycle life above 20,000 is required to achieve a LCOS of &lt;$0.05/kWh. Promising progresses of cathode development toward this goal have been made in the recent years through the rational design of the chemistry and morphology of the active materials, e.g., MnO
+ <sub>2</sub> and its derivatives. Cycle lives above a few thousands stable cycles, at practical areal capacities were demonstrated (
+ <xref rid="R19" ref-type="bibr">
+  <italic>19</italic>
+ </xref>, 
+ <xref rid="R20" ref-type="bibr">
+  <italic>20</italic>
+ </xref>). The performance of Zn anodes is one order of magnitude inferior to what has been achieved at the cathodes. While the contemporary Zn electrodes have already demonstrated such cycle life (tens of thousands cycles) at a low DOD of &lt;1% (
+ <xref rid="R21" ref-type="bibr">
+  <italic>21</italic>
+ </xref>), it quickly falls to below 1000 cycles as the battery operates at a greater DOD of 40 to 50% (
+ <xref rid="R21" ref-type="bibr">
+  <italic>21</italic>
+ </xref>, 
+ <xref rid="R22" ref-type="bibr">
+  <italic>22</italic>
+ </xref>).
+</p>

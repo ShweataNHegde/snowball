@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funding-group>
+ <award-group>
+  <funding-source id="cn001">Natural Science Foundation of Zhejiang Province
+   <named-content content-type="fundref-id">10.13039/501100004731</named-content>
+  </funding-source>
+  <award-id rid="cn001">LY21E020005</award-id>
+ </award-group>
+ <award-group>
+  <funding-source id="cn002">China Postdoctoral Science Foundation
+   <named-content content-type="fundref-id">10.13039/501100002858</named-content>
+  </funding-source>
+  <award-id rid="cn002">2020M671785 2020T130597</award-id>
+ </award-group>
+</funding-group>

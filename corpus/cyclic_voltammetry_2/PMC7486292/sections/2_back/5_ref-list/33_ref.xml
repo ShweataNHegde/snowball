@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR33">
+ <label>33.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lee</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Kim</surname>
+    <given-names>TH</given-names>
+   </name>
+  </person-group>
+  <article-title>Poly(aniline-co-anthranilic acid) as an electrically conductive and mechanically stable binder for high-performance silicon anodes</article-title>
+  <source>Electrochim. Acta</source>
+  <year>2018</year>
+  <volume>283</volume>
+  <fpage>260</fpage>
+  <lpage>269</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.electacta.2018.06.175</pub-id>
+ </element-citation>
+</ref>

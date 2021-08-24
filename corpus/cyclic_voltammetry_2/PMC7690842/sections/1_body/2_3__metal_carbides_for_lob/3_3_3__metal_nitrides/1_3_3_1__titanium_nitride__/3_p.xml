@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>More research has been conducted on TiN cathodes to overcome these disadvantages because they are much less expensive than noble metals when used as a cathode electrode in LOBs. Yarongwang et al. investigated nano as well as micro-sized TiN particles as the electrocatalyst for the ORR in LOBs with hybrid electrolytes [
+ <xref rid="B92-nanomaterials-10-02106" ref-type="bibr">92</xref>]. Furthermore, in alkaline media, the ORR activity of these particles and corresponding pathways were also investigated Levich experiments in a rotating disk electrode (RDE). The ORR for the TiN particles were carried out using RDE cyclic voltammetry (CV) and RDE linear sweep voltammetry (LSV). The ORR in an aqueous solution was predicted to occur either through the 4e
+ <sup>−</sup> or the series 2e
+ <sup>−</sup> reduction pathways. In the four-electron reduction pathway, O
+ <sub>2</sub> is converted to OH
+ <sup>−</sup> through reduction by accepting 4e
+ <sup>−</sup> (1) and, in the 2e
+ <sup>−</sup> pathway, O
+ <sub>2</sub> is reduced to HO
+ <sub>2</sub>
+ <sup>−</sup> followed by further reduction of HO
+ <sub>2</sub>
+ <sup>−</sup> and then OH- by means of the following reactions (2)–(4), whereas SHE refers standard hydrogen electrode:
+ <disp-formula id="FD1-nanomaterials-10-02106">
+  <label>(1)</label>
+  <math id="mm1">
+   <mrow>
+    <mrow>
+     <mn>2</mn>
+     <msub>
+      <mi>H</mi>
+      <mn>2</mn>
+     </msub>
+     <mi>O</mi>
+     <mo>+</mo>
+     <msub>
+      <mi>O</mi>
+      <mn>2</mn>
+     </msub>
+     <mo>+</mo>
+     <mn>4</mn>
+     <msup>
+      <mi>e</mi>
+      <mo>−</mo>
+     </msup>
+     <mo>→</mo>
+     <mn>4</mn>
+     <mo> </mo>
+     <mi>O</mi>
+     <msup>
+      <mi>H</mi>
+      <mo>−</mo>
+     </msup>
+     <mo>,</mo>
+     <mo> </mo>
+     <mn>0.401</mn>
+     <mo> </mo>
+     <mi>V</mi>
+     <mo> </mo>
+     <mi>v</mi>
+     <mi>s</mi>
+     <mo>.</mo>
+     <mo> </mo>
+     <mi>S</mi>
+     <mi>H</mi>
+     <mi>E</mi>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+ <disp-formula id="FD2-nanomaterials-10-02106">
+  <label>(2)</label>
+  <math id="mm2">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>H</mi>
+      <mn>2</mn>
+     </msub>
+     <mi>O</mi>
+     <mo>+</mo>
+     <msub>
+      <mi>O</mi>
+      <mn>2</mn>
+     </msub>
+     <mo>+</mo>
+     <mn>2</mn>
+     <msup>
+      <mi>e</mi>
+      <mo>−</mo>
+     </msup>
+     <mo>→</mo>
+     <mi>O</mi>
+     <msup>
+      <mi>H</mi>
+      <mo>−</mo>
+     </msup>
+     <mo>+</mo>
+     <msubsup>
+      <mi>O</mi>
+      <mn>2</mn>
+      <mo>−</mo>
+     </msubsup>
+     <mi>H</mi>
+     <mo>,</mo>
+     <mo> </mo>
+     <mo>−</mo>
+     <mn>0.065</mn>
+     <mo> </mo>
+     <mi>V</mi>
+     <mo> </mo>
+     <mi>v</mi>
+     <mi>s</mi>
+     <mo>.</mo>
+     <mi>S</mi>
+     <mi>H</mi>
+     <mi>E</mi>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+ <disp-formula id="FD3-nanomaterials-10-02106">
+  <label>(3)</label>
+  <math id="mm3">
+   <mrow>
+    <mrow>
+     <mi>H</mi>
+     <msubsup>
+      <mi>O</mi>
+      <mn>2</mn>
+      <mo>−</mo>
+     </msubsup>
+     <mo>+</mo>
+     <mn>2</mn>
+     <msup>
+      <mi>e</mi>
+      <mo>−</mo>
+     </msup>
+     <mo>+</mo>
+     <msub>
+      <mi>H</mi>
+      <mn>2</mn>
+     </msub>
+     <mi>O</mi>
+     <mo> </mo>
+     <mo>→</mo>
+     <mn>3</mn>
+     <mi>O</mi>
+     <msup>
+      <mi>H</mi>
+      <mo>−</mo>
+     </msup>
+     <mo>,</mo>
+     <mo> </mo>
+     <mn>0.876</mn>
+     <mo> </mo>
+     <mi>v</mi>
+     <mi>s</mi>
+     <mo>.</mo>
+     <mo> </mo>
+     <mi>S</mi>
+     <mi>H</mi>
+     <mi>E</mi>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+ <disp-formula id="FD4-nanomaterials-10-02106">
+  <label>(4)</label>
+  <math id="mm4">
+   <mrow>
+    <mrow>
+     <mn>2</mn>
+     <mi>H</mi>
+     <msubsup>
+      <mi>O</mi>
+      <mn>2</mn>
+      <mo>−</mo>
+     </msubsup>
+     <mo>→</mo>
+     <msub>
+      <mi>O</mi>
+      <mn>2</mn>
+     </msub>
+     <mo>+</mo>
+     <mn>2</mn>
+     <mi>H</mi>
+     <msup>
+      <mi>O</mi>
+      <mo>−</mo>
+     </msup>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+</p>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par46">The potential difference Δ
+ <italic>E</italic> (Δ
+ <italic>E</italic> = 
+ <italic>E</italic>
+ <sub>
+  <italic>j</italic>=10
+ </sub> − 
+ <italic>E</italic>
+ <sub>1/2</sub>) is often used as a measure of bifunctional ORR/OER activity. Figure 
+ <xref rid="Fig6" ref-type="fig">6</xref>i shows that Co-N
+ <sub>4</sub>/NC demonstrated the smallest Δ
+ <italic>E</italic> of 0.79 V, with a slightly higher value of 0.83 V observed for Fe-N
+ <sub>4</sub>/NC. For comparison, a 1:1 (w/w) mixture of commercial Pt/C and Ru/C served as the benchmark bifunctional electrocatalyst and exhibited a Δ
+ <italic>E</italic> of 0.88 V, which exceeded those of Co-N
+ <sub>4</sub>/NC and Fe-N
+ <sub>4</sub>/NC. The intrinsic ORR/OER activities of Co-N
+ <sub>4</sub>/NC and Fe-N
+ <sub>4</sub>/NC seemed to be slightly inferior to those of other recently reported single-atom catalysts. Previous DFT calculations and other reports suggest that high metal loadings and well-dispersed metal atoms in M-N
+ <sub>4</sub> matrices are important for superior ORR/OER activity [
+ <xref ref-type="bibr" rid="CR68">68</xref>]. In contrast to other methods, ultrasonication-assisted plasma engineering allows the simple formation of a fine dispersion of isolated single-atom M-N
+ <sub>4</sub> sites. However, the main drawback of this technique is the low solubility of metal phthalocyanines in aniline and other organic solvents. Compared to previously reported single-atom-doped M-N
+ <sub>4</sub> electrocatalysts prepared by high-temperature pyrolysis of MOFs, polymers, or organic compounds, our electrocatalysts presented a small metal loading (&lt; 0.3 wt %), but still exhibited ORR/OER activities comparable to those of isolated Fe or Co electrocatalysts with a similar mass loading (Table S3). Theoretically, the single-atom metal loading can be easily increased if other metal precursors (metal nitrides, metal hydroxides, etc.) with higher solubility in organic solvent are chosen. Also, the energy and frequency of the ultrasonic device should be designed accordingly to create more cavitation in solution media to ensure single-metal active sites can be atomically dispersed even with higher metal loading. Nevertheless, our approach is believed to be well suited for the scalable synthesis of single-atom metal electrocatalysts.
+</p>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Cyclic voltammetry experiments were performed at varying scan rates. First, the cell was cycled at 5 mV s
+ <sup>–1</sup> for 30 cycles, allowing for the cyclic voltammogram to stabilize (
+ <ext-link ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.1c06013/suppl_file/am1c06013_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S7</ext-link>). At changing scan rates, no significant change in the shape of the curve was observed (
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>c) and the distorted rectangular shape, appearing as peaks, is characteristic for hybrid lithium capacitors. Distortion can be ascribed to the limited accessibility of cations into the pores at the potentials below the open-circuit voltage (around 3.2 V, as calculated from 
+ <ext-link ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.1c06013/suppl_file/am1c06013_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S8</ext-link>).
+ <sup>
+  <xref ref-type="bibr" rid="ref32">32</xref>
+ </sup> From experiments, at varying scan rates, surface- and diffusion-controlled contribution to the capacity were determined according to the model well described in the previous studies.
+ <sup>
+  <xref ref-type="bibr" rid="ref33">33</xref>,
+  <xref ref-type="bibr" rid="ref34">34</xref>
+ </sup> As expected for a capacitor, an almost purely surface-controlled reaction was observed (
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>d). Details of the calculation can be found in the 
+ <ext-link ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.1c06013/suppl_file/am1c06013_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Supporting Information</ext-link>, assessment of the model can be found in 
+ <ext-link ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.1c06013/suppl_file/am1c06013_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S9</ext-link>, and the comparison of the calculated and measured cyclic voltammograms can be found in 
+ <ext-link ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.1c06013/suppl_file/am1c06013_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S10</ext-link>.
+</p>

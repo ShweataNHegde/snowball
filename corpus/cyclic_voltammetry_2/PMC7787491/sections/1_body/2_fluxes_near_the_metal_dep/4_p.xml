@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Assuming that the surface concentration of ions at the electrode does not appreciably differ from the bulk concentration, i.e., 
+ <inline-formula>
+  <math id="m6">
+   <mrow>
+    <mrow>
+     <mfrac>
+      <mrow>
+       <mi>C</mi>
+       <mo stretchy="false">(</mo>
+       <mn>0</mn>
+       <mo>,</mo>
+       <mi>t</mi>
+       <mo stretchy="false">)</mo>
+      </mrow>
+      <msup>
+       <mi>C</mi>
+       <mo>*</mo>
+      </msup>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> = 1, the Butler-Volmer equation can be linearized for small η, and a plot of 
+ <italic>J</italic> versus η would be approximately linear and monotonic (see 
+ <xref rid="F3" ref-type="fig">Fig. 3B</xref>). Above a certain η, the electrode reaction consumes the metal cations near the electrode surface, 
+ <italic>C</italic>(0, 
+ <italic>t</italic>) will deviate from 
+ <italic>C</italic>* and, if the ion diffusion rate is small, may even fall to zero. Under these conditions, the current density-overpotential relation is time dependent, 
+ <inline-formula>
+  <math id="m7">
+   <mrow>
+    <mrow>
+     <mi>J</mi>
+     <mo>=</mo>
+     <msub>
+      <mi>J</mi>
+      <mn>0</mn>
+     </msub>
+     <mo stretchy="true">{</mo>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mi>C</mi>
+        <mi mathvariant="normal">O</mi>
+       </msub>
+       <mo stretchy="false">(</mo>
+       <mn>0</mn>
+       <mo>,</mo>
+       <mi>t</mi>
+       <mo stretchy="false">)</mo>
+      </mrow>
+      <mrow>
+       <msubsup>
+        <mi>C</mi>
+        <mi mathvariant="normal">O</mi>
+        <mo>*</mo>
+       </msubsup>
+      </mrow>
+     </mfrac>
+     <msup>
+      <mi>e</mi>
+      <mrow>
+       <mo>−</mo>
+       <mi mathvariant="normal">α</mi>
+       <mi mathvariant="normal">nf</mi>
+       <mi mathvariant="normal">η</mi>
+      </mrow>
+     </msup>
+     <mo>−</mo>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mi>C</mi>
+        <mi mathvariant="normal">R</mi>
+       </msub>
+       <mo stretchy="false">(</mo>
+       <mn>0</mn>
+       <mo>,</mo>
+       <mi>t</mi>
+       <mo stretchy="false">)</mo>
+      </mrow>
+      <mrow>
+       <msubsup>
+        <mi>C</mi>
+        <mi mathvariant="normal">R</mi>
+        <mo>*</mo>
+       </msubsup>
+      </mrow>
+     </mfrac>
+     <msup>
+      <mi>e</mi>
+      <mrow>
+       <mo stretchy="false">(</mo>
+       <mn>1</mn>
+       <mo>−</mo>
+       <mi mathvariant="normal">α</mi>
+       <mo stretchy="false">)</mo>
+       <mi mathvariant="normal">nf</mi>
+       <mi mathvariant="normal">η</mi>
+      </mrow>
+     </msup>
+     <mo stretchy="true">}</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>. As 
+ <italic>C</italic>
+ <sub>O</sub>(0, 
+ <italic>t</italic>) approaches zero, the electroreduction reaction is mass transport limited—any metal cations that arrives at the electrode surface is reduced instantaneously. In this so-called “diffusion-limited” regime, a diffusion layer of thickness δ
+ <sub>O</sub> is developed near the electrode, within which 
+ <italic>C</italic>
+ <sub>O</sub>(0, 
+ <italic>t</italic>) substantively deviate from 
+ <italic>C</italic>*, as illustrated by the red curve in 
+ <xref rid="F3" ref-type="fig">Fig. 3A</xref>. The maximum diffusion flux, i.e., the diffusion-limited current density 
+ <italic>J</italic>
+ <sub>lim</sub>, is an intrinsic property of the electrolyte, which can be estimated to be 
+ <inline-formula>
+  <math id="m8">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>J</mi>
+      <mtext>lim</mtext>
+     </msub>
+     <mo>=</mo>
+     <mi mathvariant="normal">nF</mi>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mi>D</mi>
+        <mi mathvariant="normal">O</mi>
+       </msub>
+      </mrow>
+      <mrow>
+       <msub>
+        <mi mathvariant="normal">δ</mi>
+        <mi mathvariant="normal">O</mi>
+       </msub>
+      </mrow>
+     </mfrac>
+     <msubsup>
+      <mi>C</mi>
+      <mi mathvariant="normal">O</mi>
+      <mo>*</mo>
+     </msubsup>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> (
+ <xref rid="R43" ref-type="bibr">
+  <italic>43</italic>
+ </xref>), where 
+ <italic>D</italic>
+ <sub>O</sub> is the diffusivity of the metal cation and δ
+ <sub>O</sub> is the diffusion layer thickness (
+ <xref rid="R44" ref-type="bibr">
+  <italic>44</italic>
+ </xref>, 
+ <xref rid="R45" ref-type="bibr">
+  <italic>45</italic>
+ </xref>).
+</p>

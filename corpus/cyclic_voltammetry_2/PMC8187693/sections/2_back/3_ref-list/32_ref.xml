@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR32">
+ <label>32.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lee</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Heo</surname>
+    <given-names>U</given-names>
+   </name>
+   <name>
+    <surname>Mratescu</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>Ueno</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Saito</surname>
+    <given-names>N</given-names>
+   </name>
+  </person-group>
+  <article-title>Solution plasma synthesis of a boron–carbon–nitrogen catalyst with a controllable bond structure</article-title>
+  <source>Phys. Chem. Chem. Phys.</source>
+  <year>2017</year>
+  <volume>19</volume>
+  <fpage>15264</fpage>
+  <lpage>15272</lpage>
+  <pub-id pub-id-type="doi">10.1039/C6CP06063C</pub-id>
+  <pub-id pub-id-type="pmid">28569295</pub-id>
+ </element-citation>
+</ref>

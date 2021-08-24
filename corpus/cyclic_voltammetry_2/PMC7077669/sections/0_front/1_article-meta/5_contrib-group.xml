@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sugiawati</surname>
+   <given-names>Vinsensia Ade</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-polymers-12-00406">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7814-363X</contrib-id>
+  <name>
+   <surname>Vacandio</surname>
+   <given-names>Florence</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-polymers-12-00406">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yitzhack</surname>
+   <given-names>Neta</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-polymers-12-00406">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-3823-4588</contrib-id>
+  <name>
+   <surname>Ein-Eli</surname>
+   <given-names>Yair</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-polymers-12-00406">3</xref>
+  <xref ref-type="aff" rid="af4-polymers-12-00406">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7606-0304</contrib-id>
+  <name>
+   <surname>Djenizian</surname>
+   <given-names>Thierry</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-polymers-12-00406">1</xref>
+  <xref ref-type="aff" rid="af5-polymers-12-00406">5</xref>
+  <xref rid="c1-polymers-12-00406" ref-type="corresp">*</xref>
+ </contrib>
+</contrib-group>

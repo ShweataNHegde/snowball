@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR26">
+ <label>26.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hu</surname>
+    <given-names>G</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>3D graphene-foam–reduced-graphene-oxide hybrid nested hierarchical networks for high-performance Li–S batteries</article-title>
+  <source>Adv. Mater.</source>
+  <year>2016</year>
+  <volume>28</volume>
+  <fpage>1603</fpage>
+  <lpage>1609</lpage>
+  <pub-id pub-id-type="doi">10.1002/adma.201504765</pub-id>
+  <?supplied-pmid 26677000?>
+  <pub-id pub-id-type="pmid">26677000</pub-id>
+ </element-citation>
+</ref>

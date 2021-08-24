@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The contact resistance of the cell was calculated by multiplying the cell resistance (after having subtracted the SSE contribution), divided by a factor of 2 (since the two interfaces are considered equivalent), by the contact surface. It turns out to be about 565 Ω cm
+ <sup>2</sup>, a much higher value than that reported by Kim 
+ <italic>et al.</italic>(
+ <xref ref-type="bibr" rid="ref46">46</xref>) on carborane SSEs (&lt;1 Ω cm
+ <sup>2</sup>). In the absence of a proper cell stack pressure, which would guarantee an intimate contact between lithium and the SSE surfaces, a high contact resistance, increasing during cycling, is expected,
+ <sup>
+  <xref ref-type="bibr" rid="ref47">47</xref>,
+  <xref ref-type="bibr" rid="ref48">48</xref>
+ </sup> explaining the observed value.
+</p>

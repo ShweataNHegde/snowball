@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B46">
+ <label>46</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Henkelman</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Uberuaga</surname>
+    <given-names>B. P.</given-names>
+   </name>
+   <name>
+    <surname>Jonsson</surname>
+    <given-names>H.</given-names>
+   </name>
+  </person-group>
+  <article-title>A climbing image nudged elastic band method for finding saddle points and minimum energy paths</article-title>
+  <source>
+   <italic toggle="yes">Journal of Chemical Physics</italic>
+  </source>
+  <year>2000</year>
+  <volume>113</volume>
+  <issue>22</issue>
+  <fpage>9901</fpage>
+  <lpage>9904</lpage>
+  <pub-id pub-id-type="doi">10.1063/1.1329672</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-0034513054</pub-id>
+ </element-citation>
+</ref>

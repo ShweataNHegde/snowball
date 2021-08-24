@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-9340-8683</contrib-id>
+  <name>
+   <surname>Khan</surname>
+   <given-names>Muhammad Sufaid</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-molecules-26-03440">1</xref>
+  <xref rid="c1-molecules-26-03440" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Khattak</surname>
+   <given-names>Rozina</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-molecules-26-03440">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Khan</surname>
+   <given-names>Abbas</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-molecules-26-03440">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Qiuling</given-names>
+  </name>
+  <xref ref-type="aff" rid="af4-molecules-26-03440">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nisar</surname>
+   <given-names>Jan</given-names>
+  </name>
+  <xref ref-type="aff" rid="af5-molecules-26-03440">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4355-3647</contrib-id>
+  <name>
+   <surname>Iqbal</surname>
+   <given-names>Zahoor</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-molecules-26-03440">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rashid</surname>
+   <given-names>Abdur</given-names>
+  </name>
+  <xref ref-type="aff" rid="af6-molecules-26-03440">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kamran</surname>
+   <given-names>Abdul Waheed</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-molecules-26-03440">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zekker</surname>
+   <given-names>Ivar</given-names>
+  </name>
+  <xref ref-type="aff" rid="af7-molecules-26-03440">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4528-8517</contrib-id>
+  <name>
+   <surname>Zahoor</surname>
+   <given-names>Muhammad</given-names>
+  </name>
+  <xref ref-type="aff" rid="af8-molecules-26-03440">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-6688-0106</contrib-id>
+  <name>
+   <surname>Alzahrani</surname>
+   <given-names>Khalid J</given-names>
+  </name>
+  <xref ref-type="aff" rid="af9-molecules-26-03440">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7817-425X</contrib-id>
+  <name>
+   <surname>Batiha</surname>
+   <given-names>Gaber El-Saber</given-names>
+  </name>
+  <xref ref-type="aff" rid="af10-molecules-26-03440">10</xref>
+ </contrib>
+</contrib-group>

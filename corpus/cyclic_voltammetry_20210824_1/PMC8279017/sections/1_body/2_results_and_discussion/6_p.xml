@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Therefore, an additional galvanostatic test was performed using DEGDME_HCE and TREGDME_HCE in Li/LFP cells at the constant current rate of C/5 by employing a voltage range between 1.2 and 3.9 V for the first cycle and between 2.7 and 3.9 V for the subsequent ones, as reported in 
+ <xref rid="fig5" ref-type="fig">Figure 
+  <xref rid="fig5" ref-type="fig">5</xref>
+ </xref>. Insets in 
+ <xref rid="fig5" ref-type="fig">Figure 
+  <xref rid="fig5" ref-type="fig">5</xref>
+ </xref>a (DEGDME_HCE) and 
+ <xref rid="fig5" ref-type="fig">Figure 
+  <xref rid="fig5" ref-type="fig">5</xref>
+ </xref>c (TREGDME_HCE) show the voltage profile related to the first charge–discharge cycle, and they reveal the evolution of a discharge plateau between 1.5 and 1.7 V due to the reduction of LiNO
+ <sub>3</sub>;
+ <sup>
+  <xref ref-type="bibr" rid="ref7">7</xref>,
+  <xref ref-type="bibr" rid="ref36">36</xref>
+ </sup> the subsequent voltage profiles are reported in 
+ <xref rid="fig5" ref-type="fig">Figure 
+  <xref rid="fig5" ref-type="fig">5</xref>
+ </xref>a and c, respectively. The cycling trends of the above Li/LFP cells evidence initial capacity values approaching 160 mAh g
+ <sup>–1</sup> and Coulombic efficiency around 100% upon the first cycles for both DEGDME_HCE (
+ <xref rid="fig5" ref-type="fig">Figure 
+  <xref rid="fig5" ref-type="fig">5</xref>
+ </xref>b) and TREGDME_HCE (
+ <xref rid="fig5" ref-type="fig">Figure 
+  <xref rid="fig5" ref-type="fig">5</xref>
+ </xref>d). However, the cell employing DEGDME_HCE (
+ <xref rid="fig5" ref-type="fig">Figure 
+  <xref rid="fig5" ref-type="fig">5</xref>
+ </xref>b) still exhibits a certain capacity decay, despite retention increases from 63% to 71% compared to the analogue test performed without the additional reduction step (compare 
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>b and 
+ <xref rid="fig5" ref-type="fig">Figure 
+  <xref rid="fig5" ref-type="fig">5</xref>
+ </xref>b) upon the 50 cycles taken into account. Furthermore, the voltage profiles of the cell using DEGDME_HCE (
+ <xref rid="fig5" ref-type="fig">Figure 
+  <xref rid="fig5" ref-type="fig">5</xref>
+ </xref>a) do not show the increase in cell polarization during cycling observed in the previous test (compare 
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>a and 
+ <xref rid="fig5" ref-type="fig">Figure 
+  <xref rid="fig5" ref-type="fig">5</xref>
+ </xref>a), while a slope appears at the end of the charge and the discharge profiles after 20 cycles and becomes more relevant after 50 cycles. The decrease of cell capacity and the appearance of the slope at the end of the (de)insertion processes of LiFePO
+ <sub>4</sub> may be associated with an excessive growth of the SEI layer at the electrodes surface and possibly with gradual changes in cathode crystallite size distribution and surface free energies of the lithiated and delithiated phases, which lead to a change of the biphasic potential.
+ <sup>
+  <xref ref-type="bibr" rid="ref11">11</xref>
+ </sup> Instead, the cell employing TREGDME_HCE shows a capacity retention increasing from 94% of the previous test (
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>d) up to 97% (
+ <xref rid="fig5" ref-type="fig">Figure 
+  <xref rid="fig5" ref-type="fig">5</xref>
+ </xref>d), while the corresponding voltage profiles reveal only a slight slope after 50 cycles without any sign of polarization increase or deterioration (
+ <xref rid="fig5" ref-type="fig">Figure 
+  <xref rid="fig5" ref-type="fig">5</xref>
+ </xref>c). Therefore, we may suggest the additional reduction step at low voltage during the first cycle as an actual strategy to improve the performance of the lithium–metal cell using concentrated glyme-based electrolytes with the LFP electrode, particularly those having a longer ether chain such as TREGDME.
+</p>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>After a short contact time of 1 min (
+ <xref ref-type="fig" rid="polymers-12-00406-f004">Figure 4</xref>a), the OCV drops to ~2.4 V, which is lower than that of a pristine CNT electrode. The comparison of the first discharge capacity of 6802 mAh g
+ <sup>−1</sup> (2503 μAh cm
+ <sup>−2</sup>) and the first charge capacity of 843 mAh g
+ <sup>−1</sup> (310 μAh cm
+ <sup>−2</sup>) leads to an ICE of 12.38%. In good agreement with the previous CV results, the OCV of the cells utilizing a contact time of 3 min is 1.1 V vs. Li/Li
+ <sup>+</sup> with a first discharge capacity of 5518 mAh g
+ <sup>−1</sup> (2030 μAh cm
+ <sup>−2</sup>) and a charge capacity of 1166 mAh g
+ <sup>−1</sup> (429 μAh cm
+ <sup>−2</sup>), yielding an improved ICE of 21.13%. Then, the ICE increases significantly up to 68.30% after a 15-min pre-lithiation treatment, corresponding to the first discharge and charge capacity of 1714 mAh g
+ <sup>−1</sup> (631 μAh cm
+ <sup>−2</sup>) and 1170 mAh g
+ <sup>−1</sup> (431 μAh cm
+ <sup>−2</sup>), respectively. Eventually, after pre-lithiation for 30 min, the capacity of the first discharge and charge cycles are 956 mAh g
+ <sup>−1</sup> (352 μAh cm
+ <sup>−2</sup>) and 1179 mAh g
+ <sup>−1</sup> (434 μAh cm
+ <sup>−2</sup>), respectively, resulting in a preloaded capacity of 223 mAh g
+ <sup>−1</sup> (82 μAh cm
+ <sup>−2</sup>) instead of capacity loss. Indeed, the charge–discharge potential profiles of the pre-lithiated CNT electrodes are consistent with the CV curves. These results suggest that longer pre-lithiation periods (i.e., 15 min) result in fully lithiated CNT electrodes and one should also note the remarkable enhancement in the ICE of the CNT electrodes. Herein, we highlight that the degree of pre-lithiation needs to be carefully controlled. From the CV and galvanostatic curves, 15-min pre-lithiation showed high capacity and high ICE value. Pre-lithiation for 30 min is assumed lead to over-lithiation which would result in lithium plating, short circuits, and also increase the side reactions during cycling due to the excessive Li-ions on the anode surface [
+ <xref rid="B55-polymers-12-00406" ref-type="bibr">55</xref>]. Additionally, pre-lithiation for 1 and 3 min are insufficient due to the observable SEI formation features. As a result, this SEI depletes the cyclable lithium from the cathode material in full-cell configuration.
+</p>

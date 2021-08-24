@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The electrochemical performance of the β-AgVO
+ <sub>3</sub> electrode with and without Al
+ <sub>2</sub>O
+ <sub>3</sub> coatings are evaluated in a voltage window of 1.5–3.5 V, and the results are shown in 
+ <xref ref-type="fig" rid="nanomaterials-11-00569-f002">Figure 2</xref>. 
+ <xref ref-type="fig" rid="nanomaterials-11-00569-f002">Figure 2</xref>a compares the charge-discharge profiles of the β-AgVO
+ <sub>3</sub> electrode without coating and with 100-ALD cycle Al
+ <sub>2</sub>O
+ <sub>3</sub> coating (SVO-0 and SVO-100) at a current density of 50 mA g
+ <sup>−1</sup>. As seen, there are two distinct plateaus at approximately 3.0 V and 2.3 V in the first discharge curve for SVO-0, corresponding to the reduction of Ag
+ <sup>+</sup> to Ag
+ <sup>0</sup>, V
+ <sup>5+</sup> to V
+ <sup>4+</sup> and V
+ <sup>4+</sup> to V
+ <sup>3+</sup> [
+ <xref rid="B18-nanomaterials-11-00569" ref-type="bibr">18</xref>]. Compared to the SVO-0, the SVO-100 shows a shorter discharge plateau for the first cycle, especially at 3.0 V (
+ <xref ref-type="fig" rid="nanomaterials-11-00569-f002">Figure 2</xref>b), suggesting that the Al
+ <sub>2</sub>O
+ <sub>3</sub> surface coating layer could decrease the consumption of lithium ions and decomposition of electrolytes for CEI formation [
+ <xref rid="B31-nanomaterials-11-00569" ref-type="bibr">31</xref>]. The sloped curve of SVO-0 becomes straight in the third cycle, while the 50th and 100th have no plateaus at all, suggesting that the structure of SVO-0 has been completely destroyed during the charging-discharging process. However, the sloping curves of SVO-100 in the 3rd, 50th
+ <sup>,</sup> and 100th cycle remains a small plateau. The cycling performance of the β-AgVO
+ <sub>3</sub> electrode with Al
+ <sub>2</sub>O
+ <sub>3</sub> coatings highly depends on the coating thickness of Al
+ <sub>2</sub>O
+ <sub>3</sub>, as illustrated in 
+ <xref ref-type="fig" rid="nanomaterials-11-00569-f002">Figure 2</xref>c. SVO-0, SVO-10, SVO-50, SVO-100 exhibit high initial discharge capacities of 295, 265, 242, 271 mAh g
+ <sup>−1</sup>, respectively. All the Al
+ <sub>2</sub>O
+ <sub>3</sub>-coated samples show lower discharge capacities in the first cycle than the uncoated SVO-0, revealing that the inert Al
+ <sub>2</sub>O
+ <sub>3</sub> coating as artificial CEI films consuming fewer lithium ions for CEI formation than the uncoated SVO-0. The capacity retention after 100 cycles is 10%, 12%, 30%, and 31% for SVO-0, SVO-10, SVO-50, and SVO-100, respectively. The optimal Al
+ <sub>2</sub>O
+ <sub>3</sub> coating thickness is ~10 nm performed using 100 ALD cycles (SVO-100). Usually, vanadium-based materials suffer from the collapse of their layered structures and the dissolution of vanadium into the electrolyte [
+ <xref rid="B21-nanomaterials-11-00569" ref-type="bibr">21</xref>,
+ <xref rid="B22-nanomaterials-11-00569" ref-type="bibr">22</xref>], resulting in considerable capacity loss and low CE upon repeated Li-ion intercalation and de-intercalation process. The CE of all the samples is also compared in 
+ <xref ref-type="fig" rid="nanomaterials-11-00569-f002">Figure 2</xref>c. The CE in the first cycle is determined to be 62.3%, 72.1%, 80.3%, and 83.8% for SVO-0, SVO-10, SVO-50, and SVO-100, respectively. The CE stabilizes after 10 cycles, and the average CE is below 90% for SVO-0 and SVO-10 and above 98.2% for SVO-50 and SVO-100. The improved CE might be ascribed to the fact that the artificial CEI of Al
+ <sub>2</sub>O
+ <sub>3</sub> coatings could serve as a physical barrier between β-AgVO
+ <sub>3</sub> and the electrolyte, alleviating the decomposition of electrolytes and the dissolution of vanadium into the electrolyte. Al
+ <sub>2</sub>O
+ <sub>3</sub> coating on SVO-100 suppresses the structural degradation and the dissolution of the active materials through artificial CEI and much less side reaction. 
+ <xref ref-type="fig" rid="nanomaterials-11-00569-f002">Figure 2</xref>d presents the rate capabilities of all the samples at various current densities ranging from 50 to 800 mA g
+ <sup>−1</sup>. The rate capability of SVO-0 is better than that of SVO-10 and SVO-50, revealing that Al
+ <sub>2</sub>O
+ <sub>3</sub> coating with less than 50 ALD cycles affects the rate capability. It is striking to note that SVO-100 exhibits the best rate performance among all the samples. For example, the high discharge capacity is determined to be about 299, 179, 150, 115, and 66 mAh g
+ <sup>−1</sup> for SVO-100, and 317, 119, 81, 66, and 53 mAh g
+ <sup>−1</sup> for SVO-0, at a current density of 50, 100, 200, 400, and 800 mA g
+ <sup>−1</sup>, respectively. The morphology of the β-AgVO
+ <sub>3</sub> electrodes after cycling is shown in 
+ <xref ref-type="app" rid="app1-nanomaterials-11-00569">Figure S1</xref>. The SVO-100 (
+ <xref ref-type="app" rid="app1-nanomaterials-11-00569">Figure S1</xref>d) exhibits a continuous and smooth surface, indicating a stable electrode structure with Al
+ <sub>2</sub>O
+ <sub>3</sub> coating over repeated cycling. The improvement could be due to Al
+ <sub>2</sub>O
+ <sub>3</sub> coating on β-AgVO
+ <sub>3</sub> not only maintains Li-ion pathways between active materials and the electrolyte but also improves the adhesion of electrode materials to the current collector [
+ <xref rid="B27-nanomaterials-11-00569" ref-type="bibr">27</xref>,
+ <xref rid="B32-nanomaterials-11-00569" ref-type="bibr">32</xref>]. The energy-dispersive X-ray (EDX) analyses in 
+ <xref ref-type="app" rid="app1-nanomaterials-11-00569">Figure S2</xref> shows peaks of Ag, V (here Al were originated from the Al
+ <sub>2</sub>O
+ <sub>3</sub> coating or Al foil) from (a) SVO-0, (b) SVO-100 electrodes after 100 charge-discharge cycles. The atomic ratio of Ag and V is about 4.5: 1 for SVO-0, while 1.5:1 for SVO-100 electrodes. This higher percentage of V in SVO-100 means that the Al
+ <sub>2</sub>O
+ <sub>3</sub> coating efficiently prevent the catastrophic dissolution of V into the electrolyte.
+</p>

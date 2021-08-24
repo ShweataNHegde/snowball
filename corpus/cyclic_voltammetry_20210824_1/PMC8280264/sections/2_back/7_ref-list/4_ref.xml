@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kim</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Jurng</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Sim</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Yoon</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Mun</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Ryu</surname>
+    <given-names>JH</given-names>
+   </name>
+   <name>
+    <surname>Oh</surname>
+    <given-names>SM</given-names>
+   </name>
+  </person-group>
+  <source>Electrochem. Commun.</source>
+  <year>2015</year>
+  <volume>58</volume>
+  <fpage>25</fpage>
+  <pub-id pub-id-type="doi">10.1016/j.elecom.2015.05.019</pub-id>
+ </element-citation>
+</ref>

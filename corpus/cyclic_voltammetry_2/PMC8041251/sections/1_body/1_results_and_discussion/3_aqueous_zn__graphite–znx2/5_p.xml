@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <italic>In situ</italic> Raman spectroscopy was used to understand the halide intercalation mechanism and to rationalize the poor performance of the G–ZnX
+ <sub>2</sub> using the WiTS gel electrolyte. 
+ <xref rid="fig3" ref-type="fig">Figure 
+  <xref rid="fig3" ref-type="fig">3</xref>
+ </xref> shows the fully charged–discharged Raman spectra for each cathode. The free-standing sample for each cathode showed a similar response at open-circuit potential (OCP), with the characteristic graphite bands, G-band at 1580 cm
+ <sup>–1</sup> and a small D-band at ∼1350 cm
+ <sup>–1</sup>, being shown and no other bands associated with Zn halides. The fully charged G–ZnI
+ <sub>2</sub> electrode displayed an intense Raman signal at 172 cm
+ <sup>–1</sup> due to surface-bound iodine species.
+ <sup>
+  <xref ref-type="bibr" rid="ref34">34</xref>,
+  <xref ref-type="bibr" rid="ref35">35</xref>
+ </sup> However, the absence of a G-band splitting suggests that there is no intercalation of the iodide species into the graphite galleries (see the inset of 
+ <xref rid="fig3" ref-type="fig">Figure 
+  <xref rid="fig3" ref-type="fig">3</xref>
+ </xref>A). While other halogens including chlorine and bromine intercalate into graphite, iodine has a strong affinity for adsorption rather than intercalation.
+ <sup>
+  <xref ref-type="bibr" rid="ref36">36</xref>,
+  <xref ref-type="bibr" rid="ref37">37</xref>
+ </sup> G–ZnBr
+ <sub>2</sub> also exhibited similar behavior when fully charged where it showed a signal at 240 cm
+ <sup>–1</sup> due to the stretching mode of Br
+ <sub>2</sub>.
+ <sup>
+  <xref ref-type="bibr" rid="ref6">6</xref>,
+  <xref ref-type="bibr" rid="ref38">38</xref>
+ </sup> The G-band of the material, however, was split into two Raman modes: the E
+ <sub>2g2i</sub> mode at ∼1580 cm
+ <sup>–1</sup> due to the interior unintercalated original layers and the E
+ <sub>2g2b</sub> at 1604 cm
+ <sup>–1</sup> due to the bounding layers next to the intercalants. The fact that the intensity of the E
+ <sub>2g2i</sub> mode is twice that of the E
+ <sub>2g2b</sub> together with the higher wavenumber for the E
+ <sub>2g2b</sub> reflects the dilute staging of bromine species into graphite galleries.
+ <sup>
+  <xref ref-type="bibr" rid="ref39">39</xref>
+ </sup> The opposite trends were observed during discharge that involves the desorption/deintercalation of the halogen at each cathode (
+ <xref rid="fig3" ref-type="fig">Figure 
+  <xref rid="fig3" ref-type="fig">3</xref>
+ </xref>B) characterized by the absence of halogen-related bands, further confirming the reversibility of the process. This 
+ <italic>in situ</italic> Raman spectroscopy data shows that reversible surface adsorption/desorption is the dominant reaction mechanism in G–ZnI
+ <sub>2</sub> and G–ZnBr
+ <sub>2</sub> electrodes. This observation is similar to Na chemistry at a graphite electrode where Na plates are on the graphite surface rather than intercalating due to its size and weaker chemical interaction with the graphite planes.
+ <sup>
+  <xref ref-type="bibr" rid="ref40">40</xref>
+ </sup> The use of hard carbon in the composite may improve the cell performance.
+</p>

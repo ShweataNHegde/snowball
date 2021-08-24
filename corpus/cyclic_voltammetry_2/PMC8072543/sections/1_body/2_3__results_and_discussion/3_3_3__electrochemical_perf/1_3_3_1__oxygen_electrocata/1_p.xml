@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The electrocatalytic ORR studies were performed by cyclic voltammetry (CV) and linear sweep voltammetry (LSV) in 0.1 M KOH electrolyte using different electrodes; the data are displayed in 
+ <xref ref-type="fig" rid="nanomaterials-11-01025-f005">Figure 5</xref>A,B. Typical ORR curves were observed from CV scans (20 mV s
+ <sup>−1</sup>) for all the catalyst-modified electrodes, such as 20 wt.% of Pt/C, GNS, LCFM(8255)-gly, LCFM(5555)-gly/GNS and LCFM(8255)-gly/GNS composite catalysts (
+ <xref ref-type="fig" rid="nanomaterials-11-01025-f005">Figure 5</xref>A). The ORR peak potential (at −0.35 V vs. Ag/AgCl) of LCFM(8255)-gly perovskite is far better than the previously published undoped LaMnO
+ <sub>3</sub> perovskite catalyst (at −0.48 V vs. Ag/AgCl) [
+ <xref rid="B29-nanomaterials-11-01025" ref-type="bibr">29</xref>]. However, the peak potential of the composite electrodes, i.e., LCFM(5555)-gly/GNS and LCFM(8255)-gly/GNS, was significantly improved, nearly to commercial Pt/C electrode activity, which is due to the high electrical conductivity of GNS. Further, the LSV polarization studies were conducted for the above-mentioned electrodes by the RDE measurements, which operated at a 1600 rpm rotation speed and a 20 mV s
+ <sup>−1</sup> scan rate in O
+ <sub>2</sub>-saturated 0.1 M KOH electrolyte. The LCFM(8255)-gly/GNS composite electrode shows good electrocatalytic activity to the reduction of oxygen molecule, as can be observed in 
+ <xref ref-type="fig" rid="nanomaterials-11-01025-f005">Figure 5</xref>B, in the presence of N
+ <sub>2</sub>- and O
+ <sub>2</sub>-saturated electrolytes. In addition, the LCFM(8255)-gly/GNS composite electrode (at −0.12 V vs. Ag/AgCl; 1.82 mA cm
+ <sup>−2</sup>) shows higher catalytic activity with respect to the onset potential and limiting current density than that of LCFM(8255)-gly (at −0.26 V vs. Ag/AgCl; 1.11 mA cm
+ <sup>−2</sup>), GNS (at −0.17 V vs. Ag/AgCl; 1.62 mA cm
+ <sup>−2</sup>) and LCFM(5555)-gly/GNS composite electrodes (at −0.14 V vs. Ag/AgCl; 1.43 mA cm
+ <sup>−2</sup>). The obtained results are almost closer to the activity of commercial 20 wt.% Pt/C catalyst (at 0.01 V vs. Ag/AgCl; 1.77 mA cm
+ <sup>−2</sup>). The half-wave potentials of 20 wt.% Pt/C and LCFM(8255)-gly/GNS composite electrodes are −0.106 and −0.227 V vs. Ag/AgCl, respectively, and the potential difference (ΔE
+ <sub>1/2</sub> = E
+ <sub>1/2,catalyst</sub> − E
+ <sub>1/2,Pt/C</sub>) is ca. 121 mV. In addition, the RDE measurements were conducted using the LCFM(8255)-gly/GNS composite electrode at different rotational speeds in the range of 400–2500 rpm (
+ <xref ref-type="fig" rid="nanomaterials-11-01025-f005">Figure 5</xref>C). The electron transfer number (n) can be calculated from these RDE polarization curves, which is one of the major factors for ORR catalyst evaluation [
+ <xref rid="B25-nanomaterials-11-01025" ref-type="bibr">25</xref>,
+ <xref rid="B27-nanomaterials-11-01025" ref-type="bibr">27</xref>]. To analysis the ORR reaction kinetics, the Koutecky–Levich Equations (1) and (2) can be followed based on the relation of inverted limiting current density J
+ <sup>−1</sup> versus square roots of rotation speed (ω
+ <sup>−1/2</sup>), the data can be seen in 
+ <xref ref-type="fig" rid="nanomaterials-11-01025-f005">Figure 5</xref>D. 
+ <disp-formula id="FD1-nanomaterials-11-01025">
+  <label>(1)</label>
+  <math id="mm1">
+   <mrow>
+    <mrow>
+     <mfrac>
+      <mn>1</mn>
+      <mi>J</mi>
+     </mfrac>
+     <mo>=</mo>
+     <mfrac>
+      <mn>1</mn>
+      <mrow>
+       <msub>
+        <mi>J</mi>
+        <mi>L</mi>
+       </msub>
+      </mrow>
+     </mfrac>
+     <mo>+</mo>
+     <mfrac>
+      <mn>1</mn>
+      <mrow>
+       <msub>
+        <mi>J</mi>
+        <mi>K</mi>
+       </msub>
+      </mrow>
+     </mfrac>
+     <mo>=</mo>
+     <mfrac>
+      <mn>1</mn>
+      <mrow>
+       <mi>B</mi>
+       <msup>
+        <mi>ω</mi>
+        <mrow>
+         <mn>1</mn>
+         <mo>/</mo>
+         <mn>2</mn>
+        </mrow>
+       </msup>
+      </mrow>
+     </mfrac>
+     <mo>+</mo>
+     <mfrac>
+      <mn>1</mn>
+      <mrow>
+       <msub>
+        <mi>J</mi>
+        <mi>K</mi>
+       </msub>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+ <disp-formula id="FD2-nanomaterials-11-01025">
+  <label>(2)</label>
+  <math id="mm2">
+   <mrow>
+    <mrow>
+     <mi>B</mi>
+     <mo>=</mo>
+     <mn>0.62</mn>
+     <mi>n</mi>
+     <mi>F</mi>
+     <msub>
+      <mi>C</mi>
+      <mn>0</mn>
+     </msub>
+     <mo> </mo>
+     <msubsup>
+      <mi>D</mi>
+      <mn>0</mn>
+      <mrow>
+       <mn>1</mn>
+       <mo>/</mo>
+       <mn>2</mn>
+      </mrow>
+     </msubsup>
+     <msup>
+      <mi>v</mi>
+      <mrow>
+       <mo>−</mo>
+       <mn>1</mn>
+       <mo>/</mo>
+       <mn>6</mn>
+      </mrow>
+     </msup>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where 
+ <italic>J</italic>, 
+ <italic>J
+  <sub>L</sub>
+ </italic> and 
+ <italic>J
+  <sub>K</sub>
+ </italic> are the measured currents, diffusion-limited current and kinetic current densities, respectively, 
+ <italic>ω</italic> is the electrode angular rotation speed, 
+ <italic>n</italic> is the electron transfer number, 
+ <italic>F</italic> is the Faraday constant (96485 A∙s mol
+ <sup>−1</sup>), 
+ <italic>ν</italic> is the kinematic viscosity (0.01 cm
+ <sup>2</sup> s
+ <sup>−1</sup>), 
+ <italic>C</italic>
+ <sub>0</sub> is the bulk concentration (1.9 × 10
+ <sup>−5</sup> mol cm
+ <sup>−3</sup>) and 
+ <italic>D
+  <sub>0</sub>
+ </italic> is the diffusion coefficient (1.2 × 10
+ <sup>−6</sup> mol cm
+ <sup>−3</sup>) of dissolved O
+ <sub>2</sub> in 0.1 M KOH electrolyte. From the slope of the linear fit in 
+ <xref ref-type="fig" rid="nanomaterials-11-01025-f005">Figure 5</xref>D, the average electron transfer number of the LCFM(8255)-gly/GNS composite catalyst is calculated as ca. 3.85, which indicates the one-pot, four-electron transfer pathway. The reaction mechanism for the four-electron transfer of the ORR process can be expressed as follows [
+ <xref rid="B25-nanomaterials-11-01025" ref-type="bibr">25</xref>]:
+ <disp-formula id="FD3-nanomaterials-11-01025">
+  <label>(3)</label>
+  <math id="mm3">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi mathvariant="normal">O</mi>
+      <mn>2</mn>
+     </msub>
+     <mo>+</mo>
+     <msub>
+      <mi mathvariant="normal">H</mi>
+      <mn>2</mn>
+     </msub>
+     <mi mathvariant="normal">O</mi>
+     <mo>+</mo>
+     <mn>4</mn>
+     <msup>
+      <mi mathvariant="normal">e</mi>
+      <mo>−</mo>
+     </msup>
+     <mo>→</mo>
+     <mn>4</mn>
+     <msup>
+      <mrow>
+       <mi>OH</mi>
+      </mrow>
+      <mo>−</mo>
+     </msup>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+</p>

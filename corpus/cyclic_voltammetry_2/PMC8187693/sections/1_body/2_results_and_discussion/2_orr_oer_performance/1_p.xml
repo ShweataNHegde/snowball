@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par44">The ORR and OER performances of electrocatalysts were examined using a rotating ring–disk electrode in O
+ <sub>2</sub>-saturated 0.1 M KOH. The CV curves of Co-N
+ <sub>4</sub>/NC and Fe-N
+ <sub>4</sub>/NC featured cathodic peaks at 0.70 and 0.65 V versus RHE, respectively (Fig. S8). Figure 
+ <xref rid="Fig6" ref-type="fig">6</xref>a, b presents the related linear sweep voltammograms and histograms, showing that the ORR onset potential (
+ <italic>E</italic>
+ <sub>onset</sub>) and half-wave potential (
+ <italic>E</italic>
+ <sub>1/2</sub>) of Co-N
+ <sub>4</sub>/NC equaled 0.93 and 0.81 V versus RHE, respectively, while the corresponding values of Fe-N
+ <sub>4</sub>/NC equaled 0.92 and 0.80 V versus RHE, respectively. Both M-N
+ <sub>4</sub>/NCs demonstrated significantly higher ORR activities than pristine NC (
+ <italic>E</italic>
+ <sub>onset</sub> = 0.81 V and 
+ <italic>E</italic>
+ <sub>1/2</sub> = 0.67 V). These findings prove the importance of single-atom M-N
+ <sub>4</sub> units as efficient ORR active sites despite their very low content of &lt; 0.3 wt %. LSV curves recorded at rotation rates of 400–2000 rpm were used to examine the ORR activity of M-N
+ <sub>4</sub>/NCs (Fig. S9). Furthermore, RRDE were simultaneously collected to calculate electron transfer number (
+ <italic>n</italic>) and H
+ <sub>2</sub>O
+ <sub>2</sub> yield of Co-N
+ <sub>4</sub>/NC, Fe-N
+ <sub>4</sub>/NC and 20 wt % Pt/C. As shown in Fig. S9a, both single-atom-doped catalysts show calculated 
+ <italic>n</italic> values above 3.6 over the potential range of 0.2–0.8 V, revealing high ORR selectivity and efficient 4e
+ <sup>−</sup> transfer mechanism. Figure S9b illustrates that the H
+ <sub>2</sub>O
+ <sub>2</sub> percentage of Co-N
+ <sub>4</sub>/NC was below 29%. Figure 
+ <xref rid="Fig6" ref-type="fig">6</xref>c compares the ORR Tafel slopes of Fe-N
+ <sub>4</sub>/NC, Co-N
+ <sub>4</sub>/NC, NC, and 20 wt % Pt/C to further analyze the ORR mechanism. The Tafel slopes of Fe-N
+ <sub>4</sub>/NC (65 mV dec
+ <sup>−1</sup>) and Co-N
+ <sub>4</sub>/NC (51 mV dec
+ <sup>−1</sup>) were lower than that of 20 wt % Pt/C (99 mV dec
+ <sup>−1</sup>), while NC showed a higher slope of 110 mV dec
+ <sup>−1</sup>. This result indicated that the ORR kinetics of Co-N
+ <sub>4</sub>/NC were superior to those of other catalysts. The electrochemical impedance spectrum of Co-N
+ <sub>4</sub>/NC (Fig. 
+ <xref rid="Fig6" ref-type="fig">6</xref>d) presented the smallest-radius semicircle in the intermediate frequency range, i.e., this catalyst exhibited a lower charge transfer resistance than Fe-N
+ <sub>4</sub>/NC and NC. Long-term cycling stability is a crucial indicator of electrocatalyst performance. Cycling did not significantly affect the electrochemical impedance spectrum of Co-N
+ <sub>4</sub>/NC (Fig. 
+ <xref rid="Fig6" ref-type="fig">6</xref>e), although charge transfer resistance increased by ~ 10% after 100 cycles. Moreover, Co-N
+ <sub>4</sub>/NC demonstrated a very weak attenuation (~ 12 mV) of 
+ <italic>E</italic>
+ <sub>1/2</sub> after 3000 cycles at a sweep rate of 50 mV s
+ <sup>−1</sup> (Fig. 
+ <xref rid="Fig6" ref-type="fig">6</xref>f). Conversely, commercial Pt/C exhibited a larger reduction of 
+ <italic>E</italic>
+ <sub>1/2</sub> (16 mV) after an identical durability test. These results confirm that single-atom Co-N
+ <sub>4</sub> active sites are firmly anchored within the N-doped graphitic carbon matrix with superior stability. Furthermore, the ORR stability of Co-N
+ <sub>4</sub>/NC is determined by the chronoamperometry measurement at a constant potential of 0.6 V for 30,000 s (Fig. S10a) and the chronopotentiometry response at a constant current density of—4 mA cm
+ <sup>−2</sup> for 12,000 s (Fig. S10b). After the durability test, Co-N
+ <sub>4</sub>/NC retains 83.6% of its initial current density in Fig. S10a, while exhibiting a slight increase in overpotential after 12,000 s at a constant current density of—4 mA cm
+ <sup>−2</sup> in Fig. S10b. Overall, the single-atom Co-N
+ <sub>4</sub>/NC presents relatively high robustness and stability.
+</p>

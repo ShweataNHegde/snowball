@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par19">A uniform growth of PEDOT on GC surface was formed by cyclic voltammetry during electropolymerization in 10 cycles between the potentials −0.65 V and +1.25 V 
+ <italic>vs</italic>. an Ag
+ <sup>+</sup> pseudo reference electrode. A Pt foil was used as the counter electrode. Figure 
+ <xref rid="Fig7" ref-type="fig">7</xref> depicts the uniform deposition of PEDOT formation on clean GC surface. After polymerization, the GC electrode was washed with acetonitrile solution to remove the excess PEDOT or unreacted monomer of PEDOT. A smooth thin film of PEDOT could be formed by this method as reported earlier through other approaches
+ <sup>
+  <xref ref-type="bibr" rid="CR26">26</xref>,
+  <xref ref-type="bibr" rid="CR27">27</xref>
+ </sup>.
+ <disp-formula id="Equ1">
+  <label>1</label>
+  <alternatives>
+   <tex-math id="M1">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$m=\frac{({Q}_{dep1})\,{M}_{1}}{F{Z}_{1}}$$\end{document}</tex-math>
+   <math id="M2" display="block">
+    <mi>m</mi>
+    <mo>=</mo>
+    <mfrac>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <msub>
+       <mrow>
+        <mi>Q</mi>
+       </mrow>
+       <mrow>
+        <mi>d</mi>
+        <mi>e</mi>
+        <mi>p</mi>
+        <mn>1</mn>
+       </mrow>
+      </msub>
+      <mo stretchy="false">)</mo>
+      <mspace width=".25em"/>
+      <msub>
+       <mrow>
+        <mi>M</mi>
+       </mrow>
+       <mrow>
+        <mn>1</mn>
+       </mrow>
+      </msub>
+     </mrow>
+     <mrow>
+      <mi>F</mi>
+      <msub>
+       <mrow>
+        <mi>Z</mi>
+       </mrow>
+       <mrow>
+        <mn>1</mn>
+       </mrow>
+      </msub>
+     </mrow>
+    </mfrac>
+   </math>
+   <graphic xlink:href="41598_2019_55688_Article_Equ1.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+</p>

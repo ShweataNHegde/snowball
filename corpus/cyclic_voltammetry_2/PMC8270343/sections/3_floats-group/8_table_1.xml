@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="molecules-26-03858-t001" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">molecules-26-03858-t001_Table 1</object-id>
+ <label>Table 1</label>
+ <caption>
+  <p>Weight loss percentage (%) from TGA in Ar and elemental analysis of N-doped graphene.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="3" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">N-Doped 
+     <break/>Graphene
+    </th>
+    <th colspan="5" align="center" valign="middle" style="border-top:solid thin" rowspan="1">TGA/Weight Loss %</th>
+    <th colspan="4" align="center" valign="middle" style="border-top:solid thin" rowspan="1">Elemental Analysis/Weight %</th>
+   </tr>
+   <tr>
+    <th colspan="4" align="center" valign="middle" rowspan="1">Regions</th>
+    <th rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Residual C</th>
+    <th rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">N</th>
+    <th rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">O</th>
+    <th rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">C</th>
+    <th rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">H</th>
+   </tr>
+   <tr>
+    <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">I</th>
+    <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">II</th>
+    <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">III</th>
+    <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Total till 
+     <break/>800 °C
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">N-Gr-3-24</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.2</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">7.3</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">19.4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">80.6</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">9.61</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">9.31</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">80</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.08</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">N-Gr-10-24</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.6</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">8.7</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">19.8</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">80.2</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">8.34</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">9.43</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">81.3</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.93</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">N-Gr-3-48</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4.6</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.5</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">13.9</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">28.4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">71.6</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">13.1</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">12.98</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">72.5</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.42</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N-Gr-10-48</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.7</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.4</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">8.9</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">24.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">75.5</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">11.4</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">7.34</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">80.2</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.06</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6991-2273</contrib-id>
+  <name>
+   <surname>Hooe</surname>
+   <given-names>Shelby L.</given-names>
+  </name>
+  <xref ref-type="aff" rid="affa"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0568-3600</contrib-id>
+  <name>
+   <surname>Cook</surname>
+   <given-names>Emma N.</given-names>
+  </name>
+  <xref ref-type="aff" rid="affa"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2868-4091</contrib-id>
+  <name>
+   <surname>Reid</surname>
+   <given-names>Amelia G.</given-names>
+  </name>
+  <xref ref-type="aff" rid="affa"/>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5182-1138</contrib-id>
+  <name>
+   <surname>Machan</surname>
+   <given-names>Charles W.</given-names>
+  </name>
+  <xref ref-type="aff" rid="affa"/>
+ </contrib>
+ <aff id="affa">
+  <institution>Department of Chemistry, University of Virginia</institution>
+  <addr-line>PO Box 400319</addr-line>
+  <city>Charlottesville</city>
+  <state>VA</state>
+  <span class="postal-code" xmlns="http://www.w3.org/1999/xhtml">22904-4319</span>
+  <country>USA</country>
+  <email>machan@virginia.edu</email>
+ </aff>
+</contrib-group>

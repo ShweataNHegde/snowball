@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>where 
+ <italic>Z</italic>′ and 
+ <italic>Z</italic>″ are the real and imaginary parts of impedance in Ohm, respectively, 
+ <italic>f</italic> is the frequency in Hz, and |
+ <italic>Z</italic>(ω)| is the modulus of impedance in Ohm. The real part of impedance attains a value of 145 mF·cm
+ <sup>−2</sup> for BAG, whereas CS displays 88 mF·cm
+ <sup>−2</sup>, in accordance with the evolution observed by means of the galvanostatic discharge curves. As observed, the imaginary part goes thought a maximum at a certain frequency (
+ <bold>
+  <italic>f</italic>
+ </bold>
+ <sub>0</sub>) that defines a time constant, known as the characteristic relaxation time constant τ
+ <sub>0</sub> = 1/
+ <bold>
+  <italic>f</italic>
+ </bold>
+ <sub>0</sub>. This is considered a supercapacitor's factor of merit and is defined as “the minimum time needed to discharge all the energy from the device with an efficiency &gt;50%” (Pech et al., 
+ <xref rid="B29" ref-type="bibr">2010</xref>). In this case, CS has a factor of merit of 3.9 s, whereas BAG displays only 1.6 s, in agreement with the ESR values and the good performance at high applied currents.
+</p>

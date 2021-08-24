@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disp-formula id="E2">
+ <label>(2)</label>
+ <math id="M2">
+  <mtable class="eqnarray" columnalign="left">
+   <mtr>
+    <mtd>
+     <msup>
+      <mrow>
+       <mi>C</mi>
+      </mrow>
+      <mrow>
+       <mo>″</mo>
+      </mrow>
+     </msup>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <msup>
+        <mrow>
+         <mi>Z</mi>
+        </mrow>
+        <mrow>
+         <mi>′</mi>
+        </mrow>
+       </msup>
+       <mrow>
+        <mo stretchy="false">(</mo>
+        <mrow>
+         <mi>ω</mi>
+        </mrow>
+        <mo stretchy="false">)</mo>
+       </mrow>
+      </mrow>
+      <mrow>
+       <mn>2</mn>
+       <mi>π</mi>
+       <mi>f</mi>
+       <mo>|</mo>
+       <mi>Z</mi>
+       <mrow>
+        <mo stretchy="false">(</mo>
+        <mrow>
+         <mi>ω</mi>
+        </mrow>
+        <mo stretchy="false">)</mo>
+       </mrow>
+       <msup>
+        <mrow>
+         <mo>|</mo>
+        </mrow>
+        <mrow>
+         <mn>2</mn>
+        </mrow>
+       </msup>
+      </mrow>
+     </mfrac>
+    </mtd>
+   </mtr>
+  </mtable>
+ </math>
+</disp-formula>

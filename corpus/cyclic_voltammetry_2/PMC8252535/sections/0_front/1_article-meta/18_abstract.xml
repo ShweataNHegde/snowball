@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract>
+ <title>Abstract</title>
+ <p>In this study, the oxygen reduction reaction (ORR) in Ca
+  <sup>2+</sup>‐containing dimethyl sulfoxide (DMSO) at well‐ordered and rough electrode surfaces is compared by using cyclic voltammetry, differential electrochemical mass spectrometry, rotating ring disk electrode, and atomic force microscopy measurements. Slightly soluble CaO
+  <sub>2</sub> is the main product during early ORR on gold electrodes; after completion of a monolayer of CaO and/or CaO
+  <sub>2</sub>, which is formed in parallel and in competition to the peroxide, only superoxide is formed. When the monolayer is completely closed on smooth annealed Au, no further reduction occurs, whereas on rough Au a defect‐rich layer allows for continuous formation of superoxide. CaO
+  <sub>2</sub> formed either via two subsequent 1 
+  <math id="jats-math-1">
+   <msup>
+    <mrow>
+     <mi mathvariant="normal">e</mi>
+    </mrow>
+    <mo>-</mo>
+   </msup>
+  </math> transfer steps or by disproportionation of superoxide may be deposited on top of the CaO/CaO
+  <sub>2</sub> adsorbate layer. The slow dissolution of the peroxide particles is demonstrated by AFM. Whereas a smooth CaO/CaO
+  <sub>2</sub>‐covered electrode shows severe deactivation and a CaO/CaO
+  <sub>2</sub>‐covered rough electrode allows for diffusion‐limited superoxide formation, on single crystals peroxide formation is more pronounced. The reason is most likely the lack of nucleation sites for the blocking CaO/CaO
+  <sub>2</sub> layer. RRDE investigations showed sluggish reoxidation kinetics of the dissolved peroxide, which are most likely due to ion pairing with Ca
+  <sup>2+</sup>. The apparent transfer coefficient is estimated by using variation of the electrode roughness, confirming the result of the usual Tafel analysis and indicating an equilibrated first 1 
+  <math id="jats-math-2">
+   <msup>
+    <mrow>
+     <mi mathvariant="normal">e</mi>
+    </mrow>
+    <mo>-</mo>
+   </msup>
+  </math> transfer.
+ </p>
+</abstract>

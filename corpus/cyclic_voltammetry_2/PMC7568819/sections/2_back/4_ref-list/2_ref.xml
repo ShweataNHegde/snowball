@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B3">
+ <label>3</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gao</surname>
+    <given-names>Q.</given-names>
+   </name>
+   <name>
+    <surname>Demarconnay</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Raymundo-Pinero</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Beguin</surname>
+    <given-names>F.</given-names>
+   </name>
+  </person-group>
+  <article-title>Exploring the large voltage range of carbon/carbon supercapacitors in aqueous lithium sulfate electrolyte</article-title>
+  <source>
+   <italic toggle="yes">Energy &amp; Environmental Science</italic>
+  </source>
+  <year>2012</year>
+  <volume>5</volume>
+  <issue>11</issue>
+  <fpage>9611</fpage>
+  <lpage>9617</lpage>
+  <pub-id pub-id-type="doi">10.1039/c2ee22284a</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84867629201</pub-id>
+ </element-citation>
+</ref>

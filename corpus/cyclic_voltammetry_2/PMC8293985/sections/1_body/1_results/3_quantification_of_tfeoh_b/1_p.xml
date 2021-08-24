@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To better understand the speciation under electrochemical conditions, the relationship between the overall two-electron BQ redox response and TFEOH was analyzed by CV through TFEOH titration data under Ar saturation conditions according to the framework of Gupta and Linschitz (
+ <xref ref-type="fig" rid="fig2">Fig. 2</xref>, S4 and S19;
+ <xref ref-type="fn" rid="fn1">†</xref> Methods).
+ <sup>
+  <xref rid="cit10b" ref-type="bibr">10
+   <italic>b</italic>
+  </xref>
+ </sup> At TFEOH concentrations where the two-electron BQ redox feature remains reversible, plotting the −
+ <italic>E</italic>
+ <sub>1/2</sub> (V 
+ <italic>vs.</italic> Fc
+ <sup>+</sup>/Fc) of the two-electron BQ redox feature against log[TFEOH (M)] gives a slope consistent with a 2e
+ <sup>−</sup>/5.6TFEOH redox process ([BQ] = 0.5 mM; 
+ <xref ref-type="fig" rid="fig2">Fig. 2B</xref>). Based on prior reports,
+ <sup>
+  <xref rid="cit10b" ref-type="bibr">10
+   <italic>b</italic>,11
+   <italic>e</italic>
+  </xref>
+ </sup> this suggests that the two-electron reduced BQ species is the result of a stabilized monoanionic H-bonded intermediate 
+ <xref ref-type="disp-formula" rid="eqn4">eqn (4)</xref> undergoing a second reduction, which is concerted with proton transfer in the non-covalent assembly 
+ <xref ref-type="disp-formula" rid="eqn5">eqn (5)</xref>.
+ <sup>
+  <xref rid="cit10b" ref-type="bibr">10
+   <italic>b</italic>
+  </xref>
+ </sup> Our observation of a two-electron redox response is consistent with the standard potential of 
+ <xref ref-type="disp-formula" rid="eqn4">eqn (4)</xref> occurring at more negative potentials than that of 
+ <xref ref-type="disp-formula" rid="eqn5">eqn (5)</xref>.
+ <disp-formula id="eqn4">
+  <label>4</label>
+  <graphic xlink:href="d1sc01271a-t3.jpg" id="ugt3" position="float" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </disp-formula>
+ <disp-formula id="eqn5">
+  <label>5</label>
+  <graphic xlink:href="d1sc01271a-t4.jpg" id="ugt4" position="float" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </disp-formula>
+</p>

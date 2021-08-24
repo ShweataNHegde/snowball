@@ -83,7 +83,7 @@ OD_OUTPUT_2 = 'cyclic_voltammetry_2'
 #OD_RESULTS_2= 'cyclic_volammtery_2.txt'
 
 
-#uerying_pygetpapers_sectioning(OD_QUERY, OD_HITS, OD_OUTPUT)
+querying_pygetpapers_sectioning(OD_QUERY, OD_HITS, OD_OUTPUT)
 parse_xml(OD_OUTPUT,OD_RESULTS)
 key_phrase_extraction(OD_RESULTS, OD_TERMS)
 #querying_pygetpapers_sectioning(OD_QUERY, OD_HITS, OD_OUTPUT_2, using_terms=True, terms_txt=OD_TERMS)

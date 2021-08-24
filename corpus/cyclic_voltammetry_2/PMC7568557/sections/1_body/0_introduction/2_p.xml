@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par4">Specifically, at room temperature, Na–S batteries have some crucial problems that need to be addressed. Firstly, the poor conductivity of the active material, S, results in slow electrochemical reaction kinetics and lower S utilization
+ <sup>
+  <xref ref-type="bibr" rid="CR13">13</xref>,
+  <xref ref-type="bibr" rid="CR14">14</xref>
+ </sup>. Secondly, Na–S batteries have a higher volume strain rate than Li–S batteries, which makes the cathode of Na–S batteries susceptible to collapse
+ <sup>
+  <xref ref-type="bibr" rid="CR15">15</xref>
+ </sup>. Finally, NaPSs produced during the multi-step discharge reaction have high solubility and reactivity, which makes it easier for NaPSs to diffuse toward the Na–anode and cause a severe “shuttle effect”, resulting in a significant decrease in capacity
+ <sup>
+  <xref ref-type="bibr" rid="CR5">5</xref>
+ </sup>. Nevertheless, some progress has been made to improve the conductivity of S cathodes and speed up the reaction kinetics of Na–S batteries at room temperature. For example, carbon materials can be combined with S to improve the cathodic electrical conductivity, including carbon spheres
+ <sup>
+  <xref ref-type="bibr" rid="CR16">16</xref>
+ </sup>, carbon nanofibers
+ <sup>
+  <xref ref-type="bibr" rid="CR17">17</xref>
+ </sup>, carbon nanotubes
+ <sup>
+  <xref ref-type="bibr" rid="CR18">18</xref>
+ </sup>, carbon cloths
+ <sup>
+  <xref ref-type="bibr" rid="CR19">19</xref>
+ </sup>, etc. These materials not only improve the utilization rate of S, but also control the volume strain due to their rich porous structure. Zhang et al. assembled a Na–S battery using S-interconnect hollow nanospheres of carbon (S@Con-HC) as a cathode, but it displays limited cycling stability
+ <sup>
+  <xref ref-type="bibr" rid="CR5">5</xref>
+ </sup>. Zhang et al. constructed a Na–S battery using porous carbon microspheres (S-PCMs) as the cathode but it also suffers from inferior redox activity
+ <sup>
+  <xref ref-type="bibr" rid="CR18">18</xref>
+ </sup>. Although the S/C hybrid designs can greatly improve the utilization of sulfur, it should be pointed out that it is very difficult to achieve full electrochemical reversibility using nonpolar carbon structures as S hosts. Nonpolar carbon-based materials have weak interactions with polar NaPSs and cannot effectively prevent the diffusion of NaPSs, resulting in NaPSs (Na
+ <sub>2</sub>S
+ <sub>
+  <italic>x</italic>
+ </sub>, 4 ≤ 
+ <italic>x</italic> ≤ 8) moving between the anode and cathode (the shuttle effect), which results in parasitic redox reactions on the surface of the Na–metal anode (Fig. 
+ <xref rid="Fig1" ref-type="fig">1b</xref>).
+</p>

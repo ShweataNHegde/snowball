@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The reduction chemistry of quinones in aprotic solvents is known to be highly dependent on solvent, added proton donor activity, and electrolyte.
+ <sup>
+  <xref rid="cit10" ref-type="bibr">10</xref>
+ </sup> Under aprotic conditions, sequential one-electron reduction events are generally observed. Depending on proton donor activity and hydrogen-bonding strength, potential inversion can occur, enabling a two-electron reduction at a single potential. Under these conditions beginning from the neutral quinone ([Q]
+ <sup>0</sup>), the second one-electron reduction (
+ <xref ref-type="disp-formula" rid="eqn2">eqn (2)</xref>) is more favorable than the first (
+ <xref ref-type="disp-formula" rid="eqn1">eqn (1)</xref>). Even when p
+ <italic>K</italic>
+ <sub>a</sub> comparisons are available, they can nonetheless fail to address the complex solvent mixtures which result at high concentrations of added weak proton donors,
+ <sup>
+  <xref rid="cit10f" ref-type="bibr">10
+   <italic>f</italic>,11
+  </xref>
+ </sup> which directly impact the stability of the BQ-based mono- and di-anions.
+ <sup>
+  <xref rid="cit10f" ref-type="bibr">10
+   <italic>f</italic>,12
+  </xref>
+ </sup>
+ <disp-formula id="eqn1">
+  <label>1</label>
+  <graphic xlink:href="d1sc01271a-t1.jpg" id="ugt1" position="float" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </disp-formula>
+ <disp-formula id="eqn2">
+  <label>2</label>
+  <graphic xlink:href="d1sc01271a-t2.jpg" id="ugt2" position="float" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </disp-formula>
+</p>

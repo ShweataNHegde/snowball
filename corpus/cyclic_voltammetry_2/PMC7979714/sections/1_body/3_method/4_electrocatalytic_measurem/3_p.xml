@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par25">For the RRDE measurements, the disk electrode was scanned cathodically at a rate of 10 mV s
+ <sup>−1</sup> and the ring potential was kept at 1.5 V versus RHE. The peroxide percentage and the electron transfer number (
+ <italic>n</italic>) were determined by the following equations (ref):
+ <disp-formula id="Equ6">
+  <label>6</label>
+  <alternatives>
+   <tex-math id="M11">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\mathrm{HO}}_2^ - = 200 \times \frac{{I_{\mathrm{R}}/N}}{{I_{\mathrm{D}} + I_{\mathrm{R}}/N}}$$\end{document}</tex-math>
+   <math id="M12">
+    <msubsup>
+     <mrow>
+      <mi mathvariant="normal">HO</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+     <mrow>
+      <mo>−</mo>
+     </mrow>
+    </msubsup>
+    <mo>=</mo>
+    <mn>200</mn>
+    <mo>×</mo>
+    <mfrac>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>I</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="normal">R</mi>
+       </mrow>
+      </msub>
+      <mo>/</mo>
+      <mi>N</mi>
+     </mrow>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>I</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="normal">D</mi>
+       </mrow>
+      </msub>
+      <mo>+</mo>
+      <msub>
+       <mrow>
+        <mi>I</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="normal">R</mi>
+       </mrow>
+      </msub>
+      <mo>/</mo>
+      <mi>N</mi>
+     </mrow>
+    </mfrac>
+   </math>
+   <graphic xlink:href="41467_2021_21919_Article_Equ6.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+ <disp-formula id="Equ7">
+  <label>7</label>
+  <alternatives>
+   <tex-math id="M13">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\mathrm{n}} = 4 \times \frac{{I_{\mathrm{D}}}}{{I_{\mathrm{D}} + I_{\mathrm{R}}/N}}$$\end{document}</tex-math>
+   <math id="M14">
+    <mi mathvariant="normal">n</mi>
+    <mo>=</mo>
+    <mn>4</mn>
+    <mo>×</mo>
+    <mfrac>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>I</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="normal">D</mi>
+       </mrow>
+      </msub>
+     </mrow>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>I</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="normal">D</mi>
+       </mrow>
+      </msub>
+      <mo>+</mo>
+      <msub>
+       <mrow>
+        <mi>I</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="normal">R</mi>
+       </mrow>
+      </msub>
+      <mo>/</mo>
+      <mi>N</mi>
+     </mrow>
+    </mfrac>
+   </math>
+   <graphic xlink:href="41467_2021_21919_Article_Equ7.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>where 
+ <italic>I</italic>
+ <sub>d</sub> is disk current, Ir is ring current, and 
+ <italic>N</italic> is current collection efficiency of the Pt ring. 
+ <italic>N</italic> was determined to be 0.40.
+</p>

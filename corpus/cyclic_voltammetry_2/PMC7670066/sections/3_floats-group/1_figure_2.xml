@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F2" position="float">
+ <label>Figure 2</label>
+ <caption>
+  <p>
+   <bold>(A)</bold> Survey scans and 
+   <bold>(B)</bold> high resolution C 1s spectra of anC, anC:Np5, anC:Np10, and anC:Np20 electrodes; 
+   <bold>(C)</bold> shows details of the C 1s decomposition for anC:Np5 into four main contributions. High resolution N 1 s spectra of 
+   <bold>(D)</bold> anC:Np5, 
+   <bold>(E)</bold> anC:Np10, and 
+   <bold>(F)</bold> anC:Np20 together with their best-fit decompositions into N
+   <sub>Py</sub> (398.9 eV), N
+   <sub>Pr</sub> (400 eV), N
+   <sub>Gc</sub> (401 eV), N
+   <sub>Gv</sub> (402.5 eV), and N
+   <sub>Ox</sub> and satellites (&gt;403 eV). Individual peak contributions are offset from the spectral envelope for the sake of clarity.
+  </p>
+ </caption>
+ <graphic xlink:href="fchem-08-593932-g0002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

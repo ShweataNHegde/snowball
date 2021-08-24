@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Han</surname>
+   <given-names>Haisheng</given-names>
+  </name>
+  <address>
+   <email>15022610664@139.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Song</surname>
+   <given-names>Yanli</given-names>
+  </name>
+  <address>
+   <email>ylsongmail@163.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6584-9062</contrib-id>
+  <name>
+   <surname>Zhang</surname>
+   <given-names>Yongguang</given-names>
+  </name>
+  <address>
+   <email>yongguangzhang@hebut.edu.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kalimuldina</surname>
+   <given-names>Gulnur</given-names>
+  </name>
+  <address>
+   <email>gkalimuldina@nu.edu.kz</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bakenov</surname>
+   <given-names>Zhumabay</given-names>
+  </name>
+  <address>
+   <email>zbakenov@nu.edu.kz</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.412030.4</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 9226 1013</institution-id>
+   <institution>School of Materials Science and Engineering, Tianjin Key Laboratory of Materials Laminating Fabrication and Interface Control Technology, </institution>
+   <institution>Hebei University of Technology, </institution>
+  </institution-wrap>Tianjin, 300130 China 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.428191.7</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0495 7803</institution-id>
+   <institution>Department of Mechanical and Aerospace Engineering, </institution>
+   <institution>Nazarbayev University, </institution>
+  </institution-wrap>Nur-Sultan, 010000 Kazakhstan 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.428191.7</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0495 7803</institution-id>
+   <institution>Department of Chemical and Materials Engineering, National Laboratory Astana, </institution>
+   <institution>Nazarbayev University, </institution>
+  </institution-wrap>Nur-Sultan, 010000 Kazakhstan 
+ </aff>
+</contrib-group>

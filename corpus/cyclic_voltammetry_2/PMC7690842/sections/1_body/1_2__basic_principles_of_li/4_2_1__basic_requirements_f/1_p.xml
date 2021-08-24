@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The chemical and physical properties of Li
+ <sub>2</sub>O
+ <sub>2</sub> determines the capacity, cycle overpotential, rate capability, and cycle life. Cathode electrodes in LOBs are thus designed in consideration of the physical and chemical properties of Li
+ <sub>2</sub>O
+ <sub>2</sub>. In general, the choice of an air electrode for a rechargeable LOB depends on maximizing its Li
+ <sub>2</sub>O
+ <sub>2</sub> ability with stronger ORR and OER electrocatalytic behavior. In particular, stable air cathodes should have the following properties to achieve better LOB performance:
+ <list list-type="bullet">
+  <list-item>
+   <p>High electrochemical and chemical stability are necessary to reduce the overpotential during charging, which results in a reversible electrochemical reaction at satisfactory charge–discharge potentials, with less chance of irreversible sponging reactions.</p>
+  </list-item>
+  <list-item>
+   <p>A high specific surface area with a mesoporous structure enhances the discharge capacity even at high current densities, which is an important criterion for the high storage of Li
+    <sub>2</sub>O
+    <sub>2</sub>.
+   </p>
+  </list-item>
+  <list-item>
+   <p>To increase the rechargeability, a large packed electrode with a lower void volume is essential because it can prevent electrolyte penetration and improve the electrochemical reaction at catalytic sites due to the enhanced transportation of active O
+    <sub>2</sub> and Li
+    <sup>+</sup>. Therefore, an electrode with a porosity that is appropriate for the size of Li
+    <sub>2</sub>O
+    <sub>2</sub> exhibits greater rechargeability.
+   </p>
+  </list-item>
+  <list-item>
+   <p>Electrical conductivity is a deciding factor for renewable energy storage performance; hence, a cathode with greater electrical conductivity is required to allow the consistent transportation of electrons from the insulator and Li
+    <sub>2</sub>O
+    <sub>2</sub> to the surface of the cathode.
+   </p>
+  </list-item>
+ </list>
+</p>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Kim</surname>
+   <given-names>Hyun-seung</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Yang</surname>
+   <given-names>Jin Hyuk</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="no">
+  <name>
+   <surname>Han</surname>
+   <given-names>Ji Woo</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="no">
+  <name>
+   <surname>Thao</surname>
+   <given-names>Le Thi</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="no">
+  <name>
+   <surname>Ryu</surname>
+   <given-names>Ji Heon</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes" equal-contrib="no">
+  <name>
+   <surname>Oh</surname>
+   <given-names>Seung M.</given-names>
+  </name>
+  <address>
+   <email>seungoh@snu.ac.kr</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes" equal-contrib="no">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2166-7467</contrib-id>
+  <name>
+   <surname>Kim</surname>
+   <given-names>Ki Jae</given-names>
+  </name>
+  <address>
+   <email>kijaekim@konkuk.ac.kr</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.31501.36</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0470 5905</institution-id>
+   <institution>Department of Chemical and Biological Engineering, </institution>
+   <institution>Seoul National University, </institution>
+  </institution-wrap>1 Gwanak-ro, Gwanak-gu, Seoul, 08826 Republic of Korea 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.418968.a</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0647 1073</institution-id>
+   <institution>Advanced Batteries Research Center, </institution>
+   <institution>Korea Electronics Technology Institute, </institution>
+  </institution-wrap>25, Saenari-ro, Seongnam, 13509 Republic of Korea 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.258676.8</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0532 8339</institution-id>
+   <institution>Department of Energy Engineering, </institution>
+   <institution>Konkuk University, </institution>
+  </institution-wrap>120 Neungdong-ro, Gwangjin-gu, Seoul, 05029 Republic of Korea 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.440951.d</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0371 9862</institution-id>
+   <institution>Graduate School of Knowledge-based Technology and Energy, </institution>
+   <institution>Korea Polytechnic University, </institution>
+  </institution-wrap>237 Sangidaehak-ro, Siheung-si, Gyeonggi-do 15073 Republic of Korea 
+ </aff>
+</contrib-group>

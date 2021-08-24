@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="cit11">
+ <element-citation publication-type="journal" id="cit11a">
+  <label> (a) </label>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Evans</surname>
+    <given-names>D. H.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>René</surname>
+    <given-names>A.</given-names>
+   </name>
+  </person-group>
+  <source>Phys. Chem. Chem. Phys.</source>
+  <year>2012</year>
+  <volume>14</volume>
+  <fpage>4844</fpage>
+  <lpage>4848</lpage>
+  <pub-id pub-id-type="doi">10.1039/C2CP00021K</pub-id>
+  <?supplied-pmid 22301672?>
+  <pub-id pub-id-type="pmid">22301672</pub-id>
+ </element-citation>
+ <element-citation publication-type="journal" id="cit11b">
+  <label> (b) </label>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Macías-Ruvalcaba</surname>
+    <given-names>N. A.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Evans</surname>
+    <given-names>D. H.</given-names>
+   </name>
+  </person-group>
+  <source>J. Phys. Chem. B</source>
+  <year>2006</year>
+  <volume>110</volume>
+  <fpage>5155</fpage>
+  <lpage>5160</lpage>
+  <pub-id pub-id-type="doi">10.1021/jp0573893</pub-id>
+  <?supplied-pmid 16526760?>
+  <pub-id pub-id-type="pmid">16526760</pub-id>
+ </element-citation>
+ <element-citation publication-type="journal" id="cit11c">
+  <label> (c) </label>
+  <person-group person-group-type="author">
+   <name>
+    <surname>René</surname>
+    <given-names>A.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Evans</surname>
+    <given-names>D. H.</given-names>
+   </name>
+  </person-group>
+  <source>J. Phys. Chem. C</source>
+  <year>2012</year>
+  <volume>116</volume>
+  <fpage>14454</fpage>
+  <lpage>14460</lpage>
+  <pub-id pub-id-type="doi">10.1021/jp3038335</pub-id>
+ </element-citation>
+ <element-citation publication-type="journal" id="cit11d">
+  <label> (d) </label>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Uno</surname>
+    <given-names>B.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Okumura</surname>
+    <given-names>N.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Goto</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kano</surname>
+    <given-names>K.</given-names>
+   </name>
+  </person-group>
+  <source>J. Org. Chem.</source>
+  <year>2000</year>
+  <volume>65</volume>
+  <fpage>1448</fpage>
+  <lpage>1455</lpage>
+  <pub-id pub-id-type="doi">10.1021/jo991590q</pub-id>
+  <?supplied-pmid 10814108?>
+  <pub-id pub-id-type="pmid">10814108</pub-id>
+ </element-citation>
+ <element-citation publication-type="journal" id="cit11e">
+  <label> (e) </label>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Macías-Ruvalcaba</surname>
+    <given-names>N. A.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Okumura</surname>
+    <given-names>N.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Evans</surname>
+    <given-names>D. H.</given-names>
+   </name>
+  </person-group>
+  <source>J. Phys. Chem. B</source>
+  <year>2006</year>
+  <volume>110</volume>
+  <fpage>22043</fpage>
+  <lpage>22047</lpage>
+  <pub-id pub-id-type="doi">10.1021/jp064003v</pub-id>
+  <?supplied-pmid 17064175?>
+  <pub-id pub-id-type="pmid">17064175</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,788 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-id journal-id-type="coden">acsodf</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7675927</article-id><article-id pub-id-type="doi">10.1021/acsomega.0c04254</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Effect of Metal Coordination Fashion on Oxygen Electrocatalysis
+of Cobalt&#x02013;Manganese Oxides</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes" id="ath1"><name><surname>Sugawara</surname><given-names>Yuuki</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="notes2" ref-type="notes">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath2"><name><surname>Kobayashi</surname><given-names>Hiroaki</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="notes2" ref-type="notes">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Honma</surname><given-names>Itaru</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath4"><name><surname>Yamaguchi</surname><given-names>Takeo</given-names></name><xref rid="cor3" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Laboratory
+for Chemistry and Life Science, Institute of Innovative Research, <institution>Tokyo Institute of Technology</institution>, R1-17, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa 226-8503, <country>Japan</country></aff><aff id="aff2"><label>&#x02021;</label>Institute
+of Multidisciplinary Research for Advanced Materials, <institution>Tohoku University</institution>, 2-1-1 Katahira,
+Aoba-ku, Sendai, Miyagi 980-8577, <country>Japan</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>sugawara.y.aa@m.titech.ac.jp</email>.</corresp><corresp id="cor2"><label>*</label>Email: <email>h.kobayashi@tohoku.ac.jp</email>.</corresp><corresp id="cor3"><label>*</label>Email: <email>yamag@res.titech.ac.jp</email>.</corresp></author-notes><pub-date pub-type="epub"><day>03</day><month>11</month><year>2020</year></pub-date><pub-date pub-type="collection"><day>17</day><month>11</month><year>2020</year></pub-date><volume>5</volume><issue>45</issue><fpage>29388</fpage><lpage>29397</lpage><history><date date-type="received"><day>31</day><month>08</month><year>2020</year></date><date date-type="accepted"><day>23</day><month>10</month><year>2020</year></date></history><permissions><copyright-statement>&#x000a9; 2020 American
+Chemical Society</copyright-statement><copyright-year>2020</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under a Creative Commons Non-Commercial No Derivative Works (CC-BY-NC-ND) Attribution <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_ccbyncnd_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article, and creation of adaptations, all for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04254_0008" id="ab-tgr1"/></p><p>The
+oxygen reduction reaction (ORR) and oxygen evolution reaction
+(OER) are the most critical reactions that limit the efficiency of
+fuel cells, water electrolyzers, and metal&#x02013;air batteries. Therefore,
+a need exists to develop cost-effective and highly active alternative
+electrocatalysts for ORR and OER. This study investigates the influence
+of metal coordination fashion on electrocatalytic ORR and OER activities
+among three types of Co&#x02013;Mn bimetallic oxides (CMOs): tunnel-type
+(CMO_T), layer-type (CMO_L), and spinel-type (CMO_S) structures. An
+electrochemical evaluation for CMOs verifies that CMO_L has the highest
+ORR and OER specific activities, which is relatively better than the
+previously reported bifunctional metal oxides. Additionally, atomic
+configuration analysis for the oxides suggests that the excellent
+ORR and OER activities of CMO_L result from the difference in Co and
+Mn coordination states. This paper not only presents an excellent
+electrocatalyst for alkaline fuel cells and water electrolyzers but
+also provides an important guideline for the design of oxygen electrocatalysts.</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao0c04254</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao0c04254</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>The energy and environmental
+challenges, including depletion of
+fossil fuels and emission of greenhouse gases, have created a need
+to develop alternative clean energy sources and efficient energy conversion
+systems. The power-to-gas approach, which converts electricity from
+renewable energy resources into portable and high-energy density chemical
+fuels, is regarded as a promising process. Therefore, practical and
+emission-free energy conversion and storage devices are highly desired.
+These include fuel cells, water electrolyzers, and metal&#x02013;air
+batteries, which are expected to be crucial in creating a sustainable
+society in the future. For example, polymer electrolyte fuel cells
+and water electrolyzers use solid proton-exchange membranes such as
+Nafion to achieve high current densities. However, because of their
+acidic conditions, electrocatalysts in these devices are limited to
+noble metals only, such as platinum, ruthenium, and iridium-based
+compounds,<sup><xref ref-type="bibr" rid="ref1">1</xref>&#x02212;<xref ref-type="bibr" rid="ref3">3</xref></sup> and their expensiveness prevents the widespread use.
+In contrast, anion-exchange membrane (AEM) systems have attracted
+extensive attention over the last decade because their alkaline environment
+allows the use of nonprecious metal-based electrocatalysts.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> Membrane stability was a challenge when using
+AEM systems. Therefore, intensive research efforts have recently made
+significant breakthroughs in membrane durability for operating conditions.<sup><xref ref-type="bibr" rid="ref5">5</xref>&#x02212;<xref ref-type="bibr" rid="ref8">8</xref></sup> This has opened an avenue for the commercialization of AEM systems.
+Contrarily, regarding electrocatalysis in the AEM systems, the two
+types of oxygen electrocatalytic reactions, oxygen reduction reaction
+(ORR: O<sub>2</sub> + 2H<sub>2</sub>O + 4e<sup>&#x02013;</sup> &#x02192;
+4OH<sup>&#x02013;</sup>) in fuel cells and oxygen evolution reaction
+(OER: 4OH<sup>&#x02013;</sup> &#x02192; O<sub>2</sub> + 2H<sub>2</sub>O + 4e<sup>&#x02013;</sup>) in water electrolyzers and metal&#x02013;air
+batteries induce a large overpotential and cause insufficient power
+densities, which is one of the main concerns for practical applications.
+Therefore, cost-friendly electrocatalysts that possess prominent ORR
+and OER activities are highly desirable.</p><p>As alternative oxygen
+electrocatalysts, 3d transition metal-based
+electrocatalysts have recently drawn much interest because of their
+abundance and cost-effectiveness and have been explored among various
+classes of substances,<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> such as metal (hydr)oxides,<sup><xref ref-type="bibr" rid="ref10">10</xref>&#x02212;<xref ref-type="bibr" rid="ref14">14</xref></sup> phosphides,<sup><xref ref-type="bibr" rid="ref15">15</xref>&#x02212;<xref ref-type="bibr" rid="ref17">17</xref></sup> sulfides,<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> nitrides,<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> selenides,<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> and
+carbon-based composites.<sup><xref ref-type="bibr" rid="ref21">21</xref>,<xref ref-type="bibr" rid="ref22">22</xref></sup> Because of their outstanding
+properties, such as facile synthesis, low toxicity, and high electrochemical
+activities, multimetal oxides have been considered as attractive candidates
+for oxygen electrocatalysts. For instance, spinel and perovskite-type
+oxides are well-known to exhibit excellent ORR and OER activities
+owing to the combination of metal elements, compared to single-metal
+oxides.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> Several previous studies have
+demonstrated that elemental compositions can significantly affect
+ORR and OER activities.<sup><xref ref-type="bibr" rid="ref24">24</xref>,<xref ref-type="bibr" rid="ref25">25</xref></sup> The elemental effects
+on these activities have been primarily discussed through computational
+calculations, and these activities are considered to be relevant to
+many descriptors, including the <italic>d</italic>-band center,<sup><xref ref-type="bibr" rid="ref26">26</xref></sup><italic>e</italic><sub>g</sub> orbital occupancy,<sup><xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref11">11</xref></sup> O 2p band center relative to the Fermi level,<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> the number of d electrons,<sup><xref ref-type="bibr" rid="ref28">28</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup> and metal&#x02013;oxygen
+covalency.<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> For example, our group recently
+found out that orthorhombic calcium iron oxide (CaFe<sub>2</sub>O<sub>4</sub>) possesses excellent OER activity in alkaline media and that
+its OER specific activity is significantly higher than that of previously
+reported alkaline-earth or rare-earth metal-containing Fe-based oxides.
+Computational calculation of the geometrical structures of the compounds
+has suggested that the excellent OER activity of CaFe<sub>2</sub>O<sub>4</sub> is attributable to the edge-shared FeO6 polyhedral connectivity.
+Kakizaki et al.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup></p><p>Another important
+factor for ORR and OER activities is the geometrical
+effects of catalysts. For example, Kakizaki et al<italic>.</italic> demonstrated that in the case of &#x003b2;-phase manganese dioxide,
+the OER activity depends on the exposed crystal facet on the catalyst
+surfaces.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> These facet dependencies were
+also reported for LaCoO<sub>3</sub><sup><xref ref-type="bibr" rid="ref16">16</xref></sup> and
+LiMn<sub>1.5</sub>Ni<sub>0.5</sub>O<sub>4</sub>.<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> Furthermore, some studies have reported that ORR and OER
+activities can be improved by bending or distortion of polyhedra comprising
+active metal and O atoms.<sup><xref ref-type="bibr" rid="ref34">34</xref>&#x02212;<xref ref-type="bibr" rid="ref36">36</xref></sup> Recently, the control of crystal
+phases was investigated to enhance ORR and OER activities. Long et
+al<italic>.</italic> compared the ORR activities of two distinct cobalt
+(Co)&#x02013;manganese (Mn) spinel oxides bearing a cubic and a tetragonal
+phase, respectively.<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> Additionally, crystalline
+polymorphism affects ORR and OER activities on manganese oxide,<sup><xref ref-type="bibr" rid="ref38">38</xref>,<xref ref-type="bibr" rid="ref39">39</xref></sup> iron oxyhydroxide,<sup><xref ref-type="bibr" rid="ref40">40</xref></sup> and palladium/copper
+alloy.<sup><xref ref-type="bibr" rid="ref41">41</xref></sup> Besides such microscopic geometry,
+macroscopic morphologies are also keys to enhancing the ORR and OER
+activities. Several studies have attempted to construct catalyst nanostructures
+to enlarge surface areas and improve mass transports during the electrochemical
+ORR and OER processes. These catalyst nanostructures include enriched
+porous nanofibers and nanorods,<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> template-constructed
+porous structures,<sup><xref ref-type="bibr" rid="ref43">43</xref></sup> and metal&#x02013;organic
+framework structures.<sup><xref ref-type="bibr" rid="ref44">44</xref></sup></p><p>These reports
+suggested that geometrical effects play an important
+role in ORR and OER activities, while no study has investigated the
+influence of structural dimensionality on electrocatalytic ORR and
+OER activities. Such structural differences affect various characteristics,
+such as cathode performance for lithium-ion batteries<sup><xref ref-type="bibr" rid="ref45">45</xref></sup> and catalytic activity for aerobic oxidation;<sup><xref ref-type="bibr" rid="ref46">46</xref></sup> therefore, it may also affect the electrocatalytic
+activities for ORR and OER due to a change in electronic states. This
+paper presents the influence of structural differences on ORR and
+OER activities to obtain a novel guideline for designing promising
+oxygen electrocatalysts, among three types of Co&#x02013;Mn bimetallic
+oxides (CMOs): tunnel-type (CMO_T), layer-type (CMO_L), and spinel-type
+(CMO_S) structures, as shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>. CMO_T exhibits a bundle 3 &#x000d7; 3 tunnel todorokite-type
+structure of a MnO<sub>6</sub> octahedral framework (OMS-1), where
+hydrated Co<sup>2+</sup> ions conduct in the one-dimensional tunnel.
+CMO_L exhibits a stacked layered structure of Mn oxides, with two-dimensionally
+intercalated Co<sup>2+</sup> ions. The interlayer distance can be
+changed by hydration conditions. CMO_S possesses a normal spinel structure,
+where the 8<italic>a</italic> site of Co<sup>2+</sup> ions can conduct
+through three-dimensional an 8<italic>a</italic>-16<italic>c</italic>(vacancy)-8<italic>a</italic> path in the Wyckoff position in the <italic>Fd</italic>&#x02013;3<italic>m</italic> space group. These materials
+show similarities in the host structures of a MnO<sub>6</sub> octahedral
+framework and guest Co<sup>2+</sup> ions, with distinct cation conduction
+paths. In addition, these materials are selectively prepared from
+the same procedure of an alcohol reduction process.<sup><xref ref-type="bibr" rid="ref46">46</xref></sup> By controlling the reaction condition, such as the metal
+source, water content, and reaction temperature, a variety of Mn-based
+binary oxides can be obtained. Here, we examined ORR and OER activities
+of CMOs in alkaline media and discussed the important factors concerning
+the control of the catalytic performances.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Schematic of three types
+of Co&#x02013;Mn bimetallic oxides (CMOs).
+Blue spheres and purple octahedra represent cobalt and MnO<sub>6</sub> octahedra, respectively. These illustrations were drawn using the
+VESTA program.<sup><xref ref-type="bibr" rid="ref47">47</xref></sup></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04254_0002" id="gr1" position="float"/></fig></sec><sec id="sec2"><title>Results
+and Discussion</title><sec id="sec2.1"><title>Synthesis and Characterization of Materials</title><p>CMOs were
+prepared through a reduction of permanganate (MnO<sub>4</sub><sup>&#x02013;</sup>) in a cobalt chloride (CoCl<sub>2</sub>) solution
+in 2-propanol. Their structures were successfully regulated by adding
+water to the reaction solution for controlling Co<sup>2+</sup> coordination
+by hydration. The high-energy synchrotron X-ray diffraction (XRD)
+patterns of CMO_T, L, and S are shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a. In CMO_L, peaks are attributable to two
+types of layered structures; peaks at 4.61, 9.19, 13.77, 18.24, 31.79,
+and 36.88&#x000b0; (the interplanar spacing of <italic>d</italic> = 0.96,
+0.48, 0.32, 0.24, 0.14, and 0.12 nm, respectively) are attributed
+to the buserite-type structure with an interlayer distance of 0.96
+nm, while peaks at 6.27 and 12.71&#x000b0; (<italic>d</italic> = 0.71
+and 0.32 nm, respectively) are attributed to the birnnesite-type structure
+with the interlayer distance of 0.71 nm, which formed by dehydration
+of the buserite-type structure during the drying process.<sup><xref ref-type="bibr" rid="ref48">48</xref>&#x02212;<xref ref-type="bibr" rid="ref50">50</xref></sup> In CMO_T, peaks at 4.61, 9.19, 18.24, 31.79, and 36.88&#x000b0; (<italic>d</italic> = 0.96, 0.48, 0.24, 0.14, and 0.12 nm, respectively) are
+observed. These peak positions are the same as those for the buserite-type
+structure, but no other peaks are observed, indicating that no structure
+change in CMO_T occurs during the drying process compared to CMO_L.
+Therefore, the strucutre of CMO_T is attributable to the 3 &#x000d7;
+3 tunnel todorokite-type (OMS-1) since it has a rigid structure against
+dehydration.<sup><xref ref-type="bibr" rid="ref51">51</xref></sup> In CMO_S, peaks at 9.19,
+18.24, 31.79, and 36.88&#x000b0; (<italic>d</italic> = 0.48, 0.24, 0.14,
+and 0.12 nm, respectively) are observed. The absence of the lower
+angle peak at 4.61&#x000b0; (<italic>d</italic> = 0.96 nm) suggests the
+different structure from either CMO_T or CMO_L, and possibly, it is
+attributed to the cubic spinel-type structure.<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> Note that manganese spinels (e.g., hausmannite) usually
+have the tetragonal structure due to Jahn&#x02013;Teller distortion
+of Mn<sup>3+</sup> ions. However, in CMO_S, the Co/Mn molar ratio
+is lower than 0.5 as shown in <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>, and the valence state of Mn is higher than trivalent
+from Mn K-edge X-ray absorption near edge structure (XANES) spectra
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf">Figure S1</ext-link>). In addition, the Mn K-edge
+extended X-ray absorption fine structure (EXAFS) spectrum shows a
+single peak at 2&#x02013;3 &#x000c5; derived from single Mn&#x02013;metal
+paths, suggesting that no Jahn&#x02013;Teller distortion occurred in
+CMO_S, as shown later.<sup><xref ref-type="bibr" rid="ref52">52</xref></sup> According to the
+above, Mn<sup>4+</sup> partially exists in CMO_S to form nonstoichiometric
+cubic spinel Co<sub>0.88</sub>Mn<sub>2</sub>O<sub>4</sub>. Such behavior
+is observed in the Mg&#x02013;Mn spinel oxide.<sup><xref ref-type="bibr" rid="ref53">53</xref></sup></p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(a)
+High-energy synchrotron XRD patterns for CMOs. (b&#x02013;d)
+TEM images for (b) CMO_L, (c) CMO_T, and (d) CMO_S.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04254_0003" id="gr2" position="float"/></fig><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Characterization of CMOs</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="char" char="&#x02212;"/><col align="left"/><col align="char" char="."/><col align="char" char="."/></colgroup><thead><tr><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center" char="&#x02212;">&#x000a0;</th><th colspan="2" align="center">metal composition<xref rid="t1fn2" ref-type="table-fn">b</xref><hr/></th><th style="border:none;" align="center" char=".">&#x000a0;</th></tr><tr><th style="border:none;" align="center">catalyst</th><th style="border:none;" align="center" char="&#x02212;">particle diameter<xref rid="t1fn1" ref-type="table-fn">a</xref> [nm]</th><th style="border:none;" align="center">[wt&#x000a0;%]</th><th style="border:none;" align="center" char=".">Co/Mn [mol/mol]</th><th style="border:none;" align="center" char=".">specific surface area [m<sup>2</sup>&#x000a0;g<sup>&#x02013;1</sup>]</th></tr></thead><tbody><tr><td style="border:none;" align="left">CMO_T</td><td style="border:none;" align="char" char="&#x02212;">30&#x02013;50</td><td style="border:none;" align="left">Co 23.7,</td><td style="border:none;" align="char" char=".">0.749</td><td style="border:none;" align="char" char=".">223</td></tr><tr><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="char" char="&#x02212;">&#x000a0;</td><td style="border:none;" align="left">Mn 29.5</td><td style="border:none;" align="char" char=".">&#x000a0;</td><td style="border:none;" align="char" char=".">&#x000a0;</td></tr><tr><td style="border:none;" align="left">CMO_L</td><td style="border:none;" align="char" char="&#x02212;">200&#x02013;300</td><td style="border:none;" align="left">Co 21.4,</td><td style="border:none;" align="char" char=".">0.618</td><td style="border:none;" align="char" char=".">35</td></tr><tr><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="char" char="&#x02212;">&#x000a0;</td><td style="border:none;" align="left">Mn 32.3</td><td style="border:none;" align="char" char=".">&#x000a0;</td><td style="border:none;" align="char" char=".">&#x000a0;</td></tr><tr><td style="border:none;" align="left">CMO_S</td><td style="border:none;" align="char" char="&#x02212;">10&#x02013;30</td><td style="border:none;" align="left">Co 16.7,</td><td style="border:none;" align="char" char=".">0.439</td><td style="border:none;" align="char" char=".">283</td></tr><tr><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="char" char="&#x02212;">&#x000a0;</td><td style="border:none;" align="left">Mn 35.5</td><td style="border:none;" align="char" char=".">&#x000a0;</td><td style="border:none;" align="char" char=".">&#x000a0;</td></tr></tbody></table><table-wrap-foot><fn id="t1fn1"><label>a</label><p>Estimated by SEM images.</p></fn><fn id="t1fn2"><label>b</label><p>Quantified by inductively coupled
+plasma-atomic emission spectrometry (ICP-AES) analysis.</p></fn></table-wrap-foot></table-wrap><p><xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b&#x02013;d
+displays the transmission electron microscopy (TEM) images of the
+synthesized materials. The TEM images of CMO_L showed a stacked structure
+with a <italic>d</italic>-spacing of 0.69 nm, which can be assigned
+to the birnnesite-type structure; the value corresponded to the interlayer
+distance of Mn oxides in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>. A lattice fringe derived from the buserite-type structure
+with a <italic>d</italic>-spacing of 0.96 nm was not observed, probably
+because the buserite-type structure was transformed to the birnnesite-type
+structure during the vacuum drying pretreatment for the TEM measurement.
+Additionally, CMO_T showed a bundle structure that had a <italic>d</italic>-spacing of 0.50 nm, which corresponds to half the distance in the
+Mn oxide tunnel framework; its rigid structure is maintained during
+the vacuum drying pretreatment, as described above. In contrast, CMO_S
+displayed lattice fringes with <italic>d</italic>-spacings of 0.47
+and 0.26 nm, which can be assigned to the (111) and (311) lattice
+planes of the cubic spinel structure, respectively. The scanning electron
+microscopy (SEM) images in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf">Figure S2</ext-link> highlight
+that the CMO_T, L, and S have flake-like, flower-like, and spherical
+particle morphologies, respectively, and that the geometrical sizes
+of the particles are consistent with the TEM observations. The particle
+diameters of the three types of oxides are summarized in <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>. The Brunauer&#x02013;Emmett&#x02013;Teller
+(BET) surface areas of CMOs are also highlighted in <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>, and it exhibited a good agreement
+to the geometrical size of CMOs. The BET surface areas are used to
+normalize the ORR and OER currents to calculate specific activities
+of CMOs.</p></sec><sec id="sec2.2"><title>Electrocatalytic Activities</title><sec id="sec2.2.1"><title>Evaluation of ORR Performance</title><p>The electrocatalytic
+ORR activities of the three kinds of oxides, bearing distinct structures
+were evaluated using an LSV technique in O<sub>2</sub>-saturated 0.1
+M potassium hydroxide (KOH) solution using a typical three-electrode
+system, as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf">Figure S3</ext-link>. A rotating-disk
+electrode (RDE, 5 mm diameter) was used as the working electrode.
+Details of the electrochemical measurements are described in the <xref rid="sec4" ref-type="other">Experimental Section</xref>. <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a highlights the <italic>iR</italic>-corrected
+LSV curves for the three types of oxides with ORR current density
+per electrode disk area. The loading amounts of CMOs on the RDE were
+adjusted on the basis of the BET specific surface areas of these catalysts;
+i.e., the net BET surface area of CMO on each RDE was set to 0.63
+cm<sup>2</sup><sub>BET</sub> cm<sup>&#x02013;2</sup><sub>disk</sub>. <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a highlights
+the superior ORR activity of CMO_L when compared to CMO_T and S. Additionally,
+the corresponding Tafel slope of CMO_L was lower than those of CMO_T
+and S (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b),
+which also indicated the favorable ORR kinetics in CMO_L. The electron
+transfer numbers (<italic>n</italic>) during ORR were further examined
+using a rotating ring-disk electrode (RRDE). <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>c displays the ring currents and calculated <italic>n</italic> in regions where ORR currents appeared. The variable <italic>n</italic> of CMO_L was found to be above 3.62, which was significantly
+higher than those of CMO_T and S. Although the ORR in CMO_L does not
+completely follow a direct four-electron transfer pathway, the electrochemical
+analyses confirmed that CMO_L exhibits better ORR performance as compared
+to CMO_T and S, even though the ORR activity was lower than that of
+benchmark Pt/C (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf">Figure S4</ext-link>). However, the
+three types of oxides contain different amounts of metal contents.
+We then calculated the ORR mass activities at 0.75 V vs. RHE, which
+were normalized by loading metal amounts per RDE area and BET specific
+surface areas of the catalyst particles, respectively. Because the
+conductive CNT support in the catalyst layer on the RDE can also catalyze
+ORR, the ORR mass and specific activities were calculated using the
+actual ORR currents of CMOs, which was obtained by the subtraction
+of the ORR current of the CNT at 0.75 V (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf">Figure S5</ext-link>). <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>d demonstrates that CMO_L has the lowest ORR mass activity among
+the oxides, which was attributed to the much smaller BET specific
+surface area and larger particle size of CMO_L than those of CMO_T
+and S, as shown in <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>. We also calculated turnover frequencies (TOFs) of the CMOs
+based on the loaded weight of metals on the electrodes and compare.
+The TOFs of CMO_L are smaller than those of CMO_T and S as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf">Table S2</ext-link>. Nevertheless, the specific activity
+(excluding the effect of surface area) expresses the intrinsic catalytic
+activities and is a more important characteristic for catalysts. The
+CV curves of CMOs in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf">Figure S6</ext-link> show that
+the shapes of redox peaks in the CV curves are different among CMOs.
+It indicates that the three types of CMOs had different surface characteristics.
+Thus, we adjusted the loaded amount of CMOs on the RDE based on BET
+specific surface areas. It is noteworthy that CMO_L displayed a significantly
+higher ORR specific activity, which was 4.4 and 5.6 times larger than
+those of CMO_T and S, respectively (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>e). Furthermore, the ORR specific activity
+of CMO_L was comparable to or even higher than those of the previously
+reported nonprecious bimetallic oxides containing 3d transition metals
+that can catalyze ORR and OER in alkaline media (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf">Table S1</ext-link>). Therefore, the ORR activity depends on the metal
+coordination fashion of electrocatalysts; i.e., a layer structure
+highly benefits the ORR activity.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>ORR performances of CMOs. (a) LSV curves
+at an electrode rotating
+rate of 1600 rpm in O<sub>2</sub>-saturated 0.1 M KOH. (b) Complemental
+Tafel plots, which were extracted from the LSV curves in (a). X-axis
+indicates ORR currents per BET specific surface areas of loaded CMOs
+on the RDE. (c) Ring currents and electron transfer numbers (<italic>n</italic>) of reactions that were recorded using the RRDE. (d) ORR
+mass activities of the three types of oxides at 0.75 V, which were
+obtained by normalizing the current densities of LSV curves in (a)
+using loading metal amounts on the RDE. (e) ORR specific activities
+of the three kinds of the oxides at 0.75 V, which were obtained by
+normalizing the current densities of LSV curves in (a) using BET specific
+surface areas of the oxides on the RDE.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04254_0004" id="gr3" position="float"/></fig><p>The durability of catalytic performance is an important factor
+for practical applications. The electrochemical stability of CMO_L
+was then tested by potential cycling (load cycle) between 0.6 and
+1.0 V in N<sub>2</sub>-saturated 0.1 M KOH solution. Aged CMO_L showed
+a negative potential shift for the ORR current, as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf">Figure S7a</ext-link>, which indicated that CMO_L deteriorates
+when subjected to a load cycle test. This deterioration is attributable
+to the repeated redox reaction on the CMO_L surface. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf">Figure S7b</ext-link> shows CV curves after load cycles. CMO_L initially
+exhibited oxidation and reduction peaks at 0.8 and 0.5 V, respectively,
+which can correspond to the overlapping of several redox processes
+involving Co and Mn species.<sup><xref ref-type="bibr" rid="ref54">54</xref></sup> However,
+the peak currents decreased as the number of cycles increased, and
+finally, they disappeared. This indicated an irreversible redox process
+on the CMO_L surface when applying
+a potential. Consequently, CMO_L transformed and/or degraded, resulting
+in the deterioration of CMO_L.</p></sec><sec id="sec2.2.2"><title>Evaluation of OER Performance</title><p>Additionally, the OER
+performances of the three types of oxides were evaluated by CV scans
+in O<sub>2</sub>-saturated 1 M KOH. <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a and b represents the <italic>iR</italic>-corrected OER polarization curves with OER current density per electrode
+disk area and per BET specific surface area of CMOs, respectively,
+which display the mean of the forward and backward CV cycles. The
+polarization curves were used to determine the OER overpotentials
+of each oxide, which are defined as the potential gap between the
+theoretical potential of OER (1.23 V vs. RHE) and the experimentally
+measured potential at a current density of 10 mA cm<sup>&#x02013;2</sup><sub>disk</sub> in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a. The overpotentials are 0.40, 0.40, and 0.42 V for CMO_T,
+L, and S, respectively. Additionally, <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c shows Tafel slopes, which were also extracted
+from the polarization curves. The Tafel slopes show trends similar
+to the overpotentials; i.e., the Tafel slopes of CMO_T and L were
+smaller than that of CMO_S, indicating advantageous OER kinetics in
+CMO_T and L. Similar to the evaluation of ORR performance, the OER
+mass and specific activities at 1.65 V are displayed in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>d and e, respectively. The
+trends of OER activity resembled those of ORR activity. CMO_L demonstrated
+the highest OER mass and OER specific activities when compared to
+CMO_T and S. The specific activity of CMO_L was 7.8 and 26 times larger
+than those of the CMO_T and S, respectively. Furthermore, similar
+to ORR, the OER specific activity of CMO_L was significantly better
+than those of the previously reported nonprecious bimetallic oxides,
+as summarized in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf">Table S1</ext-link>, even though
+the OER activity was lower than that of benchmark IrO<sub>2</sub> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf">Figure S8</ext-link>). Moreover, the TOF for OER on the
+CMO_L is larger than those of CMO_T and S as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf">Table S2</ext-link>, also indicating the highest intrinsic
+OER activity on CMO_L. Although good wettability of the catalyst surface
+can facilitate the release of evolved O<sub>2</sub> bubbles from the
+catalyst surfaces and is beneficial for the OER process, the dramatic
+improvement of OER activity of CMO_L cannot be explained by the surface
+wettability of catalyst particles. Therefore, ORR and OER electrocatalysis
+is significantly affected by the structural differences of electrocatalysts;
+i.e., a layer structure extensively facilitates this electrocatalysis.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>OER performances
+of CMOs. (a,b) Polarization curves at an electrode
+rotating rate of 1600 rpm in O<sub>2</sub>-saturated 1 M KOH. (c)
+Complemental Tafel plots extracted from the polarization curves in
+(b). (d) OER mass activities of the three types of oxides at 1.65
+V, which were obtained by normalizing the current densities of polarization
+curves in (a) using loading metal amounts on the RDE. (e) OER specific
+activities of the three types of the oxides at 1.65 V, which were
+obtained by normalizing the current densities of polarization curves
+in (a) using BET specific surface areas of the oxides on the RDE.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04254_0005" id="gr4" position="float"/></fig><p>Furthermore, the long-term durability of the OER
+performance of
+CMO_L was examined through repeated potential cycles for OER measurements
+in 1 M KOH. OER polarization curves at the initial and 500th cycles
+are shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>, demonstrating that OER current at a lower potential near the onset
+potential was retained after 500 cycles, which indicated that the
+intrinsic activity of CMO_L did not deteriorate. In contrast, the
+OER current at a higher potential was slightly diminished due to the
+partial corrosion of a conductive CNT support, which led to the limitation
+of electron transfer in the catalyst layer. Therefore, the durability
+test showed that CMO_L exhibits a high durability during the OER process
+in alkaline media and is a highly promising OER electrocatalyst for
+practical applications.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>OER polarization curves of CMO_L at an electrode
+rotating rate
+of 1600 rpm in O<sub>2</sub>-saturated 1 M KOH at the initial and
+500th potential cycles.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04254_0006" id="gr5" position="float"/></fig></sec></sec><sec id="sec2.3"><title>Insights into the Influence
+of Metal Coordination Fashion on
+Electrocatalytic ORR and OER Activities</title><p>Generally, the electrocatalytic
+ORR and OER activities are affected by the valence state of transition
+metals.<sup><xref ref-type="bibr" rid="ref55">55</xref>&#x02212;<xref ref-type="bibr" rid="ref57">57</xref></sup> However, only slight differences among CMOs were
+observed in the Co and Mn K-edge XANES spectra (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf">Figure S1</ext-link>). This indicates that valence states do not differ
+among CMOs. To explain the exceptional ORR and OER activities of CMO_L,
+the local metal configurations in the structures were analyzed by
+the EXAFS spectra. <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref> displays the EXAFS spectra of CMOs. The coordination states
+of Co and Mn cations were determined by a fitting analysis, and the
+results are shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf">Table S3</ext-link> of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf">Supporting Information</ext-link>. The second coordination
+numbers of Co and the neighbor metal (M) were significantly larger
+for CMO_L when compared to CMO_T and S. The larger metal&#x02013;metal
+coordination number on CMO_L can be a result of the drying step performed
+after the formation of the template structures in the synthesis process.
+The structures of CMOs were selectively formed by controlling the
+Co cation hydration. When hydrated water was eliminated by drying,
+the structures of CMO_T and S remained unchanged owing to the rigid
+frames of the tunnel and spinel structures, respectively.<sup><xref ref-type="bibr" rid="ref46">46</xref></sup> In contrast, the layered structure in CMO_L
+is flexible on the <italic>c</italic>-axis, which led to the interlayer
+spaces shrinking when dried.<sup><xref ref-type="bibr" rid="ref46">46</xref></sup> Therefore,
+the compression of the interlayer can induce a more-packed layered
+structure, leading to a larger number of Co&#x02013;metal and Mn&#x02013;metal
+coordination. It is well-known that metal&#x02013;metal coordination
+plays a crucial role in ORR and OER activities<sup><xref ref-type="bibr" rid="ref38">38</xref>,<xref ref-type="bibr" rid="ref58">58</xref></sup> owing to its effect on the binding sites and strength of intermediates
+on the catalyst surfaces. For instance, metal coordination significantly
+affected the OER activities on Mn and Co-based oxides,<sup><xref ref-type="bibr" rid="ref59">59</xref></sup> and the ORR and OER activities of Co-based electrocatalysts
+were improved when increasing the Co&#x02013;Co coordination numbers.<sup><xref ref-type="bibr" rid="ref60">60</xref>,<xref ref-type="bibr" rid="ref61">61</xref></sup>Additionally, reports have shown that a larger number of Mn&#x02013;Mn
+coordination induced a higher intrinsic OER activity of metal oxide
+polymorphs.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> These higher activities with
+larger metal&#x02013;metal coordination numbers are consistent with
+the enzymatic oxygen reduction and water oxidation in nature using
+polynuclear metal complexes, which are required for four-electron
+ORR and OER in heme-copper oxidases<sup><xref ref-type="bibr" rid="ref62">62</xref></sup> and
+photosystem II,<sup><xref ref-type="bibr" rid="ref63">63</xref></sup> respectively. Therefore,
+the high intrinsic ORR and OER activities in CMO_L can be ascribed
+to the different conditions in Co cation coordination.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>EXAFS analysis of CMOs.
+(a) Fourier-transformed Co and (b) Mn K-edge
+spectra.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04254_0007" id="gr6" position="float"/></fig></sec></sec><sec id="sec3"><title>Conclusion</title><p>The
+influence of metal coordination fashion on ORR and OER electrocatalytic
+activities in alkaline media was investigated by evaluating the activities
+of three types of Co&#x02013;Mn bimetallic oxides (CMOs): tunnel-type
+(CMO_T), layer-type (CMO_L), and spinel-type (CMO_S) structures. Of
+these, CMO_L exhibited the highest ORR and OER activities. The ORR
+specific activity of CMO_L was found to be 4.4 and 5.6 times larger
+than those of CMO_T and S, respectively. Additionally, the OER specific
+activity was 7.8 and 26 times larger than those of CMO_T and S, respectively.
+Furthermore, the OER performance of CMO_L showed sufficient durability
+in alkaline media during a potential cycle test. The ORR and OER specific
+activities of CMO_L surpassed any previously reported bifunctional
+metal oxides bearing two 3d transition metals that can catalyze ORR
+and OER. Furthermore, EXAFS analysis indicated that the excellent
+ORR and OER activities of CMO_L resulted from the difference in Co
+coordination states among the three types of structures. Therefore,
+this study has demonstrated the influence of metal coordination fashion
+on ORR and OER electroactivities; i.e., a layer structure highly merits
+ORR and OER processes. These findings not only highlight an excellent
+electrocatalyst for alkaline fuel cells, water electrolyzers, and
+metal&#x02013;air batteries but also provide a novel guideline for
+an efficient structural design of oxygen electrocatalysts. Further
+elucidations by computational calculations to obtain more insights
+into the catalytic mechanism on each structural difference are currently
+being conceived in our laboratories.</p></sec><sec id="sec4"><title>Experimental Section</title><sec id="sec4.1"><title>Chemicals</title><p>Potassium permanganate (KMnO<sub>4</sub>),
+CoCl<sub>2</sub>, and 2-propanol were purchased from Kanto Chemical
+Co., Inc. (Tokyo, Japan). KOH (85%) was purchased from Wako Pure Chemical
+Industries, Ltd. (Osaka, Japan), and tetra-<italic>n</italic>-butylammonium
+bromide (<italic>n</italic>-Bu<sub>4</sub>NBr) was purchased from
+Tokyo Chemical Industry Co., Ltd. (TCI) (Tokyo, Japan). A multiwall
+carbon nanotube (CNT, 90%), with an average diameter of 9.5 nm, was
+purchased from Nanocyl SA (Sambreville, Belgium) and functionalized
+to hydrophilize, as reported in our previous paper.<sup><xref ref-type="bibr" rid="ref64">64</xref></sup> Briefly, pristine CNT powder was treated with mixed acid
+solution containing 95% H<sub>2</sub>SO<sub>4</sub> and 60% HNO<sub>3</sub> with a volume ratio of 1:1 in a microwave reactor (&#x003bc;Reactor
+EX, Shikoku Instrumentation Co., Ltd., Nakatado, Japan) for 15 min
+with 500 W. A 5 wt % Nafion solution (product number: 274704) was
+purchased from Sigma-Aldrich Japan K.K. (Tokyo, Japan), and its cation
+was exchanged by the addition of 0.1 M KOH aqueous solution. Carbon-supported
+platinum (Pt/C, 9.8% Pt, product number: 10E10E) and iridium oxide
+(IrO<sub>2</sub>, 75% Ir, product number: ELC-0110) were purchased
+from Tanaka Kikinzoku Kogyo (Tokyo, Japan). All other chemicals were
+purchased from Wako Pure Chemical Industries and used as received.</p></sec><sec id="sec4.2"><title>Catalyst Synthesis</title><p>Catalysts were synthesized according
+to the literature.<sup><xref ref-type="bibr" rid="ref46">46</xref></sup> Precursor tetra-<italic>n</italic>-butylammonium permanganate (<italic>n</italic>-Bu<sub>4</sub>NMnO<sub>4</sub>) was synthesized by slowly adding an aqueous <italic>n</italic>-Bu<sub>4</sub>NBr solution to an aqueous KMnO<sub>4</sub> solution under vigorous stirring. This was followed by stirring
+for 1 h. CMO_T and L: <italic>n</italic>-Bu<sub>4</sub>NMnO<sub>4</sub> (2 mmol) powder was slowly added to a CoCl<sub>2</sub> (2 mmol)
+solution in a mixture of 2-propanol (50 mL) and water to obtain a
+molar ratio of H<sub>2</sub>O/CoCl<sub>2</sub> = 600 and 60, respectively.
+The solution was refluxed for 3 h. CMO_S: <italic>n</italic>-Bu<sub>4</sub>NMnO<sub>4</sub> (2 mmol) powder was slowly added to an anhydrous
+CoCl<sub>2</sub> (2 mmol) solution in 2-propanol (50 mL) to form a
+colloidal solution. The solution was stirred for 30 min at room temperature
+followed by the addition of deionized water to form precipitates.
+Previous work reveals that the amount of H<sub>2</sub>O affects the
+structure of the binary oxide,<sup><xref ref-type="bibr" rid="ref46">46</xref></sup> while
+the excess amount of CoCl<sub>2</sub> does not affect the characteristics.
+These precipitates were collected by membrane filtration, washed with
+water and ethanol, and dried at 120 &#x000b0;C. Caution: <italic>n</italic>-Bu<sub>4</sub>NMnO<sub>4</sub> can react violently with itself (the
+MnO<sub>4</sub><sup>&#x02013;</sup> anion can oxidize the <italic>n</italic>-Bu<sub>4</sub>N cation) and possibly catch fire; hence, it should
+be handled with appropriate care and stored under appropriate conditions
+(e.g<italic>.</italic>, refrigerated conditions).</p></sec><sec id="sec4.3"><title>Material Characterizations</title><p>Synchrotron powder XRD patterns
+with a wavelength of &#x003bb; = 0.775 &#x000c5; were collected at the
+BL5S2 beamline of the Aichi Synchrotron Radiation Center. Samples
+were charged into Lindeman glass capillaries of 0.5 mm diameter and
+measured with a rotating stage and a PILATUS 100K detector. Co and
+Mn K-edge X-ray absorption spectroscopy was carried out using the
+transmission method at the BL11S2 beamline of the Aichi Synchrotron
+Radiation Center. The XANES and EXAFS were analyzed using the Athena
+and Artemis programs.<sup><xref ref-type="bibr" rid="ref65">65</xref></sup> For the EXAFS analysis,
+the <italic>k</italic>-range of FT was 3&#x02013;14 &#x000c5;<sup>&#x02013;1</sup>, with a Hanning window of 1 &#x000c5;<sup>&#x02013;1</sup>, and the
+radial distance range of the inverse FT was 1&#x02013;3 &#x000c5;. Elemental
+analyses were performed using ICP-AES on an Optima 3300XL (PerkinElmer,
+Inc., Waltham, MA, USA). BET surface areas of CMOs were measured by
+N<sub>2</sub> adsorption at 77 K using a BELSORP18 (MicrotracBEL Corp.,
+Osaka, Japan). The masses of samples for the measurements were approximately
+0.1 g. Samples were dried at 120 &#x000b0;C under vacuum overnight and
+measured without exposure to air to prevent moisture absorption. SEM
+images were obtained on a Hitachi S-5500 (Hitachi High-Technologies
+Corporation, Tokyo, Japan) with an accelerating voltage of 5.0 kV.
+TEM images were obtained on a Hitachi H-9500 (Hitachi High-Technologies
+Corporation, Tokyo, Japan) with an accelerating voltage of 200 kV.</p></sec><sec id="sec4.4"><title>Electrochemical Measurements</title><p>Electrocatalytic performances
+of the synthesized catalysts were evaluated using an HZ-7000 potentiostat
+(HOKUTO DENKO Corp., Tokyo, Japan) equipped with an electrode rotator
+(HR-301, HOKUTO DENKO Corp.) and a rotating-disk electrode (RDE, 5
+mm diameter) formed of glassy carbon (disk area = 0.196 cm<sup>2</sup>). The working electrodes were prepared through the following procedures.
+A mixture of 1.0 mg of an oxide catalyst, 9.0 mg of the functionalized
+CNT, 0.12 mL of 3.3 wt % K<sup>+</sup> ion-exchanged Nafion, 0.42
+mL of IPA, and 1.46 mL of water was homogenized for 3 min in an ice
+bath and diluted using the same solvent mixture with Nafion to adjust
+the catalyst concentration followed by sonicating for 2 h to prepare
+catalyst slurry. The CNT was selected as conductive carbon to mix
+with low-conductive oxide catalysts because of its relatively high
+corrosion resistance. Then, 7 &#x003bc;L of the resulting slurry was
+dropped onto an RDE and dried by rotation with 600 rpm in air. The
+loading amount of the oxide catalysts was set to 0.63 cm<sup>2</sup><sub>BET</sub> cm<sup>&#x02013;2</sup><sub>disk</sub> and 0.018 mg
+cm<sup>&#x02013;2</sup><sub>disk</sub> for ORR and OER measurements,
+respectively. The electrode sample of IrO<sub>2</sub> was also prepared
+by the same protocol. The Pt/C catalyst slurry was also prepared by
+sonicating a mixture of Pt/C (10 mg), 5 wt % Nafion (0.2 mL), and
+ethanol (2.0 mL) for 3 h, and 4.2 &#x003bc;L of the resulting slurry
+was dropped onto the glassy carbon disk electrode and dried by rotation
+with 600 rpm in air.</p><p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf">Figure S3</ext-link> shows
+the setup of the electrochemical measurements. Hg/HgO (1 M KOH) and
+Pt were used as the reference and counter electrodes, respectively.
+The glass electrolysis cell includes a gas inlet, and electrolytes
+were saturated by N<sub>2</sub> (30 min) or O<sub>2</sub> (1 h) bubbling
+prior to measurements. The potential was converted to RHE. The calibration
+of Hg/HgO was conducted using Li et al.&#x02019;s method.<sup><xref ref-type="bibr" rid="ref66">66</xref></sup> For calibration, electrolyte solutions (i.e.,
+0.1 and 1 M KOH) were saturated with pure hydrogen by bubbling for
+60 min. Hg/HgO and Pt were used as the reference and counter electrodes,
+respectively. A Pt disk was used as the working electrode. Linear
+sweep voltammetry (LSV) curves were recorded at a scan rate of 1 mV
+s<sup>&#x02013;1</sup>. The recorded LSV curves are shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf">Figure S9</ext-link>. The potential of the LSV curve that
+crossed zero current was used to calibrate Hg/HgO to the RHE using <xref rid="eq1" ref-type="disp-formula">eqs <xref rid="eq1" ref-type="disp-formula">1</xref></xref> and <xref rid="eq2" ref-type="disp-formula">2</xref><disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04254_m001" position="anchor"/><label>1</label></disp-formula><disp-formula id="eq2"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04254_m002" position="anchor"/><label>2</label></disp-formula></p><p>The sample electrodes
+were pretreated by 10 cyclic voltammetry
+(CV) scans between 0.1 and 1.2 V vs. RHE at a scan rate of 50 mV s<sup>&#x02013;1</sup>. The Ohmic losses were corrected using <xref rid="eq3" ref-type="disp-formula">eq <xref rid="eq3" ref-type="disp-formula">3</xref></xref>, the measured current (<italic>i</italic>), and an electrolyte resistance (<italic>R</italic>),
+which was measured by ac impedance<disp-formula id="eq3"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04254_m003" position="anchor"/><label>3</label></disp-formula></p><p>The ORR activities of the oxides were examined
+by an LSV scan from
+0.1 to 1.1 V vs. RHE with an electrode rotation speed of 1600 rpm
+at a scan rate of 10 mV s<sup>&#x02013;1</sup> in O<sub>2</sub>-saturated
+0.1 M KOH at ambient temperature. Electrolyte solutions were saturated
+by O<sub>2</sub> bubbling for 1 h prior to the measurements. The background
+correction to cancel capacitive currents was carried out using an
+LSV curve in N<sub>2</sub>-saturated 0.1 M KOH without electrode rotation.<sup><xref ref-type="bibr" rid="ref67">67</xref></sup> The electron transfer number (<italic>n</italic>) during ORR was examined using an RRDE in O<sub>2</sub>-saturated
+0.1 M KOH solution at an electrode rotation speed of 1600 rpm. The
+ring potential was set at 1.39 V vs. RHE. The <italic>n</italic> was
+calculated using <xref rid="eq4" ref-type="disp-formula">eq <xref rid="eq4" ref-type="disp-formula">4</xref></xref>, where <italic>i</italic><sub>d</sub> is the disk current, <italic>i</italic><sub>r</sub> is the ring current, and <italic>N</italic> is the collection efficiency of the ring electrode (0.37)<disp-formula id="eq4"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04254_m004" position="anchor"/><label>4</label></disp-formula></p><p>Furthermore, the OER
+activities of the oxides were examined by
+CV scan sweeps between 1.2 and 1.8 V vs. RHE with an electrode rotation
+speed of 1600 rpm at a scan rate of 10 mV s<sup>&#x02013;1</sup> in
+O<sub>2</sub>-saturated 1 M KOH at ambient temperature. OER currents
+were obtained from taking the average of forward and backward sweep
+of the 10th cycle to ensure that the capacitive currents had been
+removed.<sup><xref ref-type="bibr" rid="ref68">68</xref></sup> Electrolyte solutions were saturated
+by O<sub>2</sub> bubbling for 1 h prior to the measurements. To compare
+the intrinsic activities of CMOs, ORR and OER specific activities
+were calculated by normalizing measured currents using BET specific
+surface areas.</p><p>The turnover frequencies (TOFs) of ORR and OER
+for CMOs were calculated
+by <xref rid="eq5" ref-type="disp-formula">eqs <xref rid="eq5" ref-type="disp-formula">5</xref></xref>(<xref ref-type="bibr" rid="ref69">69</xref>) and <xref rid="eq7" ref-type="disp-formula"><xref rid="eq7" ref-type="disp-formula">7</xref></xref>,<sup><xref ref-type="bibr" rid="ref70">70</xref></sup> respectively<disp-formula id="eq5"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04254_m005" position="anchor"/><label>5</label></disp-formula>where <italic>i</italic><sub>k</sub> is the ORR kinetic
+current, which is expressed by <xref rid="eq6" ref-type="disp-formula">eq <xref rid="eq6" ref-type="disp-formula">6</xref></xref>, and <italic>n</italic> is the moles of the loaded
+Co and Mn atoms on the RDE.<disp-formula id="eq6"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04254_m006" position="anchor"/><label>6</label></disp-formula>where <italic>i</italic> is
+measured ORR current at 0.75 V, and <italic>i</italic><sub>l</sub> is the ORR mass transport limited current.<disp-formula id="eq7"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04254_m007" position="anchor"/><label>7</label></disp-formula>where <italic>i</italic> is
+the OER current at 1.65 V, and <italic>n</italic> is the moles of
+the loaded Co and Mn atoms on the RDE.</p></sec></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsomega.0c04254?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsomega.0c04254</ext-link>.<list id="silist" list-type="simple"><list-item><p>Illustration of the setup
+for electrochemical measurements,
+additional experimental data of SEM images, electrochemical measurement
+results, and X-ray absorption spectroscopy analyses, as well as comparison
+of activities with previously reported ORR/OER bifunctional catalysts
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04254/suppl_file/ao0c04254_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04254_si_001.pdf"><caption><p>ao0c04254_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes2"><title>Author Contributions</title><p><sup>&#x000a7;</sup> Y.S. and H.K. contributed equally. The manuscript was written through
+contributions of all authors. All authors have given approval to the
+final version of the manuscript.</p></notes><notes notes-type="COI-statement" id="NOTES-d7e1506-autogenerated"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This study was performed under the Research Program
+of &#x0201c;Network Joint Research Center for Materials and Devices:
+Dynamic Alliance for Open Innovation Bridging Human, Environment and
+Materials&#x0201d;. The authors thank B. Eng. Satomi Ueno for the calibration
+of the reference electrode.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Gasteiger</surname><given-names>H. A.</given-names></name>; <name><surname>Kocha</surname><given-names>S. S.</given-names></name>; <name><surname>Sompalli</surname><given-names>B.</given-names></name>; <name><surname>Wagner</surname><given-names>F. T.</given-names></name>
+<article-title>Activity benchmarks
+and requirements for Pt, Pt-alloy, and non-Pt oxygen reduction catalysts
+for PEMFCs</article-title>. <source>Appl. Catal. B-Environ.</source>
+<year>2005</year>, <volume>56</volume>, <fpage>9</fpage>&#x02013;<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1016/j.apcatb.2004.06.021</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Lee</surname><given-names>Y.</given-names></name>; <name><surname>Suntivich</surname><given-names>J.</given-names></name>; <name><surname>May</surname><given-names>K. J.</given-names></name>; <name><surname>Perry</surname><given-names>E. E.</given-names></name>; <name><surname>Shao-Horn</surname><given-names>Y.</given-names></name>
+<article-title>Synthesis
+and Activities of Rutile IrO2 and RuO2 Nanoparticles for Oxygen Evolution
+in Acid and Alkaline Solutions</article-title>. <source>J. Phys. Chem.
+Lett.</source>
+<year>2012</year>, <volume>3</volume>, <fpage>399</fpage>&#x02013;<lpage>404</lpage>. <pub-id pub-id-type="doi">10.1021/jz2016507</pub-id>.<pub-id pub-id-type="pmid">26285858</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Tamaki</surname><given-names>T.</given-names></name>; <name><surname>Kuroki</surname><given-names>H.</given-names></name>; <name><surname>Ogura</surname><given-names>S.</given-names></name>; <name><surname>Fuchigami</surname><given-names>T.</given-names></name>; <name><surname>Kitamoto</surname><given-names>Y.</given-names></name>; <name><surname>Yamaguchi</surname><given-names>T.</given-names></name>
+<article-title>Connected
+nanoparticle catalysts
+possessing a porous, hollow capsule structure as carbon-free electrocatalysts
+for oxygen reduction in polymer electrolyte fuel cells</article-title>. <source>Energy Environ. Sci.</source>
+<year>2015</year>, <volume>8</volume>, <fpage>3545</fpage>&#x02013;<lpage>3549</lpage>. <pub-id pub-id-type="doi">10.1039/C5EE02450A</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Vincent</surname><given-names>I.</given-names></name>; <name><surname>Bessarabov</surname><given-names>D.</given-names></name>
+<article-title>Low cost hydrogen
+production by anion exchange membrane
+electrolysis: A review</article-title>. <source>Renew. Sust. Energ.
+Rev.</source>
+<year>2018</year>, <volume>81</volume>, <fpage>1690</fpage>&#x02013;<lpage>1704</lpage>. <pub-id pub-id-type="doi">10.1016/j.rser.2017.05.258</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Leng</surname><given-names>Y.</given-names></name>; <name><surname>Chen</surname><given-names>G.</given-names></name>; <name><surname>Mendoza</surname><given-names>A. J.</given-names></name>; <name><surname>Tighe</surname><given-names>T. B.</given-names></name>; <name><surname>Hickner</surname><given-names>M. A.</given-names></name>; <name><surname>Wang</surname><given-names>C. Y.</given-names></name>
+<article-title>Solid-State Water
+Electrolysis with an Alkaline Membrane</article-title>. <source>J. Am.
+Chem. Soc.</source>
+<year>2012</year>, <volume>134</volume>, <fpage>9054</fpage>&#x02013;<lpage>9057</lpage>. <pub-id pub-id-type="doi">10.1021/ja302439z</pub-id>.<pub-id pub-id-type="pmid">22587676</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Wright</surname><given-names>A. G.</given-names></name>; <name><surname>Weissbach</surname><given-names>T.</given-names></name>; <name><surname>Holdcroft</surname><given-names>S.</given-names></name>
+<article-title>Poly(phenylene) and m-Terphenyl as
+Powerful Protecting Groups for the Preparation of Stable Organic Hydroxides</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2016</year>, <volume>55</volume>, <fpage>4818</fpage>&#x02013;<lpage>4821</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201511184</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Miyanishi</surname><given-names>S.</given-names></name>; <name><surname>Yamaguchi</surname><given-names>T.</given-names></name>
+<article-title>Highly durable spirobifluorene-based aromatic anion
+conducting polymer for a solid ionomer of alkaline fuel cells and
+water electrolysis cells</article-title>. <source>J. Mater. Chem. A</source>
+<year>2019</year>, <volume>7</volume>, <fpage>2219</fpage>&#x02013;<lpage>2224</lpage>. <pub-id pub-id-type="doi">10.1039/C8TA08400A</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Noh</surname><given-names>S.</given-names></name>; <name><surname>Jeon</surname><given-names>J. Y.</given-names></name>; <name><surname>Adhikari</surname><given-names>S.</given-names></name>; <name><surname>Kim</surname><given-names>Y. S.</given-names></name>; <name><surname>Bae</surname><given-names>C.</given-names></name>
+<article-title>Molecular
+Engineering of Hydroxide Conducting Polymers for Anion Exchange Membranes
+in Electrochemical Energy Conversion Technology</article-title>. <source>Accounts Chem. Res.</source>
+<year>2019</year>, <volume>52</volume>, <fpage>2745</fpage>&#x02013;<lpage>2755</lpage>. <pub-id pub-id-type="doi">10.1021/acs.accounts.9b00355</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Vesborg</surname><given-names>P. C. K.</given-names></name>; <name><surname>Jaramillo</surname><given-names>T. F.</given-names></name>
+<article-title>Addressing
+the terawatt challenge: scalability in the
+supply of chemical elements for renewable energy</article-title>. <source>RSC Adv.</source>
+<year>2012</year>, <volume>2</volume>, <fpage>7933</fpage>&#x02013;<lpage>7947</lpage>. <pub-id pub-id-type="doi">10.1039/c2ra20839c</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Suntivich</surname><given-names>J.</given-names></name>; <name><surname>Gasteiger</surname><given-names>H. A.</given-names></name>; <name><surname>Yabuuchi</surname><given-names>N.</given-names></name>; <name><surname>Nakanishi</surname><given-names>H.</given-names></name>; <name><surname>Goodenough</surname><given-names>J. B.</given-names></name>; <name><surname>Shao-Horn</surname><given-names>Y.</given-names></name>
+<article-title>Design principles for oxygen-reduction
+activity on perovskite oxide catalysts for fuel cells and metal-air
+batteries</article-title>. <source>Nat. Chem.</source>
+<year>2011</year>, <volume>3</volume>, <fpage>546</fpage>&#x02013;<lpage>550</lpage>. <pub-id pub-id-type="doi">10.1038/nchem.1069</pub-id>.<pub-id pub-id-type="pmid">21697876</pub-id></mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Suntivich</surname><given-names>J.</given-names></name>; <name><surname>May</surname><given-names>K. J.</given-names></name>; <name><surname>Gasteiger</surname><given-names>H. A.</given-names></name>; <name><surname>Goodenough</surname><given-names>J. B.</given-names></name>; <name><surname>Shao-Horn</surname><given-names>Y.</given-names></name>
+<article-title>A Perovskite Oxide Optimized for Oxygen Evolution Catalysis
+from Molecular Orbital Principles</article-title>. <source>Science</source>
+<year>2011</year>, <volume>334</volume>, <fpage>1383</fpage>&#x02013;<lpage>1385</lpage>. <pub-id pub-id-type="doi">10.1126/science.1212858</pub-id>.<pub-id pub-id-type="pmid">22033519</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Louie</surname><given-names>M. W.</given-names></name>; <name><surname>Bell</surname><given-names>A. T.</given-names></name>
+<article-title>An Investigation of Thin-Film Ni-Fe
+Oxide Catalysts
+for the Electrochemical Evolution of Oxygen</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2013</year>, <volume>135</volume>, <fpage>12329</fpage>&#x02013;<lpage>12337</lpage>. <pub-id pub-id-type="doi">10.1021/ja405351s</pub-id>.<pub-id pub-id-type="pmid">23859025</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Dessie</surname><given-names>Y.</given-names></name>; <name><surname>Tadesse</surname><given-names>S.</given-names></name>; <name><surname>Eswaramoorthy</surname><given-names>R.</given-names></name>; <name><surname>Abebe</surname><given-names>B.</given-names></name>
+<article-title>Recent developments
+in manganese oxide based nanomaterials with oxygen reduction reaction
+functionalities for energy conversion and storage applications: A
+review</article-title>. <source>J. Sci.-Adv. Mater. Dev.</source>
+<year>2019</year>, <volume>4</volume>, <fpage>353</fpage>&#x02013;<lpage>369</lpage>. <pub-id pub-id-type="doi">10.1016/j.jsamd.2019.07.001</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Dessie</surname><given-names>Y.</given-names></name>; <name><surname>Tadesse</surname><given-names>S.</given-names></name>; <name><surname>Eswaramoorthy</surname><given-names>R.</given-names></name>
+<article-title>Review on
+manganese oxide based biocatalyst
+in microbial fuel cell: Nanocomposite approach</article-title>. <source>Mater. Sci. Energy Technol.</source>
+<year>2020</year>, <volume>3</volume>, <fpage>136</fpage>&#x02013;<lpage>149</lpage>. <pub-id pub-id-type="doi">10.1016/j.mset.2019.11.001</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Feng</surname><given-names>Y.</given-names></name>; <name><surname>Yu</surname><given-names>X. Y.</given-names></name>; <name><surname>Paik</surname><given-names>U.</given-names></name>
+<article-title>Nickel cobalt
+phosphides quasi-hollow
+nanocubes as an efficient electrocatalyst for hydrogen evolution in
+alkaline solution</article-title>. <source>Chem. Commun.</source>
+<year>2016</year>, <volume>52</volume>, <fpage>1633</fpage>&#x02013;<lpage>1636</lpage>. <pub-id pub-id-type="doi">10.1039/C5CC08991C</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Heo</surname><given-names>Y.</given-names></name>; <name><surname>Choi</surname><given-names>S.</given-names></name>; <name><surname>Bak</surname><given-names>J.</given-names></name>; <name><surname>Kim</surname><given-names>H. S.</given-names></name>; <name><surname>Bae</surname><given-names>H. B.</given-names></name>; <name><surname>Chung</surname><given-names>S. Y.</given-names></name>
+<article-title>Symmetry-Broken Atom Configurations at Grain Boundaries
+and Oxygen Evolution Electrocatalysis in Perovskite Oxides</article-title>. <source>Adv. Energy Mater.</source>
+<year>2018</year>, <volume>8</volume>, <fpage>10</fpage><pub-id pub-id-type="doi">10.1002/aenm.201802481</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Sankar</surname><given-names>S.</given-names></name>; <name><surname>Sugawara</surname><given-names>Y.</given-names></name>; <name><surname>Aravindh</surname><given-names>S. A.</given-names></name>; <name><surname>Jose</surname><given-names>R.</given-names></name>; <name><surname>Tamaki</surname><given-names>T.</given-names></name>; <name><surname>Anilkumar</surname><given-names>G. M.</given-names></name>; <name><surname>Yamaguchi</surname><given-names>T.</given-names></name>
+<article-title>Tuning Palladium Nickel Phosphide
+toward Efficient Oxygen Evolution Performance</article-title>. <source>ACS Appl. Energ. Mater.</source>
+<year>2020</year>, <volume>3</volume>, <fpage>879</fpage>&#x02013;<lpage>888</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.9b01996</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Liu</surname><given-names>Q.</given-names></name>; <name><surname>Jin</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>
+<article-title>NiCO2S4@graphene
+as a Bifunctional Electrocatalyst
+for Oxygen Reduction and Evolution Reactions</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2013</year>, <volume>5</volume>, <fpage>5002</fpage>&#x02013;<lpage>5008</lpage>. <pub-id pub-id-type="doi">10.1021/am4007897</pub-id>.<pub-id pub-id-type="pmid">23662625</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Zheng</surname><given-names>Y.</given-names></name>; <name><surname>Jiao</surname><given-names>Y.</given-names></name>; <name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>Cai</surname><given-names>Q.</given-names></name>; <name><surname>Vasileff</surname><given-names>A.</given-names></name>; <name><surname>Li</surname><given-names>L. H.</given-names></name>; <name><surname>Han</surname><given-names>Y.</given-names></name>; <name><surname>Chen</surname><given-names>Y.</given-names></name>; <name><surname>Qiao</surname><given-names>S. Z.</given-names></name>
+<article-title>Molecule-Level
+g-C3N4 Coordinated Transition Metals as a New Class of Electrocatalysts
+for Oxygen Electrode Reactions</article-title>. <source>J. Am. Chem.
+Soc.</source>
+<year>2017</year>, <volume>139</volume>, <fpage>3336</fpage>&#x02013;<lpage>3339</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.6b13100</pub-id>.<pub-id pub-id-type="pmid">28221033</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Masud</surname><given-names>J.</given-names></name>; <name><surname>Swesi</surname><given-names>A. T.</given-names></name>; <name><surname>Liyanage</surname><given-names>W. P. R.</given-names></name>; <name><surname>Nath</surname><given-names>M.</given-names></name>
+<article-title>Cobalt Selenide Nanostructures:
+An Efficient Bifunctional Catalyst with High Current Density at Low
+Coverage</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2016</year>, <volume>8</volume>, <fpage>17292</fpage>&#x02013;<lpage>17302</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.6b04862</pub-id>.<pub-id pub-id-type="pmid">27309595</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Zhao</surname><given-names>Z.</given-names></name>; <name><surname>Xia</surname><given-names>Z.</given-names></name>; <name><surname>Dai</surname><given-names>L.</given-names></name>
+<article-title>A metal-free
+bifunctional
+electrocatalyst for oxygen reduction and oxygen evolution reactions</article-title>. <source>Nat. Nanotechnol.</source>
+<year>2015</year>, <volume>10</volume>, <fpage>444</fpage>&#x02013;<lpage>452</lpage>. <pub-id pub-id-type="doi">10.1038/nnano.2015.48</pub-id>.<pub-id pub-id-type="pmid">25849787</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Unni</surname><given-names>S. M.</given-names></name>; <name><surname>Anilkumar</surname><given-names>G. M.</given-names></name>; <name><surname>Matsumoto</surname><given-names>M.</given-names></name>; <name><surname>Tamaki</surname><given-names>T.</given-names></name>; <name><surname>Imai</surname><given-names>H.</given-names></name>; <name><surname>Yamaguchi</surname><given-names>T.</given-names></name>
+<article-title>Direct synthesis
+of a carbon nanotube interpenetrated
+doped porous carbon alloy as a durable Pt-free electrocatalyst for
+the oxygen reduction reaction in an alkaline medium</article-title>. <source>Sustain. Energ. Fuels</source>
+<year>2017</year>, <volume>1</volume>, <fpage>1524</fpage>&#x02013;<lpage>1532</lpage>. <pub-id pub-id-type="doi">10.1039/C7SE00249A</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Morales-Guio</surname><given-names>C. G.</given-names></name>; <name><surname>Liardet</surname><given-names>L.</given-names></name>; <name><surname>Hu</surname><given-names>X.</given-names></name>
+<article-title>Oxidatively Electrodeposited Thin-Film
+Transition Metal (Oxy)hydroxides as Oxygen Evolution Catalysts</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2016</year>, <volume>138</volume>, <fpage>8946</fpage>&#x02013;<lpage>8957</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.6b05196</pub-id>.<pub-id pub-id-type="pmid">27344954</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Li</surname><given-names>M.</given-names></name>; <name><surname>Xiong</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>Bo</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Han</surname><given-names>C.</given-names></name>; <name><surname>Guo</surname><given-names>L.</given-names></name>
+<article-title>Facile synthesis
+of electrospun MFe2O4 (M = Co, Ni,
+Cu, Mn) spinel nanofibers with excellent electrocatalytic properties
+for oxygen evolution and hydrogen peroxide reduction</article-title>. <source>Nanoscale</source>
+<year>2015</year>, <volume>7</volume>, <fpage>8920</fpage>&#x02013;<lpage>8930</lpage>. <pub-id pub-id-type="doi">10.1039/C4NR07243J</pub-id>.<pub-id pub-id-type="pmid">25917286</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Yamada</surname><given-names>I.</given-names></name>; <name><surname>Takamatsu</surname><given-names>A.</given-names></name>; <name><surname>Asai</surname><given-names>K.</given-names></name>; <name><surname>Shirakawa</surname><given-names>T.</given-names></name>; <name><surname>Ohzuku</surname><given-names>H.</given-names></name>; <name><surname>Seno</surname><given-names>A.</given-names></name>; <name><surname>Uchimura</surname><given-names>T.</given-names></name>; <name><surname>Fujii</surname><given-names>H.</given-names></name>; <name><surname>Kawaguchi</surname><given-names>S.</given-names></name>; <name><surname>Wada</surname><given-names>K.</given-names></name>; <name><surname>Ikeno</surname><given-names>H.</given-names></name>; <name><surname>Yagi</surname><given-names>S.</given-names></name>
+<article-title>Systematic
+Study of Descriptors for Oxygen Evolution Reaction Catalysis in Perovskite
+Oxides</article-title>. <source>J. Phys. Chem. C</source>
+<year>2018</year>, <volume>122</volume>, <fpage>27885</fpage>&#x02013;<lpage>27892</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.8b09287</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Lima</surname><given-names>F. H. B.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Shao</surname><given-names>M. H.</given-names></name>; <name><surname>Sasaki</surname><given-names>K.</given-names></name>; <name><surname>Vukmirovic</surname><given-names>M. B.</given-names></name>; <name><surname>Ticianelli</surname><given-names>E. A.</given-names></name>; <name><surname>Adzic</surname><given-names>R. R.</given-names></name>
+<article-title>Catalytic activity-d-band
+center
+correlation for the O-2 reduction reaction on platinum in alkaline
+solutions</article-title>. <source>J. Phys. Chem. C</source>
+<year>2007</year>, <volume>111</volume>, <fpage>404</fpage>&#x02013;<lpage>410</lpage>. <pub-id pub-id-type="doi">10.1021/jp065181r</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Grimaud</surname><given-names>A.</given-names></name>; <name><surname>May</surname><given-names>K. J.</given-names></name>; <name><surname>Carlton</surname><given-names>C. E.</given-names></name>; <name><surname>Lee</surname><given-names>Y. L.</given-names></name>; <name><surname>Risch</surname><given-names>M.</given-names></name>; <name><surname>Hong</surname><given-names>W. T.</given-names></name>; <name><surname>Zhou</surname><given-names>J. G.</given-names></name>; <name><surname>Shao-Horn</surname><given-names>Y.</given-names></name>
+<article-title>Double perovskites
+as a family of highly active catalysts for oxygen evolution in alkaline
+solution</article-title>. <source>Nat. Commun.</source>
+<year>2013</year>, <volume>4</volume>, <fpage>7</fpage><pub-id pub-id-type="doi">10.1038/ncomms3439</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Suntivich</surname><given-names>J.</given-names></name>; <name><surname>Hong</surname><given-names>W. T.</given-names></name>; <name><surname>Lee</surname><given-names>Y. L.</given-names></name>; <name><surname>Rondinelli</surname><given-names>J. M.</given-names></name>; <name><surname>Yang</surname><given-names>W.</given-names></name>; <name><surname>Goodenough</surname><given-names>J. B.</given-names></name>; <name><surname>Dabrowski</surname><given-names>B.</given-names></name>; <name><surname>Freeland</surname><given-names>J. W.</given-names></name>; <name><surname>Shao-Horn</surname><given-names>Y.</given-names></name>
+<article-title>Estimating
+Hybridization of Transition
+Metal and Oxygen States in Perovskites, from O K-edge X-ray Absorption
+Spectroscopy</article-title>. <source>J. Phys. Chem. C</source>
+<year>2014</year>, <volume>118</volume>, <fpage>1856</fpage>&#x02013;<lpage>1863</lpage>. <pub-id pub-id-type="doi">10.1021/jp410644j</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Calle-Vallejo</surname><given-names>F.</given-names></name>; <name><surname>D&#x000ed;az-Morales</surname><given-names>O. A.</given-names></name>; <name><surname>Kolb</surname><given-names>M. J.</given-names></name>; <name><surname>Koper</surname><given-names>M. T. M.</given-names></name>
+<article-title>Why
+Is Bulk Thermochemistry a Good Descriptor for the Electrocatalytic
+Activity of Transition Metal Oxides?</article-title>. <source>ACS Catal.</source>
+<year>2015</year>, <volume>5</volume>, <fpage>869</fpage>&#x02013;<lpage>873</lpage>. <pub-id pub-id-type="doi">10.1021/cs5016657</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Hong</surname><given-names>W. T.</given-names></name>; <name><surname>Stoerzinger</surname><given-names>K. A.</given-names></name>; <name><surname>Lee</surname><given-names>Y. L.</given-names></name>; <name><surname>Giordano</surname><given-names>L.</given-names></name>; <name><surname>Grimaud</surname><given-names>A.</given-names></name>; <name><surname>Johnson</surname><given-names>A. M.</given-names></name>; <name><surname>Hwang</surname><given-names>J.</given-names></name>; <name><surname>Crumlin</surname><given-names>E. J.</given-names></name>; <name><surname>Yang</surname><given-names>W.</given-names></name>; <name><surname>Shao-Horn</surname><given-names>Y.</given-names></name>
+<article-title>Charge-transfer-energy-dependent oxygen evolution reaction
+mechanisms for perovskite oxides</article-title>. <source>Energy Environ.
+Sci.</source>
+<year>2017</year>, <volume>10</volume>, <fpage>2190</fpage>&#x02013;<lpage>2200</lpage>. <pub-id pub-id-type="doi">10.1039/C7EE02052J</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="undeclared" id="cit31"><person-group person-group-type="allauthors"><name><surname>Sugawara</surname><given-names>Y.</given-names></name>; <name><surname>Kamata</surname><given-names>K.</given-names></name>; <name><surname>Ishikawa</surname><given-names>A.</given-names></name>; <name><surname>Tateyama</surname><given-names>Y.</given-names></name>; <name><surname>Yamaguchi</surname><given-names>T.</given-names></name></person-group><article-title>Efficient Oxygen
+Evolution Electrocatalysis on CaFe<sub>2</sub>O<sub>4</sub> and its
+Reaction Mechanism. submitted</article-title>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Kakizaki</surname><given-names>H.</given-names></name>; <name><surname>Ooka</surname><given-names>H.</given-names></name>; <name><surname>Hayashi</surname><given-names>T.</given-names></name>; <name><surname>Yamaguchi</surname><given-names>A.</given-names></name>; <name><surname>Bonnet-Mercier</surname><given-names>N.</given-names></name>; <name><surname>Hashimoto</surname><given-names>K.</given-names></name>; <name><surname>Nakamura</surname><given-names>R.</given-names></name>
+<article-title>Evidence that Crystal
+Facet Orientation Dictates Oxygen Evolution Intermediates on Rutile
+Manganese Oxide</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2018</year>, <volume>28</volume>, <fpage>7</fpage><pub-id pub-id-type="doi">10.1002/adfm.201706319</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Maiyalagan</surname><given-names>T.</given-names></name>; <name><surname>Chemelewski</surname><given-names>K. R.</given-names></name>; <name><surname>Manthiram</surname><given-names>A.</given-names></name>
+<article-title>Role of the Morphology and Surface
+Planes on the Catalytic Activity of Spinel LiMn1.5Ni0.5O4 for Oxygen
+Evolution Reaction</article-title>. <source>ACS Catal.</source>
+<year>2014</year>, <volume>4</volume>, <fpage>421</fpage>&#x02013;<lpage>425</lpage>. <pub-id pub-id-type="doi">10.1021/cs400981d</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Yagi</surname><given-names>S.</given-names></name>; <name><surname>Yamada</surname><given-names>I.</given-names></name>; <name><surname>Tsukasaki</surname><given-names>H.</given-names></name>; <name><surname>Seno</surname><given-names>A.</given-names></name>; <name><surname>Murakami</surname><given-names>M.</given-names></name>; <name><surname>Fujii</surname><given-names>H.</given-names></name>; <name><surname>Chen</surname><given-names>H.</given-names></name>; <name><surname>Umezawa</surname><given-names>N.</given-names></name>; <name><surname>Abe</surname><given-names>H.</given-names></name>; <name><surname>Nishiyama</surname><given-names>N.</given-names></name>; <name><surname>Mori</surname><given-names>S.</given-names></name>
+<article-title>Covalency-reinforced oxygen evolution
+reaction catalyst</article-title>. <source>Nat. Commun.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>6</fpage><pub-id pub-id-type="doi">10.1038/ncomms9249</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Yamada</surname><given-names>I.</given-names></name>; <name><surname>Fujii</surname><given-names>H.</given-names></name>; <name><surname>Takamatsu</surname><given-names>A.</given-names></name>; <name><surname>Ikeno</surname><given-names>H.</given-names></name>; <name><surname>Wada</surname><given-names>K.</given-names></name>; <name><surname>Tsukasaki</surname><given-names>H.</given-names></name>; <name><surname>Kawaguchi</surname><given-names>S.</given-names></name>; <name><surname>Mori</surname><given-names>S.</given-names></name>; <name><surname>Yagi</surname><given-names>S.</given-names></name>
+<article-title>Bifunctional
+Oxygen Reaction Catalysis of Quadruple Manganese Perovskites</article-title>. <source>Adv. Mater.</source>
+<year>2017</year>, <volume>29</volume>, <fpage>6</fpage><pub-id pub-id-type="doi">10.1002/adma.201603004</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Li</surname><given-names>H. Y.</given-names></name>; <name><surname>Chen</surname><given-names>Y. B.</given-names></name>; <name><surname>Xi</surname><given-names>S. B.</given-names></name>; <name><surname>Wang</surname><given-names>J. X.</given-names></name>; <name><surname>Sun</surname><given-names>S. N.</given-names></name>; <name><surname>Sun</surname><given-names>Y. M.</given-names></name>; <name><surname>Du</surname><given-names>Y. H.</given-names></name>; <name><surname>Xu</surname><given-names>Z. C. J.</given-names></name>
+<article-title>Degree of Geometric
+Tilting Determines the Activity of FeO6 Octahedra for Water Oxidation</article-title>. <source>Chem. Mat.</source>
+<year>2018</year>, <volume>30</volume>, <fpage>4313</fpage>&#x02013;<lpage>4320</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemmater.8b01321</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Long</surname><given-names>X.</given-names></name>; <name><surname>Yu</surname><given-names>P.</given-names></name>; <name><surname>Zhang</surname><given-names>N.</given-names></name>; <name><surname>Li</surname><given-names>C.</given-names></name>; <name><surname>Feng</surname><given-names>X.</given-names></name>; <name><surname>Ren</surname><given-names>G.</given-names></name>; <name><surname>Zheng</surname><given-names>S.</given-names></name>; <name><surname>Fu</surname><given-names>J.</given-names></name>; <name><surname>Cheng</surname><given-names>F.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>
+<article-title>Direct Spectroscopy
+for Probing the Critical Role of Partial Covalency in Oxygen Reduction
+Reaction for Cobalt-Manganese Spinel Oxides</article-title>. <source>Nanomaterials</source>
+<year>2019</year>, <volume>9</volume>, <fpage>12</fpage><pub-id pub-id-type="doi">10.3390/nano9040577</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Bergmann</surname><given-names>A.</given-names></name>; <name><surname>Zaharieva</surname><given-names>I.</given-names></name>; <name><surname>Dau</surname><given-names>H.</given-names></name>; <name><surname>Strasser</surname><given-names>P.</given-names></name>
+<article-title>Electrochemical
+water
+splitting by layered and 3D cross-linked manganese oxides: correlating
+structural motifs and catalytic activity</article-title>. <source>Energy
+Environ. Sci.</source>
+<year>2013</year>, <volume>6</volume>, <fpage>2745</fpage>&#x02013;<lpage>2755</lpage>. <pub-id pub-id-type="doi">10.1039/c3ee41194j</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Speck</surname><given-names>F. D.</given-names></name>; <name><surname>Santori</surname><given-names>P. G.</given-names></name>; <name><surname>Jaouen</surname><given-names>F.</given-names></name>; <name><surname>Cherevko</surname><given-names>S.</given-names></name>
+<article-title>Mechanisms of Manganese
+Oxide Electrocatalysts Degradation during Oxygen Reduction and Oxygen
+Evolution Reactions</article-title>. <source>J. Phys. Chem. C</source>
+<year>2019</year>, <volume>123</volume>, <fpage>25267</fpage>&#x02013;<lpage>25277</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.9b07751</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Hu</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>S.</given-names></name>; <name><surname>Chu</surname><given-names>J.</given-names></name>; <name><surname>Niu</surname><given-names>S.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Du</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>Z.</given-names></name>; <name><surname>Han</surname><given-names>X.</given-names></name>; <name><surname>Xu</surname><given-names>P.</given-names></name>
+<article-title>Understanding the Phase-Induced
+Electrocatalytic
+Oxygen Evolution Reaction Activity on FeOOH Nanostructures</article-title>. <source>ACS Catal.</source>
+<year>2019</year>, <volume>9</volume>, <fpage>10705</fpage>&#x02013;<lpage>10711</lpage>. <pub-id pub-id-type="doi">10.1021/acscatal.9b03876</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Wu</surname><given-names>Z. P.</given-names></name>; <name><surname>Shan</surname><given-names>S.</given-names></name>; <name><surname>Xie</surname><given-names>Z. H.</given-names></name>; <name><surname>Kang</surname><given-names>N.</given-names></name>; <name><surname>Park</surname><given-names>K.</given-names></name>; <name><surname>Hopkins</surname><given-names>E.</given-names></name>; <name><surname>Yan</surname><given-names>S.</given-names></name>; <name><surname>Sharma</surname><given-names>A.</given-names></name>; <name><surname>Luo</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Petkov</surname><given-names>V.</given-names></name>; <name><surname>Wang</surname><given-names>L.</given-names></name>; <name><surname>Zhong</surname><given-names>C. J.</given-names></name>
+<article-title>Revealing
+the Role of Phase Structures of Bimetallic Nanocatalysts in the Oxygen
+Reduction Reaction</article-title>. <source>ACS Catal.</source>
+<year>2018</year>, <volume>8</volume>, <fpage>11302</fpage>&#x02013;<lpage>11313</lpage>. <pub-id pub-id-type="doi">10.1021/acscatal.8b03106</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Amiinu</surname><given-names>I. S.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>Pu</surname><given-names>Z.</given-names></name>; <name><surname>Li</surname><given-names>W.</given-names></name>; <name><surname>Li</surname><given-names>Q.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Tang</surname><given-names>H.</given-names></name>; <name><surname>Zhang</surname><given-names>H.</given-names></name>; <name><surname>Mu</surname><given-names>S.</given-names></name>
+<article-title>From 3D ZIF
+Nanocrystals
+to Co-N-x/C Nanorod Array Electrocatalysts for ORR, OER, and Zn-Air
+Batteries</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2018</year>, <volume>28</volume>, <fpage>9</fpage><pub-id pub-id-type="doi">10.1002/adfm.201704638</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Liang</surname><given-names>H. W.</given-names></name>; <name><surname>Wei</surname><given-names>W.</given-names></name>; <name><surname>Wu</surname><given-names>Z. S.</given-names></name>; <name><surname>Feng</surname><given-names>X.</given-names></name>; <name><surname>Mullen</surname><given-names>K.</given-names></name>
+<article-title>Mesoporous Metal-Nitrogen-Doped
+Carbon Electrocatalysts for Highly Efficient Oxygen Reduction Reaction</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2013</year>, <volume>135</volume>, <fpage>16002</fpage>&#x02013;<lpage>16005</lpage>. <pub-id pub-id-type="doi">10.1021/ja407552k</pub-id>.<pub-id pub-id-type="pmid">24128393</pub-id></mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Jahan</surname><given-names>M.</given-names></name>; <name><surname>Liu</surname><given-names>Z.</given-names></name>; <name><surname>Loh</surname><given-names>K. P.</given-names></name>
+<article-title>A Graphene
+Oxide and Copper-Centered Metal Organic
+Framework Composite as a Tri-Functional Catalyst for HER, OER, and
+ORR</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2013</year>, <volume>23</volume>, <fpage>5363</fpage>&#x02013;<lpage>5372</lpage>. <pub-id pub-id-type="doi">10.1002/adfm.201300510</pub-id>.</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Zhao</surname><given-names>E.</given-names></name>; <name><surname>Li</surname><given-names>Q.</given-names></name>; <name><surname>Meng</surname><given-names>F.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>He</surname><given-names>L.</given-names></name>; <name><surname>Jiang</surname><given-names>Z.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>; <name><surname>Yu</surname><given-names>X.</given-names></name>; <name><surname>Gu</surname><given-names>L.</given-names></name>; <name><surname>Yang</surname><given-names>W.</given-names></name>; <name><surname>Li</surname><given-names>H.</given-names></name>; <name><surname>Wang</surname><given-names>F.</given-names></name>; <name><surname>Huang</surname><given-names>X.</given-names></name>
+<article-title>Stabilizing
+the Oxygen Lattice and Reversible Oxygen Redox Chemistry through Structural
+Dimensionality in Lithium-Rich Cathode Oxides</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2019</year>, <volume>58</volume>, <fpage>4323</fpage>&#x02013;<lpage>4327</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201900444</pub-id>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Miyamoto</surname><given-names>Y.</given-names></name>; <name><surname>Kuroda</surname><given-names>Y.</given-names></name>; <name><surname>Uematsu</surname><given-names>T.</given-names></name>; <name><surname>Oshikawa</surname><given-names>H.</given-names></name>; <name><surname>Shibata</surname><given-names>N.</given-names></name>; <name><surname>Ikuhara</surname><given-names>Y.</given-names></name>; <name><surname>Suzuki</surname><given-names>K.</given-names></name>; <name><surname>Hibino</surname><given-names>M.</given-names></name>; <name><surname>Yamaguchi</surname><given-names>K.</given-names></name>; <name><surname>Mizuno</surname><given-names>N.</given-names></name>
+<article-title>Rational Low-Temperature Synthesis of Ultrasmall Nanocrystalline
+Manganese Binary Oxide Catalysts under Controlled Metal Cation Hydration
+in Organic Media</article-title>. <source>ChemNanoMat</source>
+<year>2016</year>, <volume>2</volume>, <fpage>297</fpage>&#x02013;<lpage>306</lpage>. <pub-id pub-id-type="doi">10.1002/cnma.201600034</pub-id>.</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Momma</surname><given-names>K.</given-names></name>; <name><surname>Izumi</surname><given-names>F.</given-names></name>
+<article-title>VESTA 3 for three-dimensional visualization of crystal, volumetric
+and morphology data</article-title>. <source>J. Appl. Crystallogr.</source>
+<year>2011</year>, <volume>44</volume>, <fpage>1272</fpage>&#x02013;<lpage>1276</lpage>. <pub-id pub-id-type="doi">10.1107/S0021889811038970</pub-id>.</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Luo</surname><given-names>J.</given-names></name>; <name><surname>Huang</surname><given-names>A.</given-names></name>; <name><surname>Park</surname><given-names>S. H.</given-names></name>; <name><surname>Suib</surname><given-names>S. L.</given-names></name>; <name><surname>O&#x02019;Young</surname><given-names>C. L.</given-names></name>
+<article-title>Crystallization
+of sodium-birnessite and accompanied phase transformation</article-title>. <source>Chem. Mater.</source>
+<year>1998</year>, <volume>10</volume>, <fpage>1561</fpage>&#x02013;<lpage>1568</lpage>. <pub-id pub-id-type="doi">10.1021/cm970745c</pub-id>.</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Feng</surname><given-names>Q.</given-names></name>; <name><surname>Kanoh</surname><given-names>H.</given-names></name>; <name><surname>Ooi</surname><given-names>K.</given-names></name>
+<article-title>Manganese
+oxide porous crystals</article-title>. <source>J. Mater. Chem.</source>
+<year>1999</year>, <volume>9</volume>, <fpage>319</fpage>&#x02013;<lpage>333</lpage>. <pub-id pub-id-type="doi">10.1039/a805369c</pub-id>.</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Luo</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>; <name><surname>Huang</surname><given-names>A.</given-names></name>; <name><surname>Giraldo</surname><given-names>O.</given-names></name>; <name><surname>Suib</surname><given-names>S. L.</given-names></name>
+<article-title>Double-aging
+method for preparation of stabilized Na-buserite and transformations
+to todorokites incorporated with various metals</article-title>. <source>Inorg. Chem.</source>
+<year>1999</year>, <volume>38</volume>, <fpage>6106</fpage>&#x02013;<lpage>6113</lpage>. <pub-id pub-id-type="doi">10.1021/ic980675r</pub-id>.<pub-id pub-id-type="pmid">11671320</pub-id></mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Shen</surname><given-names>Y. F.</given-names></name>; <name><surname>Suib</surname><given-names>S. L.</given-names></name>; <name><surname>Oyoung</surname><given-names>C. L.</given-names></name>
+<article-title>EFFECTS
+OF INORGANIC CATION TEMPLATES
+ON OCTAHEDRAL MOLECULAR-SIEVES OF MANGANESE OXIDE</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>1994</year>, <volume>116</volume>, <fpage>11020</fpage>&#x02013;<lpage>11029</lpage>. <pub-id pub-id-type="doi">10.1021/ja00103a018</pub-id>.</mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Yamaguchi</surname><given-names>H.</given-names></name>; <name><surname>Yamada</surname><given-names>A.</given-names></name>; <name><surname>Uwe</surname><given-names>H.</given-names></name>
+<article-title>Jahn-Teller transition of LiMn2O4
+studied by x-ray-absorption spectroscopy</article-title>. <source>Phys.
+Rev. B</source>
+<year>1998</year>, <volume>58</volume>, <fpage>8</fpage>&#x02013;<lpage>11</lpage>. <pub-id pub-id-type="doi">10.1103/PhysRevB.58.8</pub-id>.</mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Kobayashi</surname><given-names>H.</given-names></name>; <name><surname>Yamaguchi</surname><given-names>K.</given-names></name>; <name><surname>Honma</surname><given-names>I.</given-names></name>
+<article-title>Rapid room-temperature synthesis
+of ultrasmall cubic Mg-Mn spinel cathode materials for rechargeable
+Mg-ion batteries</article-title>. <source>RSC Adv.</source>
+<year>2019</year>, <volume>9</volume>, <fpage>36434</fpage>&#x02013;<lpage>36439</lpage>. <pub-id pub-id-type="doi">10.1039/C9RA08626A</pub-id>.</mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Abidat</surname><given-names>I.</given-names></name>; <name><surname>Bouchenafa-Saib</surname><given-names>N.</given-names></name>; <name><surname>Habrioux</surname><given-names>A.</given-names></name>; <name><surname>Comminges</surname><given-names>C.</given-names></name>; <name><surname>Canaff</surname><given-names>C.</given-names></name>; <name><surname>Rousseau</surname><given-names>J.</given-names></name>; <name><surname>Napporn</surname><given-names>T. W.</given-names></name>; <name><surname>Dambournet</surname><given-names>D.</given-names></name>; <name><surname>Borkiewicz</surname><given-names>O.</given-names></name>; <name><surname>Kokoh</surname><given-names>K. B.</given-names></name>
+<article-title>Electrochemically induced surface
+modifications of mesoporous spinets (Co3O4-delta, MnCo2O4-delta, NiCo2O4-delta)
+as the origin of the OER activity and stability in alkaline medium</article-title>. <source>J. Mater. Chem. A</source>
+<year>2015</year>, <volume>3</volume>, <fpage>17433</fpage>&#x02013;<lpage>17444</lpage>. <pub-id pub-id-type="doi">10.1039/C5TA04437E</pub-id>.</mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name><surname>Du</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>T.</given-names></name>; <name><surname>Cheng</surname><given-names>F.</given-names></name>; <name><surname>Chu</surname><given-names>W.</given-names></name>; <name><surname>Wu</surname><given-names>Z.</given-names></name>; <name><surname>Chen</surname><given-names>J.</given-names></name>
+<article-title>Nonstoichiometric Perovskite CaMnO3-delta
+for Oxygen Electrocatalysis
+with High Activity</article-title>. <source>Inorg. Chem.</source>
+<year>2014</year>, <volume>53</volume>, <fpage>9106</fpage>&#x02013;<lpage>9114</lpage>. <pub-id pub-id-type="doi">10.1021/ic501631h</pub-id>.<pub-id pub-id-type="pmid">25133744</pub-id></mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name><surname>Jiang</surname><given-names>M.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Pan</surname><given-names>L.</given-names></name>; <name><surname>Cao</surname><given-names>Q.</given-names></name>; <name><surname>Wang</surname><given-names>D.</given-names></name>; <name><surname>Du</surname><given-names>Y.</given-names></name>
+<article-title>Double Perovskites as Model Bifunctional Catalysts toward Rational
+Design: The Correlation between Electrocatalytic Activity and Complex
+Spin Configuration</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2018</year>, <volume>10</volume>, <fpage>19746</fpage>&#x02013;<lpage>19754</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.8b05353</pub-id>.<pub-id pub-id-type="pmid">29863326</pub-id></mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name><surname>Wang</surname><given-names>L.</given-names></name>; <name><surname>Stoerzinger</surname><given-names>K. A.</given-names></name>; <name><surname>Chang</surname><given-names>L.</given-names></name>; <name><surname>Zhao</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Tang</surname><given-names>C. S.</given-names></name>; <name><surname>Yin</surname><given-names>X.</given-names></name>; <name><surname>Bowden</surname><given-names>M. E.</given-names></name>; <name><surname>Yang</surname><given-names>Z.</given-names></name>; <name><surname>Guo</surname><given-names>H.</given-names></name>; <name><surname>You</surname><given-names>L.</given-names></name>; <name><surname>Guo</surname><given-names>R.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Ibrahim</surname><given-names>K.</given-names></name>; <name><surname>Chen</surname><given-names>J.</given-names></name>; <name><surname>Rusydi</surname><given-names>A.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Chambers</surname><given-names>S. A.</given-names></name>; <name><surname>Du</surname><given-names>Y.</given-names></name>
+<article-title>Tuning Bifunctional Oxygen Electrocatalysts by Changing the A-Site
+Rare-Earth Element in Perovskite Nickelates</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2018</year>, <volume>28</volume>, <fpage>8</fpage><pub-id pub-id-type="doi">10.1002/adfm.201803712</pub-id>.</mixed-citation></ref><ref id="ref58"><mixed-citation publication-type="journal" id="cit58"><name><surname>Wanjala</surname><given-names>B. N.</given-names></name>; <name><surname>Fang</surname><given-names>B.</given-names></name>; <name><surname>Luo</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>Y.</given-names></name>; <name><surname>Yin</surname><given-names>J.</given-names></name>; <name><surname>Engehard</surname><given-names>M. H.</given-names></name>; <name><surname>Loukrakpam</surname><given-names>R.</given-names></name>; <name><surname>Zhong</surname><given-names>C. J.</given-names></name>
+<article-title>Correlation between
+Atomic Coordination Structure and Enhanced Electrocatalytic Activity
+for Trimetallic Alloy Catalysts</article-title>. <source>J. Am. Chem.
+Soc.</source>
+<year>2011</year>, <volume>133</volume>, <fpage>12714</fpage>&#x02013;<lpage>12727</lpage>. <pub-id pub-id-type="doi">10.1021/ja2040464</pub-id>.<pub-id pub-id-type="pmid">21711038</pub-id></mixed-citation></ref><ref id="ref59"><mixed-citation publication-type="journal" id="cit59"><name><surname>Grimaud</surname><given-names>A.</given-names></name>; <name><surname>Carlton</surname><given-names>C. E.</given-names></name>; <name><surname>Risch</surname><given-names>M.</given-names></name>; <name><surname>Hong</surname><given-names>W. T.</given-names></name>; <name><surname>May</surname><given-names>K. J.</given-names></name>; <name><surname>Shao-Horn</surname><given-names>Y.</given-names></name>
+<article-title>Oxygen Evolution
+Activity and Stability of Ba6Mn5O16,
+Sr4Mn2CoO9, and Sr6Co5O15: The Influence of Transition Metal Coordination</article-title>. <source>J. Phys. Chem. C</source>
+<year>2013</year>, <volume>117</volume>, <fpage>25926</fpage>&#x02013;<lpage>25932</lpage>. <pub-id pub-id-type="doi">10.1021/jp408585z</pub-id>.</mixed-citation></ref><ref id="ref60"><mixed-citation publication-type="journal" id="cit60"><name><surname>Kobayashi</surname><given-names>M.</given-names></name>; <name><surname>Niwa</surname><given-names>H.</given-names></name>; <name><surname>Harada</surname><given-names>Y.</given-names></name>; <name><surname>Horiba</surname><given-names>K.</given-names></name>; <name><surname>Oshima</surname><given-names>M.</given-names></name>; <name><surname>Ofuchi</surname><given-names>H.</given-names></name>; <name><surname>Terakura</surname><given-names>K.</given-names></name>; <name><surname>Ikeda</surname><given-names>T.</given-names></name>; <name><surname>Koshigoe</surname><given-names>Y.</given-names></name>; <name><surname>Ozaki</surname><given-names>J.</given-names></name>; <name><surname>Miyata</surname><given-names>S.</given-names></name>; <name><surname>Ueda</surname><given-names>S.</given-names></name>; <name><surname>Yamashita</surname><given-names>Y.</given-names></name>; <name><surname>Yoshikawa</surname><given-names>H.</given-names></name>; <name><surname>Kobayashi</surname><given-names>K.</given-names></name>
+<article-title>Role of residual transition-metal
+atoms in oxygen reduction reaction in cobalt phthalocyanine-based
+carbon cathode catalysts for polymer electrolyte fuel cell</article-title>. <source>J. Power Sources</source>
+<year>2011</year>, <volume>196</volume>, <fpage>8346</fpage>&#x02013;<lpage>8351</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpowsour.2011.06.062</pub-id>.</mixed-citation></ref><ref id="ref61"><mixed-citation publication-type="journal" id="cit61"><name><surname>Risch</surname><given-names>M.</given-names></name>; <name><surname>Grimaud</surname><given-names>A.</given-names></name>; <name><surname>May</surname><given-names>K. J.</given-names></name>; <name><surname>Stoerzinger</surname><given-names>K. A.</given-names></name>; <name><surname>Chen</surname><given-names>T. J.</given-names></name>; <name><surname>Mansour</surname><given-names>A. N.</given-names></name>; <name><surname>Shao-Horn</surname><given-names>Y.</given-names></name>
+<article-title>Structural
+Changes of Cobalt-Based Perovskites upon Water Oxidation Investigated
+by EXAFS</article-title>. <source>J. Phys. Chem. C</source>
+<year>2013</year>, <volume>117</volume>, <fpage>8628</fpage>&#x02013;<lpage>8635</lpage>. <pub-id pub-id-type="doi">10.1021/jp3126768</pub-id>.</mixed-citation></ref><ref id="ref62"><mixed-citation publication-type="journal" id="cit62"><name><surname>Tsukihara</surname><given-names>T.</given-names></name>; <name><surname>Aoyama</surname><given-names>H.</given-names></name>; <name><surname>Yamashita</surname><given-names>E.</given-names></name>; <name><surname>Tomizaki</surname><given-names>T.</given-names></name>; <name><surname>Yamaguchi</surname><given-names>H.</given-names></name>; <name><surname>Shinzawa-Itoh</surname><given-names>K.</given-names></name>; <name><surname>Nakashima</surname><given-names>R.</given-names></name>; <name><surname>Yaono</surname><given-names>R.</given-names></name>; <name><surname>Yoshikawa</surname><given-names>S.</given-names></name>; <source>Science</source>
+<year>1996</year>, <volume>272</volume>, <fpage>1136</fpage>&#x02013;<lpage>1144</lpage>. <pub-id pub-id-type="doi">10.1126/science.272.5265.1136</pub-id>.<pub-id pub-id-type="pmid">8638158</pub-id></mixed-citation></ref><ref id="ref63"><mixed-citation publication-type="journal" id="cit63"><name><surname>Umena</surname><given-names>Y.</given-names></name>; <name><surname>Kawakami</surname><given-names>K.</given-names></name>; <name><surname>Shen</surname><given-names>J. R.</given-names></name>; <name><surname>Kamiya</surname><given-names>N.</given-names></name>
+<article-title>Crystal structure of
+oxygen-evolving photosystem II at a resolution of 1.9 angstrom</article-title>. <source>Nature</source>
+<year>2011</year>, <volume>473</volume>, <fpage>55</fpage>&#x02013;<lpage>60</lpage>. <pub-id pub-id-type="doi">10.1038/nature09913</pub-id>.<pub-id pub-id-type="pmid">21499260</pub-id></mixed-citation></ref><ref id="ref64"><mixed-citation publication-type="journal" id="cit64"><name><surname>Sugawara</surname><given-names>Y.</given-names></name>; <name><surname>Kamata</surname><given-names>K.</given-names></name>; <name><surname>Yamaguchi</surname><given-names>T.</given-names></name>
+<article-title>Extremely
+Active Hydrogen Evolution
+Catalyst Electrochemically Generated from a Ruthenium-Based Perovskite-Type
+Precursor</article-title>. <source>ACS Appl. Energ. Mater.</source>
+<year>2019</year>, <volume>2</volume>, <fpage>956</fpage>&#x02013;<lpage>960</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.8b01525</pub-id>.</mixed-citation></ref><ref id="ref65"><mixed-citation publication-type="journal" id="cit65"><name><surname>Ravel</surname><given-names>B.</given-names></name>; <name><surname>Newville</surname><given-names>M.</given-names></name>
+<article-title>ATHENA, ARTEMIS, HEPHAESTUS: data analysis for X-ray
+absorption spectroscopy using IFEFFIT</article-title>. <source>J. Synchrot.
+Radiat.</source>
+<year>2005</year>, <volume>12</volume>, <fpage>537</fpage>&#x02013;<lpage>541</lpage>. <pub-id pub-id-type="doi">10.1107/S0909049505012719</pub-id>.</mixed-citation></ref><ref id="ref66"><mixed-citation publication-type="journal" id="cit66"><name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Zhou</surname><given-names>W.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Xie</surname><given-names>L.</given-names></name>; <name><surname>Liang</surname><given-names>Y.</given-names></name>; <name><surname>Wei</surname><given-names>F.</given-names></name>; <name><surname>Idrobo</surname><given-names>J. C.</given-names></name>; <name><surname>Pennycook</surname><given-names>S. J.</given-names></name>; <name><surname>Dai</surname><given-names>H.</given-names></name>
+<article-title>An oxygen reduction
+electrocatalyst based on carbon nanotube-graphene complexes</article-title>. <source>Nat. Nanotechnol.</source>
+<year>2012</year>, <volume>7</volume>, <fpage>394</fpage>&#x02013;<lpage>400</lpage>. <pub-id pub-id-type="doi">10.1038/nnano.2012.72</pub-id>.<pub-id pub-id-type="pmid">22635099</pub-id></mixed-citation></ref><ref id="ref67"><mixed-citation publication-type="journal" id="cit67"><name><surname>Arumugam</surname><given-names>B.</given-names></name>; <name><surname>Tamaki</surname><given-names>T.</given-names></name>; <name><surname>Yamaguchi</surname><given-names>T.</given-names></name>
+<article-title>Beneficial
+Role of Copper in the
+Enhancement of Durability of Ordered Intermetallic PtFeCu Catalyst
+for Electrocatalytic Oxygen Reduction</article-title>. <source>ACS Appl.
+Mater. Interfaces</source>
+<year>2015</year>, <volume>7</volume>, <fpage>16311</fpage>&#x02013;<lpage>16321</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.5b03137</pub-id>.<pub-id pub-id-type="pmid">26159178</pub-id></mixed-citation></ref><ref id="ref68"><mixed-citation publication-type="journal" id="cit68"><name><surname>Sugita</surname><given-names>Y.</given-names></name>; <name><surname>Tamaki</surname><given-names>T.</given-names></name>; <name><surname>Kuroki</surname><given-names>H.</given-names></name>; <name><surname>Yamaguchi</surname><given-names>T.</given-names></name>
+<article-title>Connected
+iridium nanoparticle catalysts coated onto silica with high density
+for oxygen evolution in polymer electrolyte water electrolysis</article-title>. <source>Nanoscale Adv.</source>
+<year>2020</year>, <volume>2</volume>, <fpage>171</fpage>&#x02013;<lpage>175</lpage>. <pub-id pub-id-type="doi">10.1039/C9NA00568D</pub-id>.</mixed-citation></ref><ref id="ref69"><mixed-citation publication-type="journal" id="cit69"><name><surname>Leonard</surname><given-names>N. D.</given-names></name>; <name><surname>Wagner</surname><given-names>S.</given-names></name>; <name><surname>Luo</surname><given-names>F.</given-names></name>; <name><surname>Steinberg</surname><given-names>J.</given-names></name>; <name><surname>Ju</surname><given-names>W.</given-names></name>; <name><surname>Weidler</surname><given-names>N.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Kramm</surname><given-names>U. I.</given-names></name>; <name><surname>Strasser</surname><given-names>P.</given-names></name>
+<article-title>Deconvolution
+of Utilization, Site Density, and Turnover Frequency of Fe Nitrogen
+Carbon Oxygen Reduction Reaction Catalysts Prepared with Secondary
+N-Precursors</article-title>. <source>ACS Catal.</source>
+<year>2018</year>, <volume>8</volume>, <fpage>1640</fpage>&#x02013;<lpage>1647</lpage>. <pub-id pub-id-type="doi">10.1021/acscatal.7b02897</pub-id>.</mixed-citation></ref><ref id="ref70"><mixed-citation publication-type="journal" id="cit70"><name><surname>Hirai</surname><given-names>S.</given-names></name>; <name><surname>Ohno</surname><given-names>T.</given-names></name>; <name><surname>Uemura</surname><given-names>R.</given-names></name>; <name><surname>Maruyama</surname><given-names>T.</given-names></name>; <name><surname>Furunaka</surname><given-names>M.</given-names></name>; <name><surname>Fukunaga</surname><given-names>R.</given-names></name>; <name><surname>Chen</surname><given-names>W. T.</given-names></name>; <name><surname>Suzuki</surname><given-names>H.</given-names></name>; <name><surname>Matsuda</surname><given-names>T.</given-names></name>; <name><surname>Yagi</surname><given-names>S.</given-names></name>
+<article-title>Ca1-xSrxRuO3 perovskite at the metal-insulator
+boundary as a highly
+active oxygen evolution catalyst</article-title>. <source>J. Mater.
+Chem. A</source>
+<year>2019</year>, <volume>7</volume>, <fpage>15387</fpage>&#x02013;<lpage>15394</lpage>. <pub-id pub-id-type="doi">10.1039/C9TA03789F</pub-id>.</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Herein, a LiFePO
+ <sub>4</sub> cathode is paired with polymer-coated TiO
+ <sub>2</sub> NTs in the full-cell system due to its stability, low cost, and environmental friendliness [
+ <xref rid="B42-molecules-25-02121" ref-type="bibr">42</xref>]. Compared to many other cathode compositions, LiFePO
+ <sub>4</sub> has a lower voltage of 3.45 V versus Li/Li
+ <sup>+</sup>. However, LiFePO
+ <sub>4</sub> shows flat charge–discharge curves during the two-phase Li insertion–extraction process and excellent cycling stability due to its unique ordered olivine structure [
+ <xref rid="B43-molecules-25-02121" ref-type="bibr">43</xref>]. The electrochemical reactions of LiFePO
+ <sub>4</sub> with Li using a polymer electrolyte have been studied by cyclic voltammetry. 
+ <xref ref-type="fig" rid="molecules-25-02121-f006">Figure 6</xref>a shows the CV curves obtained in the potential range of 2–4.2 V versus Li/Li
+ <sup>+</sup> at a scan rate of 0.5 mV s
+ <sup>−1</sup>. The oxidation peak is visible at 3.75 V versus Li/Li
+ <sup>+</sup>, while the reduction peak appears at 3.2 V versus Li/Li
+ <sup>+</sup>. These redox peaks correspond to the reversible insertion/extraction of Li ions in the LiFePO
+ <sub>4</sub> electrode. Galvanostatic tests revealed that the reversibility of LiFePO
+ <sub>4</sub> cathode is reflected in the voltage profiles with plateaus at the corresponding voltages (
+ <xref ref-type="fig" rid="molecules-25-02121-f006">Figure 6</xref>b). The charge and discharge plateaus located at 3.57 V versus Li/Li
+ <sup>+</sup> and 3.31 V versus Li/Li
+ <sup>+</sup>, respectively, originate from the redox process between Fe
+ <sup>3+</sup> and Fe
+ <sup>2+</sup>. The initial reversible capacity is 118 mAh g
+ <sup>−1</sup> at a rate of C/10, which is followed by a capacity of 117.8 mAh g
+ <sup>−1</sup> in the second cycle; afterwards, the voltage profiles and capacity are retained. A slight decrease in the capacity could be attributed to a lower ionic conductivity of the MMA-PEG polymer electrolyte compared to that of organic liquid electrolyte, resulting in an internal resistance (IR) drop at the anode–electrolyte interface.
+</p>

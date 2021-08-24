@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The apparent transfer coefficient (
+ <math id="jats-math-44">
+  <msub>
+   <mi>α</mi>
+   <mrow>
+    <mi mathvariant="normal">a</mi>
+    <mi mathvariant="normal">p</mi>
+    <mi mathvariant="normal">p</mi>
+   </mrow>
+  </msub>
+ </math> ) can thus be obtained from the slope of 
+ <math id="jats-math-45">
+  <msub>
+   <mi>E</mi>
+   <mfrac>
+    <mn>1</mn>
+    <mi>x</mi>
+   </mfrac>
+  </msub>
+ </math> vs. 
+ <math id="jats-math-46">
+  <mrow>
+   <mi mathvariant="bold">l</mi>
+   <mi mathvariant="bold">n</mi>
+   <mfenced separators="" open="(" close=")">
+    <msub>
+     <mi>f</mi>
+     <mi mathvariant="normal">R</mi>
+    </msub>
+   </mfenced>
+   <mo>.</mo>
+  </mrow>
+ </math>
+</p>

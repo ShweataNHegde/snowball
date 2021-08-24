@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR66">
+ <label>66.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chen</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Pei</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Liao</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A manganese-hydrogen battery with potential for grid-scale energy storage</article-title>
+  <source>Nat. Energy</source>
+  <year>2018</year>
+  <volume>3</volume>
+  <issue>5</issue>
+  <fpage>428</fpage>
+  <lpage>435</lpage>
+  <pub-id pub-id-type="doi">10.1038/s41560-018-0147-7</pub-id>
+ </element-citation>
+</ref>

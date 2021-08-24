@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig fig-type="Figure" xml:lang="en" id="cssc202100364-fig-0007" orientation="portrait" position="float">
+ <label>Figure 7</label>
+ <caption>
+  <p>Cyclic voltammetry of roughened gold electrodes (exchange disk electrodes) in (20 % O
+   <sub>2</sub>+80 % Ar)‐saturated 0.1 
+   <sc>m</sc> Ca(ClO
+   <sub>4</sub>)
+   <sub>2</sub> containing DMSO at 20 mV s
+   <sup>−1</sup>, E
+   <sub>ring</sub>=0.4 V and 4–16 Hz rotation frequency vs Ag/Ag
+   <sup>+</sup> using a usual H‐cell. Disk current density is shown in (a), (d), and (g). The ring current (b,e,h) is normalized to the collection efficiency 
+   <math id="jats-math-19">
+    <msub>
+     <mi>N</mi>
+     <mn>0</mn>
+    </msub>
+   </math> and 
+   <math id="jats-math-20">
+    <msubsup>
+     <mi>A</mi>
+     <mrow>
+      <mi mathvariant="normal">g</mi>
+      <mi mathvariant="normal">e</mi>
+      <mi mathvariant="normal">o</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="normal">d</mi>
+      <mi mathvariant="normal">i</mi>
+      <mi mathvariant="normal">s</mi>
+      <mi mathvariant="normal">k</mi>
+     </mrow>
+    </msubsup>
+   </math> . The anodic signal is magnified in (c), (f), and (i), and the dashed grey line denotes 0 V.
+  </p>
+ </caption>
+ <graphic id="jats-graphic-15" xlink:href="CSSC-14-2564-g013" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

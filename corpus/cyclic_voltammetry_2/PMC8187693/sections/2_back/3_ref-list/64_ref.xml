@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR64">
+ <label>64.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cheng</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Zhao</surname>
+    <given-names>SY</given-names>
+   </name>
+   <name>
+    <surname>Johannessen</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Veder</surname>
+    <given-names>JP</given-names>
+   </name>
+   <name>
+    <surname>Saunders</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Atomically dispersed transition metals on carbon nanotubes with ultrahigh loading for selective electrochemical carbon dioxide reduction</article-title>
+  <source>Adv. Mater.</source>
+  <year>2018</year>
+  <volume>30</volume>
+  <fpage>1706287</fpage>
+  <pub-id pub-id-type="doi">10.1002/adma.201706287</pub-id>
+ </element-citation>
+</ref>

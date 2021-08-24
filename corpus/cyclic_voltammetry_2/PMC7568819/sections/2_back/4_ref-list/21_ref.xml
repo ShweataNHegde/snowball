@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B22">
+ <label>22</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pieczonka</surname>
+    <given-names>N. P. W.</given-names>
+   </name>
+   <name>
+    <surname>Borgel</surname>
+    <given-names>V.</given-names>
+   </name>
+   <name>
+    <surname>Ziv</surname>
+    <given-names>B.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Lithium polyacrylate (LiPAA) as an advanced binder and a passivating agent for high-voltage Li-ion batteries</article-title>
+  <source>
+   <italic toggle="yes">Advanced Energy Materials</italic>
+  </source>
+  <year>2015</year>
+  <volume>5</volume>
+  <issue>23</issue>
+  <pub-id pub-id-type="doi">10.1002/aenm.201501008</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-84955204467</pub-id>
+ </element-citation>
+</ref>

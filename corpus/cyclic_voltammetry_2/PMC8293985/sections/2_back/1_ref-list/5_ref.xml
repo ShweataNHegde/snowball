@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="cit5">
+ <element-citation publication-type="journal" id="cit5a">
+  <label> (a) </label>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Machan</surname>
+    <given-names>C. W.</given-names>
+   </name>
+  </person-group>
+  <source>ACS Catal.</source>
+  <year>2020</year>
+  <volume>10</volume>
+  <fpage>2640</fpage>
+  <lpage>2655</lpage>
+  <pub-id pub-id-type="doi">10.1021/acscatal.9b04477</pub-id>
+ </element-citation>
+ <element-citation publication-type="journal" id="cit5b">
+  <label> (b) </label>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lieske</surname>
+    <given-names>L. E.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hooe</surname>
+    <given-names>S. L.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nichols</surname>
+    <given-names>A. W.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Machan</surname>
+    <given-names>C. W.</given-names>
+   </name>
+  </person-group>
+  <source>Dalton Trans.</source>
+  <year>2019</year>
+  <volume>48</volume>
+  <fpage>8633</fpage>
+  <lpage>8641</lpage>
+  <pub-id pub-id-type="doi">10.1039/C9DT01436E</pub-id>
+  <?supplied-pmid 31116202?>
+  <pub-id pub-id-type="pmid">31116202</pub-id>
+ </element-citation>
+ <element-citation publication-type="journal" id="cit5c">
+  <label> (c) </label>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Passard</surname>
+    <given-names>G.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dogutan</surname>
+    <given-names>D. K.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Qiu</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Costentin</surname>
+    <given-names>C.</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nocera</surname>
+    <given-names>D. G.</given-names>
+   </name>
+  </person-group>
+  <source>ACS Catal.</source>
+  <year>2018</year>
+  <volume>8</volume>
+  <fpage>8671</fpage>
+  <lpage>8679</lpage>
+  <pub-id pub-id-type="doi">10.1021/acscatal.8b01944</pub-id>
+ </element-citation>
+</ref>

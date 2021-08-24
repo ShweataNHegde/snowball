@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jay</surname>
+    <given-names>R</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Comparative study of Mg(CB
+   <sub>11</sub>H
+   <sub>12</sub>)
+   <sub>2</sub> and Mg(TFSI)
+   <sub>2</sub> at the magnesium/electrolyte interface
+  </article-title>
+  <source>ACS Appl. Mater. Interfaces</source>
+  <year>2019</year>
+  <volume>11</volume>
+  <fpage>11414</fpage>
+  <lpage>11420</lpage>
+  <pub-id pub-id-type="doi">10.1021/acsami.9b00037</pub-id>
+  <?supplied-pmid 30860349?>
+  <pub-id pub-id-type="pmid">30860349</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="molecules-26-03440-f004" orientation="portrait" position="float">
+ <label>Figure 4</label>
+ <caption>
+  <p>A representative plot to determine the active surface area of the Pd and PdNi (50:50) carbon supported electrocatalysts. (
+   <bold>a</bold>) CVs with different upper potential limits at a scan rate of 50 mV s
+   <sup>−1</sup>; PdNi/C 50:50 (
+   <bold>b</bold>) the integrated charge as a function of the upper potential limit. The value of the charge of the inflexion point (colored) was used to determine the ESA. CVs were performed in Ar-purged 0.5 M H
+   <sub>2</sub>SO
+   <sub>4</sub> solution.
+  </p>
+ </caption>
+ <graphic xlink:href="molecules-26-03440-g004" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref1">
+ <mixed-citation publication-type="journal" id="cit1">
+  <name>
+   <surname>Winter</surname>
+   <given-names>M.</given-names>
+  </name>; 
+  <name>
+   <surname>Barnett</surname>
+   <given-names>B.</given-names>
+  </name>; 
+  <name>
+   <surname>Xu</surname>
+   <given-names>K.</given-names>
+  </name>
+  <article-title>Before Li Ion Batteries</article-title>. 
+  <source>Chem. Rev.</source>
+  <year>2018</year>, 
+  <volume>118</volume>, 
+  <fpage>11433</fpage>–
+  <lpage>11456</lpage>. 
+  <pub-id pub-id-type="doi">10.1021/acs.chemrev.8b00422</pub-id>.
+  <pub-id pub-id-type="pmid">30500179</pub-id>
+ </mixed-citation>
+</ref>

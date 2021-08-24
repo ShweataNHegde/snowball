@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app-group>
+ <app id="app1-materials-14-03259">
+  <title>Supplementary Materials</title>
+  <p>The following are available online at 
+   <uri xlink:href="https://www.mdpi.com/article/10.3390/ma14123259/s1" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.mdpi.com/article/10.3390/ma14123259/s1</uri>, Figure S1: 
+   <sup>1</sup>H NMR for (BMIM)(Cl), Figure S2: 
+   <sup>13</sup>C NMR for (BMIM)(Cl), Figure S3: 
+   <sup>1</sup>H NMR for (BMIM)(HQS), Figure S4: 
+   <sup>13</sup>C NMR for (BMIM)(HQS), Figure S5: CV of the pure (BMIM)(HQS) over the temperature range RT—70 °C. The scan rate is 10 mV/s, the working electrode is a 300 µm thickness JNTG carbon paper, Figure S6: MS spectrum of (BMIM)(Cl) in positive mode, Figure S7: MS spectrum of (BMIM)(HQS) in positive mode, Figure S8: MS spectrum of (BMIM)(HQS) in negative mode.
+  </p>
+ </app>
+</app-group>

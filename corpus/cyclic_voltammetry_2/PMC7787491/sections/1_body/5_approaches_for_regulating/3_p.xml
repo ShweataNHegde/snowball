@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In addition to these approaches that tune the interfacial physiochemical properties, another group of strategies focuses on designing the geometry of the electrode (
+ <xref rid="F6" ref-type="fig">Fig. 6C</xref>). As opposed to the conventional Zn foil used in most of basic battery research, a group of powder-based electrodes in alkaline Zn batteries is made of particulate Zn metal and functional additive salts including fluorides (e.g., KF and NaF), oxides (e.g., Bi
+ <sub>2</sub>O
+ <sub>3</sub> and PbO), and hydroxides [e.g., Ca(OH)
+ <sub>2</sub>] as the starting materials (
+ <xref rid="R140" ref-type="bibr">
+  <italic>140</italic>
+ </xref>). These functional salts serve a broad range of purposes, such as suppressing H
+ <sub>2</sub> evolution, reducing shape changes of the electrode, and trapping zincate species in the anode. The main challenge faced by this group of powder-based Zn electrodes is the gradual collapse of the porous network originally established by the particulate materials. Such electrode shape change over battery cycling reduces the ion and electron transport inside the electrode and results in capacity fading. To address the issue of shape change in a powder-based Zn electrode, Parker 
+ <italic>et al.</italic> (
+ <xref rid="R21" ref-type="bibr">
+  <italic>21</italic>
+ </xref>, 
+ <xref rid="R153" ref-type="bibr">
+  <italic>153</italic>
+ </xref>) proposed to fabricate monolithic Zn sponge that ensures persistent wiring throughout the nonplanar, porous architecture (
+ <xref rid="F6" ref-type="fig">Fig. 6C</xref>, left). The most prominent feature of these 3D sponge Zn electrodes is the high areal capacities of Zn that are deposited in recharge, i.e., &gt;40 mA·hour/cm
+ <sup>2</sup>, without incurring battery failure either by shape change or internal short. This performance is suggestive of its immediate practical interest as an alternative to Li-ion systems. The authors attributed the stability of Zn deposition to the maximized electrified interface that homogenizes the current distribution and to the confinement of Zn species in the interior of the architecture that retards the shape change (
+ <xref rid="R154" ref-type="bibr">
+  <italic>154</italic>
+ </xref>). An alternative approach toward nonplanar metal anode is to use a nonplanar substrate made of conductive materials that remains inactive throughout battery operation, e.g., Cu skeleton (
+ <xref rid="F6" ref-type="fig">Fig. 6C</xref>, right) (
+ <xref rid="R97" ref-type="bibr">
+  <italic>97</italic>
+ </xref>, 
+ <xref rid="R155" ref-type="bibr">
+  <italic>155</italic>
+ </xref>–
+ <xref rid="R157" ref-type="bibr">
+  <italic>157</italic>
+ </xref>) or interconnected carbon fibers (
+ <xref rid="R24" ref-type="bibr">
+  <italic>24</italic>
+ </xref>, 
+ <xref rid="R158" ref-type="bibr">
+  <italic>158</italic>
+ </xref>–
+ <xref rid="R160" ref-type="bibr">
+  <italic>160</italic>
+ </xref>). This offers additional degree of freedom in tuning the deposition by designing the heterointerface between the host and the metal deposits; for example, Zn and Cu can form solid solution and intermetallic compounds (e.g., CuZn
+ <sub>5</sub>) (
+ <xref rid="R157" ref-type="bibr">
+  <italic>157</italic>
+ </xref>). As mentioned earlier, it is generally believed that this type of chemical affinity at the interface can reduce the nucleation energy barrier and homogenize the nucleation landscape, which, in part, determines the subsequent growth process; consistent observations are also made in Li electrodepositions (
+ <xref rid="R161" ref-type="bibr">
+  <italic>161</italic>
+ </xref>–
+ <xref rid="R163" ref-type="bibr">
+  <italic>163</italic>
+ </xref>). We speculate that nonplanar architectures with rationally designed surface chemistry could serve as a robust path toward highly reversible, high areal capacity battery, while the usage of an inactive “host” will inevitably introduce additional mass, volume, and materials cost as evaluated in reference (
+ <xref rid="R87" ref-type="bibr">
+  <italic>87</italic>
+ </xref>). Considerable room of optimization exists in designing and fabricating nonplanar architectures that are specifically targeted at battery anode applications. For example, for a Cu skeleton, questions such as what the optimal pore geometry, pore size, and pore volume fraction are for Zn metal deposition remain underexplored (
+ <xref rid="R164" ref-type="bibr">
+  <italic>164</italic>
+ </xref>, 
+ <xref rid="R165" ref-type="bibr">
+  <italic>165</italic>
+ </xref>).
+</p>

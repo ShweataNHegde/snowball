@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR40">
+ <label>40.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Johnson</surname>
+    <given-names>JW</given-names>
+   </name>
+   <name>
+    <surname>Brody</surname>
+    <given-names>JF</given-names>
+   </name>
+  </person-group>
+  <article-title>Lithium closoborane electrolytes: III. Preparation and characterization</article-title>
+  <source>J. Electrochem. Soc.</source>
+  <year>1982</year>
+  <volume>129</volume>
+  <fpage>2213</fpage>
+  <lpage>2219</lpage>
+  <pub-id pub-id-type="doi">10.1149/1.2123477</pub-id>
+ </element-citation>
+</ref>

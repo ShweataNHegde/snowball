@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR32">
+ <label>32.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Liu</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Pulletikurthi</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Endres</surname>
+    <given-names>F</given-names>
+   </name>
+  </person-group>
+  <article-title>A prussian blue/zinc secondary battery with a bio-ionic liquid-water mixture as electrolyte</article-title>
+  <source>ACS Appl. Mater. Interfaces</source>
+  <year>2016</year>
+  <volume>8</volume>
+  <issue>19</issue>
+  <fpage>12158</fpage>
+  <lpage>12164</lpage>
+  <pub-id pub-id-type="doi">10.1021/acsami.6b01592</pub-id>
+  <pub-id pub-id-type="pmid">27119430</pub-id>
+ </element-citation>
+</ref>

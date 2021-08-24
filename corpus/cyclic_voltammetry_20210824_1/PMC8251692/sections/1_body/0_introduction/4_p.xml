@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>A common cathode material for lithium-ion capacitors is activated carbon due to its low price, good conductivity, high surface area, and synthesizability from biowaste.
+ <sup>
+  <xref ref-type="bibr" rid="ref8">8</xref>,
+  <xref ref-type="bibr" rid="ref9">9</xref>
+ </sup> Furthermore, nitrogen doping has been proven to improve the electroactivity of hybrid ion capacitors,
+ <sup>
+  <xref ref-type="bibr" rid="ref10">10</xref>,
+  <xref ref-type="bibr" rid="ref11">11</xref>
+ </sup> making highly N-doped materials an interesting choice for the synthesis of the new generation of lithium-ion hybrid capacitors. However, activated carbons and related materials are usually obtained as powders requiring the processing to prepare the electrodes. The preparation of electrodes from powdery materials is not a standardized process, and it varies from one research school to another. Though electrode preparation directly affects many of the properties of the final device tested, the process is often overlooked in research papers. Among the different strategies, ball milling using stainless steel jars is a well-established technique implemented in industry at a very large scale due to the fact that stainless steel is a relatively inexpensive as compared to other common ball milling materials such as tungsten carbide and zirconia. In the context of electrode preparation, ball milling is used to prepare homogeneous electrode inks by mixing the active material, a conductive additive, the binder, and the dispersing agent since it can easily be scaled up.
+ <sup>
+  <xref ref-type="bibr" rid="ref12">12</xref>,
+  <xref ref-type="bibr" rid="ref13">13</xref>
+ </sup> However, when ball milling the ink mixtures, they are submitted to harsh oxidation conditions. As a result, the active carbon materials undergo oxidation
+ <sup>
+  <xref ref-type="bibr" rid="ref14">14</xref>−
+  <xref ref-type="bibr" rid="ref16">16</xref>
+ </sup> and end up contaminated mainly with iron coming from the stainless steel balls, as described previously for inorganic compounds.
+ <sup>
+  <xref ref-type="bibr" rid="ref17">17</xref>,
+  <xref ref-type="bibr" rid="ref18">18</xref>
+ </sup> As a result, the ball milling equipment erodes and the performance of the material becomes questionable as it often occurs that the effect of the metallic impurities in the carbonaceous materials is treated as part of the performance of the material.
+ <sup>
+  <xref ref-type="bibr" rid="ref19">19</xref>,
+  <xref ref-type="bibr" rid="ref20">20</xref>
+ </sup> In this context, noble carbons are very promising candidates for effective ball milling. Noble carbons are a new class of carbon-based materials comprising a high resistance upon oxidation.
+ <sup>
+  <xref ref-type="bibr" rid="ref21">21</xref>
+ </sup> Noble carbons are obtained upon heat treatment of a series of specific organic precursors that are already very resistant upon oxidation themselves (i.e., ionic liquids, nucleobases, or certain organic dyes).
+ <sup>
+  <xref ref-type="bibr" rid="ref12">12</xref>,
+  <xref ref-type="bibr" rid="ref22">22</xref>−
+  <xref ref-type="bibr" rid="ref25">25</xref>
+ </sup> Contrary to what occurs when carbonizing a conventional precursor (i.e., glucose), a noble carbon precursor decomposition leads to the formation of new and even more stable bonds to satisfy thermodynamics, which results in materials with low HOMO levels and great stability upon oxidation.
+ <sup>
+  <xref ref-type="bibr" rid="ref21">21</xref>
+ </sup> Recently, a noble C
+ <sub>1</sub>N
+ <sub>1</sub>-like material exhibiting large stability upon oxidation derived from guanine, a purine nucleobase, was reported. At high temperatures, the synthesis yielded a CN covalent material comprising less nitrogen (C/N ratio of 7) but still exhibiting high resistance upon oxidation and an ultrahigh surface area, thus standing as an excellent candidate for EES electrode ink preparation 
+ <italic>via</italic> ball milling.
+ <sup>
+  <xref ref-type="bibr" rid="ref24">24</xref>,
+  <xref ref-type="bibr" rid="ref25">25</xref>
+ </sup>
+</p>

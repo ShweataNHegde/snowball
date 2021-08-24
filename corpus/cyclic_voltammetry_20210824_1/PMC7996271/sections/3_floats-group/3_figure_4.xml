@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="nanomaterials-11-00569-f004" orientation="portrait" position="float">
+ <label>Figure 4</label>
+ <caption>
+  <p>Nyquist plots for SVO-0, SVO-10, SVO-50, SVO-100 after (
+   <bold>a</bold>) 0, (
+   <bold>b</bold>) 10, (
+   <bold>c</bold>) 20, (
+   <bold>d</bold>) 50 battery cycles, and the equivalent circuit model in the inset of (b); the corresponding EIS simulation parameters of (
+   <bold>e</bold>) R
+   <sub>s</sub>, (
+   <bold>f</bold>) R
+   <sub>CEI</sub>, and (
+   <bold>g</bold>) R
+   <sub>ct</sub>, respectively.
+  </p>
+ </caption>
+ <graphic xlink:href="nanomaterials-11-00569-g004" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

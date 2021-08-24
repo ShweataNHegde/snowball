@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In 
+ <xref rid="fig6" ref-type="fig">Figure 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref>a (red) we find that for TBAGeCl
+ <sub>3</sub> in 12CE on graphene, the onset of reduction is at 0.115 V versus Zn/Zn
+ <sup>2+</sup>. This is by far less negative than that of Zn(II) and well within the above established potential window of graphene in 12 CE. No clear reduction peak for TBAGeCl
+ <sub>3</sub> on graphene is observed in 
+ <xref rid="fig6" ref-type="fig">Figure 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref>a (red), but only a steady increase of the cathodic current with a nucleation overpotential of about 150 mV. As shown by SEM in 
+ <xref rid="fig6" ref-type="fig">Figure 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref>b, this electrochemical behavior corresponds to successful Ge deposition on the graphene (here shown after potentiostatic Ge deposition at −0.3 V for 260 s). In contrast to the Zn deposition, no gradient in the amount of deposited Ge with respect to the macroscopic distance from the electrolyte meniscus is observed. Instead, we find the same Ge morphology near and far from the electrolyte meniscus. As seen in the SEM images in 
+ <xref rid="fig6" ref-type="fig">Figure 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref>b, the Ge is composed of individual islands with lateral sizes ranging from ≈ 100 nm to ≈ 800 nm while having a rather uniform height of ≈ 50 nm (AFM in Supporting Information 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S8</ext-link>). These individual islands start to form a coherent layer at longer deposition times (
+ <xref rid="fig6" ref-type="fig">Figure 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref>d, potentiostatic deposition at −0.3 V for 7000 s). Additional EDX and XRD characterization in Supporting Information 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S9</ext-link> identifies the deposits as amorphous Ge nanoparticles. Importantly, the Raman spectrum of the Ge-coated graphene electrode in 
+ <xref rid="fig6" ref-type="fig">Figure 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref>c shows no emergence of a defect-related D peak, but fully resembles the Raman spectrum of the as-fabricated, high quality graphene. Furthermore macroscopically, no graphene degradation is observed (Supporting Information 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S10</ext-link>). This indicates in agreement with our hypothesis that electrodeposition from 12CE at moderate cathodic potentials can readily be carried out on graphene without degradation of the graphene quality. The absence of a gradient in the Ge deposit homogeneity along the electrode length, combined with the retained high graphene quality observed in Raman after Ge deposition, corroborates our above suggestion that the defect formation in graphene at strongly cathodic potentials (as observed for potentiodynamic Zn deposition) is the compounding factor to cause a large enough 
+ <italic>iR</italic> drop, which results in a macroscopic deposit gradient (as observed above for Zn). A second factor that affects the local current density during Ge deposition probably is the electric conductivity of germanium. In contrast to zinc, the conductivity of germanium is smaller by six orders of magnitude compared to that of the graphene monolayer.
+ <sup>
+  <xref ref-type="bibr" rid="ref75">75</xref>
+ </sup> As a result, the local current density on the uncoated graphene area increases during the deposition, favoring two-dimensional growth of Ge with uniform thickness (Supporting Information 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsami.0c11467/suppl_file/am0c11467_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S8</ext-link>) toward the formation of a coherent layer (
+ <xref rid="fig6" ref-type="fig">Figure 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref>d).
+</p>

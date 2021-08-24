@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Glyme-based electrolytes with two different chain lengths employing high lithium salts concentrations (indicated as DEGDME_HCE and TREGDME_HCE) are studied in either Li/S or Li/LFP cells to explore the applicability of this class of solutions in a safe and high-performance Li-metal battery. The CV tests performed on the Li/S cells revealed for both electrolytes a reversible electrochemical process centered at about 2.1 and 2.4 V and an activation process leading to the decrease of the impedance from values of the order of 100 Ω to about 10 Ω upon cycling. Furthermore, galvanostatic measurements of the Li/S cells carried out using the constant current rate of C/5 at 25 and 35 °C indicated for DEGDME_HCE capacities of about 800 and 1300 mAh g
+ <sub>S</sub>
+ <sup>–1</sup>, respectively, while lower values of about 340 and 890 mAh g
+ <sub>S</sub>
+ <sup>–1</sup> were obtained for TREGDME_HCE. The more relevant performances of the Li/S cells using DEGDME_HCE compared to TREGDME_HCE were attributed to faster charge transfer kinetics in the former electrolyte compared to the latter. Meanwhile, the lithium cells employing the LFP electrode suggested the two solutions as possible electrolyte media for the reversible (de)insertion process at about 3.45 V; however, the tests indicated possible issues ascribed to the SEI layer formed at the electrodes surface, leading to a polarization increase by cell cycling. These issues were relevantly mitigated, in particular when using TREGDME_HCE, by adopting a first discharge of the cell extended down to 1.2 V in order to promote a further reduction of the LiNO
+ <sub>3</sub> additive and the consolidation of a suitable SEI layer. Therefore, the above Li/LFP cells delivered at C/5 rate an initial capacity of about 160 mAh g
+ <sup>–1</sup> (94% of the theoretical value), an efficiency approaching 100%, and a capacity retention of 71% for DEGDME_HCE and 97% for TREGDME_HCE upon 50 charge/discharge cycles. Furthermore, Li/DEGDME_HCE/S and Li/TREGDME_HCE/LFP cells operating with the most adequate conditions have shown satisfactory performances at current rates increased to 1C and C/3, respectively. The former cell delivered 750 mAh g
+ <sub>S</sub>
+ <sup>–1</sup> with capacity retention of 70% over 140 cycles at 35 °C, while the latter exhibited about 150 mAh g
+ <sup>–1</sup> with a retention of 85% after 100 cycles at 25 °C by exploiting the initial reduction step at 1.2 V.
+</p>

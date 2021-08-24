@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR45">
+ <label>45.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>See</surname>
+    <given-names>KA</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>Y-M</given-names>
+   </name>
+   <name>
+    <surname>Ha</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Barile</surname>
+    <given-names>CJ</given-names>
+   </name>
+   <name>
+    <surname>Gewirth</surname>
+    <given-names>AA</given-names>
+   </name>
+  </person-group>
+  <article-title>Effect of Concentration on the Electrochemistry and Speciation of the Magnesium Aluminum Chloride Complex Electrolyte Solution</article-title>
+  <source>ACS Appl. Mater. Interfaces</source>
+  <year>2017</year>
+  <volume>9</volume>
+  <fpage>35729</fpage>
+  <lpage>35739</lpage>
+  <pub-id pub-id-type="doi">10.1021/acsami.7b08088</pub-id>
+  <?supplied-pmid 28933814?>
+  <pub-id pub-id-type="pmid">28933814</pub-id>
+ </element-citation>
+</ref>

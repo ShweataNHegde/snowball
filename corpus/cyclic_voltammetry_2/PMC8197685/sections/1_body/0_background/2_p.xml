@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par25">Transition-metal sulfides (TMSs) offer remarkably higher specific capacity than traditional electrode materials [
+ <xref ref-type="bibr" rid="CR8">8</xref>–
+ <xref ref-type="bibr" rid="CR12">12</xref>]. Recently, TMSs have been reported as anodes with excellent conductivity and catalytic activity. Among them, binary nickel–cobalt sulfide (NiCo
+ <sub>2</sub>S
+ <sub>4</sub>) exhibits a high theoretical specific capacity (703 mAh g
+ <sup>–1</sup>), an excellent electronic conductivity (1.26 × 10
+ <sup>6</sup> S m
+ <sup>–1</sup>), and a greater abundance of redox reaction sites [
+ <xref ref-type="bibr" rid="CR13">13</xref>–
+ <xref ref-type="bibr" rid="CR17">17</xref>]. The reported general charge/discharge mechanism of NiCo
+ <sub>2</sub>S
+ <sub>4</sub> with lithium (Li) involves the following reactions:
+ <disp-formula id="Equ1">
+  <label>1</label>
+  <alternatives>
+   <tex-math id="M1">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\text{NiCo}}_{2} {\text{S}}_{4} + 8{\text{Li}}^{ + } + 8{\text{e}}^{{-}} \to {\text{Ni}} + {\text{Co}} + 4{\text{Li}}_{2} {\text{S}}$$\end{document}</tex-math>
+   <math id="M2" display="block">
+    <mrow>
+     <msub>
+      <mtext>NiCo</mtext>
+      <mn>2</mn>
+     </msub>
+     <msub>
+      <mtext>S</mtext>
+      <mn>4</mn>
+     </msub>
+     <mo>+</mo>
+     <mn>8</mn>
+     <msup>
+      <mrow>
+       <mtext>Li</mtext>
+      </mrow>
+      <mo>+</mo>
+     </msup>
+     <mo>+</mo>
+     <mn>8</mn>
+     <msup>
+      <mrow>
+       <mtext>e</mtext>
+      </mrow>
+      <mo>-</mo>
+     </msup>
+     <mo stretchy="false">→</mo>
+     <mtext>Ni</mtext>
+     <mo>+</mo>
+     <mtext>Co</mtext>
+     <mo>+</mo>
+     <mn>4</mn>
+     <msub>
+      <mtext>Li</mtext>
+      <mn>2</mn>
+     </msub>
+     <mtext>S</mtext>
+    </mrow>
+   </math>
+   <graphic xlink:href="11671_2021_3562_Article_Equ1.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+ <disp-formula id="Equ2">
+  <label>2</label>
+  <alternatives>
+   <tex-math id="M3">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\text{Ni}} + x{\text{Li}}_{2} {\text{S}} \leftrightarrow {\text{NiS}}_{x} + 2x{\text{Li}}^{ + } + 2x{\text{e}}^{{-}}$$\end{document}</tex-math>
+   <math id="M4" display="block">
+    <mrow>
+     <mtext>Ni</mtext>
+     <mo>+</mo>
+     <mi>x</mi>
+     <msub>
+      <mtext>Li</mtext>
+      <mn>2</mn>
+     </msub>
+     <mtext>S</mtext>
+     <mo stretchy="false">↔</mo>
+     <msub>
+      <mtext>NiS</mtext>
+      <mi>x</mi>
+     </msub>
+     <mo>+</mo>
+     <mn>2</mn>
+     <mi>x</mi>
+     <msup>
+      <mrow>
+       <mtext>Li</mtext>
+      </mrow>
+      <mo>+</mo>
+     </msup>
+     <mo>+</mo>
+     <mn>2</mn>
+     <mi>x</mi>
+     <msup>
+      <mrow>
+       <mtext>e</mtext>
+      </mrow>
+      <mo>-</mo>
+     </msup>
+    </mrow>
+   </math>
+   <graphic xlink:href="11671_2021_3562_Article_Equ2.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+ <disp-formula id="Equ3">
+  <label>3</label>
+  <alternatives>
+   <tex-math id="M5">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\text{Co}} + x{\text{Li}}_{2} {\text{S}} \leftrightarrow {\text{CoS}}_{x} + 2x{\text{Li}}^{ + } + 2x{\text{e}}^{{-}}$$\end{document}</tex-math>
+   <math id="M6" display="block">
+    <mrow>
+     <mtext>Co</mtext>
+     <mo>+</mo>
+     <mi>x</mi>
+     <msub>
+      <mtext>Li</mtext>
+      <mn>2</mn>
+     </msub>
+     <mtext>S</mtext>
+     <mo stretchy="false">↔</mo>
+     <msub>
+      <mtext>CoS</mtext>
+      <mi>x</mi>
+     </msub>
+     <mo>+</mo>
+     <mn>2</mn>
+     <mi>x</mi>
+     <msup>
+      <mrow>
+       <mtext>Li</mtext>
+      </mrow>
+      <mo>+</mo>
+     </msup>
+     <mo>+</mo>
+     <mn>2</mn>
+     <mi>x</mi>
+     <msup>
+      <mrow>
+       <mtext>e</mtext>
+      </mrow>
+      <mo>-</mo>
+     </msup>
+    </mrow>
+   </math>
+   <graphic xlink:href="11671_2021_3562_Article_Equ3.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+</p>

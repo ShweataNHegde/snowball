@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="materials-14-04177-t002" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">materials-14-04177-t002_Table 2</object-id>
+ <label>Table 2</label>
+ <caption>
+  <p>A synopsis of the aqueous batteries utilising CVD processes.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Electrodes</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">CVD Approach</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Electrolytes</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Specific Capacity</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Stability</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">SiO/graphite@C
+     <break/>(examined in CR2032-type coin-type half batteries) [
+     <xref rid="B56-materials-14-04177" ref-type="bibr">56</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">FTCVD to cover SiO by the C layer</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LBC3401A4</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">852.6 mAh g
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">93.7% capacity retention after 100 cycles</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Monoclinic and metastable VO
+     <sub>2</sub> [
+     <xref rid="B60-materials-14-04177" ref-type="bibr">60</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">APCVD</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1 M, LiOH</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">425 mAh g
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">97 % capacity retention after 500 cycles</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Metastable VO
+     <sub>2</sub> [
+     <xref rid="B62-materials-14-04177" ref-type="bibr">62</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">APCVD</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1 M, LiCl</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">505 mAh g
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">96% capacity retention after 500 cycles</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">α-axis textured monoclinic VO
+     <sub>2</sub> [
+     <xref rid="B63-materials-14-04177" ref-type="bibr">63</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">APCVD</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1 M, LiOH</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">459 mAh g
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">97% capacity retention after 1000 cycles</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Silver vanadate
+     <break/>bronze [
+     <xref rid="B66-materials-14-04177" ref-type="bibr">66</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">AACVD</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1 M, LiCl</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">230 mAh g
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">96% after 500 cycles</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">NaTi
+     <sub>2</sub>(PO
+     <sub>4</sub>)
+     <sub>3</sub> [
+     <xref rid="B70-materials-14-04177" ref-type="bibr">70</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CVD to coat C on NaTi
+     <sub>2</sub>(PO
+     <sub>4</sub>)
+     <sub>3</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1 M, Na
+     <sub>2</sub>SO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">80 mAh g
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">85% capacity retention after 200 cycles</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Orthorhombic
+     <break/>V
+     <sub>2</sub>O
+     <sub>5</sub> [
+     <xref rid="B73-materials-14-04177" ref-type="bibr">73</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">AACVD</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.075 M, MgCl
+     <sub>2</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">427 mAh g
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">82% capacity retention after 2000 cycles</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Orthorhombic and monoclinic V
+     <sub>2</sub>O
+     <sub>5</sub> [
+     <xref rid="B75-materials-14-04177" ref-type="bibr">75</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">AACVD</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.075 M, MgCl
+     <sub>2</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">300 mAh g
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">92% capacity retention after 10,000 cycles</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CNT/MnO
+     <sub>2</sub>/PEDOT
+     <break/>(examined in quasi solid-state battery device) [
+     <xref rid="B77-materials-14-04177" ref-type="bibr">77</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CVD3D CNT</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2 M, ZnCl
+     <sub>2</sub> and 0.4 M, MnSO
+     <sub>4</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">306.1 mAh g
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">81.3% capacity retention after 2000 cycles</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3D graphitic-foam (examined in Swagelok or pouch cells) [
+     <xref rid="B78-materials-14-04177" ref-type="bibr">78</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CVD graphitic foam</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">AlCl
+     <sub>3</sub>/1-ethyl-3-methylimidazolium (residual water ~500 p.p.m.
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">70 mAh g
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">~10% capacity retention after 7500 cycles</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

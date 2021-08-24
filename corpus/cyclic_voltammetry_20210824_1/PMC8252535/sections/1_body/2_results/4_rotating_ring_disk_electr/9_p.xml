@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In the first experiment (Figure 
+ <xref rid="cssc202100364-fig-0010" ref-type="fig">10</xref>a,b) the ring potential was increased from −0.3 V to +0.7 V. All ring currents increase with increasing ring potential, which indicates kinetic limitations. As already shown in Ref. [21] a minimum potential of 0.3 V is required to achieve oxidation of the superoxide at low potentials; higher ring potentials only lead to slightly more efficient re‐oxidation. The necessity for such a high ring potential to achieve oxidation of superoxide which should be oxidized around −0.3 V was explained by the formation of a contact ion pair between Ca
+ <sup>2+</sup> and 
+ <math id="jats-math-23">
+  <msubsup>
+   <mi mathvariant="normal">O</mi>
+   <mrow>
+    <mn>2</mn>
+   </mrow>
+   <mo>-</mo>
+  </msubsup>
+ </math> . Anyway, superoxide oxidation is sufficiently fast at a ring potential of 0.3 V (or 0.4 V as used in the other RRDE measurements). However, oxidation of peroxide is not complete even at 0.7 V (note that the normalized ring current should ideally be the same as the disk current). This indicates a very sluggish peroxide oxidation kinetics; increasing the ring potential further would lead to stronger DMSO decomposition/gold dissolution and therefore is not an option. We used another approach in the second experiment (Figure 
+ <xref rid="cssc202100364-fig-0010" ref-type="fig">10</xref>c,d). Here the ring electrode was roughened using the same method as for polycrystalline gold disk electrodes leading to a ring electrode roughness of 
+ <italic>f</italic>
+ <sub>R</sub>≈32. (The dependence on rotation rate is shown in Figure S3). Thus, the amount of detected peroxide is strongly increased: In Figure 
+ <xref rid="cssc202100364-fig-0010" ref-type="fig">10</xref> the ring current now even resembles the shape of the ORR at the disk. This effect of kinetic limitation also explains the independence of the ring current on the rotation frequency (Figure 
+ <xref rid="cssc202100364-fig-0007" ref-type="fig">7</xref>e,h), while the deactivation of the ring electrode with time can be explained by slow accumulation of decomposition products (e. g., from DMSO decomposition by singlet‐oxygen).[
+ <xref rid="cssc202100364-bib-0025" ref-type="ref">
+  <sup>25</sup>
+ </xref>, 
+ <xref rid="cssc202100364-bib-0026" ref-type="ref">
+  <sup>26</sup>
+ </xref>, 
+ <xref rid="cssc202100364-bib-0027" ref-type="ref">
+  <sup>27</sup>
+ </xref>] 
+</p>
