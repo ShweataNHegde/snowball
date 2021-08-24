@@ -4,6 +4,8 @@ import xml.etree.ElementTree as ET
 import pathlib
 import yake
 import subprocess
+import logging
+logging.basicConfig(level=logging.INFO)
 # All the functions
 def querying_pygetpapers_sectioning(query, hits, output_directory, using_terms = False, terms_txt=None):
     """queries pygetpapers for specified query. Downloads XML, and sections papers using ami section
@@ -15,13 +17,14 @@ def querying_pygetpapers_sectioning(query, hits, output_directory, using_terms =
         using_terms (bool, optional): pygetpapers --terms flag. Defaults to False.
         terms_txt (str, optional): path to text file with terms. Defaults to None.
     """
-
+    logging.info('querying pygetpapers')
     if using_terms:
         subprocess.run(f'pygetpapers -q "{query}" -k {hits} -o {output_directory} -x --terms {terms_txt}',
                                 shell=True)
     else:  
         subprocess.run(f'pygetpapers -q "{query}" -k {hits} -o {output_directory} -x', 
                                 shell=True)
+    logging.info('running ami section')
     subprocess.run(f'ami -p {output_directory} section', shell=True)
 
 def parse_xml(output_directory, results_txt, body_section='method'):
@@ -36,12 +39,14 @@ def parse_xml(output_directory, results_txt, body_section='method'):
     glob_results = glob.glob(os.path.join(WORKING_DIRECTORY,
                                           output_directory,"*", "sections",
                                           "**", f"*{body_section}*","**" ,"*_p.xml"), recursive = True)
+    logging.info(f'globbed_xml: {glob_results}')
     file1 = open(results_txt,"w+", encoding='utf-8')
     for result in glob_results:
         tree = ET.parse(result)
         root = tree.getroot()
         for para in root.iter('p'):
             print (para.text, file = file1) 
+    logging.info(f'wrote text to {results_txt}')
    
 def key_phrase_extraction(results_txt, terms_txt):
     """extract key phrases from the text file with parsed xml and saves the phrases in a text file (comma-separated)
@@ -56,9 +61,11 @@ def key_phrase_extraction(results_txt, terms_txt):
     keywords_list = []
     for kw in keywords:
         keywords_list.append(kw[0])
+    logging.info('extracted key phrases')
     keywords_list_string = ', '.join(str(i) for i in keywords_list)
     with open(terms_txt, 'w') as fo:
         fo.write(keywords_list_string)
+    logging.info(f'wrote the phrases to {terms_txt}')
 
 # Defining all variables
 OD_QUERY = 'cyclic voltammetry'
