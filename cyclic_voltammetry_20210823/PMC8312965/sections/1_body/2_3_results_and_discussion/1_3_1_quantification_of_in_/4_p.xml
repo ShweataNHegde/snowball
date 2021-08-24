@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Indeed, 
+ <xref rid="pone.0254594.g003" ref-type="fig">Fig 3</xref> shows oxidation-charge calculations with the four pairs of integration boundaries intro-duced in section 2.3. Panel (a) shows calculations for the dopamine dataset corresponding to (
+ <xref rid="pone.0254594.g002" ref-type="fig">Fig 2a and 2b</xref>), and panel (b) shows calculations for the norepinephrine dataset corresponding to 
+ <xref rid="pone.0254594.g002" ref-type="fig">Fig 2(c)</xref>. 
+ <xref rid="pone.0254594.g003" ref-type="fig">Fig 3(a)</xref> shows that when quantifying dopamine charge, the ad-hoc FSCAV limits and curvature are not significantly different at concentrations greater than 0.1μM as demonstrated by a comparison of mean curvature and FSCAV datapoints using an ANOVA with Holm-Sidak comparison for multiple corrections, P&gt;0.05 n.s. However, despite shape similarities between dopamine and norepinephrine background subtracted voltammograms (e. g. correlation coefficient 
+ <italic toggle="yes">&gt;</italic> 0.86, see [
+ <xref rid="pone.0254594.ref018" ref-type="bibr">18</xref>,
+ <xref rid="pone.0254594.ref019" ref-type="bibr">19</xref>]), oxidation charges obtained with curvature limits provide a closer approximation to true charges than FSCAV limits at concentrations of 1μM and greater, as demonstrated by a comparison of mean curvature and FSCAV datapoints using an ANOVA with Holm-Sidak comparison for multiple corrections (at 0.5μM, curvature (20.58±0.99) v. FSCAV(19.48±0.88), P = 0.1087 n.s.; at 1μM, curvature (86.84±2.21) v. FSCAV(75.57±1.76), P&lt;0.0001 ****; at 5μM, curvature (27.23±0.6) v. FSCAV(24.88±0.0.56), P&lt;0.01 ****) (
+ <xref rid="pone.0254594.g003" ref-type="fig">Fig 3b</xref>).” Consequently, all analyses of charge in subsequent figures are performed using the curvature method in the interest of focus and clarity.
+</p>

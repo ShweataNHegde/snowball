@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-5047-8895</contrib-id>
+  <name>
+   <surname>Zhang</surname>
+   <given-names>Rui</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-nanomaterials-11-00672">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7726-4712</contrib-id>
+  <name>
+   <surname>Lai</surname>
+   <given-names>Yongchao</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-nanomaterials-11-00672">2</xref>
+  <xref rid="c1-nanomaterials-11-00672" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhan</surname>
+   <given-names>Jinhua</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-nanomaterials-11-00672">1</xref>
+  <xref rid="c1-nanomaterials-11-00672" ref-type="corresp">*</xref>
+ </contrib>
+</contrib-group>

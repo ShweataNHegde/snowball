@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="ath1">
+  <name>
+   <surname>Asrat</surname>
+   <given-names>Thomas M.</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">†</xref>
+  <xref rid="notes2" ref-type="notes">§</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath2">
+  <name>
+   <surname>Cho</surname>
+   <given-names>Whirang</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">†</xref>
+  <xref rid="notes2" ref-type="notes">§</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath3">
+  <name>
+   <surname>Liu</surname>
+   <given-names>Favian A.</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">†</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath4">
+  <name>
+   <surname>Shapiro</surname>
+   <given-names>Sarah M.</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">‡</xref>
+ </contrib>
+ <contrib contrib-type="author" id="ath5">
+  <name>
+   <surname>Bracht</surname>
+   <given-names>John R.</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">‡</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes" id="ath6">
+  <name>
+   <surname>Zestos</surname>
+   <given-names>Alexander G.</given-names>
+  </name>
+  <xref rid="cor1" ref-type="other">*</xref>
+  <xref rid="aff1" ref-type="aff">†</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>†</label>Department of Chemistry, 
+  <institution>American University</institution>, Washington, D.C. 20016, 
+  <country>United States</country>
+ </aff>
+ <aff id="aff2">
+  <label>‡</label>Department of Biology, 
+  <institution>American University</institution>, Washington, D.C. 20016, 
+  <country>United States</country>
+ </aff>
+</contrib-group>

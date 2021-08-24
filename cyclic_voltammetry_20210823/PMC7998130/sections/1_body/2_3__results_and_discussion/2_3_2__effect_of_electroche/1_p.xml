@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Electrochemical treatment of the silver nanowire membrane was carried out by CV. CV is often used to reform precious metal materials to increase the performance of SERS substrates [
+ <xref rid="B38-nanomaterials-11-00672" ref-type="bibr">38</xref>,
+ <xref rid="B39-nanomaterials-11-00672" ref-type="bibr">39</xref>,
+ <xref rid="B40-nanomaterials-11-00672" ref-type="bibr">40</xref>]. In this method, the scanning voltage within a certain potential range is applied repeatedly when the silver nanowire membrane used as the working electrode in a three-electrode system alternately undergoes oxidation and reduction reactions multiple times. As shown in 
+ <xref ref-type="app" rid="app1-nanomaterials-11-00672">Figure S4</xref>, the current–potential curve, current–time curve, charge–time curve, and potential–time curve were recorded at the potential scan rate of 0.025 V∙s
+ <sup>−1</sup>; the potential scan range was from −0.1323 to 0.2677 V, the number of scans was 15, and the temperature at which the measurement was carried out was 20 °C. The substrate, which is the silver nanowire membrane, underwent cyclic oxidation and reduction during the applied potential range. The main reactions occurring during this potential scan are depicted in Equations (1) and (2). 
+ <disp-formula>Oxidation step: Ag + Cl
+  <sup>−</sup> − e
+  <sup>−</sup> → AgCl
+  <label>(1)</label>
+ </disp-formula>
+ <disp-formula>Reduction steps: AgCl + e
+  <sup>−</sup> → Ag + Cl
+  <sup>−</sup>
+  <label>(2)</label>
+ </disp-formula> As the reaction system contains a low concentration of chloride ions, elemental silver is oxidized to silver chloride in the oxidation step (Equation (1)), and silver chloride is reduced to elemental silver in the reduction step (Equation (2)). Thus, the plasmonic nanostructures on the silver nanowire membrane can be refactored by the CV process. It should be noted that the current and charge decreased gradually with each cycle, which suggests that the overall resistance of the membrane increased slowly, which might be due to the conversion of silver nanowires into silver nanoparticles and nanorods.
+</p>

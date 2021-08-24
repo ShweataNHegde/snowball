@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Since the scan rate determines the flux of analytes to the electrode surface, we hypothesized that using the scalene waveform, which varies the scan rates when ramping up and ramping down, would allow us to codetect and differentiate purines and pyrimidines. We used a scalene waveform that sweeps up at 150 V/s and sweeps back down at 400 V/s from −0.4 to 1.45 V, since forward scan rates lower than 150 V/s were less sensitive to nucleotide samples, especially at lower concentrations. We term this the “150–400 scalene waveform”. Using the 150–400 scalene waveform, we first examined the codetection of free adenine, guanine, and cytidine nucleosides, which were obtained from a commercial vendor (see 
+ <xref rid="sec4" ref-type="other">Methods and Materials</xref>). Each gave a distinct oxidation peak, and the shapes of the cyclic voltammograms were distinguishable from one another (
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>A).
+</p>

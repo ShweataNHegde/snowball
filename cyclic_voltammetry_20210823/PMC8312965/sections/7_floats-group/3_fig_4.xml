@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig position="float" id="pone.0254594.g004">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0254594.g004</object-id>
+ <label>Fig 4</label>
+ <caption>
+  <p>a) A 1 
+   <italic toggle="yes">μ</italic>M epinephrine voltammogram showing primary and secondary oxidation peaks, superimposed with curvature and true integration limits. b) Primary-peak oxidation charges for a flow cell experiment with 15 injections of epinephrine at different concentrations, obtained with different pairs of integration limits. Averages and standard deviations for charges using FSCAV (in italic) and curvature (bold) integration boundaries are also shown. Quantities shown in the figure indicate averages ± standard deviations.
+  </p>
+ </caption>
+ <graphic xlink:href="pone.0254594.g004" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig3" position="float">
+ <label>Figure 3</label>
+ <caption>
+  <p>Bode plot of equivalent circuits in 
+   <xref rid="sch1" ref-type="scheme">Scheme 
+    <xref rid="sch1" ref-type="scheme">1</xref>
+   </xref>B for the amplitude (A) and the phase (B).
+  </p>
+ </caption>
+ <graphic xlink:href="ao0c04702_0004" id="gr4" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

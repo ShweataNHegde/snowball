@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Demonstrating that shorter single-stranded sequences are more easily detected than longer ones, we then tested whether annealing two complementary strands alters detection relative to their single-stranded forms. For this experiment, we annealed 5′-AGTAGTAGTAGTAG-3′ and 5′-CTACTACTACTACT-3′ carefully by heat and slow cooling (see 
+ <xref rid="sec4" ref-type="other">Methods and Materials</xref>). It appears that the peak oxidative currents of adenine and guanine in the ssDNA show significantly greater signal than the double-stranded duplex (
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>A,B).Thus, we found that a key parameter for detection was whether the DNA was single-stranded (ssDNA) or double-stranded (dsDNA) in addition to its length. The sensitivity of adenine (
+ <italic>n</italic> = 3, 
+ <italic>p</italic> &lt; 0.001, 
+ <italic>t</italic>-test) and guanine (
+ <italic>n</italic> = 3, 
+ <italic>p</italic> = 0.0021, 
+ <italic>t</italic>-test) in a mixture of ssDNA is higher than that of hybridized dsDNA, as can be seen from 
+ <xref rid="fig4" ref-type="fig">Figure 
+  <xref rid="fig4" ref-type="fig">4</xref>
+ </xref>A,B. The lower sensitivity of adenine and guanine in the dsDNA can be attributed to the formation of the double-helix structure, where nucleobases are not exposed to be freely adsorbed onto the electrode. In addition to this blocking effect, the concentration of the phosphate groups in the annealed DNA is doubled, and they surround the entire exterior of the molecule, which will be electrostatically repelled from the negatively charged surface of the CFMEs.
+</p>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig2" position="float">
+ <label>Figure 2</label>
+ <caption>
+  <p>(A) Time versus the applied current in galvanostatic charging–discharging. (B) Galvanostatic charge and discharge profiles of the equivalent circuit consisted of CPE with various 
+   <italic>n</italic> values.
+  </p>
+ </caption>
+ <graphic xlink:href="ao0c04702_0003" id="gr3" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

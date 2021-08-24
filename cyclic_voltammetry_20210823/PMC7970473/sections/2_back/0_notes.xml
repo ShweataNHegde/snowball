@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes id="notes1" notes-type="si">
+ <title>Supporting Information Available</title>
+ <p>The Supporting Information is available free of charge at 
+  <ext-link ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsomega.0c04845?goto=supporting-info" xmlns:xlink="http://www.w3.org/1999/xlink">https://pubs.acs.org/doi/10.1021/acsomega.0c04845</ext-link>.
+  <list id="silist" list-type="simple">
+   <list-item>
+    <p>Cyclic voltammograms of conventional triangle waveform to codetect purines compared to scalene waveform with a 150 V/s forward scan rate to codetect purines; background-subtracted CVs of cytidine with varying concentrations and concentration experiment showing a linear relationship between cytidine concentration and the peak oxidative current between 5 and 20 μM; cyclic voltammograms of the codetection of cytidine and 20 μM adenine and guanine with varying cytidine concentrations of 1, 5, and 10 μM and representative color plot for the codetection of 1 μM cytidine and 20 μM adenine and 20 μM guanine in a rat serum sample; representative cyclic voltammograms of the codetection of 20 μM adenine and guanine in ssDNA, codetection of adenine and guanine with simultaneously varying concentrations in the range of 10–100 μM, and concentration experiment showing a linear relationship between the concentration of each purine and peak oxidative current between 20 and 100 μM (
+     <italic>n</italic> = 3); and cyclic voltammograms of the spike-in test with adenosine, guanosine, and cytidine (
+     <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04845/suppl_file/ao0c04845_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">PDF</ext-link>)
+    </p>
+   </list-item>
+  </list>
+ </p>
+</notes>

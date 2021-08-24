@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref1">
+ <mixed-citation publication-type="journal" id="cit1">
+  <name>
+   <surname>Zhou</surname>
+   <given-names>W.</given-names>
+  </name>; 
+  <name>
+   <surname>Saran</surname>
+   <given-names>R.</given-names>
+  </name>; 
+  <name>
+   <surname>Liu</surname>
+   <given-names>J.</given-names>
+  </name>
+  <article-title>Metal sensing by DNA</article-title>. 
+  <source>Chem. Rev.</source>
+  <year>2017</year>, 
+  <volume>117</volume>, 
+  <fpage>8272</fpage>–
+  <lpage>8325</lpage>. 
+  <pub-id pub-id-type="doi">10.1021/acs.chemrev.7b00063</pub-id>.
+  <pub-id pub-id-type="pmid">28598605</pub-id>
+ </mixed-citation>
+</ref>

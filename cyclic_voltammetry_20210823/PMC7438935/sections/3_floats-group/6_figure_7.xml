@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F7" position="float">
+ <label>Figure 7</label>
+ <caption>
+  <p>MCPE cyclic voltammetry at different scanning rates vs. SCE 100 mVs
+   <sup>−1</sup> (–), 50 mVs
+   <sup>−1</sup> (- - -) and 25 mVs
+   <sup>−1</sup> (···). The insert shows the current dependency to the logarithm of scan rate.
+  </p>
+ </caption>
+ <graphic xlink:href="fchem-08-00617-g0007" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

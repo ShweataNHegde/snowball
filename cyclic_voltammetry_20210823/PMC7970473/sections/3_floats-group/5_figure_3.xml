@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig3" position="float">
+ <label>Figure 3</label>
+ <caption>
+  <p>Nucleoside and nucleotide codetection comparison. (A,B) Adenosine and guanosine codetection at different concentrations along with their respective 
+   <italic>R</italic>
+   <sup>2</sup> values comparing lower concentrations (
+   <italic>p</italic> &lt; 0.0001, 
+   <italic>n</italic> = 3 for both). (C,D) Adenine and guanine codetection in 10 bp ssDNA (5′-AATAATAATAATAA-3′, 5′-GGTGGTGGTGGTGG-3′) and their comparison at lower concentrations (
+   <italic>p</italic> &lt; 0.0001, 
+   <italic>n</italic> = 3 for both). (E,F) Adenine and guanine codetection in 20 bp ssDNA (5′-AATAATAATAATAATAATAATAATAATAA-3′, 5′-GGTGGTGGTGGTGGTGGTGGT GGTGGTGG-3′) and their comparison at a lower concentration (
+   <italic>p</italic> &lt; 0.0001, 
+   <italic>n</italic> = 3 for both). (B,D,F) Linear range for detection at lower concentrations. Corresponding 
+   <italic>t</italic>-test on the peak oxidative current of (G) adenine in shorter (10 bases) and longer (20 bases) ssDNA (
+   <italic>n</italic> = 3, 
+   <italic>p</italic> = 0.0017, two-tailed and unpaired 
+   <italic>t</italic>-test) and (H) guanine in 10 bases and 20 bases ssDNA (
+   <italic>n</italic> = 3, 
+   <italic>p</italic> &lt; 0.05, two-tailed and unpaired 
+   <italic>t</italic>-test).
+  </p>
+ </caption>
+ <graphic xlink:href="ao0c04845_0004" id="gr3" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

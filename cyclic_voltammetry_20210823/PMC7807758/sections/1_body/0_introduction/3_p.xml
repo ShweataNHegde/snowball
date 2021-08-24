@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Electrochemical impedance spectroscopy (EIS) is another electrochemical technique concomitant with CV.
+ <sup>
+  <xref ref-type="bibr" rid="ref4">4</xref>
+ </sup> EIS is based on a small-amplitude AC signal at a constant DC bias. EIS data have been analyzed based on equivalent circuits composed of passive elements such as resistance, capacitance, and Warburg impedance. A physical meaning is assigned to each element, including the charge-transfer resistance, double-layer capacitance, and diffusion impedance. Experimental data have shown a systematic deviation from a simple model, especially for double-layer capacitance as a nonfaradic process. While the GCS model predicts the response of an ideal capacitor for a small AC signal whose phase shift is π/2, the experimental current compared to the applied AC voltage is shifted by 
+ <italic>n</italic> × π/2, where 
+ <italic>n</italic> is a value between 0 and 1. This new passive element, called a constant-phase element (CPE) in EIS, has been widely used in equivalent circuits for EIS. The CPE can be written as
+ <disp-formula id="eq1">
+  <graphic xlink:href="ao0c04702_m001" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <label>1</label>
+ </disp-formula>where 
+ <italic>i</italic> is an imaginary unit (
+ <italic>i</italic>
+ <sup>2</sup> = −1), ω is an angular frequency, and 
+ <italic>Q</italic>
+ <sub>0</sub> and 
+ <italic>n</italic> (0–1) are the characteristic values corresponding to the double layer.
+ <sup>
+  <xref ref-type="bibr" rid="ref5">5</xref>,
+  <xref ref-type="bibr" rid="ref6">6</xref>
+ </sup> The 
+ <italic>Q</italic>
+ <sub>0</sub> parameter represents ideal capacitor behavior when 
+ <italic>n</italic> = 1 or intermediate characteristics between a capacitor and a resistor when 
+ <italic>n</italic> &lt; 1.
+ <sup>
+  <xref ref-type="bibr" rid="ref7">7</xref>
+ </sup> Although the origin of the CPE is still not clear,
+ <sup>
+  <xref ref-type="bibr" rid="ref8">8</xref>−
+  <xref ref-type="bibr" rid="ref12">12</xref>
+ </sup> it remains a viable empirical element for use in EIS techniques.
+</p>

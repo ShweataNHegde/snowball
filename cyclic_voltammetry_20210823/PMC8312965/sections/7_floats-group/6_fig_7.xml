@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig position="float" id="pone.0254594.g007">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0254594.g007</object-id>
+ <label>Fig 7</label>
+ <caption>
+  <p>a) Curvature integration limits for the reduction dips of the data set of 
+   <xref rid="pone.0254594.g003" ref-type="fig">Fig 3(a)</xref>. Minimum reduction currents are shown with asterisks. b) Reduction charges (absolute value) for the data set of 
+   <xref rid="pone.0254594.g003" ref-type="fig">Fig 3(a)</xref>, obtained with inflection and curvature (bold) integration boundaries. Quantities shown in the figure indicate averages ± standard deviations.
+  </p>
+ </caption>
+ <graphic xlink:href="pone.0254594.g007" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

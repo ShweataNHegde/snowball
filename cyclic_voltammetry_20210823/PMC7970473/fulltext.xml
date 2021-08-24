@@ -1,0 +1,725 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xml:lang="EN" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-id journal-id-type="coden">acsodf</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7970473</article-id><article-id pub-id-type="doi">10.1021/acsomega.0c04845</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Direct Detection of DNA and RNA on Carbon Fiber Microelectrodes
+Using Fast-Scan Cyclic Voltammetry</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Asrat</surname><given-names>Thomas
+M.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="notes2" ref-type="notes">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Cho</surname><given-names>Whirang</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="notes2" ref-type="notes">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Liu</surname><given-names>Favian A.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Shapiro</surname><given-names>Sarah M.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Bracht</surname><given-names>John R.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath6"><name><surname>Zestos</surname><given-names>Alexander G.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Department
+of Chemistry, <institution>American University</institution>, Washington, D.C. 20016, <country>United States</country></aff><aff id="aff2"><label>&#x02021;</label>Department
+of Biology, <institution>American University</institution>, Washington, D.C. 20016, <country>United States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>zestos@american.edu</email>.</corresp></author-notes><pub-date pub-type="epub"><day>03</day><month>03</month><year>2021</year></pub-date><pub-date pub-type="collection"><day>16</day><month>03</month><year>2021</year></pub-date><volume>6</volume><issue>10</issue><fpage>6571</fpage><lpage>6581</lpage><history><date date-type="received"><day>03</day><month>10</month><year>2020</year></date><date date-type="accepted"><day>18</day><month>02</month><year>2021</year></date></history><permissions><copyright-statement>&#x000a9; 2021 The
+Authors. Published by American
+Chemical Society</copyright-statement><copyright-year>2021</copyright-year><copyright-holder>The Authors</copyright-holder><license license-type="open-access"><license-p>Permits non-commercial access and re-use, provided that author attribution and integrity are maintained; but does not permit creation of adaptations or other derivative works (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">https://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04845_0011" id="ab-tgr1"/></p><p>DNA and RNA have
+been measured with many techniques but often with
+relatively long analysis times. In this study, we utilize fast-scan
+cyclic voltammetry (FSCV) for the subsecond codetection of adenine,
+guanine, and cytosine, first as free nucleosides, and then within
+custom synthesized oligos, plasmid DNA, and RNA from the nematode <italic>Caenorhabditis elegans</italic>. Previous studies have shown
+the detection of adenosine and guanosine with FSCV with high spatiotemporal
+resolution, while we have extended the assay to include cytidine and
+adenine, guanine, and cytosine in RNA and single- and double-stranded
+DNA (ssDNA and dSDNA). We find that FSCV testing has a higher sensitivity
+and yields higher peak oxidative currents when detecting shorter oligonucleotides
+and ssDNA samples at equivalent nucleobase concentrations. This is
+consistent with an electrostatic repulsion from negatively charged
+oxide groups on the surface of the carbon fiber microelectrode (CFME),
+the negative holding potential, and the negatively charged phosphate
+backbone. Moreover, as opposed to dsDNA, ssDNA nucleobases are not
+hydrogen-bonded to one another and thus are free to adsorb onto the
+surface of the carbon electrode. We also demonstrate that the simultaneous
+determination of nucleobases is not masked even in biologically complex
+serum samples. This is the first report demonstrating that FSCV, when
+used with CFMEs, is able to codetect nucleobases when polymerized
+into DNA or RNA and could potentially pave the way for future uses
+in clinical, diagnostic, or research applications.</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao0c04845</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao0c04845</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Deoxyribonucleic
+acid (DNA) carries the genetic information needed
+to sustain life <italic>via</italic> unique combinations of four different
+nucleobases (adenine, guanine, thymine, and cytosine) and has a double-stranded
+structure with its nucleobases shielded by the phosphate backbone
+groups.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> Two of these nucleobases, adenine
+and guanine, are purines, with a double-ring structure. The other
+two, thymine and cytosine, are pyrimidines containing a single-ring
+structure.<sup><xref ref-type="bibr" rid="ref2">2</xref>&#x02212;<xref ref-type="bibr" rid="ref4">4</xref></sup> Various analytical techniques have been developed
+for the detection of DNA or RNA, such as capillary zone electrophoresis,<sup><xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref6">6</xref></sup> high-performance liquid chromatography,<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> fluorescence,<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> gas chromatography,<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> and infrared reflection absorption spectroscopy.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> To identify specific DNA or RNA sequences, polymerase
+chain reaction (PCR)<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> and hybridization-
+or sequence-based high-throughput methods, including microarrays<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> and DNA or RNA sequencing (DNA-seq or RNA-Seq)<sup><xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref14">14</xref></sup> have been developed. These methods are well established, but they
+are relatively slow, while electrochemical sensors offer simpler,
+less expensive, and faster (millisecond) methods for sample evaluation,<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> which can be used for evaluating samples prior
+to sequence-based methods.<sup><xref ref-type="bibr" rid="ref16">16</xref>,<xref ref-type="bibr" rid="ref17">17</xref></sup></p><p>Electrochemical
+DNA biosensors detect the redox signal of the target
+analytes or a hybridization of a specific single-stranded DNA (ssDNA)
+sequence with its complementary strand, which are accumulated on the
+electrode surface.<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref19">19</xref></sup> The purine bases of DNA can be
+oxidized electrochemically through carbon, gold,<sup><xref ref-type="bibr" rid="ref64">64</xref></sup> indium tin oxide, and polymer-coated conductive electrodes.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> The most commonly used electrochemical biosensors
+are carbon-based biosensors.<sup><xref ref-type="bibr" rid="ref20">20</xref>&#x02212;<xref ref-type="bibr" rid="ref26">26</xref></sup> Among carbon-based sensors, carbon fiber microelectrodes (CFMEs)
+are suitable for detecting biomolecular analytes at subsecond times
+with high sensitivity and selectivity.<sup><xref ref-type="bibr" rid="ref27">27</xref>&#x02212;<xref ref-type="bibr" rid="ref30">30</xref></sup> They are relatively small, inert,
+and biocompatible and thus can be used for the <italic>in vivo</italic> detection of neurotransmitters.<sup><xref ref-type="bibr" rid="ref31">31</xref>&#x02212;<xref ref-type="bibr" rid="ref35">35</xref></sup> Fast-scan cyclic voltammetry (FSCV) coupled with
+CFMEs is a commonly used electrochemical technique to detect neurotransmitters
+in the brain with subsecond temporal resolution.<sup><xref ref-type="bibr" rid="ref32">32</xref>,<xref ref-type="bibr" rid="ref34">34</xref>,<xref ref-type="bibr" rid="ref36">36</xref>&#x02212;<xref ref-type="bibr" rid="ref39">39</xref>,<xref ref-type="bibr" rid="ref65">65</xref></sup> In recent years, it has been explored to study the rapid purinergic
+signaling in the brain. Specifically, the Venton laboratory showed
+that adenosine can be detected with FSCV utilizing the triangle waveforms
+at high (1.45 V) switching potentials.<sup><xref ref-type="bibr" rid="ref40">40</xref></sup> With FSCV, it is more facile to detect purines (adenosine and guanosine)
+than pyrimidines (cytidine and thymine) due to their higher oxidative
+electrochemical activity. However, conventional triangular waveforms
+produce overlapping peaks for adenosine and guanosine,<sup><xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref41">41</xref>&#x02212;<xref ref-type="bibr" rid="ref43">43</xref></sup> thus making it challenging to codetect these analytes
+simultaneously using FSCV.</p><p>Recently, the Ross group has shown
+the codetection of adenosine
+and guanosine with FSCV by utilizing a &#x0201c;scalene&#x0201d;-shaped
+waveform to increase the oxidative peak separation between guanosine
+and adenosine.<sup><xref ref-type="bibr" rid="ref44">44</xref></sup> Despite the significantly
+improved resolution between guanosine and adenosine as compared with
+that of the conventional triangle waveform, the simultaneous detection
+of polymerized nucleobases within DNA or RNA has not yet been explored.
+Moreover, cytosine (a pyrimidine), in particular, has a relatively
+higher oxidation potential and slower electron-transfer kinetics compared
+with purine bases, guanine and adenine.<sup><xref ref-type="bibr" rid="ref45">45</xref></sup></p><p>In this study, we optimized a scalene waveform for FSCV testing
+with CFMEs coupled with DNA base ratios in a mixture to multiplex
+the detection of adenine, guanine, and cytosine applied to oligonucleotides,
+extracted plasmid DNA, and <italic>Caenorhabditis elegans</italic> RNA. We demonstrate a higher sensitivity toward shorter and single-stranded
+oligonucleotide samples than longer and double-stranded oligonucleotides,
+respectively. Furthermore, we show that nucleobases can be detected
+in a complex rat serum sample in spite of interfering biological substances.
+This suggests that FSCV with CFMEs can be used in complex biological
+fluids to detect DNA or RNA, evaluating multiple nucleobase analytes,
+simultaneously.</p></sec><sec id="sec2"><label>2</label><title>Results and Discussion</title><sec id="sec2.1"><label>2.1</label><title>Codetection of Nucleosides and Nucleotides</title><p>Since the
+scan rate determines the flux of analytes to the electrode
+surface, we hypothesized that using the scalene waveform, which varies
+the scan rates when ramping up and ramping down, would allow us to
+codetect and differentiate purines and pyrimidines. We used a scalene
+waveform that sweeps up at 150 V/s and sweeps back down at 400 V/s
+from &#x02212;0.4 to 1.45 V, since forward scan rates lower than 150
+V/s were less sensitive to nucleotide samples, especially at lower
+concentrations. We term this the &#x0201c;150&#x02013;400 scalene waveform&#x0201d;.
+Using the 150&#x02013;400 scalene waveform, we first examined the codetection
+of free adenine, guanine, and cytidine nucleosides, which were obtained
+from a commercial vendor (see <xref rid="sec4" ref-type="other">Methods and Materials</xref>). Each gave a distinct oxidation peak, and the shapes of the cyclic
+voltammograms were distinguishable from one another (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A).</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Codetection of adenine,
+guanine, and cytosine using the modified
+scalene waveform. Representative cyclic voltammograms of (A) nucleosides
+and (B) nucleotides with a ratio of 1 cytosine to 20 purine bases
+(adenine and guanine) and the corresponding color plots for (C) nucleosides
+and (D) nucleotides. 10-bp synthetic poly-AAT (5&#x02032;-AATAATAATAATAA-3&#x02032;),
+poly-GGT (5&#x02032;-GGTGGTGGTGGTGG-3&#x02032;), and poly-CCT (5&#x02032;-CCTCCTCCTCCTCC-3&#x02032;)
+were used. (E) 150/400 scalene waveform, which ramps up from &#x02212;0.4
+to 1.45 V at 150 V/s and ramps down at 400 V/s.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04845_0002" id="gr1" position="float"/></fig><p>The oxidation of adenosine and guanosine occurs at the purine nucleobase
+moieties, adenine and guanine. Among the three nitrogenous bases,
+guanosine yields the highest peak oxidative current because guanine
+is the most electrochemically active base. Guanosine&#x02019;s oxidation
+involves two-step oxidation processes with transferring four electrons
+and four protons. The first step oxidizes guanosine to 8-oxoguanosine
+(<xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>), which is
+the rate-limiting step. This is followed by a secondary oxidation
+step which yields an unstable product.<sup><xref ref-type="bibr" rid="ref41">41</xref></sup> The corresponding oxidation peaks can be found at 1.15 V for the
+primary peak and at 0.65 V for the secondary peak, respectively (both
+on the forward scan) as shown in the literature.<sup><xref ref-type="bibr" rid="ref45">45</xref></sup> Meanwhile, adenosine&#x02019;s molecular oxidation involves
+three oxidation steps with total exchanges of six electrons and six
+protons, yielding a dicarbonium ion as an intermediate (<xref rid="sch2" ref-type="scheme">Scheme <xref rid="sch2" ref-type="scheme">2</xref></xref>).<sup><xref ref-type="bibr" rid="ref46">46</xref></sup> The corresponding oxidative peaks for adenosine are found at 1.4
+V on the backward scan for the primary peak and 0.95 and 0.2 V for
+the secondary and tertiary peaks, respectively.<sup><xref ref-type="bibr" rid="ref40">40</xref>,<xref ref-type="bibr" rid="ref44">44</xref>,<xref ref-type="bibr" rid="ref46">46</xref></sup> The oxidation peak of cytidine was observed
+at around 0.65 V with varying concentrations as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04845/suppl_file/ao0c04845_si_001.pdf">Figure S2</ext-link>, where the slope of the linear plot
+(sensitivity) was 0.06 nA/&#x003bc;M, 2 orders of magnitude lower than
+those of adenosine and guanosine. Cytidine undergoes a reversible
+one-step oxidation with a transfer of two electrons and two protons
+(<xref rid="sch3" ref-type="scheme">Scheme <xref rid="sch3" ref-type="scheme">3</xref></xref>).<sup><xref ref-type="bibr" rid="ref47">47</xref></sup></p><fig id="sch1" position="float"><label>Scheme 1</label><caption><title>Oxidation&#x02013;Reduction Reaction Schemes
+of Guanosine; Four Electrons
+Are Involved in Oxidizing Guanosine to Produce the Final Product<sup><xref ref-type="bibr" rid="ref41">41</xref></sup></title><p id="s1fn1">Adapted with permission from
+[<italic>Analyst</italic><bold>2019,</bold><italic>144</italic> (1),
+249&#x02013;257]. Copyright [2019] [Royal Society of Chemistry].</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04845_0008" id="gr7" position="float"/></fig><fig id="sch2" position="float"><label>Scheme 2</label><caption><title>Oxidation Schemes of Adenosine Where the First Two
+Oxidations of
+Adenosine Involving Two Electrons Each Are Irreversible<sup><xref ref-type="bibr" rid="ref46">46</xref></sup></title><p id="s2fn1">The product from the tertiary
+oxidation can be reduced back regaining two electrons. Adapted with
+permission from [<italic>Anal. Chem.</italic><bold>2007,</bold><italic>79,</italic> 2, 744&#x02013;750. Copyright [2007] [ACS publications].</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04845_0009" id="gr8" position="float"/></fig><fig id="sch3" position="float"><label>Scheme 3</label><caption><title>Oxidation Scheme of Cytosine Involving the Electron-Transfer
+Mechanism<sup><xref ref-type="bibr" rid="ref47">47</xref></sup></title><p id="s3fn1">Adapted with permission
+from
+[<italic>Int. J. Electrochem. Sci.</italic><bold>2017,</bold><italic>12,</italic> 2329&#x02013;2343]. Copyright [2017] [International Journal
+of Electrochemical Science].</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04845_0010" id="gr9" position="float"/></fig><p>For the multianalyte
+codetection, we noted that the oxidative peak
+of adenosine is masked by the oxidative peak of cytidine during the
+codetection of the three nucleobases (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04845/suppl_file/ao0c04845_si_001.pdf">Figure S3</ext-link>). It can be attributed to adenosine&#x02019;s adsorption-controlled
+interaction with the carbon fiber electrode, which is typically slower
+than guanosine&#x02019;s diffusion and partially adsorption-controlled
+interaction. In order to minimize the interfering effect of cytidine
+while maintaining its sensitivity, a molar ratio mixture of 1 cytidine
+to 20 adenosine and guanosine (1C:20A:20G) was used. The distinction
+between the oxidative peaks of adenine, cytosine, and guanine can
+be verified by a color plot, which shows the separation of each oxidation
+peak at different voltages (<italic>y</italic>-axis) as shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>C,D. The simultaneous
+measurement CV of adenine, guanine, and cytosine was obtained from
+the vertical slice of this color plot at approximately 5.5 s. The
+false color plot is a representation of current versus voltage over
+time. The blue color represents the negative reduction current, while
+the green color represents the positive oxidation current, and yellow
+represents the background charging current as shown in the scale.
+There is less distinction between the primary peaks of cytosine, showing
+some coalescence with the secondary oxidative peak for guanine since
+it has a sensitivity of 0.06 nA/&#x003bc;M, which is 2 orders of magnitude
+lower than those of guanosine. The separation of the peaks indicates
+their difference in kinetic activity at the electrode cycling voltages.</p><p>Having shown that free nucleosides can be codetected using the
+150&#x02013;400 scalene waveform, we tested whether the synthetic ssDNA
+is a suitable substrate for the codetection of the three nucleobases.
+For this experiment, we tested 10-bp synthetic poly-AAT or poly-GGT
+(to avoid G-quadruplex) sequences. While the position of each potential
+remains unchanged, there is a significant difference in the oxidative
+current relative to free nucleosides (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B). This can likely be attributed to the
+negatively charged sugar&#x02013;phosphate backbone of the ssDNA that
+is electrostatically repelled from the carbon surface and may affect
+the kinetics of adsorption and/or desorption to the electrode surface.</p><p>To determine whether the nucleobases are adsorption controlled
+to the surface of the electrode, we performed a series of concentration
+dilution experiments directly comparing both adenine in ssDNA versus
+adenosine and guanine in ssDNA versus guanosine. <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>A,C shows that the peak oxidative
+current response is linear at lower concentrations, whereas it becomes
+asymptotic at higher concentrations (both for A-based or G-based analytes)
+above 20 &#x003bc;M. This suggests that adenosine becomes saturated
+on the electrode surface at higher concentrations. These experiments
+reveal that the peak oxidative current of both adenosine and adenine
+is indeed concentration-dependent. This also corroborated our hypothesis
+that adenosine is adsorption-controlled to the surface of the carbon
+electrode due to the linear relationship between the peak oxidative
+current and concentration. The sensitivity of the analytes can be
+quantified by the slope of the linear region. The sensitivity of adenosine
+is 1.93 nA/&#x003bc;M, whereas that of adenine in 10 bp poly-AAT ssDNA
+is 0.82 nA/&#x003bc;M, which is a 58% decrease (<italic>n</italic> =
+3). Moreover, the sensitivity of guanosine (4.15 nA/&#x003bc;M) is dramatically
+decreased to 0.44 nA/&#x003bc;M for the guanine in 10 bp poly-GGT ssDNA,
+which is nearly a 10-fold decrease as plotted in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>B,D. These results suggest
+that the electrostatic repulsion from the negatively charged phosphate
+backbone groups of the ssDNA and its bulkier size with respect to
+single nucleobases reduce their adsorption to the negatively charged
+electrode surface, hence decreasing the sensitivity. Furthermore,
+a significant decrease in the sensitivity of guanine in 10 bp ssDNA
+compared to that of adenine can explain the higher oxidative current
+of adenine compared to guanine in the ssDNA mixture sample (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B).</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Comparison of the concentration
+curve between (A) adenosine and
+adenine in ssDNA (5&#x02032;-AATAATAATAATAA-3&#x02032;) and (B) guanosine
+and guanine in ssDNA (5&#x02032;-GGTGGTGGTGGTGG-3&#x02032;). The detection
+sensitivity of purine bases in nucleosides and nucleotides was compared
+at (C) adenosine versus adenine in ssDNA at 50 &#x003bc;M (<italic>p</italic> = 0.0045, <italic>n</italic> = 3, two-tailed and unpaired <italic>t</italic>-test) and (D) guanosine versus guanine in ssDNA at 50
+&#x003bc;M (<italic>p</italic> &#x0003c; 0.0001, <italic>n</italic> = 3,
+two-tailed and unpaired <italic>t</italic>-test). The peak oxidative
+current of purine bases was used to normalize the peak currents of
+each nucleotide in 10 bp ssDNA.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04845_0003" id="gr2" position="float"/></fig><p>During nucleoside codetection, guanosine displayed a higher sensitivity
+compared to adenosine (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>A,B). The concentration curve displays a linear relationship
+between the concentration of each purine and peak oxidative current
+between 1 and 20 &#x003bc;M. Although the overall sensitivity is lower
+compared to the single measurement of each analyte, guanosine (0.9
+nA/&#x003bc;M) still has a higher sensitivity than adenosine (0.75 nA/&#x003bc;M)
+in their nucleoside mixture. However, the overall peak oxidation current
+of adenine is higher than that of guanine, as shown in <xref rid="fig3" ref-type="fig">Figures <xref rid="fig3" ref-type="fig">3</xref></xref>C and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04845/suppl_file/ao0c04845_si_001.pdf">S4</ext-link>. Moreover, we observe a linear relationship between the
+peak oxidative current and concentration between 1 and 20 &#x003bc;M
+(<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>D).</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Nucleoside
+and nucleotide codetection comparison. (A,B) Adenosine
+and guanosine codetection at different concentrations along with their
+respective <italic>R</italic><sup>2</sup> values comparing lower concentrations
+(<italic>p</italic> &#x0003c; 0.0001, <italic>n</italic> = 3 for both).
+(C,D) Adenine and guanine codetection in 10 bp ssDNA (5&#x02032;-AATAATAATAATAA-3&#x02032;,
+5&#x02032;-GGTGGTGGTGGTGG-3&#x02032;) and their comparison at lower
+concentrations (<italic>p</italic> &#x0003c; 0.0001, <italic>n</italic> = 3 for both). (E,F) Adenine and guanine codetection in 20 bp ssDNA
+(5&#x02032;-AATAATAATAATAATAATAATAATAATAA-3&#x02032;, 5&#x02032;-GGTGGTGGTGGTGGTGGTGGT
+GGTGGTGG-3&#x02032;) and their comparison at a lower concentration
+(<italic>p</italic> &#x0003c; 0.0001, <italic>n</italic> = 3 for both).
+(B,D,F) Linear range for detection at lower concentrations. Corresponding <italic>t</italic>-test on the peak oxidative current of (G) adenine in shorter
+(10 bases) and longer (20 bases) ssDNA (<italic>n</italic> = 3, <italic>p</italic> = 0.0017, two-tailed and unpaired <italic>t</italic>-test)
+and (H) guanine in 10 bases and 20 bases ssDNA (<italic>n</italic> = 3, <italic>p</italic> &#x0003c; 0.05, two-tailed and unpaired <italic>t</italic>-test).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04845_0004" id="gr3" position="float"/></fig><p>Having shown that polymerized
+nucleobases can be measured, we hypothesized
+that increasing the sequence length would hinder the sensitivity of
+nucleobases due to both size and charge characteristics. As can be
+seen in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>E,F,
+the longer molecules (20 bp poly-AAT and poly-GGT ssDNA) have approximately
+half the signal/sensitivity (current) observed from the shorter molecules
+(10 bp poly-AAT and poly-GGT ssDNA). The corresponding statistical
+analyses further demonstrate that both adenine (<italic>n</italic> = 3, <italic>p</italic> = 0.0017, <italic>t</italic>-test) and guanine
+(<italic>n</italic> = 3, <italic>p</italic> &#x0003c; 0.05, <italic>t</italic>-test) in longer (20 bp) ssDNA have a significantly decreased sensitivity
+compared to those in shorter (10 bp) ssDNA as shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>G,H. This lower sensitivity
+is presumably due to the limitation of the longer base pair DNA mobility,
+thus reducing the adsorption capacity and the resulting electrochemical
+activity at the surface of the electrode. Moreover, we hypothesized
+that the increased number of negatively charged phosphate groups in
+longer ssDNA increases the electrostatic repulsion at the surface
+of the carbon fiber electrode, specifically oxygen-containing groups
+at the edge plane of the graphitic lattice and from the negative holding
+potential.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup></p><p>Demonstrating that shorter
+single-stranded sequences are more easily
+detected than longer ones, we then tested whether annealing two complementary
+strands alters detection relative to their single-stranded forms.
+For this experiment, we annealed 5&#x02032;-AGTAGTAGTAGTAG-3&#x02032;
+and 5&#x02032;-CTACTACTACTACT-3&#x02032; carefully by heat and slow
+cooling (see <xref rid="sec4" ref-type="other">Methods and Materials</xref>). It appears
+that the peak oxidative currents of adenine and guanine in the ssDNA
+show significantly greater signal than the double-stranded duplex
+(<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>A,B).Thus,
+we found that a key parameter for detection was whether the DNA was
+single-stranded (ssDNA) or double-stranded (dsDNA) in addition to
+its length. The sensitivity of adenine (<italic>n</italic> = 3, <italic>p</italic> &#x0003c; 0.001, <italic>t</italic>-test) and guanine (<italic>n</italic> = 3, <italic>p</italic> = 0.0021, <italic>t</italic>-test)
+in a mixture of ssDNA is higher than that of hybridized dsDNA, as
+can be seen from <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>A,B. The lower sensitivity of adenine and guanine in the dsDNA can
+be attributed to the formation of the double-helix structure, where
+nucleobases are not exposed to be freely adsorbed onto the electrode.
+In addition to this blocking effect, the concentration of the phosphate
+groups in the annealed DNA is doubled, and they surround the entire
+exterior of the molecule, which will be electrostatically repelled
+from the negatively charged surface of the CFMEs.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Effect of annealing two
+complementary strands on the peak oxidative
+current (A) adenine in a mixture of ssDNA (5&#x02032;-AGTAGTAGTAGTAG-3&#x02032;)
+and adenine in annealed two complementary ssDNA (5&#x02032;-AGTAGTAGTAGTAG-3&#x02032;
+and 5&#x02032;-CTACTACTACTACT-3&#x02032;) (<italic>n</italic> = 3, <italic>p</italic> &#x0003c; 0.001, two-tailed and unpaired <italic>t</italic>-test) and (B) guanine in a mixture of ssDNA and guanine in annealed
+two complementary ssDNA (<italic>n</italic> = 3, <italic>p</italic> = 0.0021, two-tailed and unpaired <italic>t</italic>-test).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04845_0005" id="gr4" position="float"/></fig><p>To evaluate the practical applicability of a CFME
+sensor, we used
+real biological samples: plasmid DNA (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>A), <italic>C. elegans</italic> RNA in buffer (5B), and rat serum (5C). For both plasmid DNA and <italic>C. elegans</italic> RNA, adenine and guanine were detected,
+displaying an increase in peak oxidative current with respect to their
+increasing concentrations. Adenine appeared to have a higher sensitivity
+than guanine at CFMEs, which is consistent with the aforementioned
+detection sensitivity of polymerized nucleobases. The current response
+of cytosine nucleobases was not within the limit of detection and
+was, therefore, not shown for this assay.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Codetection of (A) adenine
+and guanine in native B9-plasmid DNA.
+(B) Adenine and guanine in native <italic>C. elegans</italic> RNA. (C) Example cyclic voltammograms of the multiplex detection
+of nucleobases with simultaneously increasing rat serum volume. (D)
+Series dilution showing a linear relationship between rat serum concentration
+and peak oxidative current between 4 and 100 &#x003bc;L/mL for all three
+nucleobase peaks.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04845_0006" id="gr5" position="float"/></fig><p>Given that we could detect
+purified biologically isolated DNA and
+RNA, we determined whether the detection of the nitrogenous bases
+could be performed in a complex biological sample such as rat serum.
+The false-color plot shows that oxidative peaks of each nucleobase
+are well-resolved, confirming the separation of each oxidation peak
+at different voltages (<italic>y</italic>-axis) as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04845/suppl_file/ao0c04845_si_001.pdf">Figure S5</ext-link>. Our initial plan was to spike in synthetic
+nucleobases or plasmid DNA, but unexpectedly, the primary oxidation
+peaks of adenine, guanine, and cytosine were detected in the serum
+as shown in the CV plots (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>C). These data suggest that nucleobases are circulating
+in the blood, likely including RNA/DNA from lysed cells. However,
+the peaks appeared slightly shifted to lower oxidative potentials
+at around 1.15, 1.00, and 0.55 V, respectively (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>C). This is shifted from the flow-cell peak
+voltages of 1.4, 1.15, and 0.65 V for A, G, and C, respectively, where
+stock solutions of the nucleobases are diluted in phosphate-buffered
+saline (PBS) buffer (pH = 7.4) (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>).</p><p>To confirm that these peaks are the nucleobases,
+we performed spike-in
+testing of each base with a fixed amount of rat serum and found augmentation
+of each expected endogenous peak as shown in <xref rid="fig6" ref-type="fig">Figures <xref rid="fig6" ref-type="fig">6</xref></xref>A&#x02013;D and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04845/suppl_file/ao0c04845_si_001.pdf">S6A&#x02013;C</ext-link>. An additional peak was observed at around 1.2 V and is associated
+with the spike-in guanosine, which may reflect the peak that we observe
+in rat serum (approximately at 1.00 V) combined with a peak near the
+flow-cell voltage of &#x0223c;1.15 V. Both peaks increase with spiked-in
+guanosine (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04845/suppl_file/ao0c04845_si_001.pdf">Figure S6</ext-link>). These results confirm
+that our method is indeed capable of detecting adenine, guanine, and
+cytosine bases in a rat serum sample. We hypothesize that the overall
+shift of oxidative current peak to a lower oxidative potential found
+at all nucleobases in a rat serum might be attributed to the pH changes
+of the serum<sup><xref ref-type="bibr" rid="ref48">48</xref>&#x02212;<xref ref-type="bibr" rid="ref50">50</xref></sup> or active interfering electrochemical properties
+of constituents in the serum,<sup><xref ref-type="bibr" rid="ref51">51</xref></sup> such as
+hemoglobin, serum albumin, or other proteins.<sup><xref ref-type="bibr" rid="ref52">52</xref></sup> This suggests enhanced electrocatalytic effects, but further experiments
+are required before this can be ascertained. We found that the pH
+of the rat serum in our experiment was 8.5, as opposed to buffer (pH
+= 7.4) and is consistent with the shifted peaks observed. In addition,
+protein&#x02013;protein interactions<sup><xref ref-type="bibr" rid="ref53">53</xref></sup> and
+protein-ion (<italic>i.e.</italic>, Na<sup>+</sup>, K<sup>+</sup> in
+the buffer solution) interactions<sup><xref ref-type="bibr" rid="ref54">54</xref></sup> could
+have possible implications for the ion-shielding and the resulting
+reduced detection of endogenous nucleobases. This is a proof of the
+principle study that FSCV with CFMEs can be utilized to detect nucleobases
+in the presence of a complex biological sample such as serum, which
+would allow for real-world diagnostic applications. This further illustrates
+that endogenous nucleobase-containing samples can be detected using
+our method (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>C).</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>(A) Cyclic voltammograms of the colligative spike-in test with
+adenine, guanine, and cytosine. The corresponding concentrations show
+a linear relationship between the concentration of (B) adenine, (C)
+guanine, (D) cytosine, and peak oxidative current with increasing
+spike-in amount between 0.4 and 20 &#x003bc;M (<italic>n</italic> =
+3).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04845_0007" id="gr6" position="float"/></fig></sec></sec><sec id="sec3"><label>3</label><title>Conclusions
+and Future Perspectives</title><p>This study paves the way for the
+multiplex detection of adenine,
+guanine, and cytosine at the modified scalene waveform. In this work,
+we used CFMEs with FSCV and a scalene waveform to codetect multiple
+nucleobases. We found that single-stranded molecules (whether DNA
+or RNA) have a higher sensitivity of detection than double-stranded
+molecules and that complex sample matrices (such as blood serum) do
+not preclude detection. Therefore, these results suggest that our
+method could eventually be useful in clinical settings such as detecting
+pathogens, particularly, single-stranded RNA or DNA viruses, within
+blood samples.</p><p>Indeed, it has been shown that cell-free DNA
+and RNA are present
+at low levels in the blood of healthy humans and that the levels increase
+upon infection with certain pathogens.<sup><xref ref-type="bibr" rid="ref55">55</xref></sup> For example, difficult-to-diagnose fungal infections have been associated
+with elevated levels of cell-free circulating DNA.<sup><xref ref-type="bibr" rid="ref56">56</xref>,<xref ref-type="bibr" rid="ref57">57</xref></sup> This could be important because fungal infections are often difficult
+or impossible to culture; they have a high fatality rate, and liquid
+biopsy of blood is a promising approach to quickly identify these
+cases.<sup><xref ref-type="bibr" rid="ref57">57</xref>,<xref ref-type="bibr" rid="ref58">58</xref></sup> Our work with FSCV opens the tantalizing
+possibility to begin evaluating levels of cell-free DNA in clinical
+samples from healthy and infected patients to identify clinically
+useable signatures of infection types. More importantly, our work
+shows that the detection of nucleic acids is feasible in complex biological
+contexts like blood serum.</p><p>In addition, it also has been determined
+that cancers and autoimmune
+diseases can cause significant increases in cell-free DNA as cells
+lyse or undergo necrosis.<sup><xref ref-type="bibr" rid="ref59">59</xref></sup> Therefore,
+we speculate that a rapid nucleic acid detector may provide valuable
+information in the clinic, enabling a quick prescreening prior to
+sequence-based testing like PCR. The possibility to test additional
+fluids beyond blood, including urine or saliva, may offer additional
+diagnostic potential.<sup><xref ref-type="bibr" rid="ref60">60</xref></sup> Further applications
+include the measurement of DNA/RNA and nucleotide biosynthesis and
+metabolism at the timescale approaching enzymatic metabolism in real
+time <italic>in situ</italic>.</p><p>Specifically, future work could
+investigate whether classes of
+pathogens have distinct elevated signatures of nucleic acids, whether
+protein or lipid viral coats interfere with the detection using FSCV,
+and to characterize the release of nucleic acids by the host cells.
+Another future direction would be a test with FSCV to detect structurally
+oxidized nucleobases such as 8-oxo-guanine, which correlates with
+cancer and diabetes in humans.<sup><xref ref-type="bibr" rid="ref61">61</xref></sup> Given
+that crime-scene forensics may require the detection of blood or other
+nucleic acid-bearing fluids, the development of a fast, portable,
+biocompatible, and robust CFME biosensor for DNA/RNA with a high spatial
+and temporal resolution may have long-lasting impacts beyond the laboratory
+or clinic.</p></sec><sec id="sec4"><label>4</label><title>Methods and Materials</title><sec id="sec4.1"><label>4.1</label><title>Solutions
+and Chemicals</title><sec id="sec4.1.1"><label>4.1.1</label><title>Purine and Pyrimidine
+Solutions</title><p>Lyophilized adenosine (Cas no: 58-61-7), guanosine
+(Cas no: 118-00-3),
+and cytidine (Cas no: 65-46-3) were obtained from Sigma-Aldrich Co.
+(St. Louis, MO). Each 10 mM stock solution was prepared in 0.1 M perchloric
+acid and diluted with PBS (131.5 mM NaCl, 3.25 mM KCl, 1.2 mM CaCl<sub>2</sub>, 12.5 mM NaH<sub>2</sub>PO<sub>4</sub>, 1.2 mM MgCl<sub>2</sub>, and 2.0 mM Na<sub>2</sub>SO<sub>4</sub> with pH adjusted to 7.4).</p></sec><sec id="sec4.1.2"><label>4.1.2</label><title>Nucleic Acid Solutions</title><p>The synthesized
+ssDNAs with different sizes (10- and 20-mer) were obtained from Integrated
+DNA Technology (IDT) in an anhydrate form. The sequences of 10-mer
+and 20-mer of Poly-GGT ssDNA are 5&#x02032;-GGTGGTGGTGGT ......GG-3&#x02032;,
+where the recurrent thymidine prevents the G oligonucleotide from
+folding and then forming a quadruplex. Similar sequences of 10-mer
+and 20-mer of Poly-A oligonucleotide (10 bp poly-AAT ssDNA, 20 bp
+poly-AAT ssDNA) and 10 bases of Poly-CCT ssDNA (10 bp poly-CCT ssDNA)
+with thymidine were also obtained from IDT. The DNA strands were dissolved
+as a stock solution in nuclease-free water (nondiethyl pyrocarbonate
+treated) from Thermo Fischer Scientific (Life Technologies Corp.,
+Austin, TX). Diluted solutions in the range of 1&#x02013;100 &#x003bc;M
+were prepared as needed with PBS buffer solutions. Single-stranded
+oligonucleotide having sequences of 5&#x02032;-AGTAGTAGTAGTAG-3&#x02032;
+was annealed with its complementary 5&#x02032;-CTACTACTACTACT-3&#x02032;
+sequence. This was accomplished by mixing them at equimolar concentrations
+and then heating the mixture on a hot plate (95 &#x000b0;C) for 5 min.
+After this the hot plate was switched off, allowing the mixture to
+slowly cool to room temperature (approximately 90 min). When we performed
+the detection experiment, we used boiling to reseparate the strands
+as discussed in the text.</p></sec><sec id="sec4.1.3"><label>4.1.3</label><title>Plasmid DNA</title><p>We constructed a high-copy
+plasmid (B9) by ligating a segment of the prp-8 gene from the nematode <italic>Halicephalobus mephisto</italic>(<xref ref-type="bibr" rid="ref62">62</xref>) into the RNAi vector L4440.<sup><xref ref-type="bibr" rid="ref63">63</xref></sup> Specifically,
+single colony of B9-carrying <italic>Escherichia coli</italic> was inoculated into two flasks using a sterile loop and then grown
+in 75 mL of LB culture media supplemented with 50 &#x003bc;g/mL ampicillin
+at 37 &#x000b0;C for 24 h with gentle shaking. The plasmid was then extracted
+from these bacteria using ZymoPure II Plasmid Maxiprep kit (Cat# D4202)
+according to the manufacturer&#x02019;s protocols (one set of columns
+can process 150 mL of bacterial culture), followed by elution using
+400 &#x003bc;L of DI rather than ethylenediaminetetraacetic acid, which
+could cause a background signal in FSCV. The obtained plasmid DNA
+was subsequently diluted in the range of 1&#x02013;10 &#x003bc;M using
+PBS buffer in a centrifuge tube. The denatured form of the plasmid
+DNA was obtained by putting it in boiling water for 5 min and then
+letting it cool down in an ice bath for 2 min.</p></sec><sec id="sec4.1.4"><label>4.1.4</label><title><italic>C. elegans</italic> RNA</title><p>The isolation
+of RNA was performed with Zymo Research
+DNA/RNA Miniprep Plus kit (Cat# D7003). The nematodes were cultured
+on standard nematode growth media plates at room temperature for 1
+week. The worms were washed off the plates in M9 buffer and centrifuged
+at 400<italic>g</italic> for 1 min, followed by aspiration to form
+a high-density pellet. An equal volume of DNA/RNA shield buffer (from
+the Zymo DNA/RNA Miniprep Kit) was added to the pellet and it was
+rapidly frozen at &#x02212;80 &#x000b0;C. To extract RNA from <italic>C. elegans</italic>, the frozen aliquot worms were thawed
+and transferred to ZR Bashing Bead Lysis Tubes (Cat# S6012). They
+were then vortexed for 5 min, followed by a 1 min rest and another
+vortexing for 5 min. Then, 30 &#x003bc;L of proteinase K buffer and
+15 &#x003bc;L of Proteinase K were added to each tube, which was incubated
+for 30 min at 55 &#x000b0;C. The rest of the protocol was performed as
+per the manufacturer&#x02019;s instructions to yield purified RNA for
+the procedure.</p></sec><sec id="sec4.1.5"><label>4.1.5</label><title>Rat Serum</title><p>The
+rat serum was obtained
+from the Davidson Laboratory in the Psychology Department of the American
+University, in accordance with the animal welfare and safety protocol
+#1604. The rats were anesthetized with isoflurane before they were
+decapitated. The blood was drained in a 15 mL falcon tube and was
+allowed to clot for 10&#x02013;15 min at room temperature. It was then
+centrifuged at 2000<italic>g</italic> for 10 min at room temperature.
+The serum (supernatant) was subsequently pipetted out to a new tube
+and stored at &#x02212;80 &#x000b0;C.</p></sec></sec><sec id="sec4.2"><label>4.2</label><title>Instrumentation</title><sec id="sec4.2.1"><label>4.2.1</label><title>CFME Preparation</title><p>The CFME preparation
+was based on previously reported procedures.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> Briefly, a single strand carbon fiber of 7 &#x003bc;m in diameter
+was separated and aspirated into a glass capillary with a 1.2 mm outer
+and 0.68 mm inner diameter (A-M Systems, Sequim, WA) using a vacuum
+pump. Carbon fibers were pulled to form two electrodes on a vertical
+pipette puller (Narishige, model PC-100 and PE-22, Tokyo, Japan) and
+then cut to lengths of approximately 100&#x02013;150 &#x003bc;m. To stabilize
+the carbon fiber inside the glass capillary and prevent leakage of
+backfilled saturated KCl solution, protruding CFME tips were dipped
+in the epoxy hardener mixture (Epon 828 epoxy) (Miller-Stephenson,
+Morton Grove, IL) and diethylenetriamine (Sigma-Aldrich), 0.8% by
+mass resin, for approximately 15 s and then rinsed in acetone to wash
+away any excess residual epoxy. The electrodes were cured in the oven
+for 4 h at 125 &#x000b0;C.</p></sec><sec id="sec4.2.2"><label>4.2.2</label><title>Fast-Scan Cyclic Voltammetry</title><p>The
+cyclic voltammograms were obtained using the WaveNeuro FSCV System
+with 5 M&#x003a9; headstage (Pine Instruments). For data collection
+and analysis, the software high-definition cyclic voltammetry with
+the PC1e-6363 multifunction I/O device (National Instruments, Austin,
+TX) was used. Upon testing the electrodes, a triangle waveform was
+applied with a holding potential of &#x02212;0.4 to 1.45 V against
+the silver&#x02013;silver chloride reference electrode (Ag/AgCl, &#x02212;0.197
+V) and back at a scan rate of 400 V/s with a frequency of 10 Hz. However,
+for the scalene waveform, a potential in the range of &#x02212;0.4
+&#x02212;1.45 V against the silver&#x02013;silver chloride (Ag/AgCl)
+reference electrode was applied and back at a forward scan rate of
+150 V/s and a backward scan rate of 400 V/s with a frequency of 10
+Hz. Each electrode was back-filled with 0.1 M KCl solution to create
+an electrical connection and was allowed to equilibrate with the applied
+waveform for 10 min. Samples were tested in a flow injection analysis
+system (In Vitro/FSCV Microelectrode Flow Cell with xyz micromanipulator
+Translational Stage, Pine Instruments, Durham, NC). The buffer and
+samples were pumped through the flow cell at 1 mL/min using the NE-300
+Just Infusion Syringe Pump (New Era Pump Systems, Farmingdale, NY).
+All data were background-subtracted to remove any non-Faradaic currents
+by averaging 10 CVs.</p></sec></sec><sec id="sec4.3"><label>4.3</label><title>Statistical Analysis</title><p>The statistical
+analysis was performed with the software GraphPad Prism 8 by performing
+two-tailed and unpaired <italic>t</italic>-test. All were performed
+at the 95% confidence level (<italic>p</italic> &#x0003c; 0.05).</p></sec></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsomega.0c04845?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsomega.0c04845</ext-link>.<list id="silist" list-type="simple"><list-item><p>Cyclic voltammograms of
+conventional triangle waveform
+to codetect purines compared to scalene waveform with a 150 V/s forward
+scan rate to codetect purines; background-subtracted CVs of cytidine
+with varying concentrations and concentration experiment showing a
+linear relationship between cytidine concentration and the peak oxidative
+current between 5 and 20 &#x003bc;M; cyclic voltammograms of the codetection
+of cytidine and 20 &#x003bc;M adenine and guanine with varying cytidine
+concentrations of 1, 5, and 10 &#x003bc;M and representative color plot
+for the codetection of 1 &#x003bc;M cytidine and 20 &#x003bc;M adenine
+and 20 &#x003bc;M guanine in a rat serum sample; representative cyclic
+voltammograms of the codetection of 20 &#x003bc;M adenine and guanine
+in ssDNA, codetection of adenine and guanine with simultaneously varying
+concentrations in the range of 10&#x02013;100 &#x003bc;M, and concentration
+experiment showing a linear relationship between the concentration
+of each purine and peak oxidative current between 20 and 100 &#x003bc;M
+(<italic>n</italic> = 3); and cyclic voltammograms of the spike-in
+test with adenosine, guanosine, and cytidine (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04845/suppl_file/ao0c04845_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao0c04845_si_001.pdf"><caption><p>ao0c04845_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes2"><title>Author Contributions</title><p><sup>&#x000a7;</sup> T.M.A. and
+W.C. authors contributed equally to this work.</p></notes><notes notes-type="COI-statement" id="NOTES-d7e926-autogenerated"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>We acknowledge the following
+funding sources: the
+American University Faculty Research Support grant (A.G.Z.), the Faculty
+Mellon Grant, the NASA DC Space grant, NIH 1R41NS113702-01 (A.G.Z.),
+the SACP Pittcon Starter grant, and the NSF I-Corps #1936173 (A.G.Z.).</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Zhou</surname><given-names>W.</given-names></name>; <name><surname>Saran</surname><given-names>R.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>
+<article-title>Metal sensing
+by DNA</article-title>. <source>Chem. Rev.</source>
+<year>2017</year>, <volume>117</volume>, <fpage>8272</fpage>&#x02013;<lpage>8325</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemrev.7b00063</pub-id>.<pub-id pub-id-type="pmid">28598605</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Dragunow</surname><given-names>M.</given-names></name>; <name><surname>Faull</surname><given-names>R. L. M.</given-names></name>
+<article-title>Neuroprotective effects of adenosine</article-title>. <source>Trends Pharmacol. Sci.</source>
+<year>1988</year>, <volume>9</volume>, <fpage>193</fpage>&#x02013;<lpage>194</lpage>. <pub-id pub-id-type="doi">10.1016/0165-6147(88)90079-x</pub-id>.<pub-id pub-id-type="pmid">3073553</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Bettio</surname><given-names>L. E. B.</given-names></name>; <name><surname>Gil-Mohapel</surname><given-names>J.</given-names></name>; <name><surname>Rodrigues</surname><given-names>A. L. S.</given-names></name>
+<article-title>Guanosine and its role in neuropathologies</article-title>. <source>Purinergic Signalling</source>
+<year>2016</year>, <volume>12</volume>, <fpage>411</fpage>&#x02013;<lpage>426</lpage>. <pub-id pub-id-type="doi">10.1007/s11302-016-9509-4</pub-id>.<pub-id pub-id-type="pmid">27002712</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Di
+Liberto</surname><given-names>V.</given-names></name>; <name><surname>Mud&#x000f2;</surname><given-names>G.</given-names></name>; <name><surname>Garozzo</surname><given-names>R.</given-names></name>; <name><surname>Frinchi</surname><given-names>M.</given-names></name>; <name><surname>Fernandez-Due&#x000f1;as</surname><given-names>V.</given-names></name>; <name><surname>Di Iorio</surname><given-names>P.</given-names></name>; <name><surname>Ciccarelli</surname><given-names>R.</given-names></name>; <name><surname>Caciagli</surname><given-names>F.</given-names></name>; <name><surname>Condorelli</surname><given-names>D. F.</given-names></name>; <name><surname>Ciruela</surname><given-names>F.</given-names></name>
+<article-title>The guanine-based purinergic
+system: the tale of an orphan neuromodulation</article-title>. <source>Front. Pharmacol.</source>
+<year>2016</year>, <volume>7</volume>, <fpage>158</fpage><pub-id pub-id-type="doi">10.3389/fphar.2016.00158</pub-id>.<pub-id pub-id-type="pmid">27378923</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Klampfl</surname><given-names>C. W.</given-names></name>; <name><surname>Himmelsbach</surname><given-names>M.</given-names></name>; <name><surname>Buchberger</surname><given-names>W.</given-names></name>; <name><surname>Klein</surname><given-names>H.</given-names></name>
+<article-title>Determination of purines
+and pyrimidines in beer samples by capillary zone electrophoresis</article-title>. <source>Anal. Chim. Acta</source>
+<year>2002</year>, <volume>454</volume>, <fpage>185</fpage>&#x02013;<lpage>191</lpage>. <pub-id pub-id-type="doi">10.1016/s0003-2670(01)01570-7</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Yang</surname><given-names>F.-Q.</given-names></name>; <name><surname>Ge</surname><given-names>L.</given-names></name>; <name><surname>Yong</surname><given-names>J. W. H.</given-names></name>; <name><surname>Tan</surname><given-names>S. N.</given-names></name>; <name><surname>Li</surname><given-names>S.-P.</given-names></name>
+<article-title>Determination of
+nucleosides and nucleobases in different species of Cordyceps by capillary
+electrophoresis&#x02013;mass spectrometry</article-title>. <source>J.
+Pharmaceut. Biomed. Anal.</source>
+<year>2009</year>, <volume>50</volume>, <fpage>307</fpage>&#x02013;<lpage>314</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpba.2009.04.027</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Fan</surname><given-names>H.</given-names></name>; <name><surname>Yang</surname><given-names>F. Q.</given-names></name>; <name><surname>Li</surname><given-names>S. P.</given-names></name>
+<article-title>Determination
+of purine and pyrimidine
+bases in natural and cultured Cordyceps using optimum acid hydrolysis
+followed by high performance liquid chromatography</article-title>. <source>J. Pharmaceut. Biomed. Anal.</source>
+<year>2007</year>, <volume>45</volume>, <fpage>141</fpage>&#x02013;<lpage>144</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpba.2007.02.032</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Pang</surname><given-names>S.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Wu</surname><given-names>C.</given-names></name>; <name><surname>Feng</surname><given-names>S.</given-names></name>
+<article-title>Fluorescent
+carbon
+dots sensor for highly sensitive detection of guanine</article-title>. <source>Sens. Actuators, B</source>
+<year>2016</year>, <volume>222</volume>, <fpage>857</fpage>&#x02013;<lpage>863</lpage>. <pub-id pub-id-type="doi">10.1016/j.snb.2015.09.037</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Glavin</surname><given-names>D. P.</given-names></name>; <name><surname>Cleaves</surname><given-names>H. J.</given-names></name>; <name><surname>Buch</surname><given-names>A.</given-names></name>; <name><surname>Schubert</surname><given-names>M.</given-names></name>; <name><surname>Aubrey</surname><given-names>A.</given-names></name>; <name><surname>Bada</surname><given-names>J. L.</given-names></name>; <name><surname>Mahaffy</surname><given-names>P. R.</given-names></name>
+<article-title>Sublimation
+extraction coupled with
+gas chromatography-mass spectrometry: a new technique for future in
+situ analyses of purines and pyrimidines on Mars</article-title>. <source>Planet. Space Sci.</source>
+<year>2006</year>, <volume>54</volume>, <fpage>1584</fpage>&#x02013;<lpage>1591</lpage>. <pub-id pub-id-type="doi">10.1016/j.pss.2005.12.023</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Yamada</surname><given-names>T.</given-names></name>; <name><surname>Shirasaka</surname><given-names>K.</given-names></name>; <name><surname>Takano</surname><given-names>A.</given-names></name>; <name><surname>Kawai</surname><given-names>M.</given-names></name>
+<article-title>Adsorption of cytosine,
+thymine, guanine and adenine on Cu(110) studied by infrared reflection
+absorption spectroscopy</article-title>. <source>Surf. Sci.</source>
+<year>2004</year>, <volume>561</volume>, <fpage>233</fpage>&#x02013;<lpage>247</lpage>. <pub-id pub-id-type="doi">10.1016/j.susc.2004.05.095</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Saiki</surname><given-names>R.</given-names></name>; <name><surname>Gelfand</surname><given-names>D.</given-names></name>; <name><surname>Stoffel</surname><given-names>S.</given-names></name>; <name><surname>Scharf</surname><given-names>S.</given-names></name>; <name><surname>Higuchi</surname><given-names>R.</given-names></name>; <name><surname>Horn</surname><given-names>G.</given-names></name>; <name><surname>Mullis</surname><given-names>K.</given-names></name>; <name><surname>Erlich</surname><given-names>H.</given-names></name>
+<article-title>Primer-directed enzymatic
+amplification of DNA with a thermostable DNA polymerase</article-title>. <source>Science</source>
+<year>1988</year>, <volume>239</volume>, <fpage>487</fpage>&#x02013;<lpage>491</lpage>. <pub-id pub-id-type="doi">10.1126/science.2448875</pub-id>.<pub-id pub-id-type="pmid">2448875</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Sassolas</surname><given-names>A.</given-names></name>; <name><surname>Leca-Bouvier</surname><given-names>B. D.</given-names></name>; <name><surname>Blum</surname><given-names>L. J.</given-names></name>
+<article-title>DNA biosensors and microarrays</article-title>. <source>Chem. Rev.</source>
+<year>2008</year>, <volume>108</volume>, <fpage>109</fpage>&#x02013;<lpage>139</lpage>. <pub-id pub-id-type="doi">10.1021/cr0684467</pub-id>.<pub-id pub-id-type="pmid">18095717</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Wang</surname><given-names>Z.</given-names></name>; <name><surname>Gerstein</surname><given-names>M.</given-names></name>; <name><surname>Snyder</surname><given-names>M.</given-names></name>
+<article-title>RNA-Seq: a
+revolutionary tool for
+transcriptomics</article-title>. <source>Nat. Rev. Genet.</source>
+<year>2009</year>, <volume>10</volume>, <fpage>57</fpage>&#x02013;<lpage>63</lpage>. <pub-id pub-id-type="doi">10.1038/nrg2484</pub-id>.<pub-id pub-id-type="pmid">19015660</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Pareek</surname><given-names>C. S.</given-names></name>; <name><surname>Smoczynski</surname><given-names>R.</given-names></name>; <name><surname>Tretyn</surname><given-names>A.</given-names></name>
+<article-title>Sequencing technologies and genome
+sequencing</article-title>. <source>J. Appl. Genet.</source>
+<year>2011</year>, <volume>52</volume>, <fpage>413</fpage>&#x02013;<lpage>435</lpage>. <pub-id pub-id-type="doi">10.1007/s13353-011-0057-x</pub-id>.<pub-id pub-id-type="pmid">21698376</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Kaisti</surname><given-names>M.</given-names></name>
+<article-title>Detection
+principles of biological and chemical FET sensors</article-title>. <source>Biosens. Bioelectron.</source>
+<year>2017</year>, <volume>98</volume>, <fpage>437</fpage>&#x02013;<lpage>448</lpage>. <pub-id pub-id-type="doi">10.1016/j.bios.2017.07.010</pub-id>.<pub-id pub-id-type="pmid">28711826</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Abbaspour</surname><given-names>A.</given-names></name>; <name><surname>Noori</surname><given-names>A.</given-names></name>
+<article-title>Electrochemical studies
+on the oxidation of guanine and adenine at
+cyclodextrin modified electrodes</article-title>. <source>Analyst</source>
+<year>2008</year>, <volume>133</volume>, <fpage>1664</fpage>&#x02013;<lpage>1672</lpage>. <pub-id pub-id-type="doi">10.1039/b806920d</pub-id>.<pub-id pub-id-type="pmid">19082068</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Ng</surname><given-names>K. L.</given-names></name>; <name><surname>Khor</surname><given-names>S. M.</given-names></name>
+<article-title>Graphite-based nanocomposite electrochemical sensor
+for multiplex detection of adenine, guanine, thymine, and cytosine:
+A biomedical prospect for studying DNA damage</article-title>. <source>Anal. Chem.</source>
+<year>2017</year>, <volume>89</volume>, <fpage>10004</fpage>&#x02013;<lpage>10012</lpage>. <pub-id pub-id-type="doi">10.1021/acs.analchem.7b02432</pub-id>.<pub-id pub-id-type="pmid">28845664</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Drummond</surname><given-names>T. G.</given-names></name>; <name><surname>Hill</surname><given-names>M. G.</given-names></name>; <name><surname>Barton</surname><given-names>J. K.</given-names></name>
+<article-title>Electrochemical
+DNA sensors</article-title>. <source>Nat. Biotechnol.</source>
+<year>2003</year>, <volume>21</volume>, <fpage>1192</fpage>&#x02013;<lpage>1199</lpage>. <pub-id pub-id-type="doi">10.1038/nbt873</pub-id>.<pub-id pub-id-type="pmid">14520405</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Stepanova</surname><given-names>V.</given-names></name>; <name><surname>Smolko</surname><given-names>V.</given-names></name>; <name><surname>Gorbatchuk</surname><given-names>V.</given-names></name>; <name><surname>Stoikov</surname><given-names>I.</given-names></name>; <name><surname>Evtugyn</surname><given-names>G.</given-names></name>; <name><surname>Hianik</surname><given-names>T.</given-names></name>
+<article-title>DNA-Polylactide Modified Biosensor for Electrochemical
+Determination of the DNA-Drugs and Aptamer-Aflatoxin M1 Interactions</article-title>. <source>Sensors</source>
+<year>2019</year>, <volume>19</volume>, <fpage>4962</fpage><pub-id pub-id-type="doi">10.3390/s19224962</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>McCreery</surname><given-names>R. L.</given-names></name>
+<article-title>Advanced
+carbon electrode materials for molecular electrochemistry</article-title>. <source>Chem. Rev.</source>
+<year>2008</year>, <volume>108</volume>, <fpage>2646</fpage>&#x02013;<lpage>2687</lpage>. <pub-id pub-id-type="doi">10.1021/cr068076m</pub-id>.<pub-id pub-id-type="pmid">18557655</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Yang</surname><given-names>C.</given-names></name>; <name><surname>Jacobs</surname><given-names>C. B.</given-names></name>; <name><surname>Nguyen</surname><given-names>M. D.</given-names></name>; <name><surname>Ganesana</surname><given-names>M.</given-names></name>; <name><surname>Zestos</surname><given-names>A. G.</given-names></name>; <name><surname>Ivanov</surname><given-names>I. N.</given-names></name>; <name><surname>Puretzky</surname><given-names>A. A.</given-names></name>; <name><surname>Rouleau</surname><given-names>C. M.</given-names></name>; <name><surname>Geohegan</surname><given-names>D. B.</given-names></name>; <name><surname>Venton</surname><given-names>B. J.</given-names></name>
+<article-title>Carbon nanotubes
+grown on metal microelectrodes for
+the detection of dopamine</article-title>. <source>Anal. Chem.</source>
+<year>2015</year>, <volume>88</volume>, <fpage>645</fpage>&#x02013;<lpage>652</lpage>. <pub-id pub-id-type="doi">10.1021/acs.analchem.5b01257</pub-id>.<pub-id pub-id-type="pmid">26639609</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Zestos</surname><given-names>A. G.</given-names></name>
+<article-title>Carbon
+Nanoelectrodes for the Electrochemical Detection of Neurotransmitters</article-title>. <source>Int. J. Electrochem.</source>
+<year>2018</year>, <volume>2018</volume>, <fpage>3679627</fpage><pub-id pub-id-type="doi">10.1155/2018/3679627</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Cao</surname><given-names>Q.</given-names></name>; <name><surname>Rogers</surname><given-names>J. A.</given-names></name>
+<article-title>Ultrathin Films
+of Single-Walled Carbon Nanotubes for
+Electronics and Sensors: A Review of Fundamental and Applied Aspects</article-title>. <source>Adv. Mater.</source>
+<year>2009</year>, <volume>21</volume>, <fpage>29</fpage>&#x02013;<lpage>53</lpage>. <pub-id pub-id-type="doi">10.1002/adma.200801995</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Yun</surname><given-names>Y.</given-names></name>; <name><surname>Dong</surname><given-names>Z.</given-names></name>; <name><surname>Shanov</surname><given-names>V.</given-names></name>; <name><surname>Heineman</surname><given-names>W. R.</given-names></name>; <name><surname>Halsall</surname><given-names>H. B.</given-names></name>; <name><surname>Bhattacharya</surname><given-names>A.</given-names></name>; <name><surname>Conforti</surname><given-names>L.</given-names></name>; <name><surname>Narayan</surname><given-names>R. K.</given-names></name>; <name><surname>Ball</surname><given-names>W. S.</given-names></name>; <name><surname>Schulz</surname><given-names>M. J.</given-names></name>
+<article-title>Nanotube
+electrodes and biosensors</article-title>. <source>Nano Today</source>
+<year>2007</year>, <volume>2</volume>, <fpage>30</fpage>&#x02013;<lpage>37</lpage>. <pub-id pub-id-type="doi">10.1016/s1748-0132(07)70171-8</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Palecek</surname><given-names>E.</given-names></name>; <name><surname>Bartosik</surname><given-names>M.</given-names></name>
+<article-title>Electrochemistry of
+nucleic acids</article-title>. <source>Chem. Rev.</source>
+<year>2012</year>, <volume>112</volume>, <fpage>3427</fpage>&#x02013;<lpage>3481</lpage>. <pub-id pub-id-type="doi">10.1021/cr200303p</pub-id>.<pub-id pub-id-type="pmid">22372839</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Jacobs</surname><given-names>C. B.</given-names></name>; <name><surname>Peairs</surname><given-names>M. J.</given-names></name>; <name><surname>Venton</surname><given-names>B. J.</given-names></name>
+<article-title>Review: Carbon nanotube based electrochemical
+sensors for biomolecules</article-title>. <source>Anal. Chim. Acta</source>
+<year>2010</year>, <volume>662</volume>, <fpage>105</fpage>&#x02013;<lpage>127</lpage>. <pub-id pub-id-type="doi">10.1016/j.aca.2010.01.009</pub-id>.<pub-id pub-id-type="pmid">20171310</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Huffman</surname><given-names>M. L.</given-names></name>; <name><surname>Venton</surname><given-names>B. J.</given-names></name>
+<article-title>Carbon-fiber microelectrodes
+for in vivo applications</article-title>. <source>Analyst</source>
+<year>2009</year>, <volume>134</volume>, <fpage>18</fpage>&#x02013;<lpage>24</lpage>. <pub-id pub-id-type="doi">10.1039/b807563h</pub-id>.<pub-id pub-id-type="pmid">19082168</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Raju</surname><given-names>D.</given-names></name>; <name><surname>Mendoza</surname><given-names>A.</given-names></name>; <name><surname>Wonnenberg</surname><given-names>P.</given-names></name>; <name><surname>Mohanaraj</surname><given-names>S.</given-names></name>; <name><surname>Sarbanes</surname><given-names>M.</given-names></name>; <name><surname>Truong</surname><given-names>C.</given-names></name>; <name><surname>Zestos</surname><given-names>A. G.</given-names></name>
+<article-title>Polymer modified
+carbon fiber-microelectrodes and waveform modifications enhance neurotransmitter
+metabolite detection</article-title>. <source>Anal. Methods</source>
+<year>2019</year>, <volume>11</volume>, <fpage>1620</fpage>&#x02013;<lpage>1630</lpage>. <pub-id pub-id-type="doi">10.1039/c8ay02737d</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Bath</surname><given-names>B. D.</given-names></name>; <name><surname>Michael</surname><given-names>D. J.</given-names></name>; <name><surname>Trafton</surname><given-names>B. J.</given-names></name>; <name><surname>Joseph</surname><given-names>J. D.</given-names></name>; <name><surname>Runnels</surname><given-names>P. L.</given-names></name>; <name><surname>Wightman</surname><given-names>R. M.</given-names></name>
+<article-title>Subsecond adsorption and desorption of dopamine at
+carbon-fiber microelectrodes</article-title>. <source>Anal. Chem.</source>
+<year>2000</year>, <volume>72</volume>, <fpage>5994</fpage>&#x02013;<lpage>6002</lpage>. <pub-id pub-id-type="doi">10.1021/ac000849y</pub-id>.<pub-id pub-id-type="pmid">11140768</pub-id></mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Harreither</surname><given-names>W.</given-names></name>; <name><surname>Trouillon</surname><given-names>R.</given-names></name>; <name><surname>Poulin</surname><given-names>P.</given-names></name>; <name><surname>Neri</surname><given-names>W.</given-names></name>; <name><surname>Ewing</surname><given-names>A. G.</given-names></name>; <name><surname>Safina</surname><given-names>G.</given-names></name>
+<article-title>Carbon nanotube fiber microelectrodes show a higher
+resistance to dopamine fouling</article-title>. <source>Anal. Chem.</source>
+<year>2013</year>, <volume>85</volume>, <fpage>7447</fpage>&#x02013;<lpage>7453</lpage>. <pub-id pub-id-type="doi">10.1021/ac401399s</pub-id>.<pub-id pub-id-type="pmid">23789970</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Zestos</surname><given-names>A. G.</given-names></name>; <name><surname>Jacobs</surname><given-names>C. B.</given-names></name>; <name><surname>Trikantzopoulos</surname><given-names>E.</given-names></name>; <name><surname>Ross</surname><given-names>A. E.</given-names></name>; <name><surname>Venton</surname><given-names>B. J.</given-names></name>
+<article-title>Polyethylenimine
+Carbon Nanotube Fiber Electrodes for Enhanced Detection of Neurotransmitters</article-title>. <source>Anal. Chem.</source>
+<year>2014</year>, <volume>86</volume>, <fpage>8568</fpage>&#x02013;<lpage>8575</lpage>. <pub-id pub-id-type="doi">10.1021/ac5003273</pub-id>.<pub-id pub-id-type="pmid">25117550</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Jacobs</surname><given-names>C. B.</given-names></name>; <name><surname>Ivanov</surname><given-names>I. N.</given-names></name>; <name><surname>Nguyen</surname><given-names>M. D.</given-names></name>; <name><surname>Zestos</surname><given-names>A. G.</given-names></name>; <name><surname>Venton</surname><given-names>B. J.</given-names></name>
+<article-title>High temporal
+resolution measurements of dopamine with carbon nanotube yarn microelectrodes</article-title>. <source>Anal. Chem.</source>
+<year>2014</year>, <volume>86</volume>, <fpage>5721</fpage>&#x02013;<lpage>5727</lpage>. <pub-id pub-id-type="doi">10.1021/ac404050t</pub-id>.<pub-id pub-id-type="pmid">24832571</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Zestos</surname><given-names>A. G.</given-names></name>; <name><surname>Yang</surname><given-names>C.</given-names></name>; <name><surname>Jacobs</surname><given-names>C. B.</given-names></name>; <name><surname>Hensley</surname><given-names>D.</given-names></name>; <name><surname>Venton</surname><given-names>B. J.</given-names></name>
+<article-title>Carbon
+nanospikes grown on metal wires as microelectrode sensors for dopamine</article-title>. <source>Analyst</source>
+<year>2015</year>, <volume>140</volume>, <fpage>7283</fpage>&#x02013;<lpage>7292</lpage>. <pub-id pub-id-type="doi">10.1039/c5an01467k</pub-id>.<pub-id pub-id-type="pmid">26389138</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Robinson</surname><given-names>D. L.</given-names></name>; <name><surname>Venton</surname><given-names>B. J.</given-names></name>; <name><surname>Heien</surname><given-names>M. L. A. V.</given-names></name>; <name><surname>Wightman</surname><given-names>R. M.</given-names></name>
+<article-title>Detecting subsecond
+dopamine release with fast-scan cyclic voltammetry in vivo</article-title>. <source>Clin. Chem.</source>
+<year>2003</year>, <volume>49</volume>, <fpage>1763</fpage>&#x02013;<lpage>1773</lpage>. <pub-id pub-id-type="doi">10.1373/49.10.1763</pub-id>.<pub-id pub-id-type="pmid">14500617</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Saylor</surname><given-names>R. A.</given-names></name>; <name><surname>Hersey</surname><given-names>M.</given-names></name>; <name><surname>West</surname><given-names>A.</given-names></name>; <name><surname>Buchanan</surname><given-names>A. M.</given-names></name>; <name><surname>Berger</surname><given-names>S. N.</given-names></name>; <name><surname>Nijhout</surname><given-names>H. F.</given-names></name>; <name><surname>Reed</surname><given-names>M. C.</given-names></name>; <name><surname>Best</surname><given-names>J.</given-names></name>; <name><surname>Hashemi</surname><given-names>P.</given-names></name>
+<article-title>In vivo hippocampal
+serotonin dynamics in male and female mice: determining effects of
+acute Escitalopram using fast scan cyclic voltammetry</article-title>. <source>Front. Neurosci.</source>
+<year>2019</year>, <volume>13</volume>, <fpage>362</fpage><pub-id pub-id-type="doi">10.3389/fnins.2019.00362</pub-id>.<pub-id pub-id-type="pmid">31110471</pub-id></mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Lim</surname><given-names>G. N.</given-names></name>; <name><surname>Ross</surname><given-names>A. E.</given-names></name>
+<article-title>Purine Functional
+Group Type and Placement Modulate
+the Interaction with Carbon-Fiber Microelectrodes</article-title>. <source>ACS Sens.</source>
+<year>2019</year>, <volume>4</volume>, <fpage>479</fpage>&#x02013;<lpage>487</lpage>. <pub-id pub-id-type="doi">10.1021/acssensors.8b01504</pub-id>.<pub-id pub-id-type="pmid">30657307</pub-id></mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Kile</surname><given-names>B. M.</given-names></name>; <name><surname>Walsh</surname><given-names>P. L.</given-names></name>; <name><surname>McElligott</surname><given-names>Z. A.</given-names></name>; <name><surname>Bucher</surname><given-names>E. S.</given-names></name>; <name><surname>Guillot</surname><given-names>T. S.</given-names></name>; <name><surname>Salahpour</surname><given-names>A.</given-names></name>; <name><surname>Caron</surname><given-names>M. G.</given-names></name>; <name><surname>Wightman</surname><given-names>R. M.</given-names></name>
+<article-title>Optimizing the temporal
+resolution of fast-scan cyclic voltammetry</article-title>. <source>ACS Chem. Neurosci.</source>
+<year>2012</year>, <volume>3</volume>, <fpage>285</fpage>&#x02013;<lpage>292</lpage>. <pub-id pub-id-type="doi">10.1021/cn200119u</pub-id>.<pub-id pub-id-type="pmid">22708011</pub-id></mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Ewing</surname><given-names>A. G.</given-names></name>; <name><surname>Wightman</surname><given-names>R. M.</given-names></name>
+<article-title>Monitoring the stimulated
+release of dopamine with
+in vivo voltammetry. II: Clearance of released dopamine from extracellular
+fluid</article-title>. <source>J. Neurochem.</source>
+<year>1984</year>, <volume>43</volume>, <fpage>570</fpage>&#x02013;<lpage>577</lpage>. <pub-id pub-id-type="doi">10.1111/j.1471-4159.1984.tb00936.x</pub-id>.<pub-id pub-id-type="pmid">6736966</pub-id></mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Hashemi</surname><given-names>P.</given-names></name>; <name><surname>Dankoski</surname><given-names>E. C.</given-names></name>; <name><surname>Petrovic</surname><given-names>J.</given-names></name>; <name><surname>Keithley</surname><given-names>R. B.</given-names></name>; <name><surname>Wightman</surname><given-names>R. M.</given-names></name>
+<article-title>Voltammetric
+detection of 5-hydroxytryptamine release in the rat brain</article-title>. <source>Anal. Chem.</source>
+<year>2009</year>, <volume>81</volume>, <fpage>9462</fpage>&#x02013;<lpage>9471</lpage>. <pub-id pub-id-type="doi">10.1021/ac9018846</pub-id>.<pub-id pub-id-type="pmid">19827792</pub-id></mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Nguyen</surname><given-names>M. D.</given-names></name>; <name><surname>Venton</surname><given-names>B. J.</given-names></name>
+<article-title>Fast-scan cyclic
+voltammetry for the characterization
+of rapid adenosine release</article-title>. <source>Comput. Struct.
+Biotechnol. J.</source>
+<year>2015</year>, <volume>13</volume>, <fpage>47</fpage>&#x02013;<lpage>54</lpage>. <pub-id pub-id-type="doi">10.1016/j.csbj.2014.12.006</pub-id>.<pub-id pub-id-type="pmid">26900429</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Cryan</surname><given-names>M. T.</given-names></name>; <name><surname>Ross</surname><given-names>A. E.</given-names></name>
+<article-title>Subsecond detection
+of guanosine using fast-scan cyclic
+voltammetry</article-title>. <source>Analyst</source>
+<year>2019</year>, <volume>144</volume>, <fpage>249</fpage>&#x02013;<lpage>257</lpage>. <pub-id pub-id-type="doi">10.1039/c8an01547c</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Oliveira-Brett</surname><given-names>A. M.</given-names></name>; <name><surname>Piedade</surname><given-names>J. A. P.</given-names></name>; <name><surname>Silva</surname><given-names>L. A.</given-names></name>; <name><surname>Diculescu</surname><given-names>V. C.</given-names></name>
+<article-title>Voltammetric
+determination of all DNA nucleotides</article-title>. <source>Anal.
+Biochem.</source>
+<year>2004</year>, <volume>332</volume>, <fpage>321</fpage>&#x02013;<lpage>329</lpage>. <pub-id pub-id-type="doi">10.1016/j.ab.2004.06.021</pub-id>.<pub-id pub-id-type="pmid">15325301</pub-id></mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Stempkowska</surname><given-names>I.</given-names></name>; <name><surname>Ligaj</surname><given-names>M.</given-names></name>; <name><surname>Jasnowska</surname><given-names>J.</given-names></name>; <name><surname>Langer</surname><given-names>J.</given-names></name>; <name><surname>Filipiak</surname><given-names>M.</given-names></name>
+<article-title>Electrochemical
+response of oligonucleotides on carbon paste electrode</article-title>. <source>Bioelectrochemistry</source>
+<year>2007</year>, <volume>70</volume>, <fpage>488</fpage>&#x02013;<lpage>494</lpage>. <pub-id pub-id-type="doi">10.1016/j.bioelechem.2006.07.012</pub-id>.<pub-id pub-id-type="pmid">16978928</pub-id></mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Cryan</surname><given-names>M. T.</given-names></name>; <name><surname>Ross</surname><given-names>A. E.</given-names></name>
+<article-title>Scalene Waveform
+for Codetection of Guanosine and Adenosine
+Using Fast-Scan Cyclic Voltammetry</article-title>. <source>Anal. Chem.</source>
+<year>2019</year>, <volume>91</volume>, <fpage>5987</fpage>&#x02013;<lpage>5993</lpage>. <pub-id pub-id-type="doi">10.1021/acs.analchem.9b00450</pub-id>.<pub-id pub-id-type="pmid">30938508</pub-id></mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Li</surname><given-names>H.</given-names></name>; <name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>Z.</given-names></name>; <name><surname>Zhao</surname><given-names>W.</given-names></name>
+<article-title>Simultaneous determination
+of guanine, adenine, thymine and cytosine with a simple electrochemical
+method</article-title>. <source>J. Solid State Electrochem.</source>
+<year>2016</year>, <volume>20</volume>, <fpage>2223</fpage>&#x02013;<lpage>2230</lpage>. <pub-id pub-id-type="doi">10.1007/s10008-016-3227-2</pub-id>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Swamy</surname><given-names>B. E. K.</given-names></name>; <name><surname>Venton</surname><given-names>B. J.</given-names></name>
+<article-title>Subsecond detection
+of physiological adenosine concentrations
+using fast-scan cyclic voltammetry</article-title>. <source>Anal. Chem.</source>
+<year>2007</year>, <volume>79</volume>, <fpage>744</fpage>&#x02013;<lpage>750</lpage>. <pub-id pub-id-type="doi">10.1021/ac061820i</pub-id>.<pub-id pub-id-type="pmid">17222045</pub-id></mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Jankowska-&#x0015a;liwi&#x00144;ska</surname><given-names>J.</given-names></name>; <name><surname>Dawgul</surname><given-names>M.</given-names></name>; <name><surname>Kruk</surname><given-names>J.</given-names></name>; <name><surname>Pijanowska</surname><given-names>D. G.</given-names></name>
+<article-title>Comparison
+of electrochemical determination of purines and pyrimidines by means
+of carbon, graphite and gold paste electrodes</article-title>. <source>Int. J. Electrochem. Sci.</source>
+<year>2017</year>, <volume>12</volume>, <fpage>2329</fpage>&#x02013;<lpage>2343</lpage>. <pub-id pub-id-type="doi">10.20964/2017.03.16</pub-id>.</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Meunier</surname><given-names>C. J.</given-names></name>; <name><surname>Mitchell</surname><given-names>E. C.</given-names></name>; <name><surname>Roberts</surname><given-names>J. G.</given-names></name>; <name><surname>Toups</surname><given-names>J. V.</given-names></name>; <name><surname>McCarty</surname><given-names>G. S.</given-names></name>; <name><surname>Sombers</surname><given-names>L. A.</given-names></name>
+<article-title>Electrochemical selectivity achieved using a double
+voltammetric waveform and partial least squares regression: differentiating
+endogenous hydrogen peroxide fluctuations from shifts in pH</article-title>. <source>Anal. Chem.</source>
+<year>2018</year>, <volume>90</volume>, <fpage>1767</fpage>&#x02013;<lpage>1776</lpage>. <pub-id pub-id-type="doi">10.1021/acs.analchem.7b03717</pub-id>.<pub-id pub-id-type="pmid">29243477</pub-id></mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Takmakov</surname><given-names>P.</given-names></name>; <name><surname>Zachek</surname><given-names>M. K.</given-names></name>; <name><surname>Keithley</surname><given-names>R. B.</given-names></name>; <name><surname>Bucher</surname><given-names>E. S.</given-names></name>; <name><surname>McCarty</surname><given-names>G. S.</given-names></name>; <name><surname>Wightman</surname><given-names>R. M.</given-names></name>
+<article-title>Characterization
+of local pH changes in brain using
+fast-scan cyclic voltammetry with carbon microelectrodes</article-title>. <source>Anal. Chem.</source>
+<year>2010</year>, <volume>82</volume>, <fpage>9892</fpage>&#x02013;<lpage>9900</lpage>. <pub-id pub-id-type="doi">10.1021/ac102399n</pub-id>.<pub-id pub-id-type="pmid">21047096</pub-id></mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Makos</surname><given-names>M. A.</given-names></name>; <name><surname>Omiatek</surname><given-names>D. M.</given-names></name>; <name><surname>Ewing</surname><given-names>A. G.</given-names></name>; <name><surname>Heien</surname><given-names>M. L.</given-names></name>
+<article-title>Development and
+characterization of a voltammetric carbon-fiber microelectrode pH
+sensor</article-title>. <source>Langmuir</source>
+<year>2010</year>, <volume>26</volume>, <fpage>10386</fpage>&#x02013;<lpage>10391</lpage>. <pub-id pub-id-type="doi">10.1021/la100134r</pub-id>.<pub-id pub-id-type="pmid">20380393</pub-id></mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Anraku</surname><given-names>M.</given-names></name>; <name><surname>Chuang</surname><given-names>V. T. G.</given-names></name>; <name><surname>Maruyama</surname><given-names>T.</given-names></name>; <name><surname>Otagiri</surname><given-names>M.</given-names></name>
+<article-title>Redox properties of
+serum albumin</article-title>. <source>Biochim. Biophys. Acta, Gen.
+Subj.</source>
+<year>2013</year>, <volume>1830</volume>, <fpage>5465</fpage>&#x02013;<lpage>5472</lpage>. <pub-id pub-id-type="doi">10.1016/j.bbagen.2013.04.036</pub-id>.</mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Roche</surname><given-names>M.</given-names></name>; <name><surname>Rondeau</surname><given-names>P.</given-names></name>; <name><surname>Singh</surname><given-names>N. R.</given-names></name>; <name><surname>Tarnus</surname><given-names>E.</given-names></name>; <name><surname>Bourdon</surname><given-names>E.</given-names></name>
+<article-title>The antioxidant
+properties of serum albumin</article-title>. <source>FEBS Lett.</source>
+<year>2008</year>, <volume>582</volume>, <fpage>1783</fpage>&#x02013;<lpage>1787</lpage>. <pub-id pub-id-type="doi">10.1016/j.febslet.2008.04.057</pub-id>.<pub-id pub-id-type="pmid">18474236</pub-id></mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>S&#x000f8;nderby</surname><given-names>P.</given-names></name>; <name><surname>Bukrinski</surname><given-names>J. T.</given-names></name>; <name><surname>Hebditch</surname><given-names>M.</given-names></name>; <name><surname>Peters</surname><given-names>G. H. J.</given-names></name>; <name><surname>Curtis</surname><given-names>R. A.</given-names></name>; <name><surname>Harris</surname><given-names>P.</given-names></name>
+<article-title>Self-interaction
+of human serum albumin: a formulation
+perspective</article-title>. <source>ACS Omega</source>
+<year>2018</year>, <volume>3</volume>, <fpage>16105</fpage>&#x02013;<lpage>16117</lpage>. <pub-id pub-id-type="doi">10.1021/acsomega.8b02245</pub-id>.<pub-id pub-id-type="pmid">30556026</pub-id></mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Becconi</surname><given-names>O.</given-names></name>; <name><surname>Ahlstrand</surname><given-names>E.</given-names></name>; <name><surname>Salis</surname><given-names>A.</given-names></name>; <name><surname>Friedman</surname><given-names>R.</given-names></name>
+<article-title>Protein-ion
+Interactions:
+Simulations of Bovine Serum Albumin in Physiological Solutions of
+NaCl, KCl and LiCl</article-title>. <source>Isr. J. Chem.</source>
+<year>2017</year>, <volume>57</volume>, <fpage>403</fpage>&#x02013;<lpage>412</lpage>. <pub-id pub-id-type="doi">10.1002/ijch.201600119</pub-id>.</mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name><surname>Blauwkamp</surname><given-names>T. A.</given-names></name>; <name><surname>Thair</surname><given-names>S.</given-names></name>; <name><surname>Rosen</surname><given-names>M. J.</given-names></name>; <name><surname>Blair</surname><given-names>L.</given-names></name>; <name><surname>Lindner</surname><given-names>M. S.</given-names></name>; <name><surname>Vilfan</surname><given-names>I. D.</given-names></name>; <name><surname>Kawli</surname><given-names>T.</given-names></name>; <name><surname>Christians</surname><given-names>F. C.</given-names></name>; <name><surname>Venkatasubrahmanyam</surname><given-names>S.</given-names></name>; <name><surname>Wall</surname><given-names>G. D.</given-names></name>; <name><surname>Cheung</surname><given-names>A.</given-names></name>; <name><surname>Rogers</surname><given-names>Z. N.</given-names></name>; <name><surname>Meshulam-Simon</surname><given-names>G.</given-names></name>; <name><surname>Huijse</surname><given-names>L.</given-names></name>; <name><surname>Balakrishnan</surname><given-names>S.</given-names></name>; <name><surname>Quinn</surname><given-names>J. V.</given-names></name>; <name><surname>Hollemon</surname><given-names>D.</given-names></name>; <name><surname>Hong</surname><given-names>D. K.</given-names></name>; <name><surname>Vaughn</surname><given-names>M. L.</given-names></name>; <name><surname>Kertesz</surname><given-names>M.</given-names></name>; <name><surname>Bercovici</surname><given-names>S.</given-names></name>; <name><surname>Wilber</surname><given-names>J. C.</given-names></name>; <name><surname>Yang</surname><given-names>S.</given-names></name>
+<article-title>and clinical
+validation of a microbial cell-free DNA sequencing test for infectious
+disease</article-title>. <source>Nat. Microbiol.</source>
+<year>2019</year>, <volume>4</volume>, <fpage>663</fpage>&#x02013;<lpage>674</lpage>. <pub-id pub-id-type="doi">10.1038/s41564-018-0349-6</pub-id>.<pub-id pub-id-type="pmid">30742071</pub-id></mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="book" id="cit56"><person-group person-group-type="allauthors"><name><surname>Abril</surname><given-names>M. K.</given-names></name>; <name><surname>Barnett</surname><given-names>A. S.</given-names></name>; <name><surname>Wegermann</surname><given-names>K.</given-names></name>; <name><surname>Fountain</surname><given-names>E.</given-names></name>; <name><surname>Strand</surname><given-names>A.</given-names></name>; <name><surname>Heyman</surname><given-names>B. M.</given-names></name>; <name><surname>Blough</surname><given-names>B. A.</given-names></name>; <name><surname>Swaminathan</surname><given-names>A. C.</given-names></name>; <name><surname>Sharma-Kuinkel</surname><given-names>B.</given-names></name>; <name><surname>Ruffin</surname><given-names>F.</given-names></name></person-group><source>Diagnosis of Capnocytophaga
+canimorsus sepsis by whole-genome next-generation sequencing, Open
+forum infectious diseases</source>; <publisher-name>Oxford University
+Press</publisher-name>, <year>2016</year>.</mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name><surname>Hong</surname><given-names>D. K.</given-names></name>; <name><surname>Blauwkamp</surname><given-names>T. A.</given-names></name>; <name><surname>Kertesz</surname><given-names>M.</given-names></name>; <name><surname>Bercovici</surname><given-names>S.</given-names></name>; <name><surname>Truong</surname><given-names>C.</given-names></name>; <name><surname>Banaei</surname><given-names>N.</given-names></name>
+<article-title>Liquid biopsy for infectious diseases:
+sequencing of cell-free plasma to detect pathogen DNA in patients
+with invasive fungal disease</article-title>. <source>Diagn. Microbiol.
+Infect. Dis.</source>
+<year>2018</year>, <volume>92</volume>, <fpage>210</fpage>&#x02013;<lpage>213</lpage>. <pub-id pub-id-type="doi">10.1016/j.diagmicrobio.2018.06.009</pub-id>.<pub-id pub-id-type="pmid">30017314</pub-id></mixed-citation></ref><ref id="ref58"><mixed-citation publication-type="journal" id="cit58"><name><surname>Lass-Fl&#x000f6;rl</surname><given-names>C.</given-names></name>; <name><surname>Mutschlechner</surname><given-names>W.</given-names></name>; <name><surname>Aigner</surname><given-names>M.</given-names></name>; <name><surname>Grif</surname><given-names>K.</given-names></name>; <name><surname>Marth</surname><given-names>C.</given-names></name>; <name><surname>Girschikofsky</surname><given-names>M.</given-names></name>; <name><surname>Grander</surname><given-names>W.</given-names></name>; <name><surname>Greil</surname><given-names>R.</given-names></name>; <name><surname>Russ</surname><given-names>G.</given-names></name>; <name><surname>Cerkl</surname><given-names>P.</given-names></name>; <name><surname>Eller</surname><given-names>M.</given-names></name>; <name><surname>Kropshofer</surname><given-names>G.</given-names></name>; <name><surname>Eschertzhuber</surname><given-names>S.</given-names></name>; <name><surname>Kathrein</surname><given-names>H.</given-names></name>; <name><surname>Schmid</surname><given-names>S.</given-names></name>; <name><surname>Beer</surname><given-names>R.</given-names></name>; <name><surname>Lorenz</surname><given-names>I.</given-names></name>; <name><surname>Theurl</surname><given-names>I.</given-names></name>; <name><surname>Nachbaur</surname><given-names>D.</given-names></name>
+<article-title>of PCR in diagnosis
+of invasive fungal infections: real-life data from a multicenter study</article-title>. <source>J. Clin. Microbiol.</source>
+<year>2013</year>, <volume>51</volume>, <fpage>863</fpage>&#x02013;<lpage>868</lpage>. <pub-id pub-id-type="doi">10.1128/jcm.02965-12</pub-id>.<pub-id pub-id-type="pmid">23269732</pub-id></mixed-citation></ref><ref id="ref59"><mixed-citation publication-type="journal" id="cit59"><name><surname>Stewart</surname><given-names>C. M.</given-names></name>; <name><surname>Kothari</surname><given-names>P. D.</given-names></name>; <name><surname>Mouliere</surname><given-names>F.</given-names></name>; <name><surname>Mair</surname><given-names>R.</given-names></name>; <name><surname>Somnay</surname><given-names>S.</given-names></name>; <name><surname>Benayed</surname><given-names>R.</given-names></name>; <name><surname>Zehir</surname><given-names>A.</given-names></name>; <name><surname>Weigelt</surname><given-names>B.</given-names></name>; <name><surname>Dawson</surname><given-names>S.-J.</given-names></name>; <name><surname>Arcila</surname><given-names>M. E.</given-names></name>; <name><surname>Berger</surname><given-names>M. F.</given-names></name>; <name><surname>Tsui</surname><given-names>D. W.</given-names></name>
+<article-title>The value of cell-free
+DNA for molecular pathology</article-title>. <source>J. Pathol.</source>
+<year>2018</year>, <volume>244</volume>, <fpage>616</fpage>&#x02013;<lpage>627</lpage>. <pub-id pub-id-type="doi">10.1002/path.5048</pub-id>.<pub-id pub-id-type="pmid">29380875</pub-id></mixed-citation></ref><ref id="ref60"><mixed-citation publication-type="journal" id="cit60"><name><surname>P&#x000f6;s</surname><given-names>O.</given-names></name>; <name><surname>Bir&#x000f3;</surname><given-names>O.</given-names></name>; <name><surname>Szemes</surname><given-names>T.</given-names></name>; <name><surname>Nagy</surname><given-names>B.</given-names></name>
+<article-title>Circulating cell-free
+nucleic acids: characteristics and applications</article-title>. <source>Eur. J. Hum. Genet.</source>
+<year>2018</year>, <volume>26</volume>, <fpage>937</fpage>&#x02013;<lpage>945</lpage>. <pub-id pub-id-type="doi">10.1038/s41431-018-0132-4</pub-id>.<pub-id pub-id-type="pmid">29681621</pub-id></mixed-citation></ref><ref id="ref61"><mixed-citation publication-type="journal" id="cit61"><name><surname>Poulsen</surname><given-names>H. E.</given-names></name>; <name><surname>Weimann</surname><given-names>A.</given-names></name>; <name><surname>Henriksen</surname><given-names>T.</given-names></name>; <name><surname>Kj&#x000e6;r</surname><given-names>L. K.</given-names></name>; <name><surname>Larsen</surname><given-names>E. L.</given-names></name>; <name><surname>Carlsson</surname><given-names>E. R.</given-names></name>; <name><surname>Christensen</surname><given-names>C. K.</given-names></name>; <name><surname>Brandslund</surname><given-names>I.</given-names></name>; <name><surname>Fenger</surname><given-names>M.</given-names></name>
+<article-title>Oxidatively generated modifications
+to nucleic acids in vivo: Measurement in urine and plasma</article-title>. <source>Free Radical Biol. Med.</source>
+<year>2019</year>, <volume>145</volume>, <fpage>336</fpage>&#x02013;<lpage>341</lpage>. <pub-id pub-id-type="doi">10.1016/j.freeradbiomed.2019.10.001</pub-id>.<pub-id pub-id-type="pmid">31586654</pub-id></mixed-citation></ref><ref id="ref62"><mixed-citation publication-type="journal" id="cit62"><name><surname>Weinstein</surname><given-names>D. J.</given-names></name>; <name><surname>Allen</surname><given-names>S. E.</given-names></name>; <name><surname>Lau</surname><given-names>M. C.</given-names></name>; <name><surname>Erasmus</surname><given-names>M.</given-names></name>; <name><surname>Asalone</surname><given-names>K. C.</given-names></name>; <name><surname>Walters-Conte</surname><given-names>K.</given-names></name>; <name><surname>Deikus</surname><given-names>G.</given-names></name>; <name><surname>Sebra</surname><given-names>R.</given-names></name>; <name><surname>Borgonie</surname><given-names>G.</given-names></name>; <name><surname>van Heerden</surname><given-names>E.</given-names></name>
+<article-title>The genome
+of a subterrestrial nematode reveals adaptations
+to heat</article-title>. <source>Nat. Commun.</source>
+<year>2019</year>, <volume>10</volume>, <fpage>5268</fpage><pub-id pub-id-type="doi">10.1038/s41467-019-13245-8</pub-id>.<pub-id pub-id-type="pmid">31754114</pub-id></mixed-citation></ref><ref id="ref63"><mixed-citation publication-type="journal" id="cit63"><name><surname>Conte</surname><given-names>D.</given-names><suffix>Jr.</suffix></name>; <name><surname>MacNeil</surname><given-names>L. T.</given-names></name>; <name><surname>Walhout</surname><given-names>A. J.</given-names></name>; <name><surname>Mello</surname><given-names>C. C.</given-names></name>
+<article-title>RNA Interference
+in Caenorhabditis elegans</article-title>. <source>Curr. Protoc. Mol.
+Biol.</source>
+<year>2015</year>, <volume>109</volume>, <fpage>26.3.1</fpage>&#x02013;<lpage>26.3.30</lpage>. <pub-id pub-id-type="doi">10.1002/0471142727.mb2603s109</pub-id>.<pub-id pub-id-type="pmid">25559107</pub-id></mixed-citation></ref><ref id="ref64"><mixed-citation publication-type="journal" id="cit64"><name><surname>Mohanaraj</surname><given-names>S.</given-names></name>; <name><surname>Wonnenberg</surname><given-names>P.</given-names></name>; <name><surname>Cohen</surname><given-names>B.</given-names></name>; <name><surname>Zhao</surname><given-names>H.</given-names></name>; <name><surname>Hartings</surname><given-names>M. R.</given-names></name>; <name><surname>Zou</surname><given-names>S.</given-names></name>; <name><surname>Fox</surname><given-names>D. M.</given-names></name>; <name><surname>Zestos</surname><given-names>A. G.</given-names></name>
+<article-title>Gold Nanoparticle Modified Carbon
+Fiber Microelectrodes for Enhanced Neurochemical Detection</article-title>. <source>Journal of Visualized Experiments</source>
+<year>2019</year>, <volume>147</volume>, <fpage>e59552</fpage>.</mixed-citation></ref><ref id="ref65"><mixed-citation publication-type="journal" id="cit65"><name><surname>Mendoza</surname><given-names>A.</given-names></name>; <name><surname>Asrat</surname><given-names>T.</given-names></name>; <name><surname>Liu</surname><given-names>F.</given-names></name>; <name><surname>Wonnenberg</surname><given-names>P.</given-names></name>; <name><surname>Zestos</surname><given-names>A. G.</given-names></name>
+<article-title>Carbon Nanotube Yarn Microelectrodes Promote High Temporal
+Measurements of Serotonin Using Fast Scan Cyclic Voltammetry</article-title>. <source>Sensors</source>
+<year>2020</year>, <volume>20</volume> (<issue>4</issue>), <fpage>1173</fpage><pub-id pub-id-type="doi">10.3390/s20041173</pub-id>.</mixed-citation></ref></ref-list></back></article>

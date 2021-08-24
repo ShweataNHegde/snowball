@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>FSCAV limits (
+ <xref rid="pone.0254594.g001" ref-type="fig">Fig 1a</xref>), correspond to the ad-hoc voltages (0.4 V and 0.9 V) selected as integration limits for the quantification of dopamine [
+ <xref rid="pone.0254594.ref013" ref-type="bibr">13</xref>]. Note that all measurements were collected using a traditional FSCV waveform described in section 2.2 as opposed to FSCAV. Inflection limits are defined as the zeros of the second derivative of a voltammogram, around an oxidation (or reduction) peak, and curvature points (maximum curvature, or maximum second derivative) are defined as the maxima/minima of the second derivative around an oxidation/reduction peak, see 
+ <xref rid="pone.0254594.g001" ref-type="fig">Fig 1(b)</xref>.
+</p>

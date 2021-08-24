@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disp-formula id="E5">
+ <label>(5)</label>
+ <math id="M5">
+  <mtable class="eqnarray" columnalign="left">
+   <mtr>
+    <mtd>
+     <mi>C</mi>
+     <mo>=</mo>
+     <mrow>
+      <mo stretchy="true">[</mo>
+      <mrow>
+       <mi>l</mi>
+       <mi>o</mi>
+       <mi>g</mi>
+       <mtext> </mtext>
+       <mrow>
+        <mo stretchy="true">(</mo>
+        <mrow>
+         <mfrac>
+          <mrow>
+           <mi>R</mi>
+           <mi>T</mi>
+          </mrow>
+          <mrow>
+           <mi>α</mi>
+           <mi>n</mi>
+           <mi>F</mi>
+          </mrow>
+         </mfrac>
+         <mrow>
+          <mo stretchy="true">(</mo>
+          <mrow>
+           <msub>
+            <mrow>
+             <mi>k</mi>
+            </mrow>
+            <mrow>
+             <mi>s</mi>
+            </mrow>
+           </msub>
+          </mrow>
+          <mo stretchy="true">)</mo>
+         </mrow>
+        </mrow>
+        <mo stretchy="true">)</mo>
+       </mrow>
+       <mtext> </mtext>
+       <mo>-</mo>
+       <mi>l</mi>
+       <mi>o</mi>
+       <mi>g</mi>
+       <mtext> </mtext>
+       <mrow>
+        <mo stretchy="false">(</mo>
+        <mrow>
+         <mi>v</mi>
+        </mrow>
+        <mo stretchy="false">)</mo>
+       </mrow>
+       <mtext> </mtext>
+      </mrow>
+      <mo stretchy="true">]</mo>
+     </mrow>
+    </mtd>
+   </mtr>
+  </mtable>
+ </math>
+</disp-formula>

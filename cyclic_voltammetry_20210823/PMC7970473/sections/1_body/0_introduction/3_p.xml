@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Electrochemical DNA biosensors detect the redox signal of the target analytes or a hybridization of a specific single-stranded DNA (ssDNA) sequence with its complementary strand, which are accumulated on the electrode surface.
+ <sup>
+  <xref ref-type="bibr" rid="ref18">18</xref>,
+  <xref ref-type="bibr" rid="ref19">19</xref>
+ </sup> The purine bases of DNA can be oxidized electrochemically through carbon, gold,
+ <sup>
+  <xref ref-type="bibr" rid="ref64">64</xref>
+ </sup> indium tin oxide, and polymer-coated conductive electrodes.
+ <sup>
+  <xref ref-type="bibr" rid="ref18">18</xref>
+ </sup> The most commonly used electrochemical biosensors are carbon-based biosensors.
+ <sup>
+  <xref ref-type="bibr" rid="ref20">20</xref>−
+  <xref ref-type="bibr" rid="ref26">26</xref>
+ </sup> Among carbon-based sensors, carbon fiber microelectrodes (CFMEs) are suitable for detecting biomolecular analytes at subsecond times with high sensitivity and selectivity.
+ <sup>
+  <xref ref-type="bibr" rid="ref27">27</xref>−
+  <xref ref-type="bibr" rid="ref30">30</xref>
+ </sup> They are relatively small, inert, and biocompatible and thus can be used for the 
+ <italic>in vivo</italic> detection of neurotransmitters.
+ <sup>
+  <xref ref-type="bibr" rid="ref31">31</xref>−
+  <xref ref-type="bibr" rid="ref35">35</xref>
+ </sup> Fast-scan cyclic voltammetry (FSCV) coupled with CFMEs is a commonly used electrochemical technique to detect neurotransmitters in the brain with subsecond temporal resolution.
+ <sup>
+  <xref ref-type="bibr" rid="ref32">32</xref>,
+  <xref ref-type="bibr" rid="ref34">34</xref>,
+  <xref ref-type="bibr" rid="ref36">36</xref>−
+  <xref ref-type="bibr" rid="ref39">39</xref>,
+  <xref ref-type="bibr" rid="ref65">65</xref>
+ </sup> In recent years, it has been explored to study the rapid purinergic signaling in the brain. Specifically, the Venton laboratory showed that adenosine can be detected with FSCV utilizing the triangle waveforms at high (1.45 V) switching potentials.
+ <sup>
+  <xref ref-type="bibr" rid="ref40">40</xref>
+ </sup> With FSCV, it is more facile to detect purines (adenosine and guanosine) than pyrimidines (cytidine and thymine) due to their higher oxidative electrochemical activity. However, conventional triangular waveforms produce overlapping peaks for adenosine and guanosine,
+ <sup>
+  <xref ref-type="bibr" rid="ref25">25</xref>,
+  <xref ref-type="bibr" rid="ref41">41</xref>−
+  <xref ref-type="bibr" rid="ref43">43</xref>
+ </sup> thus making it challenging to codetect these analytes simultaneously using FSCV.
+</p>

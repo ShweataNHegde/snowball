@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To confirm that these peaks are the nucleobases, we performed spike-in testing of each base with a fixed amount of rat serum and found augmentation of each expected endogenous peak as shown in 
+ <xref rid="fig6" ref-type="fig">Figures 
+  <xref rid="fig6" ref-type="fig">6</xref>
+ </xref>A–D and 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04845/suppl_file/ao0c04845_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">S6A–C</ext-link>. An additional peak was observed at around 1.2 V and is associated with the spike-in guanosine, which may reflect the peak that we observe in rat serum (approximately at 1.00 V) combined with a peak near the flow-cell voltage of ∼1.15 V. Both peaks increase with spiked-in guanosine (
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04845/suppl_file/ao0c04845_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S6</ext-link>). These results confirm that our method is indeed capable of detecting adenine, guanine, and cytosine bases in a rat serum sample. We hypothesize that the overall shift of oxidative current peak to a lower oxidative potential found at all nucleobases in a rat serum might be attributed to the pH changes of the serum
+ <sup>
+  <xref ref-type="bibr" rid="ref48">48</xref>−
+  <xref ref-type="bibr" rid="ref50">50</xref>
+ </sup> or active interfering electrochemical properties of constituents in the serum,
+ <sup>
+  <xref ref-type="bibr" rid="ref51">51</xref>
+ </sup> such as hemoglobin, serum albumin, or other proteins.
+ <sup>
+  <xref ref-type="bibr" rid="ref52">52</xref>
+ </sup> This suggests enhanced electrocatalytic effects, but further experiments are required before this can be ascertained. We found that the pH of the rat serum in our experiment was 8.5, as opposed to buffer (pH = 7.4) and is consistent with the shifted peaks observed. In addition, protein–protein interactions
+ <sup>
+  <xref ref-type="bibr" rid="ref53">53</xref>
+ </sup> and protein-ion (
+ <italic>i.e.</italic>, Na
+ <sup>+</sup>, K
+ <sup>+</sup> in the buffer solution) interactions
+ <sup>
+  <xref ref-type="bibr" rid="ref54">54</xref>
+ </sup> could have possible implications for the ion-shielding and the resulting reduced detection of endogenous nucleobases. This is a proof of the principle study that FSCV with CFMEs can be utilized to detect nucleobases in the presence of a complex biological sample such as serum, which would allow for real-world diagnostic applications. This further illustrates that endogenous nucleobase-containing samples can be detected using our method (
+ <xref rid="fig5" ref-type="fig">Figure 
+  <xref rid="fig5" ref-type="fig">5</xref>
+ </xref>C).
+</p>

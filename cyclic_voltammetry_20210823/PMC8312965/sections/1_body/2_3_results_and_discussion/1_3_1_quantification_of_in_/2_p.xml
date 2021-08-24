@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Panels (a) and (b) of 
+ <xref rid="pone.0254594.g002" ref-type="fig">Fig 2</xref> show that the curvature boundaries select narrower integration intervals than true boundaries. However, it is interesting to note that curvature boundaries show less variability than the true boundaries (average voltages and standard deviations are shown in 
+ <xref rid="pone.0254594.g002" ref-type="fig">Fig 2</xref>). This is unex- pected given that the computation of curvature boundaries involves calculating higher-order derivatives of voltammograms, which should amplify noise [
+ <xref rid="pone.0254594.ref017" ref-type="bibr">17</xref>], and as a consequence curvature boundaries variability.
+</p>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>If multiple electroactive analytes are present in a FSCV measurement, quantifying oxidation due to different species can be challenging. In this section we illustrate how our quantification techniques can aid in that task, when used with cyclic voltammograms displaying multiple humps. Linear charge calibration data for dopamine, adenosine, and a solution of dopamine+adenosine were calculated using true, inflection, and curvature integration boundaries (
+ <xref rid="pone.0254594.s001" ref-type="supplementary-material">S1 Fig</xref>). Indeed, the definitions of curvature limits and inflection limits can be used for individual oxidation humps, as we show in 
+ <xref rid="pone.0254594.g008" ref-type="fig">Fig 8</xref>, where two examples of multiple-oxidation-hump voltammograms, as well as curvature boundaries for each peak are displayed. Notice that in 
+ <xref rid="pone.0254594.g008" ref-type="fig">Fig 8(a)</xref> the two peaks appear because of two different species, while the voltammogram of 
+ <xref rid="pone.0254594.g008" ref-type="fig">Fig 8(b)</xref> is the result of the oxidation of epinephrine (see also 
+ <xref rid="pone.0254594.g004" ref-type="fig">Fig 4(a)</xref>).
+</p>

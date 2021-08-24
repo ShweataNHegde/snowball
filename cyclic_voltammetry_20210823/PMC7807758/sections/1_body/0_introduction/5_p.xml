@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Questions remain on how the charging current will flow in CV and galvanostatic charge–discharge for the CPE instead of the simple capacitance. On the other hand, the ideal capacitor explains the charging current, which is inconsistent with the empirical charging current in both CV and galvanostatic charging/discharging. On the other hand, the CPE instead of a capacitor has been successfully adopted to interpret EIS data for small perturbations. This raises the question: why do we not apply the CPE model to other electrochemical techniques to predict the charging current for larger perturbations? The bottleneck is that the CPE is described by a function of a complex variable depicted in a phasor diagram due to the AC characteristic, while CV is expressed as a function of a real variable. Specifically, the charging current of CPE shown in 
+ <xref rid="eq1" ref-type="disp-formula">eq 
+  <xref rid="eq1" ref-type="disp-formula">1</xref>
+ </xref> upon linear sweep voltage or galvanostatic charging/discharging is not straightforward. 
+ <italic>Q</italic>
+ <sub>0</sub> of the CPE is in units of F/s
+ <sup>
+  <italic>n</italic>–1
+ </sup> instead of F from the real capacitance. Sadkowski published the first effort to address this question based on a Laplace transform with a simple CPE.
+ <sup>
+  <xref ref-type="bibr" rid="ref13">13</xref>−
+  <xref ref-type="bibr" rid="ref15">15</xref>
+ </sup> A similar approach was also applied to estimations of galvanostatic charge–discharge.
+ <sup>
+  <xref ref-type="bibr" rid="ref16">16</xref>
+ </sup> Previous reports investigated the electrochemical response of a simple equivalent circuit consisting of a serial connection of the resistance and the CPE because solving a general equation for a more general model, such as the Randles equivalent circuit, is difficult. To circumvent the mathematics involved in solving a differential equation for a complex model, our group recently investigated the relationships between voltammetry, chronoamperometry, and EIS using the Fourier transform (FT), in which the frequency domain was used to predict the electrochemical response in the time domain.
+ <sup>
+  <xref ref-type="bibr" rid="ref17">17</xref>
+ </sup> In the present paper, we applied the Fourier transform to determine a bundle of harmonic waves for CV and the corresponding current signal to observe the charging current of the CPE in CV. A similar process was also applied to galvanostatic charging/discharging, where our model returns the voltage signal corresponding to the harmonic current signal at each frequency with the effective capacitance to estimate the ability of a capacitor. The results show that the charging behavior is more consistent with the experiments and with previous reports on the CPE, demonstrating the validity of the CPE model for use in various electrochemical techniques based on our FT-based approach.
+</p>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig position="float" id="pone.0254594.g001">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0254594.g001</object-id>
+ <label>Fig 1</label>
+ <caption>
+  <p>a) Background subtracted voltammogram for a bolus of a 0.5 
+   <italic toggle="yes">μ</italic>M dopamine solution. True (“o”, 
+   <italic toggle="yes">x</italic>
+   <sub>
+    <italic toggle="yes">l</italic>
+   </sub> = 0.26 V and 
+   <italic toggle="yes">x</italic>
+   <sub>
+    <italic toggle="yes">r</italic>
+   </sub> = 1.5 V), FSCAV (“♦”, 
+   <italic toggle="yes">x</italic>
+   <sub>
+    <italic toggle="yes">l</italic>
+   </sub> = 0.4 V and 
+   <italic toggle="yes">x</italic>
+   <sub>
+    <italic toggle="yes">r</italic>
+   </sub> = 0.9 V), inflection (“+”, 
+   <italic toggle="yes">x</italic>
+   <sub>
+    <italic toggle="yes">l</italic>
+   </sub> = 0.41 V and 
+   <italic toggle="yes">x</italic>
+   <sub>
+    <italic toggle="yes">r</italic>
+   </sub> = 0.68 V) and curvature integration boundaries (“x”, 
+   <italic toggle="yes">x</italic>
+   <sub>
+    <italic toggle="yes">l</italic>
+   </sub> = 0.29 V and 
+   <italic toggle="yes">x</italic>
+   <sub>
+    <italic toggle="yes">r</italic>
+   </sub> = 0.76 V) are marked on the voltammogram. b) Second derivative of the voltammogram shown in (a), showing the definition of inflection boundaries (inflection points), and curvature boundaries (the maxima around the location of the oxidation peak). c) Flow chart demonstrating overview of applied computational procedures to raw FSCV data.
+  </p>
+ </caption>
+ <graphic xlink:href="pone.0254594.g001" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

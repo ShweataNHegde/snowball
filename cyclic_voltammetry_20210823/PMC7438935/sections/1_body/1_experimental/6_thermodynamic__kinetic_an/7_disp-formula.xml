@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disp-formula id="E6">
+ <label>(6)</label>
+ <math id="M6">
+  <mtable class="eqnarray" columnalign="left">
+   <mtr>
+    <mtd>
+     <mi>i</mi>
+     <mi>p</mi>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <mi>n</mi>
+       <mi>F</mi>
+       <mi>Q</mi>
+       <mi>v</mi>
+      </mrow>
+      <mrow>
+       <mn>4</mn>
+       <mi>R</mi>
+       <mi>Γ</mi>
+      </mrow>
+     </mfrac>
+    </mtd>
+   </mtr>
+  </mtable>
+ </math>
+</disp-formula>

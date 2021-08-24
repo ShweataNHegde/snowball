@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract>
+ <p>Modern techniques for estimating basal levels of electroactive neurotransmitters rely on the measurement of oxidative charges. This requires time integration of oxidation currents at certain intervals. Unfortunately, the selection of integration intervals relies on ad-hoc visual identification of peaks on the oxidation currents, which introduces sources of error and precludes the development of automated procedures necessary for analysis and quantification of neurotransmitter levels in large data sets. In an effort to improve charge quantification techniques, here we present novel methods for automatic selection of integration boundaries. Our results show that these methods allow quantification of oxidation reactions both 
+  <italic toggle="yes">in vitro</italic> and 
+  <italic toggle="yes">in vivo</italic> and of multiple analytes 
+  <italic toggle="yes">in vitro</italic>.
+ </p>
+</abstract>

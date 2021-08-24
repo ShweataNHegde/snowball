@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The simulations were carried by DDSCAT 7.3 [
+ <xref rid="B36-nanomaterials-11-00672" ref-type="bibr">36</xref>]. It was written in Fortran by Draine and Flatau from Princeton University and runs on Linux. DDSCAT 7.3 is a freely available Fortran-90 open-source software that uses the discrete dipole approximation (DDA) to calculate the electromagnetic wave scattering and absorption of targets with arbitrary geometric shapes and complex refractive index. The complex permittivity values in simulations are referred from Palik [
+ <xref rid="B37-nanomaterials-11-00672" ref-type="bibr">37</xref>].
+</p>

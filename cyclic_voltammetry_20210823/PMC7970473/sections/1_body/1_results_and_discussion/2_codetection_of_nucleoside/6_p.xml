@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To determine whether the nucleobases are adsorption controlled to the surface of the electrode, we performed a series of concentration dilution experiments directly comparing both adenine in ssDNA versus adenosine and guanine in ssDNA versus guanosine. 
+ <xref rid="fig2" ref-type="fig">Figure 
+  <xref rid="fig2" ref-type="fig">2</xref>
+ </xref>A,C shows that the peak oxidative current response is linear at lower concentrations, whereas it becomes asymptotic at higher concentrations (both for A-based or G-based analytes) above 20 μM. This suggests that adenosine becomes saturated on the electrode surface at higher concentrations. These experiments reveal that the peak oxidative current of both adenosine and adenine is indeed concentration-dependent. This also corroborated our hypothesis that adenosine is adsorption-controlled to the surface of the carbon electrode due to the linear relationship between the peak oxidative current and concentration. The sensitivity of the analytes can be quantified by the slope of the linear region. The sensitivity of adenosine is 1.93 nA/μM, whereas that of adenine in 10 bp poly-AAT ssDNA is 0.82 nA/μM, which is a 58% decrease (
+ <italic>n</italic> = 3). Moreover, the sensitivity of guanosine (4.15 nA/μM) is dramatically decreased to 0.44 nA/μM for the guanine in 10 bp poly-GGT ssDNA, which is nearly a 10-fold decrease as plotted in 
+ <xref rid="fig2" ref-type="fig">Figure 
+  <xref rid="fig2" ref-type="fig">2</xref>
+ </xref>B,D. These results suggest that the electrostatic repulsion from the negatively charged phosphate backbone groups of the ssDNA and its bulkier size with respect to single nucleobases reduce their adsorption to the negatively charged electrode surface, hence decreasing the sensitivity. Furthermore, a significant decrease in the sensitivity of guanine in 10 bp ssDNA compared to that of adenine can explain the higher oxidative current of adenine compared to guanine in the ssDNA mixture sample (
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>B).
+</p>

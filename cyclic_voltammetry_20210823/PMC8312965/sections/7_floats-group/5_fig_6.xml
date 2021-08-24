@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig position="float" id="pone.0254594.g006">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0254594.g006</object-id>
+ <label>Fig 6</label>
+ <caption>
+  <p>a) Voltammogram regions enclosing the oxidation peak of selected background subtracted voltammograms taken from the data set of 
+   <xref rid="pone.0254594.g005" ref-type="fig">Fig 5</xref>, superimposed with asterisks showing the curvature boundaries for each voltammogram. Stimulation parameters for the traces X,Y, and Z are as follows X: 0.14mA, 1.46ms pulse width, 180 pulses, 90Hz Y: 0.16mA, 1.57ms pulse width, 180 pulses, 90Hz Z: 0.15mA, 1.45ms pulse width, 180 pulses, 90Hz (b) Oxidation charges corresponding to the data set of 
+   <xref rid="pone.0254594.g005" ref-type="fig">Fig 5</xref>, obtained with curvature limits, plotted as function of the duty cycle for the 90 Hz, two-second stimulations.
+  </p>
+ </caption>
+ <graphic xlink:href="pone.0254594.g006" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

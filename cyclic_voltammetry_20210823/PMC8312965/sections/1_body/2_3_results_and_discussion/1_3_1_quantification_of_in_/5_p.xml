@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Curvature integration boundaries provide the highest charge among the three methods considered at concentrations above 0.5 μM as shown by a comparison of curvature and FSCAV datapoints using an unpaired two-tailed t-test with welch’s correction (0.1μM, p&gt;0.05; 0.5μM, p = .024; 1μM, p = .0001; 5 μM, p = .0003) (
+ <xref rid="pone.0254594.g004" ref-type="fig">Fig 4</xref>).”As illustrated by 
+ <xref rid="pone.0254594.g004" ref-type="fig">Fig 4(a)</xref>, epinephrine voltammograms have two oxidation peaks [
+ <xref rid="pone.0254594.ref003" ref-type="bibr">3</xref>], and if we try to calculate the oxidation charge due to the primary (or secondary) peak alone, true boundaries produce erroneous results by selecting a region that contains both oxidation peaks. This issue also arises when combinations of analytes (like dopamine and adenosine) are being measured.
+</p>

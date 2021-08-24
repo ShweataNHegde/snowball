@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>All results were obtained using a house-built MATLAB code to perform the discrete Fourier transform of triangular potential sweep and the corresponding current signal. A simple equivalent circuit for an electrochemical cell consisted of a serial connection of solution resistance (
+ <italic>R</italic>
+ <sub>s</sub>) and CPE. The current signal at the frequency domain was calculated based on simple Ohm’s law
+ <disp-formula id="eq2">
+  <graphic xlink:href="ao0c04702_m002" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <label>2</label>
+ </disp-formula>where 
+ <italic>V</italic> and 
+ <italic>I</italic> are complex numbers at a specific frequency, 
+ <italic>Z</italic> is the total impedance, and other parameters are the same as in 
+ <xref rid="eq1" ref-type="disp-formula">eq 
+  <xref rid="eq1" ref-type="disp-formula">1</xref>
+ </xref>. For all calculations, solution resistance and 
+ <italic>Q</italic>
+ <sub>0</sub> were 100 Ω and 10
+ <sup>–3</sup> F/s
+ <sup>(1–
+  <italic>n</italic>)
+ </sup>, respectively. Then, the data array of 
+ <italic>I</italic> (complex number of current) at each frequency was transformed into the time domain by the inverse Fourier transform to obtain the current signal at the time domain.
+</p>

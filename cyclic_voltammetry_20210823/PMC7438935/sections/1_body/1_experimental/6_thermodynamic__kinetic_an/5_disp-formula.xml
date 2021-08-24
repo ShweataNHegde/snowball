@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disp-formula id="E4">
+ <label>(4)</label>
+ <math id="M4">
+  <mtable class="eqnarray" columnalign="left">
+   <mtr>
+    <mtd>
+     <mi>B</mi>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <mn>2</mn>
+       <mo>.</mo>
+       <mn>303</mn>
+       <mi>R</mi>
+       <mi>T</mi>
+      </mrow>
+      <mrow>
+       <mi>α</mi>
+       <mi>n</mi>
+       <mi>F</mi>
+      </mrow>
+     </mfrac>
+    </mtd>
+   </mtr>
+  </mtable>
+ </math>
+</disp-formula>

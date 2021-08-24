@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Computational routines for filtering and smoothing background- subtracted voltammograms, as well as to calculate higher order derivatives, to find, classify, sort and correct curvature and inflection points are implemented in MATLAB (
+ <xref rid="pone.0254594.g001" ref-type="fig">Fig 1</xref>). A 1000Hz lowpass 2
+ <sup>nd</sup> phase butterworth filter was applied to all data in both forward and reverse directions to reduce spurious signals. Data was also smoothed with a 5-point moving average and a CSAPS Cubic smoothing spline before background subtraction subsequent charge calculations. Correction routines require not adding negative areas to the total charge in the case of oxidation reactions, and have the switching potential as hard limit for 
+ <italic toggle="yes">x</italic>
+ <sub>
+  <italic toggle="yes">r</italic>
+ </sub>. Similar considerations are utilized for reduction-charge calculations (excluding regions with positive areas, and using the switching potential as hard limit for 
+ <italic toggle="yes">x</italic>
+ <sub>
+  <italic toggle="yes">l</italic>
+ </sub>).
+</p>

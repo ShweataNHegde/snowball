@@ -32,7 +32,7 @@ def parse_xml(output_directory, results_txt, body_section='method'):
 
     Args:
         output_directory (str): CProject directory
-        results_txt (str): text file to write parsed XML
+        results_txt (str):name of text file to write parsed XML
         body_section (str, optional): [description]. Defaults to 'method'.
     """
     WORKING_DIRECTORY = os.getcwd()
@@ -53,7 +53,7 @@ def key_phrase_extraction(results_txt, terms_txt):
 
     Args:
         results_txt (str): text file with parsed XML text
-        terms_txt (str): text file with comma-separated extracted key phrases
+        terms_txt (str): name of text file with comma-separated extracted key phrases
     """
     text = pathlib.Path(results_txt).read_text(encoding='utf-8')
     kw_extractor = yake.KeywordExtractor()
@@ -75,7 +75,7 @@ OD_RESULTS= 'cyclic_volammtery.txt'
 OD_TERMS = 'terms.txt'
 OD_OUTPUT_2 = 'cyclic_voltammetry_2'
 OD_RESULTS_2= 'cyclic_volammtery_2.txt'
-OD_TERMS_2 = 'terms_2.txt'
+
 
 querying_pygetpapers_sectioning(OD_QUERY, OD_HITS, OD_OUTPUT)
 parse_xml(OD_OUTPUT,OD_RESULTS)

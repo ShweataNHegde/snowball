@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig position="float" id="pone.0254594.g003">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0254594.g003</object-id>
+ <label>Fig 3</label>
+ <caption>
+  <p>a) Oxidation charges for the data shown in (
+   <xref rid="pone.0254594.g002" ref-type="fig">Fig 2a and 2b</xref>), obtained with different integration boundaries. b) Oxidation charges for the data shown in 
+   <xref rid="pone.0254594.g002" ref-type="fig">Fig 2(c)</xref>, obtained with different integration boundaries. Averages and standard deviations for charges using true, FSCAV (in italic) and curvature (bold) integration boundaries are also shown. Quantities shown in the figure indicate averages ± standard deviations.
+  </p>
+ </caption>
+ <graphic xlink:href="pone.0254594.g003" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

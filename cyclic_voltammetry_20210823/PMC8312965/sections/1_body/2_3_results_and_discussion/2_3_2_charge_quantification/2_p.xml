@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We contrast the behavior of true boundaries for the experimental data set of 
+ <xref rid="pone.0254594.g005" ref-type="fig">Fig 5(b)</xref> with that of the curvature boundaries, which despite the random variation of the DBS stimulation parameters of the experiment, show little variability (
+ <italic toggle="yes">x</italic>
+ <sub>
+  <italic toggle="yes">l</italic>
+ </sub> = 0.388 
+ <italic toggle="yes">±</italic> 0.007 V and 
+ <italic toggle="yes">x</italic>
+ <sub>
+  <italic toggle="yes">r</italic>
+ </sub> = 0.807 
+ <italic toggle="yes">±</italic> 0.022 V), demonstrating the robustness of our charge quantification algorithms.
+</p>

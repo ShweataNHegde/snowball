@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Rapid changes in the brain electrochemistry can lead to faster background current drift [
+ <xref rid="pone.0254594.ref002" ref-type="bibr">2</xref>,
+ <xref rid="pone.0254594.ref020" ref-type="bibr">20</xref>,
+ <xref rid="pone.0254594.ref021" ref-type="bibr">21</xref>], which distorts the voltammograms (an example is shown in 
+ <xref rid="pone.0254594.g005" ref-type="fig">Fig 5a</xref>). The use of true charges as a benchmark for charge quantification depends on the stability of the background current measured with FSCV. Thus, faster in-vivo background-current change can pose a problem for the use of true boundaries with in-vivo data, as we explain below. 
+ <xref rid="pone.0254594.g005" ref-type="fig">Fig 5(a)</xref> shows a stimulation-evoked background-subtracted voltammogram from a rodent striatum dopamine measurement evoked by systematically varying amplitude and duty cycle applied in a random order to minimize hysteresis., superimposed with curvature boundaries. A region of positive, nearly constant current between 1 and 1.5 volts that persists far into the 
+ <italic toggle="yes">cathodic</italic> sweep, is likely the consequence of background drift. Drift is exacerbated by disruption of Helmholtz layer or pH changes as a result of electrical stimulation [
+ <xref rid="pone.0254594.ref022" ref-type="bibr">22</xref>]. The integration boundaries can still be calculated in the presence of background drift, though the exact cutoffs may be affected. It is generally advisable for the experimenter to minimize any possible sources of background drift or other redox sources in FSCV recordings for consistent data analysis and interpretation. The shaded region adds a positive bias to the charge computed with true boundaries. Furthermore, a similar behavior is observed in most voltammograms of the data set of 
+ <xref rid="pone.0254594.g005" ref-type="fig">Fig 5</xref>. Consequently, in panel (b), which shows true and curvature boundaries for the entire dataset, the right true boundary 
+ <italic toggle="yes">x</italic>
+ <sub>
+  <italic toggle="yes">r</italic>
+ </sub> has been set to the switching potential of the voltage sweep.
+</p>

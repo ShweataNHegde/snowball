@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig2" position="float">
+ <label>Figure 2</label>
+ <caption>
+  <p>Comparison of the concentration curve between (A) adenosine and adenine in ssDNA (5′-AATAATAATAATAA-3′) and (B) guanosine and guanine in ssDNA (5′-GGTGGTGGTGGTGG-3′). The detection sensitivity of purine bases in nucleosides and nucleotides was compared at (C) adenosine versus adenine in ssDNA at 50 μM (
+   <italic>p</italic> = 0.0045, 
+   <italic>n</italic> = 3, two-tailed and unpaired 
+   <italic>t</italic>-test) and (D) guanosine versus guanine in ssDNA at 50 μM (
+   <italic>p</italic> &lt; 0.0001, 
+   <italic>n</italic> = 3, two-tailed and unpaired 
+   <italic>t</italic>-test). The peak oxidative current of purine bases was used to normalize the peak currents of each nucleotide in 10 bp ssDNA.
+  </p>
+ </caption>
+ <graphic xlink:href="ao0c04845_0003" id="gr2" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

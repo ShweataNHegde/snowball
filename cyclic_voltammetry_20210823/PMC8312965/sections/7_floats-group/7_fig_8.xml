@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig position="float" id="pone.0254594.g008">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0254594.g008</object-id>
+ <label>Fig 8</label>
+ <caption>
+  <p>a) Background subtracted voltammogram showing two oxidation peaks due to 1 
+   <italic toggle="yes">μ</italic>M dopamine plus 1 
+   <italic toggle="yes">μ</italic>M adenosine, along with the corresponding curvature boundaries for each peak: 0.33 V and 0.79 V for DA, and 1.31 V and 1.5 V for ADO. b) Background subtracted voltammogram showing two oxidation peaks due to 0.5 
+   <italic toggle="yes">μ</italic>M epinephrine, and the corresponding curvature boundaries for each peak: 0.38 V and 0.80 V for first peak, and 1.25 V and 1.5 V for the second. Vertical dashed lines indicate the switching potentials.
+  </p>
+ </caption>
+ <graphic xlink:href="pone.0254594.g008" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

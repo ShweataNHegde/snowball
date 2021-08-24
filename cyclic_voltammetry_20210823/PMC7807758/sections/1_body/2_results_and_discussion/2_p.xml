@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <xref rid="sch1" ref-type="scheme">Scheme 
+  <xref rid="sch1" ref-type="scheme">1</xref>
+ </xref> illustrates the method used to estimate the charging current in a cyclic voltammogram (CV) with two different equivalent circuits. The first circuit, shown in 
+ <xref rid="sch1" ref-type="scheme">Scheme 
+  <xref rid="sch1" ref-type="scheme">1</xref>
+ </xref>A, was composed of the solution resistance and the conventional double-layer capacitance (
+ <italic>C</italic>
+ <sub>dl</sub>). Instead of 
+ <italic>C</italic>
+ <sub>dl</sub>, the empirical CPE was adopted. It is expressed here as 
+ <xref rid="eq1" ref-type="disp-formula">eq 
+  <xref rid="eq1" ref-type="disp-formula">1</xref>
+ </xref> (
+ <xref rid="sch1" ref-type="scheme">Scheme 
+  <xref rid="sch1" ref-type="scheme">1</xref>
+ </xref>B). The total impedance in both cases was the vector sum of 
+ <italic>R</italic>
+ <sub>s</sub> and the capacitive element depicted in the corresponding phasor plot. Note that the phase of the CPE differs from that of 
+ <italic>C</italic>
+ <sub>dl</sub>. Owing to the nature of the capacitive element being dependent on the frequency, expressed here as 
+ <xref rid="eq1" ref-type="disp-formula">eq 
+  <xref rid="eq1" ref-type="disp-formula">1</xref>
+ </xref>, the prediction of the current in the time domain is not straightforward. To circumvent this problem, the frequency domain was adopted, as illustrated in 
+ <xref rid="sch1" ref-type="scheme">Scheme 
+  <xref rid="sch1" ref-type="scheme">1</xref>
+ </xref>C. First, the triangular waveform of the CV was transformed into the frequency domain, resulting in complex numbers of the voltage phasor for each frequency. The complex numbers for the current phasor were then calculated simply with Ohm’s law, i.e., by dividing the complex number of the total impedance into the complex number of the voltage, as described in 
+ <xref rid="eq2" ref-type="disp-formula">eq 
+  <xref rid="eq2" ref-type="disp-formula">2</xref>
+ </xref>. Then, the inverse Fourier transform was applied to determine the current in the time domain. Finally, the CV was plotted as the voltage versus the current in the time domain. To assess the galvanostatic charge–discharge, voltage as a stimulus for an electrochemical cell was swapped with the current as a response, while other procedures were identical to those used with the CV.
+</p>

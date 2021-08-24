@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supplementary-material id="pone.0254594.s001" position="float" content-type="local-data">
+ <label>S1 Fig</label>
+ <caption>
+  <title>Linear charge calibration curve for dopamine, adenosine, and dopamine +adenosine using a)True integration limits b) curvature integration limits, and c) inflection integration limits at concentrations of 0.1 μM, 0.5 μM, and 1 μM.</title>
+  <p>Data are fit with a linear regression and R
+   <sup>2</sup> values are displayed for each analyte.
+  </p>
+  <p>(DOCX)</p>
+ </caption>
+ <media xlink:href="pone.0254594.s001.docx" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <caption>
+   <p>Click here for additional data file.</p>
+  </caption>
+ </media>
+</supplementary-material>

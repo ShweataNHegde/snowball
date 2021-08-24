@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref13">
+ <mixed-citation publication-type="journal" id="cit13">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Z.</given-names>
+  </name>; 
+  <name>
+   <surname>Gerstein</surname>
+   <given-names>M.</given-names>
+  </name>; 
+  <name>
+   <surname>Snyder</surname>
+   <given-names>M.</given-names>
+  </name>
+  <article-title>RNA-Seq: a revolutionary tool for transcriptomics</article-title>. 
+  <source>Nat. Rev. Genet.</source>
+  <year>2009</year>, 
+  <volume>10</volume>, 
+  <fpage>57</fpage>–
+  <lpage>63</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/nrg2484</pub-id>.
+  <pub-id pub-id-type="pmid">19015660</pub-id>
+ </mixed-citation>
+</ref>

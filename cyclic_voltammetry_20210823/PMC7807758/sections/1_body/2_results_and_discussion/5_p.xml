@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Both CV and galvanostatic charging/discharging show the unique features from the CPE model compared to the behaviors of a conventional capacitor. Although the origin of the CPE has not yet been clearly revealed, the CPE model represents the empirical experimental results from electrochemistry well. To understand the physical meaning of the CPE in an electrochemical system, Bode plots of equivalent circuits were devised, as shown in 
+ <xref rid="fig3" ref-type="fig">Figure 
+  <xref rid="fig3" ref-type="fig">3</xref>
+ </xref>. Respectively, 
+ <xref rid="fig3" ref-type="fig">Figure 
+  <xref rid="fig3" ref-type="fig">3</xref>
+ </xref>A,B shows the amplitude and phase of equivalent circuits depending on the frequency, respectively. At a high frequency, the amplitude and phase of the total impedance approach the solution resistance, as expected. The phase, however, still shows a difference between the simple capacitor and the CPE. The phase of the simple capacitor passed the inflection point approaching 0 of the resistor, while that of the CPE with 
+ <italic>n</italic> = 0.7 does not reach the inflection point. This implies that the CPE with a smaller 
+ <italic>n</italic> possesses capacitive characteristics even at a high frequency. The effect of the CPE is more dramatic in the low-frequency region. Both the amplitude and phase of the total impedance are smaller than those of the simple capacitor. For the CV, larger charging current levels were observed, as shown in 
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>, an outcome consistent with the smaller amplitude of the total impedance because the lower frequency contributes more to the slower potential scan. In addition, the remaining resistive characteristics of the CPE at a low frequency from the phase cause a gradual increase in the charging current. For galvanostatic charging/discharging, the phase of the total impedance from the CPE shows more capacitive behavior at a high frequency and more resistive behavior at a low frequency. Therefore, the initial response of the galvanostatic measurement depending on the high frequency tends to increase the potential, while the longer charging causes the dissipation of the energy due to the nature of the resistor.
+</p>

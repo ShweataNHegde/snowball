@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>While this approach may be helpful for standardizing oxidation charge quantification of electroactive neurochemicals, it is not without limitations. The relationship between charge and analyte concentration is nonlinear (
+ <xref rid="pone.0254594.g003" ref-type="fig">Fig 3</xref>). While linear regressions are regularly used when creating a calibration curves [
+ <xref rid="pone.0254594.ref006" ref-type="bibr">6</xref>–
+ <xref rid="pone.0254594.ref010" ref-type="bibr">10</xref>], this approach may result in underestimations at the low and high ends of detectable concentrations while overestimations concentrations at the midpoint of the detectible range. Fitting with a nonlinear regression model may reduce these errors when converting between charge and concentration for unknown samples. Furthermore, we present a limited analysis of the performance of automated charge calculation methods in a sample of multiple analytes, but a more exhaustive characterization of charge in the presence of other electroactive interferents (e.g. DOPAC, Guanine, Serotonin, etc.) is necessary to fully determine performance of this approach. Despite these limitations, computational approaches such as the one described here are necessary for improving accuracy and consistency of electroactive neurochemical measurements.
+</p>

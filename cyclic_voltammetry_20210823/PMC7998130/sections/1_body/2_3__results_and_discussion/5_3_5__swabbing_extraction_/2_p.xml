@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Polycyclic aromatic hydrocarbons (PAHs) are a common environmental and food organic pollutant with carcinogenic and teratogenic characteristics [
+ <xref rid="B53-nanomaterials-11-00672" ref-type="bibr">53</xref>]. Such substances tend to accumulate in the human body and organisms and ultimately affect their health. In SERS detection, PAHs are rarely adsorbed near the surface of the SERS substrate. Therefore, it is difficult to detect PAHs using traditional methods. Mercaptans, common modifier materials, are relatively easy to form a molecular layer on the surface of precious metals, which can adsorb hydrophobic molecules such as polycyclic aromatic hydrocarbons in the vicinity of its surface in water and then achieve SERS detection [
+ <xref rid="B54-nanomaterials-11-00672" ref-type="bibr">54</xref>]. Propyl mercaptan was selected as a surface modification molecule to enrich fluoranthene molecules during the swabbing extraction experiment. The trace amount of fluoranthene on the surface of a clean polyethylene packaging bag was collect by wiping and extracting for SERS detection. 
+ <xref ref-type="fig" rid="nanomaterials-11-00672-f007">Figure 7</xref>b is the SERS spectra of fluoranthene on propyl mercaptan (normalized by Raman peak at 1025 cm
+ <sup>−1</sup> of propyl mercaptan). The conventional Raman spectrum of fluoranthene is displayed in 
+ <xref ref-type="app" rid="app1-nanomaterials-11-00672">Figure S11b</xref> for comparison. The characteristic peaks at 701 cm
+ <sup>−1</sup>, 895 cm
+ <sup>−1</sup>, 1025 cm
+ <sup>−1</sup>, and others unmarked are attributed to propyl mercaptan [
+ <xref rid="B54-nanomaterials-11-00672" ref-type="bibr">54</xref>]. The inset shows the molecular structure of fluoranthene. The characteristic peaks of fluoranthene are 802, 1104, 1270, and 1608 cm
+ <sup>−1</sup>. Among them, 802 cm
+ <sup>−1</sup> is the C–H stretching vibration peak; 1104 and 1270 cm
+ <sup>−1</sup> are the C–H in-plane stretching vibration; 1608 cm
+ <sup>−1</sup> is the C–C stretching vibration peak [
+ <xref rid="B54-nanomaterials-11-00672" ref-type="bibr">54</xref>]. The characteristic peak intensity of fluoranthene is proportional to its mass. As is displayed in 
+ <xref ref-type="app" rid="app1-nanomaterials-11-00672">Figure S9e</xref>, the linear equation was given within the dynamic range from 0.0202 to 2.02 ng. In addition, the LOD of the fluoranthene mass turned out 0.0810 ng.
+</p>

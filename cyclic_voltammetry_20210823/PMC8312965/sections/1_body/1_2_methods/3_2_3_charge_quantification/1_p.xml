@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We define the charge resulting from a single oxidation/reduction reaction by 
+ <disp-formula id="pone.0254594.e001">
+  <alternatives>
+   <graphic xlink:href="pone.0254594.e001.jpg" id="pone.0254594.e001g" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M1" display="block" overflow="scroll">
+    <mrow>
+     <mi>Q</mi>
+     <mo>=</mo>
+     <munderover>
+      <mstyle displaystyle="true" mathsize="140%">
+       <mrow/>
+      </mstyle>
+      <mrow>
+       <msub>
+        <mi>x</mi>
+        <mi>l</mi>
+       </msub>
+      </mrow>
+      <mrow>
+       <msub>
+        <mi>x</mi>
+        <mi>r</mi>
+       </msub>
+      </mrow>
+     </munderover>
+     <mi>B</mi>
+     <mfenced>
+      <mi>t</mi>
+     </mfenced>
+     <mi>d</mi>
+     <mi>t</mi>
+     <mo>,</mo>
+    </mrow>
+   </math>
+  </alternatives>
+  <label>(1)</label>
+ </disp-formula> where 
+ <italic toggle="yes">B</italic>(
+ <italic toggle="yes">t</italic>) is a background subtracted voltammogram, and we assume that the integration interval [
+ <italic toggle="yes">x</italic>
+ <sub>
+  <italic toggle="yes">l</italic>
+ </sub>
+ <italic toggle="yes">x</italic>
+ <sub>
+  <italic toggle="yes">r</italic>
+ </sub>] contains a single oxidation/reduction peak (
+ <xref rid="pone.0254594.g001" ref-type="fig">Fig 1a</xref>). In this study we use four pairs of integration boundaries (
+ <xref rid="pone.0254594.g001" ref-type="fig">Fig 1</xref>) to quantify charge. When there is little or no background drift, indicating a stable background capacitive current, the faradaic current response on a background subtracted voltammogram decays towards zero away of the maximum oxidation current [
+ <xref rid="pone.0254594.ref016" ref-type="bibr">16</xref>]. “True” integration boundaries are defined as the points around an oxidation peak where the current is zero (
+ <xref rid="pone.0254594.g001" ref-type="fig">Fig 1a</xref>). Charges computed with true boundaries provide a useful benchmark for comparing quantification methods. However, “True” limits as defined here are unavoidably confounded by the interplay between the Gaussian dopamine oxidation peak and the noise levels in the recording; as a Gaussian distribution never decays to zero.
+</p>

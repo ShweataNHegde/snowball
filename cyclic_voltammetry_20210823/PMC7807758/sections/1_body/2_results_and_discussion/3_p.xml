@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>CVs were studied using the equivalent circuits shown in either 
+ <xref rid="sch1" ref-type="scheme">Scheme 
+  <xref rid="sch1" ref-type="scheme">1</xref>
+ </xref>A or 
+ <xref rid="sch1" ref-type="scheme">Scheme 
+  <xref rid="sch1" ref-type="scheme">1</xref>
+ </xref>B with 
+ <italic>R</italic>
+ <sub>s</sub> = 100 Ω and 
+ <italic>Q</italic>
+ <sub>0</sub> = 10
+ <sup>–3</sup> F/s
+ <sup>(1–
+  <italic>n</italic>)
+ </sup> and with various 
+ <italic>n</italic> values. 
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>A,B shows the representative linear potential program at 100 mV/s in the time domain and the corresponding power spectrum in the frequency domain after the Fourier transform operation, respectively, demonstrating the contribution of the relatively low-frequency harmonic wave during the conventional electrochemical measurement. For an ideal capacitor with 
+ <italic>n</italic> = 1.0, the CV shown in 
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>C is in good agreement with the previous theoretical result. Specifically, transient currents at both vertices dependent on the RC time with the steady-state charging current are clearly observed, indicating the validity of our procedure based on the Fourier transform. 
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>D–F shows the CVs of CPE with 
+ <italic>n</italic> = 0.9, 0.8, and 0.7, respectively. Compared to 
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>C, showing the ideal capacitor, first, the CVs of the CPE demonstrate a gradual increase in the current in the charging region, whereas transient behavior is still shown at both vertices. The smaller 
+ <italic>n</italic> is, the more CV tilts apparently. Empirically, the charging current in the majority of electrochemical cells follows the CVs of the CPE, as shown in 
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>D,E as compared to an ideal CV for a capacitor. Therefore, the CPE is a better model than a conventional capacitor to explain the electrical double-layer in CVs. Second, the charging currents for the CPE are much larger than that for a conventional capacitor at a slow scan rate, while the charging currents of both systems converge to similar values at a high scan rate. To clarify this point, the current at 0 V was used as an estimator of the charging current and was plotted depending on the scan rates, as shown in 
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>G. At a slow scan rate of 10 mV/s, a charging current of 43 μA for 
+ <italic>n</italic> = 0.7 is double that of 20 μA for 
+ <italic>n</italic> = 1.0. In contrast, a charging current of 206.6 μA for 
+ <italic>n</italic> = 0.7 is nearly identical to that of 200.2 μA for 
+ <italic>n</italic> = 1.0 at a higher scan rate of 100 mV/s. The smaller the 
+ <italic>n</italic> is, the larger the charging current is when observed at a slow scan rate. Third, the linear relationship between the charging current and the scan rate is no longer valid for the CPE. The charging current of the ideal capacitor (black dashed line in 
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>G) increases linearly depending on the scan rate. For the CPE, however, there is a deviation from the linear line indicated by the green dashed line for 
+ <italic>n</italic> = 0.7. This tendency has been widely observed in electrochemical experiments and in previous reports,
+ <sup>
+  <xref ref-type="bibr" rid="ref13">13</xref>,
+  <xref ref-type="bibr" rid="ref15">15</xref>,
+  <xref ref-type="bibr" rid="ref16">16</xref>
+ </sup> indicating the validity of our FT-based approach for CV with the CPE model. In summary, the CPE model strongly affects the charging behavior in CV compared with an ideal simple capacitor model, coinciding with empirical experiments for CVs well.
+</p>

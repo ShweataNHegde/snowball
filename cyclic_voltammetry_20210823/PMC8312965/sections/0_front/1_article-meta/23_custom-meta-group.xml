@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<custom-meta-group>
+ <custom-meta id="data-availability">
+  <meta-name>Data Availability</meta-name>
+  <meta-value>Data and code are available on GitHub (
+   <ext-link xlink:href="https://github.com/aspanders/FSCVIntegralMethods" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">https://github.com/aspanders/FSCVIntegralMethods</ext-link>).
+  </meta-value>
+ </custom-meta>
+</custom-meta-group>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The AEF that was used to evaluate the SERS performance of the substrate is defined as follows [
+ <xref rid="B41-nanomaterials-11-00672" ref-type="bibr">41</xref>]:
+ <disp-formula id="FD1-nanomaterials-11-00672">
+  <label>(3)</label>
+  <math id="mm1">
+   <mrow>
+    <mrow>
+     <mi>A</mi>
+     <mi>E</mi>
+     <mi>F</mi>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mi>I</mi>
+        <mrow>
+         <mi>S</mi>
+         <mi>E</mi>
+         <mi>R</mi>
+         <mi>S</mi>
+        </mrow>
+       </msub>
+      </mrow>
+      <mrow>
+       <msub>
+        <mi>I</mi>
+        <mrow>
+         <mi>R</mi>
+         <mi>a</mi>
+         <mi>m</mi>
+         <mi>a</mi>
+         <mi>n</mi>
+        </mrow>
+       </msub>
+      </mrow>
+     </mfrac>
+     <mo>×</mo>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mi>C</mi>
+        <mrow>
+         <mi>R</mi>
+         <mi>a</mi>
+         <mi>m</mi>
+         <mi>a</mi>
+         <mi>n</mi>
+        </mrow>
+       </msub>
+      </mrow>
+      <mrow>
+       <msub>
+        <mi>C</mi>
+        <mrow>
+         <mi>S</mi>
+         <mi>E</mi>
+         <mi>R</mi>
+         <mi>S</mi>
+        </mrow>
+       </msub>
+      </mrow>
+     </mfrac>
+     <mo>.</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+</p>

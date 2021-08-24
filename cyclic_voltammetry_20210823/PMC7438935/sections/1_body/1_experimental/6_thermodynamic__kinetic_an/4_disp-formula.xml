@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disp-formula id="E3">
+ <label>(3)</label>
+ <math id="M3">
+  <mtable class="eqnarray" columnalign="left">
+   <mtr>
+    <mtd>
+     <mi>A</mi>
+     <mo>=</mo>
+     <msup>
+      <mrow>
+       <mi>E</mi>
+      </mrow>
+      <mrow>
+       <mn>0</mn>
+      </mrow>
+     </msup>
+    </mtd>
+   </mtr>
+  </mtable>
+ </math>
+</disp-formula>

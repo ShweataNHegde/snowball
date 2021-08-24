@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Fast scan cyclic voltammetry (FSCV) is a powerful electrochemical sensing technique that allows quantification of variations in the concentration of electroactive neurochemicals by measuring redox currents resulting from the application of a periodic triangular waveform at a high scan rate [
+ <xref rid="pone.0254594.ref001" ref-type="bibr">1</xref>–
+ <xref rid="pone.0254594.ref005" ref-type="bibr">5</xref>]. Traditionally, FSCV has depended on the calculation of maximal oxidation currents, measured from known neurochemical concentrations in a solution, which are used to build calibration curves by using linear correlation techniques [
+ <xref rid="pone.0254594.ref006" ref-type="bibr">6</xref>–
+ <xref rid="pone.0254594.ref010" ref-type="bibr">10</xref>]. Recent studies have exploited the catecholamine adsorption properties of carbon fiber microelectrodes (CFM), to estimate basal concentrations of neurochemicals [
+ <xref rid="pone.0254594.ref011" ref-type="bibr">11</xref>–
+ <xref rid="pone.0254594.ref014" ref-type="bibr">14</xref>]. Techniques including fast scan cyclic adsorption voltammetry (FSCAV) use oxidation-charge measurements, rather than maximal currents, which are obtained by time-integrating cyclic voltammograms within intervals containing single oxidation peaks (or “humps”) [
+ <xref rid="pone.0254594.ref011" ref-type="bibr">11</xref>–
+ <xref rid="pone.0254594.ref013" ref-type="bibr">13</xref>]. However, the accuracy and reproducibility of oxidation-charge measurements are limited by visual selection of integration bounds of the cyclic voltammogram oxidation peaks. In practice, defining which portion of the voltammogram constitutes an oxidation peak (where it begins, and where it ends) is obscured by the noise floor of the dataset, the electrochemical interferents, the presence of artifacts, and background drift. Visual selection leads to ambiguity, introduces additional sources of error and precludes the development of automated procedures necessary for analysis and charge quantification in large data sets.
+</p>

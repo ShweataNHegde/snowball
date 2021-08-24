@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>This robust behavior can be utilized for outlier detection purposes. Values that deviate the most from the average right curvature boundary of the voltammograms in (
+ <italic toggle="yes">x</italic>
+ <sub>
+  <italic toggle="yes">r</italic>
+ </sub> = 0.807 
+ <italic toggle="yes">±</italic> 0.022 V) 
+ <xref rid="pone.0254594.g005" ref-type="fig">Fig 5(a)</xref> indicate that stimulation artifacts have altered the shape of the voltammograms and the corresponding curvature boundaries have adapted to the shape of each curve 6(a). Here, details of the oxidation-hump region of three voltammograms are shown with their corresponding curvature boundaries indicated by asterisks, demonstrating that the integration limits can be objectively determined with varying stimulation parameters, even in the presence of sources of noise such as a stimulation artifact.
+</p>

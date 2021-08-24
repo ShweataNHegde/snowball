@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract>
+ <p content-type="toc-graphic">
+  <graphic xlink:href="ao0c04845_0011" id="ab-tgr1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </p>
+ <p>DNA and RNA have been measured with many techniques but often with relatively long analysis times. In this study, we utilize fast-scan cyclic voltammetry (FSCV) for the subsecond codetection of adenine, guanine, and cytosine, first as free nucleosides, and then within custom synthesized oligos, plasmid DNA, and RNA from the nematode 
+  <italic>Caenorhabditis elegans</italic>. Previous studies have shown the detection of adenosine and guanosine with FSCV with high spatiotemporal resolution, while we have extended the assay to include cytidine and adenine, guanine, and cytosine in RNA and single- and double-stranded DNA (ssDNA and dSDNA). We find that FSCV testing has a higher sensitivity and yields higher peak oxidative currents when detecting shorter oligonucleotides and ssDNA samples at equivalent nucleobase concentrations. This is consistent with an electrostatic repulsion from negatively charged oxide groups on the surface of the carbon fiber microelectrode (CFME), the negative holding potential, and the negatively charged phosphate backbone. Moreover, as opposed to dsDNA, ssDNA nucleobases are not hydrogen-bonded to one another and thus are free to adsorb onto the surface of the carbon electrode. We also demonstrate that the simultaneous determination of nucleobases is not masked even in biologically complex serum samples. This is the first report demonstrating that FSCV, when used with CFMEs, is able to codetect nucleobases when polymerized into DNA or RNA and could potentially pave the way for future uses in clinical, diagnostic, or research applications.
+ </p>
+</abstract>

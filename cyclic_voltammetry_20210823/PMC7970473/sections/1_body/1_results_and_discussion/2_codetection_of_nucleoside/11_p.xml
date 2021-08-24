@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Given that we could detect purified biologically isolated DNA and RNA, we determined whether the detection of the nitrogenous bases could be performed in a complex biological sample such as rat serum. The false-color plot shows that oxidative peaks of each nucleobase are well-resolved, confirming the separation of each oxidation peak at different voltages (
+ <italic>y</italic>-axis) as shown in 
+ <ext-link ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsomega.0c04845/suppl_file/ao0c04845_si_001.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">Figure S5</ext-link>. Our initial plan was to spike in synthetic nucleobases or plasmid DNA, but unexpectedly, the primary oxidation peaks of adenine, guanine, and cytosine were detected in the serum as shown in the CV plots (
+ <xref rid="fig5" ref-type="fig">Figure 
+  <xref rid="fig5" ref-type="fig">5</xref>
+ </xref>C). These data suggest that nucleobases are circulating in the blood, likely including RNA/DNA from lysed cells. However, the peaks appeared slightly shifted to lower oxidative potentials at around 1.15, 1.00, and 0.55 V, respectively (
+ <xref rid="fig5" ref-type="fig">Figure 
+  <xref rid="fig5" ref-type="fig">5</xref>
+ </xref>C). This is shifted from the flow-cell peak voltages of 1.4, 1.15, and 0.65 V for A, G, and C, respectively, where stock solutions of the nucleobases are diluted in phosphate-buffered saline (PBS) buffer (pH = 7.4) (
+ <xref rid="fig1" ref-type="fig">Figure 
+  <xref rid="fig1" ref-type="fig">1</xref>
+ </xref>).
+</p>
