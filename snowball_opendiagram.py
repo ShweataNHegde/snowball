@@ -6,6 +6,15 @@ import yake
 import subprocess
 # All the functions
 def querying_pygetpapers_sectioning(query, hits, output_directory, using_terms = False, terms_txt=None):
+    """queries pygetpapers for specified query. Downloads XML, and sections papers using ami section
+
+    Args:
+        query (str): query to pygetpapers
+        hits (int): no. of papers to download
+        output_directory (str): CProject Directory (where papers get downloaded)
+        using_terms (bool, optional): pygetpapers --terms flag. Defaults to False.
+        terms_txt (str, optional): path to text file with terms. Defaults to None.
+    """
 
     if using_terms:
         subprocess.run(f'pygetpapers -q "{query}" -k {hits} -o {output_directory} -x --terms {terms_txt}',
@@ -15,19 +24,32 @@ def querying_pygetpapers_sectioning(query, hits, output_directory, using_terms =
                                 shell=True)
     subprocess.run(f'ami -p {output_directory} section', shell=True)
 
-def globbing(output_directory, results_txt):
+def parse_xml(output_directory, results_txt, body_section='method'):
+    """globs the specified section parsed xml and dumps the text to a file
+
+    Args:
+        output_directory (str): CProject directory
+        results_txt (str): text file to write parsed XML
+        body_section (str, optional): [description]. Defaults to 'method'.
+    """
     WORKING_DIRECTORY = os.getcwd()
     glob_results = glob.glob(os.path.join(WORKING_DIRECTORY,
                                           output_directory,"*", "sections",
-                                          "**", "*method*","**" ,"*_p.xml"), recursive = True)
+                                          "**", f"*{body_section}*","**" ,"*_p.xml"), recursive = True)
     file1 = open(results_txt,"w+", encoding='utf-8')
     for result in glob_results:
         tree = ET.parse(result)
         root = tree.getroot()
         for para in root.iter('p'):
             print (para.text, file = file1) 
-
+   
 def key_phrase_extraction(results_txt, terms_txt):
+    """extract key phrases from the text file with parsed xml and saves the phrases in a text file (comma-separated)
+
+    Args:
+        results_txt (str): text file with parsed XML text
+        terms_txt (str): text file with comma-separated extracted key phrases
+    """
     text = pathlib.Path(results_txt).read_text(encoding='utf-8')
     kw_extractor = yake.KeywordExtractor()
     keywords = kw_extractor.extract_keywords(text)
@@ -49,7 +71,7 @@ OD_RESULTS_2= 'cyclic_volammtery_2.txt'
 OD_TERMS_2 = 'terms_2.txt'
 
 querying_pygetpapers_sectioning(OD_QUERY, OD_HITS, OD_OUTPUT)
-globbing(OD_OUTPUT,OD_RESULTS)
+parse_xml(OD_OUTPUT,OD_RESULTS)
 key_phrase_extraction(OD_RESULTS, OD_TERMS)
-querying_pygetpapers_sectioning(OD_QUERY, OD_HITS, OD_OUTPUT_2, using_terms=True, terms_txt=OD_TERMS)
+#querying_pygetpapers_sectioning(OD_QUERY, OD_HITS, OD_OUTPUT_2, using_terms=True, terms_txt=OD_TERMS)
 
