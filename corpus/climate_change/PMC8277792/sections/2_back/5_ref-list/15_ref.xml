@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Habel</surname>
+    <given-names>JC</given-names>
+   </name>
+   <name>
+    <surname>Segerer</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Ulrich</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Torchyk</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Weisser</surname>
+    <given-names>WW</given-names>
+   </name>
+   <name>
+    <surname>Schmitt</surname>
+    <given-names>T</given-names>
+   </name>
+  </person-group>
+  <article-title>Butterfly community shifts over two centuries</article-title>
+  <source>Conserv. Biol.</source>
+  <year>2016</year>
+  <volume>30</volume>
+  <fpage>754</fpage>
+  <lpage>762</lpage>
+  <pub-id pub-id-type="doi">10.1111/cobi.12656</pub-id>
+  <?supplied-pmid 26743786?>
+  <pub-id pub-id-type="pmid">26743786</pub-id>
+ </element-citation>
+</ref>

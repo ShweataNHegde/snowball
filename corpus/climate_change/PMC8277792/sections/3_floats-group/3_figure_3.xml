@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig3">
+ <label>Figure 3</label>
+ <caption>
+  <p>Relationship between median altitude of species records and median altitude derived from the species distribution models weighted by probability (
+   <bold>A</bold>). Relationship between the niche volumes computed based on climatic components only and both climate and topography (
+   <bold>B</bold>). Slopes of altitudinal shift z
+   <sub>alt</sub> increased with increasing climate niche using both the species records (
+   <bold>C</bold>) and the median altitude per species weighted by SDM probability (
+   <bold>D</bold>). Slopes of range size shifts z
+   <sub>range</sub> showed no correlation with the climate niche volume using both species records and SDM results (
+   <bold>E, F</bold>). R
+   <sup>2</sup>: coefficients of variation of ordinary least squares regression. Parametric significances: *
+   <italic>P</italic> &lt; 0.05, **
+   <italic>P</italic> &lt; 0.01, ***
+   <italic>P</italic> &lt; 0.001.
+  </p>
+ </caption>
+ <graphic xlink:href="41598_2021_93826_Fig3_HTML" id="MO4" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

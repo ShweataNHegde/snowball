@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes notes-type="data-availability">
+ <title>Data availability</title>
+ <p>All lake model simulations are available at 
+  <ext-link ext-link-type="uri" xlink:href="https://esg.pik-potsdam.de" xmlns:xlink="http://www.w3.org/1999/xlink">https://esg.pik-potsdam.de</ext-link>. Lake surface water temperature and lake ice cover data are available from ESA CCI: 
+  <ext-link ext-link-type="uri" xlink:href="https://catalogue.ceda.ac.uk/uuid/3c324bb4ee394d0d876fe2e1db217378" xmlns:xlink="http://www.w3.org/1999/xlink">https://catalogue.ceda.ac.uk/uuid/3c324bb4ee394d0d876fe2e1db217378</ext-link>. In situ observational data for Blelham Tarn, Esthwaite Water, Windermere North Basin, and Windermere South Basin are available at 
+  <ext-link ext-link-type="uri" xlink:href="https://eidc.ac.uk/" xmlns:xlink="http://www.w3.org/1999/xlink">https://eidc.ac.uk/</ext-link>. Data for Lakes Superior, Michigan, and Huron are available at 
+  <ext-link ext-link-type="uri" xlink:href="https://www.ndbc.noaa.gov" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.ndbc.noaa.gov</ext-link>. Processed summary data for Lake Geneva, Lake Tahoe, Washington and Vättern are available at: 10.5281/zenodo.4617643.
+ </p>
+</notes>

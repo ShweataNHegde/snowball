@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR87">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shi</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Crowell</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Luo</surname>
+    <given-names>Y</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Model structures amplify uncertainty in predicted soil carbon responses to climate change</article-title>
+  <source>Nat Commun</source>
+  <year>2018</year>
+  <volume>9</volume>
+  <fpage>2171</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41467-018-04526-9</pub-id>
+  <?supplied-pmid 29867087?>
+  <pub-id pub-id-type="pmid">29867087</pub-id>
+ </element-citation>
+</ref>

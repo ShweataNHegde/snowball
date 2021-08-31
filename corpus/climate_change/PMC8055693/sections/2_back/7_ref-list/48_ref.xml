@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR48">
+ <label>48.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Frieler</surname>
+    <given-names>K</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Assessing the impacts of 1.5 °C global warming - simulation protocol of the Inter-Sectoral Impact Model Intercomparison Project (ISIMIP2b)</article-title>
+  <source>Geosci. Model Dev.</source>
+  <year>2017</year>
+  <volume>10</volume>
+  <fpage>4321</fpage>
+  <lpage>4345</lpage>
+  <pub-id pub-id-type="doi">10.5194/gmd-10-4321-2017</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R89">
+ <label>89</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Yu</surname>
+    <given-names>W</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Mengersen</surname>
+    <given-names>K</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Wang</surname>
+    <given-names>X</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Daily average temperature and mortality among the elderly: a meta-analysis and systematic review of epidemiological evidence</article-title>. 
+  <source>Int J Biometeorol</source>
+  <year>2012</year>;
+  <volume>56</volume>:
+  <fpage>569</fpage>–
+  <lpage>81</lpage>. 
+  <pub-id pub-id-type="doi">10.1007/s00484-011-0497-3</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/21975970?>
+  <pub-id pub-id-type="pmid">21975970</pub-id>
+ </mixed-citation>
+</ref>

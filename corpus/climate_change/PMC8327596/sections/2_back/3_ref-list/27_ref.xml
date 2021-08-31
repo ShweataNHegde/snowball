@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR27">
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Taylor</surname>
+    <given-names>PC</given-names>
+   </name>
+   <name>
+    <surname>Maslowski</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Perlwitz</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Wuebbles</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <person-group person-group-type="editor">
+   <name>
+    <surname>Wuebbles</surname>
+    <given-names>DJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Arctic changes and their effects on Alaska and the rest of the United States</article-title>
+  <source>Climate science special report: Fourth National Climate Assessment</source>
+  <year>2017</year>
+  <publisher-loc>Washington, DC</publisher-loc>
+  <publisher-name>U.S. Global Change Research Program</publisher-name>
+  <fpage>303</fpage>
+  <lpage>332</lpage>
+ </element-citation>
+</ref>

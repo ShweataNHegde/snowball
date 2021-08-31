@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR54">
+ <label>54.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nowosad</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Stepinski</surname>
+    <given-names>TF</given-names>
+   </name>
+  </person-group>
+  <article-title>Stochastic, empirically informed model of landscape dynamics and its application to deforestation scenarios</article-title>
+  <source>Geophys. Res. Lett.</source>
+  <year>2019</year>
+  <volume>46</volume>
+  <fpage>13845</fpage>
+  <lpage>13852</lpage>
+  <pub-id pub-id-type="doi">10.1029/2019GL085952</pub-id>
+ </element-citation>
+</ref>

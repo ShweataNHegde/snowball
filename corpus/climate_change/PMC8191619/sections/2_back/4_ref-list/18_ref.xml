@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R18">
+ <label>18</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Pollock</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Fernandes</surname>
+    <given-names>RM</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Pieper</surname>
+    <given-names>D</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Preferred reporting items for Overviews of reviews (prior): a protocol for development of a reporting guideline for overviews of reviews of healthcare interventions</article-title>. 
+  <source>Syst Rev</source>
+  <year>2019</year>;
+  <volume>8</volume>:
+  <elocation-id>335</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1186/s13643-019-1252-9</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/31870434?>
+  <pub-id pub-id-type="pmid">31870434</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We used the default random test percentage of 25 and sampled 10,000 random background test points. Jackknife partitioning was used for species/groups with a continuous distribution while checkerboard1 partitioning was used to model species/groups with several disjunct distributions (Muscarella et al., 
+ <xref rid="ece37735-bib-0057" ref-type="bibr">2014</xref>). For each species/group, we ran MaxEnt models using several combinations of feature class (L, LQ, H, LQH, LQHP, LQHPT), which determine how predictor variables are transformed, where L = linear, Q = quadratic, H = hinge, P = product, and T = threshold. We also tested three regularization multipliers (1, 2, and 3) for each feature class that was modeled, totaling 18 models per species/group. The best model was chosen using AICc for all following analyses. Using the R package 
+ <italic toggle="yes">ENMTools</italic> (Warren &amp; Dinnage, 
+ <xref rid="ece37735-bib-0101" ref-type="bibr">2020</xref>; Warren et al., 
+ <xref rid="ece37735-bib-0102" ref-type="bibr">2009</xref>), we calculated the niche breadth on the predictions of habitat suitability (Nakazato et al., 
+ <xref rid="ece37735-bib-0058" ref-type="bibr">2010</xref>) for each species/group, where values closer to 0 mean a species has a low niche breadth based on the environmental variables used. Then, we calculated how much the projections across species overlapped (
+ <italic toggle="yes">D</italic>; Schoener, 
+ <xref rid="ece37735-bib-0075" ref-type="bibr">1968</xref>), where 0 means no overlap and 1 means identical predictions.
+</p>

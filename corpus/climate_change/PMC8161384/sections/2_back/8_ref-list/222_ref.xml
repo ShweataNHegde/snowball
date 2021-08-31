@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B222-genes-12-00783">
+ <label>222.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Olatoye</surname>
+    <given-names>M.O.</given-names>
+   </name>
+   <name>
+    <surname>Hu</surname>
+    <given-names>Z.</given-names>
+   </name>
+   <name>
+    <surname>Aikpokpodion</surname>
+    <given-names>P.O.</given-names>
+   </name>
+  </person-group>
+  <article-title>Epistasis Detection and Modeling for Genomic Selection in Cowpea (
+   <italic>Vigna unguiculata</italic> L. Walp.)
+  </article-title>
+  <source>Front. Genet.</source>
+  <year>2019</year>
+  <volume>10</volume>
+  <fpage>677</fpage>
+  <pub-id pub-id-type="doi">10.3389/fgene.2019.00677</pub-id>
+  <pub-id pub-id-type="pmid">31417604</pub-id>
+ </element-citation>
+</ref>

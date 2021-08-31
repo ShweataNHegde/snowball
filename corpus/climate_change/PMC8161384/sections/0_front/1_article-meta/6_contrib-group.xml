@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4178-0675</contrib-id>
+  <name>
+   <surname>Cortés</surname>
+   <given-names>Andrés J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-genes-12-00783">1</xref>
+  <xref ref-type="aff" rid="af2-genes-12-00783">2</xref>
+  <xref rid="c1-genes-12-00783" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4967-6955</contrib-id>
+  <name>
+   <surname>López-Hernández</surname>
+   <given-names>Felipe</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-genes-12-00783">1</xref>
+ </contrib>
+</contrib-group>

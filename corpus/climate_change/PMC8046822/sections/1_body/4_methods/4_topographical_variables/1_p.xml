@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par34">Three topographic variables (elevation, slope angle and aspect) were included in the modelling as these also influence coffee suitability and local characteristics of specialty coffee types. The GTOPO30 global digital elevation model (DEM) was downloaded from United States Geological Survey (USGS) for deriving the topographic variables. The GTOPO30 was developed by the USGS’s EROS Data Centre (EDC) and provides elevations at 30 arc-seconds (~ 1 km). In addition to using the elevation (m.a.s.l) as a variable, slope aspect (1–12 directional values) and slope angle (degrees) were derived from the DEM as additional variables. We hypothesised that, since the amount of radiation received varies depending on the direction the slope is facing, this may influence the development of distinct characteristics of the coffee. We also hypothesised that slope angle has an influence on water accumulation and soil depth which in turn may influence not just the suitability of coffee but the development of its specific profile. Slope and angle variables were derived using the R programming language
+ <sup>
+  <xref ref-type="bibr" rid="CR61">61</xref>
+ </sup> after the variables were aggregated to the resolution of the climatic variables.
+</p>

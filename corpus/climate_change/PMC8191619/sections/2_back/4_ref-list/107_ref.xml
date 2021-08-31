@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R107">
+ <label>107</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Zhang</surname>
+    <given-names>Y</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Yu</surname>
+    <given-names>C</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Wang</surname>
+    <given-names>L</given-names>
+   </string-name>
+  </person-group>. 
+  <article-title>Temperature exposure during pregnancy and birth outcomes: an updated systematic review of epidemiological evidence</article-title>. 
+  <source>Environ Pollut</source>
+  <year>2017</year>;
+  <volume>225</volume>:
+  <fpage>700</fpage>–
+  <lpage>12</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.envpol.2017.02.066</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/28284544?>
+  <pub-id pub-id-type="pmid">28284544</pub-id>
+ </mixed-citation>
+</ref>

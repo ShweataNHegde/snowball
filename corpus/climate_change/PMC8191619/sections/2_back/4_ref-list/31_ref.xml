@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R31">
+ <label>31</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Phung</surname>
+    <given-names>D</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Huang</surname>
+    <given-names>C</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Rutherford</surname>
+    <given-names>S</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Climate change, water quality, and water-related diseases in the Mekong delta Basin: a systematic review</article-title>. 
+  <source>Asia Pac J Public Health</source>
+  <year>2015</year>;
+  <volume>27</volume>:
+  <fpage>265</fpage>–
+  <lpage>76</lpage>. 
+  <pub-id pub-id-type="doi">10.1177/1010539514565448</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/25563349?>
+  <pub-id pub-id-type="pmid">25563349</pub-id>
+ </mixed-citation>
+</ref>

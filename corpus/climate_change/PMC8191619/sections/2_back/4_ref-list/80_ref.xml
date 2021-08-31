@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R80">
+ <label>80</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Hajat</surname>
+    <given-names>S</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Kosatky</surname>
+    <given-names>T</given-names>
+   </string-name>
+  </person-group>. 
+  <article-title>Heat-Related mortality: a review and exploration of heterogeneity</article-title>. 
+  <source>J Epidemiol Community Health</source>
+  <year>2010</year>;
+  <volume>64</volume>:
+  <fpage>753</fpage>–
+  <lpage>60</lpage>. 
+  <pub-id pub-id-type="doi">10.1136/jech.2009.087999</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/19692725?>
+  <pub-id pub-id-type="pmid">19692725</pub-id>
+ </mixed-citation>
+</ref>

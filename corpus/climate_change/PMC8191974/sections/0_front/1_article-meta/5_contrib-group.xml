@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0001-6666-4043</contrib-id>
+  <name>
+   <surname>Cameron</surname>
+   <given-names>Laura</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Conceptualization</role>
+  <role content-type="https://casrai.org/credit/">Data curation</role>
+  <role content-type="https://casrai.org/credit/">Formal analysis</role>
+  <role content-type="https://casrai.org/credit/">Investigation</role>
+  <role content-type="https://casrai.org/credit/">Methodology</role>
+  <role content-type="https://casrai.org/credit/">Project administration</role>
+  <role content-type="https://casrai.org/credit/">Visualization</role>
+  <role content-type="https://casrai.org/credit/">Writing – original draft</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref rid="cor001" ref-type="corresp">*</xref>
+  <xref rid="aff001" ref-type="aff"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rocque</surname>
+   <given-names>Rhéa</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Conceptualization</role>
+  <role content-type="https://casrai.org/credit/">Formal analysis</role>
+  <role content-type="https://casrai.org/credit/">Investigation</role>
+  <role content-type="https://casrai.org/credit/">Methodology</role>
+  <role content-type="https://casrai.org/credit/">Supervision</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref rid="aff001" ref-type="aff"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Penner</surname>
+   <given-names>Kailey</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Data curation</role>
+  <role content-type="https://casrai.org/credit/">Formal analysis</role>
+  <role content-type="https://casrai.org/credit/">Project administration</role>
+  <role content-type="https://casrai.org/credit/">Writing – original draft</role>
+  <xref rid="aff001" ref-type="aff"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mauro</surname>
+   <given-names>Ian</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Conceptualization</role>
+  <role content-type="https://casrai.org/credit/">Funding acquisition</role>
+  <role content-type="https://casrai.org/credit/">Investigation</role>
+  <role content-type="https://casrai.org/credit/">Methodology</role>
+  <role content-type="https://casrai.org/credit/">Project administration</role>
+  <role content-type="https://casrai.org/credit/">Resources</role>
+  <role content-type="https://casrai.org/credit/">Supervision</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref rid="aff001" ref-type="aff"/>
+ </contrib>
+</contrib-group>

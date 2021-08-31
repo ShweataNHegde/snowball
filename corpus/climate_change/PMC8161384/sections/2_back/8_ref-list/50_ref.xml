@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B50-genes-12-00783">
+ <label>50.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sabeti</surname>
+    <given-names>P.C.</given-names>
+   </name>
+   <name>
+    <surname>Varilly</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Fry</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Lohmueller</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Hostetter</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Cotsapas</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Xie</surname>
+    <given-names>X.</given-names>
+   </name>
+   <name>
+    <surname>Byrne</surname>
+    <given-names>E.H.</given-names>
+   </name>
+   <name>
+    <surname>McCarroll</surname>
+    <given-names>S.A.</given-names>
+   </name>
+   <name>
+    <surname>Gaudet</surname>
+    <given-names>R.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genome-wide detection and characterization of positive selection in human populations</article-title>
+  <source>Nature</source>
+  <year>2007</year>
+  <volume>449</volume>
+  <fpage>913</fpage>
+  <lpage>918</lpage>
+  <pub-id pub-id-type="doi">10.1038/nature06250</pub-id>
+  <pub-id pub-id-type="pmid">17943131</pub-id>
+ </element-citation>
+</ref>

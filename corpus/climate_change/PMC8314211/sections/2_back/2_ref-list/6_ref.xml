@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B6">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Barghi</surname>
+    <given-names>N.</given-names>
+   </name>
+   <name>
+    <surname>Tobler</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Nolte</surname>
+    <given-names>V.</given-names>
+   </name>
+   <name>
+    <surname>Jakšić</surname>
+    <given-names>A. M.</given-names>
+   </name>
+   <name>
+    <surname>Mallard</surname>
+    <given-names>F.</given-names>
+   </name>
+   <name>
+    <surname>Otte</surname>
+    <given-names>K. A.</given-names>
+   </name>
+   <etal/>
+  </person-group> (
+  <year>2019</year>). 
+  <article-title>Genetic redundancy fuels polygenic adaptation in 
+   <italic>Drosophila</italic>.
+  </article-title>
+  <source>
+   <italic>PLoS Biol.</italic>
+  </source>
+  <volume>17</volume>:
+  <issue>e3000128</issue>. 
+  <pub-id pub-id-type="doi">10.1371/journal.pbio.3000128</pub-id>
+  <?supplied-pmid 30716062?>
+  <pub-id pub-id-type="pmid">30716062</pub-id>
+ </mixed-citation>
+</ref>

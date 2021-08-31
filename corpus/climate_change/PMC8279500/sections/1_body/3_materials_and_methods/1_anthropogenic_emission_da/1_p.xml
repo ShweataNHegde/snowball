@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To build a global layer summarizing anthropogenic GH emissions, we used three well-mixed GH gases (CO
+ <sub>2</sub>, CH
+ <sub>4</sub>, and N
+ <sub>2</sub>O) and BC, an aerosol measured as particulate matter smaller than 2.5 μm (PM 2.5) (
+ <xref rid="R24" ref-type="bibr">
+  <italic>24</italic>
+ </xref>, 
+ <xref rid="R46" ref-type="bibr">
+  <italic>46</italic>
+ </xref>, 
+ <xref rid="R47" ref-type="bibr">
+  <italic>47</italic>
+ </xref>). CO
+ <sub>2</sub> represents 80 to 90% of the total anthropogenic forcing in all RCP scenarios through the 21st century (
+ <xref rid="R48" ref-type="bibr">
+  <italic>48</italic>
+ </xref>). Although the direct radiative forcing of BC has been debated (
+ <xref rid="R19" ref-type="bibr">
+  <italic>19</italic>
+ </xref>, 
+ <xref rid="R20" ref-type="bibr">
+  <italic>20</italic>
+ </xref>) (average, ~1.1 W m
+ <sup>−2</sup>; range, 0.17 to 2.1 W m
+ <sup>−2</sup>), it is considered the second leading GH agent. Together, these four agents comprise most of the global radiative forcing (table S1). We retrieved global CO
+ <sub>2</sub>, CH
+ <sub>4</sub>, and N
+ <sub>2</sub>O emission data from the Emission Database for Global Atmospheric Research (EDGAR v5.0). EDGAR estimates CO
+ <sub>2</sub> emissions from 1970 to 2018 and CH
+ <sub>4</sub> and N
+ <sub>2</sub>O emissions from 1970 to 2015, annually, at a 0.1° × 0.1° resolution through comprehensive sector-based accounting of fuel use by fuel type as well as cement production (
+ <xref rid="R16" ref-type="bibr">
+  <italic>16</italic>
+ </xref>). The Modern-Era Retrospective Analysis for Research and Applications (MERRA-2) reanalysis product provided the global BC emission data, accessed from the Giovanni GES-DISC portal from NASA. MERRA-2 uses the modern satellite measurements provided by the Goddard Earth Observing System Data Assimilation System Version 5 (GEOS-5) and synthesizes the various observations collected monthly from 1980 to present at 0.5° × 0.625° resolution (
+ <xref rid="R17" ref-type="bibr">
+  <italic>17</italic>
+ </xref>). Like EDGAR, the MERRA-2 reanalysis dataset also includes shipping and aircraft-based emissions and is more accurate and stable compared to the remote sensing estimates alone (
+ <xref rid="R49" ref-type="bibr">
+  <italic>49</italic>
+ </xref>, 
+ <xref rid="R50" ref-type="bibr">
+  <italic>50</italic>
+ </xref>).
+</p>

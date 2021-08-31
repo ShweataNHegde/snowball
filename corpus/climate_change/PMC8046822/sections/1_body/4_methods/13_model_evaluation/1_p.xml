@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par44">To assess model performance, the modelling data were divided into a training data set (70%) and testing data set (30%). The training data set was used for model calibration, and the testing data set was used for out-of-sample model performance. One hundred replicates were run for each model with resampling methods for subsampling. The area under the receiver operating characteristic curve (AUC), which measures overall discrimination capacity and the 
+ <italic>true skill statistic</italic> (TSS), which balances the capacity to correctly predict presences and pseudo-absences, were used to measure the accuracy
+ <sup>
+  <xref ref-type="bibr" rid="CR74">74</xref>
+ </sup>. A perfect model would have an AUC and TSS of 1. The AUC varies from 0 to 1, while the TSS varies from − 1 to 1, with values above 0.75 showing good model skill for both
+ <sup>
+  <xref ref-type="bibr" rid="CR75">75</xref>
+ </sup>. All model calibration, evaluation and projection were done with the 
+ <italic>sdm-R</italic> package version 1.0–8974
+ <sup>
+  <xref ref-type="bibr" rid="CR76">76</xref>
+ </sup>. All modelling as much as possible confirmed to recommended standards in species modelling
+ <sup>
+  <xref ref-type="bibr" rid="CR77">77</xref>
+ </sup>. The model results were exported for producing map figures in ArcGIS 10.6 (Environment Systems Research Institute, Redlands, CA)
+ <sup>
+  <xref ref-type="bibr" rid="CR78">78</xref>
+ </sup>.
+</p>

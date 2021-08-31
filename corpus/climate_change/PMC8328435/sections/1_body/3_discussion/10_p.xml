@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Our results add to the evidence that variable sea ice conditions over the wintering period affect spectacled eider demography (Christie et al., 
+ <xref rid="ece37873-bib-0011" ref-type="bibr">2018</xref>; Flint et al., 
+ <xref rid="ece37873-bib-0025" ref-type="bibr">2016</xref>). However, during the study period there was only a single year with sea ice conditions well below average. In 2001, the Bering Sea experienced record low sea ice extent and this year coincided with the lowest estimates of nest success and adult survival. We acknowledge that the extreme value in 2001 has considerable influence on our inference, and the relationship between below‐average sea ice conditions and demographic parameters is uncertain (Christie et al., 
+ <xref rid="ece37873-bib-0011" ref-type="bibr">2018</xref> and see our 
+ <xref rid="ece37873-sup-0001" ref-type="supplementary-material">Supplementary Material</xref>). This uncertainty is partially reflected in the credible intervals of the posterior estimates of the regression coefficients (Table 
+ <xref rid="ece37873-tbl-0002" ref-type="table">2</xref>), in the predicted response curves showing the effect of extreme ice days on survival and nest success (Figures 
+ <xref rid="ece37873-fig-0004" ref-type="fig">4</xref> and 
+ <xref rid="ece37873-fig-0006" ref-type="fig">6</xref>). To further address the potential influence of the extreme value of “ice days” in 2001, we include a modified model fit without the 2001 covariate values (Table 
+ <xref rid="ece37873-sup-0001" ref-type="supplementary-material">S1</xref>). Nevertheless, we note that the low sea ice extent during the winter of 2001 is not a singular anomaly nor the result of a measurement error. Sea ice extent in the Bering Sea has remained well below average for three years in a row (2017–2019), with a new record low set in 2018 (Huntington et al., 
+ <xref rid="ece37873-bib-0040" ref-type="bibr">2020</xref>). Though efforts resumed in 2019, continuous capture–recapture data were only available through 2015 and we were unable to model the effects of an extended number of years with minimal sea ice on spectacled eider demography. The recent observations of declining sea ice conditions combined with evidence of negative effects of such conditions on demography should further motivate detailed demographic studies of spectacled eiders. Studies on individually marked birds in addition to intensive nest monitoring would offer the greatest opportunity to test our findings.
+</p>

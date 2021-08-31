@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par34">Precipitation (PR) and daily maximum and minimum temperatures (TX and TN) for the Iberian Peninsula, were retrieved from the EURO-CORDEX 0.11° resolution simulations (Table 
+ <xref rid="Tab1" ref-type="table">1</xref>) in the Earth System Grid Federation (ESG) portal. Seven of the 1989 to 2008 ERA-Interim
+ <sup>
+  <xref ref-type="bibr" rid="CR89">89</xref>
+ </sup> forced simulations (Evaluation) were used for an initial RCM assessment and the establishment of the regression model predictors. From the 130-year climate projections
+ <sup>
+  <xref ref-type="bibr" rid="CR26">26</xref>
+ </sup>, 19 GCM-RCM combination results were selected, for the historical period (1971–2000) and two future periods (2041–2070 and 2071–2100), in agreement with the two representative concentration pathways, RCP4.5 and RCP8.5
+ <sup>
+  <xref ref-type="bibr" rid="CR50">50</xref>
+ </sup>. All simulations were performed on a common European domain and grid.
+</p>

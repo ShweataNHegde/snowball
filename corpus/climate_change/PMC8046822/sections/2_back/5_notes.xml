@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes notes-type="data-availability">
+ <title>Code availability</title>
+ <p>The compiled code and files used in the model setup, validation and projections are freely available for download at GitHub: 
+  <ext-link ext-link-type="uri" xlink:href="https://github.com/achemura/Specialty-coffee-Ethiopia" xmlns:xlink="http://www.w3.org/1999/xlink">https://github.com/achemura/Specialty-coffee-Ethiopia</ext-link>.
+ </p>
+</notes>

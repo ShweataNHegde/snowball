@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-9272-2411</contrib-id>
+  <name>
+   <surname>Madrigano</surname>
+   <given-names>Jaime</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-ijerph-18-07868">1</xref>
+  <xref rid="c1-ijerph-18-07868" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Shih</surname>
+   <given-names>Regina A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-ijerph-18-07868">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-7757-8191</contrib-id>
+  <name>
+   <surname>Izenberg</surname>
+   <given-names>Maxwell</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-ijerph-18-07868">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fischbach</surname>
+   <given-names>Jordan R.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-ijerph-18-07868">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7966-2386</contrib-id>
+  <name>
+   <surname>Preston</surname>
+   <given-names>Benjamin L.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af4-ijerph-18-07868">4</xref>
+ </contrib>
+</contrib-group>

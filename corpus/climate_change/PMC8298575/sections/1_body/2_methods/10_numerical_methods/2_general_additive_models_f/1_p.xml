@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par43">To identify points of significant change in our proxy data over time, we used general additive models (GAM), and took a flexible approach to the degree of smoothing employed in modelling the response of both the marine and lake record proxies. Where possible, the degree of smoothing was estimated using restricted maximum likelihood (REML), and the model contained a continuous-time first-order autoregressive process (CAR(1)) to account for temporal autocorrelation. This solution was optimal for the marine record proxies Diatoms, 
+ <italic>Chaetoceros</italic> spores, IP
+ <sub>25</sub> and HBI III, and for δ
+ <sup>15</sup>N and the diatom PC1 and PC2 axes scores from the lake record. However, for Cd:Ti and cholesterol from the lake record, this approach produced an over-smoothed model, and so in these cases, we used a generalised cross validation (GCV) approach, which optimises predictive accuracy and allows for heteroscedasticity in the data. After the model was fitted (Supplementary Figs. 
+ <xref rid="Fig7" ref-type="fig">7</xref>–
+ <xref rid="MOESM1" ref-type="media">15</xref>), posterior simulation was run with 20 random draws from the posterior distributions of the fitted GAMs to reflect the degree of certainty of the model at a given time (Supplementary Figs. 
+ <xref rid="Fig7" ref-type="fig">7</xref>–
+ <xref rid="MOESM1" ref-type="media">15</xref>), and to allow for the calculation of confidence intervals. Finally, first derivatives (black lines) and associated 95% confidence intervals were estimated for the GAM trend of each proxy. Using this approach, a significant change is demonstrated when the confidence interval of the first derivative does not include 0 (Supplementary Figs. 
+ <xref rid="Fig7" ref-type="fig">7</xref>–
+ <xref rid="MOESM1" ref-type="media">15</xref>)
+ <sup>
+  <xref ref-type="bibr" rid="CR68">68</xref>
+ </sup>. GAM analyses were carried out in R version 4.0.0
+ <sup>
+  <xref ref-type="bibr" rid="CR69">69</xref>
+ </sup>, using the package mgcv
+ <sup>
+  <xref ref-type="bibr" rid="CR70">70</xref>,
+  <xref ref-type="bibr" rid="CR71">71</xref>
+ </sup> and additional code outlined in ref. 
+ <sup>
+  <xref ref-type="bibr" rid="CR68">68</xref>
+ </sup>.
+</p>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Recent developments in high throughput DNA sequencing and its application to genomics have made genetic analysis more advanced and affordable for researchers [
+ <xref rid="B56-life-11-00653" ref-type="bibr">56</xref>]. Since 2005, DNA sequencing costs have reduced 5-fold, and the number of genetic markers available has increased by at least 2–3 orders of magnitude [
+ <xref rid="B57-life-11-00653" ref-type="bibr">57</xref>]. These genomic methods utilise high throughput sequencing technologies to sequence millions of DNA fragments in parallel, allowing thousands of genetic markers to be sequenced from hundreds of individuals in a single assay [
+ <xref rid="B58-life-11-00653" ref-type="bibr">58</xref>,
+ <xref rid="B59-life-11-00653" ref-type="bibr">59</xref>]. Previously, sequencing of mtDNA or nuclear genes or analysis of microsatellite loci limited genetic analyses to one to tens of loci and focused almost exclusively on neutral (or nearly neutral) loci [
+ <xref rid="B60-life-11-00653" ref-type="bibr">60</xref>]. While traditional methods were effective for taxonomy, phylogeography, and population genetic studies, genomic sequencing allows conservation geneticists to generate and analyse large data sets that include neutral and functional loci. The ability to assay functional variation extends the focus of conservation genetics to include processes such as natural selection and adaptation and to examine the fitness consequences of inbreeding [
+ <xref rid="B61-life-11-00653" ref-type="bibr">61</xref>,
+ <xref rid="B62-life-11-00653" ref-type="bibr">62</xref>]. Geneticists can now sequence the entire genome, use exome capture to target specific regions, or target single nucleotide polymorphisms (hereafter, SNPs) [
+ <xref rid="B63-life-11-00653" ref-type="bibr">63</xref>]. Although the massive amounts of data produced by genomic sequencing platforms necessitate advanced and diverse bioinformatics tools [
+ <xref rid="B58-life-11-00653" ref-type="bibr">58</xref>,
+ <xref rid="B64-life-11-00653" ref-type="bibr">64</xref>], such programs are constantly being improved and developed to allow genomic sequencing to reach its full potential. While there are still some uncertainties surrounding interpretation and uptake of genomic data in a management context [
+ <xref rid="B56-life-11-00653" ref-type="bibr">56</xref>], population genomics studies are increasingly being applied to conservation problems and management decision-making [
+ <xref rid="B65-life-11-00653" ref-type="bibr">65</xref>]. Genomic data have already been used to extensively study and characterise the genetic diversity of Australian wildlife, including quantifying the genetic effects of translocations in small mammal populations and identifying candidate genes associated with breeding success in marsupials [
+ <xref rid="B14-life-11-00653" ref-type="bibr">14</xref>,
+ <xref rid="B66-life-11-00653" ref-type="bibr">66</xref>,
+ <xref rid="B67-life-11-00653" ref-type="bibr">67</xref>,
+ <xref rid="B68-life-11-00653" ref-type="bibr">68</xref>,
+ <xref rid="B69-life-11-00653" ref-type="bibr">69</xref>,
+ <xref rid="B70-life-11-00653" ref-type="bibr">70</xref>].
+</p>

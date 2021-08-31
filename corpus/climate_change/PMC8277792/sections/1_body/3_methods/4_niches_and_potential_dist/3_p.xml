@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par27">All potential distributions were masked using the relevant land-cover classes, which represent suitable microhabitats according to expert opinions. As high-resolution land cover information we used the Ecosystem Type Map v.3.1
+ <sup>
+  <xref ref-type="bibr" rid="CR60">60</xref>
+ </sup> (available from 
+ <ext-link ext-link-type="uri" xlink:href="https://www.eea.europa.eu/data-and-maps/data/ecosystem-types-of-europe-1" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.eea.europa.eu/data-and-maps/data/ecosystem-types-of-europe-1</ext-link>) with a spatial resolution of 100 m. As such data is only available for 2012 and no coherent land cover information is available for other time slices, it was not possible to include habitat availability directly in the SDMs. In order to quantify elevational shifts between each year, we computed a weighted mean based on elevation and probability of occurrence for each grid cell. This estimate may counterbalance the availability and stochastic fluctuation of single species records and hence represents a rather holistic view on the distributional changes.
+</p>

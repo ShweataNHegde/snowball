@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R33">
+ <label>33</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Sun</surname>
+    <given-names>Z</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Chen</surname>
+    <given-names>C</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Xu</surname>
+    <given-names>D</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Effects of ambient temperature on myocardial infarction: a systematic review and meta-analysis</article-title>. 
+  <source>Environ Pollut</source>
+  <year>2018</year>;
+  <volume>241</volume>:
+  <fpage>1106</fpage>–
+  <lpage>14</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.envpol.2018.06.045</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/30029319?>
+  <pub-id pub-id-type="pmid">30029319</pub-id>
+ </mixed-citation>
+</ref>

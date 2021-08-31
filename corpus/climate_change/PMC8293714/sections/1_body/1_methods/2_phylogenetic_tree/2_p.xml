@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We estimated a phylogenetic tree to lend support to the potential of estimating SDMs using phylogenetic groups, and there has yet to be a single phylogenetic tree that includes every western 
+ <italic toggle="yes">Plethodon</italic> species. We used the mitochondrial gene 
+ <italic toggle="yes">cytochrome b</italic> (cytb) by downloading sequences from GenBank for 
+ <italic toggle="yes">P. asupak</italic> (
+ <italic toggle="yes">n</italic> = 6), 
+ <italic toggle="yes">P. elongatus</italic> (
+ <italic toggle="yes">n</italic> = 113), and 
+ <italic toggle="yes">P. stormi</italic> (
+ <italic toggle="yes">n</italic> = 37) that were between 300 and 400 base pairs because this region of cytb was the most well‐represented (accession numbers in Table 
+ <xref rid="ece37735-sup-0002" ref-type="supplementary-material">S8</xref>). We used data from Pelletier et al. (
+ <xref rid="ece37735-bib-0062" ref-type="bibr">2015</xref>) for 
+ <italic toggle="yes">P. idahoensis</italic> (
+ <italic toggle="yes">n</italic> = 21), 
+ <italic toggle="yes">P. larselli</italic> (
+ <italic toggle="yes">n</italic> = 18), and 
+ <italic toggle="yes">P. vandykei</italic> (
+ <italic toggle="yes">n</italic> = 18), and data from Pelletier and Carstens (
+ <xref rid="ece37735-bib-0061" ref-type="bibr">2016</xref>) for 
+ <italic toggle="yes">P. dunni</italic> (
+ <italic toggle="yes">n</italic> = 116) and 
+ <italic toggle="yes">P. vehiculum</italic> (
+ <italic toggle="yes">n</italic> = 184). MAFFT v7.453 (Katoh &amp; Standley, 
+ <xref rid="ece37735-bib-0038" ref-type="bibr">2013</xref>) was used to align the sequences which were then checked by eye in Mesquite v3.6 (Maddison &amp; Maddison, 
+ <xref rid="ece37735-bib-0043" ref-type="bibr">2019</xref>). Sequences were trimmed to remove large amounts of missing data, and we were left with 385bp in the sequence alignment. jModelTest v.2.1.10 (Darriba et al., 
+ <xref rid="ece37735-bib-0020" ref-type="bibr">2012</xref>) was used to determine the model of sequence evolution. We estimated the species tree in BEAST v1.10.4 (Suchard et al., 
+ <xref rid="ece37735-bib-0086" ref-type="bibr">2018</xref>). Default parameters from BEAUTI v1.10.4 were used, except for the model of sequence evolution determined by jModelTest (TVM + I + G). Trial runs were conducted to assess the default settings. Two independent runs were conducted for 20,000,000 generations each, sampling every 2000 steps, with 10% removed for burn‐in. Convergence and ESS values were confirmed using Tracer v1.7.1 (Rambaut et al., 
+ <xref rid="ece37735-bib-0070" ref-type="bibr">2018</xref>), and runs were combined (LogCombiner v1.10.4) to estimate the maximum clade credibility tree (TreeAnnotator v1.10.4). We estimated species distribution models for each species and each species group based on their phylogenetic relatedness (see results), totaling 8 species (
+ <italic toggle="yes">asupak</italic>, 
+ <italic toggle="yes">elongatus</italic>, 
+ <italic toggle="yes">stormi</italic>, 
+ <italic toggle="yes">larselli</italic>, 
+ <italic toggle="yes">vandykei</italic>, 
+ <italic toggle="yes">idahoensis</italic>, 
+ <italic toggle="yes">dunni</italic>, and 
+ <italic toggle="yes">vehiculum</italic>) and 4 groups (
+ <italic toggle="yes">asupak</italic> + 
+ <italic toggle="yes">elongatus</italic> + 
+ <italic toggle="yes">stormi</italic>, 
+ <italic toggle="yes">larselli</italic> + 
+ <italic toggle="yes">vandykei</italic>, 
+ <italic toggle="yes">larselli</italic> + 
+ <italic toggle="yes">vandykei</italic> + 
+ <italic toggle="yes">idahoensis</italic>, and 
+ <italic toggle="yes">dunni</italic> + 
+ <italic toggle="yes">vehiculum</italic>). We chose to assess models from both 
+ <italic toggle="yes">larselli</italic> + 
+ <italic toggle="yes">vandykei</italic> and 
+ <italic toggle="yes">larselli</italic> + 
+ <italic toggle="yes">vandykei</italic> + 
+ <italic toggle="yes">idahoensis</italic> because while these three species are closely related, 
+ <italic toggle="yes">P. idahoensis</italic> does not share a geographic range similar to any of the other species.
+</p>

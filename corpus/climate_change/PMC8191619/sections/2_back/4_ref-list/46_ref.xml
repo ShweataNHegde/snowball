@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R46">
+ <label>46</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Yang</surname>
+    <given-names>L</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Liu</surname>
+    <given-names>C</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Hess</surname>
+    <given-names>J</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Health professionals in a changing climate: protocol for a scoping review</article-title>. 
+  <source>BMJ Open</source>
+  <year>2019</year>;
+  <volume>9</volume>:
+  <elocation-id>e024451</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1136/bmjopen-2018-024451</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/30798312?>
+ </mixed-citation>
+</ref>

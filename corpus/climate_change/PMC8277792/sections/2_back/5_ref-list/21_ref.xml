@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR21">
+ <label>21.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Middleton-Welling</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Dapporto</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>García-Barros</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Wiemers</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Nowicki</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Plazio</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Bonelli</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Zaccagno</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Šašić</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Liparova</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Schweiger</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Harpke</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Musche</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Settele</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Schmucki</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Shreeve</surname>
+    <given-names>T</given-names>
+   </name>
+  </person-group>
+  <article-title>A new comprehensive trait database of European and Maghreb butterflies, Papilionoidea</article-title>
+  <source>Sci. Data</source>
+  <year>2020</year>
+  <volume>7</volume>
+  <fpage>351</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41597-020-00697-7</pub-id>
+  <?supplied-pmid 33060594?>
+  <pub-id pub-id-type="pmid">33060594</pub-id>
+ </element-citation>
+</ref>

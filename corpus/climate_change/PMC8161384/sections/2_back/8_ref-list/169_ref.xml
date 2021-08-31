@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B169-genes-12-00783">
+ <label>169.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Montesinos-Lopez</surname>
+    <given-names>O.A.</given-names>
+   </name>
+   <name>
+    <surname>Martin-Vallejo</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Crossa</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Gianola</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Hernandez-Suarez</surname>
+    <given-names>C.M.</given-names>
+   </name>
+   <name>
+    <surname>Montesinos-Lopez</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Juliana</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Singh</surname>
+    <given-names>R.</given-names>
+   </name>
+  </person-group>
+  <article-title>A Benchmarking Between Deep Learning, Support Vector Machine and Bayesian Threshold Best Linear Unbiased Prediction for Predicting Ordinal Traits in Plant Breeding</article-title>
+  <source>G3</source>
+  <year>2019</year>
+  <volume>9</volume>
+  <fpage>601</fpage>
+  <lpage>618</lpage>
+  <pub-id pub-id-type="doi">10.1534/g3.118.200998</pub-id>
+  <pub-id pub-id-type="pmid">30593512</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="ece37735-tbl-0004" content-type="TABLE">
+ <label>TABLE 4</label>
+ <caption>
+  <p>Difference between the number of grid cells above 0.6 and 0.8 suitability for current versus future models for all species/groups</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <thead valign="top">
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="top" rowspan="1" colspan="1">
+     <italic toggle="yes">Plethodon</italic>
+    </th>
+    <th align="left" valign="top" rowspan="1" colspan="1">Model averaged by year</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">Difference 0.6</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">Difference 0.8</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="2" colspan="1">
+     <italic toggle="yes">elongatus</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">2050</td>
+    <td align="char" char="." rowspan="1" colspan="1">9,695</td>
+    <td align="char" char="." rowspan="1" colspan="1">4,906</td>
+   </tr>
+   <tr>
+    <td align="char" char="." rowspan="1" colspan="1">2070</td>
+    <td align="char" char="." rowspan="1" colspan="1">16,053</td>
+    <td align="char" char="." rowspan="1" colspan="1">5,325</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="2" colspan="1">
+     <italic toggle="yes">stormi</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">2050</td>
+    <td align="char" char="." rowspan="1" colspan="1">−1736</td>
+    <td align="char" char="." rowspan="1" colspan="1">−2012</td>
+   </tr>
+   <tr>
+    <td align="char" char="." rowspan="1" colspan="1">2070</td>
+    <td align="char" char="." rowspan="1" colspan="1">−5382</td>
+    <td align="char" char="." rowspan="1" colspan="1">−3692</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="2" colspan="1">
+     <italic toggle="yes">elongatus‐stormi‐asupak</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">2050</td>
+    <td align="char" char="." rowspan="1" colspan="1">27,105</td>
+    <td align="char" char="." rowspan="1" colspan="1">18,698</td>
+   </tr>
+   <tr>
+    <td align="char" char="." rowspan="1" colspan="1">2070</td>
+    <td align="char" char="." rowspan="1" colspan="1">16,185</td>
+    <td align="char" char="." rowspan="1" colspan="1">14,242</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="2" colspan="1">
+     <italic toggle="yes">idahoensis</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">2050</td>
+    <td align="char" char="." rowspan="1" colspan="1">−23376</td>
+    <td align="char" char="." rowspan="1" colspan="1">−34985</td>
+   </tr>
+   <tr>
+    <td align="char" char="." rowspan="1" colspan="1">2070</td>
+    <td align="char" char="." rowspan="1" colspan="1">−24948</td>
+    <td align="char" char="." rowspan="1" colspan="1">−37760</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="2" colspan="1">
+     <italic toggle="yes">larselli</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">2050</td>
+    <td align="char" char="." rowspan="1" colspan="1">82,092</td>
+    <td align="char" char="." rowspan="1" colspan="1">59,220</td>
+   </tr>
+   <tr>
+    <td align="char" char="." rowspan="1" colspan="1">2070</td>
+    <td align="char" char="." rowspan="1" colspan="1">137,432</td>
+    <td align="char" char="." rowspan="1" colspan="1">90,194</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="2" colspan="1">
+     <italic toggle="yes">vandykei</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">2050</td>
+    <td align="char" char="." rowspan="1" colspan="1">−13978</td>
+    <td align="char" char="." rowspan="1" colspan="1">−10645</td>
+   </tr>
+   <tr>
+    <td align="char" char="." rowspan="1" colspan="1">2070</td>
+    <td align="char" char="." rowspan="1" colspan="1">−20199</td>
+    <td align="char" char="." rowspan="1" colspan="1">−14223</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="2" colspan="1">
+     <italic toggle="yes">larselli‐vandykei</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">2050</td>
+    <td align="char" char="." rowspan="1" colspan="1">80,015</td>
+    <td align="char" char="." rowspan="1" colspan="1">59,530</td>
+   </tr>
+   <tr>
+    <td align="char" char="." rowspan="1" colspan="1">2070</td>
+    <td align="char" char="." rowspan="1" colspan="1">113,673</td>
+    <td align="char" char="." rowspan="1" colspan="1">82,575</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="2" colspan="1">
+     <italic toggle="yes">larselli‐vandykei‐idahoensis</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">2050</td>
+    <td align="char" char="." rowspan="1" colspan="1">210,912</td>
+    <td align="char" char="." rowspan="1" colspan="1">162,750</td>
+   </tr>
+   <tr>
+    <td align="char" char="." rowspan="1" colspan="1">2070</td>
+    <td align="char" char="." rowspan="1" colspan="1">259,429</td>
+    <td align="char" char="." rowspan="1" colspan="1">176,882</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="2" colspan="1">
+     <italic toggle="yes">dunni</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">2050</td>
+    <td align="char" char="." rowspan="1" colspan="1">33,141</td>
+    <td align="char" char="." rowspan="1" colspan="1">28,242</td>
+   </tr>
+   <tr>
+    <td align="char" char="." rowspan="1" colspan="1">2070</td>
+    <td align="char" char="." rowspan="1" colspan="1">57,561</td>
+    <td align="char" char="." rowspan="1" colspan="1">37,761</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="2" colspan="1">
+     <italic toggle="yes">vehiculum</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">2050</td>
+    <td align="char" char="." rowspan="1" colspan="1">41,155</td>
+    <td align="char" char="." rowspan="1" colspan="1">54,426</td>
+   </tr>
+   <tr>
+    <td align="char" char="." rowspan="1" colspan="1">2070</td>
+    <td align="char" char="." rowspan="1" colspan="1">42,093</td>
+    <td align="char" char="." rowspan="1" colspan="1">55,174</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="2" colspan="1">
+     <italic toggle="yes">dunni‐vehiculum</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">2050</td>
+    <td align="char" char="." rowspan="1" colspan="1">61,203</td>
+    <td align="char" char="." rowspan="1" colspan="1">97,016</td>
+   </tr>
+   <tr>
+    <td align="char" char="." rowspan="1" colspan="1">2070</td>
+    <td align="char" char="." rowspan="1" colspan="1">71,639</td>
+    <td align="char" char="." rowspan="1" colspan="1">111,088</td>
+   </tr>
+  </tbody>
+ </table>
+ <permissions>
+  <copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder>
+ </permissions>
+</table-wrap>

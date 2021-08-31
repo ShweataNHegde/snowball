@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8287-2635</contrib-id>
+  <name>
+   <surname>Bugaj</surname>
+   <given-names>Till Johannes</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff0001"/>
+  <xref ref-type="corresp" rid="an0001"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Heilborn</surname>
+   <given-names>Marie</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff0001"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Terhoeven</surname>
+   <given-names>Valentin</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff0001"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kaisinger</surname>
+   <given-names>Simon</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff0001"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3793-2541</contrib-id>
+  <name>
+   <surname>Nagy</surname>
+   <given-names>Ede</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff0001"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4344-8959</contrib-id>
+  <name>
+   <surname>Friederich</surname>
+   <given-names>Hans-Christoph</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff0001"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2839-178X</contrib-id>
+  <name>
+   <surname>Nikendei</surname>
+   <given-names>Christoph</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff0001"/>
+ </contrib>
+ <aff id="aff0001">Department of General Internal Medicine and Psychosomatics, 
+  <institution-wrap>
+   <institution>University of Heidelberg Medical Hospital</institution>
+  </institution-wrap>, 
+  <city>Heidelberg</city>, 
+  <country>Germany</country>
+ </aff>
+</contrib-group>

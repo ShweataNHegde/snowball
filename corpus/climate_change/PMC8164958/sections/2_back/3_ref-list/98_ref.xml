@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR98">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Soucy</surname>
+    <given-names>SM</given-names>
+   </name>
+   <name>
+    <surname>Huang</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Gogarten</surname>
+    <given-names>JP</given-names>
+   </name>
+  </person-group>
+  <article-title>Horizontal gene transfer: building the web of life</article-title>
+  <source>Nat Rev Genet</source>
+  <year>2015</year>
+  <volume>16</volume>
+  <issue>8</issue>
+  <fpage>472</fpage>
+  <lpage>482</lpage>
+  <pub-id pub-id-type="doi">10.1038/nrg3962</pub-id>
+  <pub-id pub-id-type="pmid">26184597</pub-id>
+ </element-citation>
+</ref>

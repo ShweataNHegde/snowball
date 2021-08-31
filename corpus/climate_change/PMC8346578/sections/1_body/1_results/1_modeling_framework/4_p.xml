@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par12">Communities are initiated with 50 species per trophic level, subdividing the latitudinal gradient into 50 distinct patches going from pole to equator (results are qualitatively unchanged by increasing either the number of species or the number of patches; SI, Section 
+ <xref rid="MOESM1" ref-type="media">5.9</xref>–
+ <xref rid="MOESM1" ref-type="media">5.10</xref>). We assume that climate is symmetric around the equator; thus, only the pole-to-equator region needs to be modeled explicitly (SI, Section 
+ <xref rid="MOESM1" ref-type="media">3.5</xref>). The temperature increase is based on predictions from the IPCC intermediate emission scenario
+ <sup>
+  <xref ref-type="bibr" rid="CR27">27</xref>
+ </sup> and corresponds to predictions for the north pole to the equator. The modeled temperature increase is represented by annual averages and the increase is thus smooth. Species are initially equally spaced, and adapted to the centers of their ranges. We then integrate the model for 6500 years, with three main phases: (1) an establishment period from 
+ <italic>t</italic> = −4000 to 
+ <italic>t</italic> = 0 years, during which local temperatures are constant; (2) climate change, between 
+ <italic>t</italic> = 0 and 
+ <italic>t</italic> = 300 years, during which local temperatures increase in a latitude-specific way (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>b); and (3) the post-climate change period from 
+ <italic>t</italic> = 300 to 
+ <italic>t</italic> = 2500 years, where temperatures remain constant again at their elevated values.
+</p>

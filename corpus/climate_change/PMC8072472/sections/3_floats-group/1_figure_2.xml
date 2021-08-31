@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig2" position="float">
+ <label>Figure 2</label>
+ <caption>
+  <p>Snowpack structure in relation to snow depth for the Weissfluhjoch study site 2,540 m (Davos, Switzerland) for the 30-year period 1990–1991 to 2019–2020. 
+   <bold>(A)</bold> Snow depth in mid-January with full blue circles indicating poor snowpack structure, and red open circles indicating good snowpack structure. Snowpack structure is classified based on snow profile type as described by 
+   <xref rid="ref65" ref-type="bibr">Schweizer and Wiesinger (2001)</xref>: “poor” corresponds to profiles types 1–5, (with weak basal layers), “good” to profile types 6–10, (with well-consolidated basal layers). 
+   <bold>(B)</bold> Snow depth by snowpack structure class. With poor snowpack structure snow depth is significantly lower than with good structure (median: 117 vs. 141 cm; Mann-Whitney U-Test, 
+   <italic>p</italic> = 0.012). Boxes span the interquartile range from 1st to 3rd quartile with a horizontal line showing the median. Whiskers show the range of observed values that fall within 1.5 times the interquartile range above the 3rd and below the 1st quartile.
+  </p>
+ </caption>
+ <graphic xlink:href="fphys-12-639433-g002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

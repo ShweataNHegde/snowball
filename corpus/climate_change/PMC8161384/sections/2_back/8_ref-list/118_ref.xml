@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B118-genes-12-00783">
+ <label>118.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rodríguez-Leal</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Lemmon</surname>
+    <given-names>Z.H.</given-names>
+   </name>
+   <name>
+    <surname>Man</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Bartlett</surname>
+    <given-names>M.E.</given-names>
+   </name>
+   <name>
+    <surname>Lippman</surname>
+    <given-names>Z.B.</given-names>
+   </name>
+  </person-group>
+  <article-title>Engineering Quantitative Trait Variation for Crop Improvement by Genome Editing</article-title>
+  <source>Cell</source>
+  <year>2017</year>
+  <volume>171</volume>
+  <fpage>470</fpage>
+  <lpage>480.e478</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cell.2017.08.030</pub-id>
+  <?supplied-pmid 28919077?>
+  <pub-id pub-id-type="pmid">28919077</pub-id>
+ </element-citation>
+</ref>

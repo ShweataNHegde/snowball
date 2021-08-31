@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B45-genes-12-00783">
+ <label>45.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lasky</surname>
+    <given-names>J.R.</given-names>
+   </name>
+   <name>
+    <surname>Des Marais</surname>
+    <given-names>D.L.</given-names>
+   </name>
+   <name>
+    <surname>McKay</surname>
+    <given-names>J.K.</given-names>
+   </name>
+   <name>
+    <surname>Richards</surname>
+    <given-names>J.H.</given-names>
+   </name>
+   <name>
+    <surname>Juenger</surname>
+    <given-names>T.E.</given-names>
+   </name>
+   <name>
+    <surname>Keitt</surname>
+    <given-names>T.H.</given-names>
+   </name>
+  </person-group>
+  <article-title>Characterizing genomic variation of Arabidopsis thaliana: The roles of geography and climate</article-title>
+  <source>Mol. Ecol.</source>
+  <year>2012</year>
+  <volume>21</volume>
+  <fpage>5512</fpage>
+  <lpage>5529</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1365-294X.2012.05709.x</pub-id>
+  <?supplied-pmid 22857709?>
+  <pub-id pub-id-type="pmid">22857709</pub-id>
+ </element-citation>
+</ref>

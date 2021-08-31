@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par7">As environmental variables, we generated PCAs based on climate and topographic features. Using climatic data, PC1 is mainly driven by temperature related variables capturing 42.9% of the total variance, PC2 summarizes precipitation related variables (31.8%), and PC3 is related to precipitation extremes (8.4%). The PCA trained with monthly insolation and irradiation revealed three PCs capturing interannual variations (Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">S2</xref> online).
+</p>

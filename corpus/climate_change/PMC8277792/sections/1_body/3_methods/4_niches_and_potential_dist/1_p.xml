@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par25">For each species record, we assigned the respective PCA transformed bioclimatic and insolation values based on its spatial position and year of discovery. Niche volumes of each species were computed using multivariate hypervolumes delimited by support vector machines (package hypervolume for R
+ <sup>
+  <xref ref-type="bibr" rid="CR55">55</xref>
+ </sup>) based on (1) bioclimatic and insolation data and (2) separately for bioclimatic data. Both scores allow the quantification of the degree of niche specialisation for each species, as specialists are expected to occupy smaller realised niche volumes than generalists.
+</p>

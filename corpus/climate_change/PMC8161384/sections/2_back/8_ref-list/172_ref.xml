@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B172-genes-12-00783">
+ <label>172.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tan</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Grattapaglia</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Martins</surname>
+    <given-names>G.S.</given-names>
+   </name>
+   <name>
+    <surname>Ferreira</surname>
+    <given-names>K.Z.</given-names>
+   </name>
+   <name>
+    <surname>Sundberg</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Ingvarsson</surname>
+    <given-names>P.r.K.</given-names>
+   </name>
+  </person-group>
+  <article-title>Evaluating the accuracy of genomic prediction of growth and wood traits in two Eucalyptus species and their F1 hybrids</article-title>
+  <source>BMC Plant Biol.</source>
+  <year>2017</year>
+  <volume>17</volume>
+  <elocation-id>110</elocation-id>
+  <pub-id pub-id-type="doi">10.1186/s12870-017-1059-6</pub-id>
+  <?supplied-pmid 28662679?>
+  <pub-id pub-id-type="pmid">28662679</pub-id>
+ </element-citation>
+</ref>

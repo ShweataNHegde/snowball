@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>CORDEX regional climate models (RCMs) used in this study, along with the forcing and the institute responsible.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left">Forcing</th>
+    <th align="left">RCM</th>
+    <th align="left">Institute</th>
+    <th align="left">References</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">ERA-interim</td>
+    <td align="left" rowspan="5">CCLM4-8-17</td>
+    <td align="left" rowspan="5">CLM</td>
+    <td align="left" rowspan="5">Rockel et al.
+     <sup>
+      <xref ref-type="bibr" rid="CR90">90</xref>
+     </sup>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">CNRM-CM5</td>
+   </tr>
+   <tr>
+    <td align="left">EC-Earth</td>
+   </tr>
+   <tr>
+    <td align="left">HadGem2-ES*</td>
+   </tr>
+   <tr>
+    <td align="left">MPI-ESM-LR</td>
+   </tr>
+   <tr>
+    <td align="left">ERA-interim</td>
+    <td align="left" rowspan="2">ALADIN63</td>
+    <td align="left" rowspan="2">CNRM</td>
+    <td align="left" rowspan="2">Nabat et al.
+     <sup>
+      <xref ref-type="bibr" rid="CR91">91</xref>
+     </sup>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">CNRM-CM5</td>
+   </tr>
+   <tr>
+    <td align="left">ERA-interim</td>
+    <td align="left" rowspan="4">HIRHAM5</td>
+    <td align="left" rowspan="4">DMI</td>
+    <td align="left" rowspan="4">Christensen et al.
+     <sup>
+      <xref ref-type="bibr" rid="CR92">92</xref>
+     </sup>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">EC-Earth</td>
+   </tr>
+   <tr>
+    <td align="left">HadGem2-ES*</td>
+   </tr>
+   <tr>
+    <td align="left">NorESM1-M</td>
+   </tr>
+   <tr>
+    <td align="left">ERA-interim</td>
+    <td align="left" rowspan="2">WRF381P</td>
+    <td align="left" rowspan="2">IPSL</td>
+    <td align="left" rowspan="2">Skamarock et al.
+     <sup>
+      <xref ref-type="bibr" rid="CR93">93</xref>
+     </sup>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">IPSL-CM5A-MR</td>
+   </tr>
+   <tr>
+    <td align="left">ERA-interim</td>
+    <td align="left" rowspan="4">RACMO22E</td>
+    <td align="left" rowspan="4">KNMI</td>
+    <td align="left" rowspan="4">Van Meijgaard et al.
+     <sup>
+      <xref ref-type="bibr" rid="CR94">94</xref>
+     </sup>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">CNRM-CM5</td>
+   </tr>
+   <tr>
+    <td align="left">EC-Earth</td>
+   </tr>
+   <tr>
+    <td align="left">HadGem2-ES*</td>
+   </tr>
+   <tr>
+    <td align="left">ERA-interim</td>
+    <td align="left" rowspan="2">REMO2009</td>
+    <td align="left" rowspan="2">MPI</td>
+    <td align="left" rowspan="2">Jacob et al.
+     <sup>
+      <xref ref-type="bibr" rid="CR95">95</xref>
+     </sup>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">MPI-ESM-LR</td>
+   </tr>
+   <tr>
+    <td align="left">ERA-interim</td>
+    <td align="left" rowspan="7">RCA4</td>
+    <td align="left" rowspan="7">SMHI</td>
+    <td align="left" rowspan="7">Samuelsson et al.
+     <sup>
+      <xref ref-type="bibr" rid="CR96">96</xref>
+     </sup>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">CNRM-CM5</td>
+   </tr>
+   <tr>
+    <td align="left">EC-Earth</td>
+   </tr>
+   <tr>
+    <td align="left">IPSL-CM5A-MR</td>
+   </tr>
+   <tr>
+    <td align="left">HadGem2-ES*</td>
+   </tr>
+   <tr>
+    <td align="left">MPI-ESM-LR</td>
+   </tr>
+   <tr>
+    <td align="left">*End-of-century 2072–2098</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Forcings are of two types: (i) ERA-Interim, which represents CORDEX-Evaluation RCMs spanning the period between 1989 and 2008; and (ii) global climate models (GCMs) representing both CORDEX-Historical and CORDEX-Future RCMs. The former describes the present climate (1971–2000), while the latter takes advantage of RCP4.5 and RCP8.5 to describe different future climates.</p>
+  <p>*End-of-century 2072 - 2098.</p>
+ </table-wrap-foot>
+</table-wrap>

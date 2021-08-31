@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B22-life-11-00653">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Narum</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Buerkle</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Davey</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Miller</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Hohenlohe</surname>
+    <given-names>P.</given-names>
+   </name>
+  </person-group>
+  <article-title>Genotyping-by-sequencing in ecological and conservation genomics</article-title>
+  <source>Mol. Ecol.</source>
+  <year>2013</year>
+  <volume>22</volume>
+  <fpage>2841</fpage>
+  <pub-id pub-id-type="doi">10.1111/mec.12350</pub-id>
+  <pub-id pub-id-type="pmid">23711105</pub-id>
+ </element-citation>
+</ref>

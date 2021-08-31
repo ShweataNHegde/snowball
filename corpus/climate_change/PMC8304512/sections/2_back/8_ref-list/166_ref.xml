@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B166-life-11-00653">
+ <label>166.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brandies</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Peel</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Hogg</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Belov</surname>
+    <given-names>K.</given-names>
+   </name>
+  </person-group>
+  <article-title>The value of reference genomes in the conservation of threatened species</article-title>
+  <source>Genes</source>
+  <year>2019</year>
+  <volume>10</volume>
+  <elocation-id>846</elocation-id>
+  <pub-id pub-id-type="doi">10.3390/genes10110846</pub-id>
+  <?supplied-pmid 31717707?>
+  <pub-id pub-id-type="pmid">31717707</pub-id>
+ </element-citation>
+</ref>

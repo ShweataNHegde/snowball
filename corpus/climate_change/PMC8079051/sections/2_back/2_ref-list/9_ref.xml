@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="cit0009">
+ <label>[9]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Chen</surname>
+    <given-names>K</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Breitner</surname>
+    <given-names>S</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Wolf</surname>
+    <given-names>K</given-names>
+   </string-name>, et al
+  </person-group>. 
+  <article-title>Projection of temperature-related myocardial infarction in Augsburg, Germany</article-title>. 
+  <source>Dtsch Arztebl Int</source>. 
+  <year>2019</year>;
+  <volume>116</volume>(
+  <issue>31–32</issue>):
+  <fpage>521</fpage>–
+  <lpage>527</lpage>.
+  <pub-id pub-id-type="pmid">31554538</pub-id>
+ </mixed-citation>
+</ref>

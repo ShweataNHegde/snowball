@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR60">
+ <label>60.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gross</surname>
+    <given-names>N</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Functional trait diversity maximizes ecosystem multifunctionality</article-title>
+  <source>Nat. Ecol. Evol.</source>
+  <year>2017</year>
+  <volume>1</volume>
+  <fpage>132</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41559-017-0132</pub-id>
+  <?supplied-pmid 28812705?>
+  <pub-id pub-id-type="pmid">28812705</pub-id>
+ </element-citation>
+</ref>

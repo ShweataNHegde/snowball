@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R28">
+ <label>28</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Porpora</surname>
+    <given-names>MG</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Piacenti</surname>
+    <given-names>I</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Scaramuzzino</surname>
+    <given-names>S</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Environmental contaminants exposure and preterm birth: a systematic review</article-title>. 
+  <source>Toxics</source>
+  <year>2019</year>;
+  <volume>7</volume>:
+  <elocation-id>11</elocation-id>. 
+  <pub-id pub-id-type="doi">10.3390/toxics7010011</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/30832205?>
+ </mixed-citation>
+</ref>

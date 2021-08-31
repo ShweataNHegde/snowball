@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R19">
+ <label>19</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <given-names>J. D.</given-names>
+    <surname>Scott</surname>
+   </string-name>, 
+   <string-name>
+    <given-names>M. A.</given-names>
+    <surname>Alexander</surname>
+   </string-name>, 
+   <string-name>
+    <given-names>D. R.</given-names>
+    <surname>Murray</surname>
+   </string-name>, 
+   <string-name>
+    <given-names>D.</given-names>
+    <surname>Swales</surname>
+   </string-name>, 
+   <string-name>
+    <given-names>J.</given-names>
+    <surname>Eischeid</surname>
+   </string-name>
+  </person-group>, 
+  <article-title>The climate change web portal: A system to access and display climate and earth system model output from the CMIP5 archive</article-title>. 
+  <source>Bull. Am. Meteorol. Soc.</source>
+  <volume>97</volume>, 
+  <fpage>523</fpage>–
+  <lpage>530</lpage> (
+  <year>2016</year>).
+ </mixed-citation>
+</ref>

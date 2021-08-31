@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B163-genes-12-00783">
+ <label>163.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pérez-Rodríguez</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Gianola</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>González-Camacho</surname>
+    <given-names>J.M.</given-names>
+   </name>
+   <name>
+    <surname>Crossa</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Manès</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Dreisigacker</surname>
+    <given-names>S.</given-names>
+   </name>
+  </person-group>
+  <article-title>Comparison Between Linear and Non-parametric Regression Models for Genome-Enabled Prediction in Wheat</article-title>
+  <source>G3 Genes Genomes Genet.</source>
+  <year>2012</year>
+  <volume>2</volume>
+  <fpage>1595</fpage>
+  <lpage>1605</lpage>
+  <pub-id pub-id-type="doi">10.1534/g3.112.003665</pub-id>
+  <?supplied-pmid 23275882?>
+  <pub-id pub-id-type="pmid">23275882</pub-id>
+ </element-citation>
+</ref>

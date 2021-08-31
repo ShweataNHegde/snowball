@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig position="float" fig-type="featured" id="fig01">
+ <label>Fig. 1.</label>
+ <caption>
+  <p>(
+   <italic toggle="yes">A</italic>) Time series of global annual change in mean surface temperature for the period from 2006 to 2100 (relative to 1986–2005) from Coupled Model Intercomparison Project Phase 5 (CMIP5) concentration-driven experiments for scenarios RCP2.6 (blue) and RCP8.5 (red). Projections are shown for the multimodel mean (solid lines) and the 5–95% range across the distribution of individual models (shading). The number of CMIP5 models used to calculate the multimodel mean is indicated. The mean and associated uncertainties averaged over the 2081–2100 period are given for all RCP scenarios as colored vertical bars on the right-hand side. (
+   <italic toggle="yes">B</italic> and 
+   <italic toggle="yes">C</italic>) CMIP5 multimodel mean projections for the 2081–2100 period under the RCP2.6 (
+   <italic toggle="yes">B</italic>) and RCP8.5 (
+   <italic toggle="yes">C</italic>) scenarios for change in annual mean surface temperature relative to 1986–2005. Adapted with permission from IPCC, 2014: Topic 2—Future Climate Changes, Risk and Impacts, in ref. 
+   <xref rid="r1" ref-type="bibr">1</xref>.
+  </p>
+ </caption>
+ <graphic xlink:href="pnas.2108537118fig01" id="gra1" position="float" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

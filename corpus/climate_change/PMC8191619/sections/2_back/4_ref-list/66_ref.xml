@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R66">
+ <label>66</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Tall</surname>
+    <given-names>JA</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Gatton</surname>
+    <given-names>ML</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Tong</surname>
+    <given-names>S</given-names>
+   </string-name>
+  </person-group>. 
+  <article-title>Ross River virus disease activity associated with naturally occurring Nontidal flood events in Australia: a systematic review</article-title>. 
+  <source>J Med Entomol</source>
+  <year>2014</year>;
+  <volume>51</volume>:
+  <fpage>1097</fpage>–
+  <lpage>108</lpage>. 
+  <pub-id pub-id-type="doi">10.1603/ME14007</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/26309294?>
+  <pub-id pub-id-type="pmid">26309294</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B145-genes-12-00783">
+ <label>145.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>González-Camacho</surname>
+    <given-names>J.M.</given-names>
+   </name>
+   <name>
+    <surname>de los Campos</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Pérez</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Gianola</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Cairns</surname>
+    <given-names>J.E.</given-names>
+   </name>
+   <name>
+    <surname>Mahuku</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Babu</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Crossa</surname>
+    <given-names>J.</given-names>
+   </name>
+  </person-group>
+  <article-title>Genome-enabled prediction of genetic values using radial basis function neural networks</article-title>
+  <source>Theor. Appl. Genet.</source>
+  <year>2012</year>
+  <volume>125</volume>
+  <fpage>759</fpage>
+  <lpage>771</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00122-012-1868-9</pub-id>
+  <pub-id pub-id-type="pmid">22566067</pub-id>
+ </element-citation>
+</ref>

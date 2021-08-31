@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par15">We use the results from these numerical experiments to explore patterns of (1) local species diversity (alpha diversity), (2) regional trends, including species range breadths and turnover (beta diversity), (3) global (gamma) diversity, and global changes in community composition induced by climate change. In addition, we also calculated the interspecific community-wide trait lag (the difference between the community’s density-weighted mean temperature optima and the current temperature) as a function of the community-wide weighted trait dispersion (centralized variance in species’ density-weighted mean temperature optima; see Methods). The response capacity is the ability of the biotic community to close this trait lag over time
+ <sup>
+  <xref ref-type="bibr" rid="CR30">30</xref>
+ </sup> (SI, Section 
+ <xref rid="MOESM1" ref-type="media">4</xref>). Integrating trait lag through time
+ <sup>
+  <xref ref-type="bibr" rid="CR31">31</xref>
+ </sup> gives an overall measure of different communities’ ability to cope with changing climate over this time period; furthermore, this measure is comparable across communities. The integrated trait lag summarizes, in a single functional metric, the performance and adaptability of a community over space and time. The reason it is related to performance is that species that on average live more often under temperatures closer to their optima (creating lower trait lags) will perform better than species whose temperature optima are far off from local conditions in space and/or time. Thus, a lower trait lag (higher response capacity) may also be related to other ecosystem functions, such as better carbon uptake which in turn has the potential to feedback to global temperatures
+ <sup>
+  <xref ref-type="bibr" rid="CR32">32</xref>
+ </sup>.
+</p>

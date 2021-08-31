@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Endemic species with small distributions are particularly prone to extinction (Schwartz et al., 
+ <xref rid="ece37735-bib-0076" ref-type="bibr">2006</xref>); therefore, it is important to understand the habitat requirements of such species, as well as estimate the potential for range contractions under future climate scenarios. Species distribution models (SDMs) use locality data from throughout a species distribution in conjunction with layers of climate data to predict the environmental envelope of that species, which can then be projected onto a geographic map (Peterson, 
+ <xref rid="ece37735-bib-0065" ref-type="bibr">2006</xref>; Soberon &amp; Peterson, 
+ <xref rid="ece37735-bib-0081" ref-type="bibr">2005</xref>). Species occurrence data are used to extract environmental information about environmental factors that represent suitable areas for a species to exist. These models are often used to predict current distributions (Sarquis et al., 
+ <xref rid="ece37735-bib-0073" ref-type="bibr">2018</xref>), understand environmental envelopes (Manzoor et al., 
+ <xref rid="ece37735-bib-0045" ref-type="bibr">2020</xref>), and predict changes in species distributions from the past (Ding &amp; Liao, 
+ <xref rid="ece37735-bib-0021" ref-type="bibr">2019</xref>) and into the future (Zhang et al., 
+ <xref rid="ece37735-bib-0107" ref-type="bibr">2020</xref>).
+</p>

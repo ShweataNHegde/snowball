@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4084-3427</contrib-id>
+  <name>
+   <surname>Pickson</surname>
+   <given-names>Robert Becker</given-names>
+  </name>
+  <address>
+   <email>myselfpickson@yahoo.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Boateng</surname>
+   <given-names>Elliot</given-names>
+  </name>
+  <address>
+   <email>elliot.boateng@uon.edu.au</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.80510.3c</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0185 3134</institution-id>
+   <institution>College of Management, </institution>
+   <institution>Sichuan Agricultural University, </institution>
+  </institution-wrap>Chengdu, China 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.266842.c</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 8831 109X</institution-id>
+   <institution>Newcastle Business School, </institution>
+   <institution>University of Newcastle, </institution>
+  </institution-wrap>Newcastle, Australia 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.266842.c</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 8831 109X</institution-id>
+   <institution>Centre for African Research, Engagement and Partnerships (CARE-P), </institution>
+   <institution>University of Newcastle, </institution>
+  </institution-wrap>Newcastle, Australia 
+ </aff>
+</contrib-group>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The likelihood of the multistate model was denoted as 
+ <math id="jats-math-13">
+  <mrow>
+   <msub>
+    <mi>L</mi>
+    <mi mathvariant="italic">CR</mi>
+   </msub>
+   <mfenced close=")" open="(" separators="">
+    <mrow>
+     <mrow>
+      <mi>m</mi>
+      <mo stretchy="false">|</mo>
+     </mrow>
+     <msub>
+      <mi>ϕ</mi>
+      <mi>j</mi>
+     </msub>
+     <mo>,</mo>
+     <msub>
+      <mi>ϕ</mi>
+      <mi>a</mi>
+     </msub>
+     <mo>,</mo>
+     <mi>α</mi>
+     <mo>,</mo>
+     <mi>p</mi>
+    </mrow>
+   </mfenced>
+  </mrow>
+ </math> where 
+ <bold>
+  <italic toggle="yes">m</italic>
+ </bold> represents the capture–recapture data which contains information about age‐specific survival (
+ <italic toggle="yes">ϕ</italic>
+ <sub>j</sub>, 
+ <italic toggle="yes">ϕ</italic>
+ <sub>a</sub>), breeding propensity (
+ <italic toggle="yes">α</italic>), and recapture probabilities (
+ <italic toggle="yes">p</italic>).
+</p>

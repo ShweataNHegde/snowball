@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B127-genes-12-00783">
+ <label>127.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schrider</surname>
+    <given-names>D.R.</given-names>
+   </name>
+   <name>
+    <surname>Kern</surname>
+    <given-names>A.D.</given-names>
+   </name>
+  </person-group>
+  <article-title>Supervised Machine Learning for Population Genetics: A New Paradigm</article-title>
+  <source>Trends Genet.</source>
+  <year>2018</year>
+  <volume>34</volume>
+  <fpage>301</fpage>
+  <lpage>312</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.tig.2017.12.005</pub-id>
+  <?supplied-pmid 29331490?>
+  <pub-id pub-id-type="pmid">29331490</pub-id>
+ </element-citation>
+</ref>

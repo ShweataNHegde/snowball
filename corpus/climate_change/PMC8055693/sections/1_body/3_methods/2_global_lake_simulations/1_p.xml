@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par20">Lake temperature data used in this study were simulated, within the ISIMIP phase 2b (ISIMIP2b) lake sector, with a suite of independently developed lake models: ALBM, GOTM, LAKE, and SimStrat-UoG. Following the ISIMIP2b global lake sector protocol, each of these lake models were used to simulate vertical lake temperature profiles at a 0.5°-by-0.5° grid resolution, based on the mean depth and surface area of all lakes within a given 0.5° grid (i.e. the average depth of all known lakes and the surface area covered). The locations, depths, and grid-scale fractions of lakes within each 0.5° grid were determined by the Global Lake Data Base version 1 (refs. 
+ <sup>
+  <xref ref-type="bibr" rid="CR45">45</xref>–
+  <xref ref-type="bibr" rid="CR47">47</xref>
+ </sup>). Lake information was aggregated from the original 30 arc sec resolution to a 0.5°-by-0.5° grid lake depth field.
+</p>

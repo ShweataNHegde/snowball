@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR37">
+ <label>37.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bastviken</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Freshwater methane emissions offset the continental carbon sink</article-title>
+  <source>Science</source>
+  <year>2011</year>
+  <volume>331</volume>
+  <fpage>50</fpage>
+  <pub-id pub-id-type="doi">10.1126/science.1196808</pub-id>
+  <?supplied-pmid 21212349?>
+  <pub-id pub-id-type="pmid">21212349</pub-id>
+ </element-citation>
+</ref>

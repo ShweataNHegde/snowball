@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab5">
+ <label>Table 5</label>
+ <caption>
+  <p>Panel error correction model estimation</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" colspan="7">Dependent variable:
+     <inline-formula id="IEq81">
+      <alternatives>
+       <tex-math id="M173">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\Delta {\text{LnFOSE}}$$\end{document}</tex-math>
+       <math id="M174">
+        <mrow>
+         <mi mathvariant="normal">Δ</mi>
+         <mtext>LnFOSE</mtext>
+        </mrow>
+       </math>
+       <inline-graphic xlink:href="10668_2021_1621_Article_IEq81.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </alternatives>
+     </inline-formula>
+    </th>
+   </tr>
+   <tr>
+    <th align="left">Regressors</th>
+    <th align="left">
+     <inline-formula id="IEq82">
+      <alternatives>
+       <tex-math id="M175">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\Delta {\text{LnCULA}}$$\end{document}</tex-math>
+       <math id="M176">
+        <mrow>
+         <mi mathvariant="normal">Δ</mi>
+         <mtext>LnCULA</mtext>
+        </mrow>
+       </math>
+       <inline-graphic xlink:href="10668_2021_1621_Article_IEq82.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </alternatives>
+     </inline-formula>
+    </th>
+    <th align="left">
+     <inline-formula id="IEq83">
+      <alternatives>
+       <tex-math id="M177">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\Delta {\text{LnGDPPC}}$$\end{document}</tex-math>
+       <math id="M178">
+        <mrow>
+         <mi mathvariant="normal">Δ</mi>
+         <mtext>LnGDPPC</mtext>
+        </mrow>
+       </math>
+       <inline-graphic xlink:href="10668_2021_1621_Article_IEq83.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </alternatives>
+     </inline-formula>
+    </th>
+    <th align="left">
+     <inline-formula id="IEq84">
+      <alternatives>
+       <tex-math id="M179">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\Delta {\text{LnPOP}}$$\end{document}</tex-math>
+       <math id="M180">
+        <mrow>
+         <mi mathvariant="normal">Δ</mi>
+         <mtext>LnPOP</mtext>
+        </mrow>
+       </math>
+       <inline-graphic xlink:href="10668_2021_1621_Article_IEq84.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </alternatives>
+     </inline-formula>
+    </th>
+    <th align="left">
+     <inline-formula id="IEq85">
+      <alternatives>
+       <tex-math id="M181">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\Delta {\text{LnTEMP}}$$\end{document}</tex-math>
+       <math id="M182">
+        <mrow>
+         <mi mathvariant="normal">Δ</mi>
+         <mtext>LnTEMP</mtext>
+        </mrow>
+       </math>
+       <inline-graphic xlink:href="10668_2021_1621_Article_IEq85.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </alternatives>
+     </inline-formula>
+    </th>
+    <th align="left">
+     <inline-formula id="IEq86">
+      <alternatives>
+       <tex-math id="M183">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\Delta {\text{LnRAIN}}$$\end{document}</tex-math>
+       <math id="M184">
+        <mrow>
+         <mi mathvariant="normal">Δ</mi>
+         <mtext>LnRAIN</mtext>
+        </mrow>
+       </math>
+       <inline-graphic xlink:href="10668_2021_1621_Article_IEq86.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </alternatives>
+     </inline-formula>
+    </th>
+    <th align="left">
+     <inline-formula id="IEq87">
+      <alternatives>
+       <tex-math id="M185">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\text{ECT}}_{{t - 1}}$$\end{document}</tex-math>
+       <math id="M186">
+        <msub>
+         <mtext>ECT</mtext>
+         <mrow>
+          <mi>t</mi>
+          <mo>-</mo>
+          <mn>1</mn>
+         </mrow>
+        </msub>
+       </math>
+       <inline-graphic xlink:href="10668_2021_1621_Article_IEq87.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </alternatives>
+     </inline-formula>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">Pooled mean group</td>
+    <td char="(" align="char">0.600(0.000)***</td>
+    <td char="(" align="char">0.872(0.041)**</td>
+    <td char="(" align="char">2.746(0.427)</td>
+    <td char="(" align="char"> − .0563(0.085)*</td>
+    <td char="(" align="char">0.113(0.003)***</td>
+    <td char="(" align="char"> − 0.471(0.000)***</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="7">
+     <italic>Cross-section</italic>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Algeria</td>
+    <td char="(" align="char">0.704(0.000)***</td>
+    <td char="(" align="char">0.294(0.611)</td>
+    <td char="(" align="char"> − 8.850(0.064)*</td>
+    <td char="(" align="char"> − 2.553(0.154)</td>
+    <td char="(" align="char">0.077(0.441)</td>
+    <td char="(" align="char"> − 0.569(0.000)***</td>
+   </tr>
+   <tr>
+    <td align="left">Burkina Faso</td>
+    <td char="(" align="char">0.368(0.071)*</td>
+    <td char="(" align="char">0.680(0.194)</td>
+    <td char="(" align="char">9.675(0.053)**</td>
+    <td char="(" align="char">0.471(0.692)</td>
+    <td char="(" align="char">0.104(0.441)</td>
+    <td char="(" align="char"> − 0.755(0.000)***</td>
+   </tr>
+   <tr>
+    <td align="left">Cameroon</td>
+    <td char="(" align="char">0.440(0.000)***</td>
+    <td char="(" align="char">0.356(0.070)*</td>
+    <td char="(" align="char"> − 12.600(0.092)*</td>
+    <td char="(" align="char"> − 0.819(0.346)</td>
+    <td char="(" align="char"> − 0.061(0.578)</td>
+    <td char="(" align="char"> − 0.401(0.000)***</td>
+   </tr>
+   <tr>
+    <td align="left">Cote d’Ivoire</td>
+    <td char="(" align="char">0.311(0.046)**</td>
+    <td char="(" align="char">0.429(0.160)</td>
+    <td char="(" align="char"> − 2.721(0.195)</td>
+    <td char="(" align="char"> − 1.128(0.218)</td>
+    <td char="(" align="char">0.188(0.061)*</td>
+    <td char="(" align="char"> − 0.353(0.002)***</td>
+   </tr>
+   <tr>
+    <td align="left">Egypt</td>
+    <td char="(" align="char">1.052(0.000)***</td>
+    <td char="(" align="char"> − 0.025(0.900)</td>
+    <td char="(" align="char">4.051(0.258)</td>
+    <td char="(" align="char"> − 0.708(0.001)***</td>
+    <td char="(" align="char"> − 0.014(0.349)</td>
+    <td char="(" align="char"> − 0.544(0.066)*</td>
+   </tr>
+   <tr>
+    <td align="left">Ghana</td>
+    <td char="(" align="char">0.532(0.002)***</td>
+    <td char="(" align="char">1.036(0.002)***</td>
+    <td char="(" align="char">4.195(0.396)</td>
+    <td char="(" align="char">0.837(0.476)</td>
+    <td char="(" align="char">0.285(0.022)**</td>
+    <td char="(" align="char"> − 0.458(0.000)***</td>
+   </tr>
+   <tr>
+    <td align="left">Kenya</td>
+    <td char="(" align="char">0.600(0.005)***</td>
+    <td char="(" align="char">0.420(0.359)</td>
+    <td char="(" align="char">29.706(0.000)***</td>
+    <td char="(" align="char"> − 0.770(0.624)</td>
+    <td char="(" align="char">0.033(0.681)</td>
+    <td char="(" align="char"> − 0.585(0.000)***</td>
+   </tr>
+   <tr>
+    <td align="left">Mali</td>
+    <td char="(" align="char">0.003(0.981)</td>
+    <td char="(" align="char"> − 0.104(0.410)</td>
+    <td char="(" align="char"> − 0.075(0.982)</td>
+    <td char="(" align="char">0.794(0.575)</td>
+    <td char="(" align="char">0.442(0.001)***</td>
+    <td char="(" align="char"> − 0.489(0.000)***</td>
+   </tr>
+   <tr>
+    <td align="left">Morocco</td>
+    <td char="(" align="char">1.028(0.038)**</td>
+    <td char="(" align="char">6.570(0.000)***</td>
+    <td char="(" align="char">14.503(0.134)</td>
+    <td char="(" align="char">0.810(0.643)</td>
+    <td char="(" align="char">0.128(0.418)</td>
+    <td char="(" align="char"> − 0.735(0.000)***</td>
+   </tr>
+   <tr>
+    <td align="left">Nigeria</td>
+    <td char="(" align="char">0.454(0.000)***</td>
+    <td char="(" align="char"> − 0.419(0.132)</td>
+    <td char="(" align="char"> − 3.203(0.761)</td>
+    <td char="(" align="char"> − 1.611(0.151)</td>
+    <td char="(" align="char">0.105(0.151)</td>
+    <td char="(" align="char"> − 0.271(0.010)***</td>
+   </tr>
+   <tr>
+    <td align="left">Sierra Leone</td>
+    <td char="(" align="char">0.912(0.000)***</td>
+    <td char="(" align="char">0.151(0.395)</td>
+    <td char="(" align="char"> − 0.231(0.844)</td>
+    <td char="(" align="char"> − 1.278(0.214)</td>
+    <td char="(" align="char"> − 0.077(0.608)</td>
+    <td char="(" align="char"> − 0.561(0.017)**</td>
+   </tr>
+   <tr>
+    <td align="left">South Africa</td>
+    <td char="(" align="char">1.202(0.001)***</td>
+    <td char="(" align="char">0.162(0.921)</td>
+    <td char="(" align="char"> − 15.861(0.023)**</td>
+    <td char="(" align="char"> − 2.586(0.184)</td>
+    <td char="(" align="char">0.992(0.281)</td>
+    <td char="(" align="char"> − 0.606(0.000)***</td>
+   </tr>
+   <tr>
+    <td align="left">The Gambia</td>
+    <td char="(" align="char">1.003(0.000)***</td>
+    <td char="(" align="char">1.317(0.003)***</td>
+    <td char="(" align="char">0.564(0847)</td>
+    <td char="(" align="char"> − 0.755(0.481)</td>
+    <td char="(" align="char">0.226(0.009)***</td>
+    <td char="(" align="char"> − 0.578(0.005)***</td>
+   </tr>
+   <tr>
+    <td align="left">Tunisia</td>
+    <td char="(" align="char">0.218(0.186)</td>
+    <td char="(" align="char">1.265(0.206)</td>
+    <td char="(" align="char"> − 7.042(0.209)</td>
+    <td char="(" align="char">1.769(0.154)</td>
+    <td char="(" align="char"> − 0.110(0.260)</td>
+    <td char="(" align="char"> − 0.945(0.000)***</td>
+   </tr>
+   <tr>
+    <td align="left">Zambia</td>
+    <td char="(" align="char">0.178(0.295)</td>
+    <td char="(" align="char">0.988(0.005)***</td>
+    <td char="(" align="char">29.084(0.600)</td>
+    <td char="(" align="char"> − 0.917(0.600)</td>
+    <td char="(" align="char">0.170(0.443)</td>
+    <td char="(" align="char"> − 0.762(0.000)***</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>***, **, and *indicate significance at 1%, 5%, and 10% level, respectively</p>
+ </table-wrap-foot>
+</table-wrap>

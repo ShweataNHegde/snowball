@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B126-genes-12-00783">
+ <label>126.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cortés</surname>
+    <given-names>A.J.</given-names>
+   </name>
+   <name>
+    <surname>López-Hernández</surname>
+    <given-names>F.</given-names>
+   </name>
+   <name>
+    <surname>Osorio-Rodriguez</surname>
+    <given-names>D.</given-names>
+   </name>
+  </person-group>
+  <article-title>Predicting thermal adaptation by looking into populations’ genomic past</article-title>
+  <source>Front. Genet.</source>
+  <year>2020</year>
+  <volume>11</volume>
+  <fpage>564515</fpage>
+  <pub-id pub-id-type="doi">10.3389/fgene.2020.564515</pub-id>
+  <pub-id pub-id-type="pmid">33101385</pub-id>
+ </element-citation>
+</ref>

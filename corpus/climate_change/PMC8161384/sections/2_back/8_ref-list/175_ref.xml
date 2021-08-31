@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B175-genes-12-00783">
+ <label>175.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Qiu</surname>
+    <given-names>Z.</given-names>
+   </name>
+   <name>
+    <surname>Cheng</surname>
+    <given-names>Q.</given-names>
+   </name>
+   <name>
+    <surname>Song</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Tang</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Ma</surname>
+    <given-names>C.</given-names>
+   </name>
+  </person-group>
+  <article-title>Application of Machine Learning-Based Classification to Genomic Selection and Performance Improvement</article-title>
+  <source>Comput. Sci.</source>
+  <year>2016</year>
+  <volume>9771</volume>
+  <fpage>412</fpage>
+  <lpage>421</lpage>
+  <pub-id pub-id-type="doi">10.1007/978-3-319-42291-6_41</pub-id>
+ </element-citation>
+</ref>

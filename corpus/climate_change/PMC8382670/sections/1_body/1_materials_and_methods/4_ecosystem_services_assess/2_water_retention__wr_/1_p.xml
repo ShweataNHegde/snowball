@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par17">WR refers to the water retained by ecosystems. We estimated WR based on the following formula (
+ <xref rid="Equ2" ref-type="">2</xref>, 
+ <xref rid="Equ3" ref-type="">3</xref>).
+ <disp-formula id="Equ2">
+  <label>2</label>
+  <alternatives>
+   <tex-math id="M3">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$WR = P - R - ET$$\end{document}</tex-math>
+   <math id="M4" display="block">
+    <mrow>
+     <mi>W</mi>
+     <mi>R</mi>
+     <mo>=</mo>
+     <mi>P</mi>
+     <mo>-</mo>
+     <mi>R</mi>
+     <mo>-</mo>
+     <mi>E</mi>
+     <mi>T</mi>
+    </mrow>
+   </math>
+   <graphic xlink:href="10980_2021_1320_Article_Equ2.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+ <disp-formula id="Equ3">
+  <label>3</label>
+  <alternatives>
+   <tex-math id="M5">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$R = P \times \alpha$$\end{document}</tex-math>
+   <math id="M6" display="block">
+    <mrow>
+     <mi>R</mi>
+     <mo>=</mo>
+     <mi>P</mi>
+     <mo>×</mo>
+     <mi>α</mi>
+    </mrow>
+   </math>
+   <graphic xlink:href="10980_2021_1320_Article_Equ3.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+</p>

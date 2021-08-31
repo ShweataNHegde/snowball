@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR116">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mu</surname>
+    <given-names>Qiaozhen</given-names>
+   </name>
+   <name>
+    <surname>Heinsch</surname>
+    <given-names>Faith Ann</given-names>
+   </name>
+   <name>
+    <surname>Zhao</surname>
+    <given-names>Maosheng</given-names>
+   </name>
+   <name>
+    <surname>Running</surname>
+    <given-names>Steven W.</given-names>
+   </name>
+  </person-group>
+  <article-title>Development of a global evapotranspiration algorithm based on MODIS and global meteorology data</article-title>
+  <source>Remote Sens Environ</source>
+  <year>2007</year>
+  <volume>111</volume>
+  <issue>4</issue>
+  <fpage>519</fpage>
+  <lpage>536</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.rse.2007.04.015</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig position="float" fig-type="FIGURE" id="ece37873-fig-0008">
+ <label>FIGURE 8</label>
+ <caption>
+  <p>Annual posterior means of population growth rate plotted against annual posterior mean estimates of adult survival (a), first‐year survival (b), annual nest success (c), and fecundity (d). First‐year survival was the demographic rate most strongly correlated with variation in annual population growth. Black dots indicate mean estimates of the demographic rates with corresponding 95% Bayesian credible intervals (gray lines), 
+   <italic toggle="yes">r</italic> is the posterior mode of the correlation coefficients with corresponding 95% CRI, and 
+   <italic toggle="yes">p</italic>(
+   <italic toggle="yes">r</italic> &gt; 0) indicates whether the correlation was positive
+  </p>
+ </caption>
+ <graphic xlink:href="ECE3-11-10627-g008" position="anchor" id="jats-graphic-17" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

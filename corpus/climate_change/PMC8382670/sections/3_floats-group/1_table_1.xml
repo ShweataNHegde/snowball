@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Data types and sources</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left">Variables</th>
+    <th align="left">Sources</th>
+    <th align="left">Units</th>
+    <th align="left">Period</th>
+    <th align="left">Resolution</th>
+    <th align="left">Website</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">Boundary data of Tibetan Plateau</td>
+    <td align="left">Global change research data publishing and repository</td>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left">
+     <ext-link ext-link-type="uri" xlink:href="http://www.geodoi.ac.cn" xmlns:xlink="http://www.w3.org/1999/xlink">www.geodoi.ac.cn</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">China’s prefecture administrative boundary data</td>
+    <td align="left">Global change research data publishing and repository</td>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left">
+     <ext-link ext-link-type="uri" xlink:href="http://www.geodoi.ac.cn" xmlns:xlink="http://www.w3.org/1999/xlink">www.geodoi.ac.cn</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Protected areas boundary data</td>
+    <td align="left">Resource and Environment Science and Data Center, Chinese Academy of Sciences</td>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left">
+     <ext-link ext-link-type="uri" xlink:href="http://www.resdc.cn" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.resdc.cn</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Digital elevation model (DEM)</td>
+    <td align="left">SRTMDEM from geospatial data cloud</td>
+    <td align="left">m</td>
+    <td align="left"/>
+    <td align="left">90 m</td>
+    <td align="left">
+     <ext-link ext-link-type="uri" xlink:href="http://www.gscloud.cn/" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.gscloud.cn/</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Land use and land cover</td>
+    <td align="left">MCD12Q1</td>
+    <td align="left"/>
+    <td align="left">2001–2015</td>
+    <td align="left">500 m</td>
+    <td align="left">
+     <ext-link ext-link-type="uri" xlink:href="https://lpdaac.usgs.gov/products/mcd12q1v006/" xmlns:xlink="http://www.w3.org/1999/xlink">https://lpdaac.usgs.gov/products/mcd12q1v006/</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Temperature</td>
+    <td align="left">MOD11A2, MYD11A2</td>
+    <td align="left">K</td>
+    <td align="left">2003–2015</td>
+    <td align="left">1000 m</td>
+    <td align="left">
+     <ext-link ext-link-type="uri" xlink:href="https://lpdaac.usgs.gov/products/myd11a2v006/" xmlns:xlink="http://www.w3.org/1999/xlink">https://lpdaac.usgs.gov/products/myd11a2v006/</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Precipitation</td>
+    <td align="left">Climate hazards group infrared precipitation with station data (CHIRPS)</td>
+    <td align="left">mm</td>
+    <td align="left">2000–2015</td>
+    <td align="left">0.05</td>
+    <td align="left">
+     <ext-link ext-link-type="uri" xlink:href="http://chg.ucsb.edu/data/chirps" xmlns:xlink="http://www.w3.org/1999/xlink">http://chg.ucsb.edu/data/chirps</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Evapotranspiration (ET)</td>
+    <td align="left">MOD16A3 from MODIS global evapotranspiration project</td>
+    <td align="left">mm</td>
+    <td align="left">2000–2014</td>
+    <td align="left">1000 m</td>
+    <td align="left">
+     <ext-link ext-link-type="uri" xlink:href="http://www.ntsg.umt.edu/project/modis/mod16.php" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.ntsg.umt.edu/project/modis/mod16.php</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Net primary productivity (NPP)</td>
+    <td align="left">MOD17A3 from numerical terradynamic simulation group</td>
+    <td align="left">g/m2</td>
+    <td align="left">2000–2015</td>
+    <td align="left">30 s</td>
+    <td align="left">
+     <ext-link ext-link-type="uri" xlink:href="http://www.ntsg.umt.edu/project/modis/mod17.php" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.ntsg.umt.edu/project/modis/mod17.php</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Future climate data</td>
+    <td align="left">WorldClim database</td>
+    <td align="left">°C mm</td>
+    <td align="left">2040–2060</td>
+    <td align="left">2.5 min</td>
+    <td align="left">
+     <ext-link ext-link-type="uri" xlink:href="https://worldclim.org/data/cmip6/cmip6climate.html" xmlns:xlink="http://www.w3.org/1999/xlink">https://worldclim.org/data/cmip6/cmip6climate.html</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Historical climate data</td>
+    <td align="left">WorldClim 2.1 database</td>
+    <td align="left">°C mm</td>
+    <td align="left">1970–2000</td>
+    <td align="left">30 s</td>
+    <td align="left">
+     <ext-link ext-link-type="uri" xlink:href="https://worldclim.org/data/worldclim21.html" xmlns:xlink="http://www.w3.org/1999/xlink">https://worldclim.org/data/worldclim21.html</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Tree cover</td>
+    <td align="left">MOD44B</td>
+    <td align="left">%</td>
+    <td align="left">2012</td>
+    <td align="left">250 m</td>
+    <td align="left">
+     <ext-link ext-link-type="uri" xlink:href="https://lpdaac.usgs.gov/products/mod44bv006/" xmlns:xlink="http://www.w3.org/1999/xlink">https://lpdaac.usgs.gov/products/mod44bv006/</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Above-ground biomass carbon</td>
+    <td align="left">Global above-ground biomass carbon (v1.0)</td>
+    <td align="left">Mg</td>
+    <td align="left">2012</td>
+    <td align="left">0.25°</td>
+    <td align="left">
+     <ext-link ext-link-type="uri" xlink:href="http://wald.anu.edu.au/data_services/data/" xmlns:xlink="http://www.w3.org/1999/xlink">http://wald.anu.edu.au/data_services/data/</ext-link>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

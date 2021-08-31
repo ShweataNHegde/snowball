@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R85">
+ <label>85</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Sanderson</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Arbuthnott</surname>
+    <given-names>K</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Kovats</surname>
+    <given-names>S</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>The use of climate information to estimate future mortality from high ambient temperature: a systematic literature review</article-title>. 
+  <source>PLoS One</source>
+  <year>2017</year>;
+  <volume>12</volume>:
+  <elocation-id>e0180369</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0180369</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/28686743?>
+  <pub-id pub-id-type="pmid">28686743</pub-id>
+ </mixed-citation>
+</ref>

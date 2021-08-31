@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR16">
+ <label>16.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Raghavan</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The genetic prehistory of the New World Arctic</article-title>
+  <source>Science</source>
+  <year>2014</year>
+  <volume>345</volume>
+  <fpage>1255832</fpage>
+  <pub-id pub-id-type="doi">10.1126/science.1255832</pub-id>
+  <?supplied-pmid 25170159?>
+  <pub-id pub-id-type="pmid">25170159</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR107">
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Vaughan</surname>
+    <given-names>DG</given-names>
+   </name>
+   <name>
+    <surname>Comiso</surname>
+    <given-names>JC</given-names>
+   </name>
+   <name>
+    <surname>Allison</surname>
+    <given-names>I</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <person-group person-group-type="editor">
+   <name>
+    <surname>Stocker</surname>
+    <given-names>TF</given-names>
+   </name>
+   <name>
+    <surname>Qin</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Plattner</surname>
+    <given-names>GK</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Observations: cryosphere</article-title>
+  <source>Climate change 2013: the physical science basis</source>
+  <year>2013</year>
+  <publisher-loc>Cambridge</publisher-loc>
+  <publisher-name>Cambridge University Press</publisher-name>
+  <fpage>317</fpage>
+  <lpage>382</lpage>
+ </element-citation>
+</ref>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B22">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Feder</surname>
+    <given-names>A. F.</given-names>
+   </name>
+   <name>
+    <surname>Pennings</surname>
+    <given-names>P. S.</given-names>
+   </name>
+   <name>
+    <surname>Petrov</surname>
+    <given-names>D. A.</given-names>
+   </name>
+  </person-group> (
+  <year>2021</year>). 
+  <article-title>The clarifying role of time series data in the population genetics of HIV.</article-title>
+  <source>
+   <italic>PLoS Genet.</italic>
+  </source>
+  <volume>17</volume>:
+  <issue>e1009050</issue>. 
+  <pub-id pub-id-type="doi">10.1371/journal.pgen.1009050</pub-id>
+  <?supplied-pmid 33444376?>
+  <pub-id pub-id-type="pmid">33444376</pub-id>
+ </mixed-citation>
+</ref>

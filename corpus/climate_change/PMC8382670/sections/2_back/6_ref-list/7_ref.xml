@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bennett</surname>
+    <given-names>EM</given-names>
+   </name>
+   <name>
+    <surname>Peterson</surname>
+    <given-names>GD</given-names>
+   </name>
+   <name>
+    <surname>Gordon</surname>
+    <given-names>LJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Understanding relationships among multiple ecosystem services</article-title>
+  <source>Ecol Lett</source>
+  <year>2009</year>
+  <volume>12</volume>
+  <fpage>1394</fpage>
+  <lpage>1404</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1461-0248.2009.01387.x</pub-id>
+  <?supplied-pmid 19845725?>
+  <pub-id pub-id-type="pmid">19845725</pub-id>
+ </element-citation>
+</ref>

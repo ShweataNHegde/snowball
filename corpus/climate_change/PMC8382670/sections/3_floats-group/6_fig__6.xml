@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig6">
+ <label>Fig. 6</label>
+ <caption>
+  <p>Relationship of ecosystem services’ sensitivity to climate change. The first row is the relationship between the single ecosystem service (
+   <bold>a</bold>: CS; 
+   <bold>b</bold>: WR; 
+   <bold>c</bold>: HQ) and two climate drivers (precipitation and temperature). The second and third row is the relationship between the two ecosystem services and a single climate driver (precipitation or temperature). The numbers inside and outside the box represent the area proportion (%) and the correlation coefficient of pixels in this state. All correlation coefficients pass the significance test (p &lt; 0.05). See Fig. 
+   <xref rid="Fig3" ref-type="fig">3</xref> and Section “
+   <xref rid="Sec12" ref-type="sec">Spatial association of ecosystem services’ sensitivity to climate change</xref>” for the legend description
+  </p>
+ </caption>
+ <graphic xlink:href="10980_2021_1320_Fig6_HTML" id="MO6" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

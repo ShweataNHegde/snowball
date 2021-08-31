@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par24">We circumvented this problem by building, from first principles, a different framework for spatial eco-evolutionary dynamics. Within a single patch, it is based on a quantitative genetic recursion model
+ <sup>
+  <xref ref-type="bibr" rid="CR19">19</xref>,
+  <xref ref-type="bibr" rid="CR22">22</xref>
+ </sup>. Spatial locations are discretized from the outset, therefore the approach is built on ordinary differential equations alone. As a consequence, it executes fast even with substantial model complexity: on an ordinary desktop computer, a single run for 6500 years with both trophic interactions and temperature-dependent competition, with 50 species on both trophic levels and 50 habitat patches (for 100 × 50 × 2 = 10,000 state variables; the factor of 2 is because both the density and trait mean of each species may change) finished in around 3 min. While this is fast, emerging methods such as Universal Differential Equations, which combine traditional integration with machine learning, hold the promise of a many-fold increase in the speed of computation in the near future
+ <sup>
+  <xref ref-type="bibr" rid="CR39">39</xref>
+ </sup>. Incorporation of further complexity into our model is straightforward: complex food webs and spatial structure, or further trait variables under selection (e.g., having both temperature optimum and body size evolve, the latter dictating the type of prey a species can consume
+ <sup>
+  <xref ref-type="bibr" rid="CR40">40</xref>
+ </sup>), can all be implemented. An important future extension would be to use an improved climate model with annual temperature fluctuations, instead of our smooth increase based on annual means. Annual extreme weather events are expected to become more common
+ <sup>
+  <xref ref-type="bibr" rid="CR41">41</xref>
+ </sup>. Under such circumstances, Allee effects might mean more frequent extinctions than predicted from our current model, because species hit by such events might not be able to recover. On the other hand, annual temperature cycles could induce storage effects or relative nonlinearities
+ <sup>
+  <xref ref-type="bibr" rid="CR42">42</xref>,
+  <xref ref-type="bibr" rid="CR43">43</xref>
+ </sup>, which in combination with our already incorporated spatial variation could promote coexistence through joint spatial and temporal variation
+ <sup>
+  <xref ref-type="bibr" rid="CR44">44</xref>
+ </sup>.
+</p>

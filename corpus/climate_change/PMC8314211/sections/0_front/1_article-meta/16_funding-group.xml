@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funding-group>
+ <award-group>
+  <funding-source id="cn001">Fundação de Amparo à Pesquisa do Estado de São Paulo
+   <named-content content-type="fundref-id">10.13039/501100001807</named-content>
+  </funding-source>
+  <award-id rid="cn001">2013/25991-0</award-id>
+  <award-id rid="cn001">2016/01354-9</award-id>
+  <award-id rid="cn001">2017/06374-0</award-id>
+  <award-id rid="cn001">2017/02206-6</award-id>
+ </award-group>
+ <award-group>
+  <funding-source id="cn002">Conselho Nacional de Desenvolvimento Científico e Tecnológico
+   <named-content content-type="fundref-id">10.13039/501100003593</named-content>
+  </funding-source>
+  <award-id rid="cn002">307015/2015-7</award-id>
+ </award-group>
+ <award-group>
+  <funding-source id="cn003">Royal Society
+   <named-content content-type="fundref-id">10.13039/501100000288</named-content>
+  </funding-source>
+  <award-id rid="cn003">Newton Advanced Fellowship</award-id>
+ </award-group>
+</funding-group>

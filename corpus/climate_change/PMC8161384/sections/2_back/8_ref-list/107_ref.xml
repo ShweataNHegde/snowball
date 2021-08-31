@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B107-genes-12-00783">
+ <label>107.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cortés</surname>
+    <given-names>A.J.</given-names>
+   </name>
+   <name>
+    <surname>Chavarro</surname>
+    <given-names>M.C.</given-names>
+   </name>
+   <name>
+    <surname>Blair</surname>
+    <given-names>M.W.</given-names>
+   </name>
+  </person-group>
+  <article-title>SNP marker diversity in common bean (
+   <italic>Phaseolus vulgaris</italic> L.)
+  </article-title>
+  <source>Theor. Appl. Genet.</source>
+  <year>2011</year>
+  <volume>123</volume>
+  <fpage>827</fpage>
+  <lpage>845</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00122-011-1630-8</pub-id>
+  <?supplied-pmid 21785951?>
+  <pub-id pub-id-type="pmid">21785951</pub-id>
+ </element-citation>
+</ref>

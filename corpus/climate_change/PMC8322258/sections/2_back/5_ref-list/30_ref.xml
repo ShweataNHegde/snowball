@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Choubin</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Khalighi-Sigaroodi</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Malekian</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Kişi</surname>
+    <given-names>Ö</given-names>
+   </name>
+  </person-group>
+  <article-title>Multiple linear regression, multi-layer perceptron network and adaptive neuro-fuzzy inference system for forecasting precipitation based on large-scale climate signals</article-title>
+  <source>Hydrol. Sci. J.</source>
+  <year>2016</year>
+  <volume>61</volume>
+  <fpage>1001</fpage>
+  <lpage>1009</lpage>
+  <pub-id pub-id-type="doi">10.1080/02626667.2014.966721</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="ece37873-tbl-0002" content-type="TABLE">
+ <label>TABLE 2</label>
+ <caption>
+  <p>Parameter estimates from an integrated population model including environmental covariates for the Yukon‐Kuskokwim Delta breeding population of spectacled eiders. Model was fit to data collected from 1992 to 2014. Demographic parameter estimates are reported as the mean and 95% Bayesian credible intervals (CRI) on the probability scale. Regression coefficients are reported on the logit scale and correspond to the submodel in the integrated population model (IPM). The covariates included within the submodels include “ice days” which is the number of days where sea ice cover is ≥95% in the core wintering area in the Bering Sea, “arctic oscillation” which is annual index of the Arctic Oscillation pattern, “fox” which is proportion of nest plots with signs of fox, and “precipitation” which is the average rain or snowfall measured at Bethel, Alaska between June and the end of August</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <thead valign="top">
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="top" rowspan="1" colspan="1">Parameter</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">Mean</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">95% CRI</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" colspan="3" rowspan="1">Demographic parameters</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Adult survival</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.878</td>
+    <td align="char" char="(" rowspan="1" colspan="1">(0.827, 0.921)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Juvenile survival</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.290</td>
+    <td align="char" char="(" rowspan="1" colspan="1">(0.148, 0.439)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Breeding propensity of 2‐year‐olds</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.359</td>
+    <td align="char" char="(" rowspan="1" colspan="1">(0.223, 0.531)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Nest success</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.778</td>
+    <td align="char" char="(" rowspan="1" colspan="1">(0.703, 0.845)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Clutch size</td>
+    <td align="char" char="." rowspan="1" colspan="1">4.297</td>
+    <td align="char" char="(" rowspan="1" colspan="1">(3.063, 5.819)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Geometric average 
+     <italic toggle="yes">λ</italic> breeding population growth
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">1.075</td>
+    <td align="char" char="(" rowspan="1" colspan="1">(1.064, 1.086)</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="3" rowspan="1">Regression coefficients</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <italic toggle="yes">β</italic> adult survival linear: 
+     <italic toggle="yes">ice days</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">−0.132</td>
+    <td align="char" char="(" rowspan="1" colspan="1">(−0.549, 0.266)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <italic toggle="yes">β</italic> adult survival quadratic: 
+     <italic toggle="yes">ice days</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">−0.251</td>
+    <td align="char" char="(" rowspan="1" colspan="1">(−0.486, −0.015)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <italic toggle="yes">β</italic> juvenile survival linear: 
+     <italic toggle="yes">Arctic oscillation</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">0.201</td>
+    <td align="char" char="(" rowspan="1" colspan="1">(−0.913, 1.326)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <italic toggle="yes">β</italic> nest success linear: 
+     <italic toggle="yes">ice days</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">−0.026</td>
+    <td align="char" char="(" rowspan="1" colspan="1">(−0.446, 0.401)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <italic toggle="yes">β</italic> nest success quadratic: 
+     <italic toggle="yes">ice days</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">−0.455</td>
+    <td align="char" char="(" rowspan="1" colspan="1">(−0.787, −0.147)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <italic toggle="yes">β</italic> nest success linear: 
+     <italic toggle="yes">fox</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">−0.169</td>
+    <td align="char" char="(" rowspan="1" colspan="1">(−0.604, 0.262)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <italic toggle="yes">β</italic> nest success linear: 
+     <italic toggle="yes">precipitation</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">−0.032</td>
+    <td align="char" char="(" rowspan="1" colspan="1">(−0.417, 0.357)</td>
+   </tr>
+  </tbody>
+ </table>
+ <permissions>
+  <copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder>
+ </permissions>
+</table-wrap>

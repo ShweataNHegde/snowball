@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>As GP, ML output focuses on optimizing the predictive ability, or ‘recall’ rate, of a given classification (e.g., tolerant vs. susceptible accessions) (
+ <xref ref-type="fig" rid="genes-12-00783-f002">Figure 2</xref> and 
+ <xref rid="genes-12-00783-t002" ref-type="table">Table 2</xref>), usually relying on a ‘supervised’ training with ‘labeled’ data (e.g., accessions for which drought/heat [
+ <xref rid="B127-genes-12-00783" ref-type="bibr">127</xref>] tolerance are already measured or environmentally-estimated, 
+ <xref rid="genes-12-00783-t002" ref-type="table">Table 2</xref>). An advantage of ML is that it deals more efficiently with high-dimensional inputs of heterogeneous variables (
+ <xref ref-type="fig" rid="genes-12-00783-f001">Figure 1</xref>g) (‘features’) without 
+ <italic>a priori</italic> knowledge of their joint probability distribution [
+ <xref rid="B128-genes-12-00783" ref-type="bibr">128</xref>], bypassing the ‘curse of dimensionality’ and a complex systems thinking (
+ <xref ref-type="fig" rid="genes-12-00783-f001">Figure 1</xref>l,m).
+</p>

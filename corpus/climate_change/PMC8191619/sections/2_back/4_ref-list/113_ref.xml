@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R113">
+ <label>113</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Bonafede</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Marinaccio</surname>
+    <given-names>A</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Asta</surname>
+    <given-names>F</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>The association between extreme weather conditions and work-related injuries and diseases. A systematic review of epidemiological studies</article-title>. 
+  <source>Ann Ist Super Sanita</source>
+  <year>2016</year>;
+  <volume>52</volume>:
+  <fpage>357</fpage>–
+  <lpage>67</lpage>. 
+  <pub-id pub-id-type="doi">10.4415/ANN_16_03_07</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/27698294?>
+  <pub-id pub-id-type="pmid">27698294</pub-id>
+ </mixed-citation>
+</ref>

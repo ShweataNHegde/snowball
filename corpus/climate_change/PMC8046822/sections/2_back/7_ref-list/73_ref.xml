@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR73">
+ <label>73.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pourghasemi</surname>
+    <given-names>HR</given-names>
+   </name>
+   <name>
+    <surname>Yousefi</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Kornejady</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Cerdà</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Performance assessment of individual and ensemble data-mining techniques for gully erosion modeling</article-title>
+  <source>Sci. Total Environ.</source>
+  <year>2017</year>
+  <volume>609</volume>
+  <fpage>764</fpage>
+  <lpage>775</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.scitotenv.2017.07.198</pub-id>
+  <pub-id pub-id-type="pmid">28763673</pub-id>
+ </element-citation>
+</ref>

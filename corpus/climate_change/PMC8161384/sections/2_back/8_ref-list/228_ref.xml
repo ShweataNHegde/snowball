@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B228-genes-12-00783">
+ <label>228.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Timpson</surname>
+    <given-names>N.J.</given-names>
+   </name>
+   <name>
+    <surname>Greenwood</surname>
+    <given-names>C.M.T.</given-names>
+   </name>
+   <name>
+    <surname>Soranzo</surname>
+    <given-names>N.</given-names>
+   </name>
+   <name>
+    <surname>Lawson</surname>
+    <given-names>D.J.</given-names>
+   </name>
+   <name>
+    <surname>Richards</surname>
+    <given-names>J.B.</given-names>
+   </name>
+  </person-group>
+  <article-title>Genetic architecture: The shape of the genetic contribution to human traits and disease</article-title>
+  <source>Nat. Rev. Genet.</source>
+  <year>2018</year>
+  <volume>19</volume>
+  <fpage>110</fpage>
+  <lpage>124</lpage>
+  <pub-id pub-id-type="doi">10.1038/nrg.2017.101</pub-id>
+  <?supplied-pmid 29225335?>
+  <pub-id pub-id-type="pmid">29225335</pub-id>
+ </element-citation>
+</ref>

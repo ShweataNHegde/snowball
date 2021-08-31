@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app-group>
+ <app id="app1-ijerph-18-04486">
+  <title>Appendix A</title>
+  <sec>
+   <title>Appendix A.1. Protecting Health from Climate Change—Global Research Priorities from the World Health Organization (WHO 2009)</title>
+   <list list-type="simple">
+    <list-item>
+     <label>(I)</label>
+     <p>Assessing the risks
+      <list list-type="alpha-lower">
+       <list-item>
+        <p>Improved evaluation of current climate-related health risks, rather than a primary focus on risks over very long timeframes</p>
+       </list-item>
+       <list-item>
+        <p>Identification of vulnerable populations and life stages</p>
+       </list-item>
+       <list-item>
+        <p>Quantification of the fraction of morbidity and mortality attributable to climate hazards, and to climate change</p>
+       </list-item>
+       <list-item>
+        <p>Better assessment of neglected climate-mental health linkages</p>
+       </list-item>
+      </list>
+     </p>
+    </list-item>
+    <list-item>
+     <label>(II)</label>
+     <p>Identifying the most effective interventions
+      <list list-type="alpha-lower">
+       <list-item>
+        <p>Systematic reviews of the evidence base for interventions</p>
+       </list-item>
+       <list-item>
+        <p>Methodological research to improve analytical tools for cost-effectiveness analysis</p>
+       </list-item>
+      </list>
+     </p>
+    </list-item>
+    <list-item>
+     <label>(III)</label>
+     <p>Guiding health-promoting mitigation and adaption decisions in other sectors
+      <list list-type="alpha-lower">
+       <list-item>
+        <p>Improved methods for assessment of the health implications of decisions in other sectors</p>
+       </list-item>
+       <list-item>
+        <p>Health implications of climate change mitigation: energy and transport sectors</p>
+       </list-item>
+       <list-item>
+        <p>Health implications of climate change adaptation: water, food and agriculture sectors</p>
+       </list-item>
+       <list-item>
+        <p>Improved integration of climate change mitigation, adaptation, and health through “settings-based” research</p>
+       </list-item>
+      </list>
+     </p>
+    </list-item>
+    <list-item>
+     <label>(IV)</label>
+     <p>Improving decision-support
+      <list list-type="alpha-lower">
+       <list-item>
+        <p>Research to improve vulnerability and adaptation assessments</p>
+       </list-item>
+       <list-item>
+        <p>Improvement of operational predictions</p>
+       </list-item>
+       <list-item>
+        <p>Improved understanding of decision-making processes</p>
+       </list-item>
+      </list>
+     </p>
+    </list-item>
+    <list-item>
+     <label>(V)</label>
+     <p>Estimating the costs of protecting health from climate change
+      <list list-type="alpha-lower">
+       <list-item>
+        <p>Definition of harmonized methods to estimate costs and benefits</p>
+       </list-item>
+       <list-item>
+        <p>Assessment of the health costs of inaction and the costs of adaptation</p>
+       </list-item>
+       <list-item>
+        <p>Improved economic assessment of the health co-benefits of climate change mitigation</p>
+       </list-item>
+      </list>
+     </p>
+    </list-item>
+   </list>
+  </sec>
+  <sec>
+   <title>Appendix A.2. Search Strings by Online Database</title>
+   <p>
+    <bold>PsycINFO:</bold> (((
+    <bold>IndexTermsFilt</bold>: (“Atmospheric Conditions”) 
+    <italic>OR</italic>
+    <bold>IndexTermsFilt</bold>: (“Climate Change”) 
+    <italic>OR</italic>
+    <bold>IndexTermsFilt</bold>: (“Global Warming”)) 
+    <italic>OR</italic> (
+    <bold>title</bold>: (“global warming”)) 
+    <italic>OR</italic> (
+    <bold>abstract</bold>: (“global warming”)) 
+    <italic>OR</italic> (
+    <bold>title</bold>: (“climate change”)) 
+    <italic>OR</italic> (
+    <bold>abstract</bold>: (“climate change”)) 
+    <italic>OR</italic> (
+    <bold>title</bold>: (“greenhouse effect”)) 
+    <italic>OR</italic> (
+    <bold>abstract</bold>: (“greenhouse effect”)) 
+    <italic>OR</italic> (
+    <bold>title</bold>: (weather)) 
+    <italic>OR</italic> (
+    <bold>abstract</bold>: (weather))) 
+    <italic>AND</italic> ((
+    <bold>Year</bold>: [2001 TO 2019]) 
+    <italic>AND</italic>
+    <bold>PublicationTypeFilt</bold>: “Peer Reviewed Journal” 
+    <italic>AND</italic> ((
+    <bold>PopulationGroupFilt</bold>: (“Human”))))) 
+    <italic>AND</italic> (((
+    <bold>IndexTermsFilt</bold>: (“Mental Disorders”) 
+    <italic>OR</italic>
+    <bold>IndexTermsFilt</bold>: (“Mental Health”)) 
+    <italic>OR</italic> (
+    <bold>title</bold>: (“mental disorders”)) 
+    <italic>OR</italic> (
+    <bold>abstract</bold>: (“mental disorders”)) 
+    <italic>OR</italic> (
+    <bold>title</bold>: (“mental disorder”)) 
+    <italic>OR</italic> (
+    <bold>abstract</bold>: (“mental disorder”)) 
+    <italic>OR</italic> (
+    <bold>title</bold>: (“mental illness”)) 
+    <italic>OR</italic> (
+    <bold>abstract</bold>: (“mental illness”)) 
+    <italic>OR</italic> (
+    <bold>title</bold>: (“mental illnesses”)) 
+    <italic>OR</italic> (
+    <bold>abstract</bold>: (“mental illnesses”)) 
+    <italic>OR</italic> (
+    <bold>title</bold>: (“mental health”)) 
+    <italic>OR</italic> (
+    <bold>abstract</bold>: (“mental health”))) 
+    <italic>AND</italic> ((
+    <bold>Year</bold>: [2001 TO 2020]) 
+    <italic>AND</italic>
+    <bold>PublicationTypeFilt</bold>: “Peer Reviewed Journal” 
+    <italic>AND</italic> ((
+    <bold>PopulationGroupFilt</bold>: (“Human”)))))
+   </p>
+   <p>
+    <bold>EMBASE:</bold> (‘climate’/exp OR ‘greenhouse effect’/exp OR ‘weather’/exp OR ‘high temperature’/exp OR ‘climate change’:ab,ti OR ‘global warming’:ab,ti OR ‘greenhouse effect’:ab,ti OR ‘weather’:ab,ti) AND (‘mental disease’/exp OR ‘mental health’/exp OR ‘mental disorders’:ab,ti OR ‘mental disorder’:ab,ti OR ‘mental illness’:ab,ti OR ‘mental illnesses’:ab,ti OR ‘mental health’:ab,ti) AND [english]/lim AND [embase]/lim NOT [medline]/lim AND [2001–2020]/py
+   </p>
+   <p>
+    <bold>Web of Science:</bold> TS=(global warming OR climate change OR greenhouse effect OR weather) AND TS=(mental disorder OR mental disorders OR mental illness OR mental illnesses OR mental health) 
+    <italic>AND</italic> LANGUAGE: (English) 
+    <italic>Indexes=SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, BKCI-S, BKCI-SSH, ESCI, CCR-EXPANDED, IC Timespan=2001–2020</italic>
+   </p>
+   <p>
+    <bold>Scopus:</bold> ((TITLE-ABS-KEY (“climate change”) OR TITLE-ABS-KEY (“global warming”) OR TITLE-ABS-KEY (“greenhouse effect”) OR TITLE-ABS-KEY (weather) AND (( TITLE-ABS-KEY (“mental disorder”) OR TITLE-ABS-KEY (“mental illness”) OR TITLE-ABS-KEY (“mental health”)) AND PUBYEAR &gt; 2000 AND PUBYEAR &lt; 2021)
+   </p>
+   <p>
+    <bold>CINAHL:</bold> (MH “Weather+”) OR (MH “Climate+”) OR TI(“climate change” or “global warming” or “greenhouse effect” or weather) OR AB(“climate change” or “global warming” or “greenhouse effect” or weather) AND (MM “Mental Health”) OR (MH “Behavioral and Mental Disorders+”) OR TI (“mental disorders” or “mental disorder” or “mental health” or “mental illness” OR “mental illnesses”) OR AB (“mental disorders” or “mental disorder” or “mental health” or “mental illness” OR “mental illnesses”) 
+    <bold>Limiters</bold> - Published Date: 20010101-20201231; English Language; Peer Reviewed; Exclude MEDLINE records
+   </p>
+  </sec>
+ </app>
+</app-group>

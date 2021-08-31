@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Figure 1</label>
+ <caption>
+  <p>Study area. Projections of coastal change were conducted from Point Conception east to the Santa Barbara County line, just east of Carpinteria, California. Inset shows location of tidal marsh and sandy beach ecosystem study sites (SB = Sands/Ellwood beach, IV = Isla Vista, EC = East Campus, AB = Arroyo Burro, EB = East Beach, SC = Santa Claus, CM = Carpinteria salt marsh, and CB = Carpinteria city beach). Map also identifies the communities used to characterize socioeconomic exposure to projected flooding, including Goleta, Isla Vista, Santa Barbara (city), Montecito, and Carpinteria. (Figure generated using ArcGIS v. 10.4.2, 
+   <ext-link ext-link-type="uri" xlink:href="http://www.esri.com" xmlns:xlink="http://www.w3.org/1999/xlink">www.esri.com</ext-link>. Local basemaps from 
+   <ext-link ext-link-type="uri" xlink:href="https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer" xmlns:xlink="http://www.w3.org/1999/xlink">https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer</ext-link>).
+  </p>
+ </caption>
+ <graphic xlink:href="41598_2021_94942_Fig1_HTML" id="MO1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

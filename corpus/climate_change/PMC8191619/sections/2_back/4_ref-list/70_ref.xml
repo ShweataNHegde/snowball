@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R70">
+ <label>70</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Levy</surname>
+    <given-names>K</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Woster</surname>
+    <given-names>AP</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Goldstein</surname>
+    <given-names>RS</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Untangling the impacts of climate change on waterborne diseases: a systematic review of relationships between diarrheal diseases and temperature, rainfall, flooding, and drought</article-title>. 
+  <source>Environ Sci Technol</source>
+  <year>2016</year>;
+  <volume>50</volume>:
+  <fpage>4905</fpage>–
+  <lpage>22</lpage>. 
+  <pub-id pub-id-type="doi">10.1021/acs.est.5b06186</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/27058059?>
+  <pub-id pub-id-type="pmid">27058059</pub-id>
+ </mixed-citation>
+</ref>

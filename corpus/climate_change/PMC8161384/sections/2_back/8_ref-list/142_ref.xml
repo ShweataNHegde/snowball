@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B142-genes-12-00783">
+ <label>142.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sousa</surname>
+    <given-names>I.C.d.</given-names>
+   </name>
+   <name>
+    <surname>Nascimento</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Silva</surname>
+    <given-names>G.N.</given-names>
+   </name>
+   <name>
+    <surname>Nascimento</surname>
+    <given-names>A.C.C.</given-names>
+   </name>
+   <name>
+    <surname>Cruz</surname>
+    <given-names>C.D.</given-names>
+   </name>
+   <name>
+    <surname>Silva</surname>
+    <given-names>F.F.</given-names>
+   </name>
+   <name>
+    <surname>Almeida</surname>
+    <given-names>D.P.d.</given-names>
+   </name>
+   <name>
+    <surname>Pestana</surname>
+    <given-names>K.N.</given-names>
+   </name>
+   <name>
+    <surname>Azevedo</surname>
+    <given-names>C.F.</given-names>
+   </name>
+   <name>
+    <surname>Zambolim</surname>
+    <given-names>L.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genomic prediction of leaf rust resistance to Arabica coffee using machine learning algorithms</article-title>
+  <source>Sci. Agric.</source>
+  <year>2021</year>
+  <fpage>78</fpage>
+  <pub-id pub-id-type="doi">10.1590/1678-992x-2020-0021</pub-id>
+ </element-citation>
+</ref>

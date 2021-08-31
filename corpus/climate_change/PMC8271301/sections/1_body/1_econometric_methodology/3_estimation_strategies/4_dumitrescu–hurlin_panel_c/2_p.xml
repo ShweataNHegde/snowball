@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par21">The following expressions are the null and alternative hypotheses for testing the panel Granger causality:
+ <disp-formula id="Equ13">
+  <label>13</label>
+  <alternatives>
+   <tex-math id="M131">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\begin{gathered} H_{0} = \theta _{i} = 0~~~~~~~~~~~~~~~~~~~~~~~~~~\forall _{i} = 1,~ \ldots ,~N \hfill \\ H_{1} = \theta _{i} = 0~~~~~~~~~~~~~~~~~~~~~~~~~~\forall _{i} = 1,~ \ldots ,~N \hfill \\ H_{1} = \theta _{i} \ne 0~~~~~~~~~~~~~~~~~~~~~~~~~~\forall _{i} = N + 1,~N + 2,~ \ldots ,~N~ \hfill \\ \end{gathered}$$\end{document}</tex-math>
+   <math id="M132" display="block">
+    <mrow>
+     <mtable>
+      <mtr>
+       <mtd>
+        <mrow>
+         <msub>
+          <mi>H</mi>
+          <mn>0</mn>
+         </msub>
+         <mo>=</mo>
+         <msub>
+          <mi>θ</mi>
+          <mi>i</mi>
+         </msub>
+         <mo>=</mo>
+         <mn>0</mn>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <msub>
+          <mo>∀</mo>
+          <mi>i</mi>
+         </msub>
+         <mo>=</mo>
+         <mn>1</mn>
+         <mo>,</mo>
+         <mspace width="3.33333pt"/>
+         <mo>…</mo>
+         <mo>,</mo>
+         <mspace width="3.33333pt"/>
+         <mi>N</mi>
+        </mrow>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mrow>
+         <mrow/>
+         <msub>
+          <mi>H</mi>
+          <mn>1</mn>
+         </msub>
+         <mo>=</mo>
+         <msub>
+          <mi>θ</mi>
+          <mi>i</mi>
+         </msub>
+         <mo>=</mo>
+         <mn>0</mn>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <msub>
+          <mo>∀</mo>
+          <mi>i</mi>
+         </msub>
+         <mo>=</mo>
+         <mn>1</mn>
+         <mo>,</mo>
+         <mspace width="3.33333pt"/>
+         <mo>…</mo>
+         <mo>,</mo>
+         <mspace width="3.33333pt"/>
+         <mi>N</mi>
+        </mrow>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mrow>
+         <mrow/>
+         <msub>
+          <mi>H</mi>
+          <mn>1</mn>
+         </msub>
+         <mo>=</mo>
+         <msub>
+          <mi>θ</mi>
+          <mi>i</mi>
+         </msub>
+         <mo>≠</mo>
+         <mn>0</mn>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <mspace width="3.33333pt"/>
+         <msub>
+          <mo>∀</mo>
+          <mi>i</mi>
+         </msub>
+         <mo>=</mo>
+         <mi>N</mi>
+         <mo>+</mo>
+         <mn>1</mn>
+         <mo>,</mo>
+         <mspace width="3.33333pt"/>
+         <mi>N</mi>
+         <mo>+</mo>
+         <mn>2</mn>
+         <mo>,</mo>
+         <mspace width="3.33333pt"/>
+         <mo>…</mo>
+         <mo>,</mo>
+         <mspace width="3.33333pt"/>
+         <mi>N</mi>
+         <mspace width="3.33333pt"/>
+        </mrow>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mrow/>
+       </mtd>
+      </mtr>
+     </mtable>
+    </mrow>
+   </math>
+   <graphic xlink:href="10668_2021_1621_Article_Equ13.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+</p>

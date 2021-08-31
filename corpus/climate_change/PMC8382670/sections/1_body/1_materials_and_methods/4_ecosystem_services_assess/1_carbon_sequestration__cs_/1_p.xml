@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par15">CS is an important regulation service that controls the atmospheric carbon concentration (Meersmans et al. 
+ <xref ref-type="bibr" rid="CR60">2016</xref>; Bai et al. 
+ <xref ref-type="bibr" rid="CR5">2018</xref>). We evaluated the amount of CS based on net primary productivity (NPP). The basic assumption is that vegetation fixes 1.63 units of carbon when accumulating per unit NPP according to the photosynthesis equation (Li and Zhou 
+ <xref ref-type="bibr" rid="CR47">2016</xref>). The formula is as follows:
+ <disp-formula id="Equ1">
+  <label>1</label>
+  <alternatives>
+   <tex-math id="M1">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$CS = 1.63 \times NPP$$\end{document}</tex-math>
+   <math id="M2" display="block">
+    <mrow>
+     <mi>C</mi>
+     <mi>S</mi>
+     <mo>=</mo>
+     <mn>1.63</mn>
+     <mo>×</mo>
+     <mi>N</mi>
+     <mi>P</mi>
+     <mi>P</mi>
+    </mrow>
+   </math>
+   <graphic xlink:href="10980_2021_1320_Article_Equ1.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+</p>

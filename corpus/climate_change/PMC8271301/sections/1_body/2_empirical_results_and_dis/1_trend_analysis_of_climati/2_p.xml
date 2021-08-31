@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par24">Analyses of monthly and annual rainfall patterns may be considered crucial as most African farmers depend heavily on rainfall for agricultural production. Table 
+ <xref rid="Tab2" ref-type="table">2</xref> provides monthly and annual rainfall patterns from 1970 to 2015, based on both the Mann–Kendall test and Sen’s slope estimator. According to the findings, only Burkina Faso, Mali, and the Gambia exhibited increasing annual rainfall rates, given 
+ <italic>Z</italic> values of 2.23, 2.59, and 2.06, respectively. However, we found no significant trend in annual average rainfall in Algeria, Cameroon, Egypt, Ghana, Kenya, Morocco, Nigeria, Sierra Leone, South Africa, Tunisia, and Zambia, with 
+ <italic>Z</italic> values of 0.21, − 0.98, 0.98, − 0.97, 0.28, 0.51, − 0.44, 1.08, 1.27, − 1.38, − 0.38, and 0.08, respectively, which are lower than 
+ <inline-formula id="IEq55">
+  <alternatives>
+   <tex-math id="M137">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$Z_{{0.05/2}} = 1.96$$\end{document}</tex-math>
+   <math id="M138">
+    <mrow>
+     <msub>
+      <mi>Z</mi>
+      <mrow>
+       <mn>0.05</mn>
+       <mo stretchy="false">/</mo>
+       <mn>2</mn>
+      </mrow>
+     </msub>
+     <mo>=</mo>
+     <mn>1.96</mn>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq55.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>. Moreover, there were no significant trends in monthly average rainfall in South Africa, Tunisia, and Zambia. In Cameroon and Kenya, the results indicated a significant decreasing rainfall trend in July, whereas Algeria and Sierra Leone observed a positive rainfall pattern in August. In addition, the study found substantial changing patterns in rainfall in May, August, and October for Burkina Faso; October and November for Cote d’Ivoire; June and August for Egypt; October and November for Ghana; July, September, and October for Nigeria; August and September for Morocco; January, February, August, and October for Mali, and August, September, and October for the Gambia.
+</p>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab3">
+ <label>Table 3</label>
+ <caption>
+  <p>Results of the panel unit root tests</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" colspan="4">Deterministic component: individual intercept and trend</th>
+   </tr>
+   <tr>
+    <th align="left">Variables</th>
+    <th align="left">Levin, Lin, &amp; Chu (LLC)</th>
+    <th align="left">Im-Pesaran-Shin (IPS)</th>
+    <th align="left">Augmented Dickey–Fuller (ADF)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">
+     <inline-formula id="IEq67">
+      <alternatives>
+       <tex-math id="M141">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\text{LnCULA}}$$\end{document}</tex-math>
+       <math id="M142">
+        <mtext>LnCULA</mtext>
+       </math>
+       <inline-graphic xlink:href="10668_2021_1621_Article_IEq67.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </alternatives>
+     </inline-formula>
+    </td>
+    <td char="." align="char"> − 1.291*</td>
+    <td char="." align="char"> − 3.218***</td>
+    <td char="." align="char"> − 2.948***</td>
+   </tr>
+   <tr>
+    <td align="left">
+     <inline-formula id="IEq68">
+      <alternatives>
+       <tex-math id="M143">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\text{LnGDPPC}}$$\end{document}</tex-math>
+       <math id="M144">
+        <mtext>LnGDPPC</mtext>
+       </math>
+       <inline-graphic xlink:href="10668_2021_1621_Article_IEq68.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </alternatives>
+     </inline-formula>
+    </td>
+    <td char="." align="char">1.017</td>
+    <td char="." align="char">2.418</td>
+    <td char="." align="char">2.459</td>
+   </tr>
+   <tr>
+    <td align="left">
+     <inline-formula id="IEq69">
+      <alternatives>
+       <tex-math id="M145">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\Delta {\text{LnGDPPC}}$$\end{document}</tex-math>
+       <math id="M146">
+        <mrow>
+         <mi mathvariant="normal">Δ</mi>
+         <mtext>LnGDPPC</mtext>
+        </mrow>
+       </math>
+       <inline-graphic xlink:href="10668_2021_1621_Article_IEq69.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </alternatives>
+     </inline-formula>
+    </td>
+    <td char="." align="char"> − 6.766***</td>
+    <td char="." align="char"> − 11.052***</td>
+    <td char="." align="char"> − 9.988***</td>
+   </tr>
+   <tr>
+    <td align="left">
+     <inline-formula id="IEq70">
+      <alternatives>
+       <tex-math id="M147">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\text{LnPOP}}$$\end{document}</tex-math>
+       <math id="M148">
+        <mtext>LnPOP</mtext>
+       </math>
+       <inline-graphic xlink:href="10668_2021_1621_Article_IEq70.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </alternatives>
+     </inline-formula>
+    </td>
+    <td char="." align="char"> − 20.890***</td>
+    <td char="." align="char"> − 17.757***</td>
+    <td char="." align="char"> − 14.356***</td>
+   </tr>
+   <tr>
+    <td align="left">
+     <inline-formula id="IEq71">
+      <alternatives>
+       <tex-math id="M149">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\text{LnTEMP}}$$\end{document}</tex-math>
+       <math id="M150">
+        <mtext>LnTEMP</mtext>
+       </math>
+       <inline-graphic xlink:href="10668_2021_1621_Article_IEq71.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </alternatives>
+     </inline-formula>
+    </td>
+    <td char="." align="char"> − 10.393***</td>
+    <td char="." align="char"> − 10.871***</td>
+    <td char="." align="char"> − 10.048***</td>
+   </tr>
+   <tr>
+    <td align="left">
+     <inline-formula id="IEq72">
+      <alternatives>
+       <tex-math id="M151">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\text{LnRAIN}}$$\end{document}</tex-math>
+       <math id="M152">
+        <mtext>LnRAIN</mtext>
+       </math>
+       <inline-graphic xlink:href="10668_2021_1621_Article_IEq72.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </alternatives>
+     </inline-formula>
+    </td>
+    <td char="." align="char"> − 9.359***</td>
+    <td char="." align="char"> − 11.306***</td>
+    <td char="." align="char"> − 10.300***</td>
+   </tr>
+   <tr>
+    <td align="left">
+     <inline-formula id="IEq73">
+      <alternatives>
+       <tex-math id="M153">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\text{LnFOSE}}$$\end{document}</tex-math>
+       <math id="M154">
+        <mtext>LnFOSE</mtext>
+       </math>
+       <inline-graphic xlink:href="10668_2021_1621_Article_IEq73.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </alternatives>
+     </inline-formula>
+    </td>
+    <td char="." align="char"> − 1.588**</td>
+    <td char="." align="char"> − 4.709***</td>
+    <td char="." align="char"> − 14.356***</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>****, **, and *indicate 1%, 5%, and 10% levels of significance, respectively. Also, 
+   <inline-formula id="IEq74">
+    <alternatives>
+     <tex-math id="M155">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\Delta$$\end{document}</tex-math>
+     <math id="M156">
+      <mi mathvariant="normal">Δ</mi>
+     </math>
+     <inline-graphic xlink:href="10668_2021_1621_Article_IEq74.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </alternatives>
+   </inline-formula> denotes the first difference operator
+  </p>
+ </table-wrap-foot>
+</table-wrap>

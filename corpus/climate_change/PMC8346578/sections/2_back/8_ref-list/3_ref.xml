@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>De Meester</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Stoks</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Brans</surname>
+    <given-names>KI</given-names>
+   </name>
+  </person-group>
+  <article-title>Genetic adaptation as a biological buffer against climate change: potential and limitations</article-title>
+  <source>Integr. Zool.</source>
+  <year>2018</year>
+  <volume>13</volume>
+  <fpage>372</fpage>
+  <lpage>391</lpage>
+  <pub-id pub-id-type="doi">10.1111/1749-4877.12298</pub-id>
+  <?supplied-pmid 29168625?>
+  <pub-id pub-id-type="pmid">29168625</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Charlson</surname>
+   <given-names>Fiona</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-ijerph-18-04486">1</xref>
+  <xref ref-type="aff" rid="af2-ijerph-18-04486">2</xref>
+  <xref ref-type="aff" rid="af3-ijerph-18-04486">3</xref>
+  <xref rid="c1-ijerph-18-04486" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ali</surname>
+   <given-names>Suhailah</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-ijerph-18-04486">1</xref>
+  <xref ref-type="aff" rid="af2-ijerph-18-04486">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Benmarhnia</surname>
+   <given-names>Tarik</given-names>
+  </name>
+  <xref ref-type="aff" rid="af4-ijerph-18-04486">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pearl</surname>
+   <given-names>Madeleine</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-ijerph-18-04486">1</xref>
+  <xref ref-type="aff" rid="af2-ijerph-18-04486">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Massazza</surname>
+   <given-names>Alessandro</given-names>
+  </name>
+  <xref ref-type="aff" rid="af5-ijerph-18-04486">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Augustinavicius</surname>
+   <given-names>Jura</given-names>
+  </name>
+  <xref ref-type="aff" rid="af6-ijerph-18-04486">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-0744-0688</contrib-id>
+  <name>
+   <surname>Scott</surname>
+   <given-names>James G.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-ijerph-18-04486">1</xref>
+  <xref ref-type="aff" rid="af7-ijerph-18-04486">7</xref>
+  <xref ref-type="aff" rid="af8-ijerph-18-04486">8</xref>
+ </contrib>
+</contrib-group>

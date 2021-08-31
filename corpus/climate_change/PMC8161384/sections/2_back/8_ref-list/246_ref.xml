@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B246-genes-12-00783">
+ <label>246.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Spiegelhalter</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Pearson</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Short</surname>
+    <given-names>I.</given-names>
+   </name>
+  </person-group>
+  <article-title>Visualizing Uncertainty About the Future</article-title>
+  <source>Science</source>
+  <year>2011</year>
+  <volume>333</volume>
+  <fpage>1393</fpage>
+  <lpage>1400</lpage>
+  <pub-id pub-id-type="doi">10.1126/science.1191181</pub-id>
+  <pub-id pub-id-type="pmid">21903802</pub-id>
+ </element-citation>
+</ref>

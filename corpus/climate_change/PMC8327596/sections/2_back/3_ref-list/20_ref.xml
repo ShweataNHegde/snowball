@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mastrandrea</surname>
+    <given-names>MD</given-names>
+   </name>
+   <name>
+    <surname>Mach</surname>
+    <given-names>KJ</given-names>
+   </name>
+   <name>
+    <surname>Plattner</surname>
+    <given-names>GK</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The IPCC AR5 guidance note on consistent treatment of uncertainties: a common approach across the working groups</article-title>
+  <source>Clim Chang</source>
+  <year>2011</year>
+  <volume>108</volume>
+  <fpage>675</fpage>
+  <lpage>691</lpage>
+  <pub-id pub-id-type="doi">10.1007/s10584-011-0178-6</pub-id>
+ </element-citation>
+</ref>

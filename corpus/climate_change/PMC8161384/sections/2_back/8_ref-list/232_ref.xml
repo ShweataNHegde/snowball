@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B232-genes-12-00783">
+ <label>232.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Barghi</surname>
+    <given-names>N.</given-names>
+   </name>
+   <name>
+    <surname>Hermisson</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Schloötterer</surname>
+    <given-names>C.</given-names>
+   </name>
+  </person-group>
+  <article-title>Polygenic adaptation: A unifying framework to understand positive selection</article-title>
+  <source>Nat. Rev. Genet.</source>
+  <year>2020</year>
+  <volume>21</volume>
+  <fpage>769</fpage>
+  <lpage>781</lpage>
+  <pub-id pub-id-type="doi">10.1038/s41576-020-0250-z</pub-id>
+  <pub-id pub-id-type="pmid">32601318</pub-id>
+ </element-citation>
+</ref>

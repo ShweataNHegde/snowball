@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="genes-12-00783-t001" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">genes-12-00783-t001_Table 1</object-id>
+ <label>Table 1</label>
+ <caption>
+  <p>Non-parametric and parametric classification approaches that can assist clustering efforts to differentiate between abiotic stress tolerant and susceptible germplasm accessions. Habitat types and local adaptation to heat and drought stresses can be inferred using climate variables and physiological indices from each accession’s geo-referencing (
+   <xref ref-type="fig" rid="genes-12-00783-f001">Figure 1</xref>b) because crop wild relatives and landraces have occupied local niches (e.g., arid vs. wet regions) long enough as to be shaped by natural selection. Predicted thermal tolerance and water use efficiency, together with other data types (
+   <xref ref-type="fig" rid="genes-12-00783-f001">Figure 1</xref>e,f), can then be merged (
+   <xref ref-type="fig" rid="genes-12-00783-f001">Figure 1</xref>g) in order to identify and unlock novel sources of heat and drought tolerance. The trained classification may also speed-up the utilization of these tolerant variants by genomic-assisted breeding techniques (
+   <xref ref-type="fig" rid="genes-12-00783-f001">Figure 1</xref>i). ML approaches (
+   <xref rid="genes-12-00783-t002" ref-type="table">Table 2</xref>) are also capable of including further data types for more cohesive multi-dimensional predictions (e.g., 
+   <xref ref-type="fig" rid="genes-12-00783-f001">Figure 1</xref>m).
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Approach</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Method</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Description of the Method</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">R Package/Tool</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Method’s Reference</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Example (Accessions × Markers)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+     <bold>Non-Parametric (Reduction-Based)</bold>
+    </td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">K-means</td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Each observation belongs to the cluster with the nearest mean. It minimizes the distance between points labeled to be in a cluster and a point designated as the center (mean)</td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+     <italic>Stats</italic> &amp; 
+     <italic>optCluster</italic>
+    </td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">[
+     <xref rid="B79-genes-12-00783" ref-type="bibr">79</xref>,
+     <xref rid="B80-genes-12-00783" ref-type="bibr">80</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Maize—2022 × 65,995 [
+     <xref rid="B81-genes-12-00783" ref-type="bibr">81</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ryegrass—1757 × 1,005,590 [
+     <xref rid="B82-genes-12-00783" ref-type="bibr">82</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Partitioning Around Medoids (PAM)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">It minimizes the distance between points labeled to be in a cluster and a point designated as the center (medoid) of that cluster. PAM chooses data points as centers (medoid) and works with a generalization of the Manhattan Norm to define data points distance </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>cluster</italic> &amp; 
+     <italic>optCluster</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B83-genes-12-00783" ref-type="bibr">83</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Maize—260 × 11,296,689 [
+     <xref rid="B84-genes-12-00783" ref-type="bibr">84</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Clustering large applications (CLARA)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">It extracts multiple sample sets from the dataset and uses the best cluster as output. It uses PAM for each sample</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>cluster</italic> &amp; 
+     <italic>optCluster</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B83-genes-12-00783" ref-type="bibr">83</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">90 × 5000 [
+     <xref rid="B85-genes-12-00783" ref-type="bibr">85</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="6" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+     <bold>Non-Parametric (Distance-Based)</bold>
+    </td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Hierarchical clustering (Hclust)</td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">It is a method of cluster analysis that seeks to build a hierarchy of clusters</td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+     <italic>hclust</italic> &amp; 
+     <italic>optCluster</italic>
+    </td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">[
+     <xref rid="B86-genes-12-00783" ref-type="bibr">86</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Barley—1816 × 1416 &amp; Wheat—478 × 219 [
+     <xref rid="B87-genes-12-00783" ref-type="bibr">87</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Oat—131 × 3567 [
+     <xref rid="B88-genes-12-00783" ref-type="bibr">88</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DIANA (Divisive analysis)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">It first places all objects in a cluster and then subdivides them into smaller clusters until the desired number of clusters is obtained</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>cluster</italic> &amp; 
+     <italic>optCluster</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B83-genes-12-00783" ref-type="bibr">83</xref>]
+    </td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">These algorithms were systematically compared, and included K-means, PAM, CLARA, Hclust, DIANA, and AGNES [
+     <xref rid="B89-genes-12-00783" ref-type="bibr">89</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Agglomerative Nesting (AGNES)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">It initially takes each object as a cluster, afterwards the clusters are merged step by step according to certain criteria, using a single-link method</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>cluster</italic> &amp; 
+     <italic>optCluster</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B83-genes-12-00783" ref-type="bibr">83</xref>,
+     <xref rid="B90-genes-12-00783" ref-type="bibr">90</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">AWclust</td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">The first step of AWclust is to construct the ASD matrix between all pairs of individuals in the sample. The second step is to apply hierarchical clustering to infer clusters of individuals from the ASD matrix using Ward’s minimum variance algorithm</td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+     <italic>AWclust</italic>
+    </td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">[
+     <xref rid="B91-genes-12-00783" ref-type="bibr">91</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Olive—94 × 8088 [
+     <xref rid="B92-genes-12-00783" ref-type="bibr">92</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pepper—222 × 32,950 [
+     <xref rid="B93-genes-12-00783" ref-type="bibr">93</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+     <bold>Parametric</bold>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">TESS3</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Geography is one of the most important determinants of genetic variation in natural populations. Using genotypic and geographic data, 
+     <italic>tess3r</italic> provides estimates of landscape population genetic structure
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>tess3r</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B94-genes-12-00783" ref-type="bibr">94</xref>]
+    </td>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">These algorithms have been widely used and compared among them [
+     <xref rid="B95-genes-12-00783" ref-type="bibr">95</xref>], and with other non-parametric methods [
+     <xref rid="B96-genes-12-00783" ref-type="bibr">96</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">fast STRUCTURE</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">STRUCTURE uses the core Bayesian principle of comparing likelihoods. Prior information about study samples can be supplied to further shape the unsupervised clustering</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <italic>fast STRUCTURE</italic>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B97-genes-12-00783" ref-type="bibr">97</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

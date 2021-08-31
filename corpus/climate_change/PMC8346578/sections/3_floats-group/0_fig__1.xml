@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <title>Illustration of our modeling framework.</title>
+  <p>There are several patches hosting local communities, arranged linearly along a latitudinal gradient. Patch color represents the local average temperature, with warmer colors corresponding to higher temperatures. The graph depicts the community of a single patch, with four species present. They are represented by the colored areas showing the distributions of their temperature optima, with the area under each curve equal to the population density of the corresponding species. The green species is highlighted for purposes of illustration. Each species has migrants to adjacent patches (independent of local adaptedness), as well as immigrants from them (arrows from and to the green species; the distributions with dashed lines show the trait distributions of the green species' immigrant individuals). The purple line is the intrinsic growth rate of a phenotype in the patch, as a function of its local temperature optimum (this optimum differs across patches, which is why the immigrants are slightly maladapted to the temperature of the focal patch.) Both local population densities and local adaptedness are changed by the constant interplay of temperature-dependent intrinsic growth, competition with other species in the same patch, immigration to or emigration from neighboring patches, and (in certain realizations of the model) pressure from consumer species.</p>
+ </caption>
+ <graphic xlink:href="41467_2021_24977_Fig1_HTML" id="d32e471" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

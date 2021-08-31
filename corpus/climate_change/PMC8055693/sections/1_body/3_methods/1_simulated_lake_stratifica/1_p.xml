@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par19">There is no universal definition of stratification in lakes, but water density thresholds are often used
+ <sup>
+  <xref ref-type="bibr" rid="CR42">42</xref>,
+  <xref ref-type="bibr" rid="CR43">43</xref>
+ </sup>. In this investigation, the onset and break-up of stratification were calculated from simulated lake temperature data (see below) and defined as the first and last day of year, respectively, in which a temperature-driven density difference of 0.1 kg m
+ <sup>−3</sup> existed between surface and bottom waters. Other density thresholds could also have been used, which could influence the derived stratification metrics. However, in this study we follow the Inter-Sectoral Impact Model Intercomparison Project (ISIMIP) lake sector protocol and define stratified conditions based on the aforementioned vertical density difference. Furthermore, the onset and break-up of thermal stratification were identified as the start and end date of the longest thermally stratified period in each studied lake—thus ignoring intermittent stratified events during the transitional periods of summer stratification. Furthermore, the start and end date of stratification was only investigated for each 0.5° grid where the seasonal mixing regime resembled that of monomictic or dimictic lakes. These lake mixing regimes were defined following the same procedure as ref. 
+ <sup>
+  <xref ref-type="bibr" rid="CR44">44</xref>
+ </sup> to simulate the mixing regime of lakes worldwide. Dimictic lakes are those that experience two vertical mixing events per year (i.e. during spring and autumn following the inversely stratified period in winter and the positively stratified period in summer), and monomictic lakes are those that experience one full vertical mixing event (i.e. vertically mix during the autumn following the summer stratified period and usually do not inversely stratify in winter).
+</p>

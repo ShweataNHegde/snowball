@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R65">
+ <label>65</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Brown</surname>
+    <given-names>L</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Murray</surname>
+    <given-names>V</given-names>
+   </string-name>
+  </person-group>. 
+  <article-title>Examining the relationship between infectious diseases and flooding in Europe: a systematic literature review and summary of possible public health interventions</article-title>. 
+  <source>Disaster Health</source>
+  <year>2013</year>;
+  <volume>1</volume>:
+  <fpage>117</fpage>–
+  <lpage>27</lpage>. 
+  <pub-id pub-id-type="doi">10.4161/dish.25216</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/28228994?>
+  <pub-id pub-id-type="pmid">28228994</pub-id>
+ </mixed-citation>
+</ref>

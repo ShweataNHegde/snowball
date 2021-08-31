@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Finally, to determine effects of breeding site conditions on nest success we included standardized precipitation during the breeding period (June‐August) as well as an index of fox presence (Fischer et al., 
+ <xref rid="ece37873-bib-0023" ref-type="bibr">2017</xref>). The YKD can experience intense storms along the coast that may cause flooding and total nest failure. Precipitation data were recorded at Bethel Airport in Bethel, Alaska at the National Weather Service Cooperative Network station (Western Regional Climate Center, 
+ <xref rid="ece37873-bib-0094" ref-type="bibr">2019</xref>). Bethel, AK is 108 miles east of Kigigak Island; however, it is the closest weather station. Both arctic foxes (
+ <italic toggle="yes">Vulpes lagopus</italic>) and red foxes (
+ <italic toggle="yes">Vulpes vulpes</italic>) can be found on the YKD and are known nest predators of waterfowl in the region. During nest plot surveys on the YKD, the proportion of nests plots with recent fox sign (e.g., observed fox, scat, fur, tracks, and/or active dens) is recorded annually and we used this as an index of fox presence on the breeding grounds (refer to Table 5 in Fischer et al., 
+ <xref rid="ece37873-bib-0023" ref-type="bibr">2017</xref>). In addition to the quadratic term for extreme ice days, we also included linear terms for precipitation and fox presence in the model for nest success and used a linear model on the logit scale. Prior distributions for all parameters including the regression coefficients are described in Table 
+ <xref rid="ece37873-tbl-0002" ref-type="table">2</xref>. All covariates were z‐standardized with mean = 0 and standard deviation = 1.
+</p>

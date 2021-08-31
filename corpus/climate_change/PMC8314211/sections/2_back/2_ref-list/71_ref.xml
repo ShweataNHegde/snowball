@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B71">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Waldvogel</surname>
+    <given-names>A. M.</given-names>
+   </name>
+   <name>
+    <surname>Feldmeyer</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Rolshausen</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Exposito-Alonso</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Rellstab</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Kofler</surname>
+    <given-names>R.</given-names>
+   </name>
+   <etal/>
+  </person-group> (
+  <year>2020</year>). 
+  <article-title>Evolutionary genomics can improve prediction of species’ responses to climate change.</article-title>
+  <source>
+   <italic>Evol. Lett.</italic>
+  </source>
+  <volume>4</volume>
+  <fpage>4</fpage>–
+  <lpage>18</lpage>. 
+  <pub-id pub-id-type="doi">10.1002/evl3.154</pub-id>
+  <?supplied-pmid 32055407?>
+  <pub-id pub-id-type="pmid">32055407</pub-id>
+ </mixed-citation>
+</ref>

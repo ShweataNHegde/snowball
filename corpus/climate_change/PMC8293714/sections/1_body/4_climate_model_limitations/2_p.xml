@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Climate modeling has several limitations based on assumptions that are made regarding the data used and the methods used to assess potential changes in the key factors of a species’ survival (Milanovich et al., 
+ <xref rid="ece37735-bib-0052" ref-type="bibr">2010</xref>). While some methods might outperform MaxEnt in some scenarios (Vasilakos et al., 
+ <xref rid="ece37735-bib-0095" ref-type="bibr">2020</xref>), and could be explored with other data layers, several studies on salamanders have used similar methods successfully in recent years and offer relevant comparisons to our study (Antunes et al., 
+ <xref rid="ece37735-bib-0001" ref-type="bibr">2021</xref>; Zellmer et al., 
+ <xref rid="ece37735-bib-0106" ref-type="bibr">2020</xref>). Yet, such modeling lacks quantification of a species’ ability to disperse, ignores potential for evolutionary change, and fails to account for biotic impacts, assuming that climate is the greatest driving factor of a species distribution (Jackson &amp; Sax, 
+ <xref rid="ece37735-bib-0036" ref-type="bibr">2010</xref>; Saupe et al., 
+ <xref rid="ece37735-bib-0074" ref-type="bibr">2012</xref>; Soberón et al., 
+ <xref rid="ece37735-bib-0080" ref-type="bibr">2007</xref>). Despite these limitations, such modeling efforts are beneficial in order to determine the validity of various predictions in the future (Esser et al., 
+ <xref rid="ece37735-bib-0025" ref-type="bibr">2019</xref>; Zhang et al., 
+ <xref rid="ece37735-bib-0108" ref-type="bibr">2019</xref>). Finally, in order to computationally assess a species’ niche with fidelity, many of the aforementioned factors could be used together. To achieve these feats would be a tremendous undertaking, as consideration of the implications of a high number of variables and their interactions will compound the need for more species‐specific data and may result in over‐parameterizing models. Therefore, distribution modeling is worthwhile as a stepping stone to achieve greater understanding of the impact individual environmental factors have on species’ distributions.
+</p>

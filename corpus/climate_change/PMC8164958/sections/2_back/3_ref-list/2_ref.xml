@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Aherfi</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Colson</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>La Scola</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Raoult</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>Giant viruses of Amoebas: An Update</article-title>
+  <source>Front Microbiol</source>
+  <year>2016</year>
+  <volume>7</volume>
+  <fpage>349</fpage>
+  <pub-id pub-id-type="doi">10.3389/fmicb.2016.00349</pub-id>
+  <pub-id pub-id-type="pmid">27047465</pub-id>
+ </element-citation>
+</ref>

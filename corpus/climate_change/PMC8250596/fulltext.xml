@@ -1,0 +1,139 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="editorial"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><?covid-19-tdm?><front><journal-meta><journal-id journal-id-type="nlm-ta">Integr Environ Assess Manag</journal-id><journal-id journal-id-type="iso-abbrev">Integr Environ Assess Manag</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1551-3793</journal-id><journal-id journal-id-type="publisher-id">IEAM</journal-id><journal-title-group><journal-title>Integrated Environmental Assessment and Management</journal-title></journal-title-group><issn pub-type="ppub">1551-3777</issn><issn pub-type="epub">1551-3793</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">8250596</article-id><article-id pub-id-type="pmid">33887107</article-id><article-id pub-id-type="doi">10.1002/ieam.4398</article-id><article-id pub-id-type="publisher-id">IEAM4398</article-id><article-categories><subj-group subj-group-type="overline"><subject>Editorial</subject></subj-group><subj-group subj-group-type="heading"><subject>Editorial</subject></subj-group></article-categories><title-group><article-title>Science in Service of Society: COVID&#x02010;19, Climate Change, and the Future</article-title></title-group><contrib-group><contrib id="ieam4398-cr-0001" contrib-type="author" corresp="yes"><name><surname>Apitz</surname><given-names>Sabine E</given-names></name><role>IEAM Deputy Editor</role><xref ref-type="aff" rid="ieam4398-aff-0001">
+<sup>1</sup>
+</xref><address><email>drsea@cvrl.org</email></address></contrib></contrib-group><aff id="ieam4398-aff-0001">
+<label><sup>1</sup></label>
+<institution>Director, SEA Environmental Decisions</institution>
+<country country="GB">UK</country>
+</aff><pub-date pub-type="epub"><day>22</day><month>4</month><year>2021</year></pub-date><pub-date pub-type="ppub"><month>5</month><year>2021</year></pub-date><volume>17</volume><issue>3</issue><issue-id pub-id-type="doi">10.1002/ieam.v17.3</issue-id><fpage>495</fpage><lpage>497</lpage><history><date date-type="received"><day>01</day><month>2</month><year>2021</year></date><date date-type="accepted"><day>01</day><month>2</month><year>2021</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright">&#x000a9; 2021 SETAC<copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2021 SETAC</copyright-statement><license><license-p>This article is being made freely available through PubMed Central as part of the COVID-19 public health emergency response. It can be used for unrestricted research re-use and analysis in any form or by any means with acknowledgement of the original source, for the duration of the public health emergency.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:IEAM-17-495.pdf"/><counts><fig-count count="0"/><table-count count="0"/><page-count count="2"/><word-count count="0"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 2021</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.0.4 mode:remove_FC converted:02.07.2021</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>This year seems to have simultaneously lasted 5 minutes and a thousand years. These times feel both momentous and uncertain&#x02014;times that make one wonder about one's role, and the role of science, in shining a light in the darkness. As I pondered what I could say here to our readership, I took it upon myself to read all 70 editorials <italic>Integrated Environmental Assessment and Management</italic> (<italic>IEAM</italic>) has published in our 17 volumes, an exercise I highly recommend. The first editorial of most volumes is a message from the Society of Environmental Toxicology and Chemistry (SETAC) Executive Director, setting a vision for SETAC and the journal's role, laying out new initiatives, or flagging trends. A handful are about the business of being a journal&#x02014;thoughtful discussions on reviews, impact factors, data openness, and similar subjects&#x02014;reminding us that SETAC journals have sought to ensure that we are ethical, transparent, balanced, and relevant.</p><p>Some editorials promoted initiatives of interest to SETAC&#x02014;global horizon scanning, harmonization, nature&#x02010;based solutions, chemical governance. Others skewered sacred cows, such as the use of indices, no&#x02010;observed&#x02010;effect levels (NOELs), lowest&#x02010;observed&#x02010;effect levels (LOELs), and resource efficiency as the key to sustainability. Many sent up a flag for contaminants or issues of emerging concern or focus such as Se, algal blooms, chemical mixtures, pollinator status, and global climate change (GCC). Others explored framing concepts such as ecological risk assessment, life cycle assessment (LCA), sustainability (and sustainable development goals [SDGs]), ecosystem services (ES), and resilience. The role of these integrating tools in addressing wicked problems was discussed in an evolving dialogue between editors and readers.</p><p>Not surprisingly, however, for a journal that seeks to address science&#x02010;informed decision making, almost a third of the editorials explored the role of science or scientists (very different things) in regulation, decision making, policy, and communication. The foci and viewpoints were wide&#x02010;ranging, often depending on the sector of the authors&#x02014;academics, for example, often had different takes than did regulators or consultants. We mused about the importance of making data transparent and relevant, while avoiding normative science. We explored science communication and stakeholder engagement, evaluating how we can better support societal decision making.</p><p>Having explored these issues for a dozen years, it was with some confidence, and a deepening awareness that the global clock was ticking and that changes were accelerating, that we opened our 13<sup>th</sup> volume in 2017 by providing recommendations to the (yet to be elected at time of writing) incoming United States president (Apitz, Attanasio et al.&#x000a0;<xref rid="ieam4398-bib-0003" ref-type="ref">2017</xref>). We suggested that they consider investments in science education; environmental protection; recognition of the interdependence of economic vitality, environmental quality, and social equity; as well as cross&#x02010;sectoral and global collaboration, to promote global security through sustainable ecological productivity.</p><p>Needless to say, our recommendations fell upon deaf ears. Only 3 issues later, we were warning about the consequences of growing trends in science denialism, &#x0201c;alternative facts,&#x0201d; isolationism, and politicization (Apitz, Backhaus et al.&#x000a0;<xref rid="ieam4398-bib-0004" ref-type="ref">2017</xref>). Although these were not new issues, in the United States or internationally, the ferocity of their increase was alarming. We (and others) called upon scientists and others to make their work understandable, to engage with the public and decision makers, and to expose scientific fraud and respond to alternative facts in a way that was understandable and acceptable to the general public, or face dire, global consequences.</p><p>In a mildly written primal scream, Wenning (<xref rid="ieam4398-bib-0009" ref-type="ref">2020</xref>) laid out the myriad ways in which an administration that values neither science nor environmental protection can and had rolled back environmental and public health measures in just 1 term. Although now, a new, weeks&#x02010;old (as of this writing) administration has rejoined the Paris Climate Accord, reversed some major initiatives, and elevated science to the Cabinet level, precious time was and is dribbling away. With each passing year, the global impacts of our actions become more apparent and less reversible. Attanasio (<xref rid="ieam4398-bib-0005" ref-type="ref">2020</xref>) explored the concept of &#x0201c;ecological grief,&#x0201d; resilience, and the balance between dispassionate science and an acknowledgement of deep trauma and loss. Our choices, in balancing avoidance, mitigation, and adaptation measures become more limited, and potentially less effective, as time passes.</p><p>Yet, in the last year, attention to these issues has, to some extent, been drawn away by the global pandemic. As countless commentators have told us (I failed to find the original source), COVID&#x02010;19 can be seen as a &#x0201c;dress rehearsal for climate change&#x0201d;&#x02014;the deeply politicized responses, and role of science, can be seen as a dire warning, and a teachable moment.
+<disp-quote content-type="quotation"><p>COVID&#x02010;19 has provided a real&#x02010;time demonstration of the science&#x02013;policy interface and an illustration of many concepts we often struggle to communicate.</p></disp-quote>
+</p><p>COVID&#x02010;19 has provided a real&#x02010;time demonstration of the science&#x02013;policy interface and an illustration of many concepts we often struggle to communicate. I (and many others) have used source&#x02013;pathway&#x02013;receptor concepts to explain how one can make (and adapt) personal protection equipment (PPE) decisions as our understanding of the virus and its transmission evolves. When some have used the uncertainty inherent in COVID&#x02010;19 tests to cast doubt on infection and death rates, we have had conversations on how policy makers balance the risks of false positives and false negatives, depending on what decisions tests are informing (and how all tests have uncertainty). This has led to discussions on the precautionary principle and how one manages risk in the face of uncertainty.</p><p>We have used LCA concepts to address the balance between reusable and disposable PPE, and to discuss how slow&#x02010;developing efforts to reduce our use of single&#x02010;use bags, cups, et cetera has been impacted by COVID&#x02010;19. Similarly, although some will exploit the fact that policy is changing as our understanding evolves, this also provides a clear illustration of how science (and the science&#x02013;policy interface) works&#x02014;how we learn as we go, challenge hypotheses with evolving data, and revise and adapt. Studies have illustrated that lockdown resulted in (some) reduced emissions, although many bounced back (e.g., Liu et al.&#x000a0;<xref rid="ieam4398-bib-0008" ref-type="ref">2020</xref>) or were displaced by other impacts. Such lessons can help us frame discussions on sustainable living and working, decarbonization, and other strategies for combatting climate change.</p><p>Allen et al. (<xref rid="ieam4398-bib-0001" ref-type="ref">2003</xref>) tell us that to make decisions to sustainably balance our needs, we must ask what we want to sustain, for whom, for how long, and at what cost. Apitz (<xref rid="ieam4398-bib-0002" ref-type="ref">2018</xref>) adds that we must also consider who provides the answers. Who, indeed? In those nations with established or growing autocratic tendencies, we have seen science silenced, falsified, co&#x02010;opted, or used as a fig leaf. In other countries, it has, to differing degrees, been utilized to support decision making. However, as much as it has been distressing to see science ignored, it has also been disturbing to have it fetishized. Some have criticized politicians for failing to &#x0201c;obey&#x0201d; the science, suggesting that science alone can make, rather than inform, decisions. Ideally, transparent science is part of a deliberative process, in which the best available models and data are used to help decision makers seek to solve terrible political equations, with trade&#x02010;offs, winners, and losers. Uncertainty is made clear, and the roles of precaution and adaptation are communicated and baked into systems. The role of science in this policy making, and its effects, are writ large, with the results of different national experiments clearly visible to those with the stomach to look.</p><p>A consideration of how risks and benefits of decisions are distributed should also be part of the equation. It is apparent that both the health and economic impacts of COVID&#x02010;19 have been disproportionately felt by poorer, sicker, and more vulnerable communities. However, richer countries have not necessarily found that their wealth has protected them, in the same year that wildfires, storms, and floods made clear that they were also not protected from the impacts of GCC. In some places, the false divisions between protection of the economy, human health, and the environment have resulted in more damage to all, and it is increasingly clear that economic and health inequity puts whole nations at risk. Those nations that provided humane support and shelter for individuals who needed to isolate often had better community outcomes than those that expected people to fend for themselves. Anyone who does not recognize that COVID&#x02010;19 and the increasing number of zoonotic diseases are dis&#x02010;services, stemming from our management of the environment and our food systems, has not been paying attention. Never has there been a starker demonstration of the need for One Health thinking (<ext-link ext-link-type="uri" xlink:href="https://www.who.int/news-room/q-a-detail/one-health">https://www.who.int/news-room/q-a-detail/one-health</ext-link>) and an acceptance that human and economic health are entirely dependent upon functioning ecosystems. There is growing recognition of the critical role of green and blue spaces for our physical, mental, and spiritual health, highlighting the less tangible services that ecosystems provide. Sustainable development goals are for all.</p><p>The global response to COVID&#x02010;19 has taught us something else: In times of great danger, we can (but may not) make substantial changes to our lifestyles. Now, a year into the pandemic, there are glimmers of hope among the grave uncertainties&#x02014;vaccines have been developed, and there may be a time, after this period of terrible loss, when we emerge, battered and blinking, into the world. Pandemics have often triggered major social and political shifts. Changing system constraints lead one to different answers to the 4 sustainability questions (Kapustka et al.&#x000a0;<xref rid="ieam4398-bib-0007" ref-type="ref">2013</xref>) as we enter into a brave new world. Do we want to rush to return to an unattainable, and unsustainable, status quo, or will we use this time as an opportunity to re&#x02010;think the societies and world we want to live in and leave to our children? We have the opportunity, and the tools, to help frame, inform, and to some extent, guide such decisions. Chapman (<xref rid="ieam4398-bib-0006" ref-type="ref">2016</xref>) told us to &#x0201c;be virtuous and serve science well.&#x0201d; If we do this, rising above current extreme and polarizing political discourses, we can also serve society, navigating the treacherous path ahead of us all.</p></body><back><ref-list id="ieam4398-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="ieam4398-bib-0001"><mixed-citation publication-type="book" id="ieam4398-cit-0001">
+<string-name>
+<surname>Allen</surname>
+<given-names>TFH</given-names>
+</string-name>, <string-name>
+<surname>Tainter</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Hoekstra</surname>
+<given-names>TW</given-names>
+</string-name>. <year>2003</year>. <source xml:lang="en">Supply&#x02010;side sustainability</source>. <publisher-loc>New York</publisher-loc>: <publisher-name>Columbia Univ Pr</publisher-name>. <fpage>459</fpage> p.</mixed-citation></ref><ref id="ieam4398-bib-0002"><mixed-citation publication-type="journal" id="ieam4398-cit-0002">
+<string-name>
+<surname>Apitz</surname>
+<given-names>SE</given-names>
+</string-name>. <year>2018</year>. <article-title>Considering the values stakeholders wish to sustain in decision making (Editorial)</article-title>. <source xml:lang="en">Integr Environ Assess Manag</source>
+<volume>14</volume>(<issue>6</issue>):<fpage>670</fpage>&#x02013;<lpage>671</lpage>. <pub-id pub-id-type="doi">10.1002/ieam.4097</pub-id>
+<pub-id pub-id-type="pmid">30318726</pub-id></mixed-citation></ref><ref id="ieam4398-bib-0003"><mixed-citation publication-type="journal" id="ieam4398-cit-0003">
+<string-name>
+<surname>Apitz</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Attanasio</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Backhaus</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Barnthouse</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Batley</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Brauman</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Brooks</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Chapman</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Griffin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kapustka</surname>
+<given-names>L</given-names>
+</string-name> et al. <year>2017</year>. <article-title>Environmental policy recommendations for the new US president (Editorial)</article-title>. <source xml:lang="en">Integr Environ Assess Manag</source>
+<volume>11</volume>(<issue>1</issue>):<fpage>7</fpage>. <pub-id pub-id-type="doi">10.1002/ieam.1856</pub-id>
+</mixed-citation></ref><ref id="ieam4398-bib-0004"><mixed-citation publication-type="journal" id="ieam4398-cit-0004">
+<string-name>
+<surname>Apitz</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Backhaus</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Chapman</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Landis</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Suter</surname>
+<given-names>G</given-names>
+</string-name>. <year>2017</year>. <article-title>Science, anti&#x02010;science, and environmental decision making: A call to action (Editorial)</article-title>. <source xml:lang="en">Integr Environ Assess Manag</source>
+<volume>13</volume>(<issue>4</issue>):<fpage>557</fpage>&#x02013;<lpage>559</lpage>. <pub-id pub-id-type="doi">10.1002/ieam.1937</pub-id>
+<pub-id pub-id-type="pmid">28613028</pub-id></mixed-citation></ref><ref id="ieam4398-bib-0005"><mixed-citation publication-type="journal" id="ieam4398-cit-0005">
+<string-name>
+<surname>Attanasio</surname>
+<given-names>R</given-names>
+</string-name>. <year>2020</year>. <article-title>The dispassionate observer and the grieving environmental scientist (Editorial)</article-title>. <source xml:lang="en">Integr Environ Assess Manag</source>
+<volume>16</volume>(<issue>2</issue>):<fpage>164</fpage>&#x02013;<lpage>165</lpage>. <pub-id pub-id-type="doi">10.1002/ieam.4241</pub-id>
+<pub-id pub-id-type="pmid">32097536</pub-id></mixed-citation></ref><ref id="ieam4398-bib-0006"><mixed-citation publication-type="journal" id="ieam4398-cit-0006">
+<string-name>
+<surname>Chapman</surname>
+<given-names>PM</given-names>
+</string-name>. <year>2016</year>. <article-title>How to review and edit scientific manuscripts (Editorial)</article-title>. <source xml:lang="en">Integr Environ Assess Manag</source>
+<volume>12</volume>(<issue>4</issue>):<fpage>608</fpage>&#x02013;<lpage>609</lpage>. <pub-id pub-id-type="doi">10.1002/ieam.1813</pub-id>
+<pub-id pub-id-type="pmid">27640405</pub-id></mixed-citation></ref><ref id="ieam4398-bib-0007"><mixed-citation publication-type="journal" id="ieam4398-cit-0007">
+<string-name>
+<surname>Kapustka</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>McCormick</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Stahl</surname>
+<given-names>C</given-names>
+</string-name>. <year>2013</year>. <article-title>Informing the sustainability dialogue (Editorial)</article-title>. <source xml:lang="en">Integr Environ Assess Manag</source>
+<volume>9</volume>(<issue>3</issue>):<fpage>355</fpage>&#x02013;<lpage>356</lpage>. <pub-id pub-id-type="doi">10.1002/ieam.1435</pub-id>
+<pub-id pub-id-type="pmid">23847162</pub-id></mixed-citation></ref><ref id="ieam4398-bib-0008"><mixed-citation publication-type="journal" id="ieam4398-cit-0008">
+<string-name>
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Ciais</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Lei</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Cui</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Dou</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>B</given-names>
+</string-name> et al. <year>2020</year>. <article-title>Near-real-time monitoring of global CO2 emissions reveals the effects of the COVID-19 pandemic</article-title>. <source xml:lang="en">Nature Communications</source> 11:5172. <pub-id pub-id-type="doi">10.1038/s41467-020-18922-7</pub-id>
+</mixed-citation></ref><ref id="ieam4398-bib-0009"><mixed-citation publication-type="journal" id="ieam4398-cit-0009">
+<string-name>
+<surname>Wenning</surname>
+<given-names>RJ</given-names>
+</string-name>. <year>2020</year>. <article-title>Science does not stand in the way of this president (Editorial)</article-title>. <source xml:lang="en">Integr Environ Assess Manag</source>
+<volume>16</volume>(<issue>5</issue>):<fpage>557</fpage>&#x02013;<lpage>559</lpage>. <pub-id pub-id-type="doi">10.1002/ieam.4319</pub-id>
+</mixed-citation></ref></ref-list></back></article>

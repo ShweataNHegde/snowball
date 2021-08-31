@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR9">
+ <label>9.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Duarte</surname>
+    <given-names>CM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Rebuilding marine life</article-title>
+  <source>Nature</source>
+  <year>2020</year>
+  <volume>580</volume>
+  <fpage>39</fpage>
+  <lpage>51</lpage>
+  <pub-id pub-id-type="doi">10.1038/s41586-020-2146-7</pub-id>
+  <?supplied-pmid 32238939?>
+  <pub-id pub-id-type="pmid">32238939</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Åkesson</surname>
+   <given-names>Anna</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6870-7924</contrib-id>
+  <name>
+   <surname>Curtsdotter</surname>
+   <given-names>Alva</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-2721-0051</contrib-id>
+  <name>
+   <surname>Eklöf</surname>
+   <given-names>Anna</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ebenman</surname>
+   <given-names>Bo</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1861-5030</contrib-id>
+  <name>
+   <surname>Norberg</surname>
+   <given-names>Jon</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7355-3664</contrib-id>
+  <name>
+   <surname>Barabás</surname>
+   <given-names>György</given-names>
+  </name>
+  <address>
+   <email>gyorgy.barabas@liu.se</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.5640.7</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2162 9922</institution-id>
+   <institution>Division of Theoretical Biology, Dept. IFM, </institution>
+   <institution>Linköping University, </institution>
+  </institution-wrap>Linköping, Sweden 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.1020.3</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 7371</institution-id>
+   <institution>Insect Ecology Lab, Zoology, </institution>
+   <institution>The University of New England, </institution>
+  </institution-wrap>Armidale, NSW Australia 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.10548.38</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 9377</institution-id>
+   <institution>Department of Ecology, </institution>
+   <institution>Environment and Plant Sciences Stockholm University, </institution>
+  </institution-wrap>Stockholm, Sweden 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.5018.c</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2149 4407</institution-id>
+   <institution>MTA-ELTE Theoretical Biology and Evolutionary Ecology Research Group, </institution>
+  </institution-wrap>Budapest, Hungary 
+ </aff>
+</contrib-group>

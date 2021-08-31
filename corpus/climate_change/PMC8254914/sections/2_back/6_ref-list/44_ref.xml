@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR44">
+ <label>44.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Orduña-Malea</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Ayllón</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Martín-Martín</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>López-Cózar</surname>
+    <given-names>ED</given-names>
+   </name>
+  </person-group>
+  <article-title>Methods for estimating the size of Google Scholar</article-title>
+  <source>Scientometrics.</source>
+  <year>2015</year>
+  <volume>104</volume>
+  <issue>3</issue>
+  <fpage>931</fpage>
+  <lpage>949</lpage>
+  <pub-id pub-id-type="doi">10.1007/s11192-015-1614-6</pub-id>
+ </element-citation>
+</ref>

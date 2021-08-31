@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par11">To examine trends in climatic variability across Africa, we employed two nonparametric techniques: the Mann–Kendall test and Sen’s slope estimator (Pickson et al., 
+ <xref ref-type="bibr" rid="CR69">2020</xref>). These tests ascertain trends in climatic variability and establish the corresponding magnitude. The Mann–Kendall test (Kendall, 
+ <xref ref-type="bibr" rid="CR45">1975</xref>; Mann, 
+ <xref ref-type="bibr" rid="CR51">1945</xref>) is a nonparametric technique employed to determine time-series trends. The Mann–Kendall test empirically verifies the null hypothesis that ‘there is no trend’ or the alternative hypothesis that ‘there is a decreasing or rising monotonic trend’. The null hypothesis assumes that observations (
+ <inline-formula id="IEq11">
+  <alternatives>
+   <tex-math id="M25">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$C_{i}$$\end{document}</tex-math>
+   <math id="M26">
+    <msub>
+     <mi>C</mi>
+     <mi>i</mi>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq11.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>) are independently ordered at random. Therefore, the statistic (
+ <italic>S</italic>) of the Mann–Kendall test is estimated as:
+ <disp-formula id="Equ3">
+  <label>3</label>
+  <alternatives>
+   <tex-math id="M27">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$S = \mathop \sum \limits_{{k = 1}}^{{n - 1}} \mathop \sum \limits_{{j = k + 1}}^{n} \text{sgn} \left( {C_{j} - C_{k} } \right)$$\end{document}</tex-math>
+   <math id="M28" display="block">
+    <mrow>
+     <mi>S</mi>
+     <mo>=</mo>
+     <munderover>
+      <mo movablelimits="false">∑</mo>
+      <mrow>
+       <mrow>
+        <mi>k</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+       </mrow>
+      </mrow>
+      <mrow>
+       <mi>n</mi>
+       <mo>-</mo>
+       <mn>1</mn>
+      </mrow>
+     </munderover>
+     <munderover>
+      <mo movablelimits="false">∑</mo>
+      <mrow>
+       <mrow>
+        <mi>j</mi>
+        <mo>=</mo>
+        <mi>k</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+       </mrow>
+      </mrow>
+      <mi>n</mi>
+     </munderover>
+     <mtext>sgn</mtext>
+     <mfenced close=")" open="(">
+      <mrow>
+       <msub>
+        <mi>C</mi>
+        <mi>j</mi>
+       </msub>
+       <mo>-</mo>
+       <msub>
+        <mi>C</mi>
+        <mi>k</mi>
+       </msub>
+      </mrow>
+     </mfenced>
+    </mrow>
+   </math>
+   <graphic xlink:href="10668_2021_1621_Article_Equ3.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>where 
+ <inline-formula id="IEq12">
+  <alternatives>
+   <tex-math id="M29">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$C_{j}$$\end{document}</tex-math>
+   <math id="M30">
+    <msub>
+     <mi>C</mi>
+     <mi>j</mi>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq12.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> and 
+ <inline-formula id="IEq13">
+  <alternatives>
+   <tex-math id="M31">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$C_{k}$$\end{document}</tex-math>
+   <math id="M32">
+    <msub>
+     <mi>C</mi>
+     <mi>k</mi>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq13.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> indicate the data scores in time-series 
+ <inline-formula id="IEq14">
+  <alternatives>
+   <tex-math id="M33">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$j~{\text{and~}}k~\left( {j &gt; k} \right)$$\end{document}</tex-math>
+   <math id="M34">
+    <mrow>
+     <mi>j</mi>
+     <mspace width="3.33333pt"/>
+     <mrow>
+      <mtext>and</mtext>
+      <mspace width="0.333333em"/>
+     </mrow>
+     <mi>k</mi>
+     <mspace width="3.33333pt"/>
+     <mfenced close=")" open="(">
+      <mrow>
+       <mi>j</mi>
+       <mo>&gt;</mo>
+       <mi>k</mi>
+      </mrow>
+     </mfenced>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq14.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, correspondingly. The sign 
+ <inline-formula id="IEq15">
+  <alternatives>
+   <tex-math id="M35">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\left( {C_{j} - C_{k} } \right)$$\end{document}</tex-math>
+   <math id="M36">
+    <mfenced close=")" open="(">
+     <mrow>
+      <msub>
+       <mi>C</mi>
+       <mi>j</mi>
+      </msub>
+      <mo>-</mo>
+      <msub>
+       <mi>C</mi>
+       <mi>k</mi>
+      </msub>
+     </mrow>
+    </mfenced>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq15.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> is the sgn function as:
+ <disp-formula id="Equ4">
+  <label>4</label>
+  <alternatives>
+   <tex-math id="M37">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\text{sgn} \left( {C_{j} - C_{k} } \right) = \begin{array}{*{20}l} 1 \hfill &amp; {{\text{if}}~C_{j} - C_{k} &gt; 0} \hfill \\ 0 \hfill &amp; {{\text{if}}~C_{j} - C_{k} = 0} \hfill \\ { - 1} \hfill &amp; {~{\text{if}}~C_{j} - C_{k} &lt; 0} \hfill \\ \end{array}$$\end{document}</tex-math>
+   <math id="M38" display="block">
+    <mrow>
+     <mtext>sgn</mtext>
+     <mfenced close=")" open="(">
+      <mrow>
+       <msub>
+        <mi>C</mi>
+        <mi>j</mi>
+       </msub>
+       <mo>-</mo>
+       <msub>
+        <mi>C</mi>
+        <mi>k</mi>
+       </msub>
+      </mrow>
+     </mfenced>
+     <mo>=</mo>
+     <mrow>
+      <mtable>
+       <mtr>
+        <mtd columnalign="left">
+         <mn>1</mn>
+        </mtd>
+        <mtd>
+         <mrow>
+          <mtext>if</mtext>
+          <mspace width="3.33333pt"/>
+          <msub>
+           <mi>C</mi>
+           <mi>j</mi>
+          </msub>
+          <mo>-</mo>
+          <msub>
+           <mi>C</mi>
+           <mi>k</mi>
+          </msub>
+          <mo>&gt;</mo>
+          <mn>0</mn>
+         </mrow>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd columnalign="left">
+         <mrow>
+          <mrow/>
+          <mn>0</mn>
+         </mrow>
+        </mtd>
+        <mtd>
+         <mrow>
+          <mtext>if</mtext>
+          <mspace width="3.33333pt"/>
+          <msub>
+           <mi>C</mi>
+           <mi>j</mi>
+          </msub>
+          <mo>-</mo>
+          <msub>
+           <mi>C</mi>
+           <mi>k</mi>
+          </msub>
+          <mo>=</mo>
+          <mn>0</mn>
+         </mrow>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd columnalign="left">
+         <mrow>
+          <mrow/>
+          <mrow>
+           <mo>-</mo>
+           <mn>1</mn>
+          </mrow>
+         </mrow>
+        </mtd>
+        <mtd>
+         <mrow>
+          <mspace width="3.33333pt"/>
+          <mtext>if</mtext>
+          <mspace width="3.33333pt"/>
+          <msub>
+           <mi>C</mi>
+           <mi>j</mi>
+          </msub>
+          <mo>-</mo>
+          <msub>
+           <mi>C</mi>
+           <mi>k</mi>
+          </msub>
+          <mo>&lt;</mo>
+          <mn>0</mn>
+         </mrow>
+        </mtd>
+       </mtr>
+      </mtable>
+     </mrow>
+    </mrow>
+   </math>
+   <graphic xlink:href="10668_2021_1621_Article_Equ4.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+</p>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig position="float" fig-type="FIGURE" id="ece37873-fig-0007">
+ <label>FIGURE 7</label>
+ <caption>
+  <p>Estimates of fecundity of adult female spectacled eiders in the Yukon‐Kuskokwim Delta breeding population in western Alaska. Fecundity was estimated as the product of nest success, clutch size at hatch, and duckling survival (included as a constant) and estimates the expected number of female ducklings that survive to 30 days posthatch. Most of the annual variation in fecundity is a function of the variation in nest success, thus, the two parameters are highly correlated. Black circles dashed vertical lines are the annual means and 95% Bayesian credible interval estimates from the integrated population model including environmental covariates</p>
+ </caption>
+ <graphic xlink:href="ECE3-11-10627-g004" position="anchor" id="jats-graphic-15" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

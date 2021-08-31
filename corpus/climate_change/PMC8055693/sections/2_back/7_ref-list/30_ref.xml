@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Walters</surname>
+    <given-names>AW</given-names>
+   </name>
+   <name>
+    <surname>Sagrario</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Schindler</surname>
+    <given-names>DE</given-names>
+   </name>
+  </person-group>
+  <article-title>Species‐ and community‐level responses combine to drive phenology of lake phytoplankton</article-title>
+  <source>Ecology</source>
+  <year>2013</year>
+  <volume>94</volume>
+  <fpage>2188</fpage>
+  <lpage>2194</lpage>
+  <pub-id pub-id-type="doi">10.1890/13-0445.1</pub-id>
+  <?supplied-pmid 24358705?>
+  <pub-id pub-id-type="pmid">24358705</pub-id>
+ </element-citation>
+</ref>

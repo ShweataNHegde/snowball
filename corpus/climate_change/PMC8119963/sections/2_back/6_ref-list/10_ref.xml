@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Aubert</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Palaeolithic cave art in Borneo</article-title>
+  <source>Nature</source>
+  <year>2018</year>
+  <volume>564</volume>
+  <issue>7735</issue>
+  <fpage>254</fpage>
+  <lpage>257</lpage>
+  <pub-id pub-id-type="doi">10.1038/s41586-018-0679-9</pub-id>
+  <?supplied-pmid 30405242?>
+  <pub-id pub-id-type="pmid">30405242</pub-id>
+ </element-citation>
+</ref>

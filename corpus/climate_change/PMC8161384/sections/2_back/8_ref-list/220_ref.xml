@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B220-genes-12-00783">
+ <label>220.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Miska</surname>
+    <given-names>E.A.</given-names>
+   </name>
+   <name>
+    <surname>Ferguson-Smith</surname>
+    <given-names>A.C.</given-names>
+   </name>
+  </person-group>
+  <article-title>Transgenerational inheritance: Models and mechanisms of non–DNA sequence–based inheritance</article-title>
+  <source>Science</source>
+  <year>2016</year>
+  <volume>354</volume>
+  <fpage>59</fpage>
+  <lpage>63</lpage>
+  <pub-id pub-id-type="doi">10.1126/science.aaf4945</pub-id>
+  <?supplied-pmid 27846492?>
+  <pub-id pub-id-type="pmid">27846492</pub-id>
+ </element-citation>
+</ref>

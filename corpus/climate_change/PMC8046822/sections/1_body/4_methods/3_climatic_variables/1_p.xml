@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par33">The 19 climatic variables available from the WorldClim v2.1 database (
+ <ext-link ext-link-type="uri" xlink:href="http://www.worldclim.org" xmlns:xlink="http://www.w3.org/1999/xlink">www.worldclim.org</ext-link>) at ~ 5 km × 5 km spatial resolution were downloaded and clipped for Ethiopia. These variables are derived from monthly values of precipitation and temperature throughout the year into agronomically and ecologically useful variables for primary production-based species modelling. The WorldClim database curates these data interpolated from more than 115,000 climate stations from the global climatic database such as FAOCLIM, the Global Historical Climate Network (GHCN) and other sources
+ <sup>
+  <xref ref-type="bibr" rid="CR60">60</xref>
+ </sup>. The climatic variables, therefore, represent annual tendencies such as average annual temperature and precipitation values and their variations, seasonal characteristics such as temperature and precipitation ranges in the wettest, driest, hottest, and coldest quarters and extremes such as temperature in the coldest month or precipitation in the wettest month. Detailed information of each variable are given in the Table 
+ <xref rid="MOESM1" ref-type="media">SI2</xref>.
+</p>

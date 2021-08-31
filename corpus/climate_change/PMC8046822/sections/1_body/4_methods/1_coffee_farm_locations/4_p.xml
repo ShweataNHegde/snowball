@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par31">Fitting the suitability models uses the presence points and background absence data. The coffee presence points provided the locations of coffee farms and there was a need to sample for background absence data. We developed a background sampling protocol that (a) gives a balance between the numbers of absences relative to the number of presences in the modelling dataset as this leads to overfitting and inflation of model performance metrics, (b) limits the loss of important information, and (c) preserves the observed prevalence. To achieve this, we settled for a presence to absence ratio of 1:10 in the dataset for the combined model and the individual specialty coffee models which is also recommended in literature
+ <sup>
+  <xref ref-type="bibr" rid="CR58">58</xref>,
+  <xref ref-type="bibr" rid="CR59">59</xref>
+ </sup>. The background sampling was applied outside a buffer of 10 km of presence points to limit them to the outside known coffee areas.
+</p>

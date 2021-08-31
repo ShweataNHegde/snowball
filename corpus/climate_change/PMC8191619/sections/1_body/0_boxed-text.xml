@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxed-text id="BX1" position="float" orientation="portrait">
+ <caption>
+  <title>Strengths and limitations of this study</title>
+ </caption>
+ <list list-type="bullet">
+  <list-item>
+   <p>A strength of this study is that it provides the first broad overview of previous systematic reviews exploring the health impacts of climate change. By targeting systematic reviews, we achieve a higher order summary of findings than what would have been possible by consulting individual original studies.</p>
+  </list-item>
+  <list-item>
+   <p>By synthesising findings across all included studies and according to the combination of climate impact and health outcome, we offer a clear, detailed and unique summary of the current state of evidence and knowledge gaps about how climate change may influence human health.</p>
+  </list-item>
+  <list-item>
+   <p>A limitation of this study is that we were unable to access some full texts and therefore some studies were excluded, even though we deemed them potentially relevant after title and abstract inspection.</p>
+  </list-item>
+  <list-item>
+   <p>Another limitation is that we could not conduct meta-meta-analyses of findings across reviews, due to the heterogeneity of the included systematic reviews and the relatively small proportion of studies reporting meta-analytic findings.</p>
+  </list-item>
+  <list-item>
+   <p>Finally, the date of the systematic search is a limitation, as we conducted the search in June 2019.</p>
+  </list-item>
+ </list>
+</boxed-text>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Austin</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>Colman</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>A century of temperature variability in Lake Superior</article-title>
+  <source>Limnol. Oceanogr.</source>
+  <year>2008</year>
+  <volume>53</volume>
+  <fpage>2724</fpage>
+  <lpage>2730</lpage>
+  <pub-id pub-id-type="doi">10.4319/lo.2008.53.6.2724</pub-id>
+ </element-citation>
+</ref>

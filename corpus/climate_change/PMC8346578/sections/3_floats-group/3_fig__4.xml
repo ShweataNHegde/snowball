@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig4">
+ <label>Fig. 4</label>
+ <caption>
+  <title>Local species richness of communities over time, from the start of climate change to the end of the simulation, averaged over replicates.</title>
+  <p>Values are given in 100-year steps. At each point in time, the figure shows the mean number of species per patch over the landscape (points) and their standard deviation (shaded region, extending one standard deviation both up- and downwards from the mean). Panel rows show different parameterizations (all four combinations of high and low genetic variance and dispersal ability); columns represent various model setups (the baseline model; an added trophic level of consumers; temperature-dependent competition coefficients; and the combined influence of consumers and temperature-dependent competition). Dotted vertical lines indicate the time at which climate change ends.</p>
+ </caption>
+ <graphic xlink:href="41467_2021_24977_Fig4_HTML" id="d32e667" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R1">
+ <label>1</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <given-names>L. J.</given-names>
+    <surname>Beaumont</surname>
+   </string-name>, 
+   <string-name>
+    <given-names>A.</given-names>
+    <surname>Pitman</surname>
+   </string-name>, 
+   <string-name>
+    <given-names>S.</given-names>
+    <surname>Perkins</surname>
+   </string-name>, 
+   <string-name>
+    <given-names>N. E.</given-names>
+    <surname>Zimmermann</surname>
+   </string-name>, 
+   <string-name>
+    <given-names>N. G.</given-names>
+    <surname>Yoccoz</surname>
+   </string-name>, 
+   <string-name>
+    <given-names>W.</given-names>
+    <surname>Thuiller</surname>
+   </string-name>
+  </person-group>, 
+  <article-title>Impacts of climate change on the world’s most exceptional ecoregions</article-title>. 
+  <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+  <volume>108</volume>, 
+  <fpage>2306</fpage>–
+  <lpage>2311</lpage> (
+  <year>2011</year>).
+  <pub-id pub-id-type="pmid">21262825</pub-id>
+ </mixed-citation>
+</ref>

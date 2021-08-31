@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R91">
+ <label>91</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Madaniyazi</surname>
+    <given-names>L</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Guo</surname>
+    <given-names>Y</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Yu</surname>
+    <given-names>W</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Projecting future air pollution-related mortality under a changing climate: progress, uncertainties and research needs</article-title>. 
+  <source>Environ Int</source>
+  <year>2015</year>;
+  <volume>75</volume>:
+  <fpage>21</fpage>–
+  <lpage>32</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.envint.2014.10.018</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/25461412?>
+  <pub-id pub-id-type="pmid">25461412</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In order to determine the impact of each climatic variable for each species, climatic data were extracted using the GPS coordinates for each species, for all bioclimatic variables, at both the current time and all future climate scenarios. A 
+ <italic toggle="yes">t</italic>‐test was conducted to determine if there was a significant difference between the current and future values, at the locations in which the species is currently located. A Bonferroni correction was applied to assess significance; for each species/group, there were 19 variables for 8 future models (
+ <italic toggle="yes">α</italic> = 0.05/(19*8) = 0.0003).
+</p>

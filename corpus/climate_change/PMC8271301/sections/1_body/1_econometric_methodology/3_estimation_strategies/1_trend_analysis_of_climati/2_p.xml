@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par12">The 
+ <italic>p</italic> value is computed with the test statistic (
+ <italic>S</italic>) and the sample size (
+ <italic>n</italic>) to determine whether the trend is statistically significant. The variance of 
+ <inline-formula id="IEq16">
+  <alternatives>
+   <tex-math id="M39">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$S$$\end{document}</tex-math>
+   <math id="M40">
+    <mi>S</mi>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq16.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> is estimated as follows:
+ <disp-formula id="Equ5">
+  <label>5</label>
+  <alternatives>
+   <tex-math id="M41">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\text{VAR}}\left( S \right) = \frac{1}{{18}}\left[ {n\left( {n - 1} \right)\left( {2n + 5} \right) - \mathop \sum \limits_{{i = 1}}^{m} t_{i} \left( {t_{i} - 1} \right)\left( {2t_{i} + 5} \right)} \right]$$\end{document}</tex-math>
+   <math id="M42" display="block">
+    <mrow>
+     <mtext>VAR</mtext>
+     <mfenced close=")" open="(">
+      <mi>S</mi>
+     </mfenced>
+     <mo>=</mo>
+     <mfrac>
+      <mn>1</mn>
+      <mn>18</mn>
+     </mfrac>
+     <mfenced close="]" open="[">
+      <mrow>
+       <mi>n</mi>
+       <mfenced close=")" open="(">
+        <mrow>
+         <mi>n</mi>
+         <mo>-</mo>
+         <mn>1</mn>
+        </mrow>
+       </mfenced>
+       <mfenced close=")" open="(">
+        <mrow>
+         <mn>2</mn>
+         <mi>n</mi>
+         <mo>+</mo>
+         <mn>5</mn>
+        </mrow>
+       </mfenced>
+       <mo>-</mo>
+       <munderover>
+        <mo movablelimits="false">∑</mo>
+        <mrow>
+         <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+         </mrow>
+        </mrow>
+        <mi>m</mi>
+       </munderover>
+       <msub>
+        <mi>t</mi>
+        <mi>i</mi>
+       </msub>
+       <mfenced close=")" open="(">
+        <mrow>
+         <msub>
+          <mi>t</mi>
+          <mi>i</mi>
+         </msub>
+         <mo>-</mo>
+         <mn>1</mn>
+        </mrow>
+       </mfenced>
+       <mfenced close=")" open="(">
+        <mrow>
+         <mn>2</mn>
+         <msub>
+          <mi>t</mi>
+          <mi>i</mi>
+         </msub>
+         <mo>+</mo>
+         <mn>5</mn>
+        </mrow>
+       </mfenced>
+      </mrow>
+     </mfenced>
+    </mrow>
+   </math>
+   <graphic xlink:href="10668_2021_1621_Article_Equ5.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>where 
+ <inline-formula id="IEq17">
+  <alternatives>
+   <tex-math id="M43">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$m$$\end{document}</tex-math>
+   <math id="M44">
+    <mi>m</mi>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq17.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> signifies the number of tied groups, 
+ <italic>n</italic> represents the number of data points, and 
+ <italic>i</italic> represents the number of data points in the 
+ <inline-formula id="IEq18">
+  <alternatives>
+   <tex-math id="M45">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$i{\text{th}}$$\end{document}</tex-math>
+   <math id="M46">
+    <mrow>
+     <mi>i</mi>
+     <mtext>th</mtext>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq18.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> group. The standard normal test statistic 
+ <inline-formula id="IEq19">
+  <alternatives>
+   <tex-math id="M47">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$Z$$\end{document}</tex-math>
+   <math id="M48">
+    <mi>Z</mi>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq19.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> is computed as:
+ <disp-formula id="Equ6">
+  <label>6</label>
+  <alternatives>
+   <tex-math id="M49">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$Z = \left\{ {\begin{array}{*{20}l} {\frac{{S - 1}}{{\sqrt {{\text{VAR}}\left( S \right)} }}} \hfill &amp; {{\text{if}}~S &gt; 0} \hfill \\ 0 \hfill &amp; {~{\text{if}}~S = 0} \hfill \\ {\frac{{S + 1}}{{\sqrt {{\text{VAR}}\left( S \right)} }}} \hfill &amp; {{\text{if}}~S &lt; 0} \hfill \\ \end{array} } \right.$$\end{document}</tex-math>
+   <math id="M50" display="block">
+    <mrow>
+     <mi>Z</mi>
+     <mo>=</mo>
+     <mfenced open="{">
+      <mrow>
+       <mtable>
+        <mtr>
+         <mtd columnalign="left">
+          <mfrac>
+           <mrow>
+            <mi>S</mi>
+            <mo>-</mo>
+            <mn>1</mn>
+           </mrow>
+           <msqrt>
+            <mrow>
+             <mtext>VAR</mtext>
+             <mfenced close=")" open="(">
+              <mi>S</mi>
+             </mfenced>
+            </mrow>
+           </msqrt>
+          </mfrac>
+         </mtd>
+         <mtd>
+          <mrow>
+           <mtext>if</mtext>
+           <mspace width="3.33333pt"/>
+           <mi>S</mi>
+           <mo>&gt;</mo>
+           <mn>0</mn>
+          </mrow>
+         </mtd>
+        </mtr>
+        <mtr>
+         <mtd columnalign="left">
+          <mrow>
+           <mrow/>
+           <mn>0</mn>
+          </mrow>
+         </mtd>
+         <mtd>
+          <mrow>
+           <mspace width="3.33333pt"/>
+           <mtext>if</mtext>
+           <mspace width="3.33333pt"/>
+           <mi>S</mi>
+           <mo>=</mo>
+           <mn>0</mn>
+          </mrow>
+         </mtd>
+        </mtr>
+        <mtr>
+         <mtd columnalign="left">
+          <mrow>
+           <mrow/>
+           <mfrac>
+            <mrow>
+             <mi>S</mi>
+             <mo>+</mo>
+             <mn>1</mn>
+            </mrow>
+            <msqrt>
+             <mrow>
+              <mtext>VAR</mtext>
+              <mfenced close=")" open="(">
+               <mi>S</mi>
+              </mfenced>
+             </mrow>
+            </msqrt>
+           </mfrac>
+          </mrow>
+         </mtd>
+         <mtd>
+          <mrow>
+           <mtext>if</mtext>
+           <mspace width="3.33333pt"/>
+           <mi>S</mi>
+           <mo>&lt;</mo>
+           <mn>0</mn>
+          </mrow>
+         </mtd>
+        </mtr>
+       </mtable>
+      </mrow>
+     </mfenced>
+    </mrow>
+   </math>
+   <graphic xlink:href="10668_2021_1621_Article_Equ6.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+</p>

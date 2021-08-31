@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B93-genes-12-00783">
+ <label>93.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Caye</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Deist</surname>
+    <given-names>T.M.</given-names>
+   </name>
+   <name>
+    <surname>Martins</surname>
+    <given-names>H.</given-names>
+   </name>
+   <name>
+    <surname>Michel</surname>
+    <given-names>O.</given-names>
+   </name>
+   <name>
+    <surname>Francois</surname>
+    <given-names>O.</given-names>
+   </name>
+  </person-group>
+  <article-title>TESS3: Fast inference of spatial population structure and genome scans for selection</article-title>
+  <source>Mol. Ecol. Resour.</source>
+  <year>2016</year>
+  <volume>16</volume>
+  <fpage>540</fpage>
+  <lpage>548</lpage>
+  <pub-id pub-id-type="doi">10.1111/1755-0998.12471</pub-id>
+  <pub-id pub-id-type="pmid">26417651</pub-id>
+ </element-citation>
+</ref>

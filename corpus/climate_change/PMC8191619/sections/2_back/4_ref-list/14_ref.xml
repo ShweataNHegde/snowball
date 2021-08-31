@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R14">
+ <label>14</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Hosking</surname>
+    <given-names>J</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Campbell-Lendrum</surname>
+    <given-names>D</given-names>
+   </string-name>
+  </person-group>. 
+  <article-title>How well does climate change and human health research match the demands of policymakers? A scoping review</article-title>. 
+  <source>Environ Health Perspect</source>
+  <year>2012</year>;
+  <volume>120</volume>:
+  <fpage>1076</fpage>–
+  <lpage>82</lpage>. 
+  <pub-id pub-id-type="doi">10.1289/ehp.1104093</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/22504669?>
+  <pub-id pub-id-type="pmid">22504669</pub-id>
+ </mixed-citation>
+</ref>

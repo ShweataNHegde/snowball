@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">http://orcid.org/0000-0001-5725-1773</contrib-id>
+  <name>
+   <surname>Van Houtan</surname>
+   <given-names>Kyle S.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+  <xref rid="cor1" ref-type="corresp">*</xref>
+  <xref ref-type="author-notes" rid="afn1">†</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">http://orcid.org/0000-0002-1901-6972</contrib-id>
+  <name>
+   <surname>Tanaka</surname>
+   <given-names>Kisei R.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gagné</surname>
+   <given-names>Tyler O.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">http://orcid.org/0000-0001-5840-6079</contrib-id>
+  <name>
+   <surname>Becker</surname>
+   <given-names>Sarah L.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <aff id="aff1">
+  <label>1</label>Monterey Bay Aquarium, 886 Cannery Row, Monterey, CA 93940, USA.
+ </aff>
+ <aff id="aff2">
+  <label>2</label>Nicholas School of the Environment, Duke University, Box 90328, Durham, NC 27708, USA.
+ </aff>
+</contrib-group>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R78">
+ <label>78</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Huang</surname>
+    <given-names>C</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Barnett</surname>
+    <given-names>AG</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Wang</surname>
+    <given-names>X</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Projecting future heat-related mortality under climate change scenarios: a systematic review</article-title>. 
+  <source>Environ Health Perspect</source>
+  <year>2011</year>;
+  <volume>119</volume>:
+  <fpage>1681</fpage>–
+  <lpage>90</lpage>. 
+  <pub-id pub-id-type="doi">10.1289/ehp.1103456</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/21816703?>
+  <pub-id pub-id-type="pmid">21816703</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par7">Our long-term daily simulations suggest that thermal stratification in Northern Hemisphere lakes during the historic period (averaged here for all years from 1970 to 1999) typically begins between March and July and ends between June and December (Fig. 
+ <xref rid="Fig1" ref-type="fig">1</xref>). Using a random forest model (see “Methods”), we investigated the climatic and lake morphological drivers of the simulated mean stratification onset and break-up dates. Predictor variables included seasonal (Northern Hemisphere cold and warm season) air temperature and wind speed, lake depth, and surface area (see “Methods”). Using these predictor variables, we were able to explain as much as 93% of the across lake variation in both the timing of historic stratification onset and break-up (Figs. 
+ <xref rid="Fig1" ref-type="fig">1</xref> and 
+ <xref rid="Fig2" ref-type="fig">2a, b</xref>). For the timing of stratification onset, we found that the cold-season (November to April) air temperature was the most important driver, followed by the cold-season wind speed (Fig. 
+ <xref rid="Fig2" ref-type="fig">2a</xref>). The role of both air temperature and wind speed on the timing of stratification onset can be explained primarily due to their individual or, indeed, combined influence on lake surface temperature and, in turn, the vertical water density gradient in spring/summer. For example, as heat input acts to increase water column stability by warming the near-surface layer to above the temperature of maximum density (~3.98 °C), higher wind speed can both enhance heat loss via turbulent mixing
+ <sup>
+  <xref ref-type="bibr" rid="CR16">16</xref>
+ </sup> and/or mix near-surface waters to greater depths, thus eroding any established vertical density gradient. Therefore, if air temperature is high and wind speed is low, one can expect an earlier onset of stratification. Conversely, if air temperature is low and wind speed is high, one can expect later stratification onset. In agreement with our expectations, a regression tree (which explained 85% of the variation in stratification onset) showed that lakes situated within a warmer climate stratified sooner than those elsewhere (
+ <italic>r</italic> = −0.88; Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">1a</xref>), and the latest stratification onset dates occurred in lakes located in the coldest and windiest regions (Fig. 
+ <xref rid="Fig2" ref-type="fig">2c</xref>). This result was confirmed by satellite-derived estimates of stratification onset for 60 Northern Hemisphere lakes (Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">1</xref>; see “Methods”).
+</p>

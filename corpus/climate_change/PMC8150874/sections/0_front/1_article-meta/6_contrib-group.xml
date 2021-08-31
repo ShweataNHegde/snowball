@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-9115-2899</contrib-id>
+  <name>
+   <surname>Skendžić</surname>
+   <given-names>Sandra</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-insects-12-00440">1</xref>
+  <xref ref-type="aff" rid="af2-insects-12-00440">2</xref>
+  <xref rid="c1-insects-12-00440" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4490-280X</contrib-id>
+  <name>
+   <surname>Zovko</surname>
+   <given-names>Monika</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-insects-12-00440">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-0775-7327</contrib-id>
+  <name>
+   <surname>Živković</surname>
+   <given-names>Ivana Pajač</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-insects-12-00440">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1595-6016</contrib-id>
+  <name>
+   <surname>Lešić</surname>
+   <given-names>Vinko</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-insects-12-00440">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-1175-3716</contrib-id>
+  <name>
+   <surname>Lemić</surname>
+   <given-names>Darija</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-insects-12-00440">1</xref>
+ </contrib>
+</contrib-group>

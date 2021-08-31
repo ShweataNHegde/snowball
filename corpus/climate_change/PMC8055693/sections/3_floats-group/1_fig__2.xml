@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig2">
+ <label>Fig. 2</label>
+ <caption>
+  <title>Climatic and in-lake drivers of lake stratification phenology.</title>
+  <p>Importance of variables based on a random forest analysis in predicting 
+   <bold>a</bold> stratification onset and 
+   <bold>b</bold> stratification break-up. Variable importance is calculated as the percentage increase in mean square error (MSE) of predictions estimated with an out-of-bag coefficient of variation (CV) as a result of variables being permuted. Higher values indicate greater importance of a predictor variable to the set of decision trees. Regression tree showing the drivers of stratification onset date (
+   <bold>c</bold>) and stratification break-up (
+   <bold>d</bold>). The values below each of the leaves represent the date of stratification (shown as the day of year) on average for the lakes found within each group. All results are based on the average simulations across the lake–climate model ensemble. Cold season is defined as November–April and warm season is defined as May–October.
+  </p>
+ </caption>
+ <graphic xlink:href="41467_2021_22657_Fig2_HTML" id="d32e779" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

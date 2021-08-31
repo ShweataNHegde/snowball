@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR92">
+ <label>92.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pierce</surname>
+    <given-names>DW</given-names>
+   </name>
+   <name>
+    <surname>Cayan</surname>
+    <given-names>DR</given-names>
+   </name>
+   <name>
+    <surname>Thrasher</surname>
+    <given-names>BL</given-names>
+   </name>
+  </person-group>
+  <article-title>Statistical downscaling using localized constructed analogs (LOCA)</article-title>
+  <source>J. Hydrometeorol.</source>
+  <year>2014</year>
+  <volume>15</volume>
+  <issue>6</issue>
+  <fpage>2558</fpage>
+  <lpage>2585</lpage>
+  <pub-id pub-id-type="doi">10.1175/JHM-D-14-0082.1</pub-id>
+ </element-citation>
+</ref>

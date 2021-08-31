@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B108-genes-12-00783">
+ <label>108.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Keller</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Ariza-Suarez</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>de la Hoz</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Aparicio</surname>
+    <given-names>J.S.</given-names>
+   </name>
+   <name>
+    <surname>Portilla-Benavides</surname>
+    <given-names>A.E.</given-names>
+   </name>
+   <name>
+    <surname>Buendia</surname>
+    <given-names>H.F.</given-names>
+   </name>
+   <name>
+    <surname>Mayor</surname>
+    <given-names>V.M.</given-names>
+   </name>
+   <name>
+    <surname>Studer</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Raatz</surname>
+    <given-names>B.</given-names>
+   </name>
+  </person-group>
+  <article-title>Genomic Prediction of Agronomic Traits in Common Bean (
+   <italic>Phaseolus vulgaris</italic> L.) Under Environmental Stress
+  </article-title>
+  <source>Front. Plant Sci.</source>
+  <year>2020</year>
+  <volume>11</volume>
+  <pub-id pub-id-type="doi">10.3389/fpls.2020.01001</pub-id>
+  <?supplied-pmid 32774338?>
+  <pub-id pub-id-type="pmid">32774338</pub-id>
+ </element-citation>
+</ref>

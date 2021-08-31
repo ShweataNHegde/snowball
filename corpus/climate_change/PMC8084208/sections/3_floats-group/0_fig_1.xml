@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="ppat.1009503.g001" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.ppat.1009503.g001</object-id>
+ <label>Fig 1</label>
+ <caption>
+  <title>The effect of climate change on the emergence of fungal pathogens.</title>
+  <p>Climate change alters attributes of the fungus, the environment, and the host, which can then drive the emergence of novel, uncommon, or adapted fungal species, with consequences for health, biodiversity, and food security. On this figure, solid lines between attributes and fungal species show links supported by published evidence; dashed lines show probable but unproven links. “?” represents the emergence of as-yet unknown fungal species and unknown consequences.</p>
+ </caption>
+ <graphic xlink:href="ppat.1009503.g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

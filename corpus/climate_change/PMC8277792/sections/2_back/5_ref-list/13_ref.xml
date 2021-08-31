@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR13">
+ <label>13.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sexton</surname>
+    <given-names>JP</given-names>
+   </name>
+   <name>
+    <surname>Montiel</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Shay</surname>
+    <given-names>JE</given-names>
+   </name>
+   <name>
+    <surname>Stephens</surname>
+    <given-names>MR</given-names>
+   </name>
+   <name>
+    <surname>Slatyer</surname>
+    <given-names>RA</given-names>
+   </name>
+  </person-group>
+  <article-title>Evolution of ecological niche breadth</article-title>
+  <source>Annu. Rev. Ecol. Evol. Syst.</source>
+  <year>2017</year>
+  <volume>48</volume>
+  <fpage>183</fpage>
+  <lpage>206</lpage>
+  <pub-id pub-id-type="doi">10.1146/annurev-ecolsys-110316-023003</pub-id>
+ </element-citation>
+</ref>

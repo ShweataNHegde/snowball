@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR58">
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Miteva</surname>
+    <given-names>V</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="editor">
+   <name>
+    <surname>Margesin</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Schinner</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Marx</surname>
+    <given-names>JC</given-names>
+   </name>
+   <name>
+    <surname>Gerday</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <article-title>Bacteria in snow and glacier ice</article-title>
+  <source>Psychrophiles: from biodiversity to biotechnology</source>
+  <year>2008</year>
+  <publisher-loc>Berlin, Heidelberg</publisher-loc>
+  <publisher-name>Springer</publisher-name>
+  <fpage>31</fpage>
+  <lpage>50</lpage>
+ </element-citation>
+</ref>

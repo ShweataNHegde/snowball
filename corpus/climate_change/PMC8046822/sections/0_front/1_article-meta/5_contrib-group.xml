@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Chemura</surname>
+   <given-names>Abel</given-names>
+  </name>
+  <address>
+   <email>chemura@pik-potsdam.de</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mudereri</surname>
+   <given-names>Bester Tawona</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yalew</surname>
+   <given-names>Amsalu Woldie</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gornott</surname>
+   <given-names>Christoph</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.4556.2</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0493 9031</institution-id>
+   <institution>Potsdam Institute for Climate Impact Research (PIK), Member of the Leibniz Association, </institution>
+  </institution-wrap>Potsdam, Germany 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.442709.c</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 9894 9740</institution-id>
+   <institution>Department of Animal and Wildlife Science, </institution>
+   <institution>Midlands State University, </institution>
+  </institution-wrap>Gweru, Zimbabwe 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.419326.b</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1794 5158</institution-id>
+   <institution>International Center of Insect Physiology and Ecology (ICIPE), </institution>
+  </institution-wrap>Nairobi, Kenya 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.7240.1</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1763 0578</institution-id>
+   <institution>Ca’ Foscari University of Venice &amp; Euro-Mediterranean Center on Climate Change, </institution>
+  </institution-wrap>Venice, Italy 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.5155.4</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 1089 1036</institution-id>
+   <institution>Agroecosystem Analysis and Modelling, Faculty of Organic Agricultural Sciences, </institution>
+   <institution>University of Kassel, </institution>
+  </institution-wrap>Kassel, Germany 
+ </aff>
+</contrib-group>

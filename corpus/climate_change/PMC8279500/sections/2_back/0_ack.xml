@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ack>
+ <title>Acknowledgments</title>
+ <p>We thank A. Copenhaver, J. Guay, C. Beccario, K. Panni, A. Soergel, T. Nicholson, H. Cullen, C. Field, E. DiLorenzo, B. Dias, T. Farrugia, K. Peterson, and E. Miller for providing helpful input in the framing and methods of this study. 
+  <bold>Funding:</bold> This study was made possible from generous contributions to the Monterey Bay Aquarium. 
+  <bold>Ethics statement:</bold> Our study did not require human or nonhuman animal subjects. 
+  <bold>Author contributions:</bold> K.S.V.H. conceived the study. K.R.T., T.O.G., and S.L.B. curated data, developed data pipelines, and ran the models. K.S.V.H. and K.R.T. generated the figures and wrote the manuscript with contributions from T.O.G. and S.L.B. All authors reviewed the manuscript. 
+  <bold>Competing interests:</bold> The authors declare that they have no competing interests. 
+  <bold>Data and materials availability:</bold> All data needed to evaluate the conclusions in the paper are present in the paper, the Supplementary Materials, and the linked repositories. Data and source code used in this study are available in open-access third-party repositories: GitHub (
+  <ext-link ext-link-type="uri" xlink:href="https://bit.ly/395gNMZ" xmlns:xlink="http://www.w3.org/1999/xlink">https://bit.ly/395gNMZ</ext-link>) and Open Science Framework (
+  <ext-link ext-link-type="uri" xlink:href="https://osf.io/b53fy/" xmlns:xlink="http://www.w3.org/1999/xlink">https://osf.io/b53fy/</ext-link>).
+ </p>
+</ack>

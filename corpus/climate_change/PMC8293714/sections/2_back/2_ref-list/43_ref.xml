@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ece37735-bib-0043">
+ <mixed-citation publication-type="book" id="ece37735-cit-0043">
+  <string-name>
+   <surname>Maddison</surname>, 
+   <given-names>W. P.</given-names>
+  </string-name>, &amp; 
+  <string-name>
+   <surname>Maddison</surname>, 
+   <given-names>D. R.</given-names>
+  </string-name> (
+  <year>2019</year>). 
+  <source>Mesquite: A modular system for evolutionary analysis</source>. Version 3.61. 
+  <ext-link xlink:href="http://www.mesquiteproject.org" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.mesquiteproject.org</ext-link>
+ </mixed-citation>
+</ref>

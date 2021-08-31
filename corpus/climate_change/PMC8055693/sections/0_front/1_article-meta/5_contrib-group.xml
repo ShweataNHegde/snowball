@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0498-7968</contrib-id>
+  <name>
+   <surname>Woolway</surname>
+   <given-names>R. Iestyn</given-names>
+  </name>
+  <address>
+   <email>riwoolway@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4571-2768</contrib-id>
+  <name>
+   <surname>Sharma</surname>
+   <given-names>Sapna</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4013-2281</contrib-id>
+  <name>
+   <surname>Weyhenmeyer</surname>
+   <given-names>Gesa A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Debolskiy</surname>
+   <given-names>Andrey</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Golub</surname>
+   <given-names>Malgorzata</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4572-3029</contrib-id>
+  <name>
+   <surname>Mercado-Bettín</surname>
+   <given-names>Daniel</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Perroud</surname>
+   <given-names>Marjorie</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff10">10</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Stepanenko</surname>
+   <given-names>Victor</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5958-2584</contrib-id>
+  <name>
+   <surname>Tan</surname>
+   <given-names>Zeli</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff11">11</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Grant</surname>
+   <given-names>Luke</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff12">12</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8443-1999</contrib-id>
+  <name>
+   <surname>Ladwig</surname>
+   <given-names>Robert</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff13">13</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4319-260X</contrib-id>
+  <name>
+   <surname>Mesman</surname>
+   <given-names>Jorrit</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+  <xref ref-type="aff" rid="Aff14">14</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3834-8868</contrib-id>
+  <name>
+   <surname>Moore</surname>
+   <given-names>Tadhg N.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff15">15</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4520-7916</contrib-id>
+  <name>
+   <surname>Shatwell</surname>
+   <given-names>Tom</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff16">16</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8673-1933</contrib-id>
+  <name>
+   <surname>Vanderkelen</surname>
+   <given-names>Inne</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff12">12</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3580-1794</contrib-id>
+  <name>
+   <surname>Austin</surname>
+   <given-names>Jay A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff17">17</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2520-7046</contrib-id>
+  <name>
+   <surname>DeGasperi</surname>
+   <given-names>Curtis L.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff18">18</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dokulil</surname>
+   <given-names>Martin</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff19">19</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9665-672X</contrib-id>
+  <name>
+   <surname>La Fuente</surname>
+   <given-names>Sofia</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mackay</surname>
+   <given-names>Eleanor B.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff20">20</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Schladow</surname>
+   <given-names>S. Geoffrey</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff21">21</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Watanabe</surname>
+   <given-names>Shohei</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff21">21</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7416-4652</contrib-id>
+  <name>
+   <surname>Marcé</surname>
+   <given-names>Rafael</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6230-0146</contrib-id>
+  <name>
+   <surname>Pierson</surname>
+   <given-names>Don C.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5183-6145</contrib-id>
+  <name>
+   <surname>Thiery</surname>
+   <given-names>Wim</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff12">12</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9344-2056</contrib-id>
+  <name>
+   <surname>Jennings</surname>
+   <given-names>Eleanor</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.418613.9</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1756 6094</institution-id>
+   <institution>Centre for Freshwater and Environmental Studies, </institution>
+   <institution>Dundalk Institute of Technology, </institution>
+  </institution-wrap>Dundalk, Ireland 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.434160.4</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 6043 947X</institution-id>
+   <institution>European Space Agency Climate Office, </institution>
+   <institution>ECSAT, </institution>
+  </institution-wrap>Didcot, Oxfordshire UK 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.21100.32</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 9430</institution-id>
+   <institution>Department of Biology, </institution>
+   <institution>York University, </institution>
+  </institution-wrap>Toronto ON, Canada 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.8993.b</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 9457</institution-id>
+   <institution>Department of Ecology and Genetics/Limnology, </institution>
+   <institution>Uppsala University, </institution>
+  </institution-wrap>Uppsala, Sweden 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.14476.30</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2342 9668</institution-id>
+   <institution>Research Computing Center, </institution>
+   <institution>Lomonosov Moscow State University, </institution>
+  </institution-wrap>Moscow, Russian Federation 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.459329.0</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0485 5946</institution-id>
+   <institution>Obukhov Institute of Atmospheric Physics, Russian Academy of Science, </institution>
+  </institution-wrap>Moscow, Russian Federation 
+ </aff>
+ <aff id="Aff7">
+  <label>7</label>Moscow Center of Fundamental and Applied Mathematics, Moscow, Russian Federation 
+ </aff>
+ <aff id="Aff8">
+  <label>8</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.424734.2</institution-id>
+   <institution>Catalan Institute for Water Research, </institution>
+  </institution-wrap>Girona, Spain 
+ </aff>
+ <aff id="Aff9">
+  <label>9</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.5319.e</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2179 7512</institution-id>
+   <institution>University of Girona, </institution>
+  </institution-wrap>Girona, Spain 
+ </aff>
+ <aff id="Aff10">
+  <label>10</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.8591.5</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2322 4988</institution-id>
+   <institution>University of Geneva, Institute for Environmental Sciences, </institution>
+  </institution-wrap>Genève, Switzerland 
+ </aff>
+ <aff id="Aff11">
+  <label>11</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.451303.0</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2218 3491</institution-id>
+   <institution>Pacific Northwest National Laboratory, </institution>
+  </institution-wrap>Washington, USA 
+ </aff>
+ <aff id="Aff12">
+  <label>12</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.8767.e</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2290 8069</institution-id>
+   <institution>Department of Hydrology and Hydraulic Engineering, </institution>
+   <institution>Vrije Universiteit Brussel, </institution>
+  </institution-wrap>Brussels, Belgium 
+ </aff>
+ <aff id="Aff13">
+  <label>13</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.14003.36</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2167 3675</institution-id>
+   <institution>Center for Limnology, </institution>
+   <institution>University of Wisconsin-Madison, </institution>
+  </institution-wrap>Madison, WI USA 
+ </aff>
+ <aff id="Aff14">
+  <label>14</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.8591.5</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2322 4988</institution-id>
+   <institution>Department F.A. Forel for Environmental and Aquatic Sciences and Institute for Environmental Sciences, </institution>
+   <institution>University of Geneva, </institution>
+  </institution-wrap>Geneva, Switzerland 
+ </aff>
+ <aff id="Aff15">
+  <label>15</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.438526.e</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0694 4940</institution-id>
+   <institution>Department of Biological Sciences, </institution>
+   <institution>Virginia Tech, </institution>
+  </institution-wrap>Blacksburg, VA USA 
+ </aff>
+ <aff id="Aff16">
+  <label>16</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.7492.8</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0492 3830</institution-id>
+   <institution>Department of Lake Research, </institution>
+   <institution>Helmholtz Centre for Environmental Research-UFZ, </institution>
+  </institution-wrap>Magdeburg, Germany 
+ </aff>
+ <aff id="Aff17">
+  <label>17</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.266744.5</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 9540 9781</institution-id>
+   <institution>Large Lakes Observatory and Department of Physics and Astronomy, </institution>
+   <institution>University of Minnesota Duluth, </institution>
+  </institution-wrap>Duluth, MN USA 
+ </aff>
+ <aff id="Aff18">
+  <label>18</label>King County Water and Land Resources Division, Seattle, WA USA 
+ </aff>
+ <aff id="Aff19">
+  <label>19</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.5771.4</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2151 8122</institution-id>
+   <institution>Research Department for Limnology, </institution>
+   <institution>University of Innsbruck, </institution>
+  </institution-wrap>Mondsee, Austria 
+ </aff>
+ <aff id="Aff20">
+  <label>20</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.9835.7</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 8190 6402</institution-id>
+   <institution>UK Centre for Ecology &amp; Hydrology, Lancaster Environment Centre, </institution>
+  </institution-wrap>Lancaster, UK 
+ </aff>
+ <aff id="Aff21">
+  <label>21</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.27860.3b</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 9684</institution-id>
+   <institution>Tahoe Environmental Research Center, </institution>
+   <institution>University of California, </institution>
+  </institution-wrap>Davis, CA USA 
+ </aff>
+</contrib-group>

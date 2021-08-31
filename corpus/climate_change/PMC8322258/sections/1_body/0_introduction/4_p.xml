@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par5">Multiple linear regression models are a relevant statistical tool used to model a given predictand by taking into account a set of key predictors
+ <sup>
+  <xref ref-type="bibr" rid="CR30">30</xref>–
+  <xref ref-type="bibr" rid="CR32">32</xref>
+ </sup>. These predictors may be selected by applying screening regression techniques, such as forward or backward stepwise regression analysis
+ <sup>
+  <xref ref-type="bibr" rid="CR33">33</xref>
+ </sup>. Such techniques have previously been employed to model past and future wine production from the Douro Valley in Portugal
+ <sup>
+  <xref ref-type="bibr" rid="CR34">34</xref>
+ </sup>, or to model wheat and barley yields in the Iberian Peninsula using drought indicators, such has the Standardized Precipitation-Evapotranspiration Index, and the remote sensing indices Vegetation Condition Index and Thermal Condition Index
+ <sup>
+  <xref ref-type="bibr" rid="CR35">35</xref>
+ </sup>. Additionally, several recent studies tackled the issue of wheat and barley yield fluctuations due to climate change, over different regions of the world
+ <sup>
+  <xref ref-type="bibr" rid="CR36">36</xref>–
+  <xref ref-type="bibr" rid="CR42">42</xref>
+ </sup>. Others, focused on the Iberian Peninsula, have studied the impacts of climate change on crop yields by using mechanistic crop growth models
+ <sup>
+  <xref ref-type="bibr" rid="CR43">43</xref>–
+  <xref ref-type="bibr" rid="CR45">45</xref>
+ </sup>, which require a high volume of input data, rigorous calibration, and often several in-situ observations
+ <sup>
+  <xref ref-type="bibr" rid="CR46">46</xref>
+ </sup>. Moreover, previous works for this region assessed the effects of projected maximum temperature extremes on cereal crops
+ <sup>
+  <xref ref-type="bibr" rid="CR47">47</xref>
+ </sup>, analysed the adaptation measures for managing wheat in a changing climate
+ <sup>
+  <xref ref-type="bibr" rid="CR48">48</xref>
+ </sup>, and studied how the diurnal temperature range and drought may affect wheat yields in the future
+ <sup>
+  <xref ref-type="bibr" rid="CR49">49</xref>
+ </sup>.
+</p>

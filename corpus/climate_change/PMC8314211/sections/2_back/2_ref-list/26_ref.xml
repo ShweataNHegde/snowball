@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B26">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gasch</surname>
+    <given-names>A. P.</given-names>
+   </name>
+   <name>
+    <surname>Payseur</surname>
+    <given-names>B. A.</given-names>
+   </name>
+   <name>
+    <surname>Pool</surname>
+    <given-names>J. E.</given-names>
+   </name>
+  </person-group> (
+  <year>2016</year>). 
+  <article-title>The Power of Natural Variation for Model Organism Biology.</article-title>
+  <source>
+   <italic>Trends Genet.</italic>
+  </source>
+  <volume>32</volume>
+  <fpage>147</fpage>–
+  <lpage>154</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.tig.2015.12.003</pub-id>
+  <?supplied-pmid 26777596?>
+  <pub-id pub-id-type="pmid">26777596</pub-id>
+ </mixed-citation>
+</ref>

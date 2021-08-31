@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0095">In India, almost all regions typically plant in July for the rainy (June to October monsoon) season. We tested additional simulations by planting a month earlier or later than July which had the highest yield among the three plantings. The cultivar we used in this study was JL24, which we calibrated and evaluated by 
+ <xref rid="bb0190" ref-type="bibr">Singh et al. (2012)</xref> based on long term datasets available with ICRISAT during the 1986–1991 seasons and multi-site Initial Variety Trials–II data obtained from annual reports of the All India Coordinated Research Project on Groundnut. We initialized the simulations on 1st January with 200 kg/ha surface residue. Cultivar JL24 was sown at a plant population of 33 plants m
+ <sup>−2</sup>. Nitrogen was applied as a basal dose as per the recommendation (20 kg/ha) at the time of sowing. The simulations were run at 5 arc min resolution scale using High-Performance Computing (HPC) clusters.
+</p>

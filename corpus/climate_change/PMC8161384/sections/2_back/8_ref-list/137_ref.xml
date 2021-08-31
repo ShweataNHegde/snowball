@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B137-genes-12-00783">
+ <label>137.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tong</surname>
+    <given-names>H.</given-names>
+   </name>
+   <name>
+    <surname>Nikoloski</surname>
+    <given-names>Z.</given-names>
+   </name>
+  </person-group>
+  <article-title>Machine learning approaches for crop improvement: Leveraging phenotypic and genotypic big data</article-title>
+  <source>J. Plant. Physiol.</source>
+  <year>2021</year>
+  <volume>257</volume>
+  <fpage>153354</fpage>
+  <pub-id pub-id-type="doi">10.1016/j.jplph.2020.153354</pub-id>
+  <?supplied-pmid 33385619?>
+  <pub-id pub-id-type="pmid">33385619</pub-id>
+ </element-citation>
+</ref>

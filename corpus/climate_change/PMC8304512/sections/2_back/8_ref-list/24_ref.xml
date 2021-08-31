@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B24-life-11-00653">
+ <label>24.</label>
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <collab>Bureau of Meteorology</collab>
+  </person-group>
+  <source>State of the Climate</source>
+  <publisher-name>Bureau of Meteorology</publisher-name>
+  <publisher-loc>Canberra, Australia</publisher-loc>
+  <year>2019</year>
+  <comment>Available online: 
+   <ext-link ext-link-type="uri" xlink:href="http://www.bom.gov.au/state-of-the-climate/" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.bom.gov.au/state-of-the-climate/</ext-link>
+  </comment>
+  <date-in-citation content-type="access-date" iso-8601-date="2019-03-18">(accessed on 18 March 2019)</date-in-citation>
+ </element-citation>
+</ref>

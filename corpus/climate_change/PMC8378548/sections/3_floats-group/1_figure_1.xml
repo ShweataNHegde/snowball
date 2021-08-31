@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F1" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>
+   <bold>(A)</bold> There was a strong positive correlation between images that were rated high in relevance to CC and images that were rated high in arousal. 
+   <bold>(B)</bold> There was a strong negative correlation between the images rated low in valence and the images rated high in relevance to CC. 
+   <bold>(C)</bold> There was also a strong negative correlation between the images rated low in valence and the images rated high in arousal.
+  </p>
+ </caption>
+ <graphic xlink:href="fpsyg-12-650650-g0001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

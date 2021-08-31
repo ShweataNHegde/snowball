@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B166-genes-12-00783">
+ <label>166.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Grinberg</surname>
+    <given-names>N.F.</given-names>
+   </name>
+   <name>
+    <surname>Orhobor</surname>
+    <given-names>O.I.</given-names>
+   </name>
+   <name>
+    <surname>King</surname>
+    <given-names>R.D.</given-names>
+   </name>
+  </person-group>
+  <article-title>An evaluation of machine-learning for predicting phenotype: Studies in yeast, rice, and wheat</article-title>
+  <source>Mach. Learn.</source>
+  <year>2020</year>
+  <volume>109</volume>
+  <fpage>251</fpage>
+  <lpage>277</lpage>
+  <pub-id pub-id-type="doi">10.1007/s10994-019-05848-5</pub-id>
+  <pub-id pub-id-type="pmid">32174648</pub-id>
+ </element-citation>
+</ref>

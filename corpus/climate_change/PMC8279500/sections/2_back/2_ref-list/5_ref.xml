@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R5">
+ <label>5</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <given-names>S.</given-names>
+    <surname>van der Linden</surname>
+   </string-name>, 
+   <string-name>
+    <given-names>A.</given-names>
+    <surname>Leiserowitz</surname>
+   </string-name>, 
+   <string-name>
+    <given-names>S.</given-names>
+    <surname>Rosenthal</surname>
+   </string-name>, 
+   <string-name>
+    <given-names>E.</given-names>
+    <surname>Maibach</surname>
+   </string-name>
+  </person-group>, 
+  <article-title>Inoculating the public against misinformation about climate change</article-title>. 
+  <source>Glob. Chall.</source>
+  <volume>1</volume>, 
+  <fpage>1600008</fpage> (
+  <year>2017</year>).
+  <pub-id pub-id-type="pmid">31565263</pub-id>
+ </mixed-citation>
+</ref>

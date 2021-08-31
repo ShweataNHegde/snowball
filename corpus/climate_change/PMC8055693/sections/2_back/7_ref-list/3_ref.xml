@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brown</surname>
+    <given-names>JH</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Toward a metabolic theory of ecology</article-title>
+  <source>Ecology</source>
+  <year>2004</year>
+  <volume>85</volume>
+  <fpage>1771</fpage>
+  <lpage>1789</lpage>
+  <pub-id pub-id-type="doi">10.1890/03-9000</pub-id>
+ </element-citation>
+</ref>

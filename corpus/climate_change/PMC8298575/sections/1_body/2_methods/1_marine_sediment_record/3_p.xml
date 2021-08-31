@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par24">The age control on the marine sediment record was provided by 11 accelerator mass spectrometry (AMS) radiocarbon dates on mollusc shells (Supplementary. Table 
+ <xref rid="MOESM1" ref-type="media">1</xref>) at the Keck Carbon Cycle AMS Facility, University of California, Irvine, US, and 
+ <sup>210</sup>Pb/
+ <sup>137</sup>Cs measurements conducted on 20 samples at the Gamma Dating Center, Copenhagen University, Denmark. In the box core, the content of unsupported 
+ <sup>210</sup>Pb showed a clear exponential decline with depth (Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">1</xref>). A clear 
+ <sup>137</sup>Cs peak was not detected, but the 
+ <sup>210</sup>Pb-based chronology dates the earliest sample with 
+ <sup>137</sup>Cs to 1969 ± 2 years, which is close to the expected date, 1963, for the global 
+ <sup>137</sup>Cs peak induced by nuclear weapons testing in the atmosphere. This, and the very uniform exponential decline in unsupported 
+ <sup>210</sup>Pb with depth, gives confidence in the calculated chronology. A mixed age-depth model, using both 
+ <sup>210</sup>Pb and 
+ <sup>14</sup>C dates, was constructed using BACON, an open-source package of ‘R’
+ <sup>
+  <xref ref-type="bibr" rid="CR54">54</xref>
+ </sup>. This Bayesian accumulation model code allows for greater flexibility in sedimentation rates between dated intervals than traditional linear age-depth models
+ <sup>
+  <xref ref-type="bibr" rid="CR54">54</xref>
+ </sup>. The AMS radiocarbon dates were calibrated with the Marine13 IntCal13
+ <sup>
+  <xref ref-type="bibr" rid="CR55">55</xref>
+ </sup>, and the regional marine reservoir offset was estimated based on existing 
+ <sup>14</sup>C data from marine specimens collected before the mid-1950s. Distinct regional offset values have been proposed for Arctic Canada, but do not include the Smith Sound region
+ <sup>
+  <xref ref-type="bibr" rid="CR56">56</xref>
+ </sup>. Existing data from NW Greenland show local reservoir correction (ΔR) values ranging from -40 years in the Inglefield Fjord to +320 years in Ellesmere Island (the latter consistent with the proposed 335 ± 85 years for the Canadian Arctic Archipelago
+ <sup>
+  <xref ref-type="bibr" rid="CR56">56</xref>
+ </sup>). However, these samples have been retrieved from shallow sites (&lt;40 m water depth), which are unlikely to reflect influence from the West Greenland Current. Data from the only deeper site in the NOW region are based on measurements of the mollusc 
+ <italic>Astarte montagui</italic> and indicate an offset of 140 ± 60 years
+ <sup>
+  <xref ref-type="bibr" rid="CR57">57</xref>
+ </sup>. This value is consistent with measurements from the Disko Bay region, also under the influence of the West Greenland current
+ <sup>
+  <xref ref-type="bibr" rid="CR58">58</xref>
+ </sup>. We have therefore chosen to use an offset value of 140 ± 60 years. Ages are reported in calibrated years before 2000 (cal yrs b2k) and year CE (for the box-core record presented in Fig. 
+ <xref rid="Fig7" ref-type="fig">7</xref>).
+</p>

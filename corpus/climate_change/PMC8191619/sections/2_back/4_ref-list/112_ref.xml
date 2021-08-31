@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R112">
+ <label>112</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Binazzi</surname>
+    <given-names>A</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Levi</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Bonafede</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Evaluation of the impact of heat stress on the occurrence of occupational injuries: meta-analysis of observational studies</article-title>. 
+  <source>Am J Ind Med</source>
+  <year>2019</year>;
+  <volume>62</volume>:
+  <fpage>233</fpage>–
+  <lpage>43</lpage>. 
+  <pub-id pub-id-type="doi">10.1002/ajim.22946</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/30675732?>
+  <pub-id pub-id-type="pmid">30675732</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R119">
+ <label>119</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Park</surname>
+    <given-names>KY</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Kim</surname>
+    <given-names>HJ</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Ahn</surname>
+    <given-names>HS</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Association between acute gouty arthritis and Meteorological factors: an ecological study using a systematic review and meta-analysis</article-title>. 
+  <source>Semin Arthritis Rheum</source>
+  <year>2017</year>;
+  <volume>47</volume>:
+  <fpage>369</fpage>–
+  <lpage>75</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.semarthrit.2017.05.006</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/28583691?>
+  <pub-id pub-id-type="pmid">28583691</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR48">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Levin</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Lin</surname>
+    <given-names>CF</given-names>
+   </name>
+   <name>
+    <surname>Chu</surname>
+    <given-names>CS</given-names>
+   </name>
+  </person-group>
+  <article-title>Unit root tests in panel data: Asymptotic and finite-sample properties</article-title>
+  <source>Journal of Econometrics</source>
+  <year>2002</year>
+  <volume>108</volume>
+  <issue>1</issue>
+  <fpage>1</fpage>
+  <lpage>24</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0304-4076(01)00098-7</pub-id>
+ </element-citation>
+</ref>

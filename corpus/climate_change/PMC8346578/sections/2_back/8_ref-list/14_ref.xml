@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tylianakis</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Didham</surname>
+    <given-names>RK</given-names>
+   </name>
+   <name>
+    <surname>Bascompte</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Wardle</surname>
+    <given-names>DA</given-names>
+   </name>
+  </person-group>
+  <article-title>Global change and species interactions in terrestrial ecosystems</article-title>
+  <source>Ecol. Lett.</source>
+  <year>2008</year>
+  <volume>11</volume>
+  <fpage>1351</fpage>
+  <lpage>1363</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1461-0248.2008.01250.x</pub-id>
+  <?supplied-pmid 19062363?>
+  <pub-id pub-id-type="pmid">19062363</pub-id>
+ </element-citation>
+</ref>

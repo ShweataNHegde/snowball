@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par26">There is one other important thing our model currently cannot do. Since trait distributions are assumed to be normal with constant variance, a species cannot split into two daughter lineages in response to disruptive selection, as this would require the trait distribution to become gradually more and more bimodal. As such, our model ignores speciation, which may turn out to be an important process in regions that become species-impoverished following climate change. In sexual populations, speciation can occur when the trait is a magic trait, which jointly drives competitive interactions but also assortative mating between similar phenotypes
+ <sup>
+  <xref ref-type="bibr" rid="CR49">49</xref>,
+  <xref ref-type="bibr" rid="CR50">50</xref>
+ </sup>. Here we strictly assume that temperature tolerance is not involved in mate choice. This, however, is an oversimplification because magic traits may in fact be very common in nature
+ <sup>
+  <xref ref-type="bibr" rid="CR51">51</xref>
+ </sup>. And magic traits may not even be necessary, since pseudo-magic traits (with two tightly linked loci, one under divergent selection and the other acting as a mating cue) can also promote speciation
+ <sup>
+  <xref ref-type="bibr" rid="CR52">52</xref>
+ </sup>. There are also non-ecological (e.g., mutation-order) speciation mechanisms that could play a role
+ <sup>
+  <xref ref-type="bibr" rid="CR53">53</xref>
+ </sup>. New species emerging by speciation could possibly mitigate the decrease of species we currently observe. But our model, in its current form, cannot incorporate these mechanisms.
+</p>

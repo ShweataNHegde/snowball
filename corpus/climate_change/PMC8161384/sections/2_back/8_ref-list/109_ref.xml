@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B109-genes-12-00783">
+ <label>109.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hickey</surname>
+    <given-names>J.M.</given-names>
+   </name>
+   <name>
+    <surname>Chiurugwi</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Mackay</surname>
+    <given-names>I.</given-names>
+   </name>
+   <name>
+    <surname>Powell</surname>
+    <given-names>W.</given-names>
+   </name>
+   <name>
+    <surname>Participants</surname>
+    <given-names>I.G.S.i.C.B.P.W.</given-names>
+   </name>
+  </person-group>
+  <article-title>Genomic prediction unifies animal and plant breeding programs to form platforms for biological discovery</article-title>
+  <source>Nat. Genet.</source>
+  <year>2017</year>
+  <volume>49</volume>
+  <fpage>1297</fpage>
+  <lpage>1303</lpage>
+  <pub-id pub-id-type="doi">10.1038/ng.3920</pub-id>
+  <?supplied-pmid 28854179?>
+  <pub-id pub-id-type="pmid">28854179</pub-id>
+ </element-citation>
+</ref>

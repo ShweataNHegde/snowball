@@ -1,0 +1,1385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par35">Combining quantitative genetics with dispersal across the 
+ <italic>L</italic> patches, we track the population density and mean temperature optimum of 
+ <italic>S</italic> species. Let 
+ <inline-formula id="IEq5">
+  <alternatives>
+   <tex-math id="M11">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${N}_{i}^{k}$$\end{document}</tex-math>
+   <math id="M12">
+    <msubsup>
+     <mrow>
+      <mi>N</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+     <mrow>
+      <mi>k</mi>
+     </mrow>
+    </msubsup>
+   </math>
+   <inline-graphic xlink:href="41467_2021_24977_Article_IEq5.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> be the density and 
+ <inline-formula id="IEq6">
+  <alternatives>
+   <tex-math id="M13">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\mu }_{i}^{k}$$\end{document}</tex-math>
+   <math id="M14">
+    <msubsup>
+     <mrow>
+      <mi>μ</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+     <mrow>
+      <mi>k</mi>
+     </mrow>
+    </msubsup>
+   </math>
+   <inline-graphic xlink:href="41467_2021_24977_Article_IEq6.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> the mean temperature optimum of species 
+ <italic>i</italic> in patch 
+ <italic>k</italic> (subscripts denote species; superscripts patches). The governing equations then read
+ <disp-formula id="Equ2">
+  <label>2</label>
+  <alternatives>
+   <tex-math id="M15">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\frac{{{{{{\rm{d}}}}}}{N}_{i}^{k}}{{{{{{\rm{d}}}}}}t}=\underbrace{{N}_{i}^{k}\int {r}_{i}^{k}(z){p}_{i}^{k}(z){{{{{\rm{d}}}}}}z}_{{{{{{\rm{local}}}}}}\,{{{{{\rm{population}}}}}}\,{{{{{\rm{growth}}}}}}}+\underbrace{\mathop{\sum }\limits_{l=1}^{L}{m}_{i}^{kl}{N}_{i}^{l}}_{{{{{{\rm{immigration}}}}}}}-\underbrace{\mathop{\sum }\limits_{l=1}^{L}{m}_{i}^{lk}{N}_{i}^{k}}_{{{{{{\rm{emigration}}}}}}},$$\end{document}</tex-math>
+   <math id="M16">
+    <mfrac>
+     <mrow>
+      <mi mathvariant="normal">d</mi>
+      <msubsup>
+       <mrow>
+        <mi>N</mi>
+       </mrow>
+       <mrow>
+        <mi>i</mi>
+       </mrow>
+       <mrow>
+        <mi>k</mi>
+       </mrow>
+      </msubsup>
+     </mrow>
+     <mrow>
+      <mi mathvariant="normal">d</mi>
+      <mi>t</mi>
+     </mrow>
+    </mfrac>
+    <mo>=</mo>
+    <msub>
+     <mrow>
+      <munder accentunder="true">
+       <mrow>
+        <msubsup>
+         <mrow>
+          <mi>N</mi>
+         </mrow>
+         <mrow>
+          <mi>i</mi>
+         </mrow>
+         <mrow>
+          <mi>k</mi>
+         </mrow>
+        </msubsup>
+        <mo>∫</mo>
+        <msubsup>
+         <mrow>
+          <mi>r</mi>
+         </mrow>
+         <mrow>
+          <mi>i</mi>
+         </mrow>
+         <mrow>
+          <mi>k</mi>
+         </mrow>
+        </msubsup>
+        <mrow>
+         <mo>(</mo>
+         <mrow>
+          <mi>z</mi>
+         </mrow>
+         <mo>)</mo>
+        </mrow>
+        <msubsup>
+         <mrow>
+          <mi>p</mi>
+         </mrow>
+         <mrow>
+          <mi>i</mi>
+         </mrow>
+         <mrow>
+          <mi>k</mi>
+         </mrow>
+        </msubsup>
+        <mrow>
+         <mo>(</mo>
+         <mrow>
+          <mi>z</mi>
+         </mrow>
+         <mo>)</mo>
+        </mrow>
+        <mi mathvariant="normal">d</mi>
+        <mi>z</mi>
+       </mrow>
+       <mrow>
+        <mo stretchy="true">⏟</mo>
+       </mrow>
+      </munder>
+     </mrow>
+     <mrow>
+      <mi mathvariant="normal">local</mi>
+      <mspace width="0.25em"/>
+      <mi mathvariant="normal">population</mi>
+      <mspace width="0.25em"/>
+      <mi mathvariant="normal">growth</mi>
+     </mrow>
+    </msub>
+    <mo>+</mo>
+    <msub>
+     <mrow>
+      <munder accentunder="true">
+       <mrow>
+        <munderover accent="false" accentunder="false">
+         <mrow>
+          <mo>∑</mo>
+         </mrow>
+         <mrow>
+          <mi>l</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+         </mrow>
+         <mrow>
+          <mi>L</mi>
+         </mrow>
+        </munderover>
+        <msubsup>
+         <mrow>
+          <mi>m</mi>
+         </mrow>
+         <mrow>
+          <mi>i</mi>
+         </mrow>
+         <mrow>
+          <mi>k</mi>
+          <mi>l</mi>
+         </mrow>
+        </msubsup>
+        <msubsup>
+         <mrow>
+          <mi>N</mi>
+         </mrow>
+         <mrow>
+          <mi>i</mi>
+         </mrow>
+         <mrow>
+          <mi>l</mi>
+         </mrow>
+        </msubsup>
+       </mrow>
+       <mrow>
+        <mo stretchy="true">⏟</mo>
+       </mrow>
+      </munder>
+     </mrow>
+     <mrow>
+      <mi mathvariant="normal">immigration</mi>
+     </mrow>
+    </msub>
+    <mo>−</mo>
+    <msub>
+     <mrow>
+      <munder accentunder="true">
+       <mrow>
+        <munderover accent="false" accentunder="false">
+         <mrow>
+          <mo>∑</mo>
+         </mrow>
+         <mrow>
+          <mi>l</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+         </mrow>
+         <mrow>
+          <mi>L</mi>
+         </mrow>
+        </munderover>
+        <msubsup>
+         <mrow>
+          <mi>m</mi>
+         </mrow>
+         <mrow>
+          <mi>i</mi>
+         </mrow>
+         <mrow>
+          <mi>l</mi>
+          <mi>k</mi>
+         </mrow>
+        </msubsup>
+        <msubsup>
+         <mrow>
+          <mi>N</mi>
+         </mrow>
+         <mrow>
+          <mi>i</mi>
+         </mrow>
+         <mrow>
+          <mi>k</mi>
+         </mrow>
+        </msubsup>
+       </mrow>
+       <mrow>
+        <mo stretchy="true">⏟</mo>
+       </mrow>
+      </munder>
+     </mrow>
+     <mrow>
+      <mi mathvariant="normal">emigration</mi>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+   </math>
+   <graphic xlink:href="41467_2021_24977_Article_Equ2.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+ <disp-formula id="Equ3">
+  <label>3</label>
+  <alternatives>
+   <tex-math id="M17">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\frac{{{{{{\rm{d}}}}}}{\mu }_{i}^{k}}{{{{{{\rm{d}}}}}}t}=\underbrace{{h}_{i}^{2}\int (z-{\mu }_{i}^{k}){r}_{i}^{k}(z){p}_{i}^{k}(z){{{{{\rm{d}}}}}}z}_{{{{{{\rm{local}}}}}}\,{{{{{\rm{selection}}}}}}}+\underbrace{{h}_{i}^{2}\mathop{\sum }\limits_{l=1}^{L}{m}_{i}^{kl}\frac{{N}_{i}^{l}}{{N}_{i}^{k}}({\mu }_{i}^{l}-{\mu }_{i}^{k})}_{{{{{{\rm{trait}}}}}}\,{{{{{\rm{change}}}}}}\,{{{{{\rm{from}}}}}}\,{{{{{\rm{immigration}}}}}}}$$\end{document}</tex-math>
+   <math id="M18">
+    <mfrac>
+     <mrow>
+      <mi mathvariant="normal">d</mi>
+      <msubsup>
+       <mrow>
+        <mi>μ</mi>
+       </mrow>
+       <mrow>
+        <mi>i</mi>
+       </mrow>
+       <mrow>
+        <mi>k</mi>
+       </mrow>
+      </msubsup>
+     </mrow>
+     <mrow>
+      <mi mathvariant="normal">d</mi>
+      <mi>t</mi>
+     </mrow>
+    </mfrac>
+    <mo>=</mo>
+    <msub>
+     <mrow>
+      <munder accentunder="true">
+       <mrow>
+        <msubsup>
+         <mrow>
+          <mi>h</mi>
+         </mrow>
+         <mrow>
+          <mi>i</mi>
+         </mrow>
+         <mrow>
+          <mn>2</mn>
+         </mrow>
+        </msubsup>
+        <mo>∫</mo>
+        <mrow>
+         <mo>(</mo>
+         <mrow>
+          <mi>z</mi>
+          <mo>−</mo>
+          <msubsup>
+           <mrow>
+            <mi>μ</mi>
+           </mrow>
+           <mrow>
+            <mi>i</mi>
+           </mrow>
+           <mrow>
+            <mi>k</mi>
+           </mrow>
+          </msubsup>
+         </mrow>
+         <mo>)</mo>
+        </mrow>
+        <msubsup>
+         <mrow>
+          <mi>r</mi>
+         </mrow>
+         <mrow>
+          <mi>i</mi>
+         </mrow>
+         <mrow>
+          <mi>k</mi>
+         </mrow>
+        </msubsup>
+        <mrow>
+         <mo>(</mo>
+         <mrow>
+          <mi>z</mi>
+         </mrow>
+         <mo>)</mo>
+        </mrow>
+        <msubsup>
+         <mrow>
+          <mi>p</mi>
+         </mrow>
+         <mrow>
+          <mi>i</mi>
+         </mrow>
+         <mrow>
+          <mi>k</mi>
+         </mrow>
+        </msubsup>
+        <mrow>
+         <mo>(</mo>
+         <mrow>
+          <mi>z</mi>
+         </mrow>
+         <mo>)</mo>
+        </mrow>
+        <mi mathvariant="normal">d</mi>
+        <mi>z</mi>
+       </mrow>
+       <mrow>
+        <mo stretchy="true">⏟</mo>
+       </mrow>
+      </munder>
+     </mrow>
+     <mrow>
+      <mi mathvariant="normal">local</mi>
+      <mspace width="0.25em"/>
+      <mi mathvariant="normal">selection</mi>
+     </mrow>
+    </msub>
+    <mo>+</mo>
+    <msub>
+     <mrow>
+      <munder accentunder="true">
+       <mrow>
+        <msubsup>
+         <mrow>
+          <mi>h</mi>
+         </mrow>
+         <mrow>
+          <mi>i</mi>
+         </mrow>
+         <mrow>
+          <mn>2</mn>
+         </mrow>
+        </msubsup>
+        <munderover accent="false" accentunder="false">
+         <mrow>
+          <mo>∑</mo>
+         </mrow>
+         <mrow>
+          <mi>l</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+         </mrow>
+         <mrow>
+          <mi>L</mi>
+         </mrow>
+        </munderover>
+        <msubsup>
+         <mrow>
+          <mi>m</mi>
+         </mrow>
+         <mrow>
+          <mi>i</mi>
+         </mrow>
+         <mrow>
+          <mi>k</mi>
+          <mi>l</mi>
+         </mrow>
+        </msubsup>
+        <mfrac>
+         <mrow>
+          <msubsup>
+           <mrow>
+            <mi>N</mi>
+           </mrow>
+           <mrow>
+            <mi>i</mi>
+           </mrow>
+           <mrow>
+            <mi>l</mi>
+           </mrow>
+          </msubsup>
+         </mrow>
+         <mrow>
+          <msubsup>
+           <mrow>
+            <mi>N</mi>
+           </mrow>
+           <mrow>
+            <mi>i</mi>
+           </mrow>
+           <mrow>
+            <mi>k</mi>
+           </mrow>
+          </msubsup>
+         </mrow>
+        </mfrac>
+        <mrow>
+         <mo>(</mo>
+         <mrow>
+          <msubsup>
+           <mrow>
+            <mi>μ</mi>
+           </mrow>
+           <mrow>
+            <mi>i</mi>
+           </mrow>
+           <mrow>
+            <mi>l</mi>
+           </mrow>
+          </msubsup>
+          <mo>−</mo>
+          <msubsup>
+           <mrow>
+            <mi>μ</mi>
+           </mrow>
+           <mrow>
+            <mi>i</mi>
+           </mrow>
+           <mrow>
+            <mi>k</mi>
+           </mrow>
+          </msubsup>
+         </mrow>
+         <mo>)</mo>
+        </mrow>
+       </mrow>
+       <mrow>
+        <mo stretchy="true">⏟</mo>
+       </mrow>
+      </munder>
+     </mrow>
+     <mrow>
+      <mi mathvariant="normal">trait</mi>
+      <mspace width="0.25em"/>
+      <mi mathvariant="normal">change</mi>
+      <mspace width="0.25em"/>
+      <mi mathvariant="normal">from</mi>
+      <mspace width="0.25em"/>
+      <mi mathvariant="normal">immigration</mi>
+     </mrow>
+    </msub>
+   </math>
+   <graphic xlink:href="41467_2021_24977_Article_Equ3.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>(SI, Section 
+ <xref rid="MOESM1" ref-type="media">1</xref>), where 
+ <italic>t</italic> is time, 
+ <inline-formula id="IEq7">
+  <alternatives>
+   <tex-math id="M19">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${r}_{i}^{k}(z)$$\end{document}</tex-math>
+   <math id="M20">
+    <msubsup>
+     <mrow>
+      <mi>r</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+     <mrow>
+      <mi>k</mi>
+     </mrow>
+    </msubsup>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <mi>z</mi>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="41467_2021_24977_Article_IEq7.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> the per capita growth rate of species 
+ <italic>i</italic>’s phenotype 
+ <italic>z</italic> in patch 
+ <italic>k</italic>, 
+ <inline-formula id="IEq8">
+  <alternatives>
+   <tex-math id="M21">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${p}_{i}^{k}(z)$$\end{document}</tex-math>
+   <math id="M22">
+    <msubsup>
+     <mrow>
+      <mi>p</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+     <mrow>
+      <mi>k</mi>
+     </mrow>
+    </msubsup>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <mi>z</mi>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="41467_2021_24977_Article_IEq8.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> species 
+ <italic>i</italic>’s temperature optimum distribution in patch 
+ <italic>k</italic> (which is normal with patch-dependent mean 
+ <inline-formula id="IEq9">
+  <alternatives>
+   <tex-math id="M23">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\mu }_{i}^{k}$$\end{document}</tex-math>
+   <math id="M24">
+    <msubsup>
+     <mrow>
+      <mi>μ</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+     <mrow>
+      <mi>k</mi>
+     </mrow>
+    </msubsup>
+   </math>
+   <inline-graphic xlink:href="41467_2021_24977_Article_IEq9.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> and patch-independent variance 
+ <inline-formula id="IEq10">
+  <alternatives>
+   <tex-math id="M25">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\sigma }_{i}^{2}$$\end{document}</tex-math>
+   <math id="M26">
+    <msubsup>
+     <mrow>
+      <mi>σ</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msubsup>
+   </math>
+   <inline-graphic xlink:href="41467_2021_24977_Article_IEq10.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>), 
+ <inline-formula id="IEq11">
+  <alternatives>
+   <tex-math id="M27">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${h}_{i}^{2}$$\end{document}</tex-math>
+   <math id="M28">
+    <msubsup>
+     <mrow>
+      <mi>h</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msubsup>
+   </math>
+   <inline-graphic xlink:href="41467_2021_24977_Article_IEq11.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> the heritability of species 
+ <italic>i</italic>’s temperature optimum, and 
+ <inline-formula id="IEq12">
+  <alternatives>
+   <tex-math id="M29">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${m}_{i}^{kl}$$\end{document}</tex-math>
+   <math id="M30">
+    <msubsup>
+     <mrow>
+      <mi>m</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+     <mrow>
+      <mi>k</mi>
+      <mi>l</mi>
+     </mrow>
+    </msubsup>
+   </math>
+   <inline-graphic xlink:href="41467_2021_24977_Article_IEq12.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> the migration rate of species 
+ <italic>i</italic> from patch 
+ <italic>l</italic> to 
+ <italic>k</italic>. The per capita growth rates 
+ <inline-formula id="IEq13">
+  <alternatives>
+   <tex-math id="M31">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${r}_{i}^{k}(z)$$\end{document}</tex-math>
+   <math id="M32">
+    <msubsup>
+     <mrow>
+      <mi>r</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+     <mrow>
+      <mi>k</mi>
+     </mrow>
+    </msubsup>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <mi>z</mi>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="41467_2021_24977_Article_IEq13.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> read
+ <disp-formula id="Equ4">
+  <label>4</label>
+  <alternatives>
+   <tex-math id="M33">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${r}_{i}^{k}(z)={r}_{0,i}^{k}(z)-\mathop{\sum }\limits_{j=1}^{S}{N}_{j}^{k}\int {a}_{ij}^{k}(z,z^{\prime} ){p}_{j}^{k}(z^{\prime} )\ \,{{\mbox{d}}}\,z^{\prime} +\mathop{\sum }\limits_{j=1}^{S}{\epsilon }_{i}{F}_{ij}^{k}-\mathop{\sum }\limits_{j=1}^{S}{N}_{j}^{k}{F}_{ji}^{k}/{N}_{i}^{k}.$$\end{document}</tex-math>
+   <math id="M34">
+    <msubsup>
+     <mrow>
+      <mi>r</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+     <mrow>
+      <mi>k</mi>
+     </mrow>
+    </msubsup>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <mi>z</mi>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+    <mo>=</mo>
+    <msubsup>
+     <mrow>
+      <mi>r</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+      <mo>,</mo>
+      <mi>i</mi>
+     </mrow>
+     <mrow>
+      <mi>k</mi>
+     </mrow>
+    </msubsup>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <mi>z</mi>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+    <mo>−</mo>
+    <munderover accent="false" accentunder="false">
+     <mrow>
+      <mo>∑</mo>
+     </mrow>
+     <mrow>
+      <mi>j</mi>
+      <mo>=</mo>
+      <mn>1</mn>
+     </mrow>
+     <mrow>
+      <mi>S</mi>
+     </mrow>
+    </munderover>
+    <msubsup>
+     <mrow>
+      <mi>N</mi>
+     </mrow>
+     <mrow>
+      <mi>j</mi>
+     </mrow>
+     <mrow>
+      <mi>k</mi>
+     </mrow>
+    </msubsup>
+    <mo>∫</mo>
+    <msubsup>
+     <mrow>
+      <mi>a</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+      <mi>j</mi>
+     </mrow>
+     <mrow>
+      <mi>k</mi>
+     </mrow>
+    </msubsup>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <mi>z</mi>
+      <mo>,</mo>
+      <msup>
+       <mrow>
+        <mi>z</mi>
+       </mrow>
+       <mrow>
+        <mo>′</mo>
+       </mrow>
+      </msup>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+    <msubsup>
+     <mrow>
+      <mi>p</mi>
+     </mrow>
+     <mrow>
+      <mi>j</mi>
+     </mrow>
+     <mrow>
+      <mi>k</mi>
+     </mrow>
+    </msubsup>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <msup>
+       <mrow>
+        <mi>z</mi>
+       </mrow>
+       <mrow>
+        <mo>′</mo>
+       </mrow>
+      </msup>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+    <mspace width="0.33em"/>
+    <mspace width="0.25em"/>
+    <mstyle>
+     <mtext>d</mtext>
+    </mstyle>
+    <mspace width="0.25em"/>
+    <msup>
+     <mrow>
+      <mi>z</mi>
+     </mrow>
+     <mrow>
+      <mo>′</mo>
+     </mrow>
+    </msup>
+    <mo>+</mo>
+    <munderover accent="false" accentunder="false">
+     <mrow>
+      <mo>∑</mo>
+     </mrow>
+     <mrow>
+      <mi>j</mi>
+      <mo>=</mo>
+      <mn>1</mn>
+     </mrow>
+     <mrow>
+      <mi>S</mi>
+     </mrow>
+    </munderover>
+    <msub>
+     <mrow>
+      <mi>ϵ</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+    </msub>
+    <msubsup>
+     <mrow>
+      <mi>F</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+      <mi>j</mi>
+     </mrow>
+     <mrow>
+      <mi>k</mi>
+     </mrow>
+    </msubsup>
+    <mo>−</mo>
+    <munderover accent="false" accentunder="false">
+     <mrow>
+      <mo>∑</mo>
+     </mrow>
+     <mrow>
+      <mi>j</mi>
+      <mo>=</mo>
+      <mn>1</mn>
+     </mrow>
+     <mrow>
+      <mi>S</mi>
+     </mrow>
+    </munderover>
+    <msubsup>
+     <mrow>
+      <mi>N</mi>
+     </mrow>
+     <mrow>
+      <mi>j</mi>
+     </mrow>
+     <mrow>
+      <mi>k</mi>
+     </mrow>
+    </msubsup>
+    <msubsup>
+     <mrow>
+      <mi>F</mi>
+     </mrow>
+     <mrow>
+      <mi>j</mi>
+      <mi>i</mi>
+     </mrow>
+     <mrow>
+      <mi>k</mi>
+     </mrow>
+    </msubsup>
+    <mo>/</mo>
+    <msubsup>
+     <mrow>
+      <mi>N</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+     <mrow>
+      <mi>k</mi>
+     </mrow>
+    </msubsup>
+    <mo>.</mo>
+   </math>
+   <graphic xlink:href="41467_2021_24977_Article_Equ4.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>Here
+ <disp-formula id="Equ5">
+  <label>5</label>
+  <alternatives>
+   <tex-math id="M35">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${r}_{0,i}^{k}(z)=\left(\frac{{\varrho }_{i}}{{b}_{w}-{a}_{w}{\mu }_{i}^{k}}\right)\exp \left(-\frac{{({T}^{k}-z)}^{2}}{2{({b}_{w}-{a}_{w}{\mu }_{i}^{k})}^{2}}\right)-{\kappa }_{i}$$\end{document}</tex-math>
+   <math id="M36">
+    <msubsup>
+     <mrow>
+      <mi>r</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+      <mo>,</mo>
+      <mi>i</mi>
+     </mrow>
+     <mrow>
+      <mi>k</mi>
+     </mrow>
+    </msubsup>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <mi>z</mi>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+    <mo>=</mo>
+    <mfenced close=")" open="(">
+     <mrow>
+      <mfrac>
+       <mrow>
+        <msub>
+         <mrow>
+          <mi>ϱ</mi>
+         </mrow>
+         <mrow>
+          <mi>i</mi>
+         </mrow>
+        </msub>
+       </mrow>
+       <mrow>
+        <msub>
+         <mrow>
+          <mi>b</mi>
+         </mrow>
+         <mrow>
+          <mi>w</mi>
+         </mrow>
+        </msub>
+        <mo>−</mo>
+        <msub>
+         <mrow>
+          <mi>a</mi>
+         </mrow>
+         <mrow>
+          <mi>w</mi>
+         </mrow>
+        </msub>
+        <msubsup>
+         <mrow>
+          <mi>μ</mi>
+         </mrow>
+         <mrow>
+          <mi>i</mi>
+         </mrow>
+         <mrow>
+          <mi>k</mi>
+         </mrow>
+        </msubsup>
+       </mrow>
+      </mfrac>
+     </mrow>
+    </mfenced>
+    <mi>exp</mi>
+    <mfenced close=")" open="(">
+     <mrow>
+      <mo>−</mo>
+      <mfrac>
+       <mrow>
+        <msup>
+         <mrow>
+          <mrow>
+           <mo>(</mo>
+           <mrow>
+            <msup>
+             <mrow>
+              <mi>T</mi>
+             </mrow>
+             <mrow>
+              <mi>k</mi>
+             </mrow>
+            </msup>
+            <mo>−</mo>
+            <mi>z</mi>
+           </mrow>
+           <mo>)</mo>
+          </mrow>
+         </mrow>
+         <mrow>
+          <mn>2</mn>
+         </mrow>
+        </msup>
+       </mrow>
+       <mrow>
+        <mn>2</mn>
+        <msup>
+         <mrow>
+          <mrow>
+           <mo>(</mo>
+           <mrow>
+            <msub>
+             <mrow>
+              <mi>b</mi>
+             </mrow>
+             <mrow>
+              <mi>w</mi>
+             </mrow>
+            </msub>
+            <mo>−</mo>
+            <msub>
+             <mrow>
+              <mi>a</mi>
+             </mrow>
+             <mrow>
+              <mi>w</mi>
+             </mrow>
+            </msub>
+            <msubsup>
+             <mrow>
+              <mi>μ</mi>
+             </mrow>
+             <mrow>
+              <mi>i</mi>
+             </mrow>
+             <mrow>
+              <mi>k</mi>
+             </mrow>
+            </msubsup>
+           </mrow>
+           <mo>)</mo>
+          </mrow>
+         </mrow>
+         <mrow>
+          <mn>2</mn>
+         </mrow>
+        </msup>
+       </mrow>
+      </mfrac>
+     </mrow>
+    </mfenced>
+    <mo>−</mo>
+    <msub>
+     <mrow>
+      <mi>κ</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+    </msub>
+   </math>
+   <graphic xlink:href="41467_2021_24977_Article_Equ5.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>is the intrinsic growth of species 
+ <italic>i</italic>’s phenotype 
+ <italic>z</italic> in patch 
+ <italic>k</italic>. The constants 
+ <italic>ϱ</italic>
+ <sub>
+  <italic>i</italic>
+ </sub>, 
+ <italic>b</italic>
+ <sub>
+  <italic>w</italic>
+ </sub>, and 
+ <italic>a</italic>
+ <sub>
+  <italic>w</italic>
+ </sub> modulate a tradeoff between maximum growth and tolerance range
+ <sup>
+  <xref ref-type="bibr" rid="CR62">62</xref>,
+  <xref ref-type="bibr" rid="CR63">63</xref>
+ </sup> (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>a), 
+ <italic>κ</italic>
+ <sub>
+  <italic>i</italic>
+ </sub> is a mortality rate, and 
+ <italic>T</italic>
+ <sup>
+  <italic>k</italic>
+ </sup> is the current local temperature in patch 
+ <italic>k</italic>. In turn, 
+ <inline-formula id="IEq14">
+  <alternatives>
+   <tex-math id="M37">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${a}_{ij}^{k}(z,z^{\prime} )$$\end{document}</tex-math>
+   <math id="M38">
+    <msubsup>
+     <mrow>
+      <mi>a</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+      <mi>j</mi>
+     </mrow>
+     <mrow>
+      <mi>k</mi>
+     </mrow>
+    </msubsup>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <mi>z</mi>
+      <mo>,</mo>
+      <msup>
+       <mrow>
+        <mi>z</mi>
+       </mrow>
+       <mrow>
+        <mo>′</mo>
+       </mrow>
+      </msup>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="41467_2021_24977_Article_IEq14.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> is the competition coefficient between species 
+ <italic>i</italic>’s phenotype 
+ <italic>z</italic> and species 
+ <italic>j</italic>’s phenotype 
+ <inline-formula id="IEq15">
+  <alternatives>
+   <tex-math id="M39">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$z^{\prime}$$\end{document}</tex-math>
+   <math id="M40">
+    <msup>
+     <mrow>
+      <mi>z</mi>
+     </mrow>
+     <mrow>
+      <mo>′</mo>
+     </mrow>
+    </msup>
+   </math>
+   <inline-graphic xlink:href="41467_2021_24977_Article_IEq15.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> in patch 
+ <italic>k</italic>. We either assume constant, patch- and phenotype-independent coefficients 
+ <italic>a</italic>
+ <sub>
+  <italic>i</italic>
+  <italic>j</italic>
+ </sub>, or ones which decline with increasing trait differentiation according to
+ <disp-formula id="Equ6">
+  <label>6</label>
+  <alternatives>
+   <tex-math id="M41">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${a}_{ij}^{k}(z,z^{\prime} )=\exp \left(-\frac{{(z-z^{\prime} )}^{2}}{{\eta }^{2}}\right)$$\end{document}</tex-math>
+   <math id="M42">
+    <msubsup>
+     <mrow>
+      <mi>a</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+      <mi>j</mi>
+     </mrow>
+     <mrow>
+      <mi>k</mi>
+     </mrow>
+    </msubsup>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <mi>z</mi>
+      <mo>,</mo>
+      <msup>
+       <mrow>
+        <mi>z</mi>
+       </mrow>
+       <mrow>
+        <mo>′</mo>
+       </mrow>
+      </msup>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+    <mo>=</mo>
+    <mi>exp</mi>
+    <mfenced close=")" open="(">
+     <mrow>
+      <mo>−</mo>
+      <mfrac>
+       <mrow>
+        <msup>
+         <mrow>
+          <mrow>
+           <mo>(</mo>
+           <mrow>
+            <mi>z</mi>
+            <mo>−</mo>
+            <msup>
+             <mrow>
+              <mi>z</mi>
+             </mrow>
+             <mrow>
+              <mo>′</mo>
+             </mrow>
+            </msup>
+           </mrow>
+           <mo>)</mo>
+          </mrow>
+         </mrow>
+         <mrow>
+          <mn>2</mn>
+         </mrow>
+        </msup>
+       </mrow>
+       <mrow>
+        <msup>
+         <mrow>
+          <mi>η</mi>
+         </mrow>
+         <mrow>
+          <mn>2</mn>
+         </mrow>
+        </msup>
+       </mrow>
+      </mfrac>
+     </mrow>
+    </mfenced>
+   </math>
+   <graphic xlink:href="41467_2021_24977_Article_Equ6.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>(temperature-dependent competition), where 
+ <italic>η</italic> is the competition width. The parameter 
+ <italic>ϵ</italic>
+ <sub>
+  <italic>i</italic>
+ </sub> in Eq. (
+ <xref rid="Equ4" ref-type="">4</xref>) is species 
+ <italic>i</italic>’s resource conversion efficiency, and 
+ <inline-formula id="IEq16">
+  <alternatives>
+   <tex-math id="M43">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${F}_{ij}^{k}$$\end{document}</tex-math>
+   <math id="M44">
+    <msubsup>
+     <mrow>
+      <mi>F</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+      <mi>j</mi>
+     </mrow>
+     <mrow>
+      <mi>k</mi>
+     </mrow>
+    </msubsup>
+   </math>
+   <inline-graphic xlink:href="41467_2021_24977_Article_IEq16.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> is the feeding rate of species 
+ <italic>i</italic> on 
+ <italic>j</italic> in patch 
+ <italic>k</italic>:
+ <disp-formula id="Equ7">
+  <label>7</label>
+  <alternatives>
+   <tex-math id="M45">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${F}_{ij}^{k}=\frac{{q}_{i}{W}_{ij}{\omega }_{ij}{N}_{j}^{k}}{1+{q}_{i}{H}_{i}\mathop{\sum }\nolimits_{s = 1}^{S}{W}_{is}{\omega }_{is}{N}_{s}^{k}},$$\end{document}</tex-math>
+   <math id="M46">
+    <msubsup>
+     <mrow>
+      <mi>F</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+      <mi>j</mi>
+     </mrow>
+     <mrow>
+      <mi>k</mi>
+     </mrow>
+    </msubsup>
+    <mo>=</mo>
+    <mfrac>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>q</mi>
+       </mrow>
+       <mrow>
+        <mi>i</mi>
+       </mrow>
+      </msub>
+      <msub>
+       <mrow>
+        <mi>W</mi>
+       </mrow>
+       <mrow>
+        <mi>i</mi>
+        <mi>j</mi>
+       </mrow>
+      </msub>
+      <msub>
+       <mrow>
+        <mi>ω</mi>
+       </mrow>
+       <mrow>
+        <mi>i</mi>
+        <mi>j</mi>
+       </mrow>
+      </msub>
+      <msubsup>
+       <mrow>
+        <mi>N</mi>
+       </mrow>
+       <mrow>
+        <mi>j</mi>
+       </mrow>
+       <mrow>
+        <mi>k</mi>
+       </mrow>
+      </msubsup>
+     </mrow>
+     <mrow>
+      <mn>1</mn>
+      <mo>+</mo>
+      <msub>
+       <mrow>
+        <mi>q</mi>
+       </mrow>
+       <mrow>
+        <mi>i</mi>
+       </mrow>
+      </msub>
+      <msub>
+       <mrow>
+        <mi>H</mi>
+       </mrow>
+       <mrow>
+        <mi>i</mi>
+       </mrow>
+      </msub>
+      <msubsup>
+       <mrow>
+        <mo>∑</mo>
+       </mrow>
+       <mrow>
+        <mi>s</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+       </mrow>
+       <mrow>
+        <mi>S</mi>
+       </mrow>
+      </msubsup>
+      <msub>
+       <mrow>
+        <mi>W</mi>
+       </mrow>
+       <mrow>
+        <mi>i</mi>
+        <mi>s</mi>
+       </mrow>
+      </msub>
+      <msub>
+       <mrow>
+        <mi>ω</mi>
+       </mrow>
+       <mrow>
+        <mi>i</mi>
+        <mi>s</mi>
+       </mrow>
+      </msub>
+      <msubsup>
+       <mrow>
+        <mi>N</mi>
+       </mrow>
+       <mrow>
+        <mi>s</mi>
+       </mrow>
+       <mrow>
+        <mi>k</mi>
+       </mrow>
+      </msubsup>
+     </mrow>
+    </mfrac>
+    <mo>,</mo>
+   </math>
+   <graphic xlink:href="41467_2021_24977_Article_Equ7.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>where 
+ <italic>q</italic>
+ <sub>
+  <italic>i</italic>
+ </sub> is species 
+ <italic>i</italic>’s attack rate, 
+ <italic>W</italic>
+ <sub>
+  <italic>i</italic>
+  <italic>j</italic>
+ </sub> is the adjacency matrix of the feeding network (
+ <italic>W</italic>
+ <sub>
+  <italic>i</italic>
+  <italic>j</italic>
+ </sub> = 1 if 
+ <italic>i</italic> eats 
+ <italic>j</italic> and 0 otherwise), 
+ <italic>ω</italic>
+ <sub>
+  <italic>i</italic>
+  <italic>j</italic>
+ </sub> is the proportion of effort of 
+ <italic>i</italic> on 
+ <italic>j</italic>, and 
+ <italic>H</italic>
+ <sub>
+  <italic>i</italic>
+ </sub> is species 
+ <italic>i</italic>’s handling time. When adding a second trophic level, the number of species on the new level is equal to that at the lower level, and each consumer is linked with five resource species in a bipartite feeding network (SI, Section 
+ <xref rid="MOESM1" ref-type="media">3.3</xref>).
+</p>

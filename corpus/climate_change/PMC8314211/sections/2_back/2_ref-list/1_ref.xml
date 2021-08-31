@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Adrion</surname>
+    <given-names>J. R.</given-names>
+   </name>
+   <name>
+    <surname>Hahn</surname>
+    <given-names>M. W.</given-names>
+   </name>
+   <name>
+    <surname>Cooper</surname>
+    <given-names>B. S.</given-names>
+   </name>
+  </person-group> (
+  <year>2015</year>). 
+  <article-title>Revisiting classic clines in 
+   <italic>Drosophila melanogaster</italic> in the age of genomics.
+  </article-title>
+  <source>
+   <italic>Trends Genet.</italic>
+  </source>
+  <volume>31</volume>
+  <fpage>434</fpage>–
+  <lpage>444</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.tig.2015.05.006</pub-id>
+  <?supplied-pmid 26072452?>
+  <pub-id pub-id-type="pmid">26072452</pub-id>
+ </mixed-citation>
+</ref>

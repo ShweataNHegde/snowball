@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par21">A moving window was used to detect the sensitivity of three types of ecosystem services to historical climate change (temperature and precipitation) following Abel et al. (
+ <xref ref-type="bibr" rid="CR1">2019</xref>, 
+ <xref ref-type="bibr" rid="CR2">2021</xref>). A multi-year assessment of ecosystem services, temperature, and precipitation data was used (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>a). A linear regression slope between ecosystem services and temperature or precipitation was calculated for all pixels within the moving window and considered time period (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>b, c). The regression slope was assigned to the centre pixel of the moving window as the sensitivity of ecosystem services to climate change (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>d). The regression is not fitted, and the regression slope was not assigned to the centre pixel when more than two-thirds of the pixels have no data. As the window moved, we can identify the pixel scale sensitivity of the whole study area (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>e). The sensitivity of ecosystem services to climate change in the centre pixel is high when the regression slope’s absolute value is high. A slope greater than 0 indicates positive sensitivity, while a slope lower than 0 shows a negative sensitivity. Positive sensitivity indicates the change direction of ecosystem services is consistent with climate factors and vice versa.
+</p>

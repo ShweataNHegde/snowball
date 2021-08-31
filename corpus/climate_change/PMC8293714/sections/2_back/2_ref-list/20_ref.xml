@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ece37735-bib-0020">
+ <mixed-citation publication-type="journal" id="ece37735-cit-0020">
+  <string-name>
+   <surname>Darriba</surname>, 
+   <given-names>D.</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Taboada</surname>, 
+   <given-names>G. L.</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Doallo</surname>, 
+   <given-names>R.</given-names>
+  </string-name>, &amp; 
+  <string-name>
+   <surname>Posada</surname>, 
+   <given-names>D.</given-names>
+  </string-name> (
+  <year>2012</year>). 
+  <article-title>jModelTest 2: More models, new heuristics and parallel computing</article-title>. 
+  <source>Nature Methods</source>, 
+  <volume>9</volume>(
+  <issue>8</issue>), 
+  <fpage>772</fpage>. 
+  <pub-id pub-id-type="doi">10.1038/nmeth.2109</pub-id>
+ </mixed-citation>
+</ref>

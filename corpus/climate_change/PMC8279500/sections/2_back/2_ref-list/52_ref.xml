@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R52">
+ <label>52</label>
+ <mixed-citation publication-type="web">R. J. Hijmans, J. van Etten, M. Sumner, J. Cheng, D. Baston, A. Bevan, R. Bivand, L. Busetto, M. Canty, B. Fasoli, D. Forrest, A. Ghosh, D. Golicher, J. Gray, J. A. Greenberg, P. Hiemstra, K. Hingee; Institute for Mathematics Applied Geosciences, C. Karney, M. Mattiuzzi, S. Mosher, B. Naimi, J. Nowosad, E. Pebesma, O. P. Lamigueiro, E. B. Racine, B. Rowlingson, A. Shortridge, B. Venables, R. Wueest, raster: Geographic Data Analysis and Modeling. R package version 3.0-7 (2019); 
+  <ext-link ext-link-type="uri" xlink:href="https://CRAN.R-project.org/package=raster" xmlns:xlink="http://www.w3.org/1999/xlink">https://CRAN.R-project.org/package=raster</ext-link>.
+ </mixed-citation>
+</ref>

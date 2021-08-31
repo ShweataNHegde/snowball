@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>ML has long ago been used for ecological niche modeling [
+ <xref rid="B129-genes-12-00783" ref-type="bibr">129</xref>,
+ <xref rid="B130-genes-12-00783" ref-type="bibr">130</xref>] and functional genomics [
+ <xref rid="B131-genes-12-00783" ref-type="bibr">131</xref>]. However, ML has started permeating, until very recently, other approaches more relevant to this review such as GWSS [
+ <xref rid="B128-genes-12-00783" ref-type="bibr">128</xref>,
+ <xref rid="B132-genes-12-00783" ref-type="bibr">132</xref>] and GP [
+ <xref rid="B133-genes-12-00783" ref-type="bibr">133</xref>,
+ <xref rid="B134-genes-12-00783" ref-type="bibr">134</xref>,
+ <xref rid="B135-genes-12-00783" ref-type="bibr">135</xref>]. In this latter example, ML techniques (i.e., deep learning) outperformed GP’s predictive ability for single traits in multi-environment trials (
+ <xref ref-type="fig" rid="genes-12-00783-f001">Figure 1</xref>k).
+</p>

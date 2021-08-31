@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B219-genes-12-00783">
+ <label>219.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Boyle</surname>
+    <given-names>E.A.</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>Y.I.</given-names>
+   </name>
+   <name>
+    <surname>Pritchard</surname>
+    <given-names>J.K.</given-names>
+   </name>
+  </person-group>
+  <article-title>An Expanded View of Complex Traits: From Polygenic to Omnigenic</article-title>
+  <source>Cell</source>
+  <year>2017</year>
+  <volume>169</volume>
+  <fpage>1177</fpage>
+  <lpage>1186</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cell.2017.05.038</pub-id>
+  <?supplied-pmid 28622505?>
+  <pub-id pub-id-type="pmid">28622505</pub-id>
+ </element-citation>
+</ref>

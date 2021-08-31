@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par8">The overall performance of our SDMs was good to very good (AUC
+ <sub>training</sub> 0.762–0.980, AUC
+ <sub>test</sub> 0.755–0.967; Table 
+ <xref rid="Tab1" ref-type="table">1</xref>, Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>). Overall, the temperature related PC1 had the highest contribution, followed by PC2, while the topography related PCs had a low contribution in most models (Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">S3</xref> online, Supplementary Fig. 
+ <xref rid="MOESM1" ref-type="media">S2</xref> online). More detailed information for each species is given in Appendix 
+ <xref rid="MOESM4" ref-type="media">S4</xref> (Zenodo link, 10.5281/zenodo.5059786).
+</p>

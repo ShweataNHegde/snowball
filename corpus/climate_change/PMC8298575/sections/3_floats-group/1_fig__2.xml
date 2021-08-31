@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig2">
+ <label>Fig. 2</label>
+ <caption>
+  <title>Marine sediment core.</title>
+  <p>
+   <bold>a</bold> Computerised tomography scan image of the Casq1 core. 
+   <bold>b</bold> CT number. Denser areas appear whiter in the CT scan image. 
+   <bold>c</bold> Total organic carbon (TOC) percentage weight. 
+   <bold>d</bold> TOC-normalised concentrations of the sea ice biomarker IP
+   <sub>25.</sub>
+   <bold>e</bold> TOC-normalised concentrations of HBI III (Triene). 
+   <bold>f</bold> Sedimentation rates. 
+   <bold>g</bold> Modelled median age-depth relationships constructed in BACON for CASQ1 and CASQ1 BC (insert). Error bars and dashed lines represent 95% confidence intervals (for dates see Supplementary Table 
+   <xref rid="MOESM1" ref-type="media">1</xref>). The grey bar indicates the stratigraphic interval covered only by the box-core record.
+  </p>
+ </caption>
+ <graphic xlink:href="41467_2021_24742_Fig2_HTML" id="d32e993" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

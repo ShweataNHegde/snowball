@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR26">
+ <label>26.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wüest</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Lorke</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Small‐scale hydrodynamics in lakes</article-title>
+  <source>Annu. Rev. Fluid Mech.</source>
+  <year>2003</year>
+  <volume>35</volume>
+  <fpage>373</fpage>
+  <lpage>412</lpage>
+  <pub-id pub-id-type="doi">10.1146/annurev.fluid.35.101101.161220</pub-id>
+ </element-citation>
+</ref>

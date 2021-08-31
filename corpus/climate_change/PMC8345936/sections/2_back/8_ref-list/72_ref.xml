@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B72-ijerph-18-08220">
+ <label>72.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bobb</surname>
+    <given-names>J.F.</given-names>
+   </name>
+   <name>
+    <surname>Dominici</surname>
+    <given-names>F.</given-names>
+   </name>
+   <name>
+    <surname>Peng</surname>
+    <given-names>R.D.</given-names>
+   </name>
+  </person-group>
+  <article-title>A Bayesian Model Averaging Approach for Estimating the Relative Risk of Mortality Associated with Heat Waves in 105 U.S. Cities</article-title>
+  <source>Biometrics</source>
+  <year>2011</year>
+  <volume>67</volume>
+  <fpage>1605</fpage>
+  <lpage>1616</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1541-0420.2011.01583.x</pub-id>
+  <pub-id pub-id-type="pmid">21447046</pub-id>
+ </element-citation>
+</ref>

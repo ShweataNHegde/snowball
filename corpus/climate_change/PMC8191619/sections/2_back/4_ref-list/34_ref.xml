@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R34">
+ <label>34</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Campbell</surname>
+    <given-names>S</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Remenyi</surname>
+    <given-names>TA</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>White</surname>
+    <given-names>CJ</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Heatwave and health impact research: a global review</article-title>. 
+  <source>Health Place</source>
+  <year>2018</year>;
+  <volume>53</volume>:
+  <fpage>210</fpage>–
+  <lpage>8</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.healthplace.2018.08.017</pub-id>
+  <pub-id pub-id-type="pmid">30189362</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B41">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Langley</surname>
+    <given-names>C. H.</given-names>
+   </name>
+   <name>
+    <surname>Crepeau</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Cardeno</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Corbett-Detig</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Stevens</surname>
+    <given-names>K.</given-names>
+   </name>
+  </person-group> (
+  <year>2011</year>). 
+  <article-title>Circumventing heterozygosity: sequencing the amplified genome of a single haploid Drosophila melanogaster embryo.</article-title>
+  <source>
+   <italic>Genetics</italic>
+  </source>, 
+  <volume>188</volume>
+  <fpage>239</fpage>–
+  <lpage>246</lpage>. 
+  <pub-id pub-id-type="doi">10.1534/genetics.111.127530</pub-id>
+  <?supplied-pmid 21441209?>
+  <pub-id pub-id-type="pmid">21441209</pub-id>
+ </mixed-citation>
+</ref>

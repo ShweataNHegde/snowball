@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We defined a hierarchical model to estimate survival rate in the capture–mark–recapture model (
+ <italic toggle="yes">ϕ</italic>) with a mean and temporal random effect following the general structure:
+ <disp-formula id="ece37873-disp-0002">
+  <math id="jats-math-10" display="block">
+   <mrow>
+    <mi>log</mi>
+    <mi>i</mi>
+    <mi>t</mi>
+    <mfenced close=")" open="(" separators="">
+     <msub>
+      <mi>ϕ</mi>
+      <mi>t</mi>
+     </msub>
+    </mfenced>
+    <mo>=</mo>
+    <msub>
+     <mi>μ</mi>
+     <mi>ϕ</mi>
+    </msub>
+    <mo>+</mo>
+    <msub>
+     <mi>ε</mi>
+     <mrow>
+      <mi>ϕ</mi>
+      <mo>,</mo>
+      <mi>t</mi>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </disp-formula>where 
+ <italic toggle="yes">ϕ</italic>
+ <sub>t</sub> is the annual estimate of age‐specific survival probability, 
+ <italic toggle="yes">μ</italic>
+ <sub>ϕ</sub> is the age‐specific mean logit survival, and ε
+ <italic toggle="yes">
+  <sub>ϕ,t</sub>
+ </italic> is the temporal random effect for each age class. Information on the prior distributions for each parameter is available in Table 
+ <xref rid="ece37873-tbl-0001" ref-type="table">1</xref>.
+</p>

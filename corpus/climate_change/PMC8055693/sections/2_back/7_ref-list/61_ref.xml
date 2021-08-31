@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR61">
+ <label>61.</label>
+ <mixed-citation publication-type="other">Akima, H., Gebhardt, A., Petzold, T. &amp; Maechler, M. akima: interpolation of irregularly and regularly spaced data. 
+  <ext-link ext-link-type="uri" xlink:href="https://cran.r-project.org/web/packages/akima/akima.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">https://cran.r-project.org/web/packages/akima/akima.pdf</ext-link> (2016).
+ </mixed-citation>
+</ref>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schreiber</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>Bürger</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Bolnick</surname>
+    <given-names>DI</given-names>
+   </name>
+  </person-group>
+  <article-title>The community effects of phenotypic and genetic variation within a predator population</article-title>
+  <source>Ecology</source>
+  <year>2011</year>
+  <volume>92</volume>
+  <fpage>1582</fpage>
+  <lpage>1593</lpage>
+  <pub-id pub-id-type="doi">10.1890/10-2071.1</pub-id>
+  <?supplied-pmid 21905425?>
+  <pub-id pub-id-type="pmid">21905425</pub-id>
+ </element-citation>
+</ref>

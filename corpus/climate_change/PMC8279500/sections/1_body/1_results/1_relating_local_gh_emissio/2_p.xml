@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>From our aggregated high-resolution emission dataset and projected temperature shifts, we derive a local climate disparity index (LCDI) that captures the localized disparity between emissions and projected warming. This LCDI illustrates the magnitude of the spatial disconnect between the cumulative emissions (
+ <xref rid="F1" ref-type="fig">Fig. 1A</xref>) and surface temperature anomalies (
+ <xref rid="F1" ref-type="fig">Fig. 1C</xref>) during the 21st century. We generated global LCDI summaries for four CMIP5 projections, using the RCP 4.5 and 8.5 scenarios each over two 21st century periods 2005–2055 and 2050–2099 (
+ <xref rid="R6" ref-type="bibr">
+  <italic>6</italic>
+ </xref>). The pairing in 
+ <xref rid="F2" ref-type="fig">Fig. 2A</xref> of the aggregated anthropogenic GH emissions and ensemble temperature anomalies demonstrates that there is no apparent relationship between the two variables at the local scale. This further revealed a highly skewed positive/negative LCDI area ratio (99:1), globally, across all future climate simulations (fig. S6). This skew suggests an extreme geographic imbalance between areas expected to experience temperature shifts while contributing relatively minimal local emissions as well as the reverse. The global visualization of LCDI illuminates the contours between positive and negative LCDI regions (
+ <xref rid="F2" ref-type="fig">Fig. 2C</xref> and fig. S7), capturing both the heterogeneity and independence in the underlying data layers. Broadly, terrestrial regions above 60°N have the highest positive LCDI owing to the combination of pronounced warming (
+ <xref rid="R2" ref-type="bibr">
+  <italic>2</italic>
+ </xref>, 
+ <xref rid="R6" ref-type="bibr">
+  <italic>6</italic>
+ </xref>) and negligible GH emissions. Densely populated centers of economic production in Europe, Asia, and North America have the lowest negative LCDI due to heavy emissions with comparatively mild warming (
+ <xref rid="F1" ref-type="fig">Fig. 1C</xref>).
+</p>

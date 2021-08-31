@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par14">Selected predictors—one set of predictors for each CORDEX-Evaluation RCM—to forecast wheat and barley yields over the two clusters are shown in Fig. 
+ <xref rid="Fig3" ref-type="fig">3</xref>. Different shades of blue indicate the linear regression coefficient relative weight, and the symbols ‘+’ and ‘-’ indicate a positive or negative coefficient, respectively. As an example, let us consider the predictors that are selected to forecast wheat yield over cluster 1 with CCLM5-8-17 model (evaluation): TX11, TX05, and PR04 (November and May TX, and April PR). The linear regression model may be written as 
+ <inline-formula id="IEq1">
+  <alternatives>
+   <tex-math id="M1">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${Y}_{wheat}={a}_{1}TX11-{a}_{2}TX05+{a}_{3}PR04$$\end{document}</tex-math>
+   <math id="M2">
+    <mrow>
+     <msub>
+      <mi>Y</mi>
+      <mrow>
+       <mi mathvariant="italic">wheat</mi>
+      </mrow>
+     </msub>
+     <mo>=</mo>
+     <msub>
+      <mi>a</mi>
+      <mn>1</mn>
+     </msub>
+     <mi>T</mi>
+     <mi>X</mi>
+     <mn>11</mn>
+     <mo>-</mo>
+     <msub>
+      <mi>a</mi>
+      <mn>2</mn>
+     </msub>
+     <mi>T</mi>
+     <mi>X</mi>
+     <mn>05</mn>
+     <mo>+</mo>
+     <msub>
+      <mi>a</mi>
+      <mn>3</mn>
+     </msub>
+     <mi>P</mi>
+     <mi>R</mi>
+     <mn>04</mn>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="41598_2021_95014_Article_IEq1.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, where 
+ <inline-formula id="IEq2">
+  <alternatives>
+   <tex-math id="M3">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${a}_{1}, {a}_{2}, {a}_{3}$$\end{document}</tex-math>
+   <math id="M4">
+    <mrow>
+     <msub>
+      <mi>a</mi>
+      <mn>1</mn>
+     </msub>
+     <mo>,</mo>
+     <msub>
+      <mi>a</mi>
+      <mn>2</mn>
+     </msub>
+     <mo>,</mo>
+     <msub>
+      <mi>a</mi>
+      <mn>3</mn>
+     </msub>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="41598_2021_95014_Article_IEq2.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> are the regression coefficients, having relative weights of 27%, 30%, and 43%, respectively, for the exemplified case.
+</p>

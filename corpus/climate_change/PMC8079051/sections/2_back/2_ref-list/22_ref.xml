@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="cit0022">
+ <label>[22]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Sørensen</surname>
+    <given-names>K</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Van den Broucke</surname>
+    <given-names>S</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Fullam</surname>
+    <given-names>J</given-names>
+   </string-name>, et al
+  </person-group>. 
+  <article-title>Health literacy and public health: a systematic review and integration of definitions and models</article-title>. 
+  <source>BMC Public Health</source>. 
+  <year>2012</year>;
+  <volume>12</volume>(
+  <issue>1</issue>):
+  <fpage>80</fpage>.
+  <pub-id pub-id-type="pmid">22276600</pub-id>
+ </mixed-citation>
+</ref>

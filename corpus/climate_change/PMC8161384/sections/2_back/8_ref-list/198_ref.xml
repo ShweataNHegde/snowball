@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B198-genes-12-00783">
+ <label>198.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Graham</surname>
+    <given-names>L.J.</given-names>
+   </name>
+   <name>
+    <surname>Spake</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Gillings</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Watts</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Eigenbrod</surname>
+    <given-names>F.</given-names>
+   </name>
+   <name>
+    <surname>Isaac</surname>
+    <given-names>N.</given-names>
+   </name>
+  </person-group>
+  <article-title>Incorporating fine-scale environmental heterogeneity into broad-extent models</article-title>
+  <source>Methods Ecol. Evol.</source>
+  <year>2019</year>
+  <volume>10</volume>
+  <fpage>767</fpage>
+  <lpage>778</lpage>
+  <pub-id pub-id-type="doi">10.1111/2041-210X.13177</pub-id>
+  <?supplied-pmid 31244985?>
+  <pub-id pub-id-type="pmid">31244985</pub-id>
+ </element-citation>
+</ref>

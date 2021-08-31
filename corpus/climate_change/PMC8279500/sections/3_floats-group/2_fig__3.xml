@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F3" fig-type="figure" orientation="portrait" position="float">
+ <label>Fig. 3</label>
+ <caption>
+  <title>LCDI summaries and rankings across political, geographic, and ecological regions.</title>
+  <p>LCDI model outputs aggregated for cells according to (
+   <bold>A</bold>) UN member state (including their EEZs), (
+   <bold>B</bold>) ecological biome, (
+   <bold>C</bold>) anthropogenic biome, (
+   <bold>D</bold>) geopolitical region, and (
+   <bold>E</bold>) U.S. state boundaries. Horizontal bars span the 10th to 90th quantiles, and vertical white bars are the median. Bars pool the LCDI outputs from all emission scenarios (RCP 4.5 and 8.5) and 21st century periods (2006–2055 and 2050–2099). Regional units retain the color symbology from 
+   <xref rid="F2" ref-type="fig">Fig. 2</xref> and are ranked by their 10th quantile (see fig. S11). Sparsely populated, northern latitude areas (Russia, Arctic Ocean, and Alaska) have low emissions and extreme warming, whereas densely populated temperate regions (Belgium, western Europe, and New Jersey) have high emissions and relatively small temperature shifts. For display purposes, (A) to (C) show only the outer tails of a larger data series set. The Supplementary Materials present boundary maps for each regional set (figs. S8 to S11) and full versions of abridged series (figs. S13 to S17). The gray vertical line spanning each panel is the median value of each set.
+  </p>
+ </caption>
+ <graphic xlink:href="abe4342-F3" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

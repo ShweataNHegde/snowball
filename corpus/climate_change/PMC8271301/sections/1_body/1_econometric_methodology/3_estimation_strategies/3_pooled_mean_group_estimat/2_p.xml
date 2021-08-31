@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par18">Another advantage of the PMG estimator is that it is applicable irrespective of whether the variables are integrated of order zero or one [i.e. 
+ <italic>I</italic>(
+ <italic>0</italic>) or 
+ <italic>I</italic>(
+ <italic>1</italic>)] (Pesaran et al., 
+ <xref ref-type="bibr" rid="CR68">2001</xref>). Further, inferences of long-run and short-run causality can be made with the PMG estimator even if the existence of co-integration is not systematically determined. Thus, we deployed the PMG technique to assess the long-run and short-run implications of climate change for food security and a heterogeneous dynamic issue among Africa’s selected countries. The PMG method of estimation can be specified as an unrestricted autoregressive distributed lag (ARDL) model:
+ <disp-formula id="Equ10">
+  <label>10</label>
+  <alternatives>
+   <tex-math id="M93">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$Y_{{it}} = \mathop \sum \limits_{{j = 1}}^{m} \theta _{{ij}} \left( {Y_{i} } \right)_{{t - j}} + \mathop \sum \limits_{{j = 0}}^{n} \beta _{{ij}} \left( {Z_{i} } \right)_{{t - j}} + \mu _{i} + \varepsilon _{{it}}$$\end{document}</tex-math>
+   <math id="M94" display="block">
+    <mrow>
+     <msub>
+      <mi>Y</mi>
+      <mrow>
+       <mi mathvariant="italic">it</mi>
+      </mrow>
+     </msub>
+     <mo>=</mo>
+     <munderover>
+      <mo movablelimits="false">∑</mo>
+      <mrow>
+       <mrow>
+        <mi>j</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+       </mrow>
+      </mrow>
+      <mi>m</mi>
+     </munderover>
+     <msub>
+      <mi>θ</mi>
+      <mrow>
+       <mi mathvariant="italic">ij</mi>
+      </mrow>
+     </msub>
+     <msub>
+      <mfenced close=")" open="(">
+       <msub>
+        <mi>Y</mi>
+        <mi>i</mi>
+       </msub>
+      </mfenced>
+      <mrow>
+       <mi>t</mi>
+       <mo>-</mo>
+       <mi>j</mi>
+      </mrow>
+     </msub>
+     <mo>+</mo>
+     <munderover>
+      <mo movablelimits="false">∑</mo>
+      <mrow>
+       <mrow>
+        <mi>j</mi>
+        <mo>=</mo>
+        <mn>0</mn>
+       </mrow>
+      </mrow>
+      <mi>n</mi>
+     </munderover>
+     <msub>
+      <mi>β</mi>
+      <mrow>
+       <mi mathvariant="italic">ij</mi>
+      </mrow>
+     </msub>
+     <msub>
+      <mfenced close=")" open="(">
+       <msub>
+        <mi>Z</mi>
+        <mi>i</mi>
+       </msub>
+      </mfenced>
+      <mrow>
+       <mi>t</mi>
+       <mo>-</mo>
+       <mi>j</mi>
+      </mrow>
+     </msub>
+     <mo>+</mo>
+     <msub>
+      <mi>μ</mi>
+      <mi>i</mi>
+     </msub>
+     <mo>+</mo>
+     <msub>
+      <mi>ε</mi>
+      <mrow>
+       <mi mathvariant="italic">it</mi>
+      </mrow>
+     </msub>
+    </mrow>
+   </math>
+   <graphic xlink:href="10668_2021_1621_Article_Equ10.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>where 
+ <inline-formula id="IEq38">
+  <alternatives>
+   <tex-math id="M95">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$Y_{{it}}$$\end{document}</tex-math>
+   <math id="M96">
+    <msub>
+     <mi>Y</mi>
+     <mrow>
+      <mi mathvariant="italic">it</mi>
+     </mrow>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq38.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> represents food security which is the dependent variable, whereas 
+ <inline-formula id="IEq39">
+  <alternatives>
+   <tex-math id="M97">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$Z_{{it}}$$\end{document}</tex-math>
+   <math id="M98">
+    <msub>
+     <mi>Z</mi>
+     <mrow>
+      <mi mathvariant="italic">it</mi>
+     </mrow>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq39.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> is a vector of regressors such as GDP per capita, population growth, cultivated area, temperature, and rainfall for each country. Moreover, 
+ <inline-formula id="IEq40">
+  <alternatives>
+   <tex-math id="M99">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\theta _{{ij}}$$\end{document}</tex-math>
+   <math id="M100">
+    <msub>
+     <mi>θ</mi>
+     <mrow>
+      <mi mathvariant="italic">ij</mi>
+     </mrow>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq40.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> denotes scalars, 
+ <inline-formula id="IEq41">
+  <alternatives>
+   <tex-math id="M101">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\beta _{{ij}}$$\end{document}</tex-math>
+   <math id="M102">
+    <msub>
+     <mi>β</mi>
+     <mrow>
+      <mi mathvariant="italic">ij</mi>
+     </mrow>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq41.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> represents the coefficient vectors, 
+ <inline-formula id="IEq42">
+  <alternatives>
+   <tex-math id="M103">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\mu _{i}$$\end{document}</tex-math>
+   <math id="M104">
+    <msub>
+     <mi>μ</mi>
+     <mi>i</mi>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq42.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> shows the group-specific effect, and 
+ <inline-formula id="IEq43">
+  <alternatives>
+   <tex-math id="M105">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\varepsilon _{{it}}$$\end{document}</tex-math>
+   <math id="M106">
+    <msub>
+     <mi>ε</mi>
+     <mrow>
+      <mi mathvariant="italic">it</mi>
+     </mrow>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq43.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> is a white-noise error term with zero mean and constant variance.
+</p>

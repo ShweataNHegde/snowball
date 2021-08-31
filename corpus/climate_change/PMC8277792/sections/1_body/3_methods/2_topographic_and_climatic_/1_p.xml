@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par22">Climatic data was obtained from the SPARTACUS project
+ <sup>
+  <xref ref-type="bibr" rid="CR49">49</xref>,
+  <xref ref-type="bibr" rid="CR50">50</xref>
+ </sup>. For each year from 1961 till 2019, raster layers representing monthly minimum, mean and maximum temperature as well as cumulative precipitation with a spatial resolution of 1 km
+ <sup>2</sup> were available. These monthly temperature related variables were further downscaled to a spatial resolution of 50 m using a geographically weighted regression (gwr function from the spgwr package for R
+ <sup>
+  <xref ref-type="bibr" rid="CR51">51</xref>
+ </sup>). As co-variable, a digital elevation model with an original resolution of 10 m available from 
+ <ext-link ext-link-type="uri" xlink:href="http://gis.ktn.gv.at/OGD/Geographie_Planung/ogd-10m-at.zip" xmlns:xlink="http://www.w3.org/1999/xlink">http://gis.ktn.gv.at/OGD/Geographie_Planung/ogd-10m-at.zip</ext-link> was used, which was developed using airborne laser scans. This step was necessary in order to reduce computation time. As we expect only a weak correlation between elevation and precipitation, these variables were downscaled to the same resolution using a bipolar interpolation available in the raster package for R
+ <sup>
+  <xref ref-type="bibr" rid="CR52">52</xref>
+ </sup>. We acknowledge that the interpolation approach may lead to uncertainties in climate reconstructions. However, due to the strong correlation between elevation and temperature, we are confident to receive realistic scenarios. Furthermore, as we compare the results of our distribution models with those obtained from the species records themselves, we expect to find similar trends using both approaches.
+</p>

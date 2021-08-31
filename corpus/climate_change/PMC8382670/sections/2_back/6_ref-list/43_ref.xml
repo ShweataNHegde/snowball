@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR45">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Langhans</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Jähnig</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Lago</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Schmidt-Kloiber</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Hein</surname>
+    <given-names>T</given-names>
+   </name>
+  </person-group>
+  <article-title>The potential of ecosystem-based management to integrate biodiversity conservation and ecosystem service provision in aquatic ecosystems</article-title>
+  <source>Sci Total Environ</source>
+  <year>2019</year>
+  <volume>672</volume>
+  <fpage>1017</fpage>
+  <lpage>1020</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.scitotenv.2019.04.025</pub-id>
+  <?supplied-pmid 30986745?>
+  <pub-id pub-id-type="pmid">30986745</pub-id>
+ </element-citation>
+</ref>

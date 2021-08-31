@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R49">
+ <label>49</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>de Sousa</surname>
+    <given-names>TCM</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Amancio</surname>
+    <given-names>F</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Hacon</surname>
+    <given-names>SdeS</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>[Climate-sensitive diseases in Brazil and the world: systematic reviewEnfermedades sensibles al clima en Brasil y el mundo: revisión sistemática]</article-title>. 
+  <source>Rev Panam Salud Publica</source>
+  <year>2018</year>;
+  <volume>42</volume>:
+  <elocation-id>e85</elocation-id>. 
+  <pub-id pub-id-type="doi">10.26633/RPSP.2018.85</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/31093113?>
+  <pub-id pub-id-type="pmid">31093113</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R88">
+ <label>88</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Xu</surname>
+    <given-names>Z</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>FitzGerald</surname>
+    <given-names>G</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Guo</surname>
+    <given-names>Y</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Impact of heatwave on mortality under different heatwave definitions: a systematic review and meta-analysis</article-title>. 
+  <source>Environ Int</source>
+  <year>2016</year>;
+  <volume>89</volume>:
+  <fpage>193</fpage>–
+  <lpage>203</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.envint.2016.02.007</pub-id>
+  <pub-id pub-id-type="pmid">26878285</pub-id>
+ </mixed-citation>
+</ref>

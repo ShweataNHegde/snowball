@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par25">The trends in both onset and break-up of observed stratification (see below) were assessed in R
+ <sup>
+  <xref ref-type="bibr" rid="CR51">51</xref>
+ </sup> using either a generalized additive modelling (with a cubic regression spline using cross-validation to optimize 
+ <italic>k</italic>, the number of knots)
+ <sup>
+  <xref ref-type="bibr" rid="CR58">58</xref>
+ </sup> or a linear model. The optimum model selected based on the Akaike information criterion. The residuals from each model were checked for any breach of assumptions. A correlation structure was added to the model for Windermere South Basin for stratification break-up to account for autocorrelation in model residuals.
+</p>

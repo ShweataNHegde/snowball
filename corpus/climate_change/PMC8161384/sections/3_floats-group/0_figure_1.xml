@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="genes-12-00783-f001" orientation="portrait" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>A roadmap of trans-disciplinary approaches aiming at harnessing genebank utilization for climate change research in the face of heat, and water scarcity. Compiling (
+   <bold>a</bold>) previous characterizations and (
+   <bold>b</bold>) geo-referencing-derived climate data/indices of available genetic resources in genebanks is a starting point to (
+   <bold>c</bold>) assess the extent of abiotic stress tolerance among existing accessions, and the need of (
+   <bold>d</bold>) new habitat-based population-guided collections targeting isolated pockets of cryptic diversity in dry and semi-arid regions. Planning question-oriented collecting trips of crop wild relatives and hidden landraces across contrasting environments/agro-ecologies is needed now more than ever, despite a century of gathering and preserving diversity in plants throughout genebanks. Coupling 
+   <italic>ex situ</italic> agro-ecological screenings together with (
+   <bold>e</bold>) ongoing 
+   <italic>in situ</italic> genebanks characterizations for morphological and genetic variation is essential to define (
+   <bold>c</bold>) putative tolerant reference collections, while understanding the (
+   <bold>f</bold>) heritability (
+   <italic>h
+    <sup>2</sup>
+   </italic>) of adaptive traits and their genetic architecture (i.e., underlying genes) via genome-wide selection scans (GWSS), genome–environment associations (GEA), and genome-wide association studies (GWAS). Since identifying these novel sources of heat and drought tolerance demands merging heterogeneous datasets, (
+   <bold>g</bold>) machine learning (ML, in red letters) promises speeding up genebank characterization. The distinction that clustering (
+   <xref rid="genes-12-00783-t001" ref-type="table">Table 1</xref>) and ML (
+   <xref ref-type="fig" rid="genes-12-00783-f002">Figure 2</xref> and 
+   <xref rid="genes-12-00783-t002" ref-type="table">Table 2</xref>) strategies can provide between abiotic stress tolerant and susceptible accessions is essential to (
+   <bold>h</bold>) transfer useful genetic variation from wild crop donors and early landraces into elite cultivated lines, either by designing (
+   <bold>i</bold>) genomic-assisted breeding programs such as genomic prediction (GP) and inter-specific marker- and genomic-assisted backcrossing (MAB and GABC) schemes, or by envisioning (
+   <bold>j</bold>) multi-trait gene editing strategies (e.g., CRISPR-Cas9). Once (
+   <bold>k</bold>) abiotic stress tolerant varieties are validated across different environments, (
+   <bold>l</bold>) legal inscription, seed multiplication, seed delivery system to farmers’ associations, and (
+   <bold>m</bold>) follow-up given the regional needs, market demands, and adoption potential, are necessary downstream validation steps. These heterogeneous datasets are also likely to be inputted into ML, and in turn feedback new needs beyond heat and drought tolerance such as other types of resistances and nutritional quality. For ML to succeed speeding up the breeding of heat and drought-tolerant crops, there must be long-term funding to generate and maintain an assortment of datasets at each step, which in turn need to be publicly available through open access repositories from various geographic locations. Red boxes highlight different reservoirs of wild and cultivated diversity within the Cartesian space, gray boxes are mixed datasets built around these collections, and connectors are methodological approaches.
+  </p>
+ </caption>
+ <graphic xlink:href="genes-12-00783-g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

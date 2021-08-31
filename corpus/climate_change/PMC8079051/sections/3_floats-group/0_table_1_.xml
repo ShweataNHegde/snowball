@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="t0001" orientation="portrait" position="float">
+ <label>Table 1.</label>
+ <caption>
+  <p>FYMS´s characteristics (n = 65)</p>
+ </caption>
+ <!--OASIS TABLE HERE-->
+ <table frame="hsides" rules="groups">
+  <colgroup>
+   <col width="1*" align="left"/>
+   <col width="1*" align="left"/>
+   <col width="1*" align="left"/>
+  </colgroup>
+  <thead>
+   <tr>
+    <th align="left"> </th>
+    <th align="left"> </th>
+    <th align="center">n (%)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">Sex</td>
+    <td align="left">Male</td>
+    <td align="left">45 (69)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">Female</td>
+    <td align="left">20 (31)</td>
+   </tr>
+   <tr>
+    <td align="left">Age in years</td>
+    <td align="left"> </td>
+    <td align="left"> </td>
+   </tr>
+   <tr>
+    <td align="left">Median (IQR)</td>
+    <td align="left">26 (25–28)</td>
+    <td align="left"> </td>
+   </tr>
+   <tr>
+    <td align="left">Age distribution</td>
+    <td align="left">23–25</td>
+    <td align="left">32 (49)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">26–28</td>
+    <td align="left">20 (31)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">29–31</td>
+    <td align="left">7 (11)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">32–34</td>
+    <td align="left">4 (6)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">35 – 36</td>
+    <td align="left">2 (3)</td>
+   </tr>
+   <tr>
+    <td align="left">Number of completed semesters</td>
+    <td align="left">10–12</td>
+    <td align="left">40 (63)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">13–15</td>
+    <td align="left">22 (34)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">16–18</td>
+    <td align="left">2 (3)</td>
+   </tr>
+   <tr>
+    <td align="left">Current clinical rotation (out of three)</td>
+    <td align="left">1
+     <sup>st</sup> rotation
+    </td>
+    <td align="left">43 (66)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">2
+     <sup>nd</sup> rotation
+    </td>
+    <td align="left">9 (14)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">3
+     <sup>rd</sup> rotation
+    </td>
+    <td align="left">13 (20)</td>
+   </tr>
+   <tr>
+    <td align="left">Specialty in the current rotation</td>
+    <td align="left">Internal Medicine</td>
+    <td align="left">38 (59)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">Surgery</td>
+    <td align="left">21 (32)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">Neurology</td>
+    <td align="left">6 (9)</td>
+   </tr>
+   <tr>
+    <td align="left">Career aspirations</td>
+    <td align="left">Physician</td>
+    <td align="left">62 (95)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">Researcher (fulltime)</td>
+    <td align="left">3 (5)</td>
+   </tr>
+   <tr>
+    <td align="left">Marital status</td>
+    <td align="left">Married</td>
+    <td align="left">2 (3)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">Single/extra-marital cohabitation</td>
+    <td align="left">62 (95)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">Other</td>
+    <td align="left">1 (2)</td>
+   </tr>
+   <tr>
+    <td align="left">Religion</td>
+    <td align="left">Protestant</td>
+    <td align="left">18 (28)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">Roman-Catholic</td>
+    <td align="left">25 (38)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">Islam</td>
+    <td align="left">4 (6)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">Orthodox</td>
+    <td align="left">3 (5)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">No religion</td>
+    <td align="left">15 (23)</td>
+   </tr>
+   <tr>
+    <td align="left">Country of birth</td>
+    <td align="left">Germany</td>
+    <td align="left">50 (77)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">Abroad (Europe)</td>
+    <td align="left">6 (9)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">Abroad (outside Europe)</td>
+    <td align="left">9 (14)</td>
+   </tr>
+   <tr>
+    <td align="left">Country of high school graduation</td>
+    <td align="left">Germany</td>
+    <td align="left">52 (80)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">Abroad (Europe)</td>
+    <td align="left">5 (8)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">Abroad (outside Europe)</td>
+    <td align="left">8 (12)</td>
+   </tr>
+   <tr>
+    <td align="left">Activities before medical school (multiple selections possible)</td>
+    <td align="left">Started apprenticeship</td>
+    <td align="left">4 (6)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">Finished apprenticeship</td>
+    <td align="left">7 (11)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">Started other university education</td>
+    <td align="left">10 (15)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">Finished other university education</td>
+    <td align="left">9 (14)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">Civil service/ Voluntary Year of Social Service</td>
+    <td align="left">8 (12)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">Military service</td>
+    <td align="left">3 (5)</td>
+   </tr>
+   <tr>
+    <td align="left"> </td>
+    <td align="left">Not applicable</td>
+    <td align="left">35 (54)</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

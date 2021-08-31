@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Barbier</surname>
+    <given-names>EB</given-names>
+   </name>
+   <name>
+    <surname>Burgess</surname>
+    <given-names>JC</given-names>
+   </name>
+  </person-group>
+  <article-title>Sustainability and development after COVID-19</article-title>
+  <source>World Dev</source>
+  <year>2020</year>
+  <volume>135</volume>
+  <fpage>105082</fpage>
+  <pub-id pub-id-type="doi">10.1016/j.worlddev.2020.105082</pub-id>
+  <?supplied-pmid 32834381?>
+  <pub-id pub-id-type="pmid">32834381</pub-id>
+ </element-citation>
+</ref>

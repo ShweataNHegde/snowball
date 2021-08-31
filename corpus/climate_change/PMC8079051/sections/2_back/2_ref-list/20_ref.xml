@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="cit0020">
+ <label>[20]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Xie</surname>
+    <given-names>E</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>de Barros</surname>
+    <given-names>EF</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Abelsohn</surname>
+    <given-names>A</given-names>
+   </string-name>, et al
+  </person-group>. 
+  <article-title>Challenges and opportunities in planetary health for primary care providers</article-title>. 
+  <source>Lancet Planet Health</source>. 
+  <year>2018</year>;
+  <volume>2</volume>(
+  <issue>5</issue>):
+  <fpage>e185</fpage>–
+  <lpage>e7</lpage>.
+  <pub-id pub-id-type="pmid">29709275</pub-id>
+ </mixed-citation>
+</ref>

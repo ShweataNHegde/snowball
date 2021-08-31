@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Flora</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Johansen</surname>
+    <given-names>KL</given-names>
+   </name>
+   <name>
+    <surname>Grønnow</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Andersen</surname>
+    <given-names>AO</given-names>
+   </name>
+   <name>
+    <surname>Mosbech</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Present and past dynamics of Inughuit resource spaces</article-title>
+  <source>Ambio</source>
+  <year>2018</year>
+  <volume>47</volume>
+  <fpage>244</fpage>
+  <lpage>264</lpage>
+  <pub-id pub-id-type="doi">10.1007/s13280-018-1039-6</pub-id>
+  <?supplied-pmid 29520751?>
+  <pub-id pub-id-type="pmid">29520751</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Here, we define “support” for an effect of a covariate on a demographic rate if the 95% credible intervals of the posterior on the slope parameters do not cross zero. Based on the posterior distributions of the slope parameters, we found support for a quadratic relationship between the number of extreme sea ice days and adult survival and a similar relationship for annual nest success (Table 
+ <xref rid="ece37873-tbl-0002" ref-type="table">2</xref>). Adult survival was highest in years when the number of sea ice days was between 50 and 90 (Figure 
+ <xref rid="ece37873-fig-0004" ref-type="fig">4b</xref>). Nest success was highest when the average number of sea ice days was between 60 and 80 and annual success declined with an increase or decrease in the number of extreme sea ice days (Figure 
+ <xref rid="ece37873-fig-0006" ref-type="fig">6b</xref>). Based on posterior estimates, we found no support for a relationship between nest success and fox presence or precipitation (Table 
+ <xref rid="ece37873-tbl-0002" ref-type="table">2</xref>). In addition, we found no evidence of a relationship between first‐year survival and the annual Arctic Oscillation index.
+</p>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par13">A positive 
+ <italic>Z</italic> statistic indicates an upward or increasing trend, whereas a negative 
+ <italic>Z</italic> statistic suggests a downward or decreasing trend. Our testing trends are established at the 5% significance level 
+ <inline-formula id="IEq20">
+  <alternatives>
+   <tex-math id="M51">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\left( {\alpha = 0.05} \right)$$\end{document}</tex-math>
+   <math id="M52">
+    <mfenced close=")" open="(">
+     <mrow>
+      <mi>α</mi>
+      <mo>=</mo>
+      <mn>0.05</mn>
+     </mrow>
+    </mfenced>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq20.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>. The null hypothesis that ‘there is no trend’ is refuted when the absolute value of the computed 
+ <italic>Z</italic> statistic is greater than the critical value of 
+ <inline-formula id="IEq21">
+  <alternatives>
+   <tex-math id="M53">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$Z_{{1 - \alpha /2}}$$\end{document}</tex-math>
+   <math id="M54">
+    <msub>
+     <mi>Z</mi>
+     <mrow>
+      <mn>1</mn>
+      <mo>-</mo>
+      <mi>α</mi>
+      <mo stretchy="false">/</mo>
+      <mn>2</mn>
+     </mrow>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq21.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> (i.e. 
+ <inline-formula id="IEq22">
+  <alternatives>
+   <tex-math id="M55">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$Z_{{1 - \alpha /2}} = 1.96)$$\end{document}</tex-math>
+   <math id="M56">
+    <mrow>
+     <msub>
+      <mi>Z</mi>
+      <mrow>
+       <mn>1</mn>
+       <mo>-</mo>
+       <mi>α</mi>
+       <mo stretchy="false">/</mo>
+       <mn>2</mn>
+      </mrow>
+     </msub>
+     <mrow>
+      <mo>=</mo>
+      <mn>1.96</mn>
+      <mo stretchy="false">)</mo>
+     </mrow>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq22.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, which indicates the existence of a trend. Nonetheless, the null hypothesis is accepted when the absolute value of the computed 
+ <italic>Z</italic> statistic is lower than the critical value of 
+ <inline-formula id="IEq23">
+  <alternatives>
+   <tex-math id="M57">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$Z_{{1 - \alpha /2}} = 1.96)$$\end{document}</tex-math>
+   <math id="M58">
+    <mrow>
+     <msub>
+      <mi>Z</mi>
+      <mrow>
+       <mn>1</mn>
+       <mo>-</mo>
+       <mi>α</mi>
+       <mo stretchy="false">/</mo>
+       <mn>2</mn>
+      </mrow>
+     </msub>
+     <mrow>
+      <mo>=</mo>
+      <mn>1.96</mn>
+      <mo stretchy="false">)</mo>
+     </mrow>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq23.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, therefore implying no evidence of a trend (Pickson et al., 
+ <xref ref-type="bibr" rid="CR69">2020</xref>). The empirical literature shows that the Mann–Kendall test can ascertain the significance of trends in climatic variables (Douglas et al., 
+ <xref ref-type="bibr" rid="CR23">2000</xref>; Gocic &amp; Trajkovic, 
+ <xref ref-type="bibr" rid="CR40">2013</xref>; Modarres &amp; Silva, 
+ <xref ref-type="bibr" rid="CR56">2007</xref>; Partal &amp; Kahya, 
+ <xref ref-type="bibr" rid="CR66">2006</xref>; Pickson et al., 
+ <xref ref-type="bibr" rid="CR69">2020</xref>; Tabari &amp; Marofi, 
+ <xref ref-type="bibr" rid="CR77">2011</xref>; Tabari et al., 
+ <xref ref-type="bibr" rid="CR79">2011b</xref>; Yue et al., 
+ <xref ref-type="bibr" rid="CR91">2002</xref>).
+</p>

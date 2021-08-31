@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR66">
+ <label>66.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Messager</surname>
+    <given-names>ML</given-names>
+   </name>
+   <name>
+    <surname>Lehner</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Grill</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Nedeva</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Schmitt</surname>
+    <given-names>O</given-names>
+   </name>
+  </person-group>
+  <article-title>Estimating the volume and age of water stored in global lakes using a geo-statistical approach</article-title>
+  <source>Nat. Commun.</source>
+  <year>2016</year>
+  <volume>7</volume>
+  <fpage>13603</fpage>
+  <pub-id pub-id-type="doi">10.1038/ncomms13603</pub-id>
+  <?supplied-pmid 27976671?>
+  <pub-id pub-id-type="pmid">27976671</pub-id>
+ </element-citation>
+</ref>

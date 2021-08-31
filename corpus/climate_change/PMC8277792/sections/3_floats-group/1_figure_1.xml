@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Figure 1</label>
+ <caption>
+  <p>Differences in species richness patterns across the most extreme years 1965 and 2015. PC1-3 refer to the climate related principal components, which were used to train the SDMs (for factor loadings see Supplementary Table 
+   <xref rid="MOESM1" ref-type="media">S2</xref> online); dTemp refers to the deviation of the annual mean temperature of a specific year relative to the median conditions 1961–2019. Density profiles represent the predicted potential distribution per species in different altitudes. Map projection is Lambert Conformal Conic 2SP.
+  </p>
+ </caption>
+ <graphic xlink:href="41598_2021_93826_Fig1_HTML" id="MO2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

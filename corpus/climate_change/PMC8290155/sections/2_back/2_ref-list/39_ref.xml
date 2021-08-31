@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B39">
+ <label>39.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>To</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Maguire</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Terebessy</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Fong</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Parikh</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Correlation of ambient temperature and COVID-19 incidence in Canada</article-title>. 
+  <source>Sci Total Environ.</source> (
+  <year>2021</year>) 
+  <volume>750</volume>:
+  <fpage>141484</fpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.scitotenv.2020.141484</pub-id>
+  <?supplied-pmid 32829260?>
+  <pub-id pub-id-type="pmid">32829260</pub-id>
+ </mixed-citation>
+</ref>

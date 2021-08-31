@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <math id="jats-math-15">
+  <mrow>
+   <msub>
+    <mi>L</mi>
+    <mi mathvariant="italic">IPM</mi>
+   </msub>
+   <mfenced close=")" open="(" separators="">
+    <mrow>
+     <mi mathvariant="bold-italic">m</mi>
+     <mo>,</mo>
+     <mi mathvariant="bold-italic">ns</mi>
+     <mo>,</mo>
+     <mi mathvariant="bold-italic">cs</mi>
+     <mo>,</mo>
+     <mi mathvariant="bold-italic">ds</mi>
+     <mo>,</mo>
+     <mi mathvariant="bold-italic">y</mi>
+     <mo>,</mo>
+     <msubsup>
+      <mi mathvariant="bold-italic">σ</mi>
+      <mrow>
+       <mi mathvariant="bold-italic">y</mi>
+      </mrow>
+      <mn>2</mn>
+     </msubsup>
+     <mo stretchy="false">|</mo>
+     <msub>
+      <mi>ϕ</mi>
+      <mi>j</mi>
+     </msub>
+     <mo>,</mo>
+     <msub>
+      <mi>ϕ</mi>
+      <mi>a</mi>
+     </msub>
+     <mo>,</mo>
+     <mi>p</mi>
+     <mo>,</mo>
+     <mi>α</mi>
+     <mo>,</mo>
+     <mi>N</mi>
+     <mo>,</mo>
+     <mi>f</mi>
+    </mrow>
+   </mfenced>
+   <mo>=</mo>
+   <msub>
+    <mi>L</mi>
+    <mi mathvariant="italic">SS</mi>
+   </msub>
+   <mfenced close=")" open="(" separators="">
+    <mrow>
+     <mi mathvariant="bold-italic">y</mi>
+     <mo>,</mo>
+     <msubsup>
+      <mi mathvariant="bold-italic">σ</mi>
+      <mrow>
+       <mi mathvariant="bold-italic">y</mi>
+      </mrow>
+      <mn>2</mn>
+     </msubsup>
+     <mo stretchy="false">|</mo>
+     <msub>
+      <mi>ϕ</mi>
+      <mi>j</mi>
+     </msub>
+     <mo>,</mo>
+     <msub>
+      <mi>ϕ</mi>
+      <mi>a</mi>
+     </msub>
+     <mo>,</mo>
+     <mi>α</mi>
+     <mo>,</mo>
+     <mi>N</mi>
+     <mo>,</mo>
+     <mi>f</mi>
+    </mrow>
+   </mfenced>
+   <mo>∗</mo>
+   <msub>
+    <mi>L</mi>
+    <mi mathvariant="italic">PR</mi>
+   </msub>
+   <mfenced close=")" open="(" separators="">
+    <mrow>
+     <mi mathvariant="bold-italic">ns</mi>
+     <mo>,</mo>
+     <mi mathvariant="bold-italic">cs</mi>
+     <mo>,</mo>
+     <mi mathvariant="bold-italic">ds</mi>
+     <mo stretchy="false">|</mo>
+     <mi>f</mi>
+    </mrow>
+   </mfenced>
+   <mo>∗</mo>
+   <msub>
+    <mi>L</mi>
+    <mi mathvariant="italic">CR</mi>
+   </msub>
+   <mrow>
+    <mo stretchy="false">(</mo>
+    <mi mathvariant="bold-italic">m</mi>
+    <mo stretchy="false">|</mo>
+    <msub>
+     <mi>ϕ</mi>
+     <mi>j</mi>
+    </msub>
+    <mo>,</mo>
+    <msub>
+     <mi>ϕ</mi>
+     <mi>a</mi>
+    </msub>
+    <mo>,</mo>
+    <mi>α</mi>
+    <mo>,</mo>
+    <mi>p</mi>
+    <mo stretchy="false">)</mo>
+   </mrow>
+  </mrow>
+ </math>.
+</p>

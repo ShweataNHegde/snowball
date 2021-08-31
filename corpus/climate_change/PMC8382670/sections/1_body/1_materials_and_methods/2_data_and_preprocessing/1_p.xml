@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par13">We focused on three ecosystem services (i.e., CS, WR, and HQ) given the critical role of the Tibetan Plateau in climate regulation, water supply, and biodiversity conservation (Barnett et al. 
+ <xref ref-type="bibr" rid="CR7">2005</xref>; Immerzeel et al. 
+ <xref ref-type="bibr" rid="CR36">2010</xref>, 
+ <xref ref-type="bibr" rid="CR37">2020</xref>). MODIS-based satellite and meteorological datasets were used to evaluate these ecosystem services (Table 
+ <xref rid="Tab1" ref-type="table">1</xref>). To investigate the exposure of ecosystem services to climate change, both historical baseline and future climate datasets from the WorldClim database are used. Baseline climate data (1970–2000) were acquired from WorldClim version 2.1 (Fick et al. 
+ <xref ref-type="bibr" rid="CR22">2017</xref>). Four climate scenarios considering representative concentration pathways (RCPs) and shared socioeconomic pathways (SSPs) were used for possible average future climate variables (annual mean temperature and annual precipitation) generated from 8 CMIP6 global climate models (BCC-CSM2-MR, CNRM-CM6-1, CNRM-ESM2-1, CanESM5, IPSL-CM6A-LR, MIROC-ES2L, MIROC6, and MRI-ESM2-0): SSP12.6, SSP2-4.5, SSP3-7.0, and SSP5-8.5, listed in the order of magnitude of temperature changes. Future climatic conditions are considered for a period of 20 years, between 2040 and 2060. For example, these future scenarios (2040–2060) resulted in an average temperature increase in the Tibetan Plateau of 2.5 °C in SSP1-2.6 and 3.6 °C in SSP5-8.5 (Fig. S3). The indicators and data used are described in Table 
+ <xref rid="Tab1" ref-type="table">1</xref>. The resolution of all raster data was resampled at 1 km × 1 km.
+</p>

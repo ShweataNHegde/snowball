@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par27">Lake Washington is a relatively large (surface area of 87.6 km
+ <sup>2</sup>) and deep (maximum depth of 65.2 m) monomictic lake, with temperature profiles having been collected weekly to twice monthly by the University of Washington at a central site within the lake since 1963. In this study, the lake temperature profiles were first interpolated to uniform 1-m depth intervals and then combined and interpolated to a uniform daily resolution. The interpolated data were then exported into a format suitable for use in rLakeAnalyzer
+ <sup>
+  <xref ref-type="bibr" rid="CR59">59</xref>
+ </sup>. Functions in rLakeAnalyzer were used to determine the density difference in the surface 1 m and near bottom water (55 m) each day over the period of the record. The onset and break-up of seasonal stratification were determined, similar to those from the ISIMIP2b simulations, by finding the first and last day of year in which a density difference of &gt;0.1 kg m
+ <sup>-3</sup> existed (stratification phenology in all lakes with in situ data, described hereafter, were defined relative to this threshold).
+</p>

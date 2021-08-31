@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B130-genes-12-00783">
+ <label>130.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Libbrecht</surname>
+    <given-names>M.W.</given-names>
+   </name>
+   <name>
+    <surname>Noble</surname>
+    <given-names>W.S.</given-names>
+   </name>
+  </person-group>
+  <article-title>Machine learning applications in genetics and genomics</article-title>
+  <source>Nat. Rev. Genet.</source>
+  <year>2015</year>
+  <volume>16</volume>
+  <fpage>321</fpage>
+  <lpage>332</lpage>
+  <pub-id pub-id-type="doi">10.1038/nrg3920</pub-id>
+  <pub-id pub-id-type="pmid">25948244</pub-id>
+ </element-citation>
+</ref>

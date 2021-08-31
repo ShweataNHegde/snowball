@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hua</surname>
+   <given-names>Ting</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5342-354X</contrib-id>
+  <name>
+   <surname>Zhao</surname>
+   <given-names>Wenwu</given-names>
+  </name>
+  <address>
+   <email>zhaoww@bnu.edu.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cherubini</surname>
+   <given-names>Francesco</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hu</surname>
+   <given-names>Xiangping</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pereira</surname>
+   <given-names>Paulo</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.20513.35</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1789 9964</institution-id>
+   <institution>State Key Laboratory of Earth Surface Processes and Resource Ecology, Faculty of Geographical Science, </institution>
+   <institution>Beijing Normal University, </institution>
+  </institution-wrap>Beijing, 100875 China 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.20513.35</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1789 9964</institution-id>
+   <institution>Institute of Land Surface System and Sustainable Development, Faculty of Geographical Science, </institution>
+   <institution>Beijing Normal University, </institution>
+  </institution-wrap>Beijing, 100875 China 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.5947.f</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 1516 2393</institution-id>
+   <institution>Industrial Ecology Programme and Department of Energy and Process Engineering, </institution>
+   <institution>Norwegian University of Science and Technology (NTNU), </institution>
+  </institution-wrap>Trondheim, Norway 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.5259.b</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 1009 8986</institution-id>
+   <institution>Environmental Management Center, </institution>
+   <institution>Mykolas Romeris University, </institution>
+  </institution-wrap>Ateities g. 20, 08303 Vilnius, Lithuania 
+ </aff>
+</contrib-group>

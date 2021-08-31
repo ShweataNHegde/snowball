@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B59-genes-12-00783">
+ <label>59.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Abebe</surname>
+    <given-names>T.D.</given-names>
+   </name>
+   <name>
+    <surname>Naz</surname>
+    <given-names>A.A.</given-names>
+   </name>
+   <name>
+    <surname>Leon</surname>
+    <given-names>J.</given-names>
+   </name>
+  </person-group>
+  <article-title>Landscape genomics reveal signatures of local adaptation in barley (
+   <italic>Hordeum vulgare</italic> L.)
+  </article-title>
+  <source>Front. Plant Sci.</source>
+  <year>2015</year>
+  <volume>6</volume>
+  <fpage>813</fpage>
+  <pub-id pub-id-type="doi">10.3389/fpls.2015.00813</pub-id>
+  <?supplied-pmid 26483825?>
+  <pub-id pub-id-type="pmid">26483825</pub-id>
+ </element-citation>
+</ref>

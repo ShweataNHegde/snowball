@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B102-genes-12-00783">
+ <label>102.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mir</surname>
+    <given-names>R.R.</given-names>
+   </name>
+   <name>
+    <surname>Reynolds</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Pinto</surname>
+    <given-names>F.</given-names>
+   </name>
+   <name>
+    <surname>Khan</surname>
+    <given-names>M.A.</given-names>
+   </name>
+   <name>
+    <surname>Bhat</surname>
+    <given-names>M.A.</given-names>
+   </name>
+  </person-group>
+  <article-title>High-throughput phenotyping for crop improvement in the genomics era</article-title>
+  <source>Plant. Sci.</source>
+  <year>2019</year>
+  <volume>282</volume>
+  <fpage>60</fpage>
+  <lpage>72</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.plantsci.2019.01.007</pub-id>
+  <?supplied-pmid 31003612?>
+  <pub-id pub-id-type="pmid">31003612</pub-id>
+ </element-citation>
+</ref>

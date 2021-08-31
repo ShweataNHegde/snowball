@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B70-life-11-00653">
+ <label>70.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wright</surname>
+    <given-names>B.R.</given-names>
+   </name>
+   <name>
+    <surname>Farquharson</surname>
+    <given-names>K.A.</given-names>
+   </name>
+   <name>
+    <surname>McLennan</surname>
+    <given-names>E.A.</given-names>
+   </name>
+   <name>
+    <surname>Belov</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Hogg</surname>
+    <given-names>C.J.</given-names>
+   </name>
+   <name>
+    <surname>Grueber</surname>
+    <given-names>C.E.</given-names>
+   </name>
+  </person-group>
+  <article-title>A demonstration of conservation genomics for threatened species management</article-title>
+  <source>Mol. Ecol. Resour.</source>
+  <year>2020</year>
+  <volume>20</volume>
+  <fpage>1526</fpage>
+  <lpage>1541</lpage>
+  <pub-id pub-id-type="doi">10.1111/1755-0998.13211</pub-id>
+  <?supplied-pmid 32562371?>
+  <pub-id pub-id-type="pmid">32562371</pub-id>
+ </element-citation>
+</ref>

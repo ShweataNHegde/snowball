@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig2">
+ <label>Fig. 2</label>
+ <caption>
+  <title>Temperature optima and climate curves.</title>
+  <p>
+   <bold>a</bold> Different growth rates at various temperatures. Colors show species with different mean temperature optima, with warmer colors corresponding to more warm-adapted species. The curves show the maximum growth rate achieved when a phenotype matches the local temperature, and how the growth rate decreases with an increased mismatch between a phenotype and local temperature, for each species. The dashed line shows zero growth: below this point, the given phenotype of a species mismatches the local temperature to the extent that it is too maladapted to be able to grow. Note the tradeoff between the width and height of the growth curves, with more warm-tolerant species having larger maximum growth at the cost of being viable for only a narrower range of temperatures
+   <sup>
+    <xref ref-type="bibr" rid="CR62">62</xref>,
+    <xref ref-type="bibr" rid="CR63">63</xref>
+   </sup>. 
+   <bold>b</bold> Temperature changes over time. After an initial establishment phase of 4000 years during which the pre-climate change community dynamics stabilize, temperatures start increasing at 
+   <italic>t</italic> = 0 for 300 years (vertical dotted line, indicating the end of climate change). Colors show temperature change at different locations along the spatial gradient, with warmer colors indicating lower latitudes. The magnitude and latitudinal dependence of the temperature change is based on region-specific predictions by 2100 CE, in combination with estimates giving an approximate increase by 2300 CE, for the IPCC intermediate emission scenario
+   <sup>
+    <xref ref-type="bibr" rid="CR27">27</xref>
+   </sup>.
+  </p>
+ </caption>
+ <graphic xlink:href="41467_2021_24977_Fig2_HTML" id="d32e510" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

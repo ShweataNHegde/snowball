@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR31">
+ <label>31.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cannon</surname>
+    <given-names>AJ</given-names>
+   </name>
+   <name>
+    <surname>McKendry</surname>
+    <given-names>IG</given-names>
+   </name>
+  </person-group>
+  <article-title>A graphical sensitivity analysis for statistical climate models: Application to Indian monsoon rainfall prediction by artificial neural networks and multiple linear regression models</article-title>
+  <source>Int. J. Climatol.</source>
+  <year>2002</year>
+  <volume>22</volume>
+  <fpage>1687</fpage>
+  <lpage>1708</lpage>
+  <pub-id pub-id-type="doi">10.1002/joc.811</pub-id>
+ </element-citation>
+</ref>

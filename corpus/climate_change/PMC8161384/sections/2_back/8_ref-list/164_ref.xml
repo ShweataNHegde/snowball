@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B164-genes-12-00783">
+ <label>164.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Guo</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Khan</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Pradhan</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Shahi</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Khan</surname>
+    <given-names>N.</given-names>
+   </name>
+   <name>
+    <surname>Avci</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>McBreen</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Harrison</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Brown-Guedira</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Murphy</surname>
+    <given-names>J.P.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Multi-Trait Genomic Prediction of Yield-Related Traits in US Soft Wheat under Variable Water Regimes</article-title>
+  <source>Genes</source>
+  <year>2020</year>
+  <volume>11</volume>
+  <elocation-id>1270</elocation-id>
+  <pub-id pub-id-type="doi">10.3390/genes11111270</pub-id>
+  <?supplied-pmid 33126620?>
+  <pub-id pub-id-type="pmid">33126620</pub-id>
+ </element-citation>
+</ref>

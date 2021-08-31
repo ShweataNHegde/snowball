@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par16">We used unit root tests to examine the stationarity properties of variables (Choi, 
+ <xref ref-type="bibr" rid="CR15">2001</xref>; Im et al., 
+ <xref ref-type="bibr" rid="CR43">2003</xref>; Levin et al., 
+ <xref ref-type="bibr" rid="CR48">2002</xref>; Maddala &amp; Wu, 
+ <xref ref-type="bibr" rid="CR50">1999</xref>). Levin et al.’s (
+ <xref ref-type="bibr" rid="CR48">2002</xref>) unit root test allows for homogeneity in the autoregressive coefficients and suggests the existence or absence of a unit root problem. Although the Im-Pesaran-Shin (IPS) unit root test is less rigorous, it is more appropriate than the LLC unit root test as it accounts for heterogeneity in autoregressive coefficients. For robustness, we also applied the augmented Dickey–Fuller (ADF) unit root test developed by Maddala and Wu (
+ <xref ref-type="bibr" rid="CR50">1999</xref>) and Choi (
+ <xref ref-type="bibr" rid="CR15">2001</xref>). The ADF test is a Fisher-type test that combines 
+ <italic>p</italic> values obtained from each cross-section’s stationarity tests. The ADF test is more efficient than the IPS test as it is responsive to the selected lag length in regressions. In this study, each stationarity test was performed with a deterministic intercept and trend.
+</p>

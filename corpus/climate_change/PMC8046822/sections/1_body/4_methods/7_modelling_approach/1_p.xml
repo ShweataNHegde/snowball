@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par37">We built and applied an ensemble modelling approach to deal with uncertainties involved in individual model performance and prediction. After the exploratory model runs, three machine learning algorithms, Random Forest (RF), Boosted Regression Trees (BRT) and Support Vector Machine (SVM) outperformed 15 other algorithms in terms of accuracy and were used for building the ensemble model.</p>

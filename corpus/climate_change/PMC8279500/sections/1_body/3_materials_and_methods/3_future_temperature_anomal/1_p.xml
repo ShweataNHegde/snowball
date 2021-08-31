@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The National Oceanic and Atmospheric Administration Climate Change Portal (
+ <ext-link ext-link-type="uri" xlink:href="http://www.esrl.noaa.gov/psd/ipcc/" xmlns:xlink="http://www.w3.org/1999/xlink">www.esrl.noaa.gov/psd/ipcc/</ext-link>) provides surface temperature anomalies from the GCM outputs from CMIP5 (
+ <xref rid="R19" ref-type="bibr">
+  <italic>19</italic>
+ </xref>). The portal provides RCP 4.5 and RCP 8.5 CMIP5 experiments separated by the magnitude of radiative forcing (W m
+ <sup>−2</sup>) in 2100. We retrieved future surface temperature anomalies from all available CMIP5 models under the RCP 4.5 (32 underlying models) and 8.5 (37 underlying models) scenarios for the 2005–2055 and 2050–2099 periods (full details in table S2). For each of the four RCP and time period combinations, we generated an ensemble mean of surface temperature anomalies for the available CMIP5 models, based on the default 1956–2005 reference period, at a 1° × 1° resolution (fig. S3). Besides being the most informed GCM output globally, surface temperature changes are likely the single most important variable of climate change influencing both natural and human systems (
+ <xref rid="R2" ref-type="bibr">
+  <italic>2</italic>
+ </xref>, 
+ <xref rid="R6" ref-type="bibr">
+  <italic>6</italic>
+ </xref>, 
+ <xref rid="R53" ref-type="bibr">
+  <italic>53</italic>
+ </xref>).
+</p>

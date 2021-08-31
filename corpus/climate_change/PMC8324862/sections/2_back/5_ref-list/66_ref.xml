@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR66">
+ <label>66.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kulp</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Strauss</surname>
+    <given-names>BH</given-names>
+   </name>
+  </person-group>
+  <article-title>New elevation data triple estimates of global vulnerability to sea-level rise and coastal flooding</article-title>
+  <source>Nat. Commun.</source>
+  <year>2019</year>
+  <volume>10</volume>
+  <fpage>4844</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41467-019-12808-z</pub-id>
+  <?supplied-pmid 31664024?>
+  <pub-id pub-id-type="pmid">31664024</pub-id>
+ </element-citation>
+</ref>

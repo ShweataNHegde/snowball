@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ece37735-bib-0103">
+ <mixed-citation publication-type="book" id="ece37735-cit-0103">
+  <string-name>
+   <surname>Wickham</surname>, 
+   <given-names>H.</given-names>
+  </string-name> (
+  <year>2016</year>). 
+  <source>ggplot2: Elegant Graphics for Data Analysis</source>. 
+  <publisher-name>Springer‐Verlag</publisher-name>. 
+  <ext-link xlink:href="https://ggplot2.tidyverse.org" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">https://ggplot2.tidyverse.org</ext-link>
+ </mixed-citation>
+</ref>

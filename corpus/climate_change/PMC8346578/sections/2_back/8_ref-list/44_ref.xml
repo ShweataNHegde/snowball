@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR44">
+ <label>44.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Snyder</surname>
+    <given-names>RE</given-names>
+   </name>
+  </person-group>
+  <article-title>Spatiotemporal population distributions and their implications for species coexistence in a variable environment</article-title>
+  <source>Theor. Popul. Biol.</source>
+  <year>2007</year>
+  <volume>72</volume>
+  <fpage>7</fpage>
+  <lpage>20</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.tpb.2007.03.009</pub-id>
+  <?supplied-pmid 17499323?>
+  <pub-id pub-id-type="pmid">17499323</pub-id>
+ </element-citation>
+</ref>

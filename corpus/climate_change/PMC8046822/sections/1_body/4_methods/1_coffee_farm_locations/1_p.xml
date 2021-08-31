@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par24">We first obtained and digitized maps of the specialty coffee production areas in Ethiopia
+ <sup>
+  <xref ref-type="bibr" rid="CR48">48</xref>
+ </sup>. We then identified 8 specialty coffee types, namely, Bale, Guji, Harar, Keffa, Nekemte, Limu, Sidamo and Yirgacheffe. Then, we compiled GPS coordinates of coffee farms in Ethiopia from the following four sources:
+ <list list-type="bullet">
+  <list-item>
+   <p id="Par25">CABI Crop Protection Compendium, (CABI-CPC, 
+    <ext-link ext-link-type="uri" xlink:href="https://www.cabi.org/cpc/" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.cabi.org/cpc/</ext-link>): The compendium is an encyclopaedic resource with a collection of science-based information on all aspects of crops that have been sourced from experts, independent scientific organizations, and specialist organizations in the form of images, maps, and geographic coordinates
+    <sup>
+     <xref ref-type="bibr" rid="CR57">57</xref>
+    </sup>. We, therefore, searched for reports on “
+    <italic>Coffea arabica</italic>” for Ethiopia and retrieved all coordinates.
+   </p>
+  </list-item>
+  <list-item>
+   <p id="Par26">Global Biodiversity Information Facility (GBIF, 
+    <ext-link ext-link-type="uri" xlink:href="http://www.gbif.org" xmlns:xlink="http://www.w3.org/1999/xlink">www.gbif.org</ext-link>): The GBIF was established in 2001 to publish primary biodiversity data using community-driven and agreed standards and tools. It facilitates open access to biodiversity data worldwide for scientific research, conservation and sustainable development with over one billion occurrence records of species.
+   </p>
+  </list-item>
+  <list-item>
+   <p id="Par27">Integrated Digital Collection (iDigBio, 
+    <ext-link ext-link-type="uri" xlink:href="http://www.idigBio.org" xmlns:xlink="http://www.w3.org/1999/xlink">www.idigBio.org</ext-link>): iDigBio is an online resource for specimen digitization and digital data mobilization for researchers to visualize, analyse, and model species with possibilities for big data strategies. Millions of specimen-based occurrence data are available on this portal.
+   </p>
+  </list-item>
+  <list-item>
+   <p id="Par28">Scientific publications: To supplement the presence points obtained from the databases, coffee points were also digitized from two scientific publications that have coffee presence points for Ethiopia. These were Ridley
+    <sup>
+     <xref ref-type="bibr" rid="CR38">38</xref>
+    </sup> and Moat, et al.
+    <sup>
+     <xref ref-type="bibr" rid="CR42">42</xref>
+    </sup>.
+   </p>
+  </list-item>
+ </list>
+</p>

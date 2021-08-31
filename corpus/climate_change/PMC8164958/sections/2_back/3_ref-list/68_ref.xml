@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR68">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Petrova</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Gorlenko</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Mindlin</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Tn5045, a novel integron-containing antibiotic and chromate resistance transposon isolated from a permafrost bacterium</article-title>
+  <source>Res Microbiol</source>
+  <year>2011</year>
+  <volume>162</volume>
+  <fpage>337</fpage>
+  <lpage>345</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.resmic.2011.01.003</pub-id>
+  <pub-id pub-id-type="pmid">21262357</pub-id>
+ </element-citation>
+</ref>

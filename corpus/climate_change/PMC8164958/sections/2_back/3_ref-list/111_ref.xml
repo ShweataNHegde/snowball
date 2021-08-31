@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR111">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wouters</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Gardner</surname>
+    <given-names>AS</given-names>
+   </name>
+   <name>
+    <surname>Moholdt</surname>
+    <given-names>G</given-names>
+   </name>
+  </person-group>
+  <article-title>Global glacier mass loss during the GRACE satellite mission (2002–2016)</article-title>
+  <source>Front Earth Sci</source>
+  <year>2019</year>
+  <volume>7</volume>
+  <fpage>96</fpage>
+  <pub-id pub-id-type="doi">10.3389/feart.2019.00096</pub-id>
+ </element-citation>
+</ref>

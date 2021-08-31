@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R86">
+ <label>86</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Witt</surname>
+    <given-names>C</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Schubert</surname>
+    <given-names>AJ</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Jehn</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>The effects of climate change on patients with chronic lung disease. A systematic literature review</article-title>. 
+  <source>Dtsch Arztebl Int</source>
+  <year>2015</year>;
+  <volume>112</volume>:
+  <fpage>878</fpage>–
+  <lpage>83</lpage>. 
+  <pub-id pub-id-type="doi">10.3238/arztebl.2015.0878</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/26900154?>
+  <pub-id pub-id-type="pmid">26900154</pub-id>
+ </mixed-citation>
+</ref>

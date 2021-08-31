@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR48">
+ <label>48.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Barnard</surname>
+    <given-names>PL</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Development of the Coastal Storm Modeling System (CoSMoS) for predicting the impact of storms on high-energy, active-margin coasts</article-title>
+  <source>Nat. Hazards</source>
+  <year>2014</year>
+  <volume>74</volume>
+  <fpage>1095</fpage>
+  <lpage>1125</lpage>
+  <pub-id pub-id-type="doi">10.1007/s11069-014-1236-y</pub-id>
+ </element-citation>
+</ref>

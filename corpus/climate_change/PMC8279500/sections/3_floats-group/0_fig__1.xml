@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F1" fig-type="figure" orientation="portrait" position="float">
+ <label>Fig. 1</label>
+ <caption>
+  <title>Spatial variability of global anthropogenic GH emissions and projected end-of-century temperature anomalies.</title>
+  <p>(
+   <bold>A</bold>) Anthropogenic GH emissions (CO
+   <sub>2</sub>, BC, CH
+   <sub>4</sub>, and N
+   <sub>2</sub>O) averaged from 1970 to 2018, (
+   <bold>B</bold>) summarized in columnar form by 1° latitude means. (
+   <bold>C</bold>) Multimodel ensemble of surface air temperature departures for the RCP 8.5 scenario over 2050–2099 relative to the 1956–2005 temperature baseline, (
+   <bold>D</bold>) also averaged in 1° latitude bins. Extreme emissions are largely concentrated in human population centers (see fig. S18), while extreme temperature shifts are widespread at high latitudes. By comparison to land, the ocean has a lower amplitude in both datasets, with few emissions and lower projected temperature shifts.
+  </p>
+ </caption>
+ <graphic xlink:href="abe4342-F1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

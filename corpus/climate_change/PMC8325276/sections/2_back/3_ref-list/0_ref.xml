@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="r1">
+ <label>1</label>
+ <mixed-citation publication-type="book">
+  <person-group person-group-type="author">
+   <collab>Core Writing Team</collab>
+  </person-group>, 
+  <source>Climate Change 2014: Synthesis Report. Contribution of Working Groups I, II and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change</source>, 
+  <person-group person-group-type="editor">
+   <string-name>
+    <given-names>R. K.</given-names>
+    <surname>Pachauri</surname>
+   </string-name>, 
+   <string-name>
+    <given-names>L. A.</given-names>
+    <surname>Meyer</surname>
+   </string-name>
+  </person-group>, Eds. (
+  <publisher-name>IPCC</publisher-name>, 
+  <publisher-loc>Geneva, Switzerland</publisher-loc>, 
+  <year>2014</year>).
+ </mixed-citation>
+</ref>

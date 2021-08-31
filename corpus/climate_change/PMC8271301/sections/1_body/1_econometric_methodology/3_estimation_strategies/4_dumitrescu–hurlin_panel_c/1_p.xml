@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par20">We employed the Dumitrescu–Hurlin causality test (Dumitrescu &amp; Hurlin, 
+ <xref ref-type="bibr" rid="CR25">2012</xref>) to ascertain the causal association between population growth, GDP per capita, cultivated area, temperature, rainfall, and food security. A better understanding of causality among variables helps policymakers implement appropriate policies to ensure sustainable food security. The Dumitrescu–Hurlin causality test presumes that all the coefficients differ across cross-sections. However, Monte Carlo simulations suggest that this test can generate strong outcomes even in the presence of cross-sectional dependency (Dogan &amp; Bulbul, 
+ <xref ref-type="bibr" rid="CR21">2017</xref>). The Dumitrescu–Hurlin causality test applies when 
+ <inline-formula id="IEq49">
+  <alternatives>
+   <tex-math id="M119">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$~T &gt; N~{\text{and}}~T &lt; N$$\end{document}</tex-math>
+   <math id="M120">
+    <mrow>
+     <mspace width="3.33333pt"/>
+     <mi>T</mi>
+     <mo>&gt;</mo>
+     <mi>N</mi>
+     <mspace width="3.33333pt"/>
+     <mtext>and</mtext>
+     <mspace width="3.33333pt"/>
+     <mi>T</mi>
+     <mo>&lt;</mo>
+     <mi>N</mi>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq49.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> and it can also be used on both balanced and heterogeneous panels. Dumitrescu and Hurlin (
+ <xref ref-type="bibr" rid="CR25">2012</xref>) considered the ensuing linear model for the panel causality test:
+ <disp-formula id="Equ12">
+  <label>12</label>
+  <alternatives>
+   <tex-math id="M121">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$y_{{it}} = \Omega _{i} + \mathop \sum \limits_{{n = 1}}^{N} \rho _{i}^{{\left( n \right)}} y_{{i,t - n}} + \mathop \sum \limits_{{n = 1}}^{N} \theta _{i}^{{\left( n \right)}} x_{{i,t - n}} + \mu _{{i,t}}$$\end{document}</tex-math>
+   <math id="M122" display="block">
+    <mrow>
+     <msub>
+      <mi>y</mi>
+      <mrow>
+       <mi mathvariant="italic">it</mi>
+      </mrow>
+     </msub>
+     <mo>=</mo>
+     <msub>
+      <mi mathvariant="normal">Ω</mi>
+      <mi>i</mi>
+     </msub>
+     <mo>+</mo>
+     <munderover>
+      <mo movablelimits="false">∑</mo>
+      <mrow>
+       <mrow>
+        <mi>n</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+       </mrow>
+      </mrow>
+      <mi>N</mi>
+     </munderover>
+     <msubsup>
+      <mi>ρ</mi>
+      <mrow>
+       <mi>i</mi>
+      </mrow>
+      <mfenced close=")" open="(">
+       <mi>n</mi>
+      </mfenced>
+     </msubsup>
+     <msub>
+      <mi>y</mi>
+      <mrow>
+       <mi>i</mi>
+       <mo>,</mo>
+       <mi>t</mi>
+       <mo>-</mo>
+       <mi>n</mi>
+      </mrow>
+     </msub>
+     <mo>+</mo>
+     <munderover>
+      <mo movablelimits="false">∑</mo>
+      <mrow>
+       <mrow>
+        <mi>n</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+       </mrow>
+      </mrow>
+      <mi>N</mi>
+     </munderover>
+     <msubsup>
+      <mi>θ</mi>
+      <mrow>
+       <mi>i</mi>
+      </mrow>
+      <mfenced close=")" open="(">
+       <mi>n</mi>
+      </mfenced>
+     </msubsup>
+     <msub>
+      <mi>x</mi>
+      <mrow>
+       <mi>i</mi>
+       <mo>,</mo>
+       <mi>t</mi>
+       <mo>-</mo>
+       <mi>n</mi>
+      </mrow>
+     </msub>
+     <mo>+</mo>
+     <msub>
+      <mi>μ</mi>
+      <mrow>
+       <mi>i</mi>
+       <mo>,</mo>
+       <mi>t</mi>
+      </mrow>
+     </msub>
+    </mrow>
+   </math>
+   <graphic xlink:href="10668_2021_1621_Article_Equ12.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>where 
+ <inline-formula id="IEq50">
+  <alternatives>
+   <tex-math id="M123">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\rho _{i}^{{\left( n \right)}}$$\end{document}</tex-math>
+   <math id="M124">
+    <msubsup>
+     <mi>ρ</mi>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+     <mfenced close=")" open="(">
+      <mi>n</mi>
+     </mfenced>
+    </msubsup>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq50.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> stands for the autoregressive parameter, 
+ <inline-formula id="IEq51">
+  <alternatives>
+   <tex-math id="M125">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\theta _{i}^{{\left( n \right)}}$$\end{document}</tex-math>
+   <math id="M126">
+    <msubsup>
+     <mi>θ</mi>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+     <mfenced close=")" open="(">
+      <mi>n</mi>
+     </mfenced>
+    </msubsup>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq51.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> represents the coefficient slope that differentiates across cross-sections, 
+ <inline-formula id="IEq52">
+  <alternatives>
+   <tex-math id="M127">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\Omega _{i}$$\end{document}</tex-math>
+   <math id="M128">
+    <msub>
+     <mi mathvariant="normal">Ω</mi>
+     <mi>i</mi>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq52.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> connotes the constant term, and 
+ <inline-formula id="IEq53">
+  <alternatives>
+   <tex-math id="M129">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$N$$\end{document}</tex-math>
+   <math id="M130">
+    <mi>N</mi>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq53.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> indicates the lag length, which is presumed to be the same for all the cross-sections where the panel is balanced.
+</p>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par17">In general, linear regressions are characterized by 2–5 predictors, depending on the RCM. The exception is DMI-HIRHAM5, which regression is composed of 7 predictors. However, tests show no conspicuous overfitting. Moreover, correlations after cross-validation range between 0.59 (explaining 18% of the variance) and 0.97 (explaining 92% of the variance). Notably, cluster 2 shows smaller differences (MAE ranging from 0.19 to 0.55) between observed and forecasted yields than cluster 1 (MAE ranging from 0.39 to 0.67).</p>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We used future climate layers available on WorldClim v1.4 at 30 arc‐second resolution to project the species distribution models using several future climate scenarios. Layers were treated as those above. The climate layers used for modeling were derived from the algorithms CCSM4 (Vertenstein et al., 
+ <xref rid="ece37735-bib-0096" ref-type="bibr">2020</xref>) and MIROC5 (Tatebe et al., 
+ <xref rid="ece37735-bib-0089" ref-type="bibr">2012</xref>) to include models with different levels of complexity (Mehta et al., 
+ <xref rid="ece37735-bib-0051" ref-type="bibr">2013</xref>) for the years 2050 (averaged 2041–2060) and 2070 (averaged 2061–2080). We included greenhouse gas scenarios rcp4.5 (an intermediate scenario where emissions peak around 2040 but decline) and rcp8.5 (a worst‐case scenario where emissions continue to increase), to identify changes from least to most extreme, resulting in 4 future climate models for both algorithms. We averaged the models for each year (2050 and 2070) so that four models contributed to the average: CCSM4 and MIROC5 and rcp4.5 and rcp8.5 to create mean projections for visualization and some analyses below.
+</p>

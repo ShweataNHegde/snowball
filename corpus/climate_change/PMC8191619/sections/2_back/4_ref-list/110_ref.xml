@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R110">
+ <label>110</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Huang</surname>
+    <given-names>K-C</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Weng</surname>
+    <given-names>H-H</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Yang</surname>
+    <given-names>T-Y</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Distribution of fatal Vibrio vulnificus necrotizing skin and soft-tissue infections: a systematic review and meta-analysis</article-title>. 
+  <source>Medicine</source>
+  <year>2016</year>;
+  <volume>95</volume>:
+  <elocation-id>e2627</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1097/MD.0000000000002627</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/26844475?>
+  <pub-id pub-id-type="pmid">26844475</pub-id>
+ </mixed-citation>
+</ref>

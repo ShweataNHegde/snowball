@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Six transformations needed to achieve the UN sustainable development goals</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <tbody>
+   <tr>
+    <td align="left">● Sustainable development is a societal rather than an environmental challenge</td>
+   </tr>
+   <tr>
+    <td align="left">● Responsible consumption and production cut across several of the other transitions so adopting some sort of a circular economy approach and reducing demand is important</td>
+   </tr>
+   <tr>
+    <td align="left">● It is possible to decarbonize the energy system around 2050 while providing clean and affordable energy for all, including through energy efficiency, more renewables, and electrification</td>
+   </tr>
+   <tr>
+    <td align="left">● Achieving access to nutritional food and clean water for all, while protecting the biosphere and the oceans, requires more efficient and sustainable food systems</td>
+   </tr>
+   <tr>
+    <td align="left">● Transforming our settlement patterns will benefit the majority of the world population—such as through “smart” infrastructure, decent housing, and high connectivity</td>
+   </tr>
+   <tr>
+    <td align="left">● Science, technology, and innovations is a powerful driver, but the direction of change needs to support sustainable development. In particular, much depends on the way the world will put the information technology revolution to use</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Source: Adapted from Stockholm Resilience Centre (
+   <xref ref-type="bibr" rid="CR46">2018</xref>)
+  </p>
+ </table-wrap-foot>
+</table-wrap>

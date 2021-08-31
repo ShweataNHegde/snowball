@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We standardized the number of decimal places to three for the designation of latitude and longitude followed by removing duplicate coordinates. In order to verify the accuracy of the data points, shape files that represent the species known distributions were acquired from IUCN Red List (
+ <ext-link xlink:href="https://www.iucnredlist.org/" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.iucnredlist.org/</ext-link>). For each species, location samples were plotted on corresponding IUCN shape files using the package 
+ <italic toggle="yes">ggplot2</italic> (Wickham, 
+ <xref rid="ece37735-bib-0103" ref-type="bibr">2016</xref>). Points falling outside the established area were considered suspect and reviewed further. Many suspect points were removed from each species in order to avoid skewing the results due to potentially improperly identified samples. For each species, specific criteria were used to determine which points outside of the IUCN distribution should be removed, based on known habitat information regarding the species (see Figures 
+ <xref rid="ece37735-sup-0001" ref-type="supplementary-material">S1–S8</xref> descriptions for details). After removal of localities within the same 1 km grid cell to prevent pseudo‐replication, a total of 6 
+ <italic toggle="yes">P. asupak</italic>, 299 
+ <italic toggle="yes">P. dunni</italic>, 275 
+ <italic toggle="yes">P. elongatus</italic>, 112 
+ <italic toggle="yes">P. idahoensis</italic>, 76 
+ <italic toggle="yes">P. larselli</italic>, 63 
+ <italic toggle="yes">P. stormi</italic>, 109 
+ <italic toggle="yes">P. vandykei</italic>, and 664 
+ <italic toggle="yes">P. vehiculum</italic> were used for modeling (Table 
+ <xref rid="ece37735-tbl-0001" ref-type="table">1</xref>).
+</p>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par34">Not all lakes within the CCI Lakes data set were suitable for this study. Here, we were only interested in freshwater lakes (due to the temperature–density relationship described previously that complicates the identification of stratification from surface observations), and thus we removed all brackish/saline lakes from the analysis. To identify which lakes were freshwater and which were brackish/saline, we first extracted the names of each lake within CCI Lakes, achieved by mapping the CCI lake mask onto the Hydrolakes data set
+ <sup>
+  <xref ref-type="bibr" rid="CR66">66</xref>
+ </sup>. Lake names were then used within a literature search to identify whether a given lake was freshwater/saline/brackish. For lakes with no available information, we then used the Hydrolakes database to identify which lakes were likely situated in terminal sinks (i.e. with no throughflow) and were thus likely to be brackish/saline. To identify these lakes, we used the average discharge information available in Hydrolakes, and all lakes with negligible discharge (&lt;1 m
+ <sup>3</sup> s
+ <sup>−1</sup>) were removed from the analysis.
+</p>

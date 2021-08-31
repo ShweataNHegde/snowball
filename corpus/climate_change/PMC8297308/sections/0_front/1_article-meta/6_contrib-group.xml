@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-1747-9340</contrib-id>
+  <name>
+   <surname>Panepinto</surname>
+   <given-names>Deborah</given-names>
+  </name>
+  <xref rid="c1-ijerph-18-06767" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Riggio</surname>
+   <given-names>Vincenzo A.</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zanetti</surname>
+   <given-names>Mariachiara</given-names>
+  </name>
+ </contrib>
+</contrib-group>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7033-7798</contrib-id>
+  <name>
+   <surname>Burke</surname>
+   <given-names>Ariane</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">
+   <sup>a</sup>
+  </xref>
+  <xref rid="cor1" ref-type="corresp">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5507-9268</contrib-id>
+  <name>
+   <surname>Peros</surname>
+   <given-names>Matthew C.</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">
+   <sup>b</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4940-3997</contrib-id>
+  <name>
+   <surname>Wren</surname>
+   <given-names>Colin D.</given-names>
+  </name>
+  <xref rid="aff3" ref-type="aff">
+   <sup>c</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pausata</surname>
+   <given-names>Francesco S. R.</given-names>
+  </name>
+  <xref rid="aff4" ref-type="aff">
+   <sup>d</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8418-0958</contrib-id>
+  <name>
+   <surname>Riel-Salvatore</surname>
+   <given-names>Julien</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7522-9975</contrib-id>
+  <name>
+   <surname>Moine</surname>
+   <given-names>Olivier</given-names>
+  </name>
+  <xref rid="aff5" ref-type="aff">
+   <sup>e</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5656-724X</contrib-id>
+  <name>
+   <surname>de Vernal</surname>
+   <given-names>Anne</given-names>
+  </name>
+  <xref rid="aff4" ref-type="aff">
+   <sup>d</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kageyama</surname>
+   <given-names>Masa</given-names>
+  </name>
+  <xref rid="aff6" ref-type="aff">
+   <sup>f</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5835-2488</contrib-id>
+  <name>
+   <surname>Boisard</surname>
+   <given-names>Solène</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <aff id="aff1">
+  <sup>a</sup>
+  <institution>Université de Montréal</institution>, Montreal, QC H3T 1J4, 
+  <country>Canada</country>;
+ </aff>
+ <aff id="aff2">
+  <sup>b</sup>
+  <institution>Bishop’s University</institution>, Sherbrooke, QC J1M 1Z7, 
+  <country>Canada</country>;
+ </aff>
+ <aff id="aff3">
+  <sup>c</sup>
+  <institution>University of Colorado</institution>, Colorado Springs, 
+  <addr-line>CO</addr-line> 80918;
+ </aff>
+ <aff id="aff4">
+  <sup>d</sup>
+  <institution>Université de Québec à Montréal</institution>, Montreal, QC H2L 2C4, 
+  <country>Canada</country>;
+ </aff>
+ <aff id="aff5">
+  <sup>e</sup>UMR 8591 CNRS Université Paris 1, 
+  <institution>Université Paris-Est Créteil Val de Marne</institution>, 94010 Créteil, 
+  <country>France</country>;
+ </aff>
+ <aff id="aff6">
+  <sup>f</sup>Laboratoire des Sciences du Climat et de l’Environnement/
+  <institution>Institut Pierre Simon Laplace</institution>, 91191 Gif-sur-Yvette, 
+  <country>France</country>
+ </aff>
+</contrib-group>

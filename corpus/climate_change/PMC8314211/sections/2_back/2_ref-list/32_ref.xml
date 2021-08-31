@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B32">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Karasov</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Messer</surname>
+    <given-names>P. W.</given-names>
+   </name>
+   <name>
+    <surname>Petrov</surname>
+    <given-names>D. A.</given-names>
+   </name>
+  </person-group> (
+  <year>2010</year>). 
+  <article-title>Evidence that adaptation in 
+   <italic>Drosophila</italic> is not limited by mutation at single sites.
+  </article-title>
+  <source>
+   <italic>PLoS Genet.</italic>
+  </source>
+  <volume>6</volume>:
+  <issue>e1000924</issue>. 
+  <pub-id pub-id-type="doi">10.1371/journal.pgen.1000924</pub-id>
+  <?supplied-pmid 20585551?>
+  <pub-id pub-id-type="pmid">20585551</pub-id>
+ </mixed-citation>
+</ref>

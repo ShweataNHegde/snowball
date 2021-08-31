@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B69-genes-12-00783">
+ <label>69.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Herzog</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Frisch</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group>
+  <article-title>Selection strategies for marker-assisted backcrossing with high-throughput marker systems</article-title>
+  <source>Theor. Appl. Genet.</source>
+  <year>2011</year>
+  <volume>123</volume>
+  <fpage>251</fpage>
+  <lpage>260</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00122-011-1581-0</pub-id>
+  <?supplied-pmid 21476041?>
+  <pub-id pub-id-type="pmid">21476041</pub-id>
+ </element-citation>
+</ref>

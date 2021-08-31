@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B193-genes-12-00783">
+ <label>193.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Runcie</surname>
+    <given-names>D.E.</given-names>
+   </name>
+   <name>
+    <surname>Qu</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Cheng</surname>
+    <given-names>H.</given-names>
+   </name>
+   <name>
+    <surname>Crawford</surname>
+    <given-names>L.</given-names>
+   </name>
+  </person-group>
+  <article-title>Mega-scale linear mixed models for genomic predictions with thousands of traits</article-title>
+  <source>bioRxiv</source>
+  <year>2020</year>
+  <pub-id pub-id-type="doi">10.1101/2020.05.26.116814</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="plants-10-01463-t001" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">plants-10-01463-t001_Table 1</object-id>
+ <label>Table 1</label>
+ <caption>
+  <p>Production (t), cultivated area (ha), and productivity (t ha
+   <sup>−1</sup>) of chestnut by country, in 2019 [
+   <xref rid="B14-plants-10-01463" ref-type="bibr">14</xref>].
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Country</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Production (t)</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Cultivated Area (ha)</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Productivity (t ha
+     <sup>−1</sup>)
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Albania</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5846</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2406</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.4</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Bolivia</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">86,280</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">59,965</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.4</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Bosnia and Herzegovina</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2109</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1678</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.3</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Chile</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2848</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1263</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.3</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">China</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1,849,137</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">330,370</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.6</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">France</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">7350</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">8570</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.9</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Greece</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">28,980</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">8410</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3.4</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Hungary</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">200</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">260</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.8</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Italy</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">39,980</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">36,280</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.1</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Japan</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">15,700</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">17,800</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.9</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">North Korea</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">12,872</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5275</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.4</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">North Macedonia</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1439</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1004</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.4</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Portugal </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">35,830</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">38,870</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">0.9</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Republic of Korea</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">54,708</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">32,869</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1.7</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Romania</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">40</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">10</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4.0</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Slovenia</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">60</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">30</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2.0</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Spain</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">50,897</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">37,120</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.1</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Turkey</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">72,655</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">12,714</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">5.7</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ukraine</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">228</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">82</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2.8</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

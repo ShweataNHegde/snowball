@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="ece37735-abs-0001">
+ <title>Abstract</title>
+ <sec id="ece37735-sec-0001">
+  <title>Aim</title>
+  <p>Given that salamanders have experienced large shifts in their distributions over time, we determined how each species of 
+   <italic toggle="yes">Plethodon</italic> in the Pacific Northwest would respond to climate change. We incorporated several greenhouse scenarios both on a species‐by‐species basis, and also using phylogenetic groups, with the aim to determine the best course of action in managing land area to conserve diversity in this group.
+  </p>
+ </sec>
+ <sec id="ece37735-sec-0002">
+  <title>Location</title>
+  <p>Pacific Northwest of the United States (northern CA, OR, WA, ID, and MT).</p>
+ </sec>
+ <sec id="ece37735-sec-0003">
+  <title>Major taxa studied</title>
+  <p>Western 
+   <italic toggle="yes">Plethodon</italic> salamanders.
+  </p>
+ </sec>
+ <sec id="ece37735-sec-0004">
+  <title>Methods</title>
+  <p>Species distribution models were estimated using MaxEnt for the current time period and for several future climate scenarios using bioclimatic data layers. We used several methods to quantify the change in habitat suitability over time from the models. We explored aspects of the climate layers to determine whether we can expect a concerted response to climate change due to similarity in ecological niche or independent responses that could be harder to manage.</p>
+ </sec>
+ <sec id="ece37735-sec-0005">
+  <title>Results</title>
+  <p>The distribution of western 
+   <italic toggle="yes">Plethodon</italic> salamander species is strongly influenced by precipitation and less so by temperature. Species responses to climate change resulted in both increases and decreases in predicted suitable habitat, though most species ranges do not contract, especially when taken as a phylogenetic group.
+  </p>
+ </sec>
+ <sec id="ece37735-sec-0006">
+  <title>Main conclusions</title>
+  <p>While some established habitats may become more or less climatically suitable, the overall distribution of species in this group is unlikely to be significantly affected. Clades of 
+   <italic toggle="yes">Plethodon</italic> species are unlikely to be in danger of extirpation despite the possibility that individual species may be threatened as a result of limited distributions. Grouping species into lineages with similar geographic ranges can be a viable method of determining conservation needs. More biotic and dispersal information is needed to determine the true impact that changes in climate will have on the distribution of 
+   <italic toggle="yes">Plethodon</italic> species.
+  </p>
+ </sec>
+</abstract>

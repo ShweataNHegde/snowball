@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR68">
+ <label>68.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Simpson</surname>
+    <given-names>GL</given-names>
+   </name>
+  </person-group>
+  <article-title>Modelling palaeoecological time series using generalised additive models</article-title>
+  <source>Front. Ecol. Evol.</source>
+  <year>2018</year>
+  <volume>6</volume>
+  <fpage>149</fpage>
+  <pub-id pub-id-type="doi">10.3389/fevo.2018.00149</pub-id>
+ </element-citation>
+</ref>

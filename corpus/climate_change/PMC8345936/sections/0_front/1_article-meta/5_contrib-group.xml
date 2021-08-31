@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>McDermott-Levy</surname>
+   <given-names>Ruth</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-ijerph-18-08220">1</xref>
+  <xref rid="c1-ijerph-18-08220" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Scolio</surname>
+   <given-names>Madeline</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-ijerph-18-08220">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7035-7019</contrib-id>
+  <name>
+   <surname>Shakya</surname>
+   <given-names>Kabindra M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-ijerph-18-08220">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Moore</surname>
+   <given-names>Caroline H.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-ijerph-18-08220">3</xref>
+ </contrib>
+</contrib-group>

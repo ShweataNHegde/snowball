@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par23">As the microhabitat features in a mountainous area may strongly depend on quantity and quality of insolation, which strongly dependent on aspect and slope, we computed monthly insolation time and irradiation (W/m
+ <sup>2</sup> h) using the relevant functions in QGIS 3.10.2. Dimensionality was reduced using a principal component analysis (PCA) resulting in three principal components with eigenvalues &gt; 1. In a second step, bioclimatic variables were computed for each year using the biovars function of the dismo package for R, excluding overly complex variables
+ <sup>
+  <xref ref-type="bibr" rid="CR53">53</xref>
+ </sup> (Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">S2</xref> online). Bioclimatic conditions were extracted at each species record from the respective year of discovery, and a second principal component analysis was trained in order to reduce dimensionality (Supplementary Table 
+ <xref rid="MOESM1" ref-type="media">S2</xref> online). This PCA model resulted in three PCs with eigenvalues &gt; 1 and was projected onto each time slice, and the distribution models were trained using both the PCs obtained from bioclimatic and topographic information (see below).
+</p>

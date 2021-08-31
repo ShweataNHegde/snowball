@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par32">Socioeconomic exposure to the flood extent for 21 SLR/storm scenarios
+ <sup>
+  <xref ref-type="bibr" rid="CR49">49</xref>
+ </sup> was estimated by the geospatial analysis of various community assets
+ <sup>
+  <xref ref-type="bibr" rid="CR52">52</xref>,
+  <xref ref-type="bibr" rid="CR112">112</xref>
+ </sup>. Residential counts are based on 2010 block level data from the U.S. Census Bureau
+ <sup>
+  <xref ref-type="bibr" rid="CR113">113</xref>
+ </sup>. Employee counts and locations came from the 2020 Infogroup Employer Database
+ <sup>
+  <xref ref-type="bibr" rid="CR114">114</xref>
+ </sup>. Parcel boundaries and their total assessed values (tax year 2019) are from the Homeland Infrastructure Foundation-Level Data (HIFLD) repository
+ <sup>
+  <xref ref-type="bibr" rid="CR115">115</xref>
+ </sup>. Estimates of developed land are based on high-, medium-, and low-intensity developed classes in the 2016 National Land Cover Database
+ <sup>
+  <xref ref-type="bibr" rid="CR116">116</xref>
+ </sup>. All the data are served up in an interactive web application
+ <sup>
+  <xref ref-type="bibr" rid="CR117">117</xref>
+ </sup>.
+</p>

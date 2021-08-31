@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B238-genes-12-00783">
+ <label>238.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tanaka</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Iwata</surname>
+    <given-names>H.</given-names>
+   </name>
+  </person-group>
+  <article-title>Bayesian optimization for genomic selection: A method for discovering the best genotype among a large number of candidates</article-title>
+  <source>Theor. Appl. Genet.</source>
+  <year>2018</year>
+  <volume>131</volume>
+  <fpage>93</fpage>
+  <lpage>105</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00122-017-2988-z</pub-id>
+  <?supplied-pmid 28986680?>
+  <pub-id pub-id-type="pmid">28986680</pub-id>
+ </element-citation>
+</ref>

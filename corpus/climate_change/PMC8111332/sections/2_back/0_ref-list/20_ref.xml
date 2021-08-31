@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bb0100">
+ <element-citation publication-type="journal" id="rf0100">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Jones</surname>
+    <given-names>P.G.</given-names>
+   </name>
+   <name>
+    <surname>Thornton</surname>
+    <given-names>P.K.</given-names>
+   </name>
+  </person-group>
+  <article-title>Generating downscaled weather data from a suite of climate models for agricultural Modelling applications</article-title>
+  <source>Agric. Syst.</source>
+  <volume>114</volume>
+  <year>2013</year>
+  <fpage>1</fpage>
+  <lpage>5</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.agsy.2012.08.002</pub-id>
+ </element-citation>
+</ref>

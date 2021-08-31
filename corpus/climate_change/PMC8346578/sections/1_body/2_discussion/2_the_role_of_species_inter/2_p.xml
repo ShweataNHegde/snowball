@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par28">There are interaction types we do not consider in this version of our framework. Similar to our modeling of competition, one could have temperature-dependent mutualism; i.e., the strength of the mutualistic benefit between two phenotypes is a function of the distance of their temperature optima. This process could potentially bind mutualistic species to a common fate
+ <sup>
+  <xref ref-type="bibr" rid="CR54">54</xref>
+ </sup> and thus accelerate the effects of climate change. Indeed, Northfield, Ives
+ <sup>
+  <xref ref-type="bibr" rid="CR55">55</xref>
+ </sup> showed that with non-conflicting evolution of mutualistic interactions, the effects of climate change are enhanced, and the dynamics are destabilized. Our model is extensible to incorporate other types of interactions and structures (e.g., modular or nested ones, either of trophic or mutualistic interactions). These are important future problems to address in the context of eco-evolutionary responses to climate change.
+</p>

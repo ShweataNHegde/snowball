@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0125">The economic scenarios used in the IMPACT model are based on Shared Socioeconomic Pathways (SSPs) (
+ <xref rid="bb0135" ref-type="bibr">O'Neill et al., 2014</xref>). The SSP's reflect different future assumptions on the country's population and income trends. In this study, we used SSP2 middle-of-the-road scenario described by 
+ <xref rid="bb0135" ref-type="bibr">O'Neill et al., 2014</xref>. The data and parametrization of SSPs in IMPACT is provided in the model documentation (
+ <xref rid="bb0170" ref-type="bibr">Robinson et al., 2015a</xref>, 
+ <xref rid="bb0175" ref-type="bibr">Robinson et al., 2015b</xref>). Briefly, long–run drivers such as population and income growth (as represented in SSP2) are used as inputs in IMPACT's economic model. SSP2 (middle-of-the-road scenario) which follows historical trends has been considered as baseline scenario. In this scenario economic development continues but it is not uniform. Environmental degradation continues but at a slowing pace. There is a general improvement, but it is much slower than that seen in SSP 1. Climate change presents moderate challenges to both adaptation and mitigation. Summary of GDP, population, pre-determined growth rates of socioeconomic drivers and assumptions used in IMPACT model for SSP2 scenario were presented in Supplementary Tables 2, 3, 4.
+</p>

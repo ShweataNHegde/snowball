@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ece37735-bib-0057">
+ <mixed-citation publication-type="journal" id="ece37735-cit-0057">
+  <string-name>
+   <surname>Muscarella</surname>, 
+   <given-names>R.</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Galante</surname>, 
+   <given-names>P. J.</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Soley‐Guardia</surname>, 
+   <given-names>M.</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Boria</surname>, 
+   <given-names>R. A.</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Kass</surname>, 
+   <given-names>J. M.</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Uriarte</surname>, 
+   <given-names>M.</given-names>
+  </string-name>, &amp; 
+  <string-name>
+   <surname>Anderson</surname>, 
+   <given-names>R. P.</given-names>
+  </string-name> (
+  <year>2014</year>). 
+  <article-title>ENMeval: An R package for conducting spatially independent evaluations and estimating optimal model complexity for Maxent ecological niche models</article-title>. 
+  <source>Methods in Ecology and Evolution</source>, 
+  <volume>5</volume>(
+  <issue>11</issue>), 
+  <fpage>1198</fpage>–
+  <lpage>1205</lpage>. 
+  <pub-id pub-id-type="doi">10.1111/2041-210X.12261</pub-id>
+ </mixed-citation>
+</ref>

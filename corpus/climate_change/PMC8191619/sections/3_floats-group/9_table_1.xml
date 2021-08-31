@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Summary of findings from systematic reviews according to health outcome and climate impact</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <td align="left" valign="bottom" rowspan="1" colspan="1">Climate impact</td>
+    <td align="left" valign="bottom" rowspan="1" colspan="1">n</td>
+    <td align="left" valign="bottom" rowspan="1" colspan="1">Summary of findings</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" valign="top" colspan="3" rowspan="1">
+     <bold>Infectious diseases (n=41</bold>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" colspan="3" rowspan="1">
+     <italic>Vector-borne infectious diseases (n=25</italic>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Meteorological</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">22</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Systematic reviews suggest that meteorological factors, such as temperature, precipitation, humidity, and wind, are associated with diverse vector-borne infectious diseases, including malaria and dengue.
+     <xref rid="R9" ref-type="bibr">9 12 26 29 31 47–63</xref> This association was mostly proportional (eg, higher temperature and increased rainfall associated with vector-borne diseases), although findings were at times conflicting, with some suggesting an inversely proportional association
+     <xref rid="R12" ref-type="bibr">12</xref> (eg, decreased rainfall) or no association at all
+     <xref rid="R52" ref-type="bibr">52</xref> (eg, with the human puumala hantavirus Infection.) Geographical location, seasonality and potential interaction with other climate-related factors may partly explain these inconsistencies.
+     <xref rid="R12" ref-type="bibr">12 29</xref> Temperature, humidity and rainfall were the most common and important meteorological factors reported by reviews and factors such as wind, air pressure and sunshine were reported less often.
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Extreme weather</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">7</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">There are limited and conflicting findings concerning the association of extreme weather events with vector-borne diseases. Some reviews suggest water-related extreme events
+     <xref rid="R64" ref-type="bibr">64</xref> and flooding
+     <xref rid="R6" ref-type="bibr">6 31 65</xref> are associated with an increased risk of vector-borne diseases, while drought is associated with a reduction of dengue incidence.
+     <xref rid="R12" ref-type="bibr">12</xref> Other reviews focused specifically on Puerto Rico
+     <xref rid="R56" ref-type="bibr">56</xref> and Australia
+     <xref rid="R66" ref-type="bibr">66</xref> did not find an association between hurricanes and/or floods and mosquito-borne disease transmission.
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" colspan="3" rowspan="1">
+     <italic>Food and water borne infectious diseases (n=19</italic>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Meteorological</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">14</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Reviews suggest that meteorological factors, such as temperature, precipitation and humidity, are associated with diverse food-borne and water-borne infectious diseases, in particular, cholera, schistosomiasis, salmonella and 
+     <italic>E. coli</italic> gastroenteritis.
+     <xref rid="R11" ref-type="bibr">11 31 53 55 58 61 67–74</xref> Overall, higher temperatures and humidity,
+     <xref rid="R11" ref-type="bibr">11 53 67 71</xref> along with lower precipitation
+     <xref rid="R55" ref-type="bibr">55 74</xref> was associated with these infectious diseases. Directionality and strength of the association seemed to vary according to disease and pathogens,
+     <xref rid="R72" ref-type="bibr">72</xref> seasons and geographical region.
+     <xref rid="R69" ref-type="bibr">69</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Extreme weather</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">10</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Reviews suggest a proportional association between extreme water-related events,
+     <xref rid="R60" ref-type="bibr">60 64 75</xref> such as flooding
+     <xref rid="R6" ref-type="bibr">6 53 65</xref> and heavy rainfall,
+     <xref rid="R47" ref-type="bibr">47</xref> and food-borne and water-borne diseases, including diarrhoea, food contamination, cholera.
+     <xref rid="R6" ref-type="bibr">6 31 47 53 58 60 64 65 70 75</xref> Drought may also be proportionally associated with food-borne and water-borne disease,
+     <xref rid="R47" ref-type="bibr">47 76</xref> but these associations are less consistent than those with water-related extreme events.
+     <xref rid="R70" ref-type="bibr">70</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" colspan="3" rowspan="1">
+     <italic>Other infectious diseases (n=8</italic>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Meteorological</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">8</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Reviews suggest an association of most meteorological factors, such as temperature and humidity, with various other infectious diseases, including meningitis,
+     <xref rid="R24" ref-type="bibr">24 47</xref> Ebola,
+     <xref rid="R24" ref-type="bibr">24</xref> influenza,
+     <xref rid="R31" ref-type="bibr">31</xref> and paediatric infectious diseases such as hand-foot-and-mouth disease.
+     <xref rid="R7" ref-type="bibr">7 8 30 62 68</xref> This association was mostly proportional for meteorological factors such as temperature,
+     <xref rid="R7" ref-type="bibr">7 8 62</xref> diurnal temperature range
+     <xref rid="R30" ref-type="bibr">30</xref> and humidity,
+     <xref rid="R7" ref-type="bibr">7 8 31</xref> although some meteorological factors, such as air pressure
+     <xref rid="R8" ref-type="bibr">8</xref> and lower temperatures
+     <xref rid="R31" ref-type="bibr">31 62</xref> were inversely proportional to these diseases. Some conflicting evidence is reported concerning the association with some meteorological factors, such as sunshine with hand-foot-and-mouth disease,
+     <xref rid="R7" ref-type="bibr">7 8</xref> and humidity and paediatric infectious diseases.
+     <xref rid="R68" ref-type="bibr">68</xref> No association was found between some meteorological factors, such as precipitation, wind speed and sunshine with hand-foot-and-mouth disease.
+     <xref rid="R7" ref-type="bibr">7 8</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" colspan="3" rowspan="1">
+     <bold>Mortality (n=32</bold>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Meteorological</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">24</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Reviews suggest that temperature (high, low, or diurnal range) was consistently associated with all-cause and cause-specific mortality.
+     <xref rid="R24" ref-type="bibr">24–26 30 33 34 55 58 60 62 77–89</xref> A strong association was reported between heat (including heat waves) and mortality (all-cause),
+     <xref rid="R77" ref-type="bibr">77</xref> heat related,
+     <xref rid="R55" ref-type="bibr">55 81</xref> stroke related,
+     <xref rid="R24" ref-type="bibr">24 82</xref> cardiovascular related,
+     <xref rid="R33" ref-type="bibr">33 60</xref> and respiratory related,
+     <xref rid="R26" ref-type="bibr">26 33 83</xref> especially in rural,
+     <xref rid="R80" ref-type="bibr">80</xref> very young children
+     <xref rid="R62" ref-type="bibr">62</xref> and ageing populations.
+     <xref rid="R25" ref-type="bibr">25</xref> Mortality seems to be the most frequent health outcome studied in association with heatwaves.
+     <xref rid="R34" ref-type="bibr">34</xref> Inconsistent results are found concerning the association between heat and childhood mortality.
+     <xref rid="R87" ref-type="bibr">87</xref> Due to limited evidence, this association was weaker in some geographical regions.
+     <xref rid="R24" ref-type="bibr">24 84</xref> Also, heat wave intensity (compared with duration) was more strongly associated with heat-related mortality.
+     <xref rid="R88" ref-type="bibr">88</xref> Finally, although less studied, low temperature was also associated with mortality,
+     <xref rid="R62" ref-type="bibr">62 89</xref> specifically respiratory,
+     <xref rid="R77" ref-type="bibr">77</xref> stroke
+     <xref rid="R82" ref-type="bibr">82</xref> and cardiovascular mortality.
+     <xref rid="R60" ref-type="bibr">60 79 83</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Extreme weather</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">5</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Reviews suggest an association between extreme weather events such as floods,
+     <xref rid="R6" ref-type="bibr">6</xref> droughts,
+     <xref rid="R76" ref-type="bibr">76</xref> cyclones
+     <xref rid="R90" ref-type="bibr">90</xref> and other water-related events,
+     <xref rid="R26" ref-type="bibr">26 64</xref> with direct (eg, drowning) and indirect long-term mortality (eg, due to malnutrition, environmental toxin exposure, armed conflict, etc).
+     <xref rid="R6" ref-type="bibr">6 64 76 90</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Air quality</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">5</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Reviews suggest an association between exposure to air pollution
+     <xref rid="R26" ref-type="bibr">26 91</xref> or wildfire smoke
+     <xref rid="R92" ref-type="bibr">92–94</xref> and air pollution related-mortality, such as respiratory-specific mortality. There is currently limited evidence, but reviews suggest a potential association between wildfire smoke exposure and cardiovascular-specific mortality.
+     <xref rid="R92" ref-type="bibr">92–94</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" colspan="3" rowspan="1">
+     <bold>Respiratory, neurological and cardiovascular (n=23</bold>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">General</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">A review suggests a proportional association between climate change, in general, and ragweed pollen allergies in Europe.
+     <xref rid="R95" ref-type="bibr">95</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Meteorological</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">17</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Reviews suggest an association between meteorological factors, such as temperature and humidity, and cardiovascular, respiratory and neurological outcomes.
+     <xref rid="R24" ref-type="bibr">24 26 30 33 35 49 58 62 68 77 79 81 82 86 87 96 97</xref> Exposure to high temperatures and extreme heat are associated to cardiovascular and respiratory diseases,
+     <xref rid="R24" ref-type="bibr">24 26 49 62 79</xref> stroke,
+     <xref rid="R82" ref-type="bibr">82</xref> long-term neurological outcomes (due to heat strokes),
+     <xref rid="R81" ref-type="bibr">81</xref> myocardial infarction,
+     <xref rid="R33" ref-type="bibr">33 35</xref> and childhood asthma and paediatric respiratory diseases.
+     <xref rid="R87" ref-type="bibr">87 97</xref> A review also suggests a beneficial association between heat and the shortening of a respiratory virus season.
+     <xref rid="R58" ref-type="bibr">58</xref> Exposure to low temperature (cold), temperature drop, or diurnal temperature range was associated with cardiovascular and respiratory diseases,
+     <xref rid="R30" ref-type="bibr">30 77 79</xref> stroke,
+     <xref rid="R82" ref-type="bibr">82</xref> and myocardial infarctions.
+     <xref rid="R33" ref-type="bibr">33</xref> Humidity (most often high humidity, but also lower humidity) and low temperatures were also associated with respiratory diseases in children, including childhood asthma.
+     <xref rid="R68" ref-type="bibr">68 96 97</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Extreme weather</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">A previous review suggests an association between drought and respiratory and cardiovascular outcomes, most likely due to droughts leading to increased dust in the air.
+     <xref rid="R76" ref-type="bibr">76</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Air quality</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">6</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Reviews suggest a proportional association between exposure to air pollution
+     <xref rid="R26" ref-type="bibr">26 55 58</xref> or wildfire smoke exposure
+     <xref rid="R92" ref-type="bibr">92–94</xref> and respiratory outcomes, including asthma, chronic obstructive pulmonary disease, coughing, wheezing and overall lung function. Although there is currently limited evidence,
+     <xref rid="R92" ref-type="bibr">92</xref> reviews also suggest a potential association between air pollution or wildfire smoke exposure and cardiovascular outcomes.
+     <xref rid="R58" ref-type="bibr">58 93 94</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" colspan="3" rowspan="1">
+     <bold>Health systems (n=16</bold>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">General</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">A previous review suggests that climate change in general puts a strain on public health resources, via population health issues and shows that using an integrated surveillance system may guide future adaptation to climate change.
+     <xref rid="R98" ref-type="bibr">98</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Meteorological</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">11</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Previous reviews suggest an association between temperature change
+     <xref rid="R30" ref-type="bibr">30</xref> extreme heat, aridity and cold temperatures and an increase in use of healthcare services (mostly linked to heat-related health impacts), such as an increase in emergency department visits, hospital admissions and use of ambulances.
+     <xref rid="R24" ref-type="bibr">24 26 30 33–35 55 62 84 87 99</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Extreme weather</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Reviews suggest that extreme weather events
+     <xref rid="R32" ref-type="bibr">32</xref> and flooding
+     <xref rid="R6" ref-type="bibr">6</xref> may be associated with an increase in use of healthcare services (eg, increased hospitalisations) and a compromised quality of care as extreme weather events may lead to power outages.
+     <xref rid="R32" ref-type="bibr">32</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Air quality</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Reviews suggest an association between wildfire smoke exposure and an increase in use of healthcare services, such as an increase in emergency department visits.
+     <xref rid="R92" ref-type="bibr">92 94</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" colspan="3" rowspan="1">
+     <bold>Mental health (n=13</bold>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Meteorological</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">3</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Reviews suggest an association of most meteorological factors such as temperature increase, aridity, heat and heat waves with mental health outcomes, including hospital admissions for mental health reasons,
+     <xref rid="R55" ref-type="bibr">55</xref> suicide,
+     <xref rid="R100" ref-type="bibr">100</xref> and exacerbation of pre-existing mental health conditions, difficulty sleeping and fatigue.
+     <xref rid="R35" ref-type="bibr">35</xref> No association was found between sunlight duration and suicide incidence.
+     <xref rid="R100" ref-type="bibr">100</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Extreme weather</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">9</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Most reviews reported a proportional association of extreme weather events,
+     <xref rid="R36" ref-type="bibr">36 58 64 101</xref> flooding
+     <xref rid="R6" ref-type="bibr">6 26 102</xref> and drought
+     <xref rid="R76" ref-type="bibr">76 103</xref> with diverse mental health issues, including, psychological distress, post-traumatic stress disorder, anxiety, depression, psychotropic medication use, alcohol consumption. There was conflicting evidence regarding the association of floods with suicide, tobacco, alcohol and substance abuse.
+     <xref rid="R102" ref-type="bibr">102</xref> No association was found between drought and suicide.
+     <xref rid="R76" ref-type="bibr">76</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Air quality</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">A previous review suggests no association between wildfire smoke exposure and mental health, as measured by physician visits and hospitalizations for mental health reasons during wildfires.
+     <xref rid="R93" ref-type="bibr">93</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" colspan="3" rowspan="1">
+     <bold>Pregnancy and birth outcomes (n=11</bold>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Meteorological</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">5</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Reviews suggest that adverse birth outcomes may be higher among people exposed to meteorological factors such as high temperature, heat, sunlight intensity, cold and humidity.
+     <xref rid="R55" ref-type="bibr">55 104–107</xref> These outcomes include low birth weight, preterm birth, eclampsia and preeclampsia, hypertension and length of pregnancy.
+     <xref rid="R55" ref-type="bibr">55 104–107</xref> The association between heat and adverse birth outcomes seems to have stronger support than the association with cold temperatures.
+     <xref rid="R107" ref-type="bibr">107</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Extreme Weather</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">2</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Reviews suggest a potential association of extreme weather events
+     <xref rid="R36" ref-type="bibr">36</xref> and flooding
+     <xref rid="R6" ref-type="bibr">6</xref> with adverse birth outcomes, such as low birth weight, preterm birth and preeclampsia. It is suggested that extreme weather events may indirectly affect birth outcomes via the pregnant person’s well-being (eg, stress and worry during pregnancy.)
+     <xref rid="R6" ref-type="bibr">6 36</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Air quality</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">3</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">There is limited and inconsistent evidence concerning the association between wildfire smoke exposure and adverse birth outcomes, but reviews suggest a potential proportional association between wildfire smoke exposure and lower birth weight.
+     <xref rid="R92" ref-type="bibr">92–94</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Other</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">The association between environmental pollutants and adverse birth outcomes (ie, preterm birth) remains unclear due to conflicting evidence.
+     <xref rid="R28" ref-type="bibr">28</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" colspan="3" rowspan="1">
+     <bold>Nutritional (n=9</bold>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">General</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">A review suggests an association between climate change and obesity.
+     <xref rid="R108" ref-type="bibr">108</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Meteorological</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">4</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Reviews suggest an association between meteorological factors, such as changes in temperature, heat and precipitation, with diverse nutritional outcomes, including undernutrition, malnutrition and child stunting.
+     <xref rid="R24" ref-type="bibr">24 27 55 84</xref> This association may be explained by the impact of meteorological factors, such as temperature increase and precipitation decrease, on crop production and food insecurity.
+     <xref rid="R55" ref-type="bibr">55 84</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Extreme Weather</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">6</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Reviews suggest an association between extreme weather events, such as flooding and droughts,
+     <xref rid="R76" ref-type="bibr">76</xref> and diverse nutritional outcomes, including malnutrition and undernutrition in children and adults
+     <xref rid="R27" ref-type="bibr">27 47 55 58 60</xref> via, among others, crops production and food insecurity (eg, low food aid following flooding.
+     <xref rid="R55" ref-type="bibr">55</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Other</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">A review suggests a potential association between certain environmental risk factors (eg, sanitation, cooking fuels and food-borne mycotoxins), and childhood stunting, which could be aggravated by climate change.
+     <xref rid="R109" ref-type="bibr">109</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" colspan="3" rowspan="1">
+     <bold>Skin diseases and allergies (n=8</bold>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">General</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">A review suggests a potential proportional association between climate change, in general, and skin and soft-tissue infections (eg, fatal vibrio vulnificus necrotising).
+     <xref rid="R110" ref-type="bibr">110</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Meteorological</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">7</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Reviews suggest an association of meteorological factors, such as ultraviolet light exposure, temperature and humidity, with diverse skin diseases and allergies, including skin cancer, sunburn, acute urticaria, eczema and paediatric skin irritabilities.
+     <xref rid="R24" ref-type="bibr">24 35 58 60 62 68 111</xref> Higher temperature and ultraviolet light exposure is proportionally associated with sunburn
+     <xref rid="R35" ref-type="bibr">35</xref> and skin cancer,
+     <xref rid="R58" ref-type="bibr">58 111</xref> while low humidity and low temperatures were associated with eczema and skin irritabilities in children.
+     <xref rid="R62" ref-type="bibr">62 68</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" colspan="3" rowspan="1">
+     <bold>Occupational health and injuries (n=6</bold>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Meteorological</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">6</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Reviews suggest that heat is associated with adverse occupational health outcomes, including injuries (eg, slips, trips, falls, wounds, lacerations and amputations), heat strain, dehydration and kidney diseases.
+     <xref rid="R103" ref-type="bibr">103 112–117</xref> This association was found in many occupational settings, including agriculture, construction, transport and fishing, and seems to affect both outdoor and indoor workers.
+     <xref rid="R112" ref-type="bibr">112</xref> This association may be explained by a combination of direct (eg, dehydration) and indirect factors (eg, impaired cognitive and physical performance.)
+     <xref rid="R116" ref-type="bibr">116</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Other</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">A review suggests a potential association between environmental pollution (eg, heavy metals, fertilisers, etc) and occupational diseases, such as chronic kidney disease.
+     <xref rid="R117" ref-type="bibr">117</xref> This association is suggested to be affected by increasing temperatures.
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" colspan="3" rowspan="1">
+     <bold>Other (n=17</bold>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">General</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">A review suggests a potential association between climate change in general and disability-adjusted life years, which is an indicator that quantifies ‘the burden of disease attributable to climate change’.
+     <xref rid="R118" ref-type="bibr">118</xref> Authors suggest that the cost of disability-adjusted life years could be high, especially in low-income to middle-income countries.
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Meteorological</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">10</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Reviews suggests an association between increasing temperatures and temperature changes,
+     <xref rid="R30" ref-type="bibr">30</xref> and other various health outcomes, including acute gouty arthritis,
+     <xref rid="R119" ref-type="bibr">119</xref> unintentional injuries,
+     <xref rid="R120" ref-type="bibr">120</xref> diabetes,
+     <xref rid="R77" ref-type="bibr">77</xref> genitourinary diseases,
+     <xref rid="R30" ref-type="bibr">30 77</xref> impaired sleep time and quality,
+     <xref rid="R121" ref-type="bibr">121</xref> cataracts (indirectly associated via people spending more time outside and therefore increased exposure to ultraviolet light),
+     <xref rid="R58" ref-type="bibr">58 60</xref> heat stress, heat exhaustion and kidney failure,
+     <xref rid="R35" ref-type="bibr">35</xref> and renal diseases, fever and electrolyte imbalance in children.
+     <xref rid="R62" ref-type="bibr">62 87</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Extreme weather</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">6</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Reviews suggests an association between extreme weather events,
+     <xref rid="R101" ref-type="bibr">101</xref> such as flooding,
+     <xref rid="R6" ref-type="bibr">6</xref> cyclones,
+     <xref rid="R90" ref-type="bibr">90</xref> hurricanes
+     <xref rid="R121" ref-type="bibr">121</xref> and drought,
+     <xref rid="R76" ref-type="bibr">76</xref> and other various health outcomes including injuries (eg, debris, diving in water that is shallower than expected),
+     <xref rid="R6" ref-type="bibr">6 76 90 101</xref> impaired sleep,
+     <xref rid="R121" ref-type="bibr">121</xref> oesophageal cancer (likely linked to high salinity of water due to droughts),
+     <xref rid="R76" ref-type="bibr">76</xref> and exacerbation of chronic illnesses.
+     <xref rid="R6" ref-type="bibr">6 36</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Air quality</td>
+    <td align="char" char="." valign="top" rowspan="1" colspan="1">1</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">There is limited evidence, but a systematic review suggests a potential association between wildfire smoke exposure and ophthalmic outcomes, such as eye irritation and cataracts.
+     <xref rid="R92" ref-type="bibr">92</xref>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="T1_FN1">
+   <p>Reviews that covered multiple climate impacts are listed in each relevant category.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

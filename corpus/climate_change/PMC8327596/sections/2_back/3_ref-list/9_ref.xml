@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR9">
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <collab>IPCC (Intergovernmental Panel on Climate Change)</collab>
+   <etal/>
+  </person-group>
+  <person-group person-group-type="editor">
+   <name>
+    <surname>Field</surname>
+    <given-names>CB</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Climate Change 2014: Impacts, Adaptation, and Vulnerability</article-title>
+  <source>Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change</source>
+  <year>2014</year>
+  <publisher-loc>Cambridge</publisher-loc>
+  <publisher-name>Cambridge University Press</publisher-name>
+ </element-citation>
+</ref>

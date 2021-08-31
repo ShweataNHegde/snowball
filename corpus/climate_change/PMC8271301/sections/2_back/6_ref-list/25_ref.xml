@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR25">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dumitrescu</surname>
+    <given-names>EI</given-names>
+   </name>
+   <name>
+    <surname>Hurlin</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <article-title>Testing for Granger non-causality in heterogeneous panels</article-title>
+  <source>Economic Modelling</source>
+  <year>2012</year>
+  <volume>29</volume>
+  <issue>4</issue>
+  <fpage>1450</fpage>
+  <lpage>1460</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.econmod.2012.02.014</pub-id>
+ </element-citation>
+</ref>

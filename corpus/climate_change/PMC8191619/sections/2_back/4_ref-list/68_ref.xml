@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R68">
+ <label>68</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Gao</surname>
+    <given-names>J</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Sun</surname>
+    <given-names>Y</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Lu</surname>
+    <given-names>Y</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Impact of ambient humidity on child health: a systematic review</article-title>. 
+  <source>PLoS One</source>
+  <year>2014</year>;
+  <volume>9</volume>:
+  <elocation-id>e112508</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0112508</pub-id>
+  <pub-id pub-id-type="pmid">25503413</pub-id>
+ </mixed-citation>
+</ref>

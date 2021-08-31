@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R9">
+ <label>9</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Babaie</surname>
+    <given-names>J</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Barati</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Azizi</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>A systematic evidence review of the effect of climate change on malaria in Iran</article-title>. 
+  <source>J Parasit Dis</source>
+  <year>2018</year>;
+  <volume>42</volume>:
+  <fpage>331</fpage>–
+  <lpage>40</lpage>. 
+  <pub-id pub-id-type="doi">10.1007/s12639-018-1017-8</pub-id>
+  <pub-id pub-id-type="pmid">30166779</pub-id>
+ </mixed-citation>
+</ref>

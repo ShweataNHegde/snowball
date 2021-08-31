@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR75">
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rassner</surname>
+    <given-names>SM</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="editor">
+   <name>
+    <surname>Margesin</surname>
+    <given-names>R</given-names>
+   </name>
+  </person-group>
+  <article-title>Viruses in glacial environments</article-title>
+  <source>Psychrophiles: from biodiversity to biotechnology</source>
+  <year>2017</year>
+  <edition>2</edition>
+  <publisher-loc>Berlin</publisher-loc>
+  <publisher-name>Springer</publisher-name>
+  <fpage>111</fpage>
+  <lpage>131</lpage>
+ </element-citation>
+</ref>

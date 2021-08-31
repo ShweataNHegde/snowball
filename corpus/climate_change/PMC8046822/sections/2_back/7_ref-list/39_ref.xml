@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR39">
+ <label>39.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Putri</surname>
+    <given-names>SP</given-names>
+   </name>
+   <name>
+    <surname>Irifune</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Fukusaki</surname>
+    <given-names>E</given-names>
+   </name>
+  </person-group>
+  <article-title>GC/MS based metabolite profiling of Indonesian specialty coffee from different species and geographical origin</article-title>
+  <source>Metabolomics</source>
+  <year>2019</year>
+  <volume>15</volume>
+  <fpage>126</fpage>
+  <pub-id pub-id-type="doi">10.1007/s11306-019-1591-5</pub-id>
+  <pub-id pub-id-type="pmid">31535287</pub-id>
+ </element-citation>
+</ref>

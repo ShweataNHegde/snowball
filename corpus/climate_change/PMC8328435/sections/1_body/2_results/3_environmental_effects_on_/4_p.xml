@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The inclusion of covariates explained 16% of the temporal variation in adult survival (total temporal variance on the logit scale =0.71 (95% CRI: 0.28,1.41), residual temporal variance = 0.59 (95% CRI: 0.20, 1.28), and 44% of the temporal variation in nest success (total temporal variance on the logit scale = 1.13 (95% CRI: 0.55, 2.02), residual temporal variance = 0.64 (95% CRI: 0.28, 1.34). The inclusion of the Arctic Oscillation covariate for first‐year survival did not explain temporal variation. Furthermore, the Bayesian 
+ <italic toggle="yes">p</italic>‐values for the nest success model with temporal variation only was 0.298 but was 0.490 when the environmental covariates were included. These values indicated that the addition of covariates improved model fit. Alternatively, the Bayesian 
+ <italic toggle="yes">p</italic>‐values for the count model were 0.50, regardless of the inclusion of covariates; thus, both models fit the count data well.
+</p>

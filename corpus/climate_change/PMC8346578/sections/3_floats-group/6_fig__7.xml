@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig7">
+ <label>Fig. 7</label>
+ <caption>
+  <title>The ability of communities in four different models (panels) to track local climatic conditions (ordinate), against observed variation in traits within those communities (abscissa).</title>
+  <p>Larger values along the ordinate indicate that species' temperature optima are lagging behind local temperatures, meaning a low ability of communities to track local climate conditions. Both quantities are averaged over the landscape and time from the beginning to the end of the climate change period, yielding a single number for every community (points). The greater the average local diversity of mean temperature optima in a community, the closer it is able to match the prevailing temperature conditions. Species' dispersal ability and available genetic variance (colors) are clustered along this relationship.</p>
+ </caption>
+ <graphic xlink:href="41467_2021_24977_Fig7_HTML" id="d32e793" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

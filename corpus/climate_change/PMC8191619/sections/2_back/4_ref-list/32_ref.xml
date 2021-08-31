@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R32">
+ <label>32</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Klinger</surname>
+    <given-names>C</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Landeg</surname>
+    <given-names>O</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Murray</surname>
+    <given-names>V</given-names>
+   </string-name>
+  </person-group>. 
+  <article-title>Power outages, extreme events and health: a systematic review of the literature from 2011-2012</article-title>. 
+  <source>PLoS Curr</source>
+  <year>2014</year>;
+  <volume>6</volume>:
+  <elocation-id>ecurrents.dis.04eb1dc5e73dd1377e05a10e9edde673</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1371/currents.dis.04eb1dc5e73dd1377e05a10e9edde673</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/24459613?>
+  <pub-id pub-id-type="pmid">24459613</pub-id>
+ </mixed-citation>
+</ref>

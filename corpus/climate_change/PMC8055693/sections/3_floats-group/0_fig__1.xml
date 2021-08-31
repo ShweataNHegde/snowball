@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <title>Simulations of lake stratification phenology across the Northern Hemisphere.</title>
+  <p>Shown are the historic, averaged over all years from 1970 to 1999, spatial patterns in 
+   <bold>a</bold> the day of year of stratification onset, 
+   <bold>b</bold> the cold-season (November–April) average air temperature, and 
+   <bold>c</bold> the relationship between stratification onset, the cold–season air temperature, and wind speed. Also shown are the spatial patterns in 
+   <bold>d</bold> the day of year of stratification break-up, 
+   <bold>e</bold> the warm-season (May–October) average air temperature, and 
+   <bold>f</bold> the relationship between stratification break-up, the warm-season air temperature, and wind speed. All results are based on the average simulations across the lake–climate model ensemble.
+  </p>
+ </caption>
+ <graphic xlink:href="41467_2021_22657_Fig1_HTML" id="d32e756" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

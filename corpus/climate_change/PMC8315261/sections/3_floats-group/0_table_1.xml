@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Journals included in the systematic review</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left">Category</th>
+    <th align="left">Journals</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">Management Journals</td>
+    <td align="left">Academy of Management Annals, Academy of Management Journal, Academy of Management Perspectives, Academy of Management Review, Administrative Science Quarterly, Advances in Strategic Management (SRJ 1.3), British Journal of Management, Health Care Management Review, Industrial Marketing Management, International Organization (SRJ 7.36), Journal of Applied Psychology, Journal of Business Research, Journal of International Business Studies, Journal of Management, Journal of Management Inquiry, Journal of Management Studies, Journal of Organizational Behavior, Journal of Sport Management, Long Range Planning, Management and Organization Review, Management Learning, Management Science, Medical Care Research and Review (SRJ 1.6), MIS Quarterly, Organization Science, Organization Studies, Organizational Behavior and Human Decision Processes, Organizational Research Methods, Personnel Psychology, Research Policy, Strategic Management Journal, Strategic Organization</td>
+   </tr>
+   <tr>
+    <td align="left">Specialty Journals</td>
+    <td align="left">Accounting, Auditing and Accountability Journal, Accounting Organizations and Society, Business and Society, Business Ethics Quarterly, Business Strategy and the Environment (SRJ 2.17), Corporate Governance, Journal of Business Ethics, Journal of Cleaner Production (SRJ 1.62), Journal of Industrial Ecology (SRJ 1.49), Leadership Quarterly (SJR 3.19), Organization and Environment (2.61), California Management Review, Harvard Business Review, Sloan Management Review</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

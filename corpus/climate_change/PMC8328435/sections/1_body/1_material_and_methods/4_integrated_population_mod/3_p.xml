@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We constructed the following matrix projection model based on a prebreeding survey with four stages (Figure 
+ <xref rid="ece37873-fig-0002" ref-type="fig">2</xref>). To link abundance to demographic rates, we created a projection matrix (
+ <bold>A</bold>) comprised of demographic rates and a vector of stage‐specific abundance 
+ <italic toggle="yes">n</italic>
+ <sub>t</sub>:
+ <disp-formula id="ece37873-disp-0001">
+  <math id="jats-math-1" display="block">
+   <mrow>
+    <msub>
+     <mfenced close="]" open="[" separators="">
+      <mrow>
+       <mtable>
+        <mtr>
+         <mtd>
+          <msub>
+           <mi>n</mi>
+           <mn>1</mn>
+          </msub>
+         </mtd>
+        </mtr>
+        <mtr>
+         <mtd>
+          <mrow>
+           <msub>
+            <mi>n</mi>
+            <mn>2</mn>
+           </msub>
+          </mrow>
+         </mtd>
+        </mtr>
+        <mtr>
+         <mtd>
+          <mrow>
+           <msub>
+            <mi>n</mi>
+            <mn>3</mn>
+           </msub>
+          </mrow>
+         </mtd>
+        </mtr>
+        <mtr>
+         <mtd>
+          <mrow>
+           <msub>
+            <mi>n</mi>
+            <mn>4</mn>
+           </msub>
+          </mrow>
+         </mtd>
+        </mtr>
+       </mtable>
+      </mrow>
+     </mfenced>
+     <mrow>
+      <mi>t</mi>
+      <mo>+</mo>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfenced close="]" open="[" separators="">
+     <mrow>
+      <mtable>
+       <mtr>
+        <mtd>
+         <mn>0</mn>
+        </mtd>
+        <mtd>
+         <mn>0</mn>
+        </mtd>
+        <mtd>
+         <mrow>
+          <msub>
+           <mi>f</mi>
+           <mi>t</mi>
+          </msub>
+          <mo stretchy="false">/</mo>
+          <mn>2</mn>
+          <mo>∗</mo>
+          <msub>
+           <mi>ϕ</mi>
+           <mrow>
+            <mi>t</mi>
+            <mo>,</mo>
+            <mi>j</mi>
+           </mrow>
+          </msub>
+         </mrow>
+        </mtd>
+        <mtd>
+         <mrow>
+          <msub>
+           <mi>f</mi>
+           <mi>t</mi>
+          </msub>
+          <mo stretchy="false">/</mo>
+          <mn>2</mn>
+          <mo>∗</mo>
+          <msub>
+           <mi>ϕ</mi>
+           <mrow>
+            <mi>t</mi>
+            <mo>,</mo>
+            <mi>j</mi>
+           </mrow>
+          </msub>
+         </mrow>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd>
+         <mrow>
+          <mrow>
+           <msub>
+            <mi>ϕ</mi>
+            <mrow>
+             <mi>t</mi>
+             <mo>,</mo>
+             <mi>a</mi>
+            </mrow>
+           </msub>
+           <mo>∗</mo>
+           <mn>1</mn>
+           <mo>‐</mo>
+           <mi>α</mi>
+          </mrow>
+         </mrow>
+        </mtd>
+        <mtd>
+         <mn>0</mn>
+        </mtd>
+        <mtd>
+         <mn>0</mn>
+        </mtd>
+        <mtd>
+         <mn>0</mn>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd>
+         <mrow>
+          <mrow>
+           <msub>
+            <mi>ϕ</mi>
+            <mrow>
+             <mi>t</mi>
+             <mo>,</mo>
+             <mi>a</mi>
+            </mrow>
+           </msub>
+           <mo>∗</mo>
+           <mi>α</mi>
+          </mrow>
+         </mrow>
+        </mtd>
+        <mtd>
+         <mn>0</mn>
+        </mtd>
+        <mtd>
+         <mn>0</mn>
+        </mtd>
+        <mtd>
+         <mn>0</mn>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd>
+         <mn>0</mn>
+        </mtd>
+        <mtd>
+         <msub>
+          <mi>ϕ</mi>
+          <mrow>
+           <mi>t</mi>
+           <mo>,</mo>
+           <mi>a</mi>
+          </mrow>
+         </msub>
+        </mtd>
+        <mtd>
+         <msub>
+          <mi>ϕ</mi>
+          <mrow>
+           <mi>t</mi>
+           <mo>,</mo>
+           <mi>a</mi>
+          </mrow>
+         </msub>
+        </mtd>
+        <mtd>
+         <msub>
+          <mi>ϕ</mi>
+          <mrow>
+           <mi>t</mi>
+           <mo>,</mo>
+           <mi>a</mi>
+          </mrow>
+         </msub>
+        </mtd>
+       </mtr>
+      </mtable>
+     </mrow>
+    </mfenced>
+    <mo>∗</mo>
+    <msub>
+     <mfenced close="]" open="[" separators="">
+      <mrow>
+       <mtable>
+        <mtr>
+         <mtd>
+          <msub>
+           <mi>n</mi>
+           <mn>1</mn>
+          </msub>
+         </mtd>
+        </mtr>
+        <mtr>
+         <mtd>
+          <mrow>
+           <msub>
+            <mi>n</mi>
+            <mn>2</mn>
+           </msub>
+          </mrow>
+         </mtd>
+        </mtr>
+        <mtr>
+         <mtd>
+          <mrow>
+           <msub>
+            <mi>n</mi>
+            <mn>3</mn>
+           </msub>
+          </mrow>
+         </mtd>
+        </mtr>
+        <mtr>
+         <mtd>
+          <mrow>
+           <msub>
+            <mi>n</mi>
+            <mn>4</mn>
+           </msub>
+          </mrow>
+         </mtd>
+        </mtr>
+       </mtable>
+      </mrow>
+     </mfenced>
+     <mi>t</mi>
+    </msub>
+   </mrow>
+  </math>
+ </disp-formula>where 
+ <italic toggle="yes">n</italic>
+ <sub>1</sub> is the number of 1‐year‐old females, 
+ <italic toggle="yes">n</italic>
+ <sub>2</sub> is the number of nonbreeding 2‐year‐old females, 
+ <italic toggle="yes">n</italic>
+ <sub>3</sub> is the number of breeding 2‐year‐old females, and 
+ <italic toggle="yes">n</italic>
+ <sub>4</sub> is the number of 3+‐year‐old females, 
+ <italic toggle="yes">ϕ</italic>
+ <sub>t,j</sub> represents annual survival probabilities for first‐year birds, and 
+ <italic toggle="yes">ϕ</italic>
+ <sub>t,a</sub> represents annual survival for birds 1‐year and older (hereafter, adults), and 
+ <italic toggle="yes">f</italic>
+ <sub>t</sub> is the number of fledglings produced per breeding female, divided by 2 because the projection matrix only considers females and the sex ratio is expected to be equal at this life stage (Flint et al., 
+ <xref rid="ece37873-bib-0025" ref-type="bibr">2016</xref>). 
+ <italic toggle="yes">t</italic> refers to time, in our case a particular year. We assumed birds 1 year and older had the same survival probability regardless of breeding status because nonbreeding birds (1‐year‐olds and nonbreeding 2‐year‐olds) are unobservable and lack data to inform independent estimates of survival. Female spectacled eiders may begin breeding at 2 years of age, but evidence suggests they are less likely to breed than birds age 3 and older (Flint et al., 
+ <xref rid="ece37873-bib-0025" ref-type="bibr">2016</xref>). Here, we assume all females aged 3 and older breed each year, that is, breeding propensity of adult females is assumed to be 100% (Flint et al., 
+ <xref rid="ece37873-bib-0025" ref-type="bibr">2016</xref>). Direct estimates of 2‐year‐old breeding propensity (α) were unavailable for this species, and thus, we wanted to estimate this demographic rate. This matrix model allows 1‐year‐old individuals to transition to either nonbreeding 2‐year‐old birds with probability (
+ <italic toggle="yes">ϕ</italic>
+ <sub>t,a</sub> * 1 − α) or breeding 2‐year‐old birds with probability (
+ <italic toggle="yes">ϕ</italic>
+ <sub>t,a</sub> * α) with corresponding fecundity estimates. We used an annual random effects framework to model survival probabilities, nest success, and recapture probabilities to allow the values to vary over time. However, due to limited data we chose to model breeding propensity of 2‐year‐old females as constant.
+</p>

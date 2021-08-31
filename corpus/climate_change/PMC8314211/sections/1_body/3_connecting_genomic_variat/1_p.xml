@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Another major challenge is to connect segregating genomic variation to variation in phenotypes and fitness. Even in the best studied model species, examples of phenotypes that were mapped to major effect loci are scarce (e.g., 
+ <xref rid="B65" ref-type="bibr">Schmidt et al., 2008</xref>) (but see 
+ <xref rid="B20" ref-type="bibr">Erickson et al., 2020</xref>). For most clinal phenotypes in 
+ <italic>D. melanogaster</italic>, such as body size and longevity, the underlying genetic architecture is more complex, with many minor effect alleles explaining only a small proportion of the phenotypic variation (
+ <xref rid="B50" ref-type="bibr">Mackay et al., 2012</xref>). One would expect that the variants that underlie clinal traits might display clinal patterns in their allele frequencies. This approach has been successfully used in humans where height-increasing alleles are systematically elevated in frequency in the north compared to southern European populations (
+ <xref rid="B9" ref-type="bibr">Berg and Coop, 2014</xref>), and in 
+ <italic>D. melanogaster</italic> where polymorphisms associated with diapause varies clinally (
+ <xref rid="B20" ref-type="bibr">Erickson et al., 2020</xref>). However, in another 
+ <italic>D. melanogaster</italic> example, the frequency of polymorphisms associated with desiccation tolerance does not vary clinally as expected (
+ <xref rid="B59" ref-type="bibr">Rajpurohit et al., 2018</xref>). Other phenotypes have not yet been tested, but if results similar to the desiccation example are observed, it could indicate low statistical power on genome-wide association studies or complex epistatic and genotype-by-environment interactions.
+</p>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par16">Pigment characterizations were undertaken using a Brucker TitanS1 800 pXRF instrument, equipped with a silicon drift detector, Rh target X-ray tube (maximum voltage 50 kV, default to 150 °C with ultralene window) and five position motorized filter changer. Two beam phases collecting for 90 analytic seconds were taken for each assay (180 s per spectrum). Phase 1 parameters: 45 kV, 10.45 µA with a Ti 25 µm, Al 300 µm filter in the beam path. Phase 2 parameters: 15 kV, 31.55 µA without a filter. Relative element abundances are derived from the manufacturer’s empirical parameters calculations corrected for limits of detection (2 σ errors doubled and subtracted from the calculated parts per million readings to remove any spurious concentrations). Spectra were additionally manually interrogated using Bruker Artax software (V8). Certified reference materials were used as internal standards for the dataset to monitor instrument stability
+ <sup>
+  <xref ref-type="bibr" rid="CR21">21</xref>
+ </sup>.
+</p>

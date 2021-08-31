@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <p>Causal graph depicting the different plausible explanations of a generic climate impact. Blue symbols denote elements in the physical climate system, gray symbols those in the human-affected domain, and the orange symbol a combination of the two. Arrows denote direction of causal influence. Note that the vulnerability may also be affected by climate change, in which case that causal influence would also need to be included</p>
+ </caption>
+ <graphic xlink:href="10584_2021_3177_Fig1_HTML" id="MO1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

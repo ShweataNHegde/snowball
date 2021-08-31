@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R12">
+ <label>12</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Li</surname>
+    <given-names>C</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Lu</surname>
+    <given-names>Y</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Liu</surname>
+    <given-names>J</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Climate change and dengue fever transmission in China: evidences and challenges</article-title>. 
+  <source>Sci Total Environ</source>
+  <year>2018</year>;
+  <volume>622-623</volume>:
+  <fpage>493</fpage>–
+  <lpage>501</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.scitotenv.2017.11.326</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/29220773?>
+  <pub-id pub-id-type="pmid">29220773</pub-id>
+ </mixed-citation>
+</ref>

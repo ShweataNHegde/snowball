@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B19">
+ <label>19.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Islam</surname>
+    <given-names>ARMT</given-names>
+   </name>
+   <name>
+    <surname>Hasanuzzaman</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Azad</surname>
+    <given-names>MAK</given-names>
+   </name>
+   <name>
+    <surname>Salam</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Toshi</surname>
+    <given-names>FZ</given-names>
+   </name>
+   <name>
+    <surname>Khan</surname>
+    <given-names>MSI</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Effect of meteorological factors on COVID-19 cases in Bangladesh</article-title>. 
+  <source>Environ Dev Sustain</source>. (
+  <year>2020</year>) 
+  <fpage>1</fpage>–
+  <lpage>24</lpage>. 
+  <pub-id pub-id-type="doi">10.1007/s10668-020-01016-1</pub-id>
+  <?supplied-pmid 33052194?>
+  <pub-id pub-id-type="pmid">33052194</pub-id>
+ </mixed-citation>
+</ref>

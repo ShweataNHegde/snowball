@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par25">We derive our equations using the idealizations of additive quantitative genetics and the weak selection limit
+ <sup>
+  <xref ref-type="bibr" rid="CR22">22</xref>
+ </sup>. Both have their drawbacks. The first assumes that all genetic variation is additive—genes and alleles at different loci do not interact. This ignores the fact that genes are part of a complex regulatory network in which interactions such as dominance, epistasis, and pleiotropy are bound to emerge. While purely additive quantitative genetics can be a good starting point for understanding the effects of selection
+ <sup>
+  <xref ref-type="bibr" rid="CR45">45</xref>,
+  <xref ref-type="bibr" rid="CR46">46</xref>
+ </sup>, it remains an approximation. In turn, the weak selection limit assumes that selection is not so strong as to prevent one from writing otherwise discrete-time dynamics in the continuous-time limit (SI, Section 
+ <xref rid="MOESM1" ref-type="media">1</xref>). In fact, from a practical point of view, this limit can actually allow for quite a strong selection. For this, however, one must assume very large population sizes so genetic and ecological drift do not overpower selection. The rule of thumb is that effective population size times the selection differential must exceed one
+ <sup>
+  <xref ref-type="bibr" rid="CR47">47</xref>
+ </sup>. This is obviously true if populations are so large that they can be modeled as continuous variables, but in reality, they are finite, and the weak selection assumption could potentially yield effects which we neglect. For example, a new immigrant at a habitat patch will naturally have a low population size and might not be able to establish even if it has higher fitness. Similarly, a slightly deleterious type will never spread in our approximation, while it might in reality, as known from the nearly neutral theory
+ <sup>
+  <xref ref-type="bibr" rid="CR48">48</xref>
+ </sup>. Although Akashi et al.
+ <sup>
+  <xref ref-type="bibr" rid="CR48">48</xref>
+ </sup> show that weak selection can often explain similar patterns of genome variation as the nearly neutral theory, a rigorous incorporation of the consequences of population finiteness in our model is still in the future.
+</p>

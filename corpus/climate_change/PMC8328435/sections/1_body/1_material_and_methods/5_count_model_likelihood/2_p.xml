@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We used a state‐space model formulation to model the population count data using equations that describe how abundance changes over time. An observation model links the observed population count (index of breeding abundance, including males and females) with the estimated abundance from the state process model. Because our demographic data were specific to female spectacled eiders, our matrix projection model estimated total female abundance, calculated as 
+ <italic toggle="yes">N</italic>tot
+ <sub>t</sub> = (
+ <italic toggle="yes">n</italic>
+ <sub>1</sub>,t + 
+ <italic toggle="yes">n</italic>
+ <sub>2</sub>,t + 
+ <italic toggle="yes">n</italic>
+ <sub>3</sub>,t + 
+ <italic toggle="yes">n</italic>
+ <sub>4</sub>,t). However, our count data were an estimate of breeding abundance which included paired males and females. The number of breeding birds observed during aerial surveys is calculated as a function of the number of breeding pairs and lone males which are assumed to represent a breeding pair (Fischer et al., 
+ <xref rid="ece37873-bib-0022" ref-type="bibr">2018</xref>; Lewis et al., 
+ <xref rid="ece37873-bib-0056" ref-type="bibr">2019</xref>). To link our count data to the overall population model, we calculated the breeding abundance as 
+ <italic toggle="yes">N</italic>bpop
+ <sub>t</sub> = (
+ <italic toggle="yes">n</italic>
+ <sub>3</sub>,t + 
+ <italic toggle="yes">n</italic>
+ <sub>4</sub>,t) * 2, assuming an equal sex ratio.
+</p>

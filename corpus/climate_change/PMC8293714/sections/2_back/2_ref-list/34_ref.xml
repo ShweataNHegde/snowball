@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ece37735-bib-0034">
+ <mixed-citation publication-type="book" id="ece37735-cit-0034">
+  <string-name>
+   <surname>Hijmans</surname>, 
+   <given-names>R. J.</given-names>
+  </string-name> (
+  <year>2019</year>). 
+  <source>raster: Geographic Data Analysis and Modeling</source>. R package version 3.0‐7. 
+  <ext-link xlink:href="https://CRAN.R-project.org/package=raster" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">https://CRAN.R‐project.org/package=raster</ext-link>
+ </mixed-citation>
+</ref>

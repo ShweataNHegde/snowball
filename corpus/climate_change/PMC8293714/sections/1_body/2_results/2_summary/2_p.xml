@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The phylogenetic tree analysis was consistent with previous investigations on the evolutionary history of western 
+ <italic toggle="yes">Plethodon</italic> salamanders, and all species were monophyletic, except one 
+ <italic toggle="yes">P. asupak</italic> individual nested within 
+ <italic toggle="yes">P. stormi</italic>, which we suspect is a likely misidentification (Figure 
+ <xref rid="ece37735-fig-0001" ref-type="fig">1d</xref> and 
+ <xref rid="ece37735-sup-0001" ref-type="supplementary-material">S25</xref>; Kozak et al., 
+ <xref rid="ece37735-bib-0039" ref-type="bibr">2009</xref>). This analysis is the first phylogenetic tree to include all PNW 
+ <italic toggle="yes">Plethodon</italic> species and supports our phylogenetic groups used for modeling. There were over at least 76 GPS coordinates for all species except 
+ <italic toggle="yes">P. asupak</italic> for which we were only able to locate 6 unique GPS coordinates (Table 
+ <xref rid="ece37735-tbl-0001" ref-type="table">1</xref>). We include the results for 
+ <italic toggle="yes">P. asupak</italic> with the caveat that these results should be interpreted with caution and are therefore not discussed in any detail. For the remainder of the results, we focus on models that had the lowest AICc score from our model evaluation test (Tables 
+ <xref rid="ece37735-tbl-0002" ref-type="table">2</xref> and 
+ <xref rid="ece37735-sup-0002" ref-type="supplementary-material">S2</xref>). All AUC
+ <sub>test</sub> scores were above 0.96, while most were above 0.98, and all AUC
+ <sub>diff</sub> scores were low, with the exception of 
+ <italic toggle="yes">P. asupak</italic>. AUC
+ <sub>test</sub> was generally higher for the single‐species models over the group models (Table 
+ <xref rid="ece37735-tbl-0002" ref-type="table">2</xref>). All OR scores were low, with the exception of 
+ <italic toggle="yes">P. asupak</italic>. The current SDMs match what is known about the current distribution for all species/groups, with the exception of 
+ <italic toggle="yes">P. asupak</italic>. We display models for the 
+ <italic toggle="yes">P. elongatus‐stormi‐asupak</italic>, 
+ <italic toggle="yes">P. larselli‐vandykei</italic>, and 
+ <italic toggle="yes">P. dunni‐vehiculum</italic> groups because these represent closely related lineages that have a large overlap in their ranges, and 
+ <italic toggle="yes">P. idahoensis</italic> on its own because it is the only species found east of the Columbia Basin (Figure 
+ <xref rid="ece37735-fig-0002" ref-type="fig">2</xref>). All projections can be found as Figures 
+ <xref rid="ece37735-sup-0001" ref-type="supplementary-material">S9</xref>–S16. Models using the full set of variables are presented as Figures 
+ <xref rid="ece37735-sup-0001" ref-type="supplementary-material">S17</xref>–S24 and do not differ substantially from the results presented, though the full variable datasets consistently estimated SDMs as slightly more restrictive.
+</p>

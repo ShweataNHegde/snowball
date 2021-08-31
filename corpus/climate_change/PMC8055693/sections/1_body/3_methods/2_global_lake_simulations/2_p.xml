@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par21">To drive each lake model, bias-corrected climate model projections from ISIMIP2b were used, specifically projections from GFDL-ESM2M, HadGEM2-ES, IPSL-CM5A-LR, and MIROC5 for historic (1901–2005) and future periods (2006–2099) under three scenarios: RCP 2.6, 6.0, and 8.5. These pathways encompass a range of potential future global radiative forcing from anthropogenic greenhouse gases and aerosols, and results span a range of potential impacts on lake temperature and stratification. The data used to drive each lake model included projections of air temperature at 2 m, wind speed at 10 m, surface solar and thermal radiation, and specific humidity, which were available at a daily resolution. These data were used as inputs to the model after bias adjustment to the EWEMBI reference data set
+ <sup>
+  <xref ref-type="bibr" rid="CR48">48</xref>,
+  <xref ref-type="bibr" rid="CR49">49</xref>
+ </sup>.
+</p>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B187-insects-12-00440">
+ <label>187.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ramos</surname>
+    <given-names>R.S.</given-names>
+   </name>
+   <name>
+    <surname>Kumar</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Shabani</surname>
+    <given-names>F.</given-names>
+   </name>
+   <name>
+    <surname>da Silva</surname>
+    <given-names>R.S.</given-names>
+   </name>
+   <name>
+    <surname>de Araújo</surname>
+    <given-names>T.A.</given-names>
+   </name>
+   <name>
+    <surname>Picanço</surname>
+    <given-names>M.C.</given-names>
+   </name>
+  </person-group>
+  <article-title>Climate model for seasonal variation in 
+   <italic>Bemisia tabaci</italic> using CLIMEX in tomato crops
+  </article-title>
+  <source>Int. J. Biometeorol.</source>
+  <year>2019</year>
+  <volume>63</volume>
+  <fpage>281</fpage>
+  <lpage>291</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00484-018-01661-2</pub-id>
+  <pub-id pub-id-type="pmid">30680622</pub-id>
+ </element-citation>
+</ref>

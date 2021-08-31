@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR80">
+ <label>80.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Navarro-Racines</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Tarapues</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Thornton</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Jarvis</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Ramirez-Villegas</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <article-title>High-resolution and bias-corrected CMIP5 projections for climate change impact assessments</article-title>
+  <source>Sci. Data</source>
+  <year>2020</year>
+  <volume>7</volume>
+  <fpage>1</fpage>
+  <lpage>14</lpage>
+  <pub-id pub-id-type="doi">10.1038/s41597-019-0343-8</pub-id>
+  <pub-id pub-id-type="pmid">31896794</pub-id>
+ </element-citation>
+</ref>

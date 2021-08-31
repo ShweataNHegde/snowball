@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig3">
+ <label>Fig. 3</label>
+ <caption>
+  <title>Lake sediment core.</title>
+  <p>
+   <bold>a</bold> Core photograph showing laminations and shift from organic-poor to organic-rich sediments at 
+   <bold>c</bold> 150 cm core-depth. 
+   <bold>b</bold> Percentage (weight) of organic material loss on ignition (LOI). 
+   <bold>c</bold> Carbon to Nitrogen ratio (C:N). 
+   <bold>d</bold> Log of Cl counts based on X-ray fluorescence (XRF) scanning. 
+   <bold>e</bold> Log Cl:Ti XRF data. 
+   <bold>f</bold> Sedimentation rates. 
+   <bold>g</bold> Modelled median age-depth relationship constructed in BACON. Error bars and dashed lines represent modelled 95% confidence intervals (for dates see Supplementary Table 
+   <xref rid="MOESM1" ref-type="media">1</xref>).
+  </p>
+ </caption>
+ <graphic xlink:href="41467_2021_24742_Fig3_HTML" id="d32e1032" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

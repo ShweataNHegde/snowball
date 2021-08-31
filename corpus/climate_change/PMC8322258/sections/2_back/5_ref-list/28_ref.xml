@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR28">
+ <label>28.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cardoso</surname>
+    <given-names>RM</given-names>
+   </name>
+   <name>
+    <surname>Soares</surname>
+    <given-names>PMM</given-names>
+   </name>
+   <name>
+    <surname>Lima</surname>
+    <given-names>DCA</given-names>
+   </name>
+   <name>
+    <surname>Miranda</surname>
+    <given-names>PMA</given-names>
+   </name>
+  </person-group>
+  <article-title>Mean and extreme temperatures in a warming climate: EURO CORDEX and WRF regional climate high-resolution projections for Portugal</article-title>
+  <source>Clim. Dyn.</source>
+  <year>2019</year>
+  <volume>52</volume>
+  <fpage>129</fpage>
+  <lpage>157</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00382-018-4124-4</pub-id>
+ </element-citation>
+</ref>

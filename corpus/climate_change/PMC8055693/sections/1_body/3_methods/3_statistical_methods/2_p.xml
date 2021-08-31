@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par23">The random forest and Spearman correlation analyses suggested that there may be interactions between predictor variables, thus precipitating the use of regression trees to further understand the drivers of stratification phenology. Regression tree models are able to effectively incorporate non-linear relationships, multicollinearity, and interactions between predictor variables
+ <sup>
+  <xref ref-type="bibr" rid="CR54">54</xref>
+ </sup>. We used the climatological mean day of stratification onset and break-up as response variables. Predictor variables included seasonal air temperatures and wind speed, lake depth, and lake surface area. Seasonal climate data were used to explain the across-lake variations in stratification phenology in order to (i) ensure consistency across the studied lakes and (ii) to capture both direct and indirect (e.g. the influence of ice cover on stratification onset) climatic effects. However, stratification phenology in an individual lake will be influenced most strongly by climatic factors during the preceding weeks to months of the mean onset/break-up dates. The most parsimonious regression tree was selected by pruning the tree to the level where the complexity parameter minimized the cross-validation error. We calculated the percentage variation explained by the regression tree (
+ <italic>R</italic>
+ <sup>2</sup>) as: 
+ <italic>R</italic>
+ <sup>2</sup> = 1 − relative error
+ <sup>
+  <xref ref-type="bibr" rid="CR55">55</xref>
+ </sup>. Regression trees were developed in R using the rpart and rpart.plot functions
+ <sup>
+  <xref ref-type="bibr" rid="CR56">56</xref>,
+  <xref ref-type="bibr" rid="CR57">57</xref>
+ </sup>.
+</p>

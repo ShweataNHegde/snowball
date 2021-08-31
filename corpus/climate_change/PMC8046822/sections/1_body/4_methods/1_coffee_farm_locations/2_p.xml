@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par29">We cleaned the data by removing records (1) without or with incorrect geographic coordinates, (2) older than the year 2000 since they may have positional errors (3) with a reported uncertainty higher than 50 km, and (4) within 5 km of another point to avoid extracting same pixels with same points.</p>

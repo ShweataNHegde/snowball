@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="ijerph-18-07197-t002" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">ijerph-18-07197-t002_Table 2</object-id>
+ <label>Table 2</label>
+ <caption>
+  <p>National Annual Costs of diseases involving eye structures, their attribution to climate change, expected evolution and mitigation costs.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Pathology</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">National Annual Costs (€M or €B)</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Attribution to Climate Change</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Attributable Increase to Extreme Events (%)</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Estimated Increase </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Investment for Mitigation (€B)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Retinal Detachment</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">€16.47–66.9 M</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Heatwaves</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">147</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Doubling in 30 years</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">AMD</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">€5.81 B</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">UVR 
+     <break/>Summer sun
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">114</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2% × Δ °C
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Glaucoma</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">€1.99 B</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">UVR 
+     <break/>PM
+     <sub>2.5</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">11 
+     <break/>Undetermined
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Five-year tripling 
+     <break/>−0.59% year
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Cataracts</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">€ 473 M</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">UVR</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10–150</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Δ4.8% year
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Herpes zoster</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">€18–55 M</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">UVR</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">14</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2% × Δ °C
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Herpes simplex</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">€235.83–274.46 M</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">UVR</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">33</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2% × Δ °C
+     <sup>−1</sup>; Δ4.4%year
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Rheumatoid Arthritis</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">€1.12 B</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pollution</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">31</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.8% year
+     <sup>−1</sup> (1)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ankylosing Spondylitis</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">€10.236 B</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PM
+     <sub>2.5</sub>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60 (outbreaks)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">−0.59% year
+     <sup>−1</sup> in Spain; 
+     <break/>−0.17% year
+     <sup>−1</sup> in Andalucía (2)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Multiple Sclerosis</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">€1.4 B</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PM
+     <sub>10</sub> + cold 
+     <break/>Ozone + heat
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">8 (outbreaks) 
+     <break/>16 (outbreaks)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">−1.05% year
+     <sup>−1</sup> in Spain 
+     <break/>−0.57% year
+     <sup>−1</sup> in Andalucía 
+     <break/>0.47% Year
+     <sup>−1</sup> according to WHO criteria (3).
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Inflammatory Bowel diseases</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">€391–844 M</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Heatwaves</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.6 (outbreaks)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Doubling in 78 years</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Systemic Lupus Erythematosus</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">€153.5–254.2 M</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sun exposition</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">100 (outbreaks) 
+     <break/>790 (sunburns)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2% × Δ °C
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sarcoidosis</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">€784 M</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PM
+     <sub>10</sub>
+     <break/>PM
+     <sub>2.5</sub>
+     <break/>Dryness (Δ1% decade
+     <sup>−1</sup>) 
+     <break/>Rising temperatures (0.13–0.4 °C decade
+     <sup>−1</sup>)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">82 
+     <break/>Undetermined 
+     <break/>Undetermined 
+     <break/>Undetermined
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">−1.05% year
+     <sup>−1</sup>
+     <break/>−0.59% year
+     <sup>−1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Total Amount</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">€22.63–23.31 B</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">36.46 (€8.37 B)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">13.15 (4)</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">% burden with respect National GDP (€1194 B)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.9–1.95</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.75</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.1</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Benefits of changing energy model</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">16.5–25.7</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">% saving of National GDP (€1194 B)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.47–2.29</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>Own elaboration.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

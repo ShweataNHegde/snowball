@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ece37735-bib-0101">
+ <mixed-citation publication-type="book" id="ece37735-cit-0101">
+  <string-name>
+   <surname>Warren</surname>, 
+   <given-names>D.</given-names>
+  </string-name>, &amp; 
+  <string-name>
+   <surname>Dinnage</surname>, 
+   <given-names>R.</given-names>
+  </string-name> (
+  <year>2020</year>). 
+  <source>ENMTools: Analysis of niche evolution using niche and distribution models</source>. R Package Version 1.0. 
+  <ext-link xlink:href="https://rdrr.io/github/danlwarren/ENMTools/" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">https://rdrr.io/github/danlwarren/ENMTools/</ext-link>
+ </mixed-citation>
+</ref>

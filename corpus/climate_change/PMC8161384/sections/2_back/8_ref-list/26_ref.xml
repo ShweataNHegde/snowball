@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B26-genes-12-00783">
+ <label>26.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schmutz</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>McClean</surname>
+    <given-names>P.E.</given-names>
+   </name>
+   <name>
+    <surname>Mamidi</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Wu</surname>
+    <given-names>G.A.</given-names>
+   </name>
+   <name>
+    <surname>Cannon</surname>
+    <given-names>S.B.</given-names>
+   </name>
+   <name>
+    <surname>Grimwood</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Jenkins</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Shu</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Song</surname>
+    <given-names>Q.</given-names>
+   </name>
+   <name>
+    <surname>Chavarro</surname>
+    <given-names>C.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A reference genome for common bean and genome-wide analysis of dual domestications</article-title>
+  <source>Nat. Genet.</source>
+  <year>2014</year>
+  <volume>46</volume>
+  <fpage>707</fpage>
+  <lpage>713</lpage>
+  <pub-id pub-id-type="doi">10.1038/ng.3008</pub-id>
+  <?supplied-pmid 24908249?>
+  <pub-id pub-id-type="pmid">24908249</pub-id>
+ </element-citation>
+</ref>

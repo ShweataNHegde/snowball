@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par33">As described above, surface temperature observations can be used as a proxy for lake stratification phenology. Specifically, by identifying the day of year in which lake surface temperatures cross a 3.98 °C threshold, surface temperatures can provide a useful phenological indicator of stratification
+ <sup>
+  <xref ref-type="bibr" rid="CR63">63</xref>
+ </sup>. Here, the across-lake variability in stratification phenology, as calculated from the model ensembles during the historic period, were compared with those estimated from satellite-derived lake temperatures. Notably, stratification phenology was estimated using lake surface temperatures from the European Space Agency’s Climate Change Initiative (CCI) Lakes project (CCI Lakes; 
+ <ext-link ext-link-type="uri" xlink:href="http://cci.esa.int/lakes" xmlns:xlink="http://www.w3.org/1999/xlink">http://cci.esa.int/lakes</ext-link>), which contains daily observations from 250 lakes worldwide. From these lakes, we selected those situated in the Northern Hemisphere (&gt;30°N) and those large enough for the existence of a 10 × 10 pixel array of pure water surrounding the lake centre, defined as the maximum distance to land, following the recommendations of ref. 
+ <sup>
+  <xref ref-type="bibr" rid="CR65">65</xref>
+ </sup> for minimizing land contamination of the satellite retrievals.
+</p>

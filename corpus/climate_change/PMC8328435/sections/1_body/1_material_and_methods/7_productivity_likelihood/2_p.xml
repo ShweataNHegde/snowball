@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We modeled productivity (
+ <italic toggle="yes">f</italic>) as the product of clutch size at hatch (
+ <italic toggle="yes">cs</italic>), the probability of nest success (
+ <italic toggle="yes">ns</italic>), and duckling survival (
+ <italic toggle="yes">ds</italic>; 0–30 days posthatch). Nests were monitored near the expected hatch date and the number of eggs hatched was recorded to account for egg mortality. Annual clutch size was modeled using a Poisson distribution where the shape parameter was the average clutch size over the time series. Probability of nest success was modeled as proportion of nests with at least one egg hatched out of the total nests recorded. Nest success was modeled using a binomial regression with annual random effects. Duckling survival was supplied as a constant value based on the mean of duckling survival from Kigigak Island (Flint et al., 
+ <xref rid="ece37873-bib-0025" ref-type="bibr">2016</xref>). The likelihood for productivity was 
+ <math id="jats-math-14">
+  <mrow>
+   <msub>
+    <mi>L</mi>
+    <mi mathvariant="italic">PR</mi>
+   </msub>
+   <mrow>
+    <mo stretchy="false">(</mo>
+    <mi mathvariant="bold-italic">ns</mi>
+    <mo>,</mo>
+    <mi mathvariant="bold-italic">cs</mi>
+    <mo>,</mo>
+    <mi mathvariant="bold-italic">ds</mi>
+    <mo stretchy="false">|</mo>
+    <mi>f</mi>
+    <mo stretchy="false">)</mo>
+   </mrow>
+  </mrow>
+ </math>.
+</p>

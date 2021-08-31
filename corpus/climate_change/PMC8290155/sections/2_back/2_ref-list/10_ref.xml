@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <label>10.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Horne</surname>
+    <given-names>BD</given-names>
+   </name>
+   <name>
+    <surname>Joy</surname>
+    <given-names>EA</given-names>
+   </name>
+   <name>
+    <surname>Hofmann</surname>
+    <given-names>MG</given-names>
+   </name>
+   <name>
+    <surname>Gesteland</surname>
+    <given-names>PH</given-names>
+   </name>
+   <name>
+    <surname>Cannon</surname>
+    <given-names>JB</given-names>
+   </name>
+   <name>
+    <surname>Lefler</surname>
+    <given-names>JS</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Short-term elevation of fine particulate matter air pollution and acute lower respiratory infection</article-title>. 
+  <source>Am J Respir Crit Care Med.</source> (
+  <year>2018</year>) 
+  <volume>198</volume>:
+  <fpage>759</fpage>–
+  <lpage>66</lpage>. 
+  <pub-id pub-id-type="doi">10.1164/rccm.201709-1883OC</pub-id>
+  <?supplied-pmid 29652174?>
+  <pub-id pub-id-type="pmid">29652174</pub-id>
+ </mixed-citation>
+</ref>

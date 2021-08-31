@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R121">
+ <label>121</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Rifkin</surname>
+    <given-names>DI</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Long</surname>
+    <given-names>MW</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Perry</surname>
+    <given-names>MJ</given-names>
+   </string-name>
+  </person-group>. 
+  <article-title>Climate change and sleep: a systematic review of the literature and conceptual framework</article-title>. 
+  <source>Sleep Med Rev</source>
+  <year>2018</year>;
+  <volume>42</volume>:
+  <fpage>3</fpage>–
+  <lpage>9</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.smrv.2018.07.007</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/30177247?>
+  <pub-id pub-id-type="pmid">30177247</pub-id>
+ </mixed-citation>
+</ref>

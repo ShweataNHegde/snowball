@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR108">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yu</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Zhao</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Martinez-Murillo</surname>
+    <given-names>JF</given-names>
+   </name>
+   <name>
+    <surname>Pereira</surname>
+    <given-names>P</given-names>
+   </name>
+  </person-group>
+  <article-title>Loess Plateau: from degradation to restoration</article-title>
+  <source>Sci Total Environ</source>
+  <year>2020</year>
+  <volume>738</volume>
+  <fpage>140206</fpage>
+  <pub-id pub-id-type="doi">10.1016/j.scitotenv.2020.140206</pub-id>
+  <?supplied-pmid 32660774?>
+  <pub-id pub-id-type="pmid">32660774</pub-id>
+ </element-citation>
+</ref>

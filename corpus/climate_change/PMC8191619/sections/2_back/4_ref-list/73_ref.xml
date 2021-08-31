@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R73">
+ <label>73</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Stensgaard</surname>
+    <given-names>A-S</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Vounatsou</surname>
+    <given-names>P</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Sengupta</surname>
+    <given-names>ME</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Schistosomes, snails and climate change: current trends and future expectations</article-title>. 
+  <source>Acta Trop</source>
+  <year>2019</year>;
+  <volume>190</volume>:
+  <fpage>257</fpage>–
+  <lpage>68</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.actatropica.2018.09.013</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/30261186?>
+  <pub-id pub-id-type="pmid">30261186</pub-id>
+ </mixed-citation>
+</ref>

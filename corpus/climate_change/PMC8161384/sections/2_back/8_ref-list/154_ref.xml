@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B154-genes-12-00783">
+ <label>154.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Montesinos-López</surname>
+    <given-names>O.A.</given-names>
+   </name>
+   <name>
+    <surname>Montesinos-López</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Mosqueda-Gonzalez</surname>
+    <given-names>B.A.</given-names>
+   </name>
+   <name>
+    <surname>Montesinos-López</surname>
+    <given-names>J.C.</given-names>
+   </name>
+   <name>
+    <surname>Crossa</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Ramirez</surname>
+    <given-names>N.L.</given-names>
+   </name>
+   <name>
+    <surname>Singh</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Valladares-Anguiano</surname>
+    <given-names>F.A.</given-names>
+   </name>
+   <name>
+    <surname>Akhunov</surname>
+    <given-names>E.</given-names>
+   </name>
+  </person-group>
+  <article-title>A zero altered Poisson random forest model for genomic-enabled prediction</article-title>
+  <source>G3</source>
+  <year>2021</year>
+  <fpage>11</fpage>
+  <pub-id pub-id-type="doi">10.1093/g3journal/jkaa057</pub-id>
+ </element-citation>
+</ref>

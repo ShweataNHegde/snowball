@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B149-genes-12-00783">
+ <label>149.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>González-Camacho</surname>
+    <given-names>J.M.</given-names>
+   </name>
+   <name>
+    <surname>Crossa</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Pérez-Rodríguez</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Ornella</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Gianola</surname>
+    <given-names>D.</given-names>
+   </name>
+  </person-group>
+  <article-title>Genome-enabled prediction using probabilistic neural network classifiers</article-title>
+  <source>BMC Genom.</source>
+  <year>2016</year>
+  <volume>17</volume>
+  <fpage>1</fpage>
+  <lpage>16</lpage>
+  <pub-id pub-id-type="doi">10.1186/s12864-016-2553-1</pub-id>
+  <?supplied-pmid 26956885?>
+  <pub-id pub-id-type="pmid">26956885</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bergland</surname>
+    <given-names>A. O.</given-names>
+   </name>
+   <name>
+    <surname>Behrman</surname>
+    <given-names>E. L.</given-names>
+   </name>
+   <name>
+    <surname>O’brien</surname>
+    <given-names>K. R.</given-names>
+   </name>
+   <name>
+    <surname>Schmidt</surname>
+    <given-names>P. S.</given-names>
+   </name>
+   <name>
+    <surname>Petrov</surname>
+    <given-names>D. A.</given-names>
+   </name>
+  </person-group> (
+  <year>2014</year>). 
+  <article-title>Genomic evidence of rapid and stable adaptive oscillations over seasonal time scales in 
+   <italic>Drosophila</italic>.
+  </article-title>
+  <source>
+   <italic>PLoS Genet.</italic>
+  </source>
+  <volume>10</volume>:
+  <issue>e1004775</issue>. 
+  <pub-id pub-id-type="doi">10.1371/journal.pgen.1004775</pub-id>
+  <?supplied-pmid 25375361?>
+  <pub-id pub-id-type="pmid">25375361</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B162-genes-12-00783">
+ <label>162.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gianola</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Okut</surname>
+    <given-names>H.</given-names>
+   </name>
+   <name>
+    <surname>Weigel</surname>
+    <given-names>K.A.</given-names>
+   </name>
+   <name>
+    <surname>Rosa</surname>
+    <given-names>G.J.</given-names>
+   </name>
+  </person-group>
+  <article-title>Predicting complex quantitative traits with Bayesian neural networks: A case study with Jersey cows and wheat</article-title>
+  <source>BMC Genet.</source>
+  <year>2011</year>
+  <volume>12</volume>
+  <elocation-id>87</elocation-id>
+  <pub-id pub-id-type="doi">10.1186/1471-2156-12-87</pub-id>
+  <pub-id pub-id-type="pmid">21981731</pub-id>
+ </element-citation>
+</ref>

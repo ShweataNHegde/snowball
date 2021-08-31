@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To account for the different measurement time periods of these emissions, we averaged the annual emissions of each dataset over its historical chronology (fig. S1). To align all emission agents to a similar scale of impact (i.e., CO
+ <sub>2</sub> equivalents) and facilitate a global summary, we multiplied the raw emission values of BC, CH
+ <sub>4</sub>, and N
+ <sub>2</sub>O by their global temperature potential (GTP) (
+ <xref rid="R6" ref-type="bibr">
+  <italic>6</italic>
+ </xref>, 
+ <xref rid="R51" ref-type="bibr">
+  <italic>51</italic>
+ </xref>), using the average of the 20- and 100-year values (table S3 and fig. S2). Here, CO
+ <sub>2</sub> is the GTP reference point, with a value of 1 (
+ <xref rid="R6" ref-type="bibr">
+  <italic>6</italic>
+ </xref>). Next, we reprojected the MERRA2 BC data to the EDGAR dataset resolution using bilinear interpolation (
+ <xref rid="R52" ref-type="bibr">
+  <italic>52</italic>
+ </xref>) and summed all layers (fig. S2). This provides a spatially resolved, global summary of the top four GH agents over the last half century (49 years).
+</p>

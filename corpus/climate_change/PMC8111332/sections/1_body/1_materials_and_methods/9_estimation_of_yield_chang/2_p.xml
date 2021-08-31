@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0105">We estimated the biophysical impact of climate change spatially across India by calculating changes in biophysical parameters between the baseline and the future climate scenarios. We calculated the changes during the mid-century period (2040–2069) relative to the baseline (1980–2009) for the respective years and impacts of adaptation options as shown below
+ <disp-formula id="fo0005">
+  <math id="M1" altimg="si1.svg">
+   <mtext>Yield change</mtext>
+   <mo linebreak="goodbreak">=</mo>
+   <mfrac>
+    <mrow>
+     <mi mathvariant="italic">Yi</mi>
+     <mo>−</mo>
+     <mi mathvariant="italic">Yb</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="italic">Yb</mi>
+     <mo>.</mo>
+    </mrow>
+   </mfrac>
+  </math>
+ </disp-formula>where, Y
+ <italic>i</italic> is the value of the parameter under future climate (2040–2069) and also under adaptation options, Y
+ <italic>b</italic> is the value of the parameter under the baseline climate. We obtained groundnut yields under each food producing unit (FPU) by summing up the grid cell values within the cultivated groundnut area obtained from crop type mapping generated using remote sensing of a given FPU.
+</p>

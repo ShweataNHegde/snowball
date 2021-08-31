@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B161-genes-12-00783">
+ <label>161.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zingaretti</surname>
+    <given-names>L.M.</given-names>
+   </name>
+   <name>
+    <surname>Gezan</surname>
+    <given-names>S.A.</given-names>
+   </name>
+   <name>
+    <surname>Ferrão</surname>
+    <given-names>L.F.V.</given-names>
+   </name>
+   <name>
+    <surname>Osorio</surname>
+    <given-names>L.F.</given-names>
+   </name>
+   <name>
+    <surname>Monfort</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Muñoz</surname>
+    <given-names>P.R.</given-names>
+   </name>
+   <name>
+    <surname>Whitaker</surname>
+    <given-names>V.M.</given-names>
+   </name>
+   <name>
+    <surname>Pérez-Enciso</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group>
+  <article-title>Exploring Deep Learning for Complex Trait Genomic Prediction in Polyploid Outcrossing Species</article-title>
+  <source>Front. Plant Sci.</source>
+  <year>2020</year>
+  <fpage>11</fpage>
+  <pub-id pub-id-type="doi">10.3389/fpls.2020.00025</pub-id>
+  <?supplied-pmid 32117371?>
+  <pub-id pub-id-type="pmid">32117362</pub-id>
+ </element-citation>
+</ref>

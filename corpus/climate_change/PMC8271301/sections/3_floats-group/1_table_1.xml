@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Results of statistical tests for monthly and annual temperature trends (1970–2015)</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" colspan="16">Panel A</th>
+   </tr>
+   <tr>
+    <th align="left"/>
+    <th align="left" colspan="3">Algeria</th>
+    <th align="left" colspan="3">Burkina Faso</th>
+    <th align="left" colspan="3">Cameroon</th>
+    <th align="left" colspan="3">Cote d’Ivoire</th>
+    <th align="left" colspan="3">Egypt</th>
+   </tr>
+   <tr>
+    <th align="left"/>
+    <th align="left">Mann–Kendall Statistic (
+     <italic>Z</italic>)
+    </th>
+    <th align="left">Sen’s slope</th>
+    <th align="left">Test interpretation</th>
+    <th align="left">Mann–Kendall Statistic (
+     <italic>Z</italic>)
+    </th>
+    <th align="left">Sen’s slope</th>
+    <th align="left">Test interpretation</th>
+    <th align="left">Mann–Kendall Statistic (
+     <italic>Z</italic>)
+    </th>
+    <th align="left">Sen’s slope</th>
+    <th align="left">Test interpretation</th>
+    <th align="left">Mann–Kendall Statistic (
+     <italic>Z</italic>)
+    </th>
+    <th align="left">Sen’s slope</th>
+    <th align="left">Test Interpretation</th>
+    <th align="left">Mann–Kendall Statistic (
+     <italic>Z</italic>)
+    </th>
+    <th align="left">Sen’s slope</th>
+    <th align="left">Test interpretation</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" colspan="16">
+     <italic>Monthly temperature</italic>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">January</td>
+    <td char="." align="char">1.25</td>
+    <td char="." align="char">0.014</td>
+    <td align="left">No trend</td>
+    <td char="." align="char">0.59</td>
+    <td char="." align="char">0.010</td>
+    <td align="left">No trend</td>
+    <td char="." align="char">1.86</td>
+    <td char="." align="char">0.014</td>
+    <td align="left">No trend</td>
+    <td char="." align="char">1.58</td>
+    <td char="." align="char">0.014</td>
+    <td align="left">No trend</td>
+    <td char="." align="char">1.25</td>
+    <td char="." align="char">0.014</td>
+    <td align="left">No trend</td>
+   </tr>
+   <tr>
+    <td align="left">February</td>
+    <td char="." align="char">0.40</td>
+    <td char="." align="char">0.003</td>
+    <td align="left">No trend</td>
+    <td char="." align="char">1.97</td>
+    <td char="." align="char">0.025</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.42</td>
+    <td char="." align="char">0.016</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.55</td>
+    <td char="." align="char">0.020</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">0.040</td>
+    <td char="." align="char">0.003</td>
+    <td align="left">No trend</td>
+   </tr>
+   <tr>
+    <td align="left">March</td>
+    <td char="." align="char">2.24</td>
+    <td char="." align="char">0.038</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.53</td>
+    <td char="." align="char">0.031</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.73</td>
+    <td char="." align="char">0.018</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.39</td>
+    <td char="." align="char">0.032</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.24</td>
+    <td char="." align="char">0.038</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">April</td>
+    <td char="." align="char">2.26</td>
+    <td char="." align="char">0.051</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.54</td>
+    <td char="." align="char">0.022</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.26</td>
+    <td char="." align="char">0.017</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.51</td>
+    <td char="." align="char">0.018</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.26</td>
+    <td char="." align="char">0.051</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">May</td>
+    <td char="." align="char">3.28</td>
+    <td char="." align="char">0.052</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.46</td>
+    <td char="." align="char">0.026</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.31</td>
+    <td char="." align="char">0.017</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.42</td>
+    <td char="." align="char">0.023</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.28</td>
+    <td char="." align="char">0.052</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">June</td>
+    <td char="." align="char">3.08</td>
+    <td char="." align="char">0.046</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.46</td>
+    <td char="." align="char">0.017</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.08</td>
+    <td char="." align="char">0.016</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.00</td>
+    <td char="." align="char">0.022</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.08</td>
+    <td char="." align="char">0.046</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">July</td>
+    <td char="." align="char">2.98</td>
+    <td char="." align="char">0.041</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.97</td>
+    <td char="." align="char">0.020</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.39</td>
+    <td char="." align="char">0.026</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.41</td>
+    <td char="." align="char">0.020</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.98</td>
+    <td char="." align="char">0.041</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">August</td>
+    <td char="." align="char">2.32</td>
+    <td char="." align="char">0.031</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">1.19</td>
+    <td char="." align="char">0.007</td>
+    <td align="left">No trend</td>
+    <td char="." align="char">2.71</td>
+    <td char="." align="char">0.019</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.06</td>
+    <td char="." align="char">0.014</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.32</td>
+    <td char="." align="char">0.031</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">September</td>
+    <td char="." align="char">2.61</td>
+    <td char="." align="char">0.032</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.12</td>
+    <td char="." align="char">0.013</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.35</td>
+    <td char="." align="char">0.012</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.71</td>
+    <td char="." align="char">0.015</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.61</td>
+    <td char="." align="char">0.032</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">October</td>
+    <td char="." align="char">2.91</td>
+    <td char="." align="char">0.060</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.78</td>
+    <td char="." align="char">0.013</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.24</td>
+    <td char="." align="char">0.016</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.09</td>
+    <td char="." align="char">0.015</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.91</td>
+    <td char="." align="char">0.060</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">November</td>
+    <td char="." align="char">2.96</td>
+    <td char="." align="char">0.038</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.89</td>
+    <td char="." align="char">0.036</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.34</td>
+    <td char="." align="char">0.021</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.89</td>
+    <td char="." align="char">0.021</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.96</td>
+    <td char="." align="char">0.038</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">December</td>
+    <td char="." align="char">2.03</td>
+    <td char="." align="char">0.020</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.44</td>
+    <td char="." align="char">0.023</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.65</td>
+    <td char="." align="char">0.022</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.51</td>
+    <td char="." align="char">0.021</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.03</td>
+    <td char="." align="char">0.020</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">
+     <italic>Annual temperature</italic>
+    </td>
+    <td char="." align="char">2.14</td>
+    <td char="." align="char">0.035</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.67</td>
+    <td char="." align="char">0.020</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.08</td>
+    <td char="." align="char">0.019</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.45</td>
+    <td char="." align="char">0.019</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.14</td>
+    <td char="." align="char">0.035</td>
+    <td align="left">Trend</td>
+   </tr>
+  </tbody>
+ </table>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" colspan="16">Panel B</th>
+   </tr>
+   <tr>
+    <th align="left"/>
+    <th align="left" colspan="3">Ghana</th>
+    <th align="left" colspan="3">Kenya</th>
+    <th align="left" colspan="3">Mali</th>
+    <th align="left" colspan="3">Morocco</th>
+    <th align="left" colspan="3">Nigeria</th>
+   </tr>
+   <tr>
+    <th align="left"/>
+    <th align="left">Mann–Kendall Statistic (
+     <italic>Z</italic>)
+    </th>
+    <th align="left">Sen’s slope</th>
+    <th align="left">Test interpretation</th>
+    <th align="left">Mann–Kendall Statistic (
+     <italic>Z</italic>)
+    </th>
+    <th align="left">Sen’s slope</th>
+    <th align="left">Test interpretation</th>
+    <th align="left">Mann–Kendall Statistic (
+     <italic>Z</italic>)
+    </th>
+    <th align="left">Sen’s slope</th>
+    <th align="left">Test interpretation</th>
+    <th align="left">Mann–Kendall Statistic (
+     <italic>Z</italic>)
+    </th>
+    <th align="left">Sen’s slope</th>
+    <th align="left">Test interpretation</th>
+    <th align="left">Mann–Kendall Statistic (
+     <italic>Z</italic>)
+    </th>
+    <th align="left">Sen’s slope</th>
+    <th align="left">Test interpretation</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" colspan="16">
+     <italic>Monthly temperature</italic>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">January</td>
+    <td char="." align="char">1.06</td>
+    <td char="." align="char">0.008</td>
+    <td align="left">No trend</td>
+    <td char="." align="char">2.46</td>
+    <td char="." align="char">0.021</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">1.01</td>
+    <td char="." align="char">0.019</td>
+    <td align="left">No trend</td>
+    <td char="." align="char">0.04</td>
+    <td char="." align="char">0.001</td>
+    <td align="left">No trend</td>
+    <td char="." align="char">1.78</td>
+    <td char="." align="char">0.021</td>
+    <td align="left">No trend</td>
+   </tr>
+   <tr>
+    <td align="left">February</td>
+    <td char="." align="char">2.76</td>
+    <td char="." align="char">0.020</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.91</td>
+    <td char="." align="char">0.023</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">1.70</td>
+    <td char="." align="char">0.021</td>
+    <td align="left">No trend</td>
+    <td char="." align="char">0.08</td>
+    <td char="." align="char">0.011</td>
+    <td align="left">No trend</td>
+    <td char="." align="char">2.14</td>
+    <td char="." align="char">0.029</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">March</td>
+    <td char="." align="char">3.28</td>
+    <td char="." align="char">0.027</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.46</td>
+    <td char="." align="char">0.029</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.16</td>
+    <td char="." align="char">0.041</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.28</td>
+    <td char="." align="char">0.039</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.56</td>
+    <td char="." align="char">0.025</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">April</td>
+    <td char="." align="char">2.23</td>
+    <td char="." align="char">0.017</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">1.99</td>
+    <td char="." align="char">0.020</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.47</td>
+    <td char="." align="char">0.033</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.92</td>
+    <td char="." align="char">0.034</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.18</td>
+    <td char="." align="char">0.021</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">May</td>
+    <td char="." align="char">2.42</td>
+    <td char="." align="char">0.022</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.44</td>
+    <td char="." align="char">0.030</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.16</td>
+    <td char="." align="char">0.036</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">1.21</td>
+    <td char="." align="char">0.020</td>
+    <td align="left">No trend</td>
+    <td char="." align="char">3.37</td>
+    <td char="." align="char">0.020</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">June</td>
+    <td char="." align="char">2.85</td>
+    <td char="." align="char">0.023</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.98</td>
+    <td char="." align="char">0.026</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.45</td>
+    <td char="." align="char">0.019</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.65</td>
+    <td char="." align="char">0.054</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.55</td>
+    <td char="." align="char">0.019</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">July</td>
+    <td char="." align="char">3.08</td>
+    <td char="." align="char">0.024</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.96</td>
+    <td char="." align="char">0.028</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.42</td>
+    <td char="." align="char">0.016</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.81</td>
+    <td char="." align="char">0.023</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.94</td>
+    <td char="." align="char">0.027</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">August</td>
+    <td char="." align="char">2.49</td>
+    <td char="." align="char">0.016</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.47</td>
+    <td char="." align="char">0.028</td>
+    <td align="left">Trend</td>
+    <td char="." align="char"> − 0.02</td>
+    <td char="." align="char">0.000</td>
+    <td align="left">No trend</td>
+    <td char="." align="char">1.91</td>
+    <td char="." align="char">0.028</td>
+    <td align="left">No trend</td>
+    <td char="." align="char">2.31</td>
+    <td char="." align="char">0.013</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">September</td>
+    <td char="." align="char">2.24</td>
+    <td char="." align="char">0.018</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.57</td>
+    <td char="." align="char">0.031</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">1.17</td>
+    <td char="." align="char">0.009</td>
+    <td align="left">No trend</td>
+    <td char="." align="char">1.76</td>
+    <td char="." align="char">0.023</td>
+    <td align="left">No trend</td>
+    <td char="." align="char">2.52</td>
+    <td char="." align="char">0.014</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">October</td>
+    <td char="." align="char">2.65</td>
+    <td char="." align="char">0.018</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.58</td>
+    <td char="." align="char">0.021</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.64</td>
+    <td char="." align="char">0.021</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.61</td>
+    <td char="." align="char">0.032</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.57</td>
+    <td char="." align="char">0.022</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">November</td>
+    <td char="." align="char">2.46</td>
+    <td char="." align="char">0.023</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.81</td>
+    <td char="." align="char">0.019</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.85</td>
+    <td char="." align="char">0.038</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">1.72</td>
+    <td char="." align="char">0.018</td>
+    <td align="left">No trend</td>
+    <td char="." align="char">2.81</td>
+    <td char="." align="char">0.036</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">December</td>
+    <td char="." align="char">2.32</td>
+    <td char="." align="char">0.023</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.49</td>
+    <td char="." align="char">0.022</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.12</td>
+    <td char="." align="char">0.024</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.84</td>
+    <td char="." align="char">0.042</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.07</td>
+    <td char="." align="char">0.029</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">
+     <italic>Annual temperature</italic>
+    </td>
+    <td char="." align="char">2.75</td>
+    <td char="." align="char">0.021</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.34</td>
+    <td char="." align="char">0.025</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.14</td>
+    <td char="." align="char">0.022</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.22</td>
+    <td char="." align="char">0.028</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.30</td>
+    <td char="." align="char">0.023</td>
+    <td align="left">Trend</td>
+   </tr>
+  </tbody>
+ </table>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" colspan="16">Panel C</th>
+   </tr>
+   <tr>
+    <th align="left"/>
+    <th align="left" colspan="3">Sierra Leone</th>
+    <th align="left" colspan="3">South Africa</th>
+    <th align="left" colspan="3">The Gambia</th>
+    <th align="left" colspan="3">Tunisia</th>
+    <th align="left" colspan="3">Zambia</th>
+   </tr>
+   <tr>
+    <th align="left"/>
+    <th align="left">Mann–Kendall Statistic (
+     <italic>Z</italic>)
+    </th>
+    <th align="left">Sen’s slope</th>
+    <th align="left">Test interpretation</th>
+    <th align="left">Mann–Kendall Statistic (
+     <italic>Z</italic>)
+    </th>
+    <th align="left">Sen’s slope</th>
+    <th align="left">Test interpretation</th>
+    <th align="left">Mann–Kendall Statistic (
+     <italic>Z</italic>)
+    </th>
+    <th align="left">Sen’s slope</th>
+    <th align="left">Test interpretation</th>
+    <th align="left">Mann–Kendall Statistic (
+     <italic>Z</italic>)
+    </th>
+    <th align="left">Sen’s slope</th>
+    <th align="left">Test interpretation</th>
+    <th align="left">Mann–Kendall Statistic (
+     <italic>Z</italic>)
+    </th>
+    <th align="left">Sen’s slope</th>
+    <th align="left">Test interpretation</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" colspan="16">
+     <italic>Monthly temperature</italic>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">January</td>
+    <td char="." align="char">1.69</td>
+    <td char="." align="char">0.020</td>
+    <td align="left">No trend</td>
+    <td char="." align="char">2.69</td>
+    <td char="." align="char">0.022</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.32</td>
+    <td char="." align="char">0.030</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">1.55</td>
+    <td char="." align="char">0.023</td>
+    <td align="left">No trend</td>
+    <td char="." align="char">2.24</td>
+    <td char="." align="char">0.021</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">February</td>
+    <td char="." align="char">2.06</td>
+    <td char="." align="char">0.016</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.96</td>
+    <td char="." align="char">0.032</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.71</td>
+    <td char="." align="char">0.023</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">− 0.02</td>
+    <td char="." align="char"> − 0.001</td>
+    <td align="left">No trend</td>
+    <td char="." align="char">2.79</td>
+    <td char="." align="char">0.028</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">March</td>
+    <td char="." align="char">3.12</td>
+    <td char="." align="char">0.031</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.42</td>
+    <td char="." align="char">0.026</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.56</td>
+    <td char="." align="char">0.035</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.82</td>
+    <td char="." align="char">0.034</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.99</td>
+    <td char="." align="char">0.021</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">April</td>
+    <td char="." align="char">3.04</td>
+    <td char="." align="char">0.021</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">1.34</td>
+    <td char="." align="char">0.010</td>
+    <td align="left">No trend</td>
+    <td char="." align="char">3.26</td>
+    <td char="." align="char">0.023</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.69</td>
+    <td char="." align="char">0.061</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">1.81</td>
+    <td char="." align="char">0.013</td>
+    <td align="left">No trend</td>
+   </tr>
+   <tr>
+    <td align="left">May</td>
+    <td char="." align="char">2.89</td>
+    <td char="." align="char">0.021</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.37</td>
+    <td char="." align="char">0.038</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.37</td>
+    <td char="." align="char">0.034</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.81</td>
+    <td char="." align="char">0.054</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.16</td>
+    <td char="." align="char">0.026</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">June</td>
+    <td char="." align="char">3.20</td>
+    <td char="." align="char">0.020</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">1.87</td>
+    <td char="." align="char">0.020</td>
+    <td align="left">No trend</td>
+    <td char="." align="char">3.45</td>
+    <td char="." align="char">0.028</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.50</td>
+    <td char="." align="char">0.045</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.24</td>
+    <td char="." align="char">0.041</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">July</td>
+    <td char="." align="char">3.67</td>
+    <td char="." align="char">0.019</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.31</td>
+    <td char="." align="char">0.016</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.79</td>
+    <td char="." align="char">0.026</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.79</td>
+    <td char="." align="char">0.060</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.16</td>
+    <td char="." align="char">0.028</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">August</td>
+    <td char="." align="char">2.52</td>
+    <td char="." align="char">0.010</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.71</td>
+    <td char="." align="char">0.027</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.95</td>
+    <td char="." align="char">0.016</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.83</td>
+    <td char="." align="char">0.057</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.24</td>
+    <td char="." align="char">0.033</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">September</td>
+    <td char="." align="char">2.69</td>
+    <td char="." align="char">0.011</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">1.99</td>
+    <td char="." align="char">0.019</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.46</td>
+    <td char="." align="char">0.019</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.16</td>
+    <td char="." align="char">0.040</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">3.11</td>
+    <td char="." align="char">0.022</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">October</td>
+    <td char="." align="char">2.14</td>
+    <td char="." align="char">0.013</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.73</td>
+    <td char="." align="char">0.034</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">4.03</td>
+    <td char="." align="char">0.026</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.46</td>
+    <td char="." align="char">0.074</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.38</td>
+    <td char="." align="char">0.034</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">November</td>
+    <td char="." align="char">2.73</td>
+    <td char="." align="char">0.024</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">1.72</td>
+    <td char="." align="char">0.013</td>
+    <td align="left">No trend</td>
+    <td char="." align="char">2.73</td>
+    <td char="." align="char">0.035</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.36</td>
+    <td char="." align="char">0.056</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.22</td>
+    <td char="." align="char">0.040</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">December</td>
+    <td char="." align="char">1.77</td>
+    <td char="." align="char">0.027</td>
+    <td align="left">No trend</td>
+    <td char="." align="char">2.60</td>
+    <td char="." align="char">0.020</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.36</td>
+    <td char="." align="char">0.043</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.12</td>
+    <td char="." align="char">0.026</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.30</td>
+    <td char="." align="char">0.029</td>
+    <td align="left">Trend</td>
+   </tr>
+   <tr>
+    <td align="left">
+     <italic>Annual temperature</italic>
+    </td>
+    <td char="." align="char">2.51</td>
+    <td char="." align="char">0.019</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.63</td>
+    <td char="." align="char">0.024</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.83</td>
+    <td char="." align="char">0.028</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.34</td>
+    <td char="." align="char">0.043</td>
+    <td align="left">Trend</td>
+    <td char="." align="char">2.46</td>
+    <td char="." align="char">0.029</td>
+    <td align="left">Trend</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Alpha is 
+   <inline-formula id="IEq65">
+    <alternatives>
+     <tex-math id="M135">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$Z_{{0.05/2}} = 1.96$$\end{document}</tex-math>
+     <math id="M136">
+      <mrow>
+       <msub>
+        <mi>Z</mi>
+        <mrow>
+         <mn>0.05</mn>
+         <mo stretchy="false">/</mo>
+         <mn>2</mn>
+        </mrow>
+       </msub>
+       <mo>=</mo>
+       <mn>1.96</mn>
+      </mrow>
+     </math>
+     <inline-graphic xlink:href="10668_2021_1621_Article_IEq65.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </alternatives>
+   </inline-formula>
+  </p>
+ </table-wrap-foot>
+</table-wrap>

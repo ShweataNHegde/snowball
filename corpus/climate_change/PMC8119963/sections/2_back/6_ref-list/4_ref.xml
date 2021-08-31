@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Field</surname>
+    <given-names>RD</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Indonesian fire activity and smoke pollution in 2015 show persistent nonlinear sensitivity to El Niño-induced drought</article-title>
+  <source>Proc. Natl. Acad. Sci.</source>
+  <year>2016</year>
+  <volume>113</volume>
+  <issue>33</issue>
+  <fpage>9204</fpage>
+  <lpage>9209</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.1524888113</pub-id>
+  <?supplied-pmid 27482096?>
+  <pub-id pub-id-type="pmid">27482096</pub-id>
+ </element-citation>
+</ref>

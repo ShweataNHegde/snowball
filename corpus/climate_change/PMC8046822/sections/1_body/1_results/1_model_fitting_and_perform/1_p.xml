@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par8">The performance of individual models was satisfactory for all the modelling exercises, being exceptional for some specialty coffees (Yirgacheffe and Limu) and high for the rest of the coffees. The lowest AUC and TSS was for Harar model (0.90 and 0.77 respectively), with the combined model for the TSS (0.78) and a higher AUC (0.94). Overall, our model evaluation showed that the modelling of all specialty coffees in Ethiopia was based on model skill and not random chance in identifying coffee areas (Fig. 
+ <xref rid="Fig1" ref-type="fig">1</xref>). There was a very strong correlation between the area modelled as suitable by the combined model and by the individual coffee models (Figure 
+ <xref rid="MOESM1" ref-type="media">SI3</xref>). The combined model however, slightly overestimated speciality coffee areas in all cases as all specialty coffee types were below the 1:1 line. The high correlation between the combined and individual models, in addition to the high TSS and AUC values provides confidence to apply the model for examining the coffee suitability under current and future climatic conditions.
+</p>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R97">
+ <label>97</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Xu</surname>
+    <given-names>Z</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Crooks</surname>
+    <given-names>JL</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Davies</surname>
+    <given-names>JM</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>The association between ambient temperature and childhood asthma: a systematic review</article-title>. 
+  <source>Int J Biometeorol</source>
+  <year>2018</year>;
+  <volume>62</volume>:
+  <fpage>471</fpage>–
+  <lpage>81</lpage>. 
+  <pub-id pub-id-type="doi">10.1007/s00484-017-1455-5</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/29022096?>
+  <pub-id pub-id-type="pmid">29022096</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funding-group>
+ <award-group>
+  <funding-source>
+   <institution-wrap>
+    <institution-id institution-id-type="FundRef">https://doi.org/10.13039/501100004836</institution-id>
+    <institution>Det Frie Forskningsråd (Danish Council for Independent Research)</institution>
+   </institution-wrap>
+  </funding-source>
+  <award-id>9064-0039B</award-id>
+  <principal-award-recipient>
+   <name>
+    <surname>Ribeiro</surname>
+    <given-names>Sofia</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+</funding-group>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F1" position="float">
+ <label>FIGURE 1</label>
+ <caption>
+  <p>Spatial and temporal variation in 
+   <italic>Drosophila melanogaster</italic>. 
+   <bold>(A)</bold> Flies vary in size, color, and many other phenotypic and genotypic traits across the east coast of the United States. Alleles related to climate adaptation are expected to be correlated with latitude 
+   <bold>(B)</bold> and seasons 
+   <bold>(C)</bold>. For example, diapause incidence and the frequency of an allele that encodes for diapause inducibility in the 
+   <italic>couchpotato</italic> gene vary predictably with latitude 
+   <bold>(D)</bold> and seasons 
+   <bold>(E)</bold>. Data from 
+   <xref rid="B64" ref-type="bibr">Schmidt et al. (2005)</xref> and 
+   <xref rid="B14" ref-type="bibr">Cogni et al. (2014)</xref>.
+  </p>
+ </caption>
+ <graphic xlink:href="fgene-12-676218-g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

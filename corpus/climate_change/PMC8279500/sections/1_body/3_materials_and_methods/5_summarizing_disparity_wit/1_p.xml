@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We summarized LCDI values within various political and ecological boundaries (figs. S8 to S11). The Marine Regions database (
+ <xref rid="R56" ref-type="bibr">
+  <italic>56</italic>
+ </xref>) provides EEZ boundaries, and the R rnaturalearth package (
+ <xref rid="R57" ref-type="bibr">
+  <italic>57</italic>
+ </xref>) provides boundaries for UN member states and the United States. We grouped terrestrial and marine ecological regions (
+ <xref rid="R58" ref-type="bibr">
+  <italic>58</italic>
+ </xref>, 
+ <xref rid="R59" ref-type="bibr">
+  <italic>59</italic>
+ </xref>) into broader nested categories (realms and biomes, respectively; table S4) and aggregated UN member states into larger geopolitical regions (subregions). This provides boundaries for 192 UN member states (see table S5 for excluded entities), 22 geopolitical regions, 31 ecological regions, 21 anthropogenic biomes (
+ <xref rid="R60" ref-type="bibr">
+  <italic>60</italic>
+ </xref>), and 50 US states. For UN member states, we expanded their national borders to include their EEZ and oversea territories (
+ <xref rid="R61" ref-type="bibr">
+  <italic>61</italic>
+ </xref>). For transboundary cells, we assigned the cell to the region accounting for most of its area. We then summarized the LCDI values considering the four output combinations of RCP 4.5, RCP 8.5, and 2005–2055 and 2050–2099 projections (fig. S5). Next, we generated histograms of the pooled LCDI outputs within each region and, because of the skew of the data (fig. S12), ranked each region by the 10th quantile of the LCDI values.
+</p>

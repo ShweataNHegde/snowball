@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We downloaded species occurrence data from GBIF on a species‐by‐species basis (DOIs reported in Table 
+ <xref rid="ece37735-tbl-0001" ref-type="table">1</xref>). Only those with GPS coordinates and no known issues from human observation, material sample, observation, and preserved specimen were retained. Additional GPS coordinates for 
+ <italic toggle="yes">P</italic>. 
+ <italic toggle="yes">idahoensis, larselli,</italic> and 
+ <italic toggle="yes">vandykei</italic> were taken from Pelletier et al. (
+ <xref rid="ece37735-bib-0062" ref-type="bibr">2015</xref>), and iDigBio for 
+ <italic toggle="yes">P. asupak, idahoensis, larselli, stormi, and vandykei</italic>. Once all GPS coordinates were collected, several cleaning steps were applied to prevent sampling bias and incorrect data points (Table 
+ <xref rid="ece37735-tbl-0001" ref-type="table">1</xref>). All data manipulation and analyses were conducted using R v3.6.1 (R Core Team, 
+ <xref rid="ece37735-bib-0109" ref-type="bibr">2019</xref>).
+</p>

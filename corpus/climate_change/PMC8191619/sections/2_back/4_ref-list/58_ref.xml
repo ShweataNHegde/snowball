@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R58">
+ <label>58</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Nichols</surname>
+    <given-names>A</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Maynard</surname>
+    <given-names>V</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Goodman</surname>
+    <given-names>B</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Health, climate change and sustainability: a systematic review and thematic analysis of the literature</article-title>. 
+  <source>Environ Health Insights</source>
+  <year>2009</year>;
+  <volume>3</volume>:
+  <fpage>EHI.S3003</fpage>–
+  <lpage>88</lpage>. 
+  <pub-id pub-id-type="doi">10.4137/EHI.S3003</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/20508757?>
+ </mixed-citation>
+</ref>

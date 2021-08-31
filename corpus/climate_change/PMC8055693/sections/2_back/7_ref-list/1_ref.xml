@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <label>1.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Verpoorter</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A global inventory of lakes based on high-resolution satellite imagery</article-title>
+  <source>Geophys. Res. Lett.</source>
+  <year>2014</year>
+  <volume>41</volume>
+  <fpage>6396</fpage>
+  <lpage>6402</lpage>
+  <pub-id pub-id-type="doi">10.1002/2014GL060641</pub-id>
+ </element-citation>
+</ref>

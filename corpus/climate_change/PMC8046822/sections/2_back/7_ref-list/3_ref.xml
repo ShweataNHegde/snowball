@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bunn</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Läderach</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Jimenez</surname>
+    <given-names>JGP</given-names>
+   </name>
+   <name>
+    <surname>Montagnon</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Schilling</surname>
+    <given-names>T</given-names>
+   </name>
+  </person-group>
+  <article-title>Multiclass classification of agro-ecological zones for Arabica coffee: An improved understanding of the impacts of climate change</article-title>
+  <source>PLoS ONE</source>
+  <year>2015</year>
+  <volume>10</volume>
+  <fpage>e0140490</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0140490</pub-id>
+  <pub-id pub-id-type="pmid">26505637</pub-id>
+ </element-citation>
+</ref>

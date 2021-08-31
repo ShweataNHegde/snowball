@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig5">
+ <label>Fig. 5</label>
+ <caption>
+  <title>Range breadth of each species expressed as the percentage of the whole landscape they occupy (ordinate) at three different time stamps (colors).</title>
+  <p>The mean (points) and plus/minus one standard deviation range (colored bands) are shown over replicates. Numbers along the abscissa represent species, with initially more warm-adapted species corresponding to higher values. The range breadth of each species is shown at three time stamps: at the start of climate change (
+   <italic>t</italic> = 0, blue), the end of climate change (
+   <italic>t</italic> = 300, green), and at the end of our simulations (
+   <italic>t</italic> = 2500, yellow). Panel layout as in Fig. 
+   <xref rid="Fig4" ref-type="fig">4</xref>.
+  </p>
+ </caption>
+ <graphic xlink:href="41467_2021_24977_Fig5_HTML" id="d32e704" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

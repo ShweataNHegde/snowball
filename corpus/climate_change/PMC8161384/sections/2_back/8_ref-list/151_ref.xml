@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B151-genes-12-00783">
+ <label>151.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Azodi</surname>
+    <given-names>C.B.</given-names>
+   </name>
+   <name>
+    <surname>Bolger</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>McCarren</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Roantree</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>de los Campos</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Shiu</surname>
+    <given-names>S.-H.</given-names>
+   </name>
+  </person-group>
+  <article-title>Benchmarking Parametric and Machine Learning Models for Genomic Prediction of Complex Traits</article-title>
+  <source>G3</source>
+  <year>2019</year>
+  <volume>9</volume>
+  <fpage>3691</fpage>
+  <lpage>3702</lpage>
+  <pub-id pub-id-type="doi">10.1534/g3.119.400498</pub-id>
+  <pub-id pub-id-type="pmid">31533955</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0075">Climate data for each simulation grid cell over India (5 arc minutes) were obtained from the Intergovernmental Panel on Climate Change's 5th assessment datasets (
+ <xref rid="bb0085" ref-type="bibr">IPCC, 2014</xref>). This database provided all the required climatic elements needed by the stochastic daily weather generator SIMMETEO available in DSSAT. The weather generator provides daily weather consistent with the monthly averages supplied to it from the FutureClim data (
+ <xref rid="bb0075" ref-type="bibr">Hijmans et al., 2005</xref>; 
+ <xref rid="bb0095" ref-type="bibr">Jones and Thornton, 2003</xref>, 
+ <xref rid="bb0100" ref-type="bibr">Jones and Thornton, 2013</xref>). The baseline climate we used for this study was that of 1980 to 2009 as suggested in agricultural model intercomparison and improvement program (AgMIP) regional integrated assessment protocols (
+ <xref rid="bb0180" ref-type="bibr">Rosenzweig and Hillel, 2015</xref>). We then took the future climates from the AgMIP/The Inter-Sectoral Impact Model Intercomparison Project (ISIMIP) downscaling with differences extracted and perturbed to the trusted FutureClim data. Projected climate data for 2050 (2040–2069) for RCP 8.5 taken from Geophysical Fluid Science laboratory's Earth System Modeling (GFDL-ESM2M) (
+ <xref rid="bb0050" ref-type="bibr">Dunne et al., 2012a</xref>; 
+ <xref rid="bb0055" ref-type="bibr">Dunne et al., 2012b</xref>) and Hadley Centre's Global Environment Model (HadGEM 2-ES) version 2 (
+ <xref rid="bb0120" ref-type="bibr">Martin et al., 2011</xref>). We selected these GCM's because they appeared, on an average, across the globe, to be the driest and wettest. They therefore provide two extreme climates to compare the impacts of climate change on groundnut in India.
+</p>

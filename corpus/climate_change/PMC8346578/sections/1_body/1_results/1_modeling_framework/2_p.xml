@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par10">Species in our setup may either be resources or consumers. Their local dynamics are governed by the following processes. First, within each patch, we allow for migration to and from adjacent patches (changing both local population densities and also local adaptedness, due to the mixing of immigrant individuals with local ones). Second, each species’ intrinsic rate of increase is temperature-dependent, influenced by how well their temperature optima match local temperatures (Fig. 
+ <xref rid="Fig2" ref-type="fig">2</xref>a). For consumers, metabolic loss and mortality always result in negative intrinsic growth, which must be compensated by sufficient consumption to maintain their populations. Third, there is a local competition between resource species, which can be thought of as exploitative competition for a set of shared substitutable lower-level resources
+ <sup>
+  <xref ref-type="bibr" rid="CR26">26</xref>
+ </sup>. Consumers, when present, compete only indirectly via their shared resource species. Fourth, each consumer has feeding links to five of the resource species (pending their presence in patches where the consumer is also present), which are randomly determined but always include the one resource which matches the consumer’s initial mean temperature optimum. Feeding rates follow a Holling type II functional response. Consumers experience growth from consumption, and resource species experience loss due to being consumed.
+</p>

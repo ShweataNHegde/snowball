@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rödder</surname>
+   <given-names>Dennis</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Schmitt</surname>
+   <given-names>Thomas</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gros</surname>
+   <given-names>Patrick</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ulrich</surname>
+   <given-names>Werner</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Habel</surname>
+   <given-names>Jan Christian</given-names>
+  </name>
+  <address>
+   <email>Janchristian.habel@sbg.ac.at</email>
+  </address>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.452935.c</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2216 5875</institution-id>
+   <institution>Zoologisches Forschungsmuseum Alexander Koenig, </institution>
+  </institution-wrap>Adenauerallee 160, 53113 Bonn, Germany 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.500071.3</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 9114 1714</institution-id>
+   <institution>Senckenberg German Entomological Institute, </institution>
+  </institution-wrap>Eberswalder Straße 90, 15374 Müncheberg, Germany 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.9018.0</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0679 2801</institution-id>
+   <institution>Department of Zoology, Faculty of Natural Sciences I, Institute of Biology, </institution>
+   <institution>Martin Luther University Halle-Wittenberg, </institution>
+  </institution-wrap>06099 Halle (Saale), Germany 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.11348.3f</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0942 1117</institution-id>
+   <institution>Entomology and Biogeography, Institute of Biochemistry and Biology, Faculty of Science, </institution>
+   <institution>University of Potsdam, </institution>
+  </institution-wrap>14476 Potsdam, Germany 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.510060.2</institution-id>
+   <institution>Haus der Natur, </institution>
+  </institution-wrap>Museumsplatz 5, 5020 Salzburg, Austria 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.5374.5</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0943 6490</institution-id>
+   <institution>Department of Ecology and Biogeography, </institution>
+   <institution>Nicolaus Copernicus University PL-Toruń, </institution>
+  </institution-wrap>87-100 Toruń, Poland 
+ </aff>
+ <aff id="Aff7">
+  <label>7</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.7039.d</institution-id>
+   <institution-id institution-id-type="ISNI">0000000110156330</institution-id>
+   <institution>Evolutionary Zoology, Department of Biosciences, </institution>
+   <institution>University of Salzburg, </institution>
+  </institution-wrap>5020 Salzburg, Austria 
+ </aff>
+</contrib-group>

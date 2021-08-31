@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par33">For the selected provinces, annual yield anomalies (t/ha) of wheat and barley were obtained based on area (ha) and ton of production (t) from the Spanish Agriculture, Food and Environment Ministry (available at 
+ <ext-link ext-link-type="uri" xlink:href="https://www.mapa.gob.es" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.mapa.gob.es</ext-link>). Spatial averages were computed for each cluster and long-term trends were removed by linear detrending, in order to exclude non-climatic factors such as technological development
+ <sup>
+  <xref ref-type="bibr" rid="CR88">88</xref>
+ </sup>. The time-series were further standardized (Fig. 
+ <xref rid="Fig1" ref-type="fig">1</xref>, bottom panel).
+</p>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B86-genes-12-00783">
+ <label>86.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Newell</surname>
+    <given-names>M.A.</given-names>
+   </name>
+   <name>
+    <surname>Cook</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Hofmann</surname>
+    <given-names>H.</given-names>
+   </name>
+   <name>
+    <surname>Jannink</surname>
+    <given-names>J.-L.</given-names>
+   </name>
+  </person-group>
+  <article-title>An algorithm for deciding the number of clusters and validation using simulated data with application to exploring crop population structure</article-title>
+  <source>Ann. Appl. Stat.</source>
+  <year>2013</year>
+  <volume>7</volume>
+  <fpage>1898</fpage>
+  <lpage>1916</lpage>
+  <pub-id pub-id-type="doi">10.1214/13-AOAS671</pub-id>
+ </element-citation>
+</ref>

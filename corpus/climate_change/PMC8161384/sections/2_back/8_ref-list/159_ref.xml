@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B159-genes-12-00783">
+ <label>159.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Onogi</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Ideta</surname>
+    <given-names>O.</given-names>
+   </name>
+   <name>
+    <surname>Inoshita</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Ebana</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Yoshioka</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Yamasaki</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Iwata</surname>
+    <given-names>H.</given-names>
+   </name>
+  </person-group>
+  <article-title>Exploring the areas of applicability of whole-genome prediction methods for Asian rice (
+   <italic>Oryza sativa</italic> L.)
+  </article-title>
+  <source>Theor. Appl. Genet.</source>
+  <year>2015</year>
+  <volume>128</volume>
+  <fpage>41</fpage>
+  <lpage>53</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00122-014-2411-y</pub-id>
+  <pub-id pub-id-type="pmid">25341369</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR72">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sen</surname>
+    <given-names>PK</given-names>
+   </name>
+  </person-group>
+  <article-title>Estimates of the Regression Coefficient Based on Kendall’s Tau</article-title>
+  <source>Journal of American Statistical Association</source>
+  <year>1968</year>
+  <volume>63</volume>
+  <fpage>1379</fpage>
+  <lpage>1389</lpage>
+  <pub-id pub-id-type="doi">10.1080/01621459.1968.10480934</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0070">The terra moderate resolution imaging spectroradiometer (MODIS) vegetation indices (MOD13Q1) version 5 data are generated every 16 days. Imagery was acquired from the Land Processes Distributed Active Archive Center (LP DAAC) (
+ <ext-link ext-link-type="uri" xlink:href="https://lpdaac.usgs.gov/" id="ir0005" xmlns:xlink="http://www.w3.org/1999/xlink">https://lpdaac.usgs.gov/</ext-link>). Image classification was performed by rescaling 16-day normalized difference vegetation index (NDVI) images and later stacking them into a single data composite for each cropping year (
+ <xref rid="bb0060" ref-type="bibr">Gumma et al., 2016</xref>; 
+ <xref rid="bb0210" ref-type="bibr">Thenkabail et al., 2007</xref>). In this study, monthly NDVI maximum value composites (MVCs) were used for cataloging. An NDVI 16-day composite was used for identifying and labelling land use/land cover classes, including groundnut areas in India. Class identification and labelling were done based on decision tree algorithms, and spectral matching techniques along with intensive ground survey data.
+</p>

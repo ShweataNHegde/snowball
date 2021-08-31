@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par15">The 
+ <inline-formula id="IEq34">
+  <alternatives>
+   <tex-math id="M85">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$Q_{{{\text{med}}}}$$\end{document}</tex-math>
+   <math id="M86">
+    <msub>
+     <mi>Q</mi>
+     <mtext>med</mtext>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq34.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> value is calculated according to a normal distribution. The sign of the 
+ <inline-formula id="IEq35">
+  <alternatives>
+   <tex-math id="M87">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\left( {Q_{{{\text{med}}}} } \right)$$\end{document}</tex-math>
+   <math id="M88">
+    <mfenced close=")" open="(">
+     <msub>
+      <mi>Q</mi>
+      <mtext>med</mtext>
+     </msub>
+    </mfenced>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq35.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> value reflects the data trend. A negative 
+ <inline-formula id="IEq36">
+  <alternatives>
+   <tex-math id="M89">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$Q_{i}$$\end{document}</tex-math>
+   <math id="M90">
+    <msub>
+     <mi>Q</mi>
+     <mi>i</mi>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq36.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> value indicates a downward trend, while a positive slope value 
+ <inline-formula id="IEq37">
+  <alternatives>
+   <tex-math id="M91">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\left( {Q_{{{\text{med}}}} } \right)$$\end{document}</tex-math>
+   <math id="M92">
+    <mfenced close=")" open="(">
+     <msub>
+      <mi>Q</mi>
+      <mtext>med</mtext>
+     </msub>
+    </mfenced>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq37.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> suggests an upward trend in the data. In this study, a confidence interval of 95% was used to indicate whether Sen’s slope estimator is statistically different from zero. In the existing literature, Sen’s slope estimator is mainly used to determine the magnitude of trends in climatic variables (ElNesr et al., 
+ <xref ref-type="bibr" rid="CR29">2010</xref>; Gocic &amp; Trajkovic, 
+ <xref ref-type="bibr" rid="CR40">2013</xref>; Partal &amp; Kahya, 
+ <xref ref-type="bibr" rid="CR66">2006</xref>; Pickson et al., 
+ <xref ref-type="bibr" rid="CR69">2020</xref>; Tabari &amp; Marofi, 
+ <xref ref-type="bibr" rid="CR77">2011</xref>; Tabari et al., 
+ <xref ref-type="bibr" rid="CR78">2011a</xref>; Yue &amp; Hashino, 
+ <xref ref-type="bibr" rid="CR90">2003</xref>; Yunling &amp; Yiping, 
+ <xref ref-type="bibr" rid="CR92">2005</xref>).
+</p>

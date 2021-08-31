@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R100">
+ <label>100</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Gao</surname>
+    <given-names>J</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Cheng</surname>
+    <given-names>Q</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Duan</surname>
+    <given-names>J</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Ambient temperature, sunlight duration, and suicide: a systematic review and meta-analysis</article-title>. 
+  <source>Sci Total Environ</source>
+  <year>2019</year>;
+  <volume>646</volume>:
+  <fpage>1021</fpage>–
+  <lpage>9</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.scitotenv.2018.07.098</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/30235587?>
+  <pub-id pub-id-type="pmid">30235587</pub-id>
+ </mixed-citation>
+</ref>

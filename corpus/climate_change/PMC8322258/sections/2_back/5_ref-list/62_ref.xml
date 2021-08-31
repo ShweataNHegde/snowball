@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR62">
+ <label>62.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ribeiro</surname>
+    <given-names>AFS</given-names>
+   </name>
+   <name>
+    <surname>Russo</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Gouveia</surname>
+    <given-names>CM</given-names>
+   </name>
+   <name>
+    <surname>Páscoa</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Zscheischler</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <article-title>Risk of crop failure due to compound dry and hot extremes estimated with nested copulas</article-title>
+  <source>Biogeosciences</source>
+  <year>2020</year>
+  <volume>17</volume>
+  <fpage>4815</fpage>
+  <lpage>4830</lpage>
+  <pub-id pub-id-type="doi">10.5194/bg-17-4815-2020</pub-id>
+ </element-citation>
+</ref>

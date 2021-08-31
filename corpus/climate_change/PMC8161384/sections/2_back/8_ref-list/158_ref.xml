@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B158-genes-12-00783">
+ <label>158.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Banerjee</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Marathi</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Singh1</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group>
+  <article-title>Efficient genomic selection using ensemble learning and ensemble feature reduction</article-title>
+  <source>J. Crop. Sci. Biotechnol.</source>
+  <year>2020</year>
+  <volume>23</volume>
+  <fpage>311</fpage>
+  <lpage>323</lpage>
+  <pub-id pub-id-type="doi">10.1007/s12892-020-00039-4</pub-id>
+ </element-citation>
+</ref>

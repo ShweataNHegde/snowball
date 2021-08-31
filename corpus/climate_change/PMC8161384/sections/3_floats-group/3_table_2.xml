@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="genes-12-00783-t002" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">genes-12-00783-t002_Table 2</object-id>
+ <label>Table 2</label>
+ <caption>
+  <p>Machine learning (ML) predictive tools validated within a GP framework that can be extended to assist clustering efforts to differentiate between abiotic stress tolerant and susceptible germplasm accessions. These ML algorithms could be trained to distinguish habitat types and local adaptation to heat and drought stresses by looking into 
+   <italic>in situ</italic> climate variables and physiological indices from each accession’s geo-referencing (
+   <xref ref-type="fig" rid="genes-12-00783-f001">Figure 1</xref>b). This is possible because crop wild relatives and landraces have occupied local niches (e.g., hot vs. cold regions) for enough time to be shaped by natural selection. Predicted heat and drought tolerance can further harness other data types (
+   <xref ref-type="fig" rid="genes-12-00783-f001">Figure 1</xref>e,f) in order to identify and unlock novel sources of heat and drought tolerance (
+   <xref ref-type="fig" rid="genes-12-00783-f001">Figure 1</xref>g). The ML trained classification may also speed-up the utilization of tolerant variants by genomic-assisted breeding techniques (
+   <xref ref-type="fig" rid="genes-12-00783-f001">Figure 1</xref>i and 
+   <xref ref-type="fig" rid="genes-12-00783-f002">Figure 2</xref>g). Table is sorted by species name and by ML approach.
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">ML Approach(es)</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Species</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Accessions x Genetic Markers</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Reference</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">RF</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Barley</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">911 × 2146 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Heslot et al., 2012 [
+     <xref rid="B139-genes-12-00783" ref-type="bibr">139</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">ANN</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Bean</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">80 × 384 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Rosado et al., 2020 [
+     <xref rid="B140-genes-12-00783" ref-type="bibr">140</xref>] 
+     <bold>Ψ</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">SVM</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Black tea</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">255 × 1421 DArT SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Koech et al., 2020 [
+     <xref rid="B141-genes-12-00783" ref-type="bibr">141</xref>] 
+     <bold>Ψ</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">RF</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Chickpea</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">315 × 1568 DArT SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Roorkiwal et al., 2016 [
+     <xref rid="B142-genes-12-00783" ref-type="bibr">142</xref>] 
+     <bold>Ψ</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">DT, Bagging, Boosting, RF, ANN</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Coffee</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">245 × 74 AFLP, 58 SSR, 4 RAPD, and 2 primers </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Sousa et al., 2021 [
+     <xref rid="B143-genes-12-00783" ref-type="bibr">143</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">RF</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Coffee</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">96 × 38,106 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Ferrão et al., 2019 [
+     <xref rid="B144-genes-12-00783" ref-type="bibr">144</xref>] 
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">SVM</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Hybrid Rice </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">575 × 116,482 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Xu et al., 2018 [
+     <xref rid="B145-genes-12-00783" ref-type="bibr">145</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">ANN</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Maize </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">300 × 55,000 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">González-Camacho, et al., 2012 [
+     <xref rid="B146-genes-12-00783" ref-type="bibr">146</xref>] 
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">DL</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Maize </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">148,452 × 19,465 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Khaki &amp; Wang, 2019 [
+     <xref rid="B147-genes-12-00783" ref-type="bibr">147</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">DL</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Maize </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">~300 × ~1000 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Rachmatia et al., 2017 [
+     <xref rid="B148-genes-12-00783" ref-type="bibr">148</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">KNN</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Maize </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">198 × 75 SSR</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Maenhout et al., 2007 [
+     <xref rid="B149-genes-12-00783" ref-type="bibr">149</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">MLP, PNN</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Maize </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">~300 × 46,374 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">González-Camacho et al., 2016 [
+     <xref rid="B150-genes-12-00783" ref-type="bibr">150</xref>] 
+     <bold>Ψ</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">RBFNN, ANN</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Maize </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">~300 × 46,374 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">González-Camacho et al., 2012 [
+     <xref rid="B146-genes-12-00783" ref-type="bibr">146</xref>] 
+     <bold>Ψ</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">RF</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Maize </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">240 × 29,619 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Shikha et al., 2017 [
+     <xref rid="B151-genes-12-00783" ref-type="bibr">151</xref>] 
+     <bold>Ψ</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">RF</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Maize </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">240 × 56,110 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Shikha et al., 2017 [
+     <xref rid="B151-genes-12-00783" ref-type="bibr">151</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">RF, SVM, ANN, Boosting</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Maize </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">391 × 332,178 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Azodi et al., 2019 [
+     <xref rid="B152-genes-12-00783" ref-type="bibr">152</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">SVM</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Maize </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4,328 × 564,692 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Zhao et al., 2020 [
+     <xref rid="B153-genes-12-00783" ref-type="bibr">153</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">SVM, RF</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Maize </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">113 × 47,458 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Li et al., 2020 [
+     <xref rid="B154-genes-12-00783" ref-type="bibr">154</xref>] 
+     <bold>Ψ</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">ZAP-RF</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Maize </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">115 × 1635 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Montesinos-López et al., 2021 [
+     <xref rid="B155-genes-12-00783" ref-type="bibr">155</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">DL</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Maize </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">309 × 158,281 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Montesinos-López, et al., 2018 [
+     <xref rid="B135-genes-12-00783" ref-type="bibr">135</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">RF, SVM</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Mice </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1,884 × 9917 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Neves et al., 2012 [
+     <xref rid="B156-genes-12-00783" ref-type="bibr">156</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">SVM</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Pea </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">105 × 7521 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Annicchiarico et al., 2017 [
+     <xref rid="B157-genes-12-00783" ref-type="bibr">157</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">RF, Boosting, KNN</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Perennial ryegrass </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">86 × 1670 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Grinberg et al., 2016 [
+     <xref rid="B158-genes-12-00783" ref-type="bibr">158</xref>] 
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">RF, GBM, KNN</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Perennial ryegrass</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">86 × 1670 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Grinberg et al., 2016 [
+     <xref rid="B158-genes-12-00783" ref-type="bibr">158</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Bagging, RF, SVM</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Rice</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">363 × 73,147 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Banerjee et al., 2020 [
+     <xref rid="B159-genes-12-00783" ref-type="bibr">159</xref>] 
+     <bold>Ψ</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">RF</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Rice</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">110 × 3071 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Onogi et al., 2015 [
+     <xref rid="B160-genes-12-00783" ref-type="bibr">160</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">SVM, Boosting</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Simulated Dataset </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">3226 × 10,031</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Ogutu et al., 2011 [
+     <xref rid="B161-genes-12-00783" ref-type="bibr">161</xref>] 
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">DL</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Strawberry </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">1358 × 9908 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Zingaretti et al., 2020 [
+     <xref rid="B162-genes-12-00783" ref-type="bibr">162</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">ANN</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Wheat </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">599 × 1279 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Gianola, et al., 2011 [
+     <xref rid="B163-genes-12-00783" ref-type="bibr">163</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">ANN</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Wheat </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">306 × 1717 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Pérez-Rodríguez et al., 2012 [
+     <xref rid="B164-genes-12-00783" ref-type="bibr">164</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">DL</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Wheat </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">~500 × 15,744 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Crossa et al., 2019 [
+     <xref rid="B133-genes-12-00783" ref-type="bibr">133</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">DL</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Wheat </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">237 × 27,957 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Guo et al., 2020 [
+     <xref rid="B165-genes-12-00783" ref-type="bibr">165</xref>] 
+     <bold>Ψ</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">DL</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Wheat </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">2000 × 33,709 DArT SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Ma et al., 2017 [
+     <xref rid="B166-genes-12-00783" ref-type="bibr">166</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">GBM, RF, SVM</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Wheat </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">254 × 33,516 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Grinberg et al., 2020 [
+     <xref rid="B167-genes-12-00783" ref-type="bibr">167</xref>] 
+     <bold>Ψ</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">MLP, PNN</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Wheat </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">~300 × 1717 DArT SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">González-Camacho et al., 2016 [
+     <xref rid="B150-genes-12-00783" ref-type="bibr">150</xref>] 
+     <bold>Ψ</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">RF</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Wheat </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">254 × 41,371 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Poland et al., 2012 [
+     <xref rid="B168-genes-12-00783" ref-type="bibr">168</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">RF, KNN</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Wheat </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">273 × 5054 SNP</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Arruda et al., 2015 [
+     <xref rid="B169-genes-12-00783" ref-type="bibr">169</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DL, SVM</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Wheat </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3486 × 2038 SNP</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Montesinos-López et al., 2019 [
+     <xref rid="B170-genes-12-00783" ref-type="bibr">170</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>ML tool abbreviations as follows: adaptive boosting (AdaBoost), artificial neural networks (ANN), decision tree (DT), deep learning (DL), extreme gradient boosting (XGBoost), gradient boosting machines (GBM), multilayer perceptron neural network (MLP), probabilistic neural network (PNN), radial basis function neural network (RBFNN), random forest (RF), support vector machines (SVM), and zero altered Poisson random forest (ZAP-RF). ML-coupled genomic prediction initiatives explicitly related to abiotic stress tolerance are marked with 
+    <bold>Ψ</bold> under reference.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

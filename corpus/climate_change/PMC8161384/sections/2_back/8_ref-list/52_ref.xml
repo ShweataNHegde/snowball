@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B52-genes-12-00783">
+ <label>52.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rellstab</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Gugerli</surname>
+    <given-names>F.</given-names>
+   </name>
+   <name>
+    <surname>Eckert</surname>
+    <given-names>A.J.</given-names>
+   </name>
+   <name>
+    <surname>Hancock</surname>
+    <given-names>A.M.</given-names>
+   </name>
+   <name>
+    <surname>Holderegger</surname>
+    <given-names>R.</given-names>
+   </name>
+  </person-group>
+  <article-title>A practical guide to environmental association analysis in landscape genomics</article-title>
+  <source>Mol. Ecol.</source>
+  <year>2015</year>
+  <volume>24</volume>
+  <fpage>4348</fpage>
+  <lpage>4370</lpage>
+  <pub-id pub-id-type="doi">10.1111/mec.13322</pub-id>
+  <pub-id pub-id-type="pmid">26184487</pub-id>
+ </element-citation>
+</ref>

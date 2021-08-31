@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="ece37735-tbl-0001" content-type="TABLE">
+ <label>TABLE 1</label>
+ <caption>
+  <p>IUCN Red list category for each species, the number of localities before data cleaning steps (
+   <italic toggle="yes">n</italic>
+   <sub>0</sub>), the number of localities used for the analyses after data cleaning steps and extracting one point per grid cell (
+   <italic toggle="yes">n</italic>), the number of unique GPS coordinates found within some sort of protected area (
+   <italic toggle="yes">n</italic>
+   <sub>p</sub>), and DOIs for all downloads
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <thead valign="top">
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="top" rowspan="1" colspan="1">
+     <italic toggle="yes">Plethodon</italic>
+    </th>
+    <th align="left" valign="top" rowspan="1" colspan="1">IUCN listing</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">
+     <italic toggle="yes">n</italic>
+     <sub>0</sub>
+    </th>
+    <th align="left" valign="top" rowspan="1" colspan="1">
+     <italic toggle="yes">n</italic>
+    </th>
+    <th align="left" valign="top" rowspan="1" colspan="1">
+     <italic toggle="yes">n</italic>
+     <sub>p</sub>
+    </th>
+    <th align="left" valign="top" rowspan="1" colspan="1">GBIF DOI</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">iDigBio DOI</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">asupak</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">VU</td>
+    <td align="char" char="." rowspan="1" colspan="1">39</td>
+    <td align="char" char="." rowspan="1" colspan="1">6</td>
+    <td align="char" char="." rowspan="1" colspan="1">4</td>
+    <td align="left" rowspan="1" colspan="1">
+     <ext-link xlink:href="https://doi.org/10.15468/dl.3malaj" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">https://doi.org/10.15468/dl.3malaj</ext-link>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <ext-link xlink:href="http://s.idigbio.org/idigbio-downloads/85a48039-a9ca-4825-b022-661dedff34c1.zip" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">http://s.idigbio.org/idigbio‐downloads/85a48039‐a9ca‐4825‐b022‐661dedff34c1.zip</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">dunni</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">LC</td>
+    <td align="char" char="." rowspan="1" colspan="1">436</td>
+    <td align="char" char="." rowspan="1" colspan="1">299</td>
+    <td align="char" char="." rowspan="1" colspan="1">30</td>
+    <td align="left" rowspan="1" colspan="1">
+     <ext-link xlink:href="https://doi.org/10.15468/dl.qzbaiy" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">https://doi.org/10.15468/dl.qzbaiy</ext-link>
+    </td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">elongatus</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">NT</td>
+    <td align="char" char="." rowspan="1" colspan="1">311</td>
+    <td align="char" char="." rowspan="1" colspan="1">275</td>
+    <td align="char" char="." rowspan="1" colspan="1">112</td>
+    <td align="left" rowspan="1" colspan="1">
+     <ext-link xlink:href="https://doi.org/10.15468/dl.vtvha8" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">https://doi.org/10.15468/dl.vtvha8</ext-link>
+    </td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">idahoensis</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">LC</td>
+    <td align="char" char="." rowspan="1" colspan="1">126</td>
+    <td align="char" char="." rowspan="1" colspan="1">112</td>
+    <td align="char" char="." rowspan="1" colspan="1">8</td>
+    <td align="left" rowspan="1" colspan="1">
+     <ext-link xlink:href="https://doi.org/10.15468/dl.ysrazd" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">https://doi.org/10.15468/dl.ysrazd</ext-link>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <ext-link xlink:href="http://s.idigbio.org/idigbio-downloads/1e07950a-fe77-4f9d-bb30-8abc539e0f99.zip" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">http://s.idigbio.org/idigbio‐downloads/1e07950a‐fe77‐4f9d‐bb30‐8abc539e0f99.zip</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">larselli</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">NT</td>
+    <td align="char" char="." rowspan="1" colspan="1">213</td>
+    <td align="char" char="." rowspan="1" colspan="1">76</td>
+    <td align="char" char="." rowspan="1" colspan="1">22</td>
+    <td align="left" rowspan="1" colspan="1">
+     <ext-link xlink:href="https://doi.org/10.15468/dl.zsftzi" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">https://doi.org/10.15468/dl.zsftzi</ext-link>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <ext-link xlink:href="http://s.idigbio.org/idigbio-downloads/aa934cd3-3bb4-4e0c-a019-4dfc91317878.zip" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">http://s.idigbio.org/idigbio‐downloads/aa934cd3‐3bb4‐4e0c‐a019‐4dfc91317878.zip</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">stormi</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">EN</td>
+    <td align="char" char="." rowspan="1" colspan="1">244</td>
+    <td align="char" char="." rowspan="1" colspan="1">63</td>
+    <td align="char" char="." rowspan="1" colspan="1">8</td>
+    <td align="left" rowspan="1" colspan="1">
+     <ext-link xlink:href="https://doi.org/10.15468/dl.rvq1jv" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">https://doi.org/10.15468/dl.rvq1jv</ext-link>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <ext-link xlink:href="http://s.idigbio.org/idigbio-downloads/85a48039-a9ca-4825-b022-661dedff34c1.zip" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">http://s.idigbio.org/idigbio‐downloads/85a48039‐a9ca‐4825‐b022‐661dedff34c1.zip</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">vandykei</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">LC</td>
+    <td align="char" char="." rowspan="1" colspan="1">317</td>
+    <td align="char" char="." rowspan="1" colspan="1">109</td>
+    <td align="char" char="." rowspan="1" colspan="1">133</td>
+    <td align="left" rowspan="1" colspan="1">
+     <ext-link xlink:href="https://doi.org/10.15468/dl.nst81m" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">https://doi.org/10.15468/dl.nst81m</ext-link>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <ext-link xlink:href="http://s.idigbio.org/idigbio-downloads/1e07950a-fe77-4f9d-bb30-8abc539e0f99.zip" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">http://s.idigbio.org/idigbio‐downloads/1e07950a‐fe77‐4f9d‐bb30‐8abc539e0f99.zip</ext-link>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">vehiculum</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">LC</td>
+    <td align="char" char="." rowspan="1" colspan="1">913</td>
+    <td align="char" char="." rowspan="1" colspan="1">664</td>
+    <td align="char" char="." rowspan="1" colspan="1">234</td>
+    <td align="left" rowspan="1" colspan="1">
+     <ext-link xlink:href="https://doi.org/10.15468/dl.2dbr0s" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">https://doi.org/10.15468/dl.2dbr0s</ext-link>
+    </td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+   </tr>
+  </tbody>
+ </table>
+ <permissions>
+  <copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder>
+ </permissions>
+</table-wrap>

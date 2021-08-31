@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR60">
+ <label>60.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Webber</surname>
+    <given-names>H</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Physical robustness of canopy temperature models for crop heat stress simulation across environments and production conditions</article-title>
+  <source>Field Crop. Res.</source>
+  <year>2018</year>
+  <volume>216</volume>
+  <fpage>75</fpage>
+  <lpage>88</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.fcr.2017.11.005</pub-id>
+ </element-citation>
+</ref>

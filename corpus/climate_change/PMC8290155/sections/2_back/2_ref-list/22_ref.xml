@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B22">
+ <label>22.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ali</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Islam</surname>
+    <given-names>F</given-names>
+   </name>
+  </person-group>. 
+  <article-title>The effects of air pollution on COVID-19 infection and mortality-a review on recent evidence</article-title>. 
+  <source>Front Public Health.</source> (
+  <year>2020</year>) 
+  <volume>8</volume>:
+  <fpage>57</fpage>. 
+  <pub-id pub-id-type="doi">10.3389/fpubh.2020.580057</pub-id>
+  <?supplied-pmid 33324598?>
+  <pub-id pub-id-type="pmid">32211365</pub-id>
+ </mixed-citation>
+</ref>

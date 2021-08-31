@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR66">
+ <label>66.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Peña-Gallardo</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Vicente-Serrano</surname>
+    <given-names>SM</given-names>
+   </name>
+   <name>
+    <surname>Domínguez-Castro</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Beguería</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>The impact of drought on the productivity of two rainfed crops in Spain</article-title>
+  <source>Nat. Hazards Earth Syst. Sci.</source>
+  <year>2019</year>
+  <volume>19</volume>
+  <fpage>1215</fpage>
+  <lpage>1234</lpage>
+  <pub-id pub-id-type="doi">10.5194/nhess-19-1215-2019</pub-id>
+ </element-citation>
+</ref>

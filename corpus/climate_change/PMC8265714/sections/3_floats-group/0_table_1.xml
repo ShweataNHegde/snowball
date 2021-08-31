@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Overview of combinations of pessimistic/optimistic views on unmitigated or poorly mitigate climate change, pessimistic/optimistic views on mitigation in general, views on mitigation measures, and views on the significance of adaptation (the commentators are presented in an order corresponding to the order of presentation in the text)</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left"/>
+    <th align="left">Unmitigated or poorly mitigated climate change</th>
+    <th align="left">Mitigation</th>
+    <th align="left">Mitigation measures</th>
+    <th align="left">Significance of adaptation</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">Bendell</td>
+    <td align="left">Radical pessimism</td>
+    <td align="left">Radical pessimism</td>
+    <td align="left">Too late</td>
+    <td align="left">Prioritized</td>
+   </tr>
+   <tr>
+    <td align="left">Scranton</td>
+    <td align="left">Radical pessimism</td>
+    <td align="left">Radical pessimism</td>
+    <td align="left">Too late</td>
+    <td align="left">Prioritized</td>
+   </tr>
+   <tr>
+    <td align="left">Heatley</td>
+    <td align="left">Pessimism</td>
+    <td align="left">Pessimism</td>
+    <td align="left">Almost too late</td>
+    <td align="left">Emphasized: equal consideration</td>
+   </tr>
+   <tr>
+    <td align="left">Brooks</td>
+    <td align="left">Pessimism</td>
+    <td align="left">Pessimism/optimism (a middle position)</td>
+    <td align="left">Some measures may have at least a limited effect</td>
+    <td align="left">Emphasized: equal consideration</td>
+   </tr>
+   <tr>
+    <td align="left">Ecomodernist Manifesto</td>
+    <td align="left">Pessimism</td>
+    <td align="left">Radical optimism</td>
+    <td align="left">High-tech innovation is very promising</td>
+    <td align="left">Not emphasized</td>
+   </tr>
+   <tr>
+    <td align="left">Symons</td>
+    <td align="left">Pessimism</td>
+    <td align="left">Optimism</td>
+    <td align="left">State-led high-tech innovation is promising</td>
+    <td align="left">Not emphasized</td>
+   </tr>
+   <tr>
+    <td align="left">Boyd</td>
+    <td align="left">Pessimism</td>
+    <td align="left">Optimism</td>
+    <td align="left">Several efforts to harmonize with nature are promising</td>
+    <td align="left">Not emphasized</td>
+   </tr>
+   <tr>
+    <td align="left">Pettifor</td>
+    <td align="left">Pessimism</td>
+    <td align="left">Optimism</td>
+    <td align="left">Transformation of the financial system is promising</td>
+    <td align="left">Not emphasized</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

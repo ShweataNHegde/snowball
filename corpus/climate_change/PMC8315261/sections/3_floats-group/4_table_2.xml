@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab2">
+ <label>Table 2</label>
+ <caption>
+  <p>Research themes and core concepts identified within key research focussing on ‘
+   <xref rid="Sec12" ref-type="sec">Cognition</xref>’ presented for each focus level (whether the articles examined the managerial, organisational or general societal populations)
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left">Focus Level</th>
+    <th align="left">Research Theme</th>
+    <th align="left">Core Concepts</th>
+    <th align="left">References</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="6">Managerial</td>
+    <td align="left">
+     <p>
+      <italic>Factors Shaping Cognition</italic>
+     </p>
+     <p>Various factors shape managerial cognition (individual; organisational; societal). E.g. Individual ability variables and motivation variables; Individual moral maturity and perceived moral intensity of sustainability issue; temporality; mindfulness training on cognitive abilities; Association between individual ethics, honesty and moral development; decision-making horizon influence on sustainability frame</p>
+    </td>
+    <td align="left">
+     <p>
+      <italic>Determining</italic>- Factors determine cognition towards sustainability
+     </p>
+     <p>
+      <italic>Dual process</italic>- Implicit and explicit; Effortful (conscious thought) and effortless (automatic processing) aspects
+     </p>
+     <p>
+      <italic>Evolving</italic>- Evolution of cognition over time
+     </p>
+     <p>
+      <italic>Co-evolution</italic>
+      <bold>- </bold>Increased complexity of knowledge (non-financial) increases proactive sustainability initiatives
+     </p>
+     <p>
+      <italic>Malleable</italic>- Cognition can be actively shaped e.g. through mindfulness training
+     </p>
+    </td>
+    <td align="left">
+     <p>Eberhardt-Toth &amp; Wasieleski (
+      <xref ref-type="bibr" rid="CR22">2013</xref>)
+     </p>
+     <p>Gröschl et al. (
+      <xref ref-type="bibr" rid="CR34">2019</xref>)
+     </p>
+     <p>Siqueira &amp; Pitassi (
+      <xref ref-type="bibr" rid="CR73">2016</xref>)
+     </p>
+     <p>Chung &amp; Hsu (
+      <xref ref-type="bibr" rid="CR14">2017</xref>)
+     </p>
+     <p>Sharma &amp; Jaiswal (
+      <xref ref-type="bibr" rid="CR69">2018</xref>)
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">
+     <p>
+      <italic>Cognition Shapes Decisions/Action</italic>
+     </p>
+     <p>Balance between individual cognitions and external factors. E.g. between individual cognitions and external resource support (eco-innovation); balance between individual cognition on climate change (local and global) and local capabilities; response to stakeholder pressure</p>
+    </td>
+    <td align="left">
+     <p>
+      <italic>Thresholds to action</italic>- Support factors internal and external to organisation
+     </p>
+     <p>
+      <italic>Tensions</italic>- Competing knowledge and views in creating a climate change strategy
+     </p>
+     <p>
+      <italic>Shaping</italic>- Response shaped by cognition e.g. Stakeholder pressure
+     </p>
+    </td>
+    <td align="left">
+     <p>Peng &amp; Liu (
+      <xref ref-type="bibr" rid="CR60">2016</xref>)
+     </p>
+     <p>Lei et al. (
+      <xref ref-type="bibr" rid="CR45">2017</xref>)
+     </p>
+     <p>Schaltenbrand et al. (
+      <xref ref-type="bibr" rid="CR65">2018</xref>)
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">
+     <p>
+      <italic>Cognitive Factors Shape Action</italic>
+     </p>
+     <p>Factors associated with cognition shape action. E.g. managerial moral reflectiveness shapes ethical leadership actions; Increased cognitive complexity shapes sustainability decisions; culture effects agency; knowledge of environmental strategy</p>
+    </td>
+    <td align="left">
+     <p>
+      <italic>Complexity</italic>- Increased cognitive complexity measured by lens differentiation (number of cognitive lenses used) and lens integration (connections between lenses) influencing sustainability decisions
+     </p>
+     <p>
+      <italic>Reflectivity</italic>- Managers considering morality in their experiences shape actions
+     </p>
+     <p>
+      <italic>Autonomy</italic>- Moderating factor between moral reflectiveness and ethical leadership
+     </p>
+     <p>
+      <italic>Determining</italic>- Effect of culture on moral agency
+     </p>
+    </td>
+    <td align="left">
+     <p>Gröschl et al. (
+      <xref ref-type="bibr" rid="CR34">2019</xref>)
+     </p>
+     <p>Babalola et al. (
+      <xref ref-type="bibr" rid="CR4">2019</xref>)
+     </p>
+     <p>Hiekkataipale &amp; Lamsa (
+      <xref ref-type="bibr" rid="CR39">2019</xref>)
+     </p>
+     <p>Yang et al. (
+      <xref ref-type="bibr" rid="CR95">2019</xref>)
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">
+     <p>
+      <italic>Cognition Shapes Frame</italic>
+     </p>
+     <p>An individual’s cognition shapes the frame they take in managing tensions. Both cognitions and frames are dynamic</p>
+    </td>
+    <td align="left">
+     <p>
+      <italic>Tensions</italic>- Understanding tensions by managers determines frame
+     </p>
+     <p>
+      <italic>Evolving</italic>- Frames evolve and change over time influencing and being influenced by the frames of others (Dynamic)
+     </p>
+     <p>
+      <italic>Shaping</italic>
+      <bold>- </bold>Cognition shapes frame
+     </p>
+    </td>
+    <td align="left">Sharma &amp; Jaiswal (
+     <xref ref-type="bibr" rid="CR69">2018</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left">
+     <p>
+      <italic>Cognitive Framing Shapes Decisions</italic>
+     </p>
+     <p>Cognitive frames shape decisions made within companies by managers. Role of framing in managing tensions i.e. business case vs paradoxical frame</p>
+    </td>
+    <td align="left">
+     <p>
+      <italic>Tensions</italic>- Managing tensions between sustainability drivers
+     </p>
+     <p>
+      <italic>Influencing</italic>- Frames influence sensemaking
+     </p>
+     <p>
+      <italic>Determining</italic>- Frames determine decisions
+     </p>
+     <p>
+      <italic>Paradoxical</italic>- Including detailed search, multiple factors with a range of rationales in decision-making; Acceptance of tensions
+     </p>
+     <p>
+      <italic>Interacting</italic>- Frames interact within an organisation
+     </p>
+    </td>
+    <td align="left">
+     <p>Hahn et al. (
+      <xref ref-type="bibr" rid="CR35">2014</xref>)
+     </p>
+     <p>Sharma &amp; Jaiswal (
+      <xref ref-type="bibr" rid="CR69">2018</xref>)
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">
+     <p>
+      <italic>Cognitive Frames Enable Sensemaking</italic>
+     </p>
+     <p>Frames enable interpretation shaping action towards sustainability</p>
+    </td>
+    <td align="left">
+     <italic>Enabling</italic>
+     <bold>-</bold> Frames enable sensemaking/interpretation
+    </td>
+    <td align="left">Sharma &amp; Jaiswal (
+     <xref ref-type="bibr" rid="CR69">2018</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="6">Organisational</td>
+    <td align="left">
+     <p>
+      <italic>Framing Shapes Action</italic>
+     </p>
+     <p>General framing within an organisation shapes action. E.g. on future oriented behaviour; temporality impact of frame on environmental product/process innovation</p>
+    </td>
+    <td align="left">
+     <p>
+      <italic>Facilitator</italic>
+      <bold>- </bold>Framing through language shapes action
+     </p>
+     <p>
+      <italic>Director</italic>- Temporality of frame impacts investment. E.g. framing over long term leads to innovation investment
+     </p>
+    </td>
+    <td align="left">
+     <p>Liang et al. (2019)</p>
+     <p>Liao (
+      <xref ref-type="bibr" rid="CR48">2016</xref>)
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">
+     <p>
+      <italic>Competing/Divergent Cognition Inhibiting Action</italic>
+     </p>
+     <p>Issues arising from contrasting frames preventing action (in contrast to aligned frames). Contrasting frames may inhibit action around organisational goals requiring decoupling process. E.g. business and NGO collaboration. A common shared vision is necessary</p>
+    </td>
+    <td align="left">
+     <p>
+      <italic>Competing frames</italic>- Inhibiting action from competing frames within a diverse group. Shared cognition/Divergent cognitive representations
+     </p>
+     <p>
+      <italic>Collective framing</italic>- Process by which individual managerial frames come to be adopted across organisation
+     </p>
+     <p>
+      <italic>Frame decoupling</italic>- Decoupling of a frame is required before an alternative is adopted. Process involves separating each component and associated issue. Once decoupled components can be altered and combined to distinct organisational frames aligned with organisational goals
+     </p>
+     <p>
+      <italic>Engaging Paradox</italic>- Managing competing frames is necessary when two companies with different goals join e.g. business and NGO
+     </p>
+    </td>
+    <td align="left">
+     <p>Zuzul (
+      <xref ref-type="bibr" rid="CR100">2019</xref>)
+     </p>
+     <p>Meyer et al. (
+      <xref ref-type="bibr" rid="CR55">2016</xref>)
+     </p>
+     <p>Sharma &amp; Bansal 
+      <xref ref-type="bibr" rid="CR68">2017</xref>)
+     </p>
+     <p>Olazabal &amp; Pascua (
+      <xref ref-type="bibr" rid="CR59">2015</xref>)
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">
+     <p>
+      <italic>Framing Shapes Capabilities</italic>
+     </p>
+     <p>Focus of firm level frame shapes capabilities. E.g. capabilities in stakeholder integration, market sensing, and learning</p>
+    </td>
+    <td align="left">
+     <italic>Director</italic>
+     <bold>-</bold> Fame orientation directs capability development
+    </td>
+    <td align="left">Grewatsch &amp; Kleindienst (
+     <xref ref-type="bibr" rid="CR33">2018</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left">
+     <p>
+      <italic>Collective Frame Shapes Industry Development</italic>
+     </p>
+     <p>The dominant frame in industry on developments e.g. renewable energy, technology deployment etc. progresses over the industry development</p>
+    </td>
+    <td align="left">
+     <italic>Shared beliefs</italic> – Industry level shared beliefs shape managerial cognition
+    </td>
+    <td align="left">Bergman, et al. (
+     <xref ref-type="bibr" rid="CR9">2019</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left">
+     <p>
+      <italic>Cognitive Factors Shape Learning</italic>
+     </p>
+     <p>Cognition shapes perception and ability to learn from events. Learning from rare events is challenging but can be promoted. Learning in organisations usually occurs through systemization and programming. Adaptive capacity implications</p>
+    </td>
+    <td align="left">
+     <p>
+      <italic>Impediments</italic>- Uniqueness can impede leaning
+     </p>
+     <p>
+      <italic>Interconnected processes</italic>- Behavioural and cognitive learning simultaneously
+     </p>
+     <p>
+      <italic>Adaptive capacity</italic>- ability to learn from extreme events to promote resilience
+     </p>
+    </td>
+    <td align="left">Starbuck (
+     <xref ref-type="bibr" rid="CR75">2009</xref>)
+    </td>
+   </tr>
+   <tr>
+    <td align="left">
+     <p>
+      <italic>Framing Shapes Cognition</italic>
+     </p>
+     <p>Linguistic framing of firm documents can shape cognition of stakeholders in a misleading fashion. Legitimising through words and images</p>
+    </td>
+    <td align="left">
+     <italic>Shaping</italic>
+     <bold>- </bold>Framing to through language can deceive not directly but through linguistic constructions. Framing through image word combinations to elicit emotions and attention
+    </td>
+    <td align="left">
+     <p>Crilly et al. (
+      <xref ref-type="bibr" rid="CR19">2016</xref>)
+     </p>
+     <p>Lefsrud et al., (
+      <xref ref-type="bibr" rid="CR44">2019</xref>)
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="2">General Population</td>
+    <td align="left">
+     <p>
+      <italic>Shaping Cognition</italic>
+     </p>
+     <p>Various factors shape an individual’s cognition. Cognitive bias. Cognition is also shaped by perceived social value</p>
+    </td>
+    <td align="left">
+     <p>
+      <italic>Interactions</italic>- Moral emotions interact with persuasion social influence
+     </p>
+     <p>
+      <italic>Dual process</italic>- Implicit and explicit; Effortful (conscious thought) and effortless (automatic processing) aspects. Conscious (cognitive) can shape unconscious(affective) response
+     </p>
+     <p>
+      <italic>Enhancing</italic>- Emotion and intuition
+     </p>
+     <p>
+      <italic>Causal relationship</italic>- Beliefs tied through integrated system
+     </p>
+     <p>
+      <italic>Shaping</italic>- Factors shape cognition include personal, outcome perception and social judgement
+     </p>
+    </td>
+    <td align="left">
+     <p>Zollo (
+      <xref ref-type="bibr" rid="CR99">2021</xref>)
+     </p>
+     <p>Henry &amp; Dietz (
+      <xref ref-type="bibr" rid="CR38">2012</xref>)
+     </p>
+     <p>López-Navarro et al. (
+      <xref ref-type="bibr" rid="CR52">2016</xref>)
+     </p>
+     <p>Zhou et al. (
+      <xref ref-type="bibr" rid="CR96">2018a</xref>, 
+      <xref ref-type="bibr" rid="CR97">2018b</xref>)
+     </p>
+     <p>Lin &amp; Hsu (
+      <xref ref-type="bibr" rid="CR49">2013</xref>)
+     </p>
+     <p>Wang et al. (
+      <xref ref-type="bibr" rid="CR88">2019</xref>)
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">
+     <p>
+      <italic>Cognition on behaviour</italic>
+     </p>
+     <p>The effect of cognition to behaviour e.g. publicity on environmental citizenship linked to pro-environment behaviour</p>
+    </td>
+    <td align="left">
+     <italic>Direction</italic>
+     <bold>- </bold>Knowledge linked to behaviour
+    </td>
+    <td align="left">Wang et al. (
+     <xref ref-type="bibr" rid="CR86">2020</xref>)
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

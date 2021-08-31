@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R11">
+ <label>11</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Lal</surname>
+    <given-names>A</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Lill</surname>
+    <given-names>AWT</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Mcintyre</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Environmental change and enteric zoonoses in New Zealand: a systematic review of the evidence</article-title>. 
+  <source>Aust N Z J Public Health</source>
+  <year>2015</year>;
+  <volume>39</volume>:
+  <fpage>63</fpage>–
+  <lpage>8</lpage>. 
+  <pub-id pub-id-type="doi">10.1111/1753-6405.12274</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/25307352?>
+  <pub-id pub-id-type="pmid">25307352</pub-id>
+ </mixed-citation>
+</ref>

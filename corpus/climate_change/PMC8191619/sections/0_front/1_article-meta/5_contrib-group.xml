@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib id="author-83213022" contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-4548-2229</contrib-id>
+  <name>
+   <surname>Rocque</surname>
+   <given-names>Rhea J</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib id="author-83213545" contrib-type="author">
+  <name>
+   <surname>Beaudoin</surname>
+   <given-names>Caroline</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">2</xref>
+ </contrib>
+ <contrib id="author-71153370" contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-4716-6505</contrib-id>
+  <name>
+   <surname>Ndjaboue</surname>
+   <given-names>Ruth</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">2</xref>
+  <xref ref-type="aff" rid="aff3">3</xref>
+ </contrib>
+ <contrib id="author-83213597" contrib-type="author">
+  <name>
+   <surname>Cameron</surname>
+   <given-names>Laura</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib id="author-83213610" contrib-type="author">
+  <name>
+   <surname>Poirier-Bergeron</surname>
+   <given-names>Louann</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">2</xref>
+ </contrib>
+ <contrib id="author-83213616" contrib-type="author">
+  <name>
+   <surname>Poulin-Rheault</surname>
+   <given-names>Rose-Alice</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">2</xref>
+ </contrib>
+ <contrib id="author-83213626" contrib-type="author">
+  <name>
+   <surname>Fallon</surname>
+   <given-names>Catherine</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">2</xref>
+  <xref ref-type="aff" rid="aff4">4</xref>
+ </contrib>
+ <contrib id="author-27266238" contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-4114-8971</contrib-id>
+  <name>
+   <surname>Tricco</surname>
+   <given-names>Andrea C</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff5">5</xref>
+  <xref ref-type="aff" rid="aff6">6</xref>
+ </contrib>
+ <contrib id="author-58198572" contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-4192-0682</contrib-id>
+  <name>
+   <surname>Witteman</surname>
+   <given-names>Holly O</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">2</xref>
+  <xref ref-type="aff" rid="aff3">3</xref>
+ </contrib>
+</contrib-group>

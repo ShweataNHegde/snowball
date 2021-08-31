@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>GP uses historical phenotypic data [
+ <xref rid="B98-genes-12-00783" ref-type="bibr">98</xref>] to calibrate marker-based infinitesimal additive predictive models [
+ <xref rid="B99-genes-12-00783" ref-type="bibr">99</xref>,
+ <xref rid="B100-genes-12-00783" ref-type="bibr">100</xref>,
+ <xref rid="B101-genes-12-00783" ref-type="bibr">101</xref>], which provide a more comprehensive representation of a quantitative polygenic trait than traditional genetic mapping [
+ <xref rid="B102-genes-12-00783" ref-type="bibr">102</xref>]. Hence, GP offers a key path to assist the introgression breeding of abiotic stress tolerance from the wild. GP’s predictive ability can be significantly enhanced after performing 
+ <italic>a priori</italic> weighted trait mapping through more conventional methods such as quantitative-trait loci (QTL) mapping [
+ <xref rid="B103-genes-12-00783" ref-type="bibr">103</xref>], or genome-wide association studies (GWAS) [
+ <xref rid="B104-genes-12-00783" ref-type="bibr">104</xref>], even across SNP-genotyped multi-parental populations [
+ <xref rid="B105-genes-12-00783" ref-type="bibr">105</xref>,
+ <xref rid="B106-genes-12-00783" ref-type="bibr">106</xref>,
+ <xref rid="B107-genes-12-00783" ref-type="bibr">107</xref>,
+ <xref rid="B108-genes-12-00783" ref-type="bibr">108</xref>,
+ <xref rid="B109-genes-12-00783" ref-type="bibr">109</xref>]. GP may also go beyond breeding efforts, and feed back on optimizing restoration [
+ <xref rid="B102-genes-12-00783" ref-type="bibr">102</xref>] and genebank characterization [
+ <xref rid="B110-genes-12-00783" ref-type="bibr">110</xref>] (e.g., by predicting seed morphometric traits [
+ <xref rid="B111-genes-12-00783" ref-type="bibr">111</xref>] and yield [
+ <xref rid="B112-genes-12-00783" ref-type="bibr">112</xref>,
+ <xref rid="B113-genes-12-00783" ref-type="bibr">113</xref>]) of thousands of germplasm accessions that could hardly be tested in field trials.
+</p>

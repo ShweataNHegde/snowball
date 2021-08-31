@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="t0015">
+ <label>Table 3</label>
+ <caption>
+  <p>Groundnut production levels (′000 MT) in major FPUs as influenced by climate change and adaptation strategies in 2050 with market effects.</p>
+ </caption>
+ <alt-text id="al8415">Table 3</alt-text>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="3">FPU</th>
+    <th rowspan="3" align="center">Baseline-no climate change</th>
+    <th colspan="2" align="center">With climate change
+     <hr/>
+    </th>
+    <th colspan="6" align="center">Climate change with adaptation
+     <hr/>
+    </th>
+   </tr>
+   <tr>
+    <th rowspan="2" align="center">GFDL-ESM2M</th>
+    <th rowspan="2" align="center">HadGEM-2-ES</th>
+    <th colspan="3" align="center">GFDL-ESM2M
+     <hr/>
+    </th>
+    <th colspan="3" align="center">HadGEM-2-ES
+     <hr/>
+    </th>
+   </tr>
+   <tr>
+    <th align="center">CI</th>
+    <th align="center">YB</th>
+    <th align="center">YB+CI</th>
+    <th align="center">CI</th>
+    <th align="center">YB</th>
+    <th align="center">YB+CI</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Ganges</td>
+    <td align="char">32.7</td>
+    <td align="char">28.9</td>
+    <td align="char">32.5</td>
+    <td align="char">27.9</td>
+    <td align="char">29.0</td>
+    <td align="char">30.3</td>
+    <td align="char">32.0</td>
+    <td align="char">35.8</td>
+    <td align="char">35.6</td>
+   </tr>
+   <tr>
+    <td>Godavari</td>
+    <td align="char">24.2</td>
+    <td align="char">25.2</td>
+    <td align="char">28.1</td>
+    <td align="char">29.5</td>
+    <td align="char">28.8</td>
+    <td align="char">33.5</td>
+    <td align="char">32.2</td>
+    <td align="char">35.2</td>
+    <td align="char">37.2</td>
+   </tr>
+   <tr>
+    <td>Indus</td>
+    <td align="char">150.7</td>
+    <td align="char">134.9</td>
+    <td align="char">164.7</td>
+    <td align="char">132.9</td>
+    <td align="char">134.1</td>
+    <td align="char">142.7</td>
+    <td align="char">179.4</td>
+    <td align="char">197.0</td>
+    <td align="char">205.7</td>
+   </tr>
+   <tr>
+    <td>Krishna</td>
+    <td align="char">353.8</td>
+    <td align="char">357.6</td>
+    <td align="char">397.7</td>
+    <td align="char">438.9</td>
+    <td align="char">391.5</td>
+    <td align="char">489.2</td>
+    <td align="char">509.0</td>
+    <td align="char">477.3</td>
+    <td align="char">586.9</td>
+   </tr>
+   <tr>
+    <td>Luni</td>
+    <td align="char">246.1</td>
+    <td align="char">249.0</td>
+    <td align="char">281.3</td>
+    <td align="char">263.2</td>
+    <td align="char">275.1</td>
+    <td align="char">291.3</td>
+    <td align="char">306.3</td>
+    <td align="char">345.0</td>
+    <td align="char">349.1</td>
+   </tr>
+   <tr>
+    <td>Tapti</td>
+    <td align="char">23.1</td>
+    <td align="char">22.8</td>
+    <td align="char">24.5</td>
+    <td align="char">24.4</td>
+    <td align="char">25.0</td>
+    <td align="char">27.2</td>
+    <td align="char">25.4</td>
+    <td align="char">28.2</td>
+    <td align="char">28.5</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

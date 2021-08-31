@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B148-genes-12-00783">
+ <label>148.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Maenhout</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Baets</surname>
+    <given-names>B.D.</given-names>
+   </name>
+   <name>
+    <surname>Haesaert</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Bockstaele</surname>
+    <given-names>E.V.</given-names>
+   </name>
+  </person-group>
+  <article-title>Support vector machine regression for the prediction of maize hybrid performance</article-title>
+  <source>Theor. Appl. Genet.</source>
+  <year>2007</year>
+  <volume>115</volume>
+  <fpage>1003</fpage>
+  <lpage>1013</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00122-007-0627-9</pub-id>
+  <?supplied-pmid 17849095?>
+  <pub-id pub-id-type="pmid">17849095</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1243-7704</contrib-id>
+  <name>
+   <surname>Yarzábal</surname>
+   <given-names>Luis Andrés</given-names>
+  </name>
+  <address>
+   <email>yarzabalandres@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Salazar</surname>
+   <given-names>Lenys M. Buela</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Batista-García</surname>
+   <given-names>Ramón Alberto</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.442122.3</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 8596 0668</institution-id>
+   <institution>Unidad de Salud y Bienestar, </institution>
+   <institution>Universidad Católica de Cuenca, </institution>
+  </institution-wrap>Av. Las Américas and Calle Humboldt, Cuenca, Ecuador 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.442122.3</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 8596 0668</institution-id>
+   <institution>Centro de Investigación, Innovación y Transferencia de Tecnología (CIITT), </institution>
+   <institution>Universidad Católica de Cuenca, </institution>
+  </institution-wrap>Campus Miracielos, Ricaurte, Ecuador 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.412873.b</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0484 1712</institution-id>
+   <institution>Centro de Investigación en Dinámica Celular, Instituto de Investigaciones en Ciencias Básicas y Aplicadas, </institution>
+   <institution>Universidad Autónoma del Estado de Morelos, </institution>
+  </institution-wrap>Cuernavaca, Morelos Mexico 
+ </aff>
+</contrib-group>

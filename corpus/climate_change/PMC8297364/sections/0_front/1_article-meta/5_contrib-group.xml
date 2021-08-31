@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Echevarría-Lucas</surname>
+   <given-names>Lucía</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-ijerph-18-07197">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7858-1357</contrib-id>
+  <name>
+   <surname>Senciales-González</surname>
+   <given-names>José Mᵃ</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-ijerph-18-07197">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Medialdea-Hurtado</surname>
+   <given-names>María Eloísa</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-ijerph-18-07197">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4823-0871</contrib-id>
+  <name>
+   <surname>Rodrigo-Comino</surname>
+   <given-names>Jesús</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-ijerph-18-07197">3</xref>
+  <xref ref-type="aff" rid="af4-ijerph-18-07197">4</xref>
+  <xref rid="c1-ijerph-18-07197" ref-type="corresp">*</xref>
+ </contrib>
+</contrib-group>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>Avalanche fatalities in the Swiss Alps for the period of 1936–1937 to 2019–2020 (84 years). In recent decades, most victims were caught during recreational activities such as skiing (“Backcountry”)—illustrating the emergence and growth of winter tourism. Victims on roads including ski runs are counted in “Transportation.” Victims in villages (“Buildings”) became far less frequent due to extensive mitigation works (updated from 
+   <xref rid="ref61" ref-type="bibr">Schweizer et al., 2021</xref>).
+  </p>
+ </caption>
+ <graphic xlink:href="fphys-12-639433-g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

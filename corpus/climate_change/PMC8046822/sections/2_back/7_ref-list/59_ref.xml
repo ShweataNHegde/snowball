@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR59">
+ <label>59.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Liu</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Newell</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>White</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>
+  <article-title>The effect of sample size on the accuracy of species distribution models: Considering both presences and pseudo-absences or background sites</article-title>
+  <source>Ecography</source>
+  <year>2019</year>
+  <volume>42</volume>
+  <fpage>535</fpage>
+  <lpage>548</lpage>
+  <pub-id pub-id-type="doi">10.1111/ecog.03188</pub-id>
+ </element-citation>
+</ref>

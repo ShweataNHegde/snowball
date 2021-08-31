@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B95-genes-12-00783">
+ <label>95.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Budiarto</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Mahesworo</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Baurley</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Suparyanto</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Pardamean</surname>
+    <given-names>B.</given-names>
+   </name>
+  </person-group>
+  <article-title>Fast and Effective Clustering Method for Ancestry Estimation</article-title>
+  <source>Procedia Comput. Sci.</source>
+  <year>2019</year>
+  <volume>157</volume>
+  <fpage>306</fpage>
+  <lpage>312</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.procs.2019.08.171</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Models were estimated in two ways for each species/group: (1) using bioclimatic variables after removing those that were highly correlated, and (2) using a full set of 19 bioclimatic variables, plus elevation, and two summary variables (mean and standard deviation [
+ <italic toggle="yes">SD</italic>]) for solar radiation, wind speed, and water vapor pressure, totaling 26 variables. For this second set of models, we included all variables so that the environmental variables could be more directly compared across species and excluding highly correlated variables has been shown to not significantly improve model performance when using MaxEnt (Feng et al., 
+ <xref rid="ece37735-bib-0027" ref-type="bibr">2019</xref>). We estimated the SDMs using MaxEnt v3.4.1 (Phillips et al., 
+ <xref rid="ece37735-bib-0066" ref-type="bibr">2017</xref>), which applies a machine‐learning technique known as maximum entropy (Elith et al., 
+ <xref rid="ece37735-bib-0024" ref-type="bibr">2011</xref>). We implemented MaxEnt via the R package 
+ <italic toggle="yes">ENMeval</italic> and tested model fit using AIC (the Akaike Information Criterion) and several evaluation statistics for 18 combinations of modeling parameters (Muscarella et al., 
+ <xref rid="ece37735-bib-0057" ref-type="bibr">2014</xref>). AUC
+ <sub>test</sub> is the area under the receiver operating characteristic curve, which measures the performance of the model against actual observations, where values closer to 1 are better. AUC
+ <sub>diff</sub> measures the difference between test and training data where a higher value may indicate model over‐fitting. OR
+ <sub>MTP</sub> and OR
+ <sub>10</sub> are threshold‐dependent tests that measure the proportion of test localities against suitability values lower than the lowest‐ranking training localities, where lower scores are better.
+</p>

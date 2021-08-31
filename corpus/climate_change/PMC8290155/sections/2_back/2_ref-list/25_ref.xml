@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B25">
+ <label>25.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zoran</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>Savastru</surname>
+    <given-names>RS</given-names>
+   </name>
+   <name>
+    <surname>Savastru</surname>
+    <given-names>DM</given-names>
+   </name>
+   <name>
+    <surname>Tautan</surname>
+    <given-names>MN</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Assessing the relationship between surface levels of PM2.5 and PM10 particulate matter impact on COVID-19 in Milan, Italy</article-title>. 
+  <source>Sci Total Environ.</source> (
+  <year>2020</year>) 
+  <volume>738</volume>:
+  <fpage>139825</fpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.scitotenv.2020.139825</pub-id>
+  <?supplied-pmid 32512362?>
+  <pub-id pub-id-type="pmid">32512362</pub-id>
+ </mixed-citation>
+</ref>

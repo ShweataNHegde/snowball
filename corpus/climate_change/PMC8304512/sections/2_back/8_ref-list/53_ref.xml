@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B53-life-11-00653">
+ <label>53.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kohn</surname>
+    <given-names>M.H.</given-names>
+   </name>
+   <name>
+    <surname>Murphy</surname>
+    <given-names>W.J.</given-names>
+   </name>
+   <name>
+    <surname>Ostrander</surname>
+    <given-names>E.A.</given-names>
+   </name>
+   <name>
+    <surname>Wayne</surname>
+    <given-names>R.K.</given-names>
+   </name>
+  </person-group>
+  <article-title>Genomics and conservation genetics</article-title>
+  <source>Trends Ecol. Evol.</source>
+  <year>2006</year>
+  <volume>21</volume>
+  <fpage>629</fpage>
+  <lpage>637</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.tree.2006.08.001</pub-id>
+  <?supplied-pmid 16908089?>
+  <pub-id pub-id-type="pmid">16908089</pub-id>
+ </element-citation>
+</ref>

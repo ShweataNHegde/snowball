@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par17">The study used the pooled mean group (PMG) estimation approach for dynamic heterogeneous panels (Pesaran et al., 
+ <xref ref-type="bibr" rid="CR67">1999</xref>). One of the merits of the PMG estimation technique compared with other heterogeneous co-integration methods is that it limits the long-run coefficients to be homogeneous cross-sections. This approach was appropriate for this study because of the selected countries’ food insecurity history, comparable economic features, related political systems, and similar regional climatic characteristics, which affect the long-run coefficient in identical circumstances. The PMG estimator is not akin to the mean group (MG) estimator, which allows long-run coefficients to vary among selected countries (Kim et al., 
+ <xref ref-type="bibr" rid="CR46">2010</xref>; Ofori-Abebrese &amp; Pickson, 
+ <xref ref-type="bibr" rid="CR63">2018</xref>; Pesaran et al., 
+ <xref ref-type="bibr" rid="CR67">1999</xref>). However, both PMG and MG estimators require short-run coefficients to be heterogeneous among specified countries.
+</p>

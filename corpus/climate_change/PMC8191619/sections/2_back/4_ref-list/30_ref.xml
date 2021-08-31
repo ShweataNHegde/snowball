@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R30">
+ <label>30</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Cheng</surname>
+    <given-names>J</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Xu</surname>
+    <given-names>Z</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Zhu</surname>
+    <given-names>R</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Impact of diurnal temperature range on human health: a systematic review</article-title>. 
+  <source>Int J Biometeorol</source>
+  <year>2014</year>;
+  <volume>58</volume>:
+  <fpage>2011</fpage>–
+  <lpage>24</lpage>. 
+  <pub-id pub-id-type="doi">10.1007/s00484-014-0797-5</pub-id>
+  <pub-id pub-id-type="pmid">24535132</pub-id>
+ </mixed-citation>
+</ref>

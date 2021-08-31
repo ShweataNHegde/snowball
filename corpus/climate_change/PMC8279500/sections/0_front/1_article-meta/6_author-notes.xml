@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<author-notes>
+ <corresp id="cor1">
+  <label>*</label>Corresponding author. Email: 
+  <email xlink:href="kyle.vanhoutan@gmail.com" xmlns:xlink="http://www.w3.org/1999/xlink">kyle.vanhoutan@gmail.com</email>
+ </corresp>
+ <fn id="afn1" fn-type="equal">
+  <label>†</label>
+  <p>Present address: Loggerhead Marinelife Center, 14200 Hwy 1, Juno Beach, FL 33408, USA.</p>
+ </fn>
+</author-notes>

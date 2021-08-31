@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B24">
+ <label>24.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cole</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>Ozgen</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Strobl</surname>
+    <given-names>E</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Air pollution exposure and Covid-19 in dutch municipalities</article-title>. 
+  <source>Environ Resource Econ.</source> (
+  <year>2020</year>) 
+  <volume>76</volume>:
+  <fpage>581</fpage>–
+  <lpage>610</lpage>. 
+  <pub-id pub-id-type="doi">10.1007/s10640-020-00491-4</pub-id>
+  <?supplied-pmid 32836849?>
+  <pub-id pub-id-type="pmid">32836849</pub-id>
+ </mixed-citation>
+</ref>

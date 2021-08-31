@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par35">In addition to the climatic and topographic variables, four soil variables were also included. These were soil pH (has a measure of soil acidity or alkalinity levels), soil cation exchange capacity (CEC) soil apparent bulk density (BD) and soil organic carbon (OC). These were obtained from the International Soil Reference and Information Centre (ISRIC) Africa soils database that is a 1-km soil map of properties and soil classes obtained from advanced regression analysis of thousands of published and compiled soil profiles from many sources
+ <sup>
+  <xref ref-type="bibr" rid="CR62">62</xref>
+ </sup>. Soil variables were included because soil type and related factors are important determinants of coffee production
+ <sup>
+  <xref ref-type="bibr" rid="CR63">63</xref>,
+  <xref ref-type="bibr" rid="CR64">64</xref>
+ </sup>. The soil variables were also aggregated to the resolution of the climatic variables.
+</p>

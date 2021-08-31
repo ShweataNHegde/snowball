@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Climate data were sourced from WorldClim v1.4 (
+ <ext-link xlink:href="https://www.worldclim.org/" ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.worldclim.org/</ext-link>) at 30 arc‐second resolution (1 km; Hijmans et al., 
+ <xref rid="ece37735-bib-0035" ref-type="bibr">2005</xref>; Fick &amp; Hijmans, 
+ <xref rid="ece37735-bib-0028" ref-type="bibr">2017</xref>). All climate layers were cropped to include the relevant geographic space of the PNW for all species using the 
+ <italic toggle="yes">raster</italic> package (Hijmans, 
+ <xref rid="ece37735-bib-0034" ref-type="bibr">2019</xref>). The boundary was 37.00 to 55.00 latitude, and −130.00 to −113.00 longitude in order to encompass all species distributions for comparison, leave room for expansion, but limit completely unlimited dispersal. Data include the 19 bioclimatic variables averaged from 1970–2000. We conducted pairwise Pearson correlations for all variables for each species by extracting the values for each variable at each GPS coordinate (Table 
+ <xref rid="ece37735-sup-0002" ref-type="supplementary-material">S1</xref>). We removed those that were highly correlated (&gt;0.9 and &lt;−0.9) for each species/group that was modeled.
+</p>

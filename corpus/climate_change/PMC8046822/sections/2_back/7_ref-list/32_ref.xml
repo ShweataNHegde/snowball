@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR32">
+ <label>32.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Srinivasan</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Giannikas</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Kumar</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Guyot</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>McFarlane</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>Modelling food sourcing decisions under climate change: A data-driven approach</article-title>
+  <source>Comput. Ind. Eng.</source>
+  <year>2019</year>
+  <volume>128</volume>
+  <fpage>911</fpage>
+  <lpage>919</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cie.2018.10.048</pub-id>
+ </element-citation>
+</ref>

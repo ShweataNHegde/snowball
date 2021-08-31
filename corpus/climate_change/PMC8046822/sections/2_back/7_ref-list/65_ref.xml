@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR65">
+ <label>65.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lin</surname>
+    <given-names>F-J</given-names>
+   </name>
+  </person-group>
+  <article-title>Solving multicollinearity in the process of fitting regression model using the nested estimate procedure</article-title>
+  <source>Qual. Quant.</source>
+  <year>2008</year>
+  <volume>42</volume>
+  <fpage>417</fpage>
+  <lpage>426</lpage>
+  <pub-id pub-id-type="doi">10.1007/s11135-006-9055-1</pub-id>
+ </element-citation>
+</ref>

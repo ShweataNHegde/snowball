@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ece37873-bib-0046">
+ <mixed-citation publication-type="miscellaneous" id="ece37873-cit-0046">
+  <string-name>
+   <surname>Kellner</surname>, 
+   <given-names>K.</given-names>
+  </string-name> (
+  <year>2016</year>). 
+  <article-title>jagsUI: A wrapper around ‘rjags’ to streamline ‘JAGS’ analyses</article-title>. R package version.
+ </mixed-citation>
+</ref>

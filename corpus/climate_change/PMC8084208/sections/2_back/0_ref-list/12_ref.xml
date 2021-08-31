@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ppat.1009503.ref012">
+ <label>12</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Casadevall</surname>
+   <given-names>A</given-names>
+  </name>, 
+  <name>
+   <surname>Kontoyiannis</surname>
+   <given-names>DP</given-names>
+  </name>, 
+  <name>
+   <surname>Robert</surname>
+   <given-names>V</given-names>
+  </name>. 
+  <article-title>On the emergence of 
+   <italic>Candida auris</italic>: climate change, azoles, swamps, and birds.
+  </article-title>
+  <source>mBio</source>. 
+  <year>2019</year>;
+  <volume>10</volume> (
+  <issue>4</issue>):
+  <fpage>e01397</fpage>–
+  <lpage>19</lpage>. 
+  <pub-id pub-id-type="doi">10.1128/mBio.01397-19</pub-id>
+  <?supplied-pmid 31337723?>
+  <pub-id pub-id-type="pmid">31337723</pub-id>
+ </mixed-citation>
+</ref>

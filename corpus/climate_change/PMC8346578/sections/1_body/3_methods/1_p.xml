@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par34">We consider a chain of 
+ <italic>L</italic> evenly spaced patches along a latitudinal gradient, where patches 1 and 
+ <italic>L</italic> correspond to the north pole and equator, respectively. The temperature 
+ <italic>T</italic>
+ <sup>
+  <italic>k</italic>
+ </sup>(
+ <italic>t</italic>) in patch 
+ <italic>k</italic> at time 
+ <italic>t</italic> is given by
+ <disp-formula id="Equ1">
+  <label>1</label>
+  <alternatives>
+   <tex-math id="M1">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${T}^{k}(t)=\underbrace{\left({T}_{\min }+({T}_{\max }-{T}_{\min })\frac{k}{L}\right)}_{{{{{{\rm{initial}}}}}}\,{{{{{\rm{temperature}}}}}}\,{{{{{\rm{profile}}}}}}}+\underbrace{\left({C}_{\max }+({C}_{\min }-{C}_{\max })\frac{k}{L}\right)}_{{{{{{\rm{total}}}}}}\,{{{{{\rm{temperature}}}}}}\,{{{{{\rm{change}}}}}}}\underbrace{Q(t/{t}_{E})}_{ \% \,{{{{{\rm{change}}}}}}\,{{{{{\rm{at}}}}}}\,{{{{{\rm{time}}}}}}\,t}.$$\end{document}</tex-math>
+   <math id="M2">
+    <msup>
+     <mrow>
+      <mi>T</mi>
+     </mrow>
+     <mrow>
+      <mi>k</mi>
+     </mrow>
+    </msup>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <mi>t</mi>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+    <mo>=</mo>
+    <msub>
+     <mrow>
+      <munder accentunder="true">
+       <mrow>
+        <mfenced close=")" open="(">
+         <mrow>
+          <msub>
+           <mrow>
+            <mi>T</mi>
+           </mrow>
+           <mrow>
+            <mi>min</mi>
+           </mrow>
+          </msub>
+          <mo>+</mo>
+          <mrow>
+           <mo>(</mo>
+           <mrow>
+            <msub>
+             <mrow>
+              <mi>T</mi>
+             </mrow>
+             <mrow>
+              <mi>max</mi>
+             </mrow>
+            </msub>
+            <mo>−</mo>
+            <msub>
+             <mrow>
+              <mi>T</mi>
+             </mrow>
+             <mrow>
+              <mi>min</mi>
+             </mrow>
+            </msub>
+           </mrow>
+           <mo>)</mo>
+          </mrow>
+          <mfrac>
+           <mrow>
+            <mi>k</mi>
+           </mrow>
+           <mrow>
+            <mi>L</mi>
+           </mrow>
+          </mfrac>
+         </mrow>
+        </mfenced>
+       </mrow>
+       <mrow>
+        <mo stretchy="true">⏟</mo>
+       </mrow>
+      </munder>
+     </mrow>
+     <mrow>
+      <mi mathvariant="normal">initial</mi>
+      <mspace width="0.25em"/>
+      <mi mathvariant="normal">temperature</mi>
+      <mspace width="0.25em"/>
+      <mi mathvariant="normal">profile</mi>
+     </mrow>
+    </msub>
+    <mo>+</mo>
+    <msub>
+     <mrow>
+      <munder accentunder="true">
+       <mrow>
+        <mfenced close=")" open="(">
+         <mrow>
+          <msub>
+           <mrow>
+            <mi>C</mi>
+           </mrow>
+           <mrow>
+            <mi>max</mi>
+           </mrow>
+          </msub>
+          <mo>+</mo>
+          <mrow>
+           <mo>(</mo>
+           <mrow>
+            <msub>
+             <mrow>
+              <mi>C</mi>
+             </mrow>
+             <mrow>
+              <mi>min</mi>
+             </mrow>
+            </msub>
+            <mo>−</mo>
+            <msub>
+             <mrow>
+              <mi>C</mi>
+             </mrow>
+             <mrow>
+              <mi>max</mi>
+             </mrow>
+            </msub>
+           </mrow>
+           <mo>)</mo>
+          </mrow>
+          <mfrac>
+           <mrow>
+            <mi>k</mi>
+           </mrow>
+           <mrow>
+            <mi>L</mi>
+           </mrow>
+          </mfrac>
+         </mrow>
+        </mfenced>
+       </mrow>
+       <mrow>
+        <mo stretchy="true">⏟</mo>
+       </mrow>
+      </munder>
+     </mrow>
+     <mrow>
+      <mi mathvariant="normal">total</mi>
+      <mspace width="0.25em"/>
+      <mi mathvariant="normal">temperature</mi>
+      <mspace width="0.25em"/>
+      <mi mathvariant="normal">change</mi>
+     </mrow>
+    </msub>
+    <msub>
+     <mrow>
+      <munder accentunder="true">
+       <mrow>
+        <mi>Q</mi>
+        <mrow>
+         <mo>(</mo>
+         <mrow>
+          <mi>t</mi>
+          <mo>/</mo>
+          <msub>
+           <mrow>
+            <mi>t</mi>
+           </mrow>
+           <mrow>
+            <mi>E</mi>
+           </mrow>
+          </msub>
+         </mrow>
+         <mo>)</mo>
+        </mrow>
+       </mrow>
+       <mrow>
+        <mo stretchy="true">⏟</mo>
+       </mrow>
+      </munder>
+     </mrow>
+     <mrow>
+      <mi>%</mi>
+      <mspace width="0.25em"/>
+      <mi mathvariant="normal">change</mi>
+      <mspace width="0.25em"/>
+      <mi mathvariant="normal">at</mi>
+      <mspace width="0.25em"/>
+      <mi mathvariant="normal">time</mi>
+      <mspace width="0.25em"/>
+      <mi>t</mi>
+     </mrow>
+    </msub>
+    <mo>.</mo>
+   </math>
+   <graphic xlink:href="41467_2021_24977_Article_Equ1.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+ <inline-formula id="IEq1">
+  <alternatives>
+   <tex-math id="M3">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${T}_{\min }$$\end{document}</tex-math>
+   <math id="M4">
+    <msub>
+     <mrow>
+      <mi>T</mi>
+     </mrow>
+     <mrow>
+      <mi>min</mi>
+     </mrow>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="41467_2021_24977_Article_IEq1.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> and 
+ <inline-formula id="IEq2">
+  <alternatives>
+   <tex-math id="M5">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${T}_{\max }$$\end{document}</tex-math>
+   <math id="M6">
+    <msub>
+     <mrow>
+      <mi>T</mi>
+     </mrow>
+     <mrow>
+      <mi>max</mi>
+     </mrow>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="41467_2021_24977_Article_IEq2.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> are the initial polar and equatorial temperatures; 
+ <inline-formula id="IEq3">
+  <alternatives>
+   <tex-math id="M7">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${C}_{\max }$$\end{document}</tex-math>
+   <math id="M8">
+    <msub>
+     <mrow>
+      <mi>C</mi>
+     </mrow>
+     <mrow>
+      <mi>max</mi>
+     </mrow>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="41467_2021_24977_Article_IEq3.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> and 
+ <inline-formula id="IEq4">
+  <alternatives>
+   <tex-math id="M9">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${C}_{\min }$$\end{document}</tex-math>
+   <math id="M10">
+    <msub>
+     <mrow>
+      <mi>C</mi>
+     </mrow>
+     <mrow>
+      <mi>min</mi>
+     </mrow>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="41467_2021_24977_Article_IEq4.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> are the corresponding temperature increases after 
+ <italic>t</italic>
+ <sub>
+  <italic>E</italic>
+ </sub> = 300 years, based on the IPCC intermediate emission scenario
+ <sup>
+  <xref ref-type="bibr" rid="CR27">27</xref>
+ </sup>. The period from 
+ <italic>t</italic> = −4000 to 
+ <italic>t</italic> = 0 is an establishment time preceding climate change. 
+ <italic>Q</italic>(
+ <italic>τ</italic>) describes the sigmoidal temperature increase in time: 
+ <italic>Q</italic>(
+ <italic>τ</italic>) equals 0 for 
+ <italic>τ</italic> &lt; 0, 1 for 
+ <italic>τ</italic> &gt; 1, and 10
+ <italic>τ</italic>
+ <sup>3</sup> − 15
+ <italic>τ</italic>
+ <sup>4</sup> + 6
+ <italic>τ</italic>
+ <sup>5</sup> otherwise. Figure 
+ <xref rid="Fig2" ref-type="fig">2</xref>b depicts the resulting temperature change profile.
+</p>

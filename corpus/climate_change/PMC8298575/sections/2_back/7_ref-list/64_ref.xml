@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR64">
+ <label>64.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bull</surname>
+    <given-names>I</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The origin of faeces by means of biomarker detection</article-title>
+  <source>Environ. Int.</source>
+  <year>2002</year>
+  <volume>27</volume>
+  <fpage>647</fpage>
+  <lpage>654</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0160-4120(01)00124-6</pub-id>
+  <?supplied-pmid 11934114?>
+  <pub-id pub-id-type="pmid">11934114</pub-id>
+ </element-citation>
+</ref>

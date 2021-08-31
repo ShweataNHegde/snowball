@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig3">
+ <label>Figure 3</label>
+ <caption>
+  <p>Representation of the selected predictors (displayed in tones of blue) for each CORDEX-Evaluation RCM. The matrix is divided into 9 blocks corresponding to TX, TN, and PR predictors from October to June (left to right), and the 7 RCMs for wheat and barley in cluster 1, and wheat and barley in cluster 2 (top to bottom). Tones of blue indicate the relative percentage of the coefficient associated to a given predictor and sum to 100% for each RCM. Symbols ‘+’ and ‘-’ specify if the coefficient is positive or negative, respectively. The bottom table shows the number of times a predictor is selected by cereal and cluster. The single column table at the right of the matrix indicate the number of predictors by RCM, cereal, and cluster. The table on the right displays the metrics associated to the comparison between cereal yields observed and predicted with regression models before and after cross-validation (cv): correlation R, 
+   <inline-formula id="IEq5">
+    <alternatives>
+     <tex-math id="M5">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${R}_{ajd}^{2}$$\end{document}</tex-math>
+     <math id="M6">
+      <msubsup>
+       <mi>R</mi>
+       <mrow>
+        <mi mathvariant="italic">ajd</mi>
+       </mrow>
+       <mn>2</mn>
+      </msubsup>
+     </math>
+     <inline-graphic xlink:href="41598_2021_95014_Article_IEq5.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </alternatives>
+   </inline-formula>, bias, and MAE, in order from left to right.
+  </p>
+ </caption>
+ <graphic xlink:href="41598_2021_95014_Fig3_HTML" id="MO3" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

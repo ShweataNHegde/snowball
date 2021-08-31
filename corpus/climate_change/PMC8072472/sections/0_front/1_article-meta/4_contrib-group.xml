@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Strapazzon</surname>
+   <given-names>Giacomo</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+  <xref rid="c001" ref-type="corresp">
+   <sup>*</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="https://loop.frontiersin.org/people/605150/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Schweizer</surname>
+   <given-names>Jürg</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">
+   <sup>3</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="https://loop.frontiersin.org/people/317475/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chiambretti</surname>
+   <given-names>Igor</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff4">
+   <sup>4</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Brodmann Maeder</surname>
+   <given-names>Monika</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff5">
+   <sup>5</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="https://loop.frontiersin.org/people/1166406/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Brugger</surname>
+   <given-names>Hermann</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="https://loop.frontiersin.org/people/1271829/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zafren</surname>
+   <given-names>Ken</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff6">
+   <sup>6</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff7">
+   <sup>7</sup>
+  </xref>
+  <uri xlink:type="simple" xlink:href="https://loop.frontiersin.org/people/1232262/overview" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </contrib>
+</contrib-group>

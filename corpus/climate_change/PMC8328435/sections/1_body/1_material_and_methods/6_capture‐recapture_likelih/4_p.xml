@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Recapture probability was conditional on breeding, thus, only breeding birds could be recaptured. We assumed that the probability of detection would be equal for 2‐year‐old and adult breeding females. We modeled recapture probability with a mean and annual temporal random effect:
+ <disp-formula id="ece37873-disp-0003">
+  <math id="jats-math-11" display="block">
+   <mrow>
+    <mi>log</mi>
+    <mi>i</mi>
+    <mi>t</mi>
+    <mfenced close=")" open="(" separators="">
+     <msub>
+      <mi>p</mi>
+      <mi>t</mi>
+     </msub>
+    </mfenced>
+    <mo>=</mo>
+    <msub>
+     <mi>μ</mi>
+     <mi>p</mi>
+    </msub>
+    <mo>+</mo>
+    <msub>
+     <mi>ε</mi>
+     <mrow>
+      <mi>p</mi>
+      <mo>,</mo>
+      <mi>t</mi>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </disp-formula>where 
+ <italic toggle="yes">p</italic>
+ <sub>t</sub> is the annual recapture probability, 
+ <italic toggle="yes">μ</italic>
+ <sub>p</sub> overall mean logit recapture, and ε
+ <italic toggle="yes">
+  <sub>p,t</sub>
+ </italic> the annual random effect on the logit scale. We assumed the random effect term followed a Normal distribution: ε
+ <italic toggle="yes">
+  <sub>p,t</sub>
+ </italic> ~ Normal(0, 
+ <math id="jats-math-12">
+  <msubsup>
+   <mi>σ</mi>
+   <mi>p</mi>
+   <mn>2</mn>
+  </msubsup>
+ </math>).
+</p>

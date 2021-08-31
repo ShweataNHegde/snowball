@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="genes-12-00783-f002" orientation="portrait" position="float">
+ <label>Figure 2</label>
+ <caption>
+  <p>A pipeline for machine learning (ML) applications capable of predicting abiotic stress tolerant and susceptible germplasm accessions. First, a subset of the germplasm collection is (
+   <bold>a</bold>) characterizing genomically, phenotypically (whenever possible), and environmentally (i.e., abiotic stress adaptation indices based on geo-referencing). This subset is later on partitioned between (
+   <bold>b</bold>) training and (
+   <bold>c</bold>) testing populations. The training population is used to calibrate (
+   <bold>d</bold>) ML models that aim using genomic information to predict genomic estimated adaptive values (GEAVs, an analogous rank to the polygenic risk score (PGS) and genomic estimated breeding value (GEBV) from the quantitative genomics literature, e.g., [
+   <xref rid="B102-genes-12-00783" ref-type="bibr">102</xref>,
+   <xref rid="B136-genes-12-00783" ref-type="bibr">136</xref>]). The computer screen depicts a hypothetical hidden neural network (HNN) algorithm, which is one among many potential ML tools; the repertoire includes several regressions, classification, and deep learning models, thoughtfully reviewed this year by Sebestyén et al. [
+   <xref rid="B137-genes-12-00783" ref-type="bibr">137</xref>] and Tong and Nikoloski [
+   <xref rid="B138-genes-12-00783" ref-type="bibr">138</xref>]. Meanwhile, the testing population is used to compute the (
+   <bold>e</bold>) unbiased predictive ability of the model by comparing the GEAVs with the recorded environmental (or phenotypic) abiotic stress tolerant/susceptible indices. Broadly speaking, calibrated and validated ML models can serve two main purposes when applied on germplasm collections. First, (
+   <bold>f</bold>) they could enhance our knowledge on the genomic architecture (i.e., genetic basis) of abiotic stress tolerance via ML-based genome-wide association studies (GWAS), and on the genomic landscape of adaptation via ML-based genome-wide selection scans (GWSS) and genome–environment associations (GEA). Second, (
+   <bold>g</bold>) calibrated and validated ML models can be applied on a (
+   <bold>h</bold>) query population such as extended germplasm samples for which environmental-based indices or phenotyping are not viable, informing GEAVs and (
+   <bold>i</bold>) abiotic stress tolerance on a wider genepool. Clusters of abiotic stress tolerance and susceptibility based on phenotypic information and/or environmental-based indices can be built using traditional classification tools such as the ones listed in 
+   <xref rid="genes-12-00783-t001" ref-type="table">Table 1</xref>, or may also leverage ML prediction approaches (
+   <xref rid="genes-12-00783-t002" ref-type="table">Table 2</xref>).
+  </p>
+ </caption>
+ <graphic xlink:href="genes-12-00783-g002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

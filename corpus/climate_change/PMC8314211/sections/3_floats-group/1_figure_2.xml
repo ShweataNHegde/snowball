@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F2" position="float">
+ <label>FIGURE 2</label>
+ <caption>
+  <p>In organisms with well-characterized patterns of clinal genomic variation, we can make clear predictions on the expected shifts in allele frequencies due to climate change. With strong climate change, clines can weaken (blue) so that the frequency of a warm-adapted allele increases in higher latitudes; or shift (red) so that the frequency of the warm-adapted allele increases along the cline. If the change in climate is not strong, but the cline is being maintained by selection, clines should be more stable (black).</p>
+ </caption>
+ <graphic xlink:href="fgene-12-676218-g002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

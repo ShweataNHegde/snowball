@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funding-group>
+ <award-group id="funding-0001">
+  <funding-source>
+   <institution-wrap>
+    <institution>Bureau of Land Management </institution>
+    <institution-id institution-id-type="doi">10.13039/100007149</institution-id>
+   </institution-wrap>
+  </funding-source>
+ </award-group>
+ <award-group id="funding-0002">
+  <funding-source>
+   <institution-wrap>
+    <institution>Auburn University School of Forestry and Wildlife Sciences </institution>
+    <institution-id institution-id-type="doi">10.13039/100007579</institution-id>
+   </institution-wrap>
+  </funding-source>
+ </award-group>
+ <award-group id="funding-0003">
+  <funding-source>Ducks Unlimited</funding-source>
+ </award-group>
+</funding-group>

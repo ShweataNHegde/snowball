@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par36">A stack with a total of 26 variables was therefore created from the climatic, topographic and soil variables. To remove correlated variables (Figure 
+ <xref rid="MOESM1" ref-type="media">SI2</xref>) that do not provide additional unique information to the modelling, the variance inflation factor (VIF) method was used for collinearity test and variable selection and for improving model stability, robustness and computing efficiency. VIF measures the inflation of the variances for the parameters above what is expected if there is less multicollinearity among the independent variables
+ <sup>
+  <xref ref-type="bibr" rid="CR65">65</xref>
+ </sup>. The VIF is directly calculated from the linear model with the focal numeric variable as response using Eq.(
+ <xref rid="Equ1" ref-type="">1</xref>):
+ <disp-formula id="Equ1">
+  <label>1</label>
+  <alternatives>
+   <tex-math id="M1">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$VIF = \frac{1}{{1 - { }R_{i}^{2} }}$$\end{document}</tex-math>
+   <math id="M2" display="block">
+    <mrow>
+     <mi>V</mi>
+     <mi>I</mi>
+     <mi>F</mi>
+     <mo>=</mo>
+     <mfrac>
+      <mn>1</mn>
+      <mrow>
+       <mn>1</mn>
+       <mo>-</mo>
+       <mrow/>
+       <msubsup>
+        <mi>R</mi>
+        <mrow>
+         <mi>i</mi>
+        </mrow>
+        <mn>2</mn>
+       </msubsup>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </math>
+   <graphic xlink:href="41598_2021_87647_Article_Equ1.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>where R
+ <sup>2</sup> is the regression coefficient of determination of the linear model. A VIF value greater than 10 often suggests a collinearity problem within a model, and therefore 10 is used as the elimination threshold
+ <sup>
+  <xref ref-type="bibr" rid="CR66">66</xref>
+ </sup>.
+</p>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR91">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yue</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Pilon</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Phinney</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Cavadias</surname>
+    <given-names>G</given-names>
+   </name>
+  </person-group>
+  <article-title>The influence of autocorrelation on the ability to detect trends in hydrological series</article-title>
+  <source>Hydrological Processes</source>
+  <year>2002</year>
+  <volume>16</volume>
+  <fpage>1807</fpage>
+  <lpage>1829</lpage>
+  <pub-id pub-id-type="doi">10.1002/hyp.1095</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B18-insects-12-00440">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Stevens</surname>
+    <given-names>C.J.</given-names>
+   </name>
+   <name>
+    <surname>Dise</surname>
+    <given-names>N.B.</given-names>
+   </name>
+   <name>
+    <surname>Mountford</surname>
+    <given-names>J.O.</given-names>
+   </name>
+   <name>
+    <surname>Gowing</surname>
+    <given-names>D.J.</given-names>
+   </name>
+  </person-group>
+  <article-title>Impact of nitrogen deposition on the species richness of grasslands</article-title>
+  <source>Science</source>
+  <year>2004</year>
+  <volume>303</volume>
+  <fpage>1876</fpage>
+  <lpage>1879</lpage>
+  <pub-id pub-id-type="doi">10.1126/science.1094678</pub-id>
+  <?supplied-pmid 15031507?>
+  <pub-id pub-id-type="pmid">15031507</pub-id>
+ </element-citation>
+</ref>

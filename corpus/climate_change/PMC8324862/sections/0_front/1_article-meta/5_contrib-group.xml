@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Barnard</surname>
+   <given-names>Patrick L.</given-names>
+  </name>
+  <address>
+   <email>pbarnard@usgs.gov</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dugan</surname>
+   <given-names>Jenifer E.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Page</surname>
+   <given-names>Henry M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wood</surname>
+   <given-names>Nathan J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hart</surname>
+   <given-names>Juliette A. Finzi</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cayan</surname>
+   <given-names>Daniel R.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Erikson</surname>
+   <given-names>Li H.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hubbard</surname>
+   <given-names>David M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Myers</surname>
+   <given-names>Monique R.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Melack</surname>
+   <given-names>John M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Iacobellis</surname>
+   <given-names>Sam F.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.2865.9</institution-id>
+   <institution-id institution-id-type="ISNI">0000000121546924</institution-id>
+   <institution>Pacific Coastal and Marine Science Center, </institution>
+   <institution>U.S. Geological Survey, </institution>
+  </institution-wrap>Santa Cruz, CA 95060 USA 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.133342.4</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 9676</institution-id>
+   <institution>Marine Science Institute, </institution>
+   <institution>University of California, Santa Barbara, </institution>
+  </institution-wrap>Santa Barbara, CA 93106 USA 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.2865.9</institution-id>
+   <institution-id institution-id-type="ISNI">0000000121546924</institution-id>
+   <institution>U.S. Geological Survey, </institution>
+   <institution>Western Geographic Science Center, </institution>
+  </institution-wrap>Portland, OR 97201 USA 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.266100.3</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2107 4242</institution-id>
+   <institution>Scripps Institution of Oceanography, </institution>
+   <institution>University of California, San Diego, </institution>
+  </institution-wrap>La Jolla, CA 92037 USA 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.133342.4</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 9676</institution-id>
+   <institution>California Sea Grant, </institution>
+   <institution>University of California, Santa Barbara, </institution>
+  </institution-wrap>Santa Barbara, CA 93106 USA 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.133342.4</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 9676</institution-id>
+   <institution>Department of Ecology, Evolution, and Marine Biology, </institution>
+   <institution>University of California, Santa Barbara, </institution>
+  </institution-wrap>Santa Barbara, CA 93106 USA 
+ </aff>
+</contrib-group>

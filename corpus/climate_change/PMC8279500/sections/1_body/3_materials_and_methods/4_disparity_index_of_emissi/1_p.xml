@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We developed a global, spatially explicit index of the relationship between local anthropogenic emissions and projected local surface temperature anomalies. For all cells (
+ <italic>n</italic> = 64,800 at 1° × 1° resolution), we quantified the perpendicular distance from the diagonal spanning the extent of the two datasets (also see 
+ <xref rid="F2" ref-type="fig">Fig. 2A</xref>) (
+ <xref rid="R54" ref-type="bibr">
+  <italic>54</italic>
+ </xref>). This LCDI is accounted for by the formula
+ <disp-formula id="E1">
+  <math id="m1">
+   <mrow>
+    <mrow>
+     <mtext>LCDI</mtext>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mi>t</mi>
+        <mi>i</mi>
+       </msub>
+       <mo>−</mo>
+       <mo stretchy="false">(</mo>
+       <mi mathvariant="normal">β</mi>
+       <mo>*</mo>
+       <msub>
+        <mi>e</mi>
+        <mi>i</mi>
+       </msub>
+       <mo>+</mo>
+       <msub>
+        <mi>t</mi>
+        <mtext>min</mtext>
+       </msub>
+       <mo stretchy="false">)</mo>
+      </mrow>
+      <mrow>
+       <msqrt>
+        <mrow>
+         <mo stretchy="false">∣</mo>
+         <msup>
+          <mi mathvariant="normal">β</mi>
+          <mn>2</mn>
+         </msup>
+         <mo>−</mo>
+         <mn>1</mn>
+         <mo stretchy="false">∣</mo>
+        </mrow>
+       </msqrt>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+  <label>(1)</label>
+ </disp-formula>where 
+ <italic>t
+  <sub>i</sub>
+ </italic> is the local temperature anomaly, 
+ <italic>e
+  <sub>i</sub>
+ </italic> are the local aggregated anthropogenic emissions, and β is the ratio of the extent within 
+ <italic>e</italic> and 
+ <italic>t</italic> such that β = (
+ <italic>t</italic>
+ <sub>max</sub> − 
+ <italic>t</italic>
+ <sub>min</sub>)/(
+ <italic>e</italic>
+ <sub>max</sub> − 
+ <italic>e</italic>
+ <sub>min</sub>). We calculated LCDI for all four combinations of RCP 4.5, RCP 8.5, and 2006–2055 and 2050–2099 projections (figs. S5 and S6) after winsorizing the emissions and projected temperature layers, each to their 99.99th quantile (
+ <xref rid="R55" ref-type="bibr">
+  <italic>55</italic>
+ </xref>).
+</p>

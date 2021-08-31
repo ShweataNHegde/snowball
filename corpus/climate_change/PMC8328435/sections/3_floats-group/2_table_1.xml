@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="ece37873-tbl-0001" content-type="TABLE">
+ <label>TABLE 1</label>
+ <caption>
+  <p>Parameters, their definitions, and prior distributions used in the spectacled eider integrated population model. Prior distributions were generated based on empirical data for spectacled eiders or other sea duck species</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <thead valign="top">
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="top" rowspan="1" colspan="1">Parameter</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">Definition</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">Prior</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" colspan="3" rowspan="1">Capture–recapture and productivity model parameters</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <bold>
+      <italic toggle="yes">ɸ</italic>
+      <sub>a</sub>
+     </bold>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Survival of females 1 year and above</td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>Beta (5.5, 1.833)</p>
+     <p>mu =0.75, sd =0.15</p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <bold>
+      <italic toggle="yes">ɸ</italic>
+      <sub>j</sub>
+     </bold>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Survival of first‐year birds (30 days to 1 year)</td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>Beta (2.5, 5.833)</p>
+     <p>mu =0.30, sd=0.15</p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <bold>
+      <italic toggle="yes">α</italic>
+     </bold>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Breeding probability of 2‐year‐old females</td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>Beta (2.5, 5.833)</p>
+     <p>mu =0.30, sd=0.15</p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <bold>
+      <italic toggle="yes">p</italic>
+     </bold>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Recapture probability of breeding females</td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>Beta (5.056, 5.056)</p>
+     <p>mu =0.5, sd =0.15</p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <bold>
+      <italic toggle="yes">ns</italic>
+     </bold>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Nest success (probability of 1 egg hatching)</td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>Beta (5.922, 3.189)</p>
+     <p>mu =0.65, sd=0.15</p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <bold>
+      <italic toggle="yes">cs</italic>
+     </bold>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Average clutch size at hatch</td>
+    <td align="left" rowspan="1" colspan="1">Gamma (0.1, 0.1)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <bold>
+      <italic toggle="yes">ds</italic>
+     </bold>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Survival of ducklings (0 to 30 days)</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.67</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <bold>
+      <italic toggle="yes">f</italic>
+     </bold>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Fecundity ‐ number of ducklings per female 
+     <math id="jats-math-2">
+      <mrow>
+       <mi>f</mi>
+       <mi>e</mi>
+       <msub>
+        <mi>c</mi>
+        <mi>t</mi>
+       </msub>
+       <mo>=</mo>
+       <mi>n</mi>
+       <msub>
+        <mi>s</mi>
+        <mi>t</mi>
+       </msub>
+       <mo>∗</mo>
+       <mi>c</mi>
+       <msub>
+        <mi>s</mi>
+        <mi>t</mi>
+       </msub>
+       <mo>∗</mo>
+       <mi>d</mi>
+       <mi>s</mi>
+      </mrow>
+     </math>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">‐‐</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <bold>σ
+      <italic toggle="yes">
+       <sub>ɸ</sub>
+      </italic>
+      <sub>,α,ns</sub>
+     </bold>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Standard deviation of temporal variability</td>
+    <td align="left" rowspan="1" colspan="1">Uniform (0.001, 5)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <bold>
+      <italic toggle="yes">ε</italic>
+     </bold>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Annual random deviation from the average value 
+     <math id="jats-math-3">
+      <mrow>
+       <msub>
+        <mi>ε</mi>
+        <mi>t</mi>
+       </msub>
+       <mo>∼</mo>
+       <mi>N</mi>
+       <mi>o</mi>
+       <mi>r</mi>
+       <mi>m</mi>
+       <mi>a</mi>
+       <mi>l</mi>
+       <mfenced close=")" open="(" separators="">
+        <mrow>
+         <mn>0</mn>
+         <mo>,</mo>
+         <msub>
+          <mi>σ</mi>
+          <mi>θ</mi>
+         </msub>
+        </mrow>
+       </mfenced>
+      </mrow>
+     </math>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">‐‐</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <bold>
+      <italic toggle="yes">β</italic>
+     </bold>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Regression coefficients</td>
+    <td align="left" rowspan="1" colspan="1">Normal (0, 10)</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="3" rowspan="1">Count model parameters</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <bold>
+      <italic toggle="yes">n
+       <sub>1</sub>
+      </italic>
+     </bold>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>Number of immature (1‐year‐old) females</p>
+     <p>
+      <math id="jats-math-4">
+       <mrow>
+        <msub>
+         <mi>n</mi>
+         <mrow>
+          <mn>1</mn>
+          <mo>,</mo>
+          <mi>t</mi>
+          <mo>+</mo>
+          <mn>1</mn>
+         </mrow>
+        </msub>
+        <mo>=</mo>
+        <mfenced close=")" open="(" separators="">
+         <mrow>
+          <mfrac>
+           <mrow>
+            <mi>f</mi>
+            <mi>e</mi>
+            <msub>
+             <mi>c</mi>
+             <mi>t</mi>
+            </msub>
+           </mrow>
+           <mn>2</mn>
+          </mfrac>
+          <mo>∗</mo>
+          <msub>
+           <mi>ϕ</mi>
+           <mrow>
+            <mn>0</mn>
+            <mo>,</mo>
+            <mi>t</mi>
+           </mrow>
+          </msub>
+         </mrow>
+        </mfenced>
+        <mo>∗</mo>
+        <mfenced close=")" open="(" separators="">
+         <mrow>
+          <msub>
+           <mi>n</mi>
+           <mrow>
+            <mn>3</mn>
+            <mo>,</mo>
+            <mi>t</mi>
+           </mrow>
+          </msub>
+          <mo>+</mo>
+          <msub>
+           <mi>n</mi>
+           <mrow>
+            <mn>4</mn>
+            <mo>,</mo>
+            <mi>t</mi>
+           </mrow>
+          </msub>
+         </mrow>
+        </mfenced>
+       </mrow>
+      </math>
+     </p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Discrete Uniform (300, 900)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <bold>
+      <italic toggle="yes">n
+       <sub>2</sub>
+      </italic>
+     </bold>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>Number of 2‐year‐old nonbreeding females</p>
+     <p>
+      <math id="jats-math-5">
+       <mrow>
+        <msub>
+         <mi>n</mi>
+         <mrow>
+          <mn>2</mn>
+          <mo>,</mo>
+          <mi>t</mi>
+          <mo>+</mo>
+          <mn>1</mn>
+         </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+         <mi>ϕ</mi>
+         <mrow>
+          <mn>1</mn>
+          <mo>,</mo>
+          <mi>t</mi>
+         </mrow>
+        </msub>
+        <mo>∗</mo>
+        <mfenced close=")" open="(" separators="">
+         <mrow>
+          <mn>1</mn>
+          <mo>‐</mo>
+          <msub>
+           <mi>α</mi>
+           <mi>t</mi>
+          </msub>
+         </mrow>
+        </mfenced>
+        <mo>∗</mo>
+        <msub>
+         <mi>n</mi>
+         <mrow>
+          <mn>1</mn>
+          <mo>,</mo>
+          <mi>t</mi>
+         </mrow>
+        </msub>
+       </mrow>
+      </math>
+     </p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Discrete Uniform (10, 200)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <bold>
+      <italic toggle="yes">n
+       <sub>3</sub>
+      </italic>
+     </bold>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>Number of 2‐year‐old breeding females</p>
+     <p>
+      <math id="jats-math-6">
+       <mrow>
+        <msub>
+         <mi>n</mi>
+         <mrow>
+          <mn>3</mn>
+          <mo>,</mo>
+          <mi>t</mi>
+          <mo>+</mo>
+          <mn>1</mn>
+         </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+         <mi>ϕ</mi>
+         <mrow>
+          <mn>1</mn>
+          <mo>,</mo>
+          <mi>t</mi>
+         </mrow>
+        </msub>
+        <mo>∗</mo>
+        <msub>
+         <mi>α</mi>
+         <mi>t</mi>
+        </msub>
+        <mo>∗</mo>
+        <msub>
+         <mi>n</mi>
+         <mrow>
+          <mn>1</mn>
+          <mo>,</mo>
+          <mi>t</mi>
+         </mrow>
+        </msub>
+       </mrow>
+      </math>
+     </p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Discrete Uniform (10, 100)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <bold>
+      <italic toggle="yes">n
+       <sub>4</sub>
+      </italic>
+     </bold>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>Number of 3+‐year‐old females</p>
+     <p>
+      <math id="jats-math-7">
+       <mrow>
+        <msub>
+         <mi>n</mi>
+         <mrow>
+          <mn>4</mn>
+          <mo>,</mo>
+          <mi>t</mi>
+          <mo>+</mo>
+          <mn>1</mn>
+         </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+         <mi>ϕ</mi>
+         <mrow>
+          <mn>2</mn>
+          <mo>,</mo>
+          <mi>t</mi>
+         </mrow>
+        </msub>
+        <mo>∗</mo>
+        <mrow>
+         <mo stretchy="false">(</mo>
+         <msub>
+          <mi>n</mi>
+          <mrow>
+           <mn>2</mn>
+           <mo>,</mo>
+           <mi>t</mi>
+          </mrow>
+         </msub>
+         <mo>+</mo>
+         <msub>
+          <mi>n</mi>
+          <mrow>
+           <mn>3</mn>
+           <mo>,</mo>
+           <mi>t</mi>
+          </mrow>
+         </msub>
+         <mo>+</mo>
+         <msub>
+          <mi>n</mi>
+          <mrow>
+           <mn>4</mn>
+           <mo>,</mo>
+           <mi>t</mi>
+          </mrow>
+         </msub>
+         <mo stretchy="false">)</mo>
+        </mrow>
+       </mrow>
+      </math>
+     </p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Discrete Uniform (500, 2000)</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <bold>
+      <italic toggle="yes">Ntot</italic>
+     </bold>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>Total female abundance</p>
+     <p>
+      <math id="jats-math-8">
+       <mrow>
+        <mi>N</mi>
+        <mi>t</mi>
+        <mi>o</mi>
+        <msub>
+         <mi>t</mi>
+         <mi>t</mi>
+        </msub>
+        <mo>=</mo>
+        <mrow>
+         <mo stretchy="false">(</mo>
+         <msub>
+          <mi>n</mi>
+          <mrow>
+           <mn>1</mn>
+           <mo>,</mo>
+           <mi>t</mi>
+          </mrow>
+         </msub>
+         <mo>+</mo>
+         <msub>
+          <mi>n</mi>
+          <mrow>
+           <mn>2</mn>
+           <mo>,</mo>
+           <mi>t</mi>
+          </mrow>
+         </msub>
+         <mo>+</mo>
+         <msub>
+          <mi>n</mi>
+          <mrow>
+           <mn>3</mn>
+           <mo>,</mo>
+           <mi>t</mi>
+          </mrow>
+         </msub>
+         <mo>+</mo>
+         <msub>
+          <mi>n</mi>
+          <mrow>
+           <mn>4</mn>
+           <mo>,</mo>
+           <mi>t</mi>
+          </mrow>
+         </msub>
+         <mo stretchy="false">)</mo>
+        </mrow>
+        <mo>∗</mo>
+        <mn>2</mn>
+       </mrow>
+      </math>
+     </p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">‐‐</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <bold>
+      <italic toggle="yes">Nbpop</italic>
+     </bold>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>Breeding abundance (males and females)</p>
+     <p>
+      <math id="jats-math-9">
+       <mrow>
+        <mi>N</mi>
+        <mi>b</mi>
+        <mi>p</mi>
+        <mi>o</mi>
+        <msub>
+         <mi>p</mi>
+         <mi>t</mi>
+        </msub>
+        <mo>=</mo>
+        <mfenced close=")" open="(" separators="">
+         <mrow>
+          <msub>
+           <mi>n</mi>
+           <mrow>
+            <mn>3</mn>
+            <mo>,</mo>
+            <mi>t</mi>
+           </mrow>
+          </msub>
+          <mo>+</mo>
+          <msub>
+           <mi>n</mi>
+           <mrow>
+            <mn>4</mn>
+            <mo>,</mo>
+            <mi>t</mi>
+           </mrow>
+          </msub>
+         </mrow>
+        </mfenced>
+        <mo>∗</mo>
+        <mn>2</mn>
+       </mrow>
+      </math>
+     </p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">‐‐</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <bold>
+      <italic toggle="yes">y</italic>
+     </bold>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Annual index of breeding abundance</td>
+    <td align="left" rowspan="1" colspan="1">‐‐</td>
+   </tr>
+   <tr>
+    <td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+     <bold>
+      <italic toggle="yes">σ
+       <sub>y</sub>
+      </italic>
+     </bold>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Annual estimated observation error of 
+     <italic toggle="yes">y</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">‐‐</td>
+   </tr>
+  </tbody>
+ </table>
+ <permissions>
+  <copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder>
+ </permissions>
+</table-wrap>

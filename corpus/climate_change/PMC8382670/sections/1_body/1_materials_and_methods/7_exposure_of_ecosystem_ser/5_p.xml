@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par28">After the above calculations, we can get the temperature and precipitation change velocity separately. To evaluate the sensitivity differences observed in the different regions, the sensitivity result (see Methods for details) was introduced to evaluate the exposure. Ultimately, the formula of exposure of ecosystem services to future climate change is the following:
+ <disp-formula id="Equ8">
+  <label>8</label>
+  <alternatives>
+   <tex-math id="M31">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$E = Sensitivity \times V$$\end{document}</tex-math>
+   <math id="M32" display="block">
+    <mrow>
+     <mi>E</mi>
+     <mo>=</mo>
+     <mi>S</mi>
+     <mi>e</mi>
+     <mi>n</mi>
+     <mi>s</mi>
+     <mi>i</mi>
+     <mi>t</mi>
+     <mi>i</mi>
+     <mi>v</mi>
+     <mi>i</mi>
+     <mi>t</mi>
+     <mi>y</mi>
+     <mo>×</mo>
+     <mi>V</mi>
+    </mrow>
+   </math>
+   <graphic xlink:href="10980_2021_1320_Article_Equ8.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula> where 
+ <inline-formula id="IEq9">
+  <alternatives>
+   <tex-math id="M33">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$E$$\end{document}</tex-math>
+   <math id="M34">
+    <mi>E</mi>
+   </math>
+   <inline-graphic xlink:href="10980_2021_1320_Article_IEq9.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> is the exposure of ecosystem services to future climate change; 
+ <inline-formula id="IEq10">
+  <alternatives>
+   <tex-math id="M35">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$Sensitivity$$\end{document}</tex-math>
+   <math id="M36">
+    <mrow>
+     <mi mathvariant="italic">Sensitivity</mi>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="10980_2021_1320_Article_IEq10.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> is the sensitivity of ecosystem services to climate change (temperature or precipitation); 
+ <inline-formula id="IEq11">
+  <alternatives>
+   <tex-math id="M37">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$V$$\end{document}</tex-math>
+   <math id="M38">
+    <mi>V</mi>
+   </math>
+   <inline-graphic xlink:href="10980_2021_1320_Article_IEq11.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> is the velocity of climate change (temperature or precipitation) for four future scenarios (see formula (
+ <xref rid="Equ4" ref-type="">4</xref>)). The temporal gradient was calculated based on the difference between baseline and future climate data in each pixel for the four climate scenarios. The formula of exposure and enhanced vegetation index (EVI), according to Li et al. (
+ <xref ref-type="bibr" rid="CR48">2018a</xref>), was adjusted to ecosystem services in our framework.
+</p>

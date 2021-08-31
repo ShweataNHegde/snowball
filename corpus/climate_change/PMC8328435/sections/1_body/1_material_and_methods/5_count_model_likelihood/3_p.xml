@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The state process model describes the dynamics of the total population, but our counts only included the breeding males and females. Thus, the observation model linked the observed number of breeding birds (denoted by 
+ <italic toggle="yes">y</italic>) to 
+ <italic toggle="yes">N</italic>bpop
+ <sub>t</sub> through the following equation.
+</p>

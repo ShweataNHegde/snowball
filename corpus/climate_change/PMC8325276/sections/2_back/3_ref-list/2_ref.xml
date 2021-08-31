@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="r3">
+ <label>3</label>
+ <mixed-citation publication-type="book">
+  <person-group person-group-type="author">
+   <string-name>
+    <given-names>E.</given-names>
+    <surname>Wolff</surname>
+   </string-name>
+   <etal/>.
+  </person-group>, 
+  <source>The Royal Society Climate Updates: What Have We Learnt Since the IPCC 5th Assessment Report?</source> (
+  <publisher-name>The Royal Society</publisher-name>, 
+  <year>2017</year>).
+ </mixed-citation>
+</ref>

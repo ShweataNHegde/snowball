@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B203-genes-12-00783">
+ <label>203.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Roudbar</surname>
+    <given-names>M.A.</given-names>
+   </name>
+   <name>
+    <surname>Momen</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Mousavi</surname>
+    <given-names>S.F.</given-names>
+   </name>
+   <name>
+    <surname>Ardestani</surname>
+    <given-names>S.S.</given-names>
+   </name>
+   <name>
+    <surname>Lopes</surname>
+    <given-names>F.B.</given-names>
+   </name>
+   <name>
+    <surname>Gianola</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Khatib</surname>
+    <given-names>H.</given-names>
+   </name>
+  </person-group>
+  <article-title>Genome-wide methylation prediction of biological age using reproducing kernel Hilbert spaces and Bayesian ridge regressions</article-title>
+  <source>bioRxiv</source>
+  <year>2020</year>
+  <pub-id pub-id-type="doi">10.1101/2020.08.25.266924</pub-id>
+ </element-citation>
+</ref>

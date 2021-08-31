@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par35">Another criterion for estimating stratification phenology from surface temperature observations is that the studied lakes must experience seasonal stratification, notably that they are characterized as monomictic or dimictic. For example, the 3.98 °C temperature threshold would not be an indicator of stratification phenology in polymictic lakes (i.e. those that mix frequently). To identify the mixing regime of each lake, we again used information available in the published literature. For lakes with no information available, we used modelled lake surface and bottom water temperatures to simulate the lake mixing regime following the methods of ref. 
+ <sup>
+  <xref ref-type="bibr" rid="CR44">44</xref>
+ </sup>. Lake surface and bottom water temperature simulations for each lake were extracted from ECMWF’s ERA5 product
+ <sup>
+  <xref ref-type="bibr" rid="CR67">67</xref>
+ </sup> for the corresponding grid (0.25° resolution) of each lake centre pixel. ERA5 lake surface temperatures have been shown previously to accurately simulate the thermal environment of lakes at a global scale
+ <sup>
+  <xref ref-type="bibr" rid="CR68">68</xref>
+ </sup>.
+</p>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR31">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gilbert</surname>
+    <given-names>MTP</given-names>
+   </name>
+   <name>
+    <surname>Bandelt</surname>
+    <given-names>HJ</given-names>
+   </name>
+   <name>
+    <surname>Hofreiter</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Barnes</surname>
+    <given-names>I</given-names>
+   </name>
+  </person-group>
+  <article-title>Assessing ancient DNA studies</article-title>
+  <source>Trends Ecol Evol</source>
+  <year>2005</year>
+  <volume>20</volume>
+  <fpage>541</fpage>
+  <lpage>544</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.tree.2005.07.005</pub-id>
+  <pub-id pub-id-type="pmid">16701432</pub-id>
+ </element-citation>
+</ref>

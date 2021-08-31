@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R74">
+ <label>74</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Welch</surname>
+    <given-names>K</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Shipp-Hilts</surname>
+    <given-names>A</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Eidson</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Salmonella and the changing environment: systematic review using new York state as a model</article-title>. 
+  <source>J Water Health</source>
+  <year>2019</year>;
+  <volume>17</volume>:
+  <fpage>179</fpage>–
+  <lpage>95</lpage>. 
+  <pub-id pub-id-type="doi">10.2166/wh.2018.224</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/30942769?>
+  <pub-id pub-id-type="pmid">30942769</pub-id>
+ </mixed-citation>
+</ref>

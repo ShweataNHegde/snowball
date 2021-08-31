@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B102-life-11-00653">
+ <label>102.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Barah</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Jayavelu</surname>
+    <given-names>N.D.</given-names>
+   </name>
+   <name>
+    <surname>Mundy</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Bones</surname>
+    <given-names>A.M.</given-names>
+   </name>
+  </person-group>
+  <article-title>Genome scale transcriptional response diversity among ten ecotypes of Arabidopsis thaliana during heat stress</article-title>
+  <source>Front. Plant. Sci.</source>
+  <year>2013</year>
+  <volume>4</volume>
+  <fpage>532</fpage>
+  <pub-id pub-id-type="doi">10.3389/fpls.2013.00532</pub-id>
+  <?supplied-pmid 24409190?>
+  <pub-id pub-id-type="pmid">24409190</pub-id>
+ </element-citation>
+</ref>

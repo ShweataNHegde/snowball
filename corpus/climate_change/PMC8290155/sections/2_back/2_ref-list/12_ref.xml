@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B12">
+ <label>12.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Domingo</surname>
+    <given-names>JL</given-names>
+   </name>
+   <name>
+    <surname>Marqu‘es</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Rovira</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Influence of airborne transmission of SARS-CoV- 2 on COVID-19 pandemic. A review</article-title>. 
+  <source>Environ Res.</source> (
+  <year>2020</year>) 
+  <volume>188</volume>:
+  <fpage>109861</fpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.envres.2020.109861</pub-id>
+  <?supplied-pmid 32718835?>
+  <pub-id pub-id-type="pmid">32718835</pub-id>
+ </mixed-citation>
+</ref>

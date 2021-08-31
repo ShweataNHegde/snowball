@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R6">
+ <label>6</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Alderman</surname>
+    <given-names>K</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Turner</surname>
+    <given-names>LR</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Tong</surname>
+    <given-names>S</given-names>
+   </string-name>
+  </person-group>. 
+  <article-title>Floods and human health: a systematic review</article-title>. 
+  <source>Environ Int</source>
+  <year>2012</year>;
+  <volume>47</volume>:
+  <fpage>37</fpage>–
+  <lpage>47</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.envint.2012.06.003</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/22750033?>
+  <pub-id pub-id-type="pmid">22750033</pub-id>
+ </mixed-citation>
+</ref>

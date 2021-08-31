@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par29">Driven by the wind and pressure fields from the native resolution and downscaled GFDL-ESM2M (RCP4.5 scenario) GCM from above, the Coastal Storm Modeling System (CoSMoS)
+ <sup>
+  <xref ref-type="bibr" rid="CR48">48</xref>,
+  <xref ref-type="bibr" rid="CR49">49</xref>,
+  <xref ref-type="bibr" rid="CR94">94</xref>,
+  <xref ref-type="bibr" rid="CR95">95</xref>
+ </sup> was applied to the study area by considering 40 SLR (i.e. 0, 0.25, 0.50, 0.75, 1.00, 1.25, 1.50, 1.75, 2.00 and 5.00 m) and storm scenarios (i.e. daily conditions and annual, 20-year and 100-year storms). Twenty-first century wind fields were fed into a global and nested Eastern North Pacific WAVEWATCH III wave model
+ <sup>
+  <xref ref-type="bibr" rid="CR96">96</xref>
+ </sup> to establish wave conditions at the continental shelf edge
+ <sup>
+  <xref ref-type="bibr" rid="CR97">97</xref>
+ </sup>, and then dynamically downscaled using SWAN
+ <sup>
+  <xref ref-type="bibr" rid="CR98">98</xref>
+ </sup> to transform the waves to the nearshore. To establish nearshore water level boundary conditions, SWAN was coupled with DELFT3D-FLOW to capture the tides, seasonal water level anomalies, river discharge and storm surge
+ <sup>
+  <xref ref-type="bibr" rid="CR95">95</xref>,
+  <xref ref-type="bibr" rid="CR99">99</xref>,
+  <xref ref-type="bibr" rid="CR100">100</xref>
+ </sup>. High-resolution hydrodynamic grids (O ~ 10 m) were used to model total water levels and overland flooding for complex shorelines, including protected embayments, while cross-shore, 1-D XBeach models
+ <sup>
+  <xref ref-type="bibr" rid="CR101">101</xref>
+ </sup> were spaced every 100 m alongshore on the open coast to predict wave set-up and swash. Projected flood levels for each scenario were interpolated onto a 2-m grid and differenced from a Digital Elevation Model (DEM)
+ <sup>
+  <xref ref-type="bibr" rid="CR102">102</xref>
+ </sup> to provide the flood extent and depth. Storm scenarios for the full computational application of CoSMoS were established via a proxy approach
+ <sup>
+  <xref ref-type="bibr" rid="CR103">103</xref>
+ </sup>, which also served to provide a twenty-first century, continuous time series of total water levels to drive the coastal change models for sandy beaches (CoSMoS-COAST)
+ <sup>
+  <xref ref-type="bibr" rid="CR77">77</xref>
+ </sup> and cliffs
+ <sup>
+  <xref ref-type="bibr" rid="CR104">104</xref>
+ </sup> along the established XBeach transects. The long-term coastal change projections were used to evolve the DEM for the future flooding scenarios
+ <sup>
+  <xref ref-type="bibr" rid="CR105">105</xref>
+ </sup>. All the model projections are freely available for viewing
+ <sup>
+  <xref ref-type="bibr" rid="CR106">106</xref>
+ </sup> and download
+ <sup>
+  <xref ref-type="bibr" rid="CR107">107</xref>
+ </sup>.
+</p>

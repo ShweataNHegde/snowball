@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Woolway</surname>
+    <given-names>RI</given-names>
+   </name>
+   <name>
+    <surname>Merchant</surname>
+    <given-names>CJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Amplified surface temperature response of cold, deep lakes to inter-annual air temperature variability</article-title>
+  <source>Sci. Rep.</source>
+  <year>2017</year>
+  <volume>7</volume>
+  <fpage>4130</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41598-017-04058-0</pub-id>
+  <?supplied-pmid 28646229?>
+  <pub-id pub-id-type="pmid">28646229</pub-id>
+ </element-citation>
+</ref>

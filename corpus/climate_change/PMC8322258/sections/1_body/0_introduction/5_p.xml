@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par6">This work aims at expanding previous ones by assessing how climate change may affect both wheat and barley yields in the Iberian Peninsula. This is achieved by using a wide range of EURO-CORDEX RCMs simulated meteorological variables (such as maximum and minimum air temperatures and precipitation) representative of present and future climates, according to the Representative Concentration Pathways RCP4.5 and RCP8.5 greenhouse gas emission scenarios
+ <sup>
+  <xref ref-type="bibr" rid="CR50">50</xref>
+ </sup>. The relation between the meteorological constraining variables and wheat and barley yields is used to develop empirical models based on multiple linear regressions with the objective of projecting these yields in the future. Although the use of empirical relationships may not capture the biophysical aspects of crops, such models represent rather well the large-scale impacts of climate hazards and require lower computational costs than mechanistic modelling
+ <sup>
+  <xref ref-type="bibr" rid="CR51">51</xref>,
+  <xref ref-type="bibr" rid="CR52">52</xref>
+ </sup>. Hence, this work is divided in three main objectives:
+ <list list-type="order">
+  <list-item>
+   <p id="Par7">To establish a relation between wheat and barley yields and climate variables such as maximum/minimum temperatures, and accumulated precipitation based on the CORDEX-Evaluation RCMs (forced with ERA-Interim).</p>
+  </list-item>
+  <list-item>
+   <p id="Par8">To calibrate and validate regression models using predictors from the CORDEX-Evaluation RCMs, by comparing observed and modelled wheat and barley yields.</p>
+  </list-item>
+  <list-item>
+   <p id="Par9">To apply these regression models to CORDEX-Historical and CORDEX-Future RCMs, according to RCP4.5 and RCP8.5 scenarios, with the aim of studying and understanding future yield changes.</p>
+  </list-item>
+ </list>
+</p>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R13">
+ <label>13</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Herlihy</surname>
+    <given-names>N</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Bar-Hen</surname>
+    <given-names>A</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Verner</surname>
+    <given-names>G</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Climate change and human health: what are the research trends? A scoping review protocol</article-title>. 
+  <source>BMJ Open</source>
+  <year>2016</year>;
+  <volume>6</volume>:
+  <elocation-id>e012022</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1136/bmjopen-2016-012022</pub-id>
+ </mixed-citation>
+</ref>

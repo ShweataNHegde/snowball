@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab6">
+ <label>Table 6</label>
+ <caption>
+  <p>Results of the Dumitrescu–Hurlin panel causality test</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left">Null Hypothesis:</th>
+    <th align="left">W-Statistic</th>
+    <th align="left">Probability</th>
+    <th align="left">Direction of causality</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">
+     <inline-formula id="IEq88">
+      <alternatives>
+       <tex-math id="M201">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$~{\text{LNFOSE~does~not~homogeneously~cause~LNCULA}}$$\end{document}</tex-math>
+       <math id="M202">
+        <mrow>
+         <mspace width="3.33333pt"/>
+         <mrow>
+          <mtext>LNFOSE does not homogeneously cause LNCULA</mtext>
+         </mrow>
+        </mrow>
+       </math>
+       <inline-graphic xlink:href="10668_2021_1621_Article_IEq88.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </alternatives>
+     </inline-formula>
+    </td>
+    <td char="." align="char">5.140***</td>
+    <td char="." align="char">0.000</td>
+    <td align="left">Bidirectional causality</td>
+   </tr>
+   <tr>
+    <td align="left">
+     <inline-formula id="IEq89">
+      <alternatives>
+       <tex-math id="M203">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\text{LNCULA~does~not~homogeneously~cause~LNFOSE}}$$\end{document}</tex-math>
+       <math id="M204">
+        <mrow>
+         <mtext>LNCULA does not homogeneously cause LNFOSE</mtext>
+        </mrow>
+       </math>
+       <inline-graphic xlink:href="10668_2021_1621_Article_IEq89.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </alternatives>
+     </inline-formula>
+    </td>
+    <td char="." align="char">4.014***</td>
+    <td char="." align="char">0.001</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">
+     <inline-formula id="IEq90">
+      <alternatives>
+       <tex-math id="M205">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\text{LNGDPPC~does~not~homogeneously~cause~LNFOSE}}$$\end{document}</tex-math>
+       <math id="M206">
+        <mrow>
+         <mtext>LNGDPPC does not homogeneously cause LNFOSE</mtext>
+        </mrow>
+       </math>
+       <inline-graphic xlink:href="10668_2021_1621_Article_IEq90.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </alternatives>
+     </inline-formula>
+    </td>
+    <td char="." align="char">3.608***</td>
+    <td char="." align="char">0.009</td>
+    <td align="left">Bidirectional causality</td>
+   </tr>
+   <tr>
+    <td align="left">
+     <inline-formula id="IEq91">
+      <alternatives>
+       <tex-math id="M207">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\text{~LNFOSE~does~not~homogeneously~cause~LNGDPPC}}$$\end{document}</tex-math>
+       <math id="M208">
+        <mrow>
+         <mspace width="0.333333em"/>
+         <mtext>LNFOSE does not homogeneously cause LNGDPPC</mtext>
+        </mrow>
+       </math>
+       <inline-graphic xlink:href="10668_2021_1621_Article_IEq91.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </alternatives>
+     </inline-formula>
+    </td>
+    <td char="." align="char">3.588***</td>
+    <td char="." align="char">0.010</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">
+     <inline-formula id="IEq92">
+      <alternatives>
+       <tex-math id="M209">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$~{\text{LNPOP~does~not~homogeneously~cause~LNFOSE}}$$\end{document}</tex-math>
+       <math id="M210">
+        <mrow>
+         <mspace width="3.33333pt"/>
+         <mrow>
+          <mtext>LNPOP does not homogeneously cause LNFOSE</mtext>
+         </mrow>
+        </mrow>
+       </math>
+       <inline-graphic xlink:href="10668_2021_1621_Article_IEq92.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </alternatives>
+     </inline-formula>
+    </td>
+    <td char="." align="char">9.118***</td>
+    <td char="." align="char">0.000</td>
+    <td align="left">Bidirectional causality</td>
+   </tr>
+   <tr>
+    <td align="left">
+     <inline-formula id="IEq93">
+      <alternatives>
+       <tex-math id="M211">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$~{\text{LNFOSE~does~not~homogeneously~cause~LNPOP}}$$\end{document}</tex-math>
+       <math id="M212">
+        <mrow>
+         <mspace width="3.33333pt"/>
+         <mrow>
+          <mtext>LNFOSE does not homogeneously cause LNPOP</mtext>
+         </mrow>
+        </mrow>
+       </math>
+       <inline-graphic xlink:href="10668_2021_1621_Article_IEq93.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </alternatives>
+     </inline-formula>
+    </td>
+    <td char="." align="char">6.648***</td>
+    <td char="." align="char">0.000</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">
+     <inline-formula id="IEq94">
+      <alternatives>
+       <tex-math id="M213">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$~{\text{LNRAIN~does~not~homogeneously~cause~LNFOSE}}$$\end{document}</tex-math>
+       <math id="M214">
+        <mrow>
+         <mspace width="3.33333pt"/>
+         <mrow>
+          <mtext>LNRAIN does not homogeneously cause LNFOSE</mtext>
+         </mrow>
+        </mrow>
+       </math>
+       <inline-graphic xlink:href="10668_2021_1621_Article_IEq94.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </alternatives>
+     </inline-formula>
+    </td>
+    <td char="." align="char">4.403***</td>
+    <td char="." align="char">0.000</td>
+    <td align="left">Unidirectional causality</td>
+   </tr>
+   <tr>
+    <td align="left">
+     <inline-formula id="IEq95">
+      <alternatives>
+       <tex-math id="M215">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$~{\text{LNFOSE~does~not~homogeneously~cause~LNRAIN}}$$\end{document}</tex-math>
+       <math id="M216">
+        <mrow>
+         <mspace width="3.33333pt"/>
+         <mrow>
+          <mtext>LNFOSE does not homogeneously cause LNRAIN</mtext>
+         </mrow>
+        </mrow>
+       </math>
+       <inline-graphic xlink:href="10668_2021_1621_Article_IEq95.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </alternatives>
+     </inline-formula>
+    </td>
+    <td char="." align="char">2.934</td>
+    <td char="." align="char">0.148</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">
+     <inline-formula id="IEq96">
+      <alternatives>
+       <tex-math id="M217">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$~{\text{LNTEMP~does~not~homogeneously~cause~LNFOSE}}$$\end{document}</tex-math>
+       <math id="M218">
+        <mrow>
+         <mspace width="3.33333pt"/>
+         <mrow>
+          <mtext>LNTEMP does not homogeneously cause LNFOSE</mtext>
+         </mrow>
+        </mrow>
+       </math>
+       <inline-graphic xlink:href="10668_2021_1621_Article_IEq96.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </alternatives>
+     </inline-formula>
+    </td>
+    <td char="." align="char">6.846***</td>
+    <td char="." align="char">0.002</td>
+    <td align="left">Bidirectional causality</td>
+   </tr>
+   <tr>
+    <td align="left">
+     <inline-formula id="IEq97">
+      <alternatives>
+       <tex-math id="M219">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\text{LNFOSE~does~not~homogeneously~cause~LNTEMP}}$$\end{document}</tex-math>
+       <math id="M220">
+        <mrow>
+         <mtext>LNFOSE does not homogeneously cause LNTEMP</mtext>
+        </mrow>
+       </math>
+       <inline-graphic xlink:href="10668_2021_1621_Article_IEq97.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </alternatives>
+     </inline-formula>
+    </td>
+    <td char="." align="char">7.330***</td>
+    <td char="." align="char">0.0000</td>
+    <td align="left"/>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>***Indicates rejection of the null hypothesis at a 1% level of significance</p>
+ </table-wrap-foot>
+</table-wrap>

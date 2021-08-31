@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R90">
+ <label>90</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Doocy</surname>
+    <given-names>S</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Dick</surname>
+    <given-names>A</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Daniels</surname>
+    <given-names>A</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>The human impact of tropical cyclones: a historical review of events 1980-2009 and systematic literature review</article-title>. 
+  <source>PLoS Curr</source>
+  <year>2013</year>;
+  <volume>5</volume>:
+  <elocation-id>ecurrents.dis.2664354a5571512063ed29d25ffbce74</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1371/currents.dis.2664354a5571512063ed29d25ffbce74</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/23857074?>
+  <pub-id pub-id-type="pmid">23857074</pub-id>
+ </mixed-citation>
+</ref>

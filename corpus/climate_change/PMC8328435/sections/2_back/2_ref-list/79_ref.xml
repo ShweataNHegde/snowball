@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ece37873-bib-0078">
+ <mixed-citation publication-type="journal" id="ece37873-cit-0078">
+  <string-name>
+   <surname>Saunders</surname>, 
+   <given-names>S. P.</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Farr</surname>, 
+   <given-names>M.</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Wright</surname>, 
+   <given-names>A.</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Bahlai</surname>, 
+   <given-names>C.</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Ribeiro</surname>, 
+   <given-names>J.</given-names>
+   <suffix>Jr</suffix>
+  </string-name>, 
+  <string-name>
+   <surname>Rossman</surname>, 
+   <given-names>S.</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Sussman</surname>, 
+   <given-names>A.</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Arnold</surname>, 
+   <given-names>T.</given-names>
+  </string-name>, &amp; 
+  <string-name>
+   <surname>Zipkin</surname>, 
+   <given-names>E.</given-names>
+  </string-name> (
+  <year>2019</year>). 
+  <article-title>Disentangling data discrepancies with integrated population models</article-title>. 
+  <source>Ecology</source>, 
+  <volume>100</volume>, 
+  <elocation-id>e02714</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1002/ecy.2714</pub-id>
+  <pub-id pub-id-type="pmid">30927256</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="ece37735-tbl-0002" content-type="TABLE">
+ <label>TABLE 2</label>
+ <caption>
+  <p>The best model chosen using AICc for each species/group and the variables for modeling</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <thead valign="top">
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="top" rowspan="1" colspan="1">
+     <italic toggle="yes">Plethodon</italic>
+    </th>
+    <th align="left" valign="top" rowspan="1" colspan="1">Variables</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">Background</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">FC</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">RM</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">AUC
+     <sub>test</sub>
+    </th>
+    <th align="left" valign="top" rowspan="1" colspan="1">AUC
+     <sub>diff</sub>
+    </th>
+    <th align="left" valign="top" rowspan="1" colspan="1">OR
+     <sub>MTP</sub>
+    </th>
+    <th align="left" valign="top" rowspan="1" colspan="1">OR
+     <sub>10</sub>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">asupak</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">bio12, bio13, bio16, bio19</td>
+    <td align="left" rowspan="1" colspan="1">jackknife</td>
+    <td align="left" rowspan="1" colspan="1">H</td>
+    <td align="char" char="." rowspan="1" colspan="1">2</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.8686</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0303</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.1667</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.3333</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">elongatus</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">bio1, bio2, bio6, bio12, bio14, bio15</td>
+    <td align="left" rowspan="1" colspan="1">checkerboard1</td>
+    <td align="left" rowspan="1" colspan="1">LQHP</td>
+    <td align="char" char="." rowspan="1" colspan="1">3</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.9962</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0007</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0074</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.1061</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">stormi</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">bio1, bio2, bio3, bio4, bio12, bio14, bio15</td>
+    <td align="left" rowspan="1" colspan="1">jackknife</td>
+    <td align="left" rowspan="1" colspan="1">LQ</td>
+    <td align="char" char="." rowspan="1" colspan="1">1</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.9991</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0007</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0159</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.1270</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">elongatus‐stormi‐asupak</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">bio1, bio2, bio6, bio14, bio15, bio17</td>
+    <td align="left" rowspan="1" colspan="1">checkerboard1</td>
+    <td align="left" rowspan="1" colspan="1">LQHP</td>
+    <td align="char" char="." rowspan="1" colspan="1">3</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.9947</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0004</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0057</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.1046</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">idahoensis</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">bio4, bio7, bio8, bio9, bio15</td>
+    <td align="left" rowspan="1" colspan="1">jackknife</td>
+    <td align="left" rowspan="1" colspan="1">LQHPT</td>
+    <td align="char" char="." rowspan="1" colspan="1">2</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.9678</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0246</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0089</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.1339</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">larselli</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">bio1, bio2, bio3, bio4, bio7, bio12, bio14, bio15</td>
+    <td align="left" rowspan="1" colspan="1">checkerboard1</td>
+    <td align="left" rowspan="1" colspan="1">LQH</td>
+    <td align="char" char="." rowspan="1" colspan="1">3</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.9960</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0018</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0714</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.1265</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">vandykei</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">bio1, bio2, bio3, bio4, bio5, bio6, bio9, bio12, bio14, bio15</td>
+    <td align="left" rowspan="1" colspan="1">checkerboard1</td>
+    <td align="left" rowspan="1" colspan="1">LQHPT</td>
+    <td align="char" char="." rowspan="1" colspan="1">3</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.9930</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0014</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0519</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.1408</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">larselli‐vandykei</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">bio1, bio2, bio3, bio4, bio5, bio6, bio12, bio14, bio15</td>
+    <td align="left" rowspan="1" colspan="1">checkerboard1</td>
+    <td align="left" rowspan="1" colspan="1">LQHPT</td>
+    <td align="char" char="." rowspan="1" colspan="1">2</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.9893</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0030</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0377</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.1467</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">larselli‐vandykei‐idahoensis</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">bio1, bio2, bio3, bio4, bio5, bio6, bio9, bio10, bio14, bio15, bio17</td>
+    <td align="left" rowspan="1" colspan="1">checkerboard1</td>
+    <td align="left" rowspan="1" colspan="1">LQHPT</td>
+    <td align="char" char="." rowspan="1" colspan="1">2</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.9803</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0038</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0032</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.1295</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">dunni</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">bio1, bio2, bio3, bio5, bio6, bio9, bio12, bio14, bio15</td>
+    <td align="left" rowspan="1" colspan="1">jackknife</td>
+    <td align="left" rowspan="1" colspan="1">LQH</td>
+    <td align="char" char="." rowspan="1" colspan="1">2</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.9871</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0051</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0034</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.1153</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">vehiculum</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">bio1, bio2, bio3, bio4, bio7, bio15</td>
+    <td align="left" rowspan="1" colspan="1">jackknife</td>
+    <td align="left" rowspan="1" colspan="1">LQHPT</td>
+    <td align="char" char="." rowspan="1" colspan="1">2</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.9804</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0080</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0015</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.1179</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">dunni‐vehiculum</italic>
+    </td>
+    <td align="left" rowspan="1" colspan="1">bio1, bio2, bio3, bio4, bio5, bio7, bio10, bio11, bio15, bio18, bio19</td>
+    <td align="left" rowspan="1" colspan="1">jackknife</td>
+    <td align="left" rowspan="1" colspan="1">LQHPT</td>
+    <td align="char" char="." rowspan="1" colspan="1">3</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.9789</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0082</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0011</td>
+    <td align="char" char="." rowspan="1" colspan="1">0.1108</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot id="ece37735-ntgp-0001">
+  <title>Note</title>
+  <fn id="ece37735-note-0001">
+   <p>RM = regularization multiplier (1, 2, or 3). FC = feature class (L, LQ, H, LQH, LQHP, LQHPT).</p>
+  </fn>
+ </table-wrap-foot>
+ <permissions>
+  <copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder>
+ </permissions>
+</table-wrap>

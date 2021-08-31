@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="cit0035">
+ <label>[35]</label>
+ <mixed-citation publication-type="book">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Jason</surname>
+    <given-names>W</given-names>
+   </string-name>
+  </person-group>. 
+  <article-title>Osborne ABCJTK. Best practices in quantitative methods</article-title>; 
+  <year>2008</year>
+  <comment>cited</comment>
+  <date-in-citation>2020 
+   <month>2</month>
+   <day>03</day>
+  </date-in-citation>. 
+  <publisher-loc>Thousand Oaks, California</publisher-loc>: 
+  <publisher-name>SAGE Publications, Inc</publisher-name>. 
+  <comment>Available from</comment>: 
+  <ext-link ext-link-type="uri" xlink:href="https://methods.sagepub.com/book/best-practices-in-quantitative-methods" xmlns:xlink="http://www.w3.org/1999/xlink">https://methods.sagepub.com/book/best-practices-in-quantitative-methods</ext-link>.
+ </mixed-citation>
+</ref>

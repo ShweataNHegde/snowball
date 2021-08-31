@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Huntley</surname>
+   <given-names>J.</given-names>
+  </name>
+  <address>
+   <email>j.huntley@griffith.edu.au</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Aubert</surname>
+   <given-names>M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Oktaviana</surname>
+   <given-names>A. A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lebe</surname>
+   <given-names>R.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hakim</surname>
+   <given-names>B.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Burhan</surname>
+   <given-names>B.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Aksa</surname>
+   <given-names>L. Muhammad</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Geria</surname>
+   <given-names>I. Made</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ramli</surname>
+   <given-names>M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Siagian</surname>
+   <given-names>L.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Brand</surname>
+   <given-names>H. E. A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Brumm</surname>
+   <given-names>A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.1022.1</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0437 5432</institution-id>
+   <institution>Griffith Centre for Social and Cultural Research, </institution>
+   <institution>PERAHU, Griffith University, </institution>
+  </institution-wrap>Gold Coast, QLD Australia 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.1022.1</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0437 5432</institution-id>
+   <institution>Australian Research Centre for Human Evolution, </institution>
+   <institution>Environmental Futures Research Institute, Griffith University, </institution>
+  </institution-wrap>Brisbane, QLD Australia 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>Pusat Penelitian Arkeologi Nasional (ARKENAS), Jakarta, Indonesia 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>Balai Pelestarian Cagar Budaya, Sulawesi Selatan, Makassar, Indonesia 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>Balai Arkeologi Sulawesi, Sulawesi Selatan, Makassar, Indonesia 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>Museum Kepresidenan Republik Indonesia, Balai Kirti, Bogor, Indonesia 
+ </aff>
+ <aff id="Aff7">
+  <label>7</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.8570.a</institution-id>
+   <institution>Universitas Gadjah Mada (Fakultas Ilmu Budaya-Magister Arkeologi), </institution>
+  </institution-wrap>Yogyakarta, Indonesia 
+ </aff>
+ <aff id="Aff8">
+  <label>8</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.248753.f</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0562 0567</institution-id>
+   <institution>Australian Synchrotron, </institution>
+  </institution-wrap>Clayton, VIC Australia 
+ </aff>
+</contrib-group>

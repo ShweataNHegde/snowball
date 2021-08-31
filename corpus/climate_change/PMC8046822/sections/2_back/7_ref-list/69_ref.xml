@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR69">
+ <label>69.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Li</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>Y</given-names>
+   </name>
+  </person-group>
+  <article-title>Applying various algorithms for species distribution modelling</article-title>
+  <source>Integr. Zool.</source>
+  <year>2013</year>
+  <volume>8</volume>
+  <fpage>124</fpage>
+  <lpage>135</lpage>
+  <pub-id pub-id-type="doi">10.1111/1749-4877.12000</pub-id>
+  <pub-id pub-id-type="pmid">23731809</pub-id>
+ </element-citation>
+</ref>

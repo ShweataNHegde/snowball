@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Maberly</surname>
+    <given-names>SC</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Global lake thermal regions shift under climate change</article-title>
+  <source>Nat. Commun.</source>
+  <year>2020</year>
+  <volume>11</volume>
+  <fpage>1232</fpage>
+  <pub-id pub-id-type="doi">10.1038/s41467-020-15108-z</pub-id>
+  <?supplied-pmid 32144247?>
+  <pub-id pub-id-type="pmid">32144247</pub-id>
+ </element-citation>
+</ref>

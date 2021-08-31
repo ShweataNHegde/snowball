@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR102">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wotten</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Terando</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Reich</surname>
+    <given-names>BJ</given-names>
+   </name>
+   <name>
+    <surname>Boyles</surname>
+    <given-names>RP</given-names>
+   </name>
+   <name>
+    <surname>Semazzi</surname>
+    <given-names>F</given-names>
+   </name>
+  </person-group>
+  <article-title>Characterizing sources of uncertainty from global climate models and downscaling techniques</article-title>
+  <source>J Appl Meteorol Climatol</source>
+  <year>2017</year>
+  <volume>56</volume>
+  <fpage>3245</fpage>
+  <lpage>3262</lpage>
+  <pub-id pub-id-type="doi">10.1175/JAMC-D-17-0087.1</pub-id>
+ </element-citation>
+</ref>

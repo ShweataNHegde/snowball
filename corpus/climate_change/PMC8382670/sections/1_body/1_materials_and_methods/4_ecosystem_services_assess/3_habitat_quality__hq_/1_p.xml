@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par19">HQ refers to the ability of an ecosystem to provide a suitable environment for individual and population persistence (Hall et al. 
+ <xref ref-type="bibr" rid="CR29">1997</xref>). It is considered as a robust proxy to indicate the effectiveness and efficiency of the biodiversity conservation status (Maes et al. 
+ <xref ref-type="bibr" rid="CR57">2012</xref>; Moreira et al. 
+ <xref ref-type="bibr" rid="CR64">2018</xref>). Habitat quality module in the integrated valuation of ecosystem services and trade-offs (InVEST) model version 3.8.4 was applied to evaluate HQ by combining land cover data and multiple threat factors (Sharp et al. 
+ <xref ref-type="bibr" rid="CR85">2015</xref>). The model’s input requirements included land use and land cover data, threat factors, habitat types, and their sensitivities to each treat factor (Table S1). We set urban, cropland, and crop/natural vegetation mosaics as threat factors and the decay laws of these threat factors are linear. Relevant parameters referred to the Tibetan Plateau research of Hou et al. (
+ <xref ref-type="bibr" rid="CR35">2020</xref>) and were slightly adjusted according to the classification system of MCD12Q1 (see Table S1 for details). For instance, according to the classification system of MCD12Q1, there are some mixed land cover types, such as crop/natural vegetation mosaics and mixed forests. Therefore, we set habitat suitability index and other parameters following the composition of the mixed land cover types and parameters of individual land types.
+</p>

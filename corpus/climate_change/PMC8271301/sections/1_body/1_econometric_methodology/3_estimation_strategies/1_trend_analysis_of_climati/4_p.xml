@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par14">Unlike the Mann–Kendall test, we used Sen’s slope estimator (Sen, 
+ <xref ref-type="bibr" rid="CR72">1968</xref>) to compute the exact slope of a prevailing trend as it changes over time. Sen’s slope estimator applies a simple nonparametric technique to a linear model 
+ <inline-formula id="IEq24">
+  <alternatives>
+   <tex-math id="M59">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$g\left( t \right)$$\end{document}</tex-math>
+   <math id="M60">
+    <mrow>
+     <mi>g</mi>
+     <mfenced close=")" open="(">
+      <mi>t</mi>
+     </mfenced>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq24.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, which is specified as:
+ <disp-formula id="Equ7">
+  <label>7</label>
+  <alternatives>
+   <tex-math id="M61">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$g\left( t \right) = Q_{t} + b$$\end{document}</tex-math>
+   <math id="M62" display="block">
+    <mrow>
+     <mi>g</mi>
+     <mfenced close=")" open="(">
+      <mi>t</mi>
+     </mfenced>
+     <mo>=</mo>
+     <msub>
+      <mi>Q</mi>
+      <mi>t</mi>
+     </msub>
+     <mo>+</mo>
+     <mi>b</mi>
+    </mrow>
+   </math>
+   <graphic xlink:href="10668_2021_1621_Article_Equ7.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+ <inline-formula id="IEq25">
+  <alternatives>
+   <tex-math id="M63">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\text{where}}~\;t$$\end{document}</tex-math>
+   <math id="M64">
+    <mrow>
+     <mtext>where</mtext>
+     <mspace width="3.33333pt"/>
+     <mspace width="0.277778em"/>
+     <mi>t</mi>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq25.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> indicates time, 
+ <inline-formula id="IEq26">
+  <alternatives>
+   <tex-math id="M65">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$b~$$\end{document}</tex-math>
+   <math id="M66">
+    <mrow>
+     <mi>b</mi>
+     <mspace width="3.33333pt"/>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq26.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> is a constant, and 
+ <inline-formula id="IEq27">
+  <alternatives>
+   <tex-math id="M67">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$Q$$\end{document}</tex-math>
+   <math id="M68">
+    <mi>Q</mi>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq27.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> represents the slope. The slope 
+ <inline-formula id="IEq28">
+  <alternatives>
+   <tex-math id="M69">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\left( {Q_{i} } \right)$$\end{document}</tex-math>
+   <math id="M70">
+    <mfenced close=")" open="(">
+     <msub>
+      <mi>Q</mi>
+      <mi>i</mi>
+     </msub>
+    </mfenced>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq28.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> of the trend in the sample of 
+ <italic>N</italic> data pairs is calculated to deduce the magnitude of the direction as follows:
+ <disp-formula id="Equ8">
+  <label>8</label>
+  <alternatives>
+   <tex-math id="M71">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$Q_{i} = \frac{{C_{j} - C_{k} }}{{j - k}}\;{\text{for}}~i = 1,2,3 \ldots \ldots N,~{\text{and}}~j &gt; k.~$$\end{document}</tex-math>
+   <math id="M72" display="block">
+    <mrow>
+     <msub>
+      <mi>Q</mi>
+      <mi>i</mi>
+     </msub>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mi>C</mi>
+        <mi>j</mi>
+       </msub>
+       <mo>-</mo>
+       <msub>
+        <mi>C</mi>
+        <mi>k</mi>
+       </msub>
+      </mrow>
+      <mrow>
+       <mi>j</mi>
+       <mo>-</mo>
+       <mi>k</mi>
+      </mrow>
+     </mfrac>
+     <mspace width="0.277778em"/>
+     <mtext>for</mtext>
+     <mspace width="3.33333pt"/>
+     <mi>i</mi>
+     <mo>=</mo>
+     <mn>1</mn>
+     <mo>,</mo>
+     <mn>2</mn>
+     <mo>,</mo>
+     <mn>3</mn>
+     <mo>…</mo>
+     <mo>…</mo>
+     <mi>N</mi>
+     <mo>,</mo>
+     <mspace width="3.33333pt"/>
+     <mtext>and</mtext>
+     <mspace width="3.33333pt"/>
+     <mi>j</mi>
+     <mo>&gt;</mo>
+     <mi>k</mi>
+     <mo>.</mo>
+     <mspace width="3.33333pt"/>
+    </mrow>
+   </math>
+   <graphic xlink:href="10668_2021_1621_Article_Equ8.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>where 
+ <inline-formula id="IEq29">
+  <alternatives>
+   <tex-math id="M73">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$C_{j}$$\end{document}</tex-math>
+   <math id="M74">
+    <msub>
+     <mi>C</mi>
+     <mi>j</mi>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq29.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> and 
+ <inline-formula id="IEq30">
+  <alternatives>
+   <tex-math id="M75">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$C_{k}$$\end{document}</tex-math>
+   <math id="M76">
+    <msub>
+     <mi>C</mi>
+     <mi>k</mi>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq30.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> are the data values at time 
+ <inline-formula id="IEq31">
+  <alternatives>
+   <tex-math id="M77">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$j~{\text{and}}~k$$\end{document}</tex-math>
+   <math id="M78">
+    <mrow>
+     <mi>j</mi>
+     <mspace width="3.33333pt"/>
+     <mtext>and</mtext>
+     <mspace width="3.33333pt"/>
+     <mi>k</mi>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq31.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, respectively. The 
+ <inline-formula id="IEq32">
+  <alternatives>
+   <tex-math id="M79">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$N$$\end{document}</tex-math>
+   <math id="M80">
+    <mi>N</mi>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq32.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> values of 
+ <inline-formula id="IEq33">
+  <alternatives>
+   <tex-math id="M81">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$Q_{i}$$\end{document}</tex-math>
+   <math id="M82">
+    <msub>
+     <mi>Q</mi>
+     <mi>i</mi>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="10668_2021_1621_Article_IEq33.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> are rated from the lowest to the highest, and Sen’s slope estimator is calculated as:
+ <disp-formula id="Equ9">
+  <label>9</label>
+  <alternatives>
+   <tex-math id="M83">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$Q_{{{\text{med}}}} = \left\{ {\begin{array}{*{20}l} {T_{{[\left( {N + 1} \right)/2]}} ,} \hfill &amp; {{\text{if}}~N~{\text{is~odd}}} \hfill \\ {\frac{1}{2}(T_{{[N/2]}} + T_{{[\left( {N + 2} \right)/2]}} ),} \hfill &amp; {{\text{if}}~N~{\text{is~even}}} \hfill \\ \end{array} } \right.$$\end{document}</tex-math>
+   <math id="M84" display="block">
+    <mrow>
+     <msub>
+      <mi>Q</mi>
+      <mtext>med</mtext>
+     </msub>
+     <mo>=</mo>
+     <mfenced open="{">
+      <mrow>
+       <mtable>
+        <mtr>
+         <mtd columnalign="left">
+          <mrow>
+           <msub>
+            <mi>T</mi>
+            <mrow>
+             <mo stretchy="false">[</mo>
+             <mfenced close=")" open="(">
+              <mrow>
+               <mi>N</mi>
+               <mo>+</mo>
+               <mn>1</mn>
+              </mrow>
+             </mfenced>
+             <mo stretchy="false">/</mo>
+             <mn>2</mn>
+             <mo stretchy="false">]</mo>
+            </mrow>
+           </msub>
+           <mo>,</mo>
+          </mrow>
+         </mtd>
+         <mtd>
+          <mrow>
+           <mtext>if</mtext>
+           <mspace width="3.33333pt"/>
+           <mi>N</mi>
+           <mspace width="3.33333pt"/>
+           <mrow>
+            <mtext>is odd</mtext>
+           </mrow>
+          </mrow>
+         </mtd>
+        </mtr>
+        <mtr>
+         <mtd columnalign="left">
+          <mrow>
+           <mrow/>
+           <mrow>
+            <mfrac>
+             <mn>1</mn>
+             <mn>2</mn>
+            </mfrac>
+            <mrow>
+             <mo stretchy="false">(</mo>
+             <msub>
+              <mi>T</mi>
+              <mrow>
+               <mo stretchy="false">[</mo>
+               <mi>N</mi>
+               <mo stretchy="false">/</mo>
+               <mn>2</mn>
+               <mo stretchy="false">]</mo>
+              </mrow>
+             </msub>
+             <mo>+</mo>
+             <msub>
+              <mi>T</mi>
+              <mrow>
+               <mo stretchy="false">[</mo>
+               <mfenced close=")" open="(">
+                <mrow>
+                 <mi>N</mi>
+                 <mo>+</mo>
+                 <mn>2</mn>
+                </mrow>
+               </mfenced>
+               <mo stretchy="false">/</mo>
+               <mn>2</mn>
+               <mo stretchy="false">]</mo>
+              </mrow>
+             </msub>
+             <mo stretchy="false">)</mo>
+            </mrow>
+            <mo>,</mo>
+           </mrow>
+          </mrow>
+         </mtd>
+         <mtd>
+          <mrow>
+           <mtext>if</mtext>
+           <mspace width="3.33333pt"/>
+           <mi>N</mi>
+           <mspace width="3.33333pt"/>
+           <mrow>
+            <mtext>is even</mtext>
+           </mrow>
+          </mrow>
+         </mtd>
+        </mtr>
+       </mtable>
+      </mrow>
+     </mfenced>
+    </mrow>
+   </math>
+   <graphic xlink:href="10668_2021_1621_Article_Equ9.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+</p>

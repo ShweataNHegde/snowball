@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R102">
+ <label>102</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Fernandez</surname>
+    <given-names>A</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Black</surname>
+    <given-names>J</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Jones</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Flooding and mental health: a systematic mapping review</article-title>. 
+  <source>PLoS One</source>
+  <year>2015</year>;
+  <volume>10</volume>:
+  <elocation-id>e0119929</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0119929</pub-id>
+  <pub-id pub-id-type="pmid">25860572</pub-id>
+ </mixed-citation>
+</ref>

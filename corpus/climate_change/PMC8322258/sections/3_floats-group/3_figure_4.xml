@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig4">
+ <label>Figure 4</label>
+ <caption>
+  <p>Comparison between distributions of yield anomaly in the form of ECDFs (top) and boxplots (bottom) for the 7 CORDEX-Evaluation models, the multi-model ensemble yield mean, and the observed values. Boxes range from the 25th to the 75th percentiles with the median depicted inside the box; whiskers represent the 1st and 99th percentiles.</p>
+ </caption>
+ <graphic xlink:href="41598_2021_95014_Fig4_HTML" id="MO4" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

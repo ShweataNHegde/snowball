@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par40">The SVM is a universal machine learning method for cogent prediction based on structural risk minimization and statistical learning theory
+ <sup>
+  <xref ref-type="bibr" rid="CR71">71</xref>
+ </sup>. The SVM algorithm maps the original data into a high dimensional feature space where a hyperplane is constructed from training data and uses a kernel function to transform the data into a SVM. Samples located in the boundaries (support vectors) are identified and used to compute an optimal decision boundary
+ <sup>
+  <xref ref-type="bibr" rid="CR72">72</xref>
+ </sup>. The optimal linear hyperplane is used in order to separate the original input space
+ <sup>
+  <xref ref-type="bibr" rid="CR71">71</xref>
+ </sup>.
+</p>

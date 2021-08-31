@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Summary of images distribution (share) according to relevance and valence ratings.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="center" colspan="3" style="border-bottom: thin solid #000000;" rowspan="1">
+     <bold>Valence levels</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Total</bold>
+    </th>
+   </tr>
+   <tr>
+    <th rowspan="1" colspan="1"/>
+    <th rowspan="1" colspan="1"/>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Negative (&lt;4)</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Neutral (4–6)</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Positive (&gt;6)</bold>
+    </th>
+    <th rowspan="1" colspan="1"/>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Relevance levels</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Low (&lt;4)</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">–</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">5 (2.49 %)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1 (0.5%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">6 (2.98%)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Medium (4–6)</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">10 (4.98 %)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">32 (15.92%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">12 (5.97%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">54 (26.87%)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">
+     <bold>High (&gt;6)</bold>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">106 (52.73 %)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">28 (13.93%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">7 (3.48%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">141 (70.15%)</td>
+   </tr>
+   <tr style="border-top: thin solid #000000;">
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Total</bold>
+    </td>
+    <td rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">116 (57.71 %)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">65 (32.34%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">20 (9.95%)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">201 (100%)</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

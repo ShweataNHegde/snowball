@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We estimated survival and breeding propensity using capture‐mark‐recapture data from female spectacled eiders banded as ducklings or breeders (2 years or older). During the breeding season between 1992 and 2014, 591 female ducklings (73 recaptures total, 19 recaptured as 2‐year‐old breeders) and 661 adult females (1,335 recaptures) were banded. We used the multistate formulation of the Cormack‐Jolly‐Seber model with unobservable states (Arnason, 
+ <xref rid="ece37873-bib-0002" ref-type="bibr">1972</xref>; Kendall &amp; Nichols, 
+ <xref rid="ece37873-bib-0047" ref-type="bibr">2002</xref>; Lebreton et al., 
+ <xref rid="ece37873-bib-0054" ref-type="bibr">1992</xref>). To decrease computation time and increase efficiency, we converted capture histories into an m‐array and used the multinomial likelihood formulation of the model (Kéry &amp; Schaub, 
+ <xref rid="ece37873-bib-0048" ref-type="bibr">2012</xref>).
+</p>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par9">We consider 
+ <italic>S</italic> species distributed in 
+ <italic>L</italic> distinct habitat patches. The patches form a linear latitudinal chain going around the globe, with dispersal between adjacent patches (Fig. 
+ <xref rid="Fig1" ref-type="fig">1</xref>). The state variables are species’ local densities and local temperature optima (the temperature at which species achieve maximum intrinsic population growth). This temperature optimum is a trait whose evolution is governed by quantitative genetics
+ <sup>
+  <xref ref-type="bibr" rid="CR18">18</xref>–
+  <xref ref-type="bibr" rid="CR22">22</xref>
+ </sup>: each species, in every patch, has a normally distributed temperature optimum with a given mean and variance. The variance is the sum of a genetic and an environmental contribution. The genetic component is given via the infinitesimal model
+ <sup>
+  <xref ref-type="bibr" rid="CR23">23</xref>,
+  <xref ref-type="bibr" rid="CR24">24</xref>
+ </sup>, whereby a very large number of loci each contribute a small additive effect to the trait. This has two consequences. First, a single round of random mating restores the normal shape of the trait distribution, even if it is distorted by selection or migration. Second, the phenotypic variance is unchanged by these processes, with only the mean being affected
+ <sup>
+  <xref ref-type="bibr" rid="CR25">25</xref>
+ </sup> (we apply a reduction in genetic variance at very low population densities to prevent such species from evolving rapidly; see the Supplementary Information [SI], Section 
+ <xref rid="MOESM1" ref-type="media">3.4</xref>). Consequently, despite selection and the mixing of phenotypes from neighboring patches, each species retains a normally-shaped phenotypic distribution with the same phenotypic variance across all patches—but the mean temperature optimum may evolve locally and can therefore differ across patches (Fig. 
+ <xref rid="Fig1" ref-type="fig">1</xref>).
+</p>

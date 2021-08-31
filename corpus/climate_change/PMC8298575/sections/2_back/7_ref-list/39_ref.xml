@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR39">
+ <label>39.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lapointe</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Annually resolved Atlantic sea surface temperature variability over the past 2,900 y</article-title>
+  <source>Proc. Natl Acad. Sci. USA</source>
+  <year>2020</year>
+  <volume>117</volume>
+  <fpage>27171</fpage>
+  <lpage>27178</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.2014166117</pub-id>
+  <?supplied-pmid 33046633?>
+  <pub-id pub-id-type="pmid">33046633</pub-id>
+ </element-citation>
+</ref>

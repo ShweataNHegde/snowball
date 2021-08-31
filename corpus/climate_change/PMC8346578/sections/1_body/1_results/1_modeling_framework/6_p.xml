@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par14">The combination of high and low genetic variance and dispersal rates, and four model setups, gives a total of 2 × 2 × 4 = 16 scenarios. For each of them, some parameters (competition coefficients, tradeoff parameters, genetic variances, dispersal rates, consumer attack rates, and handling times; SI, Section 
+ <xref rid="MOESM1" ref-type="media">6</xref>) were randomly drawn from pre-specified distributions. We, therefore, obtained 100 replicates for each of these 16 scenarios. While replicates differed in the precise identity of the species which survived or went extinct, they varied little in the overall patterns they produced.
+</p>

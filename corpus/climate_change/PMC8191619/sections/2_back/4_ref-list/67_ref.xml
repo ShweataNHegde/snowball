@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R67">
+ <label>67</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Ghazani</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>FitzGerald</surname>
+    <given-names>G</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Hu</surname>
+    <given-names>W</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Temperature variability and gastrointestinal infections: a review of impacts and future perspectives</article-title>. 
+  <source>Int J Environ Res Public Health</source>
+  <year>2018</year>;
+  <volume>15</volume>:
+  <elocation-id>766</elocation-id>. 
+  <pub-id pub-id-type="doi">10.3390/ijerph15040766</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/29659519?>
+ </mixed-citation>
+</ref>

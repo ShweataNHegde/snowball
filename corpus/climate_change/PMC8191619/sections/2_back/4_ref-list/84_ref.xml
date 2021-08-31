@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R84">
+ <label>84</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Salve</surname>
+    <given-names>HR</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Parthasarathy</surname>
+    <given-names>R</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Krishnan</surname>
+    <given-names>A</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Impact of ambient air temperature on human health in India</article-title>. 
+  <source>Rev Environ Health</source>
+  <year>2018</year>;
+  <volume>33</volume>:
+  <fpage>433</fpage>–
+  <lpage>9</lpage>. 
+  <pub-id pub-id-type="doi">10.1515/reveh-2018-0024</pub-id>
+  <pub-id pub-id-type="pmid">30256763</pub-id>
+ </mixed-citation>
+</ref>

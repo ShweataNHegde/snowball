@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B25">
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Garud</surname>
+    <given-names>N. R.</given-names>
+   </name>
+   <name>
+    <surname>Messer</surname>
+    <given-names>P. W.</given-names>
+   </name>
+   <name>
+    <surname>Petrov</surname>
+    <given-names>D. A.</given-names>
+   </name>
+  </person-group> (
+  <year>2021</year>). 
+  <article-title>Detection of hard and soft selective sweeps from 
+   <italic>Drosophila melanogaster</italic> population genomic data.
+  </article-title>
+  <source>
+   <italic>PLoS Genet.</italic>
+  </source>
+  <volume>17</volume>:
+  <issue>e1009373</issue>. 
+  <pub-id pub-id-type="doi">10.1371/journal.pgen.1009373</pub-id>
+  <?supplied-pmid 33635910?>
+  <pub-id pub-id-type="pmid">33635910</pub-id>
+ </mixed-citation>
+</ref>

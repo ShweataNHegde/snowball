@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR43">
+ <label>43.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Giarno</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Hadi</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Suprayogi</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Murti</surname>
+    <given-names>SH</given-names>
+   </name>
+  </person-group>
+  <article-title>Daily quantitative precipitation estimates use weather radar reflectivity in South Sulawesi</article-title>
+  <source>IOP Conf. Ser. Earth Environ. Sci.</source>
+  <year>2019</year>
+  <volume>256</volume>
+  <issue>1</issue>
+  <fpage>012042</fpage>
+  <pub-id pub-id-type="doi">10.1088/1755-1315/256/1/012042</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par23">This work introduced a modeling framework combining dispersal, evolutionary dynamics, and ecological interactions in a way that is tractable, easy to implement, fast to execute on a computer, and can handle ecological interactions of realistic complexity without simultaneously breaking other aspects of the approach. Individual-based models
+ <sup>
+  <xref ref-type="bibr" rid="CR6">6</xref>
+ </sup>, for instance, do in principle allow one to include arbitrary levels of complexity, but tend to be computationally expensive. Other models yield detailed projections of individual species and their genetic structure but ignore species interactions altogether
+ <sup>
+  <xref ref-type="bibr" rid="CR36">36</xref>
+ </sup>. An intermediate approach is based on quantitative genetics, which takes species interactions into account and yields a description of species’ genetic structure that is sufficiently simplified to be tractable. Earlier models in this spirit
+ <sup>
+  <xref ref-type="bibr" rid="CR7">7</xref>,
+  <xref ref-type="bibr" rid="CR13">13</xref>,
+  <xref ref-type="bibr" rid="CR37">37</xref>
+ </sup> were built on coupled partial differential equations. While the theory behind such models is highly elegant, coupled nonlinear partial differential equations are notoriously difficult to implement in a way that is numerically stable, yields accurate results, and does not require unacceptably long run-times—notably, naive discretization schemes often do not work well. Unfortunately, despite persistent warnings about these problems
+ <sup>
+  <xref ref-type="bibr" rid="CR38">38</xref>
+ </sup>, such naive solution schemes still prevail in the literature.
+</p>

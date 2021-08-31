@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par46">Six GCMs were used for projected climatic conditions. These were Beijing Climate Centre China Meteorological Administration (China, BCC-CSM2-MR), Centre National de Recherché Meteorologiques (France, CNRM-ESM2-1), Canadian Centre for Climate Modelling and Analysis (Canada, CanESM5), Institut Pierre Simon Laplace (France, IPSL-CM6A-LR), and Center for Climate System Research (Japan, MIROC6) and Meteorological Research Institute (Japan MRI-ESM2-0). These GCMS were selected because they have complete bias-corrected data for all the periods that were under consideration (2030s, 2050s, 2070s and 2090s).The bias correction was performed through delta downscaling method following Navaro
+ <sup>
+  <xref ref-type="bibr" rid="CR80">80</xref>
+ </sup>. In this approach, a change factor or ‘delta’ is derived from the GCM, and then added onto the observations to provide a bias-corrected and high-resolution representation of the mean climates. GCM-based model uncertainty was calculated by determining the number of models agreeing in the prediction of the direction of the climate change trend.
+</p>

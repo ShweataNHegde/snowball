@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Bento</surname>
+   <given-names>Virgílio A.</given-names>
+  </name>
+  <address>
+   <email>vabento@fc.ul.pt</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ribeiro</surname>
+   <given-names>Andreia F. S.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Russo</surname>
+   <given-names>Ana</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gouveia</surname>
+   <given-names>Célia M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Cardoso</surname>
+   <given-names>Rita M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Soares</surname>
+   <given-names>Pedro M. M.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.9983.b</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2181 4263</institution-id>
+   <institution>Instituto Dom Luiz, </institution>
+   <institution>Faculdade de Ciências da Universidade de Lisboa, </institution>
+  </institution-wrap>1749-016 Lisbon, Portugal 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.5801.c</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2156 2780</institution-id>
+   <institution>Institute for Atmospheric and Climate Science, </institution>
+   <institution>ETH Zurich, </institution>
+  </institution-wrap>Universitätstrasse 16, 8092 Zurich, Switzerland 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.420904.b</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0382 0653</institution-id>
+   <institution>Instituto Português do Mar e da Atmosfera, I.P., </institution>
+  </institution-wrap>1749-077 Rua C do AeroportoLisbon, Portugal 
+ </aff>
+</contrib-group>

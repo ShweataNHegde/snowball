@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We were interested in understanding how much variation in the demographic rates could be explained by the climatic variables that we considered. We fit a temporal variation model and an environmental conditions model (described above) and included terms for residual variance for each time‐varying demographic parameter. This allowed us to compare the total temporal variance to the residual variance once covariates were included. The amount of temporal variance explained by the covariates was calculated as 
+ <italic toggle="yes">V</italic> = (
+ <italic toggle="yes">σ</italic>
+ <sup>2</sup>
+ <sub>total</sub> – 
+ <italic toggle="yes">σ</italic>
+ <sup>2</sup>) / 
+ <italic toggle="yes">σ</italic>
+ <sup>2</sup>
+ <sub>total</sub> where 
+ <italic toggle="yes">V</italic> is the proportion of temporal variance explained by including the climate variables, 
+ <italic toggle="yes">σ</italic>
+ <sup>2</sup>
+ <sub>total</sub> is the total residual variance for each demographic parameter estimated by the temporal variation model, and 
+ <italic toggle="yes">σ</italic>
+ <sup>2</sup> is the residual variance for each demographic parameter estimated by the environmental conditions model (Kéry &amp; Schaub, 
+ <xref rid="ece37873-bib-0048" ref-type="bibr">2012</xref>).
+</p>

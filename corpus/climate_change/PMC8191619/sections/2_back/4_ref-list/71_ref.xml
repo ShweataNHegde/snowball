@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R71">
+ <label>71</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Philipsborn</surname>
+    <given-names>R</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Ahmed</surname>
+    <given-names>SM</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Brosi</surname>
+    <given-names>BJ</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Climatic drivers of diarrheagenic Escherichia coli incidence: a systematic review and meta-analysis</article-title>. 
+  <source>J Infect Dis</source>
+  <year>2016</year>;
+  <volume>214</volume>:
+  <fpage>6</fpage>–
+  <lpage>15</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/infdis/jiw081</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/26931446?>
+  <pub-id pub-id-type="pmid">26931446</pub-id>
+ </mixed-citation>
+</ref>

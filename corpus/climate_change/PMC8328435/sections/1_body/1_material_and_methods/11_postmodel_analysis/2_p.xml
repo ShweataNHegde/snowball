@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We derived annual population growth rate for both the total female abundance (
+ <italic toggle="yes">N</italic>
+ <sub>tot</sub>) and the breeding population (
+ <italic toggle="yes">N</italic>
+ <sub>bpop</sub>) by dividing the abundance in t + 1 by the abundance in t:
+ <disp-formula id="ece37873-disp-0004">
+  <math id="jats-math-16" display="block">
+   <mrow>
+    <msub>
+     <mi>λ</mi>
+     <mi>t</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+     <mrow>
+      <msub>
+       <mi>N</mi>
+       <mrow>
+        <mi>t</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+       </mrow>
+      </msub>
+      <mo stretchy="false">)</mo>
+     </mrow>
+     <msub>
+      <mi>N</mi>
+      <mi>t</mi>
+     </msub>
+    </mfrac>
+   </mrow>
+  </math>
+ </disp-formula>
+</p>

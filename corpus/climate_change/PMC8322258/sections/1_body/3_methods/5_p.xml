@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par36">With the aim of predicting wheat and barley production, a stepwise regression is then applied to select sets of statistically significant predictors for linear regression models (the pool of potential predictors consists of monthly TX, TN, and PR from October to June). A total of 28 regression models are developed, representing the seven CORDEX-Evaluation RCMs, two geographic clusters, and two cereals. Overfitting is precluded by using a leave-one-out cross validation scheme
+ <sup>
+  <xref ref-type="bibr" rid="CR33">33</xref>
+ </sup>. The fitting procedure is repeated by sequentially leaving one observation and the respective predictor(s) out of the training data, and then applying the resulting regression model to the left-out validation data. This approach is repeated by the number of observations that comprise the time-series (19 in this case, representing a given month spanning the 19 years that compose the evaluated period of ERA-Interim forced CORDEX RCMs). The predicted and observed wheat and barley yields with and without cross-validation are subsequently compared using the following metrics: (i) Pearson's linear correlation coefficient R, (ii) the 
+ <inline-formula id="IEq3">
+  <alternatives>
+   <tex-math id="M7">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\mathrm{R}}^{2}$$\end{document}</tex-math>
+   <math id="M8">
+    <msup>
+     <mrow>
+      <mi mathvariant="normal">R</mi>
+     </mrow>
+     <mn>2</mn>
+    </msup>
+   </math>
+   <inline-graphic xlink:href="41598_2021_95014_Article_IEq3.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> adjusted to the number of predictors in the regression model 
+ <inline-formula id="IEq4">
+  <alternatives>
+   <tex-math id="M9">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\mathrm{R}}_{\mathrm{adj}}^{2}$$\end{document}</tex-math>
+   <math id="M10">
+    <msubsup>
+     <mi mathvariant="normal">R</mi>
+     <mrow>
+      <mi mathvariant="normal">adj</mi>
+     </mrow>
+     <mn>2</mn>
+    </msubsup>
+   </math>
+   <inline-graphic xlink:href="41598_2021_95014_Article_IEq4.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, (iii) the bias, and (iv) the Mean Absolute Error (MAE). Distributions of predicted and observed wheat and barley yields are displayed as Empirical Cumulative Distribution Functions (ECDFs) and box plots. A two sample Kolmogorov–Smirnov test is used to test the null hypothesis that predicted and observed yields come from the same distribution, at 5% significance level.
+</p>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B14">
+ <label>14.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pope</surname>
+    <given-names>CA</given-names>
+    <suffix>III</suffix>
+   </name>
+   <name>
+    <surname>Coleman</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Pond</surname>
+    <given-names>ZA</given-names>
+   </name>
+   <name>
+    <surname>Burnett</surname>
+    <given-names>RT</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Fine particulate air pollution and human mortality: 25+ years of cohort studies</article-title>. 
+  <source>Environ Res.</source> (
+  <year>2020</year>) 
+  <volume>183</volume>:
+  <fpage>108924</fpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.envres.2019.108924</pub-id>
+  <?supplied-pmid 33181974?>
+  <pub-id pub-id-type="pmid">31831155</pub-id>
+ </mixed-citation>
+</ref>

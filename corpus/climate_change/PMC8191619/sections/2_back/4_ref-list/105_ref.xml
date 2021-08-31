@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R105">
+ <label>105</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Kuehn</surname>
+    <given-names>L</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>McCormick</surname>
+    <given-names>S</given-names>
+   </string-name>
+  </person-group>. 
+  <article-title>Heat exposure and maternal health in the face of climate change</article-title>. 
+  <source>Int J Environ Res Public Health</source>
+  <year>2017</year>;
+  <volume>14</volume>:
+  <elocation-id>29</elocation-id>. 
+  <pub-id pub-id-type="doi">10.3390/ijerph14080853</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/28758917?>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R51">
+ <label>51</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Fan</surname>
+    <given-names>J</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Wei</surname>
+    <given-names>W</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Bai</surname>
+    <given-names>Z</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>A systematic review and meta-analysis of dengue risk with temperature change</article-title>. 
+  <source>Int J Environ Res Public Health</source>
+  <year>2015</year>;
+  <volume>12</volume>:
+  <fpage>1</fpage>–
+  <lpage>15</lpage>. 
+  <pub-id pub-id-type="doi">10.3390/ijerph120100001</pub-id>
+ </mixed-citation>
+</ref>

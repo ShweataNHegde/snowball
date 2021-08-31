@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par22">We conducted random forests analysis to identify the climatic and lake morphological drivers of the mean stratification onset and break-up dates during the historic period. The randomForest function in R
+ <sup>
+  <xref ref-type="bibr" rid="CR50">50</xref>,
+  <xref ref-type="bibr" rid="CR51">51</xref>
+ </sup> was used for this analysis. Random forests are based on an ensemble of decision trees
+ <sup>
+  <xref ref-type="bibr" rid="CR52">52</xref>
+ </sup>. We generated 1000 trees from which we calculated variable importance to generally identify how often a predictor variable was the most important predictor in a single decision tree. We used the mean decrease in accuracy, describing the prediction error calculated by the mean squared error on the out-of-bag portion of the data
+ <sup>
+  <xref ref-type="bibr" rid="CR50">50</xref>
+ </sup>. Spearman’s correlations were subsequently calculated to assess the relationships between all variables using the correlate function in R
+ <sup>
+  <xref ref-type="bibr" rid="CR53">53</xref>
+ </sup>.
+</p>

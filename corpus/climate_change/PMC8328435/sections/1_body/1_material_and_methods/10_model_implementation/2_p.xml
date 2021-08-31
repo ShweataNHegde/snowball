@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We fit both the temporal variation model and the model including environmental covariates using Markov Chain Monte Carlo (MCMC) simulations in a hierarchical Bayesian framework using JAGS (Plummer, 
+ <xref rid="ece37873-bib-0071" ref-type="bibr">2003</xref>) software (package “jagsUI”, Kellner, 
+ <xref rid="ece37873-bib-0046" ref-type="bibr">2016</xref>) in R (Versions 4.0.1, R Core Team, 
+ <xref rid="ece37873-bib-0073" ref-type="bibr">2020</xref>). We used 3 chains, each with 900,000 iterations, including an 800,000‐burn in. We thinned by 25, yielding 12,000 posterior samples for each parameter. We assessed convergence of each model based on the Gelman and Rubin statistic (R‐hat between 1 and 1.05) for all parameters. Additionally, trace plots were used to visually confirm adequate convergence of the 3 chains.
+</p>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR46">
+ <label>46.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Paredes</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>de Melo-Abreu</surname>
+    <given-names>JP</given-names>
+   </name>
+   <name>
+    <surname>Alves</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Pereira</surname>
+    <given-names>LS</given-names>
+   </name>
+  </person-group>
+  <article-title>Assessing the performance of the FAO AquaCrop model to estimate maize yields and water use under full and deficit irrigation with focus on model parameterization</article-title>
+  <source>Agric. Water Manag.</source>
+  <year>2014</year>
+  <volume>144</volume>
+  <fpage>81</fpage>
+  <lpage>97</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.agwat.2014.06.002</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>where σ
+ <sub>y</sub> is the estimated annual observation error from the aerial surveys and was provided as data. In 2011, aerial surveys were not flown on the YKD, and therefore, there were no observations for that year. We calculated annual changes in abundance (λ
+ <sub>t</sub> = 
+ <italic toggle="yes">N</italic>
+ <sub>t+1</sub>/
+ <italic toggle="yes">N</italic>
+ <sub>t</sub>) and geometric average population growth as derived parameters for the time series. We used weakly informative priors to inform the initial population state with a discrete uniform distribution (Table 
+ <xref rid="ece37873-tbl-0001" ref-type="table">1</xref>). The complete likelihood for the population count data was 
+ <italic toggle="yes">L</italic>
+ <sub>ss</sub> (
+ <italic toggle="yes">y</italic>, σ
+ <sup>2</sup>
+ <sub>y</sub> | 
+ <italic toggle="yes">ϕ</italic>
+ <sub>a</sub>, α, 
+ <italic toggle="yes">N</italic>, 
+ <italic toggle="yes">f</italic>).
+</p>

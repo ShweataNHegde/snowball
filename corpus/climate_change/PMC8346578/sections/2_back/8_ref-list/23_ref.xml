@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Barton</surname>
+    <given-names>NH</given-names>
+   </name>
+   <name>
+    <surname>Etheridge</surname>
+    <given-names>AM</given-names>
+   </name>
+   <name>
+    <surname>Véber</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>The infinitesimal model: definition, derivation, and implications</article-title>
+  <source>Theor. Popul. Biol.</source>
+  <year>2017</year>
+  <volume>118</volume>
+  <fpage>50</fpage>
+  <lpage>73</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.tpb.2017.06.001</pub-id>
+  <?supplied-pmid 28709925?>
+  <pub-id pub-id-type="pmid">28709925</pub-id>
+ </element-citation>
+</ref>

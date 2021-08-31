@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au0005">
+  <name>
+   <surname>Kadiyala</surname>
+   <given-names>M.D.M.</given-names>
+  </name>
+  <email>dakshu2k@gmail.com</email>
+  <xref rid="af0005" ref-type="aff">a</xref>
+  <xref rid="cr0005" ref-type="corresp">⁎</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0010">
+  <name>
+   <surname>Nedumaran</surname>
+   <given-names>Swamikannu</given-names>
+  </name>
+  <xref rid="af0010" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0015">
+  <name>
+   <surname>Padmanabhan</surname>
+   <given-names>Jyosthnaa</given-names>
+  </name>
+  <xref rid="af0010" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0020">
+  <name>
+   <surname>Gumma</surname>
+   <given-names>Murali Krishna</given-names>
+  </name>
+  <xref rid="af0010" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0025">
+  <name>
+   <surname>Gummadi</surname>
+   <given-names>Sridhar</given-names>
+  </name>
+  <xref rid="af0025" ref-type="aff">e</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0030">
+  <name>
+   <surname>Srigiri</surname>
+   <given-names>Srinivas Reddy</given-names>
+  </name>
+  <xref rid="af0020" ref-type="aff">d</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0035">
+  <name>
+   <surname>Robertson</surname>
+   <given-names>Richard</given-names>
+  </name>
+  <xref rid="af0015" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0040">
+  <name>
+   <surname>Whitbread</surname>
+   <given-names>Anthony</given-names>
+  </name>
+  <xref rid="af0010" ref-type="aff">b</xref>
+ </contrib>
+ <aff id="af0005">
+  <label>a</label>Acharya NG Ranga Agricultural University, Guntur, India
+ </aff>
+ <aff id="af0010">
+  <label>b</label>International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), Patancheru 502 324, Andhra Pradesh, India
+ </aff>
+ <aff id="af0015">
+  <label>c</label>International Food Policy Research Institute, 2033 K St NW, Washington, DC 20006, USA
+ </aff>
+ <aff id="af0020">
+  <label>d</label>German Development Institute, Bonn, Germany
+ </aff>
+ <aff id="af0025">
+  <label>e</label>International Rice Research Institute, Viet Nam
+ </aff>
+</contrib-group>

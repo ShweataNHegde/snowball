@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F2" fig-type="figure" orientation="portrait" position="float">
+ <label>Fig. 2</label>
+ <caption>
+  <title>Calculation and spatial array of the LCDI.</title>
+  <p>(
+   <bold>A</bold>) Pairwise scatter plot of combined GH emissions (
+   <xref rid="F1" ref-type="fig">Fig. 1A</xref>) and projected surface temperature anomalies (
+   <xref rid="F1" ref-type="fig">Fig. 1C</xref>). LCDI is the perpendicular distance from the diagonal of the emission-temperature relationship, capturing the ratio of the vertical and horizontal change between the two datasets and reflecting the local disparity from the global emission–forcing relationship. Hollow circles represent individual 1° × 1° cells (
+   <italic>n</italic> = 64,800). (
+   <bold>B</bold>) Histogram of the global disparity shows that 99% of pixels fall above zero or occur above the diagonal line in (A). (
+   <bold>C</bold>) Global projection of LCDI across both terrestrial and marine regions. Negative values (cyan) indicate relatively more emissions than temperature shifts, whereas positive values (black and red) signal the inverse. Both panels are derived from projected near-surface warming over 2050–2099 under the IPCC RCP 8.5 scenario.
+  </p>
+ </caption>
+ <graphic xlink:href="abe4342-F2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

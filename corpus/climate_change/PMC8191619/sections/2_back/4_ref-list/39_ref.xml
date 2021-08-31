@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R39">
+ <label>39</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <string-name>
+    <surname>Maibach</surname>
+    <given-names>EW</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Nisbet</surname>
+    <given-names>M</given-names>
+   </string-name>, 
+   <string-name>
+    <surname>Baldwin</surname>
+    <given-names>P</given-names>
+   </string-name>, 
+   <etal>et al</etal>
+  </person-group>. 
+  <article-title>Reframing climate change as a public health issue: an exploratory study of public reactions</article-title>. 
+  <source>BMC Public Health</source>
+  <year>2010</year>;
+  <volume>10</volume>:
+  <elocation-id>299</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1186/1471-2458-10-299</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/20515503?>
+  <pub-id pub-id-type="pmid">20515503</pub-id>
+ </mixed-citation>
+</ref>

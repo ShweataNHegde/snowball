@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="ece37735-tbl-0003" content-type="TABLE">
+ <label>TABLE 3</label>
+ <caption>
+  <p>Niche overlap for all species. Niche breadth is on the diagonal</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <thead valign="top">
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="top" rowspan="1" colspan="1">Species</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">
+     <italic toggle="yes">asupak</italic>
+    </th>
+    <th align="left" valign="top" rowspan="1" colspan="1">
+     <italic toggle="yes">elongatus</italic>
+    </th>
+    <th align="left" valign="top" rowspan="1" colspan="1">
+     <italic toggle="yes">stormi</italic>
+    </th>
+    <th align="left" valign="top" rowspan="1" colspan="1">
+     <italic toggle="yes">elongatus‐stormi‐asupak</italic>
+    </th>
+    <th align="left" valign="top" rowspan="1" colspan="1">
+     <italic toggle="yes">idahoensis</italic>
+    </th>
+    <th align="left" valign="top" rowspan="1" colspan="1">
+     <italic toggle="yes">larselli</italic>
+    </th>
+    <th align="left" valign="top" rowspan="1" colspan="1">
+     <italic toggle="yes">vandykei</italic>
+    </th>
+    <th align="left" valign="top" rowspan="1" colspan="1">
+     <italic toggle="yes">larselli‐vandykei</italic>
+    </th>
+    <th align="left" valign="top" rowspan="1" colspan="1">
+     <italic toggle="yes">larselli‐vandykei‐idahoensis</italic>
+    </th>
+    <th align="left" valign="top" rowspan="1" colspan="1">
+     <italic toggle="yes">dunni</italic>
+    </th>
+    <th align="left" valign="top" rowspan="1" colspan="1">
+     <italic toggle="yes">vehiculum</italic>
+    </th>
+    <th align="left" valign="top" rowspan="1" colspan="1">
+     <italic toggle="yes">dunni‐vehiculum</italic>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">asupak</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">0.6045</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">elongatus</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0955</td>
+    <td align="left" rowspan="1" colspan="1">0.0136</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">stormi</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">0.0456</td>
+    <td align="left" rowspan="1" colspan="1">0.0905</td>
+    <td align="left" rowspan="1" colspan="1">0.0062</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">elongatus‐stormi‐asupak</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">0.1132</td>
+    <td align="left" rowspan="1" colspan="1">0.6808</td>
+    <td align="left" rowspan="1" colspan="1">0.2234</td>
+    <td align="left" rowspan="1" colspan="1">0.0199</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">idahoensis</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">0.1885</td>
+    <td align="left" rowspan="1" colspan="1">0.0019</td>
+    <td align="left" rowspan="1" colspan="1">0.0016</td>
+    <td align="left" rowspan="1" colspan="1">0.0053</td>
+    <td align="left" rowspan="1" colspan="1">0.0744</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">larselli</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">0.1003</td>
+    <td align="left" rowspan="1" colspan="1">0.0276</td>
+    <td align="left" rowspan="1" colspan="1">0.0012</td>
+    <td align="left" rowspan="1" colspan="1">0.0263</td>
+    <td align="left" rowspan="1" colspan="1">0.0082</td>
+    <td align="left" rowspan="1" colspan="1">0.0094</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">vandykei</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">0.1354</td>
+    <td align="left" rowspan="1" colspan="1">0.0132</td>
+    <td align="left" rowspan="1" colspan="1">0.0028</td>
+    <td align="left" rowspan="1" colspan="1">0.0085</td>
+    <td align="left" rowspan="1" colspan="1">0.0069</td>
+    <td align="left" rowspan="1" colspan="1">0.1949</td>
+    <td align="left" rowspan="1" colspan="1">0.0240</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">larselli‐vandykei</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">0.1669</td>
+    <td align="left" rowspan="1" colspan="1">0.0335</td>
+    <td align="left" rowspan="1" colspan="1">0.0028</td>
+    <td align="left" rowspan="1" colspan="1">0.0323</td>
+    <td align="left" rowspan="1" colspan="1">0.0072</td>
+    <td align="left" rowspan="1" colspan="1">0.4370</td>
+    <td align="left" rowspan="1" colspan="1">0.5937</td>
+    <td align="left" rowspan="1" colspan="1">0.0341</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">larselli‐vandykei‐idahoensis</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">0.2772</td>
+    <td align="left" rowspan="1" colspan="1">0.0204</td>
+    <td align="left" rowspan="1" colspan="1">0.0058</td>
+    <td align="left" rowspan="1" colspan="1">0.0207</td>
+    <td align="left" rowspan="1" colspan="1">0.2647</td>
+    <td align="left" rowspan="1" colspan="1">0.2737</td>
+    <td align="left" rowspan="1" colspan="1">0.4131</td>
+    <td align="left" rowspan="1" colspan="1">0.5212</td>
+    <td align="left" rowspan="1" colspan="1">0.0679</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">dunni</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">0.1681</td>
+    <td align="left" rowspan="1" colspan="1">0.1556</td>
+    <td align="left" rowspan="1" colspan="1">0.0301</td>
+    <td align="left" rowspan="1" colspan="1">0.1924</td>
+    <td align="left" rowspan="1" colspan="1">0.0094</td>
+    <td align="left" rowspan="1" colspan="1">0.2100</td>
+    <td align="left" rowspan="1" colspan="1">0.2640</td>
+    <td align="left" rowspan="1" colspan="1">0.3934</td>
+    <td align="left" rowspan="1" colspan="1">0.3281</td>
+    <td align="left" rowspan="1" colspan="1">0.0382</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">vehiculum</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">0.2230</td>
+    <td align="left" rowspan="1" colspan="1">0.0791</td>
+    <td align="left" rowspan="1" colspan="1">0.0116</td>
+    <td align="left" rowspan="1" colspan="1">0.0963</td>
+    <td align="left" rowspan="1" colspan="1">0.0068</td>
+    <td align="left" rowspan="1" colspan="1">0.2254</td>
+    <td align="left" rowspan="1" colspan="1">0.4214</td>
+    <td align="left" rowspan="1" colspan="1">0.4923</td>
+    <td align="left" rowspan="1" colspan="1">0.4099</td>
+    <td align="left" rowspan="1" colspan="1">0.5579</td>
+    <td align="left" rowspan="1" colspan="1">0.0632</td>
+    <td align="left" rowspan="1" colspan="1">NA</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">
+     <italic toggle="yes">dunni‐vehiculum</italic>
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">0.2232</td>
+    <td align="left" rowspan="1" colspan="1">0.1114</td>
+    <td align="left" rowspan="1" colspan="1">0.0123</td>
+    <td align="left" rowspan="1" colspan="1">0.1281</td>
+    <td align="left" rowspan="1" colspan="1">0.0091</td>
+    <td align="left" rowspan="1" colspan="1">0.2297</td>
+    <td align="left" rowspan="1" colspan="1">0.4168</td>
+    <td align="left" rowspan="1" colspan="1">0.4908</td>
+    <td align="left" rowspan="1" colspan="1">0.4300</td>
+    <td align="left" rowspan="1" colspan="1">0.6465</td>
+    <td align="left" rowspan="1" colspan="1">0.8674</td>
+    <td align="left" rowspan="1" colspan="1">0.0635</td>
+   </tr>
+  </tbody>
+ </table>
+ <permissions>
+  <copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder>
+ </permissions>
+</table-wrap>

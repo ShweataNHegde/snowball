@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Historical sampling can help differentiate the role of adaptive and non-adaptive forces in driving changes over time and across space. With historical samples, it is possible to directly measure the rate of allele frequency change, which is expected to be particularly high for loci under selection. A few methods have been developed to use time series allele frequency data to detect loci evolving non-neutrally (reviewed in 
+ <xref rid="B51" ref-type="bibr">Malaspinas, 2016</xref>), but more powerful methods that consider other features of genomic data, such as haplotypes, have yet to be developed.
+</p>

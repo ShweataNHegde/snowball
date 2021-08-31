@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ack id="ac0005">
+ <title>Acknowledgment</title>
+ <p id="p0300">This work was undertaken as part of the Consultative Group for International Agricultural Research (CGIAR) Program on Policies, Institutions and Markets led by IFPRI and Grain Legumes and Dryland Cereals (GLDC) led by International Crops Research Institute for the Semi-Arid Tropics (ICRISAT). Funding support for this study was from the 
+  <funding-source id="gts0005">CGIAR Research Program on Policies, Institutions, and Markets</funding-source> (PIM), and Global Futures project funded by the 
+  <funding-source id="gts0010">
+   <institution-wrap>
+    <institution-id institution-id-type="doi">10.13039/100000865</institution-id>
+    <institution>Bill &amp; Melinda Gates Foundation</institution>
+   </institution-wrap>
+  </funding-source> (OPP1009468). The co-authors, Anthony Whitbread and Sridhar Gummadi acknowledge salary support from the CGIAR Research Programs on Climate Change, Agriculture and Food Security (CCAFS) carried out with support from the CGIAR Trust Fund 
+  <ext-link ext-link-type="uri" xlink:href="https://www.cgiar.org/funders/" id="ir9015" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.cgiar.org/funders/</ext-link> and the USDA-DFID grant #59-3625-1-745 to support The 
+  <funding-source id="gts0015">Agricultural Model Intercomparison and Improvement Project</funding-source> (AgMIP). The views expressed in this document cannot be taken to reflect the official opinions of these organizations.
+ </p>
+</ack>

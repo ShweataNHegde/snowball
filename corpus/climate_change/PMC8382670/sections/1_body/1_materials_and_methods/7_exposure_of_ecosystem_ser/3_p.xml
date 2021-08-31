@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par26">Historical baseline climate data (1970–2000) from WorldClim database was used to measure the spatial gradient with 3 × 3 moving windows following the average maximum technique (Loarie et al. 
+ <xref ref-type="bibr" rid="CR56">2009</xref>; Burrows et al. 
+ <xref ref-type="bibr" rid="CR114">2011</xref>). The specific procedure was the following: for each moving window such as formula (
+ <xref rid="Equ5" ref-type="">5</xref>), spatial gradients of north–south direction were calculated as the difference for all northern and southern pairs (a–d, b–e, c–f, d–g, e–h, and f–i) within a moving window divided by the distance between them (111.325 km per degree). Same as north–south direction, spatial gradients of west–east direction were calculated as the difference for all eastern and western pairs (a–b, b–c, d–e, e–f, g–h, h–i) within a moving window divided by the distance between them [
+ <inline-formula id="IEq4">
+  <alternatives>
+   <tex-math id="M15">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${Distance}_{W-E}$$\end{document}</tex-math>
+   <math id="M16">
+    <msub>
+     <mrow>
+      <mi mathvariant="italic">Distance</mi>
+     </mrow>
+     <mrow>
+      <mi>W</mi>
+      <mo>-</mo>
+      <mi>E</mi>
+     </mrow>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="10980_2021_1320_Article_IEq4.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, see formula (
+ <xref rid="Equ6" ref-type="">6</xref>)].
+ <disp-formula id="Equ5">
+  <label>5</label>
+  <alternatives>
+   <tex-math id="M17">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\begin{array}{*{20}c} a &amp; b &amp; c \\ d &amp; e &amp; f \\ g &amp; h &amp; i \\ \end{array}$$\end{document}</tex-math>
+   <math id="M18" display="block">
+    <mrow>
+     <mtable>
+      <mtr>
+       <mtd>
+        <mi>a</mi>
+       </mtd>
+       <mtd>
+        <mi>b</mi>
+       </mtd>
+       <mtd>
+        <mi>c</mi>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mrow>
+         <mrow/>
+         <mi>d</mi>
+        </mrow>
+       </mtd>
+       <mtd>
+        <mi>e</mi>
+       </mtd>
+       <mtd>
+        <mi>f</mi>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mrow>
+         <mrow/>
+         <mi>g</mi>
+        </mrow>
+       </mtd>
+       <mtd>
+        <mi>h</mi>
+       </mtd>
+       <mtd>
+        <mi>i</mi>
+       </mtd>
+      </mtr>
+     </mtable>
+    </mrow>
+   </math>
+   <graphic xlink:href="10980_2021_1320_Article_Equ5.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>
+ <disp-formula id="Equ6">
+  <label>6</label>
+  <alternatives>
+   <tex-math id="M19">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$Distance_{W - E} = \cos \left( {lat \times \frac{\pi }{180}} \right) \times 111.325$$\end{document}</tex-math>
+   <math id="M20" display="block">
+    <mrow>
+     <mi>D</mi>
+     <mi>i</mi>
+     <mi>s</mi>
+     <mi>t</mi>
+     <mi>a</mi>
+     <mi>n</mi>
+     <mi>c</mi>
+     <msub>
+      <mi>e</mi>
+      <mrow>
+       <mi>W</mi>
+       <mo>-</mo>
+       <mi>E</mi>
+      </mrow>
+     </msub>
+     <mo>=</mo>
+     <mo>cos</mo>
+     <mfenced close=")" open="(">
+      <mrow>
+       <mi>l</mi>
+       <mi>a</mi>
+       <mi>t</mi>
+       <mo>×</mo>
+       <mfrac>
+        <mi>π</mi>
+        <mn>180</mn>
+       </mfrac>
+      </mrow>
+     </mfenced>
+     <mo>×</mo>
+     <mn>111.325</mn>
+    </mrow>
+   </math>
+   <graphic xlink:href="10980_2021_1320_Article_Equ6.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>where 
+ <inline-formula id="IEq5">
+  <alternatives>
+   <tex-math id="M21">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$lat$$\end{document}</tex-math>
+   <math id="M22">
+    <mrow>
+     <mi mathvariant="italic">lat</mi>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="10980_2021_1320_Article_IEq5.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> is the latitude of the pixel to be processed.
+</p>

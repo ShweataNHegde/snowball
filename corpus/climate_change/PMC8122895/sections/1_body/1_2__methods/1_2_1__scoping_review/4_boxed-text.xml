@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxed-text id="ijerph-18-04486-box001" position="float" orientation="portrait">
+ <label>Box 1.</label>
+ <caption>
+  <title>PubMed search string.</title>
+ </caption>
+ <p>Search ((((((((((((“Climate Change”[Mesh]) OR “Global
+  Warming”[Mesh]) OR “Global Warming”[tiab]) OR “climate change”[tiab]) OR “Greenhouse
+  Effect”[Mesh]) OR “Greenhouse Effect”[tiab]) OR “Climatic Processes”[Mesh])
+  OR “Hot Temperature”[Mesh]) OR “Climate”[Mesh]) OR “Weather”[Mesh]) OR “Weather”[tiab]))
+  AND (((((((“Mental Disorders”[Mesh]) OR “Mental Disorders”[tiab]) OR “Mental
+  Disorder”[tiab]) OR “Mental illness”[tiab]) OR “Mental illnesses”[tiab]) OR “Mental
+  Health”[Mesh]) OR “mental health”[tiab]) </p>
+</boxed-text>

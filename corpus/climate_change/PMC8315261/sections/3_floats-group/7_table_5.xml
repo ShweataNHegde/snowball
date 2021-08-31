@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab5">
+ <label>Table 5</label>
+ <caption>
+  <p>Key ‘Factors’ identified within articles divided by cognitive themes and their origination</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left"/>
+    <th align="left">Individual-Related Factors</th>
+    <th align="left">Organisation-Related Factors</th>
+    <th align="left">Society-Related Factors</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">
+     <p>
+      <italic>Cognition</italic>
+     </p>
+     <p>Extensive coverage of factors. Focus includes individual attributes (personal, moral and practice related), business operational factors (including financial, system and capability based) and implications of pressures from society</p>
+    </td>
+    <td align="left">
+     <p>Ability variables</p>
+     <p>Motivation variables</p>
+     <p>Attitudes e.g. to pollution reduction</p>
+     <p>Beliefs</p>
+     <p>Values</p>
+     <p>Awareness of stakeholders</p>
+     <p>Perceived stakeholder importance</p>
+     <p>Cognitive moral development</p>
+     <p>Moral reasoning or sustainable orientation</p>
+     <p>Past experience of success/ Failure. Success may lead to over prioritisation of primary stakeholders e.g. customers and under prioritisation of secondary stakeholders</p>
+     <p>Emotions</p>
+     <p>Environmental awareness (risk and cost–benefit)</p>
+     <p>Environmental risk awareness</p>
+     <p>Environmental cost/benefit awareness</p>
+     <p>Perceived moral intensity of environmental problem</p>
+     <p>Perceived importance of the ethical issue and context</p>
+     <p>Ethics Ethical leader with authority to act Behavioural control</p>
+     <p>Level of past corporate experience. Experience changes approach to a problem. Expert and novice differ in cognitive structure and way gather information and evaluate Job tenure</p>
+     <p>Mindfulness</p>
+     <p>Job function (neither were found supported)</p>
+     <p>Personality traits e.g. need for closure tolerance for ambiguity</p>
+     <p>Political ideologies</p>
+     <p>Post-conventional reasoners</p>
+     <p>Reflective leader</p>
+    </td>
+    <td align="left">
+     <p>Training</p>
+     <p>Connection to action and brand image and legitimacy</p>
+     <p>Consumer pressure</p>
+     <p>Corporate environmental commitment</p>
+     <p>Common ethical principles</p>
+     <p>Institutional logics (existing)</p>
+     <p>Company culture guiding employee conduct and attitudes including values, principles, believes, enviro economic, participation level</p>
+     <p>Creativity</p>
+     <p>Business processes allow individuals to create meaning</p>
+     <p>Motivation and resource bundles</p>
+     <p>Leadership values</p>
+     <p>Environmental managers attitude to stakeholder groups;</p>
+     <p>Environmental strategy Ethics embedded in governance strategies and ‘‘concerned with authenticity and change, power and authority, leadership, imagination and the creation of sustainable value’’</p>
+     <p>Innovation capability</p>
+     <p>Industrial characteristics</p>
+     <p>Institutional information availability motivation and resource bundles</p>
+     <p>Organisational structure;</p>
+     <p>Organisational characteristics Organisational capabilities</p>
+     <p>Perceived stakeholder importance</p>
+     <p>Market performance</p>
+     <p>Financial performance</p>
+     <p>Government actions</p>
+     <p>Social pressures</p>
+     <p>Type of work (role)</p>
+     <p>Industry membership</p>
+    </td>
+    <td align="left">
+     <p>Business pressure from e.g. customers, community; suppliers, competitors, and financial institutions</p>
+     <p>Stakeholder pressure from e.g. NGOs. media, governments, public organisations and local agencies.</p>
+     <p>Environment-related information</p>
+     <p>Formal stakeholder pressure e.g. law, regulation and policy and informal pressure e.g. institutions and social networks</p>
+     <p>Stakeholder attitudes</p>
+     <p>Laws, Regulations and rules;</p>
+     <p>Scientific information availability</p>
+     <p>Government intervention</p>
+     <p>Time horizon on sustainability issue</p>
+     <p>Technology</p>
+     <p>Economic discontinuities</p>
+     <p>Social norms</p>
+     <p>Social pressure. High social pressure can lead to expensive fines, clean-up costs etc</p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">
+     <p>
+      <italic>Sensemaking</italic>
+     </p>
+     <p>Focus on morality and social connection. Language and influence of others important</p>
+    </td>
+    <td align="left">
+     <p>Family</p>
+     <p>Moral identity</p>
+     <p>Environmental values</p>
+     <p>Attitudes</p>
+     <p>Moral purpose</p>
+     <p>Value set (shaped by disciplinary socialisation)</p>
+     <p>Taken for granted knowledge Recurrent practices</p>
+     <p>Language</p>
+     <p>"Imagined expectations of others"</p>
+     <p>Environmental/ecological values</p>
+    </td>
+    <td align="left">
+     <p>Profitability</p>
+     <p>Language</p>
+     <p>Institutional routines</p>
+     <p>Leadership</p>
+     <p>Work orientation Business expectations</p>
+    </td>
+    <td align="left">
+     <p>Social status</p>
+     <p>Stakeholders</p>
+     <p>National culture</p>
+     <p>Social circle</p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">
+     <p>
+      <italic>Managerial Interpretation</italic>
+     </p>
+     <p>Operationally focussed while including concept of responsibility to society</p>
+    </td>
+    <td align="left">
+     <p>Ability to identify challenges</p>
+     <p>Ability to interpret challenges</p>
+     <p>Emotional associations</p>
+     <p>Sense of control</p>
+     <p>Long term thinking</p>
+     <p>Perception and attention</p>
+     <p>Social position</p>
+    </td>
+    <td align="left">
+     <p>Discretionary slack</p>
+     <p>Employee performance evaluation</p>
+     <p>Environmental strategy</p>
+     <p>Scope of operation</p>
+     <p>Operational size</p>
+     <p>Concept of responsibility to society</p>
+     <p>Environmental issue legitimation as part of corporate identity</p>
+     <p>Financial performance</p>
+     <p>Connotation as "environmental leader" creates positive environmental associations</p>
+     <p>Moral legitimacy</p>
+     <p>Perceived role in society and approach to climate change through concept of responsibility</p>
+    </td>
+    <td align="left">
+     <p>Issue legitimation</p>
+     <p>Stakeholder pressure</p>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

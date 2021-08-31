@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig2">
+ <label>Figure 2</label>
+ <caption>
+  <p>The importance of a variable in explaining coffee suitability for all coffee and five specialty coffees in Ethiopia. Data is obtained from averages of the three individual models. Note the ‘Bio’ variable notations are following the notations used in the WorldClim database, our original database for bioclimatic variables. See 
+   <xref rid="MOESM1" ref-type="media">SI3</xref> Table for full variable names.
+  </p>
+ </caption>
+ <graphic xlink:href="41598_2021_87647_Fig2_HTML" id="MO2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par30">Data from the UKCEH Cumbrian Lakes Monitoring Programme were obtained for the four longest running time series on Blelham Tarn (BT; 1963–2017), Esthwaite Water (EW; 1957–2017), and the north (NBW; 1951–2017) and south basins (SBW; 1967–2017) of Windermere. Weekly or fortnightly temperature profile data from each lake was visually examined and years were excluded where there was insufficient profile data during the months around the onset and end of the main stratified period in summer (BT = 1, NBW = 7, SBW = 1). In addition, temperature profiles (
+ <italic>n</italic> = 7) from individual dates were removed from the whole data set where there was instrument error reported or where profiles were poorly resolved due to missing data. Water temperature data from each lake was then linearly interpolated onto a daily time step and regular depth resolution of 1 m using the interp function from the akima package in R
+ <sup>
+  <xref ref-type="bibr" rid="CR61">61</xref>
+ </sup>. The interpolated water temperature data was converted to water density using rLakeAnalyzer
+ <sup>
+  <xref ref-type="bibr" rid="CR59">59</xref>
+ </sup>, and the difference between top and bottom densities was calculated. All stratified periods in each year, for each lake, were identified, with the start day of the main summer stratified period considered to be the latest day before day of year 200 where a stratified period had a duration &gt;14 days, and the end day was defined as the final day of stratification for that stratified period.
+</p>

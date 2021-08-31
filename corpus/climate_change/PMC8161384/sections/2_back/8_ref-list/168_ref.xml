@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B168-genes-12-00783">
+ <label>168.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Arruda</surname>
+    <given-names>M.P.</given-names>
+   </name>
+   <name>
+    <surname>Brown</surname>
+    <given-names>P.J.</given-names>
+   </name>
+   <name>
+    <surname>Lipka</surname>
+    <given-names>A.E.</given-names>
+   </name>
+   <name>
+    <surname>Krill</surname>
+    <given-names>A.M.</given-names>
+   </name>
+   <name>
+    <surname>Thurber</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Kolb</surname>
+    <given-names>F.L.</given-names>
+   </name>
+  </person-group>
+  <article-title>Genomic Selection for Predicting 
+   <italic>Fusarium</italic> Head Blight Resistance in a Wheat Breeding Program
+  </article-title>
+  <source>Plant. Genome</source>
+  <year>2015</year>
+  <fpage>8</fpage>
+  <pub-id pub-id-type="doi">10.3835/plantgenome2015.01.0003</pub-id>
+  <?supplied-pmid 33228272?>
+  <pub-id pub-id-type="pmid">33228272</pub-id>
+ </element-citation>
+</ref>

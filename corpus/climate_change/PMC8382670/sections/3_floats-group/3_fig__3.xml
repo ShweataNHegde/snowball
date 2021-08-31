@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig3">
+ <label>Fig. 3</label>
+ <caption>
+  <p>Flow chart of detection of the association of sensitivity of ecosystem services to climate change. 
+   <bold>a</bold> Different colours represent different states, describing the direction of sensitivity of single ecosystem service to precipitation and temperature (positive or negative). For example, blue colour (positive–negative) represents the pixel’s sensitivity to precipitation is positive and that to temperature is negative. 
+   <bold>b</bold> Illustrates the direction of sensitivity of two types of ecosystem service (ES1 and ES2) to temperature/precipitation. 
+   <bold>b</bold> The blue colour represents the sensitivity of ES1 to temperature (precipitation) is positive, and the sensitivity of ES2 to temperature (precipitation) is negative in this pixel. “perc1-4” and the length of the bar means the proportion (%) of the pixel area in the four states, respectively. "r1-4" means the Spearman correlation coefficient between the sensitivity of ecosystem services to temperature and/or precipitation. See method for more explanation
+  </p>
+ </caption>
+ <graphic xlink:href="10980_2021_1320_Fig3_HTML" id="MO3" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

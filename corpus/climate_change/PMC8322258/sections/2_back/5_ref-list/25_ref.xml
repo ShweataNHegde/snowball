@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR25">
+ <label>25.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Soares</surname>
+    <given-names>PMM</given-names>
+   </name>
+   <name>
+    <surname>Cardoso</surname>
+    <given-names>RM</given-names>
+   </name>
+   <name>
+    <surname>Lima</surname>
+    <given-names>DCA</given-names>
+   </name>
+   <name>
+    <surname>Miranda</surname>
+    <given-names>PMA</given-names>
+   </name>
+  </person-group>
+  <article-title>Future precipitation in Portugal: High-resolution projections using WRF model and EURO-CORDEX multi-model ensembles</article-title>
+  <source>Clim. Dyn.</source>
+  <year>2017</year>
+  <volume>49</volume>
+  <fpage>2503</fpage>
+  <lpage>2530</lpage>
+  <pub-id pub-id-type="doi">10.1007/s00382-016-3455-2</pub-id>
+ </element-citation>
+</ref>

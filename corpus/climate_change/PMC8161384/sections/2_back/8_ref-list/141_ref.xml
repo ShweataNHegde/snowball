@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B141-genes-12-00783">
+ <label>141.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Roorkiwal</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Rathore</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Das</surname>
+    <given-names>R.R.</given-names>
+   </name>
+   <name>
+    <surname>Singh</surname>
+    <given-names>M.K.</given-names>
+   </name>
+   <name>
+    <surname>Jain</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Srinivasan</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Gaur</surname>
+    <given-names>P.M.</given-names>
+   </name>
+   <name>
+    <surname>Chellapilla</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Tripathi</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Genome-Enabled Prediction Models for Yield Related Traits in Chickpea</article-title>
+  <source>Front. Plant. Sci.</source>
+  <year>2016</year>
+  <fpage>7</fpage>
+  <pub-id pub-id-type="doi">10.3389/fpls.2016.01666</pub-id>
+  <pub-id pub-id-type="pmid">26870046</pub-id>
+ </element-citation>
+</ref>

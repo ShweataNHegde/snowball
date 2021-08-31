@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B132-genes-12-00783">
+ <label>132.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Crossa</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Martini</surname>
+    <given-names>J.W.R.</given-names>
+   </name>
+   <name>
+    <surname>Gianola</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Perez-Rodriguez</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Jarquin</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Juliana</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Montesinos-Lopez</surname>
+    <given-names>O.</given-names>
+   </name>
+   <name>
+    <surname>Cuevas</surname>
+    <given-names>J.</given-names>
+   </name>
+  </person-group>
+  <article-title>Deep Kernel and Deep Learning for Genome-Based Prediction of Single Traits in Multienvironment Breeding Trials</article-title>
+  <source>Front. Genet.</source>
+  <year>2019</year>
+  <volume>10</volume>
+  <fpage>1168</fpage>
+  <pub-id pub-id-type="doi">10.3389/fgene.2019.01168</pub-id>
+  <?supplied-pmid 31921277?>
+  <pub-id pub-id-type="pmid">31921277</pub-id>
+ </element-citation>
+</ref>

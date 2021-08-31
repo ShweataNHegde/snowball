@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig3" position="float">
+ <label>Figure 3</label>
+ <caption>
+  <p>Avalanche fatalities in the Swiss Alps for the 40-year period 1978–1979 to 2017–2018 in relation to snow cover duration, expressed as snow day anomaly. Snow day anomaly refers to the deviation from the mean number of snow days. Snow days are days with snow depth &gt;50 cm for a group of seven measurement stations in the Swiss Alps at 1,300–1,800 m. The 30-year mean (1961–1990) is 89 days (
+   <xref rid="ref42" ref-type="bibr">Marty, 2008</xref>). Open circles show individual values, in blue for years with low snow and in red for years with high snow. Box plots to left and right show the distribution characteristics. The median numbers of fatalities were 24 in low snow years and 22 in high snow years. The difference between the two groups is not statistically significant (U-Test, 
+   <italic>p</italic> = 0.28). Same presentation of box plots as described in 
+   <xref rid="fig2" ref-type="fig">Figure 2</xref>; asterisks show outliers.
+  </p>
+ </caption>
+ <graphic xlink:href="fphys-12-639433-g003" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

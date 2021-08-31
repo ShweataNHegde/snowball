@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The spatial resolution of our global emission index was reduced to accommodate the coarser 1° × 1° resolution CMIP5 climate outputs (
+ <xref rid="R19" ref-type="bibr">
+  <italic>19</italic>
+ </xref>). The resolution of our LCDI therefore presents limited information over small spatial units with few pixels (e.g., Kuwait and Connecticut). Comparisons between regional units of varying extents should also be viewed considering the underlying sample size of each unit. Furthermore, as GH emissions are concentrated on but not limited to land (
+ <xref rid="F1" ref-type="fig">Fig. 1A</xref>), LCDI comparisons between UN member states with and without extensive exclusive economic zones (EEZs) should be exercised with appropriate interpretation and inference. Future LCDI analyses that incorporate regionally downscaled global climate outputs can account for mesoscale climatic variability and may better inform regional LCDI comparisons. Using the CMIP5 output, the aim of our LCDI is to generate this information locally while providing true global coverage.
+</p>

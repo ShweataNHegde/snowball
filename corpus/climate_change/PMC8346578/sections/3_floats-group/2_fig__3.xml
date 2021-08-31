@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig3">
+ <label>Fig. 3</label>
+ <caption>
+  <title>Species’ range shift through time, along a latitudinal gradient ranging from polar to tropical climates (ordinate).</title>
+  <p>Species distributions are shown by colored curves, with the height of each curve representing local density in a single replicate (abscissa; note the different scales in the panels), with the color indicating the species' initial (i.e., at 
+   <italic>t</italic> = 0) temperature adaptation. The model was run with only 10 species, for better visibility. The color of each species indicates its temperature adaptation at the start of the climate change period, with warmer colors belonging to species with a higher temperature optimum associated with higher latitudes. Rows correspond to a specific combination of genetic variance and dispersal ability of species, columns show species densities at different times (
+   <italic>t</italic> = 0 start of climate change, 
+   <italic>t</italic> = 300 end of climate change, 
+   <italic>t</italic> = 2500 end of simulations). Each panel corresponds to a different model setup; 
+   <bold>a</bold> the baseline model, 
+   <bold>b</bold> an added trophic level of consumers, 
+   <bold>c</bold> temperature-dependent competition coefficients, and 
+   <bold>d</bold> the combined influence of consumers and temperature-dependent competition.
+  </p>
+ </caption>
+ <graphic xlink:href="41467_2021_24977_Fig3_HTML" id="d32e634" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>
