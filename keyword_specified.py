@@ -3,7 +3,10 @@ import glob
 import xml.etree.ElementTree as ET
 import subprocess
 import logging
+import re
+import pandas as pd
 from pprint import pprint
+keywords_dictionary = {}
 
 logging.basicConfig(level=logging.INFO)
 
@@ -20,15 +23,15 @@ def querying_pygetpapers_sectioning(query, hits, output_directory, using_terms =
     """
     logging.info('querying pygetpapers')
     if using_terms:
-        subprocess.run(f'pygetpapers -q "{query}" -k {hits} -o {output_directory} -x --terms {terms_txt}',
+        subprocess.run(f'pygetpapers -q "{query}" -k {hits} -o {output_directory} -x --terms {terms_txt} --logfile pygetpapers_log.txt',
                                 shell=True)
     else:  
-        subprocess.run(f'pygetpapers -q "{query}" -k {hits} -o {output_directory} -x', 
+        subprocess.run(f'pygetpapers -q "{query}" -k {hits} -o {output_directory} -x  --logfile pygetpapers_log.txt', 
                                 shell=True)
     logging.info('running ami section')
     subprocess.run(f'ami -p {output_directory} section', shell=True)
 
-def parse_xml(output_directory, section='kwd'):
+def get_keyword_path(output_directory, section='kwd'):
     """globs for keywords section, parses keywords and writes to a text file
 
     Args:
@@ -40,36 +43,57 @@ def parse_xml(output_directory, section='kwd'):
     glob_results = glob.glob(os.path.join(WORKING_DIRECTORY,
                                           output_directory,"*", "sections",
                                           "0_front","1_article-meta",  f"*{section}*.xml"), recursive = True)
-    logging.info(f'no.of globbed_xml: {print(len(glob_results))}')
-    pprint(glob_results)
+    logging.info(f'no.of globbed_xml: {(len(glob_results))}')
+    keywords_dictionary["glob"] = glob_results
+
+def parse_xml_get_keywords(keywords_dictionary=keywords_dictionary):
     keywords_list = []
-    for result in glob_results:
+    for result in keywords_dictionary["glob"]:
         tree = ET.parse(result)
         root = tree.getroot()
+        ind_keywords = []
         for keyword in root.iter('kwd'):
-            keywords_list.append(keyword.text)
-    logging.info(f'list of keywords{keywords_list}')
+            ind_keywords.append(keyword.text)
+        keywords_list.append(ind_keywords)
+    keywords_dictionary["keywords"] = keywords_list
+    logging.info("getting keywords")
+
+def get_PMCIDS(keywords_dictionary=keywords_dictionary):
+    PMCIDS = []
+    for result in keywords_dictionary["glob"]:
+        split_path = result.split('\\')
+        r = re.compile(".*PMC")
+        PMCID = (list(filter(r.match, split_path)))
+        PMCIDS.append(PMCID)
+    keywords_dictionary["PMCIDS"] = PMCIDS
+    logging.info('getting PMCIDs')
+
+def convert_to_csv(path='keywords.csv', keywords_dictionary=keywords_dictionary):
+    df = pd.DataFrame(keywords_dictionary)
+    df.to_csv(path, encoding='utf-8', line_terminator='\r\n')
+    logging.info('writing the keywords to csv')
+
+CPROJECT = os.path.join(os.getcwd(), 'corpus', 'invasion_biology_100')
+#querying_pygetpapers_sectioning('(invasive species)', '100', CPROJECT)
+get_keyword_path(CPROJECT)
+parse_xml_get_keywords()
+get_PMCIDS()
+convert_to_csv()
+
+
+'''
     PMCID = []
     for result in glob_results:
+       
         split_path = result.split('\\')
         PMCID.append(split_path[6])
 
     PMCID_set = set(PMCID)
     unique_PMC = list(PMCID_set)
     print(len(unique_PMC))
+    result = 'C:\\Users\\shweata\\snowball\\corpus\\cyclic_voltammetry_20210824_1\\PMC8004831\\sections\\0_front\\1_article-meta\\19_kwd-group.xml'
+    split_path = result.split('\\')
+    r = re.compile(".*PMC")
+    print(list(filter(r.match, split_path)))
+'''
 
-def get_unique_ids(glob_results):
-
-    PMCID = []
-    for result in glob_results:
-        split_path = result.split('\\')
-        PMCID.append(split_path[7])
-
-    PMCID_set = set(PMCID)
-    unique_PMC = list(PMCID_set)
-    print(len(unique_PMC))
-
-CPROJECT = os.path.join(os.getcwd(), 'corpus', 'climate_change')
-
-#querying_pygetpapers_sectioning('climate change', '50', CPROJECT)
-parse_xml(CPROJECT)
