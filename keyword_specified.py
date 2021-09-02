@@ -5,7 +5,7 @@ import subprocess
 import logging
 import re
 import pandas as pd
-from pprint import pprint
+#from pprint import pprint
 keywords_dictionary = {}
 
 logging.basicConfig(level=logging.INFO)
@@ -64,10 +64,25 @@ def get_PMCIDS(keywords_dictionary=keywords_dictionary):
         split_path = result.split('\\')
         r = re.compile(".*PMC")
         PMCID = (list(filter(r.match, split_path)))
-        PMCIDS.append(PMCID)
+        PMCIDS.extend(PMCID)
     keywords_dictionary["PMCIDS"] = PMCIDS
     logging.info('getting PMCIDs')
 
+def get_abstract_path(output_directory, section='abstract', keywords_dictionary=keywords_dictionary):
+    """globs for keywords section, parses keywords and writes to a text file
+
+    Args:
+        output_directory (str): path to CProject
+        results_txt (str): name of text file where keywords are stored
+        section (str, optional): [description]. Defaults to 'kwd'.
+    """
+    WORKING_DIRECTORY = os.getcwd()
+    for PMCID in keywords_dictionary["PMCIDS"]:
+        glob_results_ab = glob.glob(os.path.join(WORKING_DIRECTORY,
+                                            output_directory,f"{PMCID}", "sections",
+                                            "0_front","1_article-meta",  f"*{section}*.xml"), recursive = True)
+
+    keywords_dictionary["abstract"] = glob_results_ab
 def convert_to_csv(path='keywords.csv', keywords_dictionary=keywords_dictionary):
     df = pd.DataFrame(keywords_dictionary)
     df.to_csv(path, encoding='utf-8', line_terminator='\r\n')
@@ -78,6 +93,7 @@ CPROJECT = os.path.join(os.getcwd(), 'corpus', 'invasion_biology_100')
 get_keyword_path(CPROJECT)
 parse_xml_get_keywords()
 get_PMCIDS()
+get_abstract_path(CPROJECT)
 convert_to_csv()
 
 
