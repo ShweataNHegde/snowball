@@ -3,7 +3,6 @@ import logging
 import subprocess
 import glob
 import json
-from pprint import pprint 
 import pandas as pd
 import yake
 import spacy
@@ -36,7 +35,6 @@ def get_metadata_json(output_directory):
     WORKING_DIRECTORY = os.getcwd()
     glob_results = glob.glob(os.path.join(WORKING_DIRECTORY,
                                           output_directory,"*", 'eupmc_result.json'))
-    #logging.info(f'no.of globbed_xml: {(len(glob_results))}')
     metadata_dictionary["metadata_json"] = glob_results
 
 def get_PMCIDS(metadata_dictionary=metadata_dictionary):
@@ -98,13 +96,11 @@ def get_organism(metadata_dictionary=metadata_dictionary):
         for ent in doc.ents:
             if ent.label_ == 'GENE_OR_GENE_PRODUCT':
                 entity.append(ent)
-
         all_entities.append(entity)
-    #print(len(all_entities))
     metadata_dictionary["entities"] = all_entities
     logging.info("NER using SciSpacy - looking for ORGANISMS")
 
-def convert_to_csv(path='keywords_abstract_yake_organism_pmcid_tps_cam.csv', metadata_dictionary=metadata_dictionary):
+def convert_to_csv(path='keywords_abstract_yake_organism_pmcid_tps_cam_ter.csv', metadata_dictionary=metadata_dictionary):
     df = pd.DataFrame(metadata_dictionary)
     df.to_csv(path, encoding='utf-8', line_terminator='\r\n')
     logging.info(f'writing the keywords to {path}')
@@ -118,6 +114,17 @@ def look_for_tps(metadata_dictionary=metadata_dictionary, search_for="TPS"):
     metadata_dictionary[f"{search_for}_match"] = all_matches
     logging.info(f"looking for {search_for} in abstract")
 
+def add_if_file_contains_terms(metadata_dictionary=metadata_dictionary, terms=['terpene synthase']):
+    metadata_dictionary["terms"] = []
+    for term in terms:
+        for abstract in metadata_dictionary["abstract"]:
+            if term.lower() in abstract.lower():
+                metadata_dictionary["terms"].append(term) 
+            else:
+                metadata_dictionary["terms"].append('NaN')
+    logging.info('looking for term matches')
+
+# Calling all functions
 CPROJECT = os.path.join(os.getcwd(), 'corpus', 'tps_camellia')
 #querying_pygetpapers_sectioning("terpene synthase volatile Camellia AND (((SRC:MED OR SRC:PMC OR SRC:AGR OR SRC:CBA) NOT (PUB_TYPE:'Review')))",
 # '100',
@@ -130,8 +137,7 @@ key_phrase_extraction()
 get_organism()
 look_for_tps()
 look_for_tps(search_for='Camellia')
+add_if_file_contains_terms()
 convert_to_csv()
-
-#pprint(metadata_dictionary)
 
 
