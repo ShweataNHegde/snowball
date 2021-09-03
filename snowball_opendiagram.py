@@ -52,7 +52,7 @@ def parse_xml(output_directory, results_txt, body_section='figure'):
             '\n', '')
         print(text, file = file1)
     logging.info(f'wrote text to {results_txt}')
-   
+    
 def key_phrase_extraction(results_txt, terms_txt):
     """extract key phrases from the text file with parsed xml and saves the phrases in a text file (comma-separated)
 
@@ -63,11 +63,11 @@ def key_phrase_extraction(results_txt, terms_txt):
     text = pathlib.Path(results_txt).read_text(encoding='utf-8')
     custom_kw_extractor = yake.KeywordExtractor(lan='en', n=2, top=50, features=None)
     keywords = custom_kw_extractor.extract_keywords(text)
-
     keywords_list = []
     for kw in keywords:
         keywords_list.append(kw[0])
     logging.info('extracted key phrases')
+    
     keywords_list_string = ', '.join(str(i) for i in keywords_list)
     with open(terms_txt, 'w', encoding='utf-8') as fo:
         fo.write(keywords_list_string)
@@ -78,13 +78,13 @@ OD_QUERY = '(cyclic voltammetry) AND batteries'
 OD_HITS = '50'
 OD_OUTPUT='cyclic_voltammetry_20210824_1'
 OD_RESULTS= 'cyclic_volammtery_1.txt'
-OD_TERMS = 'terms_1.txt'
 OD_OUTPUT_2 = 'cyclic_voltammetry_2'
-#OD_RESULTS_2= 'cyclic_volammtery_2.txt'
+OD_RESULTS_2= 'cyclic_volammtery_2.txt'
+OS_CUSTOM_TERMS = os.path.join(os.getcwd(), 'custom_terms_list.txt')
 
 
 querying_pygetpapers_sectioning(OD_QUERY, OD_HITS, OD_OUTPUT)
 parse_xml(OD_OUTPUT,OD_RESULTS)
 key_phrase_extraction(OD_RESULTS, OD_TERMS)
-#querying_pygetpapers_sectioning(OD_QUERY, OD_HITS, OD_OUTPUT_2, using_terms=True, terms_txt=OD_TERMS)
+querying_pygetpapers_sectioning(OD_QUERY, OD_HITS, OD_OUTPUT_2, using_terms=True, terms_txt=OS_CUSTOM_TERMS)
 
