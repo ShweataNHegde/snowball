@@ -58,7 +58,7 @@ def get_PMCIDS(metadata_dictionary=metadata_dictionary):
     logging.info('getting PMCIDs')
 
 
-def parse_xml(output_directory, metadata_dictionary=metadata_dictionary, section='result'):
+def parse_xml(output_directory, section, metadata_dictionary=metadata_dictionary):
     metadata_dictionary[f"{section}"] = []
     for pmc in metadata_dictionary["PMCIDS"]:
         paragraphs = []
@@ -75,6 +75,7 @@ def parse_xml(output_directory, metadata_dictionary=metadata_dictionary, section
             paragraphs.append(text)
         concated_paragraph = ' '.join(paragraphs)
         metadata_dictionary[f"{section}"].append(concated_paragraph)
+    logging.info(f"parsing {section}")
 
 
 def get_abstract(metadata_dictionary=metadata_dictionary):
@@ -86,9 +87,9 @@ def get_abstract(metadata_dictionary=metadata_dictionary):
             try:
                 raw_abstract = metadata_in_json["full"]["abstractText"]
                 abstract = TAG_RE.sub(' ', raw_abstract)
-                metadata_dictionary["abstract"] .append(abstract)
+                metadata_dictionary["abstract"].append(abstract)
             except KeyError:
-                metadata_dictionary["abstract"] .append('NaN')
+                metadata_dictionary["abstract"].append('NaN')
     logging.info("getting the abstracts")
 
 
@@ -107,10 +108,10 @@ def get_keywords(metadata_dictionary=metadata_dictionary):
 
 def key_phrase_extraction(section, metadata_dictionary=metadata_dictionary):
     metadata_dictionary["yake_keywords"] = []
-    for abstract in metadata_dictionary[f"{section}"]:
+    for text in metadata_dictionary[f"{section}"]:
         custom_kw_extractor = yake.KeywordExtractor(
             lan='en', n=2, top=10, features=None)
-        keywords = custom_kw_extractor.extract_keywords(abstract)
+        keywords = custom_kw_extractor.extract_keywords(text)
         keywords_list = []
         for kw in keywords:
             keywords_list.append(kw[0])
@@ -121,9 +122,9 @@ def key_phrase_extraction(section, metadata_dictionary=metadata_dictionary):
 def get_organism(section, metadata_dictionary=metadata_dictionary):
     nlp = spacy.load("en_ner_bionlp13cg_md")
     metadata_dictionary["entities"] = []
-    for abstract in metadata_dictionary[f"{section}"]:
+    for text in metadata_dictionary[f"{section}"]:
         entity = []
-        doc = nlp(abstract)
+        doc = nlp(text)
         for ent in doc.ents:
             if ent.label_ == 'GENE_OR_GENE_PRODUCT':
                 entity.append(ent)
@@ -137,10 +138,10 @@ def convert_to_csv(path='keywords_results_yake_organism_pmcid_tps_cam_ter_c.csv'
     logging.info(f'writing the keywords to {path}')
 
 
-def look_for_tps(section, metadata_dictionary=metadata_dictionary, search_for="TPS"):
+def look_for_a_word(section, metadata_dictionary=metadata_dictionary, search_for="TPS"):
     metadata_dictionary[f"{search_for}_match"] = []
-    for abstract in metadata_dictionary[f"{section}"]:
-        words = abstract.split(" ")
+    for text in metadata_dictionary[f"{section}"]:
+        words = text.split(" ")
         match_list = ([s for s in words if f"{search_for}" in s])
         metadata_dictionary[f"{search_for}_match"] .append(match_list)
     logging.info(f"looking for {search_for} in abstract")
@@ -149,28 +150,29 @@ def look_for_tps(section, metadata_dictionary=metadata_dictionary, search_for="T
 def add_if_file_contains_terms(section, metadata_dictionary=metadata_dictionary, terms=['terpene synthase']):
     metadata_dictionary["terms"] = []
     for term in terms:
-        for abstract in metadata_dictionary[f"{section}"]:
-            if term.lower() in abstract.lower():
+        for text in metadata_dictionary[f"{section}"]:
+            if term.lower() in text.lower():
                 metadata_dictionary["terms"].append(term)
             else:
                 metadata_dictionary["terms"].append('NaN')
     logging.info('looking for term matches')
 
 
-# Calling all functions
+
 CPROJECT = os.path.join(os.getcwd(), 'corpus', 'tps_camellia')
+SECTION= 'method'
 # querying_pygetpapers_sectioning("terpene synthase volatile Camellia AND (((SRC:MED OR SRC:PMC OR SRC:AGR OR SRC:CBA) NOT (PUB_TYPE:'Review')))",
 # '100',
 #  CPROJECT)
 get_metadata_json(CPROJECT)
 get_PMCIDS()
-parse_xml(CPROJECT)
+parse_xml(CPROJECT, SECTION)
 get_abstract()
 get_keywords()
-key_phrase_extraction('result')
-get_organism('result')
-look_for_tps('result')
-look_for_tps('result', search_for="C.")
-look_for_tps('result', search_for='Camellia')
-add_if_file_contains_terms('result')
-convert_to_csv('camelia_full_search.csv')
+key_phrase_extraction(SECTION)
+get_organism(SECTION)
+look_for_a_word(SECTION)
+look_for_a_word(SECTION, search_for="C.")
+look_for_a_word(SECTION, search_for='Camellia')
+add_if_file_contains_terms(SECTION)
+convert_to_csv(f'camelia_full_search_{SECTION}.csv')
