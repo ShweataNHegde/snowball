@@ -42,6 +42,7 @@ def get_metadata_json(output_directory):
     glob_results = glob.glob(os.path.join(WORKING_DIRECTORY,
                                           output_directory, "*", 'eupmc_result.json'))
     metadata_dictionary["metadata_json"] = glob_results
+    print(len(metadata_dictionary["metadata_json"]))
 
 
 def get_PMCIDS(metadata_dictionary=metadata_dictionary):
@@ -54,31 +55,32 @@ def get_PMCIDS(metadata_dictionary=metadata_dictionary):
                     metadata_in_json["full"]["pmcid"])
             except KeyError:
                 metadata_dictionary["PMCIDS"].append('NaN')
-    print(metadata_dictionary)
     logging.info('getting PMCIDs')
 
+
 def parse_xml(output_directory, metadata_dictionary=metadata_dictionary, section='result'):
-    metadata_dictionary[f"{section}"] = [] 
-    for pmc in metadata_dictionary["PMCIDS"]: 
-        paragraphs = [] 
-        test_glob = glob.glob(os.path.join(os.getcwd(), output_directory, 
-                                pmc, 'sections', '**', f'*{section}*', '**', '*_p.xml'),
-                                recursive=True)
+    metadata_dictionary[f"{section}"] = []
+    for pmc in metadata_dictionary["PMCIDS"]:
+        paragraphs = []
+        test_glob = glob.glob(os.path.join(os.getcwd(), output_directory,
+                                           pmc, 'sections', '**', f'*{section}*', '**', '*_p.xml'),
+                              recursive=True)
         for result in test_glob:
             tree = ET.parse(result)
             root = tree.getroot()
             xmlstr = ET.tostring(root, encoding='utf8', method='xml')
             soup = BeautifulSoup(xmlstr, features='lxml')
             text = soup.get_text(separator="")
-            text = text.replace( '\n', '')
+            text = text.replace('\n', '')
             paragraphs.append(text)
-            concated_paragraph = ' '.join(paragraphs)
+        concated_paragraph = ' '.join(paragraphs)
         metadata_dictionary[f"{section}"].append(concated_paragraph)
+    print((metadata_dictionary[f"{section}"]))
 
 
 def get_abstract(metadata_dictionary=metadata_dictionary):
     TAG_RE = re.compile(r"<[^>]+>")
-    metadata_dictionary["abstract"]  = []
+    metadata_dictionary["abstract"] = []
     for metadata in metadata_dictionary["metadata_json"]:
         with open(metadata) as f:
             metadata_in_json = json.load(f)
@@ -138,7 +140,7 @@ def convert_to_csv(path='keywords_results_yake_organism_pmcid_tps_cam_ter_c.csv'
 
 
 def look_for_tps(section, metadata_dictionary=metadata_dictionary, search_for="TPS"):
-    metadata_dictionary[f"{search_for}_match"]  = []
+    metadata_dictionary[f"{search_for}_match"] = []
     for abstract in metadata_dictionary[f"{section}"]:
         words = abstract.split(" ")
         match_list = ([s for s in words if f"{search_for}" in s])
@@ -163,15 +165,14 @@ CPROJECT = os.path.join(os.getcwd(), 'corpus', 'tps_camellia')
 # '100',
 #  CPROJECT)
 get_metadata_json(CPROJECT)
-#parse_xml(CPROJECT)
 get_PMCIDS()
-
-#get_abstract()
-#get_keywords()
-#key_phrase_extraction()
-#get_organism()
-#look_for_tps()
-#look_for_tps(search_for="C.")
-#look_for_tps(search_for='Camellia')
-#add_if_file_contains_terms()
-#convert_to_csv()
+parse_xml(CPROJECT)
+get_abstract()
+get_keywords()
+key_phrase_extraction('result')
+get_organism('result')
+look_for_tps('result')
+look_for_tps('result', search_for="C.")
+look_for_tps('result', search_for='Camellia')
+add_if_file_contains_terms('result')
+convert_to_csv('camelia_full_search.csv')
