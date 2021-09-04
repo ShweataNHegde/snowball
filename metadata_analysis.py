@@ -75,7 +75,6 @@ def parse_xml(output_directory, metadata_dictionary=metadata_dictionary, section
             paragraphs.append(text)
         concated_paragraph = ' '.join(paragraphs)
         metadata_dictionary[f"{section}"].append(concated_paragraph)
-    print((metadata_dictionary[f"{section}"]))
 
 
 def get_abstract(metadata_dictionary=metadata_dictionary):
@@ -117,7 +116,6 @@ def key_phrase_extraction(section, metadata_dictionary=metadata_dictionary):
             keywords_list.append(kw[0])
         metadata_dictionary["yake_keywords"].append(keywords_list)
     logging.info('extracted key phrases')
-    return metadata_dictionary
 
 
 def get_organism(section, metadata_dictionary=metadata_dictionary):
